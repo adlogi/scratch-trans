@@ -1,0 +1,1930 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2007-10-28\n"
+"PO-Revision-Date: 2011-10-16 15:23-0400\n"
+"Last-Translator: Mihai Agape <mihai_agape@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 1.2.1\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Română"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1"
+
+# Set to 'true' or 'false'&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "Verdana"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "Verdana"
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "DejaVu Sans"
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "valoarea senzorului %H"
+
+msgid "%L contains %s"
+msgstr "%L conține %s"
+
+msgid "%a of %m"
+msgstr "%a din %m"
+
+# Using characters with diacritics makes input more difficult for younger children. I suggest latin 1 set.
+msgid "%b and %b"
+msgstr "%b si %b"
+
+msgid "%b or %b"
+msgstr "%b sau %b"
+
+msgid "%f of %n"
+msgstr "%f din %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "aduna %s la %L"
+
+msgid "answer"
+msgstr "raspuns"
+
+msgid "ask %s and wait"
+msgstr "intreaba %s si asteapta"
+
+msgid "background #"
+msgstr "fundal #"
+
+msgid "broadcast %e"
+msgstr "expediere la toti %e"
+
+msgid "broadcast %e and wait"
+msgstr "expediere la toti %e si asteapta"
+
+msgid "change %g effect by %n"
+msgstr "modifica efectul %g cu %n"
+
+msgid "change %v by %n"
+msgstr "modifica %v cu %n"
+
+msgid "change pen color by %n"
+msgstr "modifica culoarea stiloului cu %n"
+
+msgid "change pen shade by %n"
+msgstr "modifica tonul stiloului cu %n"
+
+msgid "change pen size by %n"
+msgstr "modifica marimea stiloului cu %n"
+
+msgid "change size by %n"
+msgstr "modifica marimea cu %n"
+
+msgid "change tempo by %n"
+msgstr "modifica tempoul cu %n"
+
+msgid "change volume by %n"
+msgstr "modifica volumul cu %n"
+
+msgid "change x by %n"
+msgstr "modifica x cu %n"
+
+msgid "change y by %n"
+msgstr "modifica y cu %n"
+
+msgid "clear"
+msgstr "sterge"
+
+msgid "clear graphic effects"
+msgstr "sterge efectele grafice"
+
+msgid "color %C is touching %C?"
+msgstr "culoarea %C atinge %C?"
+
+msgid "control"
+msgstr "control"
+
+msgid "costume #"
+msgstr "costumul #"
+
+msgid "delete %y of %L"
+msgstr "sterge %y din %L"
+
+msgid "direction"
+msgstr "directie"
+
+msgid "distance to %m"
+msgstr "distanta pana la %m"
+
+msgid "else"
+msgstr "altfel"
+
+msgid "forever"
+msgstr "pentru totdeauna"
+
+msgid "forever if %b"
+msgstr "pentru totdeauna daca %b"
+
+# muta means move - keeping it for glide too would create confusions. direct translation is aluneca.
+msgid "glide %n secs to x:%n y:%n"
+msgstr "aluneca in %n secunde la x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "mergi inapoi %n straturi"
+
+msgid "go to %m"
+msgstr "du-te la %m"
+
+# inceput means beginning. the idea of front is better surprised by suprafata (surface) - a direct translation would be front but harder to understand.
+msgid "go to front"
+msgstr "du-te in prim plan"
+
+msgid "go to x:%n y:%n"
+msgstr "du-te la x:%n y:%n"
+
+msgid "hide"
+msgstr "ascunde"
+
+msgid "hide variable %v"
+msgstr "ascunde variabila %v"
+
+msgid "if %b"
+msgstr "daca %b"
+
+msgid "if on edge, bounce"
+msgstr "daca se afla pe margine, ricoseaza"
+
+msgid "insert %s at %i of %L"
+msgstr "insereaza %s la %i din %L"
+
+msgid "item %i of %L"
+msgstr "articolul %i din %L"
+
+msgid "join %s %s"
+msgstr "alatura %s %s"
+
+msgid "key %k pressed?"
+msgstr "tasta %k este apasata?"
+
+msgid "length of %L"
+msgstr "lungimea lui %L"
+
+msgid "length of %s"
+msgstr "lungimea lui %s"
+
+msgid "letter %n of %s"
+msgstr "litera %n din %s"
+
+msgid "list"
+msgstr "lista"
+
+msgid "looks"
+msgstr "aspect"
+
+msgid "loud?"
+msgstr "sunet puternic?"
+
+msgid "loudness"
+msgstr "volum sonor"
+
+msgid "motion"
+msgstr "miscare"
+
+msgid "motor direction %W"
+msgstr "sensul de rotatie al motorului %W"
+
+msgid "motor off"
+msgstr "motor oprit"
+
+msgid "motor on"
+msgstr "motor pornit"
+
+msgid "motor on for %n secs"
+msgstr "motor pornit pentru %n sec"
+
+msgid "motor power %n"
+msgstr "turatia motorului %n"
+
+msgid "mouse down?"
+msgstr "mouse apasat?"
+
+msgid "mouse x"
+msgstr "mouse x"
+
+msgid "mouse y"
+msgstr "mouse y"
+
+msgid "move %n steps"
+msgstr "muta %n pasi"
+
+msgid "next background"
+msgstr "urmatorul fundal"
+
+msgid "next costume"
+msgstr "urmatorul costum"
+
+msgid "not %b"
+msgstr "nu %b"
+
+msgid "operators"
+msgstr "operatori"
+
+msgid "pen"
+msgstr "stilou"
+
+msgid "pen down"
+msgstr "stiloul jos"
+
+msgid "pen up"
+msgstr "stiloul sus"
+
+msgid "pick random %n to %n"
+msgstr "alege un numar aleatoriu intre %n si %n"
+
+msgid "play drum %D for %n beats"
+msgstr "canta la tobele %D pentru %n timpi"
+
+msgid "play note %N for %n beats"
+msgstr "canta nota %N pentru %n timpi"
+
+msgid "play sound %S"
+msgstr "canta sunetul %S"
+
+# Si asteapta means and wait. Until done is better translated by pana cand e gata
+msgid "play sound %S until done"
+msgstr "canta sunetul %S pana cand e gata"
+
+msgid "point in direction %d"
+msgstr "orienteaza in directia %d"
+
+msgid "point towards %m"
+msgstr "orienteaza inspre %m"
+
+msgid "repeat %n"
+msgstr "repeta %n"
+
+msgid "repeat until %b"
+msgstr "repeta pana cand %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "inlocuieste articolul %i din %L cu %s"
+
+msgid "reset timer"
+msgstr "reseteaza cronometrul"
+
+msgid "rest for %n beats"
+msgstr "pauza %n timpi"
+
+msgid "round %n"
+msgstr "rotunjeste %n"
+
+msgid "say %s"
+msgstr "spune %s"
+
+msgid "say %s for %n secs"
+msgstr "spune %s pentru %n sec"
+
+msgid "sensing"
+msgstr "detectie"
+
+msgid "sensor %h?"
+msgstr "senzorul %h?"
+
+msgid "set %g effect to %n"
+msgstr "seteaza efectul %g la %n"
+
+msgid "set %v to %n"
+msgstr "seteaza %v la %n"
+
+msgid "set instrument to %I"
+msgstr "seteaza instrumentul la %I"
+
+msgid "set pen color to %c"
+msgstr "seteaza culoarea stiloului la %c"
+
+msgid "set pen color to %n"
+msgstr "seteaza culoarea stiloului la %n"
+
+msgid "set pen shade to %n"
+msgstr "seteaza tonul stiloului la %n"
+
+msgid "set pen size to %n"
+msgstr "seteaza marimea stiloului la %n"
+
+msgid "set size to %n%"
+msgstr "seteaza marimea la %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "seteaza tempoul la %n bpm"
+
+msgid "set volume to %n%"
+msgstr "seteaza volumul la %n%"
+
+msgid "set x to %n"
+msgstr "seteaza x la %n"
+
+msgid "set y to %n"
+msgstr "seteaza y la %n"
+
+msgid "show"
+msgstr "arata"
+
+msgid "show variable %v"
+msgstr "afiseaza variabila %v"
+
+msgid "size"
+msgstr "marime"
+
+msgid "sound"
+msgstr "sunet"
+
+msgid "stamp"
+msgstr "timbreaza"
+
+msgid "stop all"
+msgstr "opreste tot"
+
+msgid "stop all sounds"
+msgstr "opreste toate sunetele"
+
+msgid "stop script"
+msgstr "opreste scriptul"
+
+msgid "switch to background %l"
+msgstr "schimba la fundalul %l"
+
+msgid "switch to costume %l"
+msgstr "schimba la costumul %l"
+
+msgid "tempo"
+msgstr "tempoul"
+
+msgid "think %s"
+msgstr "gandeste %s"
+
+msgid "think %s for %n secs"
+msgstr "gandeste %s pentru %n sec"
+
+msgid "timer"
+msgstr "cronometru"
+
+msgid "touching %m?"
+msgstr "atinge %m?"
+
+msgid "touching color %C?"
+msgstr "atinge culoarea %C?"
+
+msgid "turn %n degrees"
+msgstr "roteste %n grade"
+
+msgid "variables"
+msgstr "variabile"
+
+msgid "volume"
+msgstr "volum"
+
+msgid "wait %n secs"
+msgstr "asteapta %n sec"
+
+msgid "wait until %b"
+msgstr "asteapta pana cand %b"
+
+msgid "when %k key pressed"
+msgstr "cand tasta %k e apasata"
+
+msgid "when %m clicked"
+msgstr "cand %m clic"
+
+msgid "when I receive %e"
+msgstr "cand primesc %e"
+
+msgid "x position"
+msgstr "pozitia x"
+
+msgid "y position"
+msgstr "pozitia y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(gol)"
+
+msgid "1 script"
+msgstr "scriptul 1"
+
+msgid "About Scratch"
+msgstr "Despre Scratch"
+
+msgid "About this project:"
+msgstr "Despre acest proiect:"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "adauga comentariu"
+
+msgid "add comment here"
+msgstr "adauga comentariu aici"
+
+msgid "all"
+msgstr "tot"
+
+msgid "and"
+msgstr "si"
+
+msgid "Animation"
+msgstr "Animatie"
+
+msgid "any"
+msgstr "orice"
+
+msgid "Art"
+msgstr "Arta"
+
+msgid "background"
+msgstr "fundal"
+
+msgid "backgrounds"
+msgstr "fundaluri"
+
+msgid "Backgrounds"
+msgstr "Fundaluri"
+
+msgid "brightness"
+msgstr "stralucire"
+
+msgid "Brush size: "
+msgstr "Dimensiune pensula:"
+
+msgid "button"
+msgstr "buton"
+
+msgid "button pressed"
+msgstr "buton apasat"
+
+msgid "Camera"
+msgstr "Camera"
+
+msgid "can rotate"
+msgstr "se poate roti"
+
+msgid "cancel"
+msgstr "renunta"
+
+msgid "Cancel"
+msgstr "Renunta"
+
+msgid "Choose a folder"
+msgstr "Alege un folder"
+
+msgid "Choose new sprite from file"
+msgstr "Alege spiridus nou din fisier"
+
+msgid "clean up"
+msgstr "curata"
+
+msgid "Clear"
+msgstr "Sterge"
+
+msgid "Clear canvas"
+msgstr "Sterge canavaua"
+
+msgid "Close and continue"
+msgstr "Inchide si continua"
+
+msgid "Close dialog?"
+msgstr "Inchizi dialogul?"
+
+msgid "Close paint editor?"
+msgstr "Inchizi editorul grafic?"
+
+msgid "close port"
+msgstr "inchide portul"
+
+msgid "Close sound recorder?"
+msgstr "Opresti inregistrarea sunetului?"
+
+msgid "color"
+msgstr "color"
+
+msgid "Compress Images"
+msgstr "Comprima Imagini"
+
+msgid "Compress Sounds"
+msgstr "Comprima Sunete"
+
+msgid "Compress sounds and images"
+msgstr "Comprima sunete si imagini"
+
+msgid "Computer"
+msgstr "Calculator"
+
+msgid "connected"
+msgstr "conectat"
+
+msgid "Connecting to "
+msgstr "Conectare la"
+
+msgid "Copy"
+msgstr "Copiaza"
+
+msgid "costume"
+msgstr "costumul"
+
+msgid "costumes"
+msgstr "costume"
+
+msgid "Costumes"
+msgstr "Costume"
+
+msgid "Could not read"
+msgstr "Nu pot citi"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Nu pot citi proiectul; fisierul poate fi defect"
+
+msgid "Could not write file"
+msgstr "Nu pot scrie fisierul"
+
+msgid "Create account"
+msgstr "Creeaza cont"
+
+msgid "Create an empty project"
+msgstr "Creeaza un proiect gol"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Date trimise. Se asteapta raspunsul..."
+
+msgid "delete"
+msgstr "sterge"
+
+msgid "Delete"
+msgstr "Sterge"
+
+msgid "Delete a list"
+msgstr "Sterge o lista"
+
+msgid "Delete a variable"
+msgstr "Sterge o variabila"
+
+msgid "Delete this background"
+msgstr "Sterge acest fundal"
+
+msgid "Delete this costume"
+msgstr "Sterge acest costum"
+
+msgid "Delete this sound"
+msgstr "Sterge acest sunet"
+
+msgid "Delete this sprite"
+msgstr "Sterge acest spiridus"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "disable remote sensor connections"
+msgstr "inhiba conexiunile cu senzorii externi"
+
+msgid "distance"
+msgstr "distanta"
+
+msgid "Documents"
+msgstr "Documente"
+
+msgid "don't rotate"
+msgstr "nu roti"
+
+msgid "Don't Save"
+msgstr "Nu Salva"
+
+msgid "Done"
+msgstr "Facut"
+
+msgid "down"
+msgstr "jos"
+
+msgid "down arrow"
+msgstr "sageata jos"
+
+msgid "drag to resize"
+msgstr "trage pentru a redimensiona"
+
+msgid "drag to rotate"
+msgstr "trage pentru a roti"
+
+msgid "draggable on website?"
+msgstr "poate fi tras in site-ul web?"
+
+msgid "duplicate"
+msgstr "duplica"
+
+msgid "Duplicate"
+msgstr "Duplica"
+
+msgid "edge"
+msgstr "margine"
+
+msgid "Edit"
+msgstr "Editare"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Selectie elipsa (deseneaza o elipsa sau un cerc cu sau fara umplere)"
+
+msgid "enable remote sensor connections"
+msgstr "permite conexiuni la senzori"
+
+msgid "Enter presentation mode"
+msgstr "Intra in modul prezentare"
+
+msgid "Eraser"
+msgstr "Guma de sters"
+
+msgid "Eraser size"
+msgstr "Marimea gumei de sters"
+
+msgid "Error!"
+msgstr "Eroare!"
+
+msgid "Examples"
+msgstr "Exemple"
+
+msgid "Exit presentation"
+msgstr "Iesire prezentare"
+
+msgid "Exit presentation mode"
+msgstr "Iesire din modul prezentare"
+
+msgid "export"
+msgstr "export"
+
+msgid "Export Background"
+msgstr "Exporta Fundalul"
+
+msgid "Export Costume"
+msgstr "Exporta Costumul"
+
+msgid "Export failed"
+msgstr "Exportul a esuat"
+
+msgid "Export Sound"
+msgstr "Exporta Sunet"
+
+msgid "Export Sprite"
+msgstr "Exporta Sprite"
+
+msgid "export this costume"
+msgstr "exporta acest costum"
+
+msgid "export this sound"
+msgstr "exporta acest sunet"
+
+msgid "export this sprite"
+msgstr "exporta acest spiridus"
+
+msgid "Extras menu"
+msgstr "Extras meniu"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Pipeta (selectarea culorii)"
+
+msgid "Failed:"
+msgstr "Esuat:"
+
+msgid "false"
+msgstr "fals"
+
+msgid "File"
+msgstr "Fisier"
+
+msgid "File not found"
+msgstr "Fisierul nu a fost gasit"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Umplere cu culoare (umple cu culoare o zona delimitata)"
+
+msgid "first"
+msgstr "primul"
+
+msgid "fisheye"
+msgstr "ochi de peste"
+
+msgid "Flash blocks (fast)"
+msgstr "Blocuri Flash (rapid)"
+
+msgid "Flash blocks (slow)"
+msgstr "Blocuri Flash (lent)"
+
+msgid "Flip horizontally"
+msgstr "Rastoarna orizontal"
+
+msgid "Flip vertically"
+msgstr "Rastoarna vertical"
+
+msgid "For all sprites"
+msgstr "Pentru toti spiridusii"
+
+msgid "For this sprite only"
+msgstr "Doar pentru acest spiridus"
+
+msgid "Game"
+msgstr "Joc"
+
+msgid "Get surprise sprite"
+msgstr "Obtine un spiridus surpriza"
+
+msgid "Get the last thing deleted"
+msgstr "Obtine ultimul lucru sters"
+
+msgid "Getting Started"
+msgstr "Notiuni de baza"
+
+msgid "ghost"
+msgstr "fantoma"
+
+msgid "Go To Scratch Website"
+msgstr "Mergi la site-ul Scratch"
+
+msgid "grab screen region for new costume"
+msgstr ""
+
+msgid "grab screen region for new sprite"
+msgstr ""
+
+msgid "Grow"
+msgstr "Mareste"
+
+msgid "Grow sprite"
+msgstr "Mareste spiridusul"
+
+msgid "hello "
+msgstr "salut"
+
+msgid "Hello!"
+msgstr "Salut!"
+
+msgid "help"
+msgstr "ajutor"
+
+msgid "Help"
+msgstr "Ajutor"
+
+msgid "Help Page"
+msgstr "Pagina de Ajutor"
+
+msgid "Help Screens"
+msgstr "Ecrane de Ajutor"
+
+msgid "Hide Motor Blocks"
+msgstr "Ascunde Blocurile Motor"
+
+msgid "High (biggest)"
+msgstr "Mare (cel mai mare)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Acasa"
+
+msgid "Images compressed"
+msgstr "Imagini comprimate"
+
+msgid "import"
+msgstr "import"
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Importa o imagine in prim planul desenului curent"
+
+msgid "Import Background"
+msgstr "Importa Fundal"
+
+msgid "Import Costume"
+msgstr "Importa Costum"
+
+msgid "Import Image"
+msgstr "Importa Imagine"
+
+msgid "Import List"
+msgstr "Importa Lista"
+
+msgid "Import Project"
+msgstr "Importa Proiect"
+
+msgid "import project"
+msgstr "importa proiect"
+
+msgid "Import Sound"
+msgstr "Importa Sunet"
+
+msgid "Incompatible Scratch file format"
+msgstr "Format de fisier incompatibil cu Scratch"
+
+msgid "Is the folder read-only?"
+msgstr "Fisierul este de tip numai citire?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "Calitate JPEG (10-100)?"
+
+msgid "kbytes"
+msgstr "Kocteti"
+
+msgid "Language"
+msgstr "Limba"
+
+msgid "large readout"
+msgstr "afisaj mare"
+
+msgid "last"
+msgstr "ultimul"
+
+msgid "left"
+msgstr "stanga"
+
+msgid "left arrow"
+msgstr "sageata stanga"
+
+msgid "length"
+msgstr "lungime"
+
+msgid "light"
+msgstr "lumina"
+
+msgid "Line tool (draw lines)"
+msgstr "Linie (deseneaza linii)"
+
+msgid "List name?"
+msgstr "Numele listei?"
+
+msgid "Low"
+msgstr "Mic"
+
+msgid "Lowest (smallest)"
+msgstr "Cel mai mic"
+
+msgid "Make a list"
+msgstr "Creeaza o lista"
+
+msgid "Make a variable"
+msgstr "Creeaza o variabila"
+
+msgid "Max:"
+msgstr "Maxim:"
+
+msgid "meow"
+msgstr "miau"
+
+msgid "Message name:"
+msgstr "Numele mesajului"
+
+msgid "Min:"
+msgstr "Minim:"
+
+msgid "mod"
+msgstr "modulo"
+
+msgid "more"
+msgstr "mai mult"
+
+msgid "More tags:"
+msgstr "Mai multe etichete:"
+
+msgid "mosaic"
+msgstr "mozaic"
+
+msgid "mouse x:"
+msgstr "x mouse:"
+
+msgid "mouse y:"
+msgstr "y mouse:"
+
+msgid "mouse-pointer"
+msgstr "cursorul mouse-ului"
+
+msgid "Move"
+msgstr "Muta"
+
+msgid "Music"
+msgstr "Muzica"
+
+msgid "My Projects"
+msgstr "Proiectele Mele"
+
+msgid "new"
+msgstr "nou"
+
+msgid "New"
+msgstr "Nou"
+
+msgid "New background:"
+msgstr "Fundal nou:"
+
+msgid "New costume:"
+msgstr "Costum nou:"
+
+msgid "New file name?"
+msgstr "Nume de fisier nou?"
+
+msgid "New Filename:"
+msgstr "Nume de Fisier Nou:"
+
+msgid "New sound:"
+msgstr "Sunet nou:"
+
+msgid "New Sprite"
+msgstr "Spiridus Nou"
+
+msgid "New sprite:"
+msgstr "Spiridus nou:"
+
+msgid "No"
+msgstr "Nu"
+
+msgid "No MIDI ports currently available."
+msgstr "Nu este disponibil niciun port MIDI."
+
+msgid "No motion blocks"
+msgstr "Nu exista blocuri de miscare"
+
+msgid "no scripts"
+msgstr "nu exista scripturi"
+
+msgid "No serial ports found"
+msgstr "Nu a fost gasit niciun port serial"
+
+msgid "No variables."
+msgstr "Nu exista variabile."
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "normal readout"
+msgstr "afisaj normal"
+
+msgid "Off"
+msgstr "Oprit"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "Pornit"
+
+msgid "only face left-right"
+msgstr "numai catre stanga sau dreapta"
+
+msgid "Open"
+msgstr "Deschide"
+
+msgid "Open a Scratch project"
+msgstr "Deschide un proiect Scratch"
+
+msgid "Open Project"
+msgstr "Deschide Proiect"
+
+msgid "or"
+msgstr "sau"
+
+msgid "Paint"
+msgstr "Desen"
+
+msgid "Paint Editor"
+msgstr "Editor Grafic"
+
+msgid "Paint new sprite"
+msgstr "Deseneaza spiridus nou"
+
+msgid "Paintbrush"
+msgstr "Pensula"
+
+msgid "Password:"
+msgstr "Parola:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Procent? (100 pentru dimensiunea originala)"
+
+msgid "Pictures"
+msgstr "Imagini"
+
+msgid "pixelate"
+msgstr "pixelare"
+
+msgid "play"
+msgstr "canta"
+
+msgid "Please enter a number"
+msgstr "Introdu un numar"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Pozitioneaza crucea pentru a stabili centrul de rotatie"
+
+msgid "Preparing project..."
+msgstr "Pregatirea proiectului..."
+
+msgid "Project author:"
+msgstr "Autorul proiectului:"
+
+msgid "Project name"
+msgstr "Numele proiectului"
+
+msgid "Project Notes"
+msgstr "Note Proiect"
+
+msgid "Project notes"
+msgstr "Note proiect"
+
+msgid "Project uploaded."
+msgstr "Proiect incarcat."
+
+msgid "Projects"
+msgstr "Proiecte"
+
+msgid "Quit"
+msgstr "Abandoneaza"
+
+msgid "Quit Scratch"
+msgstr "Paraseste Scratch"
+
+msgid "Reading"
+msgstr "Citire"
+
+msgid "record"
+msgstr "inregistrare"
+
+msgid "Record"
+msgstr "Inregistrare"
+
+msgid "recording"
+msgstr "Inregistrare"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr ""
+"Dreptunghi (deseneaza conturul unui dreptunghi sau patrat, care poate fi "
+"umplut)"
+
+msgid "Redo"
+msgstr "Refa"
+
+msgid "Reference Guide"
+msgstr "Ghid de Referinta"
+
+msgid "Remote sensor connections enabled"
+msgstr "Conexiunea la senzori este permisa"
+
+msgid "Remove viewer from stage"
+msgstr "Elimina spectatorul de pe scena"
+
+msgid "resistance"
+msgstr "rezistenta"
+
+msgid "resize this sprite"
+msgstr "redimensioneaza acest spiridus"
+
+msgid "reverse"
+msgstr "contrar"
+
+msgid "right"
+msgstr "dreapta"
+
+msgid "right arrow"
+msgstr "sageata dreapta"
+
+msgid "Rotate clock-wise"
+msgstr "Roteste in sensul acelor de ceas"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Roteste in sens invers acelor de ceas"
+
+msgid "rotate this sprite"
+msgstr "roteste acest spiridus"
+
+msgid "Rotation degrees?"
+msgstr "Grade rotire?"
+
+msgid "Save"
+msgstr "Salveaza"
+
+msgid "Save a copy of the current project"
+msgstr "Salveaza o copie a proiectului curent"
+
+msgid "Save As"
+msgstr "Salveaza ca"
+
+msgid "Save changes before quitting?"
+msgstr "Salvez modificarile inainte de a iesi?"
+
+msgid "Save failed"
+msgstr "Salvare esuata"
+
+msgid "save picture of scripts"
+msgstr "salveaza o imagine a scripturilor"
+
+msgid "save picture of stage..."
+msgstr "salveaza o imagine a scenei..."
+
+msgid "Save Project"
+msgstr "Salveaza Proiectul"
+
+msgid "Save Scripts Snapshot"
+msgstr "Salveaza Imaginea Scripturilor"
+
+msgid "Save Stage Shot"
+msgstr "Salveaza un Instantaneu al Scenei"
+
+msgid "Save the current project"
+msgstr "Salveaza proiectul curent"
+
+msgid "Save the current project?"
+msgstr "Salvezi proiectul curent?"
+
+msgid "Save this project"
+msgstr "Salveaza acest proiect"
+
+msgid "Scripts"
+msgstr "Scripturi"
+
+msgid "select serial/USB port"
+msgstr "selecteaza portul serial/USB"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Selecteaza instrumentul (muta, modifica sau sterge)"
+
+msgid "Set costume center"
+msgstr "Seteaza centrul costumului"
+
+msgid "Set language"
+msgstr "Seteaza limba"
+
+msgid "Set rotation center"
+msgstr "Seteaza centrul de rotatie"
+
+msgid "Set Single Stepping"
+msgstr "Seteaza Cate Un Pas"
+
+msgid "set slider min and max"
+msgstr "seteaza minimul si maximul cursorului"
+
+msgid "Share"
+msgstr "Impartaseste"
+
+msgid "Share this project"
+msgstr "Impartaseste acest proiect"
+
+msgid "Share This Project Online"
+msgstr "Impartaseste Acest Proiect Online"
+
+msgid "Show Motor Blocks"
+msgstr "Arata Blocurile Motor"
+
+msgid "show ScratchBoard watcher"
+msgstr ""
+
+msgid "Shrink"
+msgstr "Micsoreaza"
+
+msgid "Shrink sprite"
+msgstr "Micsoreaza spiridusul"
+
+msgid "Simulation"
+msgstr "Simulare"
+
+msgid "Single-step speed?"
+msgstr "Viteza pentru 1 singur pas?"
+
+msgid "slider"
+msgstr "cursor"
+
+msgid "Slider range:"
+msgstr "Domeniul cursorului:"
+
+msgid "Sound quality:"
+msgstr "Calitatea sunetului:"
+
+msgid "Sound Recorder"
+msgstr "Inregistrator de Sunet"
+
+msgid "Sounds"
+msgstr "Sunete"
+
+msgid "Sounds compressed"
+msgstr "Sunete comprimate"
+
+msgid "space"
+msgstr "spatiu"
+
+msgid "Sprite"
+msgstr "Spiridus"
+
+msgid "Sprites"
+msgstr "Spiridusi"
+
+msgid "sqrt"
+msgstr "sqrt"
+
+msgid "Stage"
+msgstr "Scena"
+
+msgid "Stage selected:"
+msgstr "Scena selectata:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Stampila (selecteaza aria apoi stampileaza copii ale ei)"
+
+msgid "Start green flag scripts"
+msgstr "Start scripturi cu steagul verde"
+
+msgid "Start Single Stepping"
+msgstr "Start Cate 1 Singur Pas"
+
+msgid "stop"
+msgstr "stop"
+
+msgid "Stop everything"
+msgstr "Opreste totul"
+
+msgid "Stop Single Stepping"
+msgstr "Stop Cate 1 Singur Pas"
+
+msgid "Story"
+msgstr "Poveste"
+
+msgid "Support Site"
+msgstr "Site de Sprijin"
+
+msgid "Switch colors"
+msgstr "Comuta culorile"
+
+msgid "Switch to full stage"
+msgstr "Comuta la scena mare"
+
+msgid "Switch to presentation mode"
+msgstr "Comuta la modul prezentare"
+
+msgid "Switch to small stage"
+msgstr "Comuta la scena mica"
+
+msgid "Tags:"
+msgstr "Etichete"
+
+msgid "Text tool (edit text layer)"
+msgstr "Text (editeaza stratul text)"
+
+msgid "That variable name is already in use"
+msgstr "Acest nume de variabila este deja folosit"
+
+msgid "that way"
+msgstr "acest mod"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr ""
+"Numele de fisier exista deja. Doresti suprascrierea fisierului existent?"
+
+msgid "thing"
+msgstr "lucru"
+
+msgid "this way"
+msgstr "acest mod"
+
+msgid "tilt"
+msgstr "inclinare"
+
+msgid "true"
+msgstr "adevarat"
+
+msgid "Turbo speed"
+msgstr "viteza Turbo"
+
+msgid "turn into new sprite"
+msgstr "transforma in spiridus nou"
+
+msgid "Undelete"
+msgstr "Restaureaza"
+
+msgid "Undo"
+msgstr "Anuleaza"
+
+msgid "up"
+msgstr "sus"
+
+msgid "up arrow"
+msgstr "sageata sus"
+
+msgid "Updating thumbnails"
+msgstr "Actualizeaza miniaturile"
+
+msgid "Upload succeeded!"
+msgstr "Incarcare reusita!"
+
+msgid "Upload to Scratch Server"
+msgstr "Incarca pe Serverul Scratch"
+
+msgid "Uploading"
+msgstr "Incarcare"
+
+msgid "Variable name?"
+msgstr "Numele variabilei?"
+
+msgid "View on stage"
+msgstr "Vizualizeaza scena"
+
+msgid "What's your name?"
+msgstr "Care este numele tau?"
+
+msgid "whirl"
+msgstr "vartej"
+
+msgid "world"
+msgstr "lume"
+
+msgid "Write Multiple Project Summaries"
+msgstr "Scrie Rezumate pentru Proiecte Multiple"
+
+msgid "Write Project Summary"
+msgstr "Scrie Sumarul Proiectului"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "Your project is now online at"
+msgstr "Proiectul tau este acum online"
+
+msgid "Your Scratch website login name:"
+msgstr "Numele de logare pe site-ul tău Scratch:"
+
+msgid "Zoom in"
+msgstr "Mareste"
+
+msgid "Zoom out"
+msgstr "Micsoreaza"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Acordeon"
+
+msgid "Acoustic Bass"
+msgstr "Bas Acustic"
+
+msgid "Acoustic Bass Drum"
+msgstr "Toba Acustica Bas"
+
+msgid "Acoustic Grand"
+msgstr "Acoustic Grand"
+
+msgid "Acoustic Snare"
+msgstr "Acoustic Snare"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Saxofon Alto"
+
+msgid "Applause"
+msgstr "Aplauze"
+
+msgid "Bagpipe"
+msgstr "Cimpoi"
+
+msgid "Banjo"
+msgstr "Banjo"
+
+msgid "Baritone Sax"
+msgstr "Saxofon Bariton"
+
+msgid "Bass Drum 1"
+msgstr "Toba Bas 1"
+
+msgid "Bassoon"
+msgstr "Fagot"
+
+msgid "Bird Tweet"
+msgstr "Ciripit de Pasari"
+
+msgid "Blown Bottle"
+msgstr "Suflat in Sticla"
+
+msgid "Brass Section"
+msgstr "Instrumente de Suflat din Alama"
+
+msgid "Breath Noise"
+msgstr "Zomotul Respiratiei"
+
+msgid "Bright Acoustic"
+msgstr "Bright Acoustic"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celesta"
+
+msgid "Cello"
+msgstr "Violoncel"
+
+msgid "Chinese Cymbal"
+msgstr "Cinel chinezesc"
+
+msgid "Choir Aahs"
+msgstr "Cor"
+
+msgid "Church Organ"
+msgstr "Orga de Biserica"
+
+msgid "Clarinet"
+msgstr "Clarinet"
+
+msgid "Claves"
+msgstr "Clavecin"
+
+msgid "Clavinet"
+msgstr "Clavinet"
+
+msgid "Closed Hi-Hat"
+msgstr "Closed Hi-Hat"
+
+msgid "Contrabass"
+msgstr "Contrabas"
+
+msgid "Cowbell"
+msgstr "Cowbell"
+
+msgid "Crash Cymbal 1"
+msgstr "Cinel Crash 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Cinel Crash 2"
+
+msgid "Distortion Guitar"
+msgstr "Chitara cu Distorsiuni"
+
+msgid "Drawbar Organ"
+msgstr "Drawbar Organ"
+
+msgid "Dulcimer"
+msgstr "Tambal"
+
+msgid "Electric Bass (finger)"
+msgstr "Bas Electric (deget)"
+
+msgid "Electric Bass (pick)"
+msgstr "Bas Electric (ciupit)"
+
+msgid "Electric Clean Guitar"
+msgstr "Chitara Electrica"
+
+msgid "Electric Grand"
+msgstr "Electric Grand"
+
+msgid "Electric Jazz Guitar"
+msgstr "Chitara Electrica Jazz"
+
+msgid "Electric Muted Guitar"
+msgstr "Chitara Electrica Dezactivata"
+
+msgid "Electric Piano 1"
+msgstr "Pian Electric 1"
+
+msgid "Electric Piano 2"
+msgstr "Pian Electric 2"
+
+msgid "Electric Snare"
+msgstr "Electric Snare"
+
+msgid "English Horn"
+msgstr "Corn Englez"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (ploaie)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (coloana sonora)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (cristal)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (atmosfera)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (stralucire)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX 6 (spiridusi)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (ecouri)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (stiintifico-fantastic)"
+
+msgid "Fiddle"
+msgstr "Vioara"
+
+msgid "Flute"
+msgstr "Flaut"
+
+msgid "French Horn"
+msgstr "Corn Francez"
+
+msgid "Fretless Bass"
+msgstr "Fretless Bass"
+
+msgid "Glockenspiel"
+msgstr "Glockenspiel"
+
+msgid "Guitar Fret Noise"
+msgstr "Guitar Fret Noise"
+
+msgid "Guitar Harmonics"
+msgstr "Guitar Harmonics"
+
+msgid "Gunshot"
+msgstr "Foc de Arma"
+
+msgid "Hand Clap"
+msgstr "Bataie din Palme"
+
+msgid "Harmonica"
+msgstr "Armonica"
+
+msgid "Harpsichord"
+msgstr "Clavecin"
+
+msgid "Helicopter"
+msgstr "Elicopter"
+
+msgid "Hi Bongo"
+msgstr "Hi Bongo"
+
+msgid "Hi Wood Block"
+msgstr "Hi Wood Block"
+
+msgid "Hi-Mid Tom"
+msgstr "Hi-Mid Tom"
+
+msgid "High Agogo"
+msgstr "High Agogo"
+
+msgid "High Floor Tom"
+msgstr "High Floor Tom"
+
+msgid "High Timbale"
+msgstr "High Timbale"
+
+msgid "High Tom"
+msgstr "High Tom"
+
+msgid "Honky-Tonk"
+msgstr "Honky-Tonk"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr ""
+
+msgid "Lead 2 (sawtooth)"
+msgstr ""
+
+msgid "Lead 3 (calliope)"
+msgstr ""
+
+msgid "Lead 4 (chiff)"
+msgstr ""
+
+msgid "Lead 5 (charang)"
+msgstr ""
+
+msgid "Lead 6 (voice)"
+msgstr ""
+
+msgid "Lead 7 (fifths)"
+msgstr ""
+
+msgid "Lead 8 (bass+lead)"
+msgstr ""
+
+msgid "Long Guiro"
+msgstr ""
+
+msgid "Long Whistle"
+msgstr "Fluier lung"
+
+msgid "Low Agogo"
+msgstr ""
+
+msgid "Low Bongo"
+msgstr ""
+
+msgid "Low Conga"
+msgstr ""
+
+msgid "Low Floor Tom"
+msgstr ""
+
+msgid "Low Timbale"
+msgstr ""
+
+msgid "Low Tom"
+msgstr ""
+
+msgid "Low Wood Block"
+msgstr ""
+
+msgid "Low-Mid Tom"
+msgstr ""
+
+msgid "Maracas"
+msgstr "Maracas"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr ""
+
+msgid "Music Box"
+msgstr "Cutie muzicala"
+
+msgid "Mute Cuica"
+msgstr ""
+
+msgid "Mute Hi Conga"
+msgstr ""
+
+msgid "Mute Triangle"
+msgstr ""
+
+msgid "Muted Trumpet"
+msgstr ""
+
+msgid "Nylon String Guitar"
+msgstr "Chitara cu Coarde de Nailon"
+
+msgid "Oboe"
+msgstr "Oboi"
+
+msgid "Ocarina"
+msgstr "Ocarina"
+
+msgid "Open Cuica"
+msgstr ""
+
+msgid "Open Hi Conga"
+msgstr ""
+
+msgid "Open Hi-Hat"
+msgstr ""
+
+msgid "Open Triangle"
+msgstr ""
+
+msgid "Orchestra Hit"
+msgstr ""
+
+msgid "Orchestral Strings"
+msgstr ""
+
+msgid "Overdriven Guitar"
+msgstr ""
+
+msgid "Pad 1 (new age)"
+msgstr ""
+
+msgid "Pad 2 (warm)"
+msgstr ""
+
+msgid "Pad 3 (polysynth)"
+msgstr ""
+
+msgid "Pad 4 (choir)"
+msgstr ""
+
+msgid "Pad 5 (bowed)"
+msgstr ""
+
+msgid "Pad 6 (metallic)"
+msgstr ""
+
+msgid "Pad 7 (halo)"
+msgstr ""
+
+msgid "Pad 8 (sweep)"
+msgstr ""
+
+msgid "Pan Flute"
+msgstr ""
+
+msgid "Pedal Hi-Hat"
+msgstr ""
+
+msgid "Percussive Organ"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Pizzicato Strings"
+msgstr ""
+
+msgid "Recorder"
+msgstr ""
+
+msgid "Reed Organ"
+msgstr ""
+
+msgid "Reverse Cymbal"
+msgstr ""
+
+msgid "Ride Bell"
+msgstr ""
+
+msgid "Ride Cymbal 1"
+msgstr ""
+
+msgid "Ride Cymbal 2"
+msgstr ""
+
+msgid "Rock Organ"
+msgstr ""
+
+msgid "Seashore"
+msgstr ""
+
+msgid "Shakuhachi"
+msgstr ""
+
+msgid "Shamisen"
+msgstr ""
+
+msgid "Shanai"
+msgstr ""
+
+msgid "Short Guiro"
+msgstr ""
+
+msgid "Short Whistle"
+msgstr ""
+
+msgid "Side Stick"
+msgstr ""
+
+msgid "Sitar"
+msgstr ""
+
+msgid "Slap Bass 1"
+msgstr ""
+
+msgid "Slap Bass 2"
+msgstr ""
+
+msgid "Soprano Sax"
+msgstr "Saxofon Sopran"
+
+msgid "Splash Cymbal"
+msgstr "Cinel Splash"
+
+msgid "Steel Drums"
+msgstr "Tobe de Oţel"
+
+msgid "Steel String Guitar"
+msgstr "Chitara cu Coarde Metalice"
+
+msgid "String Ensemble 1"
+msgstr "Ansamblu de Coarde 1"
+
+msgid "String Ensemble 2"
+msgstr "Ansamblu de Coarde 2"
+
+msgid "Synth Bass 1"
+msgstr ""
+
+msgid "Synth Bass 2"
+msgstr ""
+
+msgid "Synth Drum"
+msgstr "Sintetizator de Tobe"
+
+msgid "Synth Voice"
+msgstr "Sintetizator de Voce"
+
+msgid "SynthBrass 1"
+msgstr "Sintetizator de Alamuri 1"
+
+msgid "SynthBrass 2"
+msgstr "Sintetizator de Alamuri 2"
+
+msgid "SynthStrings 1"
+msgstr "Sintetizator de Coarde 1"
+
+msgid "SynthStrings 2"
+msgstr "Sintetizator de Coarde 2"
+
+msgid "Taiko Drum"
+msgstr "Toba Taiko"
+
+msgid "Tambourine"
+msgstr "Tamburina"
+
+msgid "Tango Accordion"
+msgstr "Acordeon Tango"
+
+msgid "Telephone Ring"
+msgstr "Apel Telefon"
+
+msgid "Tenor Sax"
+msgstr "Saxofon Tenor"
+
+msgid "Timpani"
+msgstr "Timpane"
+
+msgid "Tinkle Bell"
+msgstr "Clopot"
+
+msgid "Tremolo Strings"
+msgstr "Coarde Tremolo"
+
+msgid "Trombone"
+msgstr "Trombon"
+
+msgid "Trumpet"
+msgstr "Trompeta"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr ""
+
+msgid "Vibraphone"
+msgstr "Vibrafon"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "Viola"
+msgstr "Viola"
+
+msgid "Violin"
+msgstr "Vioara"
+
+msgid "Voice Oohs"
+msgstr ""
+
+msgid "Whistle"
+msgstr "Fluier"
+
+msgid "Woodblock"
+msgstr ""
+
+msgid "Xylophone"
+msgstr "Xilofon"

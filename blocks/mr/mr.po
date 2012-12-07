@@ -1,0 +1,444 @@
+msgid "Language-Name"
+msgstr "मराठी"
+
+msgid "%b and %b"
+msgstr "%b आणि %b"
+
+msgid "%b or %b"
+msgstr "%b किंवा %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute %m चा/ची/चे"
+
+msgid "%m.list contains %s"
+msgstr "%m.list मध्ये %s आहे"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp %n चा/ची/चे"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor चे मुल्य"
+
+msgid "%n mod %n"
+msgstr "%n बाकी %n"
+
+msgid "add %s to %m.list"
+msgstr "%s हे %m.list यादीत समाविष्ट करा"
+
+msgid "answer"
+msgstr "उत्तर"
+
+msgid "ask %s and wait"
+msgstr "प्रश्न %s विचारा व थांबा"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "पारश्वभुमि #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "%m.broadcast सर्वांना सांगा"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "%m.broadcast सर्वांना सांगा व वाट पहा"
+
+msgid "change %m.effect effect by %n"
+msgstr "%m.effect परिणाम %n ने बदला"
+
+msgid "change %m.var by %n"
+msgstr "%m.var हे %n ने बदला"
+
+msgid "change pen color by %n"
+msgstr "पेनचा रंग %n ने बदला"
+
+msgid "change pen shade by %n"
+msgstr "पेनची छटा %n ने बदला"
+
+msgid "change pen size by %n"
+msgstr "पेनचा आकार %n ने बदला"
+
+msgid "change size by %n"
+msgstr "आकार %n ने बदला"
+
+msgid "change tempo by %n"
+msgstr "संगीताची लय %n ने बदला"
+
+msgid "change volume by %n"
+msgstr "आवाज %n ने बदला"
+
+msgid "change x by %n"
+msgstr "x %n ने बदला"
+
+msgid "change y by %n"
+msgstr "y %n ने बदला"
+
+msgid "clear"
+msgstr "पुसा"
+
+msgid "clear graphic effects"
+msgstr "ग्राफिकचा प्रभाव मिटवा"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "रंग %c चा स्पर्श रंग %c ला होत आहे का?"
+
+msgid "Control"
+msgstr "नियंत्रण"
+
+msgid "costume #"
+msgstr "अवतार#"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "%m.list यादीतुन %d.listDeleteItem काढ़ा"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "दिशा"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse पर्यंतचे अंतर"
+
+msgid "else"
+msgstr "नसल्यास"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "पुन्हा पुन्हा करत रहा"
+
+msgid "forever if %b"
+msgstr "जोपर्यंत %b "
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n  सेकंदाकरीता x:%n y:%n कडे सरकवा"
+
+msgid "go back %n layers"
+msgstr "%n थर मागे जा"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse कडे जा"
+
+msgid "go to front"
+msgstr "पुढे आणा"
+
+msgid "go to x:%n y:%n"
+msgstr "x:%n y:%n ला जा"
+
+msgid "hide"
+msgstr "लपवा"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide monitor %m.varOrList"
+msgstr ""
+
+msgid "if %b"
+msgstr "जर %b "
+
+msgid "if on edge, bounce"
+msgstr "जर कडेवर असेल तर उलटवा "
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "%m.list यादीत %d.listItem वर %s वस्तु टाका"
+
+msgid "item %d.listItem of %m.list"
+msgstr "%m.list यादीतील %d.listItem वस्तु"
+
+msgid "join %s %s"
+msgstr "%s %s जोडा"
+
+msgid "key %m.key pressed?"
+msgstr "%m.key बटन दाबले?"
+
+msgid "length of %m.list"
+msgstr "%m.list ची लांबी"
+
+msgid "length of %s"
+msgstr "%s ची लांबी"
+
+msgid "letter %n of %s"
+msgstr "%s मध्ये %n स्थानावरील अक्षर"
+
+msgid "Looks"
+msgstr "रुप"
+
+msgid "loudness"
+msgstr "आवाज"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "हालचाल"
+
+msgid "motor direction %m.motorDirection"
+msgstr "मोटर दिशा %m.motorDirection"
+
+msgid "motor off"
+msgstr "मोटर बंद"
+
+msgid "motor on"
+msgstr "मोटर चालु"
+
+msgid "motor on for %n secs"
+msgstr "%n  सेकंदाकरीता मोटर चालु"
+
+msgid "motor power %n"
+msgstr "मोटर सामर्थ्य %n"
+
+msgid "mouse down?"
+msgstr "माउसचे बटन दाबले?"
+
+msgid "mouse x"
+msgstr "माउस x"
+
+msgid "mouse y"
+msgstr "माउस y"
+
+msgid "move %n steps"
+msgstr "%n पावले चला"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "पुढ़ची पारश्वभुमि"
+
+msgid "next costume"
+msgstr "पुढ़चा अवतार"
+
+msgid "not %b"
+msgstr "%b नसल्यास"
+
+msgid "Operators"
+msgstr "क्रिया"
+
+msgid "Pen"
+msgstr "पेन "
+
+msgid "pen down"
+msgstr "पेन खाली "
+
+msgid "pen up"
+msgstr "पेन वर"
+
+msgid "pick random %n to %n"
+msgstr "%n ते %n मधे कुठलाही निवडा"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "%d.drum ड्रमचे %n ठोके वाजवा"
+
+msgid "play note %n for %n beats"
+msgstr "%d.note स्वराचे %n ठोके वाजवा"
+
+msgid "play sound %m.sound"
+msgstr "%m.sound आवाज"
+
+msgid "play sound %m.sound until done"
+msgstr "संपेपर्यंत %m.sound आवाज वाजवा"
+
+msgid "point in direction %d.direction"
+msgstr "%d.direction दिशेस वळा"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse कडे वळा"
+
+msgid "repeat %n"
+msgstr "%n वेळा करा"
+
+msgid "repeat until %b"
+msgstr "%b नसेपर्यंत वारंवार करा"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "%m.list यादीत %d.listItem मधील वस्तु %s ने बदला"
+
+msgid "reset timer"
+msgstr "कालमापक पुन्हा सुरु करा"
+
+msgid "rest for %n beats"
+msgstr "%n ठोके आवाज करु नका"
+
+msgid "round %n"
+msgstr "पुर्णांक %n"
+
+msgid "say %s"
+msgstr "%s म्हणा"
+
+msgid "say %s for %n secs"
+msgstr "%s म्हणा %n सेकंदाकरीता"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "संवेदना"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "सेन्सर %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "%m.effect परिणाम = %n"
+
+msgid "set %m.var to %s"
+msgstr "%m.var = %n"
+
+msgid "set instrument to %d.instrument"
+msgstr "वाद्य = %d.instrument "
+
+msgid "set pen color to %c"
+msgstr "पेनचा रंग = %c "
+
+msgid "set pen color to %n"
+msgstr "पेनचा रंग = %c "
+
+msgid "set pen shade to %n"
+msgstr "पेनची छटा = %n"
+
+msgid "set pen size to %n"
+msgstr "पेनचा आकार = %n"
+
+msgid "set size to %n%"
+msgstr "आकार = %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "ठोके = %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "आवाज = %n%"
+
+msgid "set x to %n"
+msgstr "x = %n"
+
+msgid "set y to %n"
+msgstr "y = %n"
+
+msgid "show"
+msgstr "दाखवा"
+
+msgid "show monitor %m.varOrList"
+msgstr ""
+
+msgid "size"
+msgstr "आकार"
+
+msgid "Sound"
+msgstr "आवाज"
+
+msgid "stamp"
+msgstr "छापा"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "सर्व आवाज थांबवा"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "लय"
+
+msgid "think %s"
+msgstr "%s विचार करा"
+
+msgid "think %s for %n secs"
+msgstr "%s विचार करा %n सेकंदाकरीता"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "कालमापक"
+
+msgid "touching %m.touching?"
+msgstr "%m.touching ला स्पर्श होत आहे का?"
+
+msgid "touching color %c?"
+msgstr "%c रंगास स्पर्श होत आहे का?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "आवाज "
+
+msgid "wait %n secs"
+msgstr "%n सेकंद थांबा"
+
+msgid "wait until %b"
+msgstr "%b होइपर्यंत थांबा"
+
+msgid "when %m.key key pressed"
+msgstr "%m.key बटण दाबले असता"
+
+msgid "when @greenFlag clicked"
+msgstr "@greenFlag क्लिक केले असता"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when I am clicked"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "x position"
+msgstr "x स्थान "
+
+msgid "y position"
+msgstr "y स्थान "
+

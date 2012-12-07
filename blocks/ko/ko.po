@@ -1,0 +1,444 @@
+msgid "Language-Name"
+msgstr "한국어"
+
+msgid "%b and %b"
+msgstr "%b 그리고 %b"
+
+msgid "%b or %b"
+msgstr "%b 또는 %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.spriteOrStage 의 %m.attribute"
+
+msgid "%m.list contains %s"
+msgstr "%m.list 에 %s 포함?"
+
+msgid "%m.mathOp of %n"
+msgstr "%n 의 %m.mathOp"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor센서값"
+
+msgid "%n mod %n"
+msgstr "%n / %n 의 나머지"
+
+msgid "add %s to %m.list"
+msgstr "%m.list에 %s 추가하기"
+
+msgid "answer"
+msgstr "대답"
+
+msgid "ask %s and wait"
+msgstr "%s을(를) 묻고 기다리기"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "배경 #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "%m.broadcast 방송하기"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "%m.broadcast 방송하고 기다리기"
+
+msgid "change %m.effect effect by %n"
+msgstr "%m.effect 효과 %n 만큼 바꾸기"
+
+msgid "change %m.var by %n"
+msgstr "%m.var 에 %n 씩 누적하기"
+
+msgid "change pen color by %n"
+msgstr "펜 색상 %n 만큼 바꾸기"
+
+msgid "change pen shade by %n"
+msgstr "펜 농도 %n 만큼 바꾸기"
+
+msgid "change pen size by %n"
+msgstr "펜 굵기 %n 만큼 바꾸기"
+
+msgid "change size by %n"
+msgstr "크기 %n 만큼 바꾸기"
+
+msgid "change tempo by %n"
+msgstr "템포 %n 만큼 바꾸기"
+
+msgid "change volume by %n"
+msgstr "음량 %n 만큼 바꾸기"
+
+msgid "change x by %n"
+msgstr "x좌표 %n 만큼 바꾸기"
+
+msgid "change y by %n"
+msgstr "y좌표 %n 만큼 바꾸기"
+
+msgid "clear"
+msgstr "지우기"
+
+msgid "clear graphic effects"
+msgstr "그래픽 효과 지우기"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "%c 색이 %c 색에 닿기?"
+
+msgid "Control"
+msgstr "제어"
+
+msgid "costume #"
+msgstr "모양 #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "%m.list 에서 %d.listDeleteItem 위치의 아이템 삭제하기"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "방향"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse 까지 거리"
+
+msgid "else"
+msgstr "그렇지 않으면"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "무한 반복"
+
+msgid "forever if %b"
+msgstr "반복 %b 계속 확인"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "x:%n, y:%n 로 %n 초간 움직이기"
+
+msgid "go back %n layers"
+msgstr "%n 번째로 물러나기"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse 위치로 가기"
+
+msgid "go to front"
+msgstr "맨 앞으로 나오기"
+
+msgid "go to x:%n y:%n"
+msgstr "x:%n, y:%n 로 가기"
+
+msgid "hide"
+msgstr "숨기기"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide monitor %m.varOrList"
+msgstr ""
+
+msgid "if %b"
+msgstr "만약 %b 라면"
+
+msgid "if on edge, bounce"
+msgstr "벽에 닿으면 튀어나오기"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "%m.list 의 %d.listItem 위치에 %s 넣기"
+
+msgid "item %d.listItem of %m.list"
+msgstr "%m.list %i 위치의 아이템"
+
+msgid "join %s %s"
+msgstr "%s %s 결합하기"
+
+msgid "key %m.key pressed?"
+msgstr "%m.key 키 클릭하기?"
+
+msgid "length of %m.list"
+msgstr "%m.list 의 크기"
+
+msgid "length of %s"
+msgstr "%s 의 길이"
+
+msgid "letter %n of %s"
+msgstr "%s의 %n 번째 글자"
+
+msgid "Looks"
+msgstr "형태"
+
+msgid "loudness"
+msgstr "음량"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "동작"
+
+msgid "motor direction %m.motorDirection"
+msgstr "모터 %m.motorDirection 회전"
+
+msgid "motor off"
+msgstr "모터 끄기"
+
+msgid "motor on"
+msgstr "모터 켜기"
+
+msgid "motor on for %n secs"
+msgstr "%n초 동안 모터 켜기"
+
+msgid "motor power %n"
+msgstr "모터 파워 %n"
+
+msgid "mouse down?"
+msgstr "마우스 클릭하기?"
+
+msgid "mouse x"
+msgstr "마우스 x좌표"
+
+msgid "mouse y"
+msgstr "마우스 y좌표"
+
+msgid "move %n steps"
+msgstr "%n 만큼 움직이기"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "다음 배경"
+
+msgid "next costume"
+msgstr "다음 모양"
+
+msgid "not %b"
+msgstr "%b (이)가 아니다"
+
+msgid "Operators"
+msgstr "연산"
+
+msgid "Pen"
+msgstr "펜"
+
+msgid "pen down"
+msgstr "펜 내리기"
+
+msgid "pen up"
+msgstr "펜 올리기"
+
+msgid "pick random %n to %n"
+msgstr "%n 부터 %n 사이의 난수"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "%d.drum 드럼 %n 박자로 연주하기"
+
+msgid "play note %n for %n beats"
+msgstr "%d.note 음계 %n 박자로 연주하기"
+
+msgid "play sound %m.sound"
+msgstr "%m.sound 소리내기"
+
+msgid "play sound %m.sound until done"
+msgstr "%m.sound 끝까지 소리내기 "
+
+msgid "point in direction %d.direction"
+msgstr "%d.direction 도 방향 보기"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse 쪽 보기"
+
+msgid "repeat %n"
+msgstr "반복 %n 회"
+
+msgid "repeat until %b"
+msgstr "반복 %b 까지"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "%m.list %i 위치의 아이템을 %s 로 바꾸기"
+
+msgid "reset timer"
+msgstr "타이머 초기화"
+
+msgid "rest for %n beats"
+msgstr "%n 박자 쉬기"
+
+msgid "round %n"
+msgstr "%n 반올림"
+
+msgid "say %s"
+msgstr "%s 말하기"
+
+msgid "say %s for %n secs"
+msgstr "%s %n 초간 말하기"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "관찰"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "센서의 %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "%m.effect 효과 %n 로 정하기"
+
+msgid "set %m.var to %s"
+msgstr "%m.var 에 %n 저장하기"
+
+msgid "set instrument to %d.instrument"
+msgstr "%d.instrument 번 악기 사용하기"
+
+msgid "set pen color to %c"
+msgstr "펜 색상 %c 로 정하기"
+
+msgid "set pen color to %n"
+msgstr "펜 색상 %c 로 정하기"
+
+msgid "set pen shade to %n"
+msgstr "펜 농도 %n 로 정하기"
+
+msgid "set pen size to %n"
+msgstr "펜 굵기 %n 로 정하기"
+
+msgid "set size to %n%"
+msgstr "크기 %n% 로 정하기"
+
+msgid "set tempo to %n bpm"
+msgstr "템포 %n BPM로 맞추기"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "음량 %n% 로 맞추기"
+
+msgid "set x to %n"
+msgstr "x좌표 %n 로 정하기"
+
+msgid "set y to %n"
+msgstr "y좌표 %n 로 정하기"
+
+msgid "show"
+msgstr "보이기"
+
+msgid "show monitor %m.varOrList"
+msgstr ""
+
+msgid "size"
+msgstr "크기"
+
+msgid "Sound"
+msgstr "소리"
+
+msgid "stamp"
+msgstr "스탬프"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "모든 소리 끄기"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "템포"
+
+msgid "think %s"
+msgstr "%s 생각하기"
+
+msgid "think %s for %n secs"
+msgstr "%s %n 초간 생각하기"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "타이머"
+
+msgid "touching %m.touching?"
+msgstr "%m.touching 에 닿기?"
+
+msgid "touching color %c?"
+msgstr "%c 색에 닿기?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "음량"
+
+msgid "wait %n secs"
+msgstr "%n 초 기다리기"
+
+msgid "wait until %b"
+msgstr "%b 까지 기다리기"
+
+msgid "when %m.key key pressed"
+msgstr "%m.key 키 눌릴 때"
+
+msgid "when @greenFlag clicked"
+msgstr "@greenFlag 클릭될 때"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when I am clicked"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "x position"
+msgstr "x좌표"
+
+msgid "y position"
+msgstr "y좌표"
+

@@ -1,0 +1,1938 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: HENG Samedi <heng.samedi@gmail.com>\n"
+"POT-Creation-Date: 2008-02-18 03:58-0400\n"
+"PO-Revision-Date: 2009-06-16 12:10-0400\n"
+"Last-Translator: Language-Team: Language: km\n"
+"Language-Team: Mtw <martin.wollenweber@gmx.de>\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 1.2.1\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "សំលៀកបំពាក"
+
+# Directionality of language<br />
+# <br />
+# LTR = Left to Right<br />
+# <br />
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "ភាសា-ទិសដៅ"
+
+# Scale to apply to font size (2 for twice as large)<br />
+# <br />
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "វិមាត្រហ្វុន"
+
+# Set to 'true' or 'false'<br />
+# <br />
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "ធ្វើឱ្យដិត"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "ពុម្ពអក្សរវិនដូ"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "ពុម្ពអក្សរ​ម៉ាក"
+
+# Font to use on a Linux system
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "KhmerChrieng1"
+
+# ##########################################&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# BLOCKS&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# ##########################################
+msgid ""
+msgstr "ពុម្ពអក្សរលីនុច"
+
+msgid "%H sensor value"
+msgstr "%H តម្លៃសិនស័រ"
+
+msgid "%L contains %s"
+msgstr "%L មាន %s"
+
+msgid "%a of %m"
+msgstr "%a នៃ %m"
+
+msgid "%b and %b"
+msgstr "%b និង %b"
+
+msgid "%b or %b"
+msgstr "%b ឬ %b"
+
+msgid "%f of %n"
+msgstr "%f នៃ %n"
+
+msgid "%n mod %n"
+msgstr "%n ម៉ូដ %n"
+
+msgid "add %s to %L"
+msgstr "បន្ថែម %s លើ %L"
+
+msgid "answer"
+msgstr "ឆ្លើយ"
+
+msgid "ask %s and wait"
+msgstr "សួរ %s ហើយរង់ចាំ"
+
+msgid "background #"
+msgstr "ផ្ទៃខាងក្រោយ #"
+
+msgid "broadcast %e"
+msgstr "ប្រកាស %e"
+
+msgid "broadcast %e and wait"
+msgstr "ប្រកាស %e ហើយរង់ចាំ"
+
+msgid "change %g effect by %n"
+msgstr "ប្ដូរ %g អ៊ីហ្វិកដោយ %n"
+
+msgid "change %v by %n"
+msgstr "ប្ដូរ %v ដោយ %n"
+
+msgid "change pen color by %n"
+msgstr "ប្ដូរពណ៌ប៊ិចដោយ %n"
+
+msgid "change pen shade by %n"
+msgstr "ប្ដូរសេដប៊ិចដោយ %n"
+
+msgid "change pen size by %n"
+msgstr "ប្ដូរទំហំគំនូសប៊ិចដោយ %n"
+
+msgid "change size by %n"
+msgstr "ប្ដូរទំហំដោយ %n"
+
+msgid "change tempo by %n"
+msgstr "ប្តូរចង្វាក់ដោយ %n"
+
+msgid "change volume by %n"
+msgstr "ប្ដូរសំឡេងដោយ %n"
+
+msgid "change x by %n"
+msgstr "ប្ដូរ x ដោយ %n"
+
+msgid "change y by %n"
+msgstr "ប្ដូរ y ដោយ %n"
+
+msgid "clear"
+msgstr "សម្អាត"
+
+msgid "clear graphic effects"
+msgstr "ដកក្រាហ្វិកអ៊ីហ្វិក"
+
+msgid "color %C is touching %C?"
+msgstr "ពណ៌ %C ប៉ះ %C មែនទេ?"
+
+msgid "control"
+msgstr "ខុនត្រូល"
+
+msgid "costume #"
+msgstr "រូបភាព #"
+
+msgid "delete %y of %L"
+msgstr "លុប %y នៃ %L"
+
+msgid "direction"
+msgstr "ទិសដៅ"
+
+msgid "distance to %m"
+msgstr "ចម្ងាយទៅ %m"
+
+msgid "else"
+msgstr "ផ្សេងពីនេះ (else)"
+
+msgid "forever"
+msgstr "ធ្វើរហូត (forever)"
+
+msgid "forever if %b"
+msgstr "ធ្វើរហូតបើ (forever if) %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "រំកិល %n វិនាទី ទៅ x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "បកក្រោយ %n ស្រទាប់"
+
+msgid "go to %m"
+msgstr "ទៅកាន់ %m"
+
+msgid "go to front"
+msgstr "ទៅខាងមុខ"
+
+msgid "go to x:%n y:%n"
+msgstr "ទៅកាន់ x:%n y:%n"
+
+msgid "hide"
+msgstr "លាក់"
+
+msgid "hide variable %v"
+msgstr "លាក់ %v"
+
+msgid "if %b"
+msgstr "បើ %b"
+
+msgid "if on edge, bounce"
+msgstr "បើនៅគែម, ប្លាត"
+
+msgid "insert %s at %i of %L"
+msgstr "ដាក់ %s នៅទីតាំង %i នៃ %L"
+
+msgid "item %i of %L"
+msgstr "ធាតុទី %i នៃ %L"
+
+msgid "join %s %s"
+msgstr "ភ្ជាប់ %s %s"
+
+msgid "key %k pressed?"
+msgstr "ឃី %k បានចុច?"
+
+msgid "length of %L"
+msgstr "ប្រវែងនៃ %L"
+
+msgid "length of %s"
+msgstr "ប្រវែងនៃ %s"
+
+msgid "letter %n of %s"
+msgstr "អក្សរ %n នៃ %s"
+
+msgid "list"
+msgstr "លីស្ដ"
+
+msgid "looks"
+msgstr "រូបរាង"
+
+msgid "loud?"
+msgstr "ឮ?"
+
+msgid "loudness"
+msgstr "កម្រិតឮ"
+
+msgid "motion"
+msgstr "ចលនា"
+
+msgid "motor direction %W"
+msgstr "ទិសដៅម៉ូទ័រ %W"
+
+msgid "motor off"
+msgstr "ពន្លត់ម៉ូទ័រ"
+
+msgid "motor on"
+msgstr "បញ្ឆេះម៉ូទ័រ"
+
+msgid "motor on for %n secs"
+msgstr "បញ្ឆេះម៉ូទ័ររយៈពេល %n វិនាទី"
+
+msgid "motor power %n"
+msgstr "កម្លាំងម៉ូទ័រ %n"
+
+msgid "mouse down?"
+msgstr "ចុចម៉ៅស៍?"
+
+msgid "mouse x"
+msgstr "ម៉ៅស៍ x"
+
+msgid "mouse y"
+msgstr "ម៉ៅស៍ y"
+
+msgid "move %n steps"
+msgstr "ឈាន %n ជំហាន"
+
+msgid "next background"
+msgstr "ផ្ទៃខាងក្រោយបន្ទាប់"
+
+msgid "next costume"
+msgstr "រូបភាពបន្ទាប់"
+
+msgid "not %b"
+msgstr "មិន %b"
+
+msgid "operators"
+msgstr "អបភេរ៉េទ័រ"
+
+msgid "pen"
+msgstr "ប៊ិច"
+
+msgid "pen down"
+msgstr "ចាប់សរសេរ"
+
+msgid "pen up"
+msgstr "ឈប់សរសេរ"
+
+msgid "pick random %n to %n"
+msgstr "យកតម្លៃចៃដន្យពី %n ទៅ %n"
+
+msgid "play drum %D for %n beats"
+msgstr "ផ្លេយដ្រាំ %D ចំនួន %n ដង(ប៊ីត)"
+
+msgid "play note %N for %n beats"
+msgstr "ផ្លេយណូត %N ចំនួន %n ដង(ប៊ីត)"
+
+msgid "play sound %S"
+msgstr "ផ្លេយសំឡេង %S"
+
+msgid "play sound %S until done"
+msgstr "ផ្លេយសំឡេង %S ដល់ចប់"
+
+msgid "point in direction %d"
+msgstr "ចង្អុលតាមទិសដៅ %d"
+
+msgid "point towards %m"
+msgstr "ចង្អុលទៅ %m"
+
+msgid "repeat %n"
+msgstr "ធ្វើឡើងវិញ %n ដង"
+
+msgid "repeat until %b"
+msgstr "ធ្វើឡើងវិញរហូតដល់ %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "ជំនួសធាតុ %i នៃ %L ដោយ %s"
+
+msgid "reset timer"
+msgstr "កំណត់ថែមម័រឡើងវិញ"
+
+msgid "rest for %n beats"
+msgstr "ផ្អាក %n ប៊ីត"
+
+msgid "round %n"
+msgstr "បង្គត់ %n"
+
+msgid "say %s"
+msgstr "និយាយ %s"
+
+msgid "say %s for %n secs"
+msgstr "និយាយ %s ចំនួន %n វិនាទី"
+
+msgid "sensing"
+msgstr "សិនស៊ីង"
+
+msgid "sensor %h?"
+msgstr "សិនស័រ %h?"
+
+msgid "set %g effect to %n"
+msgstr "កំណត់ %g អ៊ីហ្វិកដោយ %n"
+
+msgid "set %v to %n"
+msgstr "កំណត់ %v ដោយ %n"
+
+msgid "set instrument to %I"
+msgstr "កំណត់ឧបករណ៍ភ្លេង %I"
+
+msgid "set pen color to %c"
+msgstr "កំណត់ពណ៌ប៊ិចដោយ %c"
+
+msgid "set pen color to %n"
+msgstr "កំណត់ពណ៌ប៊ិចដោយ %n"
+
+msgid "set pen shade to %n"
+msgstr "ប្ដូរសេដប៊ិចដោយ %n"
+
+msgid "set pen size to %n"
+msgstr "កំណត់ទំហំគំនួស %n"
+
+msgid "set size to %n%"
+msgstr "កំណត់ទំហំដោយ %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "កំណត់ចង្វាក់ %n bpm"
+
+msgid "set volume to %n%"
+msgstr "កំណត់វ៉ូលឹម %n%"
+
+msgid "set x to %n"
+msgstr "កំណត់ x ដោយ %n"
+
+msgid "set y to %n"
+msgstr "កំណត់ y ដោយ %n"
+
+msgid "show"
+msgstr "បង្ហាញ"
+
+msgid "show variable %v"
+msgstr "បង្ហាញ %v"
+
+msgid "size"
+msgstr "ទំហំ"
+
+msgid "sound"
+msgstr "សំឡេង"
+
+msgid "stamp"
+msgstr "បង្ហាញស្នាម"
+
+msgid "stop all"
+msgstr "បញ្ឈប់ទាំងអស់"
+
+msgid "stop all sounds"
+msgstr "បញ្ឈប់សំឡេងទាំងអស់"
+
+msgid "stop script"
+msgstr "បញ្ឈប់ស្គ្រីព(script)"
+
+msgid "switch to background %l"
+msgstr "ប្ដូរទៅផ្ទៃខាងក្រោយ %l"
+
+msgid "switch to costume %l"
+msgstr "ប្ដូរទៅរូបរាង %l"
+
+msgid "tempo"
+msgstr "ចង្វាក់"
+
+msgid "think %s"
+msgstr "គិត %s"
+
+msgid "think %s for %n secs"
+msgstr "គិត %s ក្នុង %n វិនាទី"
+
+msgid "timer"
+msgstr "ថៃមម័រ"
+
+msgid "touching %m?"
+msgstr "ប៉ះ %m?"
+
+msgid "touching color %C?"
+msgstr "ប៉ះនឹងពណ៌ %C?"
+
+msgid "turn %n degrees"
+msgstr "ងាក %n ដឺក្រេ"
+
+msgid "variables"
+msgstr "អញ្ញត"
+
+msgid "volume"
+msgstr "វ៉ូលឹម"
+
+msgid "wait %n secs"
+msgstr "រង់ចាំ %m វិនាទី"
+
+msgid "wait until %b"
+msgstr "រង់ចាំរហូតដល់ %b"
+
+msgid "when %k key pressed"
+msgstr "ពេលឃី %k បានចុច"
+
+msgid "when %m clicked"
+msgstr "ពេល %m បានឃ្លីក"
+
+msgid "when I receive %e"
+msgstr "ពេលខ្ញុំទទួល %e"
+
+msgid "x position"
+msgstr "x ទីតាំង"
+
+msgid "y position"
+msgstr "ទីតាំង y"
+
+# ##########################################&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# USER INTERFACE&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# ##########################################
+msgid ""
+msgstr "y ទីតាំង"
+
+msgid "(empty)"
+msgstr "(ទទេ)"
+
+msgid "1 script"
+msgstr "ស្គ្រីព ១"
+
+msgid "About Scratch"
+msgstr "អំពីស្ក្រាច់(Scratch)"
+
+msgid "About this project:"
+msgstr "អំពីគម្រោងនេះ"
+
+msgid "abs"
+msgstr "តម្លៃដាច់ខាត"
+
+msgid "add comment"
+msgstr "ដាក់ខំមឹន"
+
+msgid "add comment here"
+msgstr "ដាក់ខំមឹនទីនេះ"
+
+msgid "all"
+msgstr "ទាំងអស់"
+
+msgid "and"
+msgstr "និង"
+
+msgid "Animation"
+msgstr "ជីវចល"
+
+msgid "any"
+msgstr "មួយណាក៏បាន"
+
+msgid "Art"
+msgstr "សិល្បៈ"
+
+msgid "background"
+msgstr "ផ្ទៃខាងក្រោយ"
+
+msgid "backgrounds"
+msgstr "ផ្ទៃខាងក្រោយ"
+
+msgid "Backgrounds"
+msgstr "ផ្ទៃខាងក្រោយ"
+
+msgid "brightness"
+msgstr "ភាពភ្លឺ"
+
+msgid "Brush size: "
+msgstr "ទំហំជក់គំនូរ"
+
+msgid "button"
+msgstr "ប៊តថុន"
+
+msgid "button pressed"
+msgstr "ប៊តថុនបានចុច"
+
+msgid "Camera"
+msgstr "ខេមរ៉ា"
+
+msgid "can rotate"
+msgstr "អាចបង្វិល"
+
+msgid "cancel"
+msgstr "ខេនសល"
+
+msgid "Cancel"
+msgstr "ខេនសល"
+
+msgid "Choose a folder"
+msgstr "ជ្រើសរើស ហ្វូលឌ័រ"
+
+msgid "Choose new sprite from file"
+msgstr "ជ្រើសរើសស្ព្រៃថ្មីពីហ្វាល"
+
+msgid "clean up"
+msgstr "សម្អាត"
+
+msgid "Clear"
+msgstr "សម្អាត"
+
+msgid "Clear canvas"
+msgstr "សម្អាតឃែនវឺស"
+
+msgid "Close and continue"
+msgstr "បិទហើយបន្ត"
+
+msgid "Close dialog?"
+msgstr "បិទដាយអឺឡក?"
+
+msgid "Close paint editor?"
+msgstr "បិទកម្មវីធី Paint"
+
+msgid "close port"
+msgstr "បិទផត(port)"
+
+msgid "Close sound recorder?"
+msgstr "បិទការថតសំឡេង?"
+
+msgid "color"
+msgstr "ពណ៌"
+
+msgid "Compress Images"
+msgstr "ខមផ្រេសរូបភាព"
+
+msgid "Compress Sounds"
+msgstr "ខមផ្រេសសំឡេង"
+
+msgid "Compress sounds and images"
+msgstr "ខមផ្រេសសំឡេង និង រូបភាព"
+
+msgid "Computer"
+msgstr "កុំព្យូទ័រ"
+
+msgid "connected"
+msgstr "បានភ្ជាប់"
+
+msgid "Connecting to "
+msgstr "កំពុងភ្ជាប់"
+
+msgid "Copy"
+msgstr "ខប់ពី"
+
+msgid "costume"
+msgstr "រូបភាព"
+
+msgid "costumes"
+msgstr "រូបភាព"
+
+msgid "Costumes"
+msgstr "រូបភាព"
+
+msgid "Could not read"
+msgstr "មិនអាចអានបាន"
+
+msgid "Could not read project; file may be damaged"
+msgstr "មិនអាចអានគម្រោងបាន, ហ្វាល អាចខូច"
+
+msgid "Could not write file"
+msgstr "មិនអាចសរសេរហ្វាលបាន"
+
+msgid "Create account"
+msgstr "បង្កើតអឹខោន"
+
+msgid "Create an empty project"
+msgstr "បង្កើតគម្រោងទទេ"
+
+msgid "Data sent. Waiting for response..."
+msgstr "ដាតាបានបញ្ជូន, រង់ចាំចម្លើយ..."
+
+msgid "delete"
+msgstr "លុប"
+
+msgid "Delete"
+msgstr "លុប"
+
+msgid "Delete a list"
+msgstr "លុបលីស្ដ"
+
+msgid "Delete a variable"
+msgstr "លុបអញ្ញាត"
+
+msgid "Delete this background"
+msgstr "លុបផ្ទៃខាងក្រោយនេះ"
+
+msgid "Delete this costume"
+msgstr "លុបរូបភាពនេះ"
+
+msgid "Delete this sound"
+msgstr "លុបសម្លេងនេះ"
+
+msgid "Delete this sprite"
+msgstr "លុបស្ប្រៃនេះ"
+
+msgid "Desktop"
+msgstr "ឌែសថប់"
+
+msgid "disable remote sensor connections"
+msgstr "បិទរីម៉ូតសិនស័រ"
+
+msgid "distance"
+msgstr "ចម្ងាយ"
+
+msgid "Documents"
+msgstr "ឯកសារ"
+
+msgid "don't rotate"
+msgstr "កុំបង្វិល"
+
+msgid "Don't Save"
+msgstr "កុំសេវ"
+
+msgid "Done"
+msgstr "សម្រេច"
+
+msgid "down"
+msgstr "ចុះក្រោម"
+
+msgid "down arrow"
+msgstr "ព្រួញចុះក្រោម"
+
+msgid "drag to resize"
+msgstr "ទាញប្តូរទំហំ"
+
+msgid "drag to rotate"
+msgstr "ទាញបង្វិល"
+
+msgid "draggable on website?"
+msgstr "អាចចាប់ដាក់លើវែបសាយ"
+
+msgid "duplicate"
+msgstr "ស្ទួន"
+
+msgid "Duplicate"
+msgstr "ស្ទួន"
+
+msgid "edge"
+msgstr "គែម"
+
+msgid "Edit"
+msgstr "កែសម្រួល"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "អេលីបធូល (គូសអាវឡាញ ឬ បំពេញផ្ទៃ របស់ អេលីប ឬ រង្វង់)"
+
+msgid "enable remote sensor connections"
+msgstr "បើករីម៉ូតសិនស័រ"
+
+msgid "Enter presentation mode"
+msgstr "ចូលក្នុងទម្រង់បទបង្ហាញ"
+
+msgid "Eraser"
+msgstr "ប្រដាប់លុប"
+
+msgid "Eraser size"
+msgstr "ទំហំ ប្រដាប់លុប"
+
+msgid "Error!"
+msgstr "អ៊ែរ៉ឹរ!"
+
+msgid "Examples"
+msgstr "ឧទាហរណ៍"
+
+msgid "Exit presentation"
+msgstr "បញ្ចាប់បទបង្ហាញ"
+
+msgid "Exit presentation mode"
+msgstr "បញ្ចប់ទម្រង់បទបង្ហាញ"
+
+msgid "export"
+msgstr "អ៊ិកស្ព័ត"
+
+msgid "Export Background"
+msgstr "អ៊ិកស្ព័តផ្ទៃខាងក្រោយ"
+
+msgid "Export Costume"
+msgstr "អ៊ិកស្ព័តរូបរាង"
+
+msgid "Export failed"
+msgstr "អ៊ិកស្ព័តបរាជ័យ"
+
+msgid "Export Sound"
+msgstr "អ៊ិកស្ព័តសំឡេង"
+
+msgid "Export Sprite"
+msgstr "អ៊ិកស្ព័តស្ប្រៃ"
+
+msgid "export this costume"
+msgstr "អ៊ិកស្ព័តរូបរាងនេះ"
+
+msgid "export this sound"
+msgstr "អ៊ិកស្ព័តសំឡេងនេះ"
+
+msgid "export this sprite"
+msgstr "អ៊ិកស្ព័តស្ប្រៃនេះ"
+
+msgid "Extras menu"
+msgstr "មែនញូយអ៊ិចស្ត្រា"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "អាយដ្រប់ធូល (ជ្រើសរើសពណ៌)"
+
+msgid "Failed:"
+msgstr "បរាជ័យ:"
+
+msgid "false"
+msgstr "មិនពិត"
+
+msgid "File"
+msgstr "ហ្វាល"
+
+msgid "File not found"
+msgstr "រកមិនឃើញហ្វាល"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "ហ្វីលធូល (បំពេញពណ៌លើផ្ទៃ ឬ ល្បាយពណ៌)"
+
+msgid "first"
+msgstr "ទីមួយ"
+
+msgid "fisheye"
+msgstr "ហ្វីសអាយ"
+
+msgid "Flash blocks (fast)"
+msgstr "ប្លក់ញាក់ (លឿន)"
+
+msgid "Flash blocks (slow)"
+msgstr "ប្លក់ញាក់ (យឺត)"
+
+msgid "Flip horizontally"
+msgstr "បង្វិលផ្ដេក"
+
+msgid "Flip vertically"
+msgstr "បង្វិលបញ្ឈរ"
+
+msgid "For all sprites"
+msgstr "សម្រាប់ស្ប្រៃទាំងអស់"
+
+msgid "For this sprite only"
+msgstr "សម្រាប់តែស្ប្រៃនេះមួយគត់"
+
+msgid "Game"
+msgstr "ហ្គេម"
+
+msgid "Get surprise sprite"
+msgstr "យកស្ប្រៃដោយចៃដន្យ"
+
+msgid "Get the last thing deleted"
+msgstr "យកវត្ថុដែលត្រូវបានលុបចុងក្រោយ"
+
+msgid "Getting Started"
+msgstr "ចាប់ផ្ដើម"
+
+msgid "ghost"
+msgstr "ខ្មោច"
+
+msgid "Go To Scratch Website"
+msgstr "ទៅកាន់វេបសាយរបស់ស្ក្រាច់"
+
+msgid "grab screen region for new costume"
+msgstr "ថតតំបន់នៃអេក្រង់សម្រាប់រូបរាងថ្មី"
+
+msgid "grab screen region for new sprite"
+msgstr "ថតតំបន់នៃអេក្រង់សម្រាប់ស្ប្រៃថ្មី"
+
+msgid "Grow"
+msgstr "ពង្រីក"
+
+msgid "Grow sprite"
+msgstr "ពង្រីកស្ប្រៃ"
+
+msgid "hello "
+msgstr "សួស្ដី"
+
+msgid "Hello!"
+msgstr "សួស្ដី!"
+
+msgid "help"
+msgstr "ជួយ"
+
+msgid "Help"
+msgstr "ជំនួយ"
+
+msgid "Help Page"
+msgstr "ទំព័រជំនួយ"
+
+msgid "Help Screens"
+msgstr "ផ្ទាំងផ្ដល់ជំនួយ"
+
+msgid "Hide Motor Blocks"
+msgstr "លាក់ប្លក់ម៉ូទ័រ"
+
+msgid "High (biggest)"
+msgstr "ធំជាងគេ"
+
+msgid "Hmm..."
+msgstr "ហ៊ឹម.. "
+
+msgid "Home"
+msgstr "ហូម"
+
+msgid "Images compressed"
+msgstr "រូបភាពខមប្រេស"
+
+msgid "import"
+msgstr "អ៊ីមផត"
+
+msgid "Import"
+msgstr "អ៊ីមផត"
+
+msgid "Import an image on top of your current canvas"
+msgstr "អ៊ីមផតរូបភាពដាក់ខាងលើឃែនវឺសនេះ"
+
+msgid "Import Background"
+msgstr "អ៊ីមផតផ្ទៃខាងក្រោយ"
+
+msgid "Import Costume"
+msgstr "អ៊ីមផតរូបរាង"
+
+msgid "Import Image"
+msgstr "អ៊ីមផតរូបភាព"
+
+msgid "Import List"
+msgstr "អ៊ីមផតលីស្ដ"
+
+msgid "Import Project"
+msgstr "អ៊ីមផតគម្រោង"
+
+msgid "import project"
+msgstr "អ៊ីមផតគម្រោង"
+
+msgid "Import Sound"
+msgstr "អ៊ីមផតសំឡេង"
+
+msgid "Incompatible Scratch file format"
+msgstr "ទម្រង់របស់ហ្វាលមិនស្គាល់ដោយស្ក្រាច់"
+
+msgid "Is the folder read-only?"
+msgstr "ហ្វូលដឺនេះអាចតែអានមែនទេ?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "គុណភាព JPEG (10-100)"
+
+msgid "kbytes"
+msgstr "ខេបៃ (kbytes)"
+
+msgid "Language"
+msgstr "ភាសា"
+
+msgid "large readout"
+msgstr "ពង្រីកឱ្យធំ"
+
+msgid "last"
+msgstr "ចុងបង្អស់"
+
+msgid "left"
+msgstr "ឆ្វេង"
+
+msgid "left arrow"
+msgstr "ព្រួញឆ្វេង"
+
+msgid "length"
+msgstr "ប្រវែង"
+
+msgid "light"
+msgstr "ពន្លឺ"
+
+msgid "Line tool (draw lines)"
+msgstr "ឡាញធូល (គូរបន្ទាត់)"
+
+msgid "List name?"
+msgstr "បង្ហាញឈ្មោះ?"
+
+msgid "Low"
+msgstr "ទាប"
+
+msgid "Lowest (smallest)"
+msgstr "ទាបបំផុត"
+
+msgid "Make a list"
+msgstr "បង្កើតលីស្ត"
+
+msgid "Make a variable"
+msgstr "បង្កើតអញ្ញាត"
+
+msgid "Max:"
+msgstr "ម៉ាក់"
+
+msgid "meow"
+msgstr "ម៉េវ"
+
+msgid "Message name:"
+msgstr "ឈ្មោះសារ:"
+
+msgid "Min:"
+msgstr "មីន"
+
+msgid "mod"
+msgstr "ម៉ូដ"
+
+msgid "more"
+msgstr "បន្ថែមទៀត"
+
+msgid "More tags:"
+msgstr "ធែកផ្សេងទៀត"
+
+msgid "mosaic"
+msgstr "ម៉ូហ្សាអ៊ិក"
+
+msgid "mouse x:"
+msgstr "ម៉ៅស៍ x:"
+
+msgid "mouse y:"
+msgstr "ម៉ៅស៍ y:"
+
+msgid "mouse-pointer"
+msgstr "រូបម៉ៅស៍"
+
+msgid "Move"
+msgstr "ផ្លាស់ទី"
+
+msgid "Music"
+msgstr "តន្ត្រី"
+
+msgid "My Projects"
+msgstr "គម្រោងរបស់ខ្ញុំ"
+
+msgid "new"
+msgstr "ថ្មី"
+
+msgid "New"
+msgstr "ថ្មី"
+
+msgid "New background:"
+msgstr "ផ្ទៃខាងក្រោយថ្មី:"
+
+msgid "New costume:"
+msgstr "រូបរាងថ្មី:"
+
+msgid "New file name?"
+msgstr "ឈ្មោះហ្វាលថ្មី:"
+
+msgid "New Filename:"
+msgstr "សំឡេងថ្មី:"
+
+msgid "New sound:"
+msgstr "ស្ប្រៃថ្មី"
+
+msgid "New Sprite"
+msgstr "ស្ប្រៃថ្មី:"
+
+msgid "New sprite:"
+msgstr "ស្ប្រៃថ្មី:"
+
+msgid "No"
+msgstr "មិនព្រម"
+
+msgid "No MIDI ports currently available."
+msgstr "គ្មានមីឌីផតទំនេរទេ។"
+
+msgid "No motion blocks"
+msgstr "គ្មានប្លក់ចលនាទេ"
+
+msgid "no scripts"
+msgstr "គ្មានស្គ្រីព"
+
+msgid "No serial ports found"
+msgstr "គ្មានសឺរៀលផត"
+
+msgid "No variables."
+msgstr "គ្មានអញ្ញាត"
+
+msgid "Normal"
+msgstr "ធម្មតា"
+
+msgid "normal readout"
+msgstr "បង្ហាញធម្មតា"
+
+msgid "Off"
+msgstr "បិទ"
+
+msgid "OK"
+msgstr "អូខេ"
+
+msgid "On"
+msgstr "បើក"
+
+msgid "only face left-right"
+msgstr "បែរមុខទៅ ឆ្វេង-ស្ដាំ"
+
+msgid "Open"
+msgstr "បើក"
+
+msgid "Open a Scratch project"
+msgstr "បើកគម្រោងស្ក្រាច់"
+
+msgid "Open Project"
+msgstr "បើកគម្រោង"
+
+msgid "or"
+msgstr "ឬ"
+
+msgid "Paint"
+msgstr "ផេន(Paint)"
+
+msgid "Paint Editor"
+msgstr "ផេន"
+
+msgid "Paint new sprite"
+msgstr "គូសស្ប្រៃថ្មី"
+
+msgid "Paintbrush"
+msgstr "ជក់លាបពណ៌"
+
+msgid "Password:"
+msgstr "ផាសវ៉ឹដ"
+
+msgid "Percent? (100 gives original size)"
+msgstr "ភាគរយ? (100 គឺទំហំដើម)"
+
+msgid "Pictures"
+msgstr "រូបភាព"
+
+msgid "pixelate"
+msgstr "ភិកស៊ែលឡេត"
+
+msgid "play"
+msgstr "ផ្លេយ(play)"
+
+msgid "Please enter a number"
+msgstr "សូមបញ្ចូលចំនួនមួយ"
+
+msgid "pop"
+msgstr "ផប់(pop)"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "ជ្រើសរើសក្រស់ហ៊ែរ(cross-hair) ដើម្បីបង្វិល"
+
+msgid "Preparing project..."
+msgstr "កំពុងរៀបចំគម្រោង"
+
+msgid "Project author:"
+msgstr "ម្ចាស់គម្រោង"
+
+msgid "Project name"
+msgstr "ឈ្មោះគម្រោង"
+
+msgid "Project Notes"
+msgstr "កំណត់សម្គាល់នៃគម្រោង"
+
+msgid "Project notes"
+msgstr "កំណត់សម្គាល់នៃគម្រោង"
+
+msgid "Project uploaded."
+msgstr "គម្រោងបានអឹបឡូដ"
+
+msgid "Projects"
+msgstr "គម្រោង"
+
+msgid "Quit"
+msgstr "បញ្ចប់"
+
+msgid "Quit Scratch"
+msgstr "បញ្ចប់ស្ក្រាច់"
+
+msgid "Reading"
+msgstr "កំពុងអាន"
+
+msgid "record"
+msgstr "ថតសំឡេង"
+
+msgid "Record"
+msgstr "ថតសំឡេង"
+
+msgid "recording"
+msgstr "កំពុងថតសំឡេង"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "រេកធែងហ្គឹលធូល (គូសអាវឡាញ ឬ បំពេញផ្ទៃ របស់ ចតុកោណកែង ឬ ការេ)"
+
+msgid "Redo"
+msgstr "រីឌូ"
+
+msgid "Reference Guide"
+msgstr "អត្ថបទយោង"
+
+msgid "Remote sensor connections enabled"
+msgstr "បើករីម៉ូតសិនស័រ"
+
+msgid "Remove viewer from stage"
+msgstr "ដកវីយូអឺពីស្ទេច"
+
+msgid "resistance"
+msgstr "រីហ្ស៊ីសស្ទិន"
+
+msgid "resize this sprite"
+msgstr "ប្ដូរទំហំស្ប្រៃនេះ"
+
+msgid "reverse"
+msgstr "បញ្ច្រាស់"
+
+msgid "right"
+msgstr "ស្ដាំ"
+
+msgid "right arrow"
+msgstr "ព្រួញស្ដាំ"
+
+msgid "Rotate clock-wise"
+msgstr "បង្វិលតាមទ្រនិចនាឡិកា"
+
+msgid "Rotate counter-clock-wise"
+msgstr "បង្វិលបញ្ច្រាស់ទ្រនិចនាឡិកា"
+
+msgid "rotate this sprite"
+msgstr "បង្វិលស្ប្រៃនេះ"
+
+msgid "Rotation degrees?"
+msgstr "បង្វិលដឺក្រេ?"
+
+msgid "Save"
+msgstr "សេវ"
+
+msgid "Save a copy of the current project"
+msgstr "សេវគម្រោងចម្លងពីគម្រោងនេះ"
+
+msgid "Save As"
+msgstr "សេវអ៊ែស"
+
+msgid "Save changes before quitting?"
+msgstr "សេវការផ្លាស់ប្ដូរមុនបញ្ចប់?"
+
+msgid "Save failed"
+msgstr "សេវបរាជ័យ"
+
+msgid "save picture of scripts"
+msgstr "សេវរូបភាពនៃស្គ្រីព"
+
+msgid "save picture of stage..."
+msgstr "សេវរូបភាពនៃស្ទេច(stage)"
+
+msgid "Save Project"
+msgstr "សេវគម្រោង"
+
+msgid "Save Scripts Snapshot"
+msgstr "សេវស្គ្រីពស្នាបហ្សត់"
+
+msgid "Save Stage Shot"
+msgstr "សេវស្ទេចហ្សត់"
+
+msgid "Save the current project"
+msgstr "សេវគម្រោងនេះ"
+
+msgid "Save the current project?"
+msgstr "សេវគម្រោងនេះ?"
+
+msgid "Save this project"
+msgstr "សេវគម្រោងនេះ"
+
+msgid "Scripts"
+msgstr "ស្គ្រីព"
+
+msgid "select serial/USB port"
+msgstr "ជ្រើស សឺរៀល/USB ផត"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "សេឡិកធូល (រំកិល, កែសម្រួល, ឬ លុបជម្រើស)"
+
+msgid "Set costume center"
+msgstr "កំណត់ផ្ចិតរូបភាព"
+
+msgid "Set language"
+msgstr "កំណត់ភាសា"
+
+msgid "Set rotation center"
+msgstr "កំណត់ផ្ចិតបង្ចិល"
+
+msgid "Set Single Stepping"
+msgstr "កំណតម្ដងមួយជំហាន"
+
+msgid "set slider min and max"
+msgstr "កំណត់ស្លាយឌ័រ មីន និង ម៉ាក់"
+
+msgid "Share"
+msgstr "ស៊ែរ"
+
+msgid "Share this project"
+msgstr "ស៊ែរគម្រោងនេះ"
+
+msgid "Share This Project Online"
+msgstr "ស៊ែរគម្រោងនេះអនឡាញ"
+
+msgid "Show Motor Blocks"
+msgstr "បង្ហាញប្លក់ម៉ូទ័រ"
+
+msgid "show ScratchBoard watcher"
+msgstr "បង្ហាញស្ក្រាច់បតវ៉ចឆឺរ"
+
+msgid "Shrink"
+msgstr "ស៊្រីង"
+
+msgid "Shrink sprite"
+msgstr "ស្រ៊ីងស្ប្រៃ"
+
+msgid "Simulation"
+msgstr "ស៊ីមីឡេហ្សិន"
+
+msgid "Single-step speed?"
+msgstr "ល្បឿនម្ដងមួយជំហាន?"
+
+msgid "slider"
+msgstr "ស្លាយឌ័រ"
+
+msgid "Slider range:"
+msgstr "ដែនស្លាយឌ័រ:"
+
+msgid "Sound quality:"
+msgstr "គុណភាពសំឡេង:"
+
+msgid "Sound Recorder"
+msgstr "ឧបករណ៍ថតសំឡេង"
+
+msgid "Sounds"
+msgstr "សំឡេង"
+
+msgid "Sounds compressed"
+msgstr "សំឡេងខមប្រេស"
+
+msgid "space"
+msgstr "ស្ប៉េស"
+
+msgid "Sprite"
+msgstr "ស្ប្រៃ"
+
+msgid "Sprites"
+msgstr "ស្ប្រៃ"
+
+msgid "sqrt"
+msgstr "ឫសការ៉េ(sqrt)"
+
+msgid "Stage"
+msgstr "ស្ទេច"
+
+msgid "Stage selected:"
+msgstr "ស្ទេចបានជ្រើសរើស"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "ស្ទែម ធូល (កំណត់តំបន់ ហើយបង្ហាញស្នាមរបស់វា)"
+
+msgid "Start green flag scripts"
+msgstr "ដំណើរការហ្គ្រីនហ្វ្លែកស្គ្រីព"
+
+msgid "Start Single Stepping"
+msgstr "ដំណើរការមួយជំហានម្ដង"
+
+msgid "stop"
+msgstr "ឈប់"
+
+msgid "Stop everything"
+msgstr "ឈប់ទាំងអស់"
+
+msgid "Stop Single Stepping"
+msgstr "ឈប់ដំណើរការមួយជំហានម្ដង"
+
+msgid "Story"
+msgstr "ស្តរី"
+
+msgid "Support Site"
+msgstr "សឹបផតវែបសាយ"
+
+msgid "Switch colors"
+msgstr "ប្ដូរពណ៌"
+
+msgid "Switch to full stage"
+msgstr "ពង្រីកស្ទេចទៅទំហំធំ"
+
+msgid "Switch to presentation mode"
+msgstr "ប្ដូរទៅទម្រង់បង្ហាញ"
+
+msgid "Switch to small stage"
+msgstr "បង្រួមស្ទេចមកទំហំតូច"
+
+msgid "Tags:"
+msgstr "ធែក"
+
+msgid "Text tool (edit text layer)"
+msgstr "អ៊ិកស្ត្រាធូល(កែសម្រួលអក្សរ)"
+
+msgid "That variable name is already in use"
+msgstr "ឈ្មោះអញ្ញាតនេះកំពុងប្រើ"
+
+msgid "that way"
+msgstr "វិធីនោះ"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "ឈ្មោះហ្វាលមានរួចហើយ។ អូវើរ៉ាយហ្វាលនេះទេ?"
+
+msgid "thing"
+msgstr "វត្ថុ"
+
+msgid "this way"
+msgstr "វិធីនេះ"
+
+msgid "tilt"
+msgstr "ធីល"
+
+msgid "true"
+msgstr "ពិត"
+
+msgid "Turbo speed"
+msgstr "ល្បឿនធើបូ"
+
+msgid "turn into new sprite"
+msgstr "ប្រែទៅជាស្ប្រៃថ្មី"
+
+msgid "Undelete"
+msgstr "លុបមិនបាន"
+
+msgid "Undo"
+msgstr "អ៊ឹនឌូ"
+
+msgid "up"
+msgstr "ឡើង"
+
+msgid "up arrow"
+msgstr "ព្រូញឡើង"
+
+msgid "Updating thumbnails"
+msgstr "កំពុងអឹបដេតសឹមណេល"
+
+msgid "Upload succeeded!"
+msgstr "អឹបឡូដបានជោគជ័យ"
+
+msgid "Upload to Scratch Server"
+msgstr "អឹបឡូដទៅសឹវ័រស្ក្រាច់"
+
+msgid "Uploading"
+msgstr "កំពុងអឹបឡូដ"
+
+msgid "Variable name?"
+msgstr "ឈ្មោះអញ្ញាត?"
+
+msgid "View on stage"
+msgstr "មើលស្ទេច"
+
+msgid "What's your name?"
+msgstr "តើអ្នកឈ្មោះអ្វី?"
+
+msgid "whirl"
+msgstr "វិល"
+
+msgid "world"
+msgstr "វ៉ល"
+
+msgid "Write Multiple Project Summaries"
+msgstr "សរសេរសេចក្ដីសង្ខេបពហុគម្រោង"
+
+msgid "Write Project Summary"
+msgstr "សរសេរសេចក្ដីសង្ខេបគម្រោង"
+
+msgid "Yes"
+msgstr "យល់ព្រម"
+
+msgid "Your project is now online at"
+msgstr "គម្រោងរបស់អ្នកកំពុងអនឡាញនៅឯ"
+
+msgid "Your Scratch website login name:"
+msgstr "ឡកអ៊ិនរបស់អ្នកក្នុងវែបសាយស្ក្រាច់"
+
+msgid "Zoom in"
+msgstr "ពង្រីក"
+
+msgid "Zoom out"
+msgstr "បង្រូម"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+############################################
+# FORMATTING
+# BLOCKS
+# USER INTERFACE
+# MIDI INSTRUMENTS
+
+msgid "Accordion"
+msgstr "អគ័រឌាន"
+
+msgid "Acoustic Bass"
+msgstr "អគូស្តិក ប៊េស"
+
+msgid "Acoustic Bass Drum"
+msgstr "អគូស្តិក ប៊េស ឌ្រឹម"
+
+msgid "Acoustic Grand"
+msgstr "អគូស្តិក ក្គ្រែន"
+
+msgid "Acoustic Snare"
+msgstr "អគូស្តិក ស្ន៊ែ"
+
+msgid "Agogo"
+msgstr "អាហ្គូហ្គូ"
+
+msgid "Alto Sax"
+msgstr "អាលតូ សាក់  "
+
+msgid "Applause"
+msgstr "អាប្លរ"
+
+msgid "Bagpipe"
+msgstr "ប៊ែកផៃ"
+
+msgid "Banjo"
+msgstr "ប៊ែនចូ"
+
+msgid "Baritone Sax"
+msgstr "ប៊ែរីថូន"
+
+msgid "Bass Drum 1"
+msgstr "ប៊ែស ឌ្រឹម ១"
+
+msgid "Bassoon"
+msgstr "បាស់ស៊ូន"
+
+msgid "Bird Tweet"
+msgstr "ប៊ឺដ ត្វីត"
+
+msgid "Blown Bottle"
+msgstr "ប៊ឡូ បតុល"
+
+msgid "Brass Section"
+msgstr "ប្រាស់ សិកសិន"
+
+msgid "Breath Noise"
+msgstr "ប្រេះ នយស៍"
+
+msgid "Bright Acoustic"
+msgstr "ប្រៃ អគូស្តិក"
+
+msgid "Cabasa"
+msgstr "កាបាសា"
+
+msgid "Celesta"
+msgstr "សេឡេស"
+
+msgid "Cello"
+msgstr "សែលឡូ"
+
+msgid "Chinese Cymbal"
+msgstr "ឆៃនី សីមប៊ល"
+
+msgid "Choir Aahs"
+msgstr "គវ៉ាយឺ អាស៍"
+
+msgid "Church Organ"
+msgstr "ឆឺច អហ្គាន"
+
+msgid "Clarinet"
+msgstr "ក្លារីណេត"
+
+msgid "Claves"
+msgstr "ក្លេវ"
+
+msgid "Clavinet"
+msgstr "ក្លាវីណេត"
+
+msgid "Closed Hi-Hat"
+msgstr "ក្លូ ហៃហេដ"
+
+msgid "Contrabass"
+msgstr "ខន្ត្រាប៊េស"
+
+msgid "Cowbell"
+msgstr "ខាវបែល"
+
+msgid "Crash Cymbal 1"
+msgstr "ក្រាស់ សិមប៊ល វ័ន"
+
+msgid "Crash Cymbal 2"
+msgstr "ក្រាស់ សិមប៊ល ធូ"
+
+msgid "Distortion Guitar"
+msgstr "ឌីស្ត័រសិន ហ្គីតា"
+
+msgid "Drawbar Organ"
+msgstr "ត្របា អហ្គាន"
+
+msgid "Dulcimer"
+msgstr "ដល់សីមើ"
+
+msgid "Electric Bass (finger)"
+msgstr "អេឡិកត្រិក ប៊េស (ហ្វិងហ្គឺ)"
+
+msgid "Electric Bass (pick)"
+msgstr "អេឡិកត្រិក ប៊េស (ភិក)"
+
+msgid "Electric Clean Guitar"
+msgstr "អេឡិកត្រិក ក្លីន ហ្គីតា"
+
+msgid "Electric Grand"
+msgstr "អេឡិកត្រិក គ្ហ្រែន"
+
+msgid "Electric Jazz Guitar"
+msgstr "អេឡិកត្រិក ហ្ចាស ហ្គីតា"
+
+msgid "Electric Muted Guitar"
+msgstr "អេឡិកត្រិក ម្ញូត ហ្គីតា"
+
+msgid "Electric Piano 1"
+msgstr "អេឡិកត្រិក ព្យាណូ វ័ន"
+
+msgid "Electric Piano 2"
+msgstr "អេឡិកត្រិក ព្យាណូ ធូ"
+
+msgid "Electric Snare"
+msgstr "អេឡិកត្រិក ស៊្នែ"
+
+msgid "English Horn"
+msgstr "អ៊ិងគ្លិស ហ៊័ន"
+
+msgid "FX 1 (rain)"
+msgstr "ហ្អ៊េះ អ៊ិច វ័ន (រ៉េន)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "ហ្អ៊េះ អ៊ិច ធូ (សោនត្រាក់)"
+
+msgid "FX 3 (crystal)"
+msgstr "ហ្អ៊េះ អ៊ិច ស៊្រី (គ្រីសស្តាល់)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "ហ្អ៊េះ អ៊ិច ហ្វ័រ (អាតម៉ូសស្វ៊ែ)"
+
+msgid "FX 5 (brightness)"
+msgstr "ហ្អ៊េះ អ៊ិច ហ្វាយ (ប៉្រៃណេះ)"
+
+msgid "FX 6 (goblins)"
+msgstr "ហ្អ៊េះ អ៊ិច សីក (ហ្គរប្លិន)"
+
+msgid "FX 7 (echoes)"
+msgstr "ហ្អ៊េះ អ៊ិច សេវិន (អេកូ)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "ហ្អ៊េះ អ៊ិច អ៉េត (សាយហ្វាយ)"
+
+msgid "Fiddle"
+msgstr "ហ្វីតឌិល"
+
+msgid "Flute"
+msgstr "ហ៊្វូត"
+
+msgid "French Horn"
+msgstr "ហ្វ្រេន ហ័ន"
+
+msgid "Fretless Bass"
+msgstr "ហ្វ្រេតឡេស ប៊េស"
+
+msgid "Glockenspiel"
+msgstr "គ្លកកិនស្ពៀល"
+
+msgid "Guitar Fret Noise"
+msgstr "ហ្គីតា ហ្វ្រេណ័ស"
+
+msgid "Guitar Harmonics"
+msgstr "ហ្គីតា ហាម៉ូនី"
+
+msgid "Gunshot"
+msgstr "ហ្គិន ហ្សត"
+
+msgid "Hand Clap"
+msgstr "ហេន្ដ ក្លែភ"
+
+msgid "Harmonica"
+msgstr "ហាម៉ូនីកា"
+
+msgid "Harpsichord"
+msgstr "ហពស៊ីគ័រដ៍"
+
+msgid "Helicopter"
+msgstr "ហេលីខបធើ"
+
+msgid "Hi Bongo"
+msgstr "ហៃ ប៊ុងហ្គូ"
+
+msgid "Hi Wood Block"
+msgstr "ហៃវុតប្លក"
+
+msgid "Hi-Mid Tom"
+msgstr "ហៃមីតថម"
+
+msgid "High Agogo"
+msgstr "ហៃ អាហ្គូហ្គូ"
+
+msgid "High Floor Tom"
+msgstr "ហៃហ្វ័រថម"
+
+msgid "High Timbale"
+msgstr "ធីមបល"
+
+msgid "High Tom"
+msgstr "ហៃថម"
+
+msgid "Honky-Tonk"
+msgstr "ហង្គីថង"
+
+msgid "Kalimba"
+msgstr "កាលីមបា"
+
+msgid "Koto"
+msgstr "ខូថូ"
+
+msgid "Lead 1 (square)"
+msgstr "លីត វ័ន (ស្ខែ)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "លីត ធូ (ស ធូត)"
+
+msgid "Lead 3 (calliope)"
+msgstr "លីត ស៊្រី (កាឡៃអូភី)"
+
+msgid "Lead 4 (chiff)"
+msgstr "លីត ហ្វ័រ (ហ្សីព)"
+
+msgid "Lead 5 (charang)"
+msgstr "លីត វ័ន (ហ្សារ៉េង)"
+
+msgid "Lead 6 (voice)"
+msgstr "លីត សីក (វ័ស្ស)"
+
+msgid "Lead 7 (fifths)"
+msgstr "លីត សេវិន (ហ្វីព)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "លីត អ៉េត (បាស+លីត)"
+
+msgid "Long Guiro"
+msgstr "ឡង ហ្គីរ៉ូ"
+
+msgid "Long Whistle"
+msgstr "ឡង វីសិ្សល"
+
+msgid "Low Agogo"
+msgstr "ឡូវ អាហ្គូហ្កូ"
+
+msgid "Low Bongo"
+msgstr "ឡូវ បុងហ្គូ"
+
+msgid "Low Conga"
+msgstr "ឡូវ ខុងហ្គៃ"
+
+msgid "Low Floor Tom"
+msgstr "ឡូវ ហ្វ័រថម"
+
+msgid "Low Timbale"
+msgstr "ឡូវ ធីមបល"
+
+msgid "Low Tom"
+msgstr "ឡូវ ថម"
+
+msgid "Low Wood Block"
+msgstr "ឡូវ វ៉ូតប្លក"
+
+msgid "Low-Mid Tom"
+msgstr "ឡូវ មីតថម"
+
+msgid "Maracas"
+msgstr "ម៉ារ៉ាកាស៍"
+
+msgid "Marimba"
+msgstr "ម៉ារីមបា"
+
+msgid "Melodic Tom"
+msgstr "មេឡូឌី ថម"
+
+msgid "Music Box"
+msgstr "ម៉្ញូស៊ីក ប៊ក់"
+
+msgid "Mute Cuica"
+msgstr "ម្ញូត ខ្វីកា"
+
+msgid "Mute Hi Conga"
+msgstr "ម្ញូត ហៃ ខងហ្គា"
+
+msgid "Mute Triangle"
+msgstr "ម្ញូត ត្រៃអ៊េង្គិល"
+
+msgid "Muted Trumpet"
+msgstr "ម្ញូត ត្រមប៉ែត"
+
+msgid "Nylon String Guitar"
+msgstr "ណាយឡន ស្ទ្រីង ហ្កីតា"
+
+msgid "Oboe"
+msgstr "អូបូ"
+
+msgid "Ocarina"
+msgstr "អការីណា"
+
+msgid "Open Cuica"
+msgstr "អូផិន ខ្វីកា"
+
+msgid "Open Hi Conga"
+msgstr "អូផិន ហៃខុងហ្គា"
+
+msgid "Open Hi-Hat"
+msgstr "អូផិន ហៃ ហ៊ែត"
+
+msgid "Open Triangle"
+msgstr "អូផិន ត្រៃអ៊េង្គិល"
+
+msgid "Orchestra Hit"
+msgstr "អ័រខេះត្រា ហិត"
+
+msgid "Orchestral Strings"
+msgstr "អ័រខេះត្រា ស្ទ្រីង"
+
+msgid "Overdriven Guitar"
+msgstr "អូវើទ្រីវិន ហ្គីតា"
+
+msgid "Pad 1 (new age)"
+msgstr "ភែត វ័ន (ញ៊ូ អ៊េជ)"
+
+msgid "Pad 2 (warm)"
+msgstr "ភែត ធូ (វ៉ម)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "ភែត ស៊្រី (ផូលីសិន)"
+
+msgid "Pad 4 (choir)"
+msgstr "ភែត វ័ន (ខ្វាយ)"
+
+msgid "Pad 5 (bowed)"
+msgstr "ភែត ហ្វាយ (ប៊ោវ)"
+
+msgid "Pad 6 (metallic)"
+msgstr "ភែត សិក (មេតាលិក)"
+
+msgid "Pad 7 (halo)"
+msgstr "ភែត សេវិន (ហាឡូ)"
+
+msgid "Pad 8 (sweep)"
+msgstr "ភែត អ៉េត (ស្វីព)"
+
+msgid "Pan Flute"
+msgstr "ភេន ហ្វូត"
+
+msgid "Pedal Hi-Hat"
+msgstr "ភេន ហ្វូត"
+
+msgid "Percussive Organ"
+msgstr "ភឺខឹសសីវ"
+
+msgid "Piccolo"
+msgstr "ពីកកូឡូ"
+
+msgid "Pizzicato Strings"
+msgstr "ភីហ្សីកាតូ ស្ទ្រីង"
+
+msgid "Recorder"
+msgstr "រីខ័តឌើ"
+
+msgid "Reed Organ"
+msgstr "រីដ អ័រហ្គាន"
+
+msgid "Reverse Cymbal"
+msgstr "តីវើស សីមបាល"
+
+msgid "Ride Bell"
+msgstr "រ៉ៃ បេល"
+
+msgid "Ride Cymbal 1"
+msgstr "រ៉ៃ សីមបាល វ័ន"
+
+msgid "Ride Cymbal 2"
+msgstr "រ៉ៃ សីមបាល ធូ"
+
+msgid "Rock Organ"
+msgstr "រ៉ក អ័រហ្គាន"
+
+msgid "Seashore"
+msgstr "ស៊ីហ័រស៍"
+
+msgid "Shakuhachi"
+msgstr "ហ្សាកគូហាជី"
+
+msgid "Shamisen"
+msgstr "ហ្សាមីនសិល"
+
+msgid "Shanai"
+msgstr "ហ្សាណៃ"
+
+msgid "Short Guiro"
+msgstr "ហ្ស័ត ហ្គីរ៉ូ"
+
+msgid "Short Whistle"
+msgstr "ហ្ស័ត វីស្សិល"
+
+msgid "Side Stick"
+msgstr "សៃ ស្ទីក"
+
+msgid "Sitar"
+msgstr "ស៊ីថា"
+
+msgid "Slap Bass 1"
+msgstr "ស្លែប៊េស វ័ន"
+
+msgid "Slap Bass 2"
+msgstr "ស្លែប៊េស ធូ"
+
+msgid "Soprano Sax"
+msgstr "សូប្រាណូ សា"
+
+msgid "Splash Cymbal"
+msgstr "ស្លាស សីមបល"
+
+msgid "Steel Drums"
+msgstr "ស្ទីល ឌ្រិម"
+
+msgid "Steel String Guitar"
+msgstr "ស្ទីល ស្ទ្រីង ហ្គីតា"
+
+msgid "String Ensemble 1"
+msgstr "ស្ទ្រីង អន្សមបល វ័ន"
+
+msgid "String Ensemble 2"
+msgstr "ស្ទ្រីង អន្សមបល"
+
+msgid "Synth Bass 1"
+msgstr "សីន ប៉ាស វ័ន"
+
+msgid "Synth Bass 2"
+msgstr "សីន ប៉ាស"
+
+msgid "Synth Drum"
+msgstr "សីន ឌ្រិម"
+
+msgid "Synth Voice"
+msgstr "សីន វ៉យ"
+
+msgid "SynthBrass 1"
+msgstr "សីនប៉ាស វ័ន"
+
+msgid "SynthBrass 2"
+msgstr "សីនប៉ាស ធូ"
+
+msgid "SynthStrings 1"
+msgstr "សីនស្ទ្រីង វ័ន"
+
+msgid "SynthStrings 2"
+msgstr "សីនស្ទ្រីង ធូ"
+
+msgid "Taiko Drum"
+msgstr "ថៃខូ ឌ្រិម"
+
+msgid "Tambourine"
+msgstr "ថែមប៊ូរីន"
+
+msgid "Tango Accordion"
+msgstr "ថាំងហ្គូ អគ័រឌាន"
+
+msgid "Telephone Ring"
+msgstr "ថេឡេហ្វូន រីង"
+
+msgid "Tenor Sax"
+msgstr "ថេន័រ សាក់"
+
+msgid "Timpani"
+msgstr "ធីមបានី"
+
+msgid "Tinkle Bell"
+msgstr "ថីងខិល បែល"
+
+msgid "Tremolo Strings"
+msgstr "ទ្រឹមម៉ូឡូ ស្ទ្រីង"
+
+msgid "Trombone"
+msgstr "ទ្រឹមបូន"
+
+msgid "Trumpet"
+msgstr "ទ្រឹមប៉ែត"
+
+msgid "Tuba"
+msgstr "ធូបា"
+
+msgid "Tubular Bells"
+msgstr "ធូប៊ីឡា បែល"
+
+msgid "Vibraphone"
+msgstr "វ៉ៃប្រាហ្វូន"
+
+msgid "Vibraslap"
+msgstr "វ៉ៃប្រាស្លែព"
+
+msgid "Viola"
+msgstr "វីយ៉ូឡា"
+
+msgid "Violin"
+msgstr "វ៉ាយុលិន"
+
+msgid "Voice Oohs"
+msgstr "វ៉យ អ៊ូ"
+
+msgid "Whistle"
+msgstr "វិស្សឹល"
+
+msgid "Woodblock"
+msgstr "វូដប្លក់"
+
+msgid "Xylophone"
+msgstr "ហ្សាលឡូហ្វូន"

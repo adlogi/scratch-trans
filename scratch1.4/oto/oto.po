@@ -1,0 +1,1919 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-03-03 14:44-0400\n"
+"Last-Translator: Yolanda Campos Campos <yola.campos@gmail.com>\n"
+"Language-Team: \n"
+"Language: oto\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.2.1\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Otomi"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr ""
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H valor del sensor"
+
+msgid "%L contains %s"
+msgstr "%L pe´tsi %s"
+
+msgid "%a of %m"
+msgstr "%a de %m"
+
+msgid "%b and %b"
+msgstr "%b ne %b"
+
+msgid "%b or %b"
+msgstr "%b o %b"
+
+msgid "%f of %n"
+msgstr "%f de %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "%s toke %L"
+
+msgid "answer"
+msgstr "thadi"
+
+msgid "ask %s and wait"
+msgstr "adi %s - temi"
+
+msgid "background #"
+msgstr "kat`u mbo #"
+
+msgid "broadcast %e"
+msgstr "pempi ngatho %e"
+
+msgid "broadcast %e and wait"
+msgstr "pempi ngatho %e ne t`omi "
+
+msgid "change %g effect by %n"
+msgstr "cambiar %g efecto por %n"
+
+msgid "change %v by %n"
+msgstr "poti %v kongena %n"
+
+msgid "change pen color by %n"
+msgstr "potu ra njäti ratheñant`ot`i %n"
+
+msgid "change pen shade by %n"
+msgstr "potu ra tsedi ra thehñant`ot`i %n"
+
+msgid "change pen size by %n"
+msgstr "potu ra nt`ot`i kon ge man`a %n"
+
+msgid "change size by %n"
+msgstr "potu ra noho digena %n"
+
+msgid "change tempo by %n"
+msgstr "cambiar tempo por %n"
+
+msgid "change volume by %n"
+msgstr "potu ra nt`otse digena %n"
+
+msgid "change x by %n"
+msgstr "poti kongena %n"
+
+msgid "change y by %n"
+msgstr "poti ne kon %n"
+
+msgid "clear"
+msgstr "thuki"
+
+msgid "clear graphic effects"
+msgstr "quitar efectos gráficos"
+
+msgid "color %C is touching %C?"
+msgstr "¿kätsubi %C ra kuhu? %C?"
+
+msgid "control"
+msgstr "pent`i"
+
+msgid "costume #"
+msgstr "mede mpote #"
+
+msgid "delete %y of %L"
+msgstr "thuki %y dige %L"
+
+msgid "direction"
+msgstr "da maduua"
+
+msgid "distance to %m"
+msgstr "tsogi dige %m"
+
+msgid "else"
+msgstr "te mana, honse"
+
+msgid "forever"
+msgstr "xoge da njapu"
+
+msgid "forever if %b"
+msgstr "da njampu hiaxmu %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n kämi %n"
+
+msgid "go back %n layers"
+msgstr "pehni kar %n xutha"
+
+msgid "go to %m"
+msgstr "ri maua %m"
+
+msgid "go to front"
+msgstr "pehnu kar hmi"
+
+msgid "go to x:%n y:%n"
+msgstr "ma %n un %n"
+
+msgid "hide"
+msgstr "ñagi"
+
+msgid "hide variable %v"
+msgstr "esconder variable %v"
+
+msgid "if %b"
+msgstr "hä %b"
+
+msgid "if on edge, bounce"
+msgstr "rebotar si está tocando un borde"
+
+msgid "insert %s at %i of %L"
+msgstr "kät %s `i %i teti %L"
+
+msgid "item %i of %L"
+msgstr "item %i de %L"
+
+msgid "join %s %s"
+msgstr "munts´i %s %s"
+
+msgid "key %k pressed?"
+msgstr "¿tecla %k presionada?"
+
+msgid "length of %L"
+msgstr "longitud de %L"
+
+msgid "length of %s"
+msgstr "longitud de %s"
+
+msgid "letter %n of %s"
+msgstr ""
+
+msgid "list"
+msgstr "gua digena"
+
+msgid "looks"
+msgstr "hzuni ntsedi"
+
+msgid "loud?"
+msgstr "mfatsi ntsedi"
+
+msgid "loudness"
+msgstr "nhuäni"
+
+msgid "motion"
+msgstr "ntomi nt`ot´i"
+
+msgid "motor direction %W"
+msgstr "et´i  boja %W"
+
+msgid "motor off"
+msgstr "bunt´i  moi"
+
+msgid "motor on"
+msgstr "bunt´i  tsoge"
+
+msgid "motor on for %n secs"
+msgstr "bunt´i tsoge %n nts´edi"
+
+msgid "motor power %n"
+msgstr "tsa ra bunt´i %n"
+
+msgid "mouse down?"
+msgstr "ntomi ta saha"
+
+msgid "mouse x"
+msgstr "ntomi chulo saha"
+
+msgid "mouse y"
+msgstr "y del ratón"
+
+msgid "move %n steps"
+msgstr "mover %n pasos"
+
+msgid "next background"
+msgstr "fondo siguiente"
+
+msgid "next costume"
+msgstr "siguiente disfraz"
+
+msgid "not %b"
+msgstr "hina %b"
+
+msgid "operators"
+msgstr "´yoni"
+
+msgid "pen"
+msgstr "nt`ot`i thehña"
+
+msgid "pen down"
+msgstr "k`ami nt`ot`i"
+
+msgid "pen up"
+msgstr "potse nt`ot`i"
+
+msgid "pick random %n to %n"
+msgstr "mpede %n %n"
+
+msgid "play drum %D for %n beats"
+msgstr "tocar tambor %D durante %n pulsos"
+
+msgid "play note %N for %n beats"
+msgstr "tocar nota %N durante %n pulsos"
+
+msgid "play sound %S"
+msgstr "n zunt`i %S"
+
+msgid "play sound %S until done"
+msgstr "zunt`i %S ne t`omi "
+
+msgid "point in direction %d"
+msgstr "m`oti ha da matho %d"
+
+msgid "point towards %m"
+msgstr "uti hampu %m"
+
+msgid "repeat %n"
+msgstr "yopi %n"
+
+msgid "repeat until %b"
+msgstr "yopi ta ge… %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "poote %i di %L ge %s"
+
+msgid "reset timer"
+msgstr "reiniciar cronómetro"
+
+msgid "rest for %n beats"
+msgstr "silencio por %n pulsos"
+
+msgid "round %n"
+msgstr "xint`i mot`i %n"
+
+msgid "say %s"
+msgstr "ma %s"
+
+msgid "say %s for %n secs"
+msgstr "ma %s ramch`u %n"
+
+msgid "sensing"
+msgstr "sensores"
+
+msgid "sensor %h?"
+msgstr "¿sensor activado %h?"
+
+msgid "set %g effect to %n"
+msgstr "%g kuati %n"
+
+msgid "set %v to %n"
+msgstr "%v kuati %n"
+
+msgid "set instrument to %I"
+msgstr "hapa ra %I"
+
+msgid "set pen color to %c"
+msgstr "cots´i ra za %c"
+
+msgid "set pen color to %n"
+msgstr "hiandi da goña %n"
+
+msgid "set pen shade to %n"
+msgstr "tomi ra za %n"
+
+msgid "set pen size to %n"
+msgstr "hiandi nda goña %n"
+
+msgid "set size to %n%"
+msgstr "hiandi da %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "tema ora %n"
+
+msgid "set volume to %n%"
+msgstr "hoki ra nzuni %n%"
+
+msgid "set x to %n"
+msgstr "cots´i %n"
+
+msgid "set y to %n"
+msgstr "cots´i %n"
+
+msgid "show"
+msgstr "udi"
+
+msgid "show variable %v"
+msgstr "udi di nthegui %v"
+
+msgid "size"
+msgstr "nt`eni"
+
+msgid "sound"
+msgstr "nzuni"
+
+msgid "stamp"
+msgstr "nzuni"
+
+msgid "stop all"
+msgstr "kuati"
+
+msgid "stop all sounds"
+msgstr "momi ngatho"
+
+msgid "stop script"
+msgstr "momi nxoge ya nzuni"
+
+msgid "switch to background %l"
+msgstr "momi ra mefi %l"
+
+msgid "switch to costume %l"
+msgstr "poti mbo %l"
+
+msgid "tempo"
+msgstr "mpa"
+
+msgid "think %s"
+msgstr "mbeni %s"
+
+msgid "think %s for %n secs"
+msgstr "ramch'u %s ri %n mbeni"
+
+msgid "timer"
+msgstr "nt´eni ya´ä"
+
+msgid "touching %m?"
+msgstr "¿pent`i %m?"
+
+msgid "touching color %C?"
+msgstr "¿pent`i ra kuhu %C?"
+
+msgid "turn %n degrees"
+msgstr "xint`i %n mede"
+
+msgid "variables"
+msgstr "variables"
+
+msgid "volume"
+msgstr "nzuni"
+
+msgid "wait %n secs"
+msgstr "t`omi %n n`axt`ui"
+
+msgid "wait until %b"
+msgstr "t`omi tada… %b"
+
+msgid "when %k key pressed"
+msgstr "mugi %k tomi ra nxidi nt`ot`i"
+
+msgid "when %m clicked"
+msgstr "mugi %m tomi"
+
+msgid "when I receive %e"
+msgstr "mudä t`ai %e"
+
+msgid "x position"
+msgstr "nt´omi ta saha"
+
+msgid "y position"
+msgstr "nt`omi ch´ulo saha"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(vacía)"
+
+msgid "1 script"
+msgstr "n´a mefi"
+
+msgid "About Scratch"
+msgstr "n´a mefi scratch"
+
+msgid "About this project:"
+msgstr "di gena mefi"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "kots'i tegibeni"
+
+msgid "add comment here"
+msgstr "kots'i ra hña nua"
+
+msgid "all"
+msgstr "ngatho, nxoge"
+
+msgid "and"
+msgstr "ne"
+
+msgid "Animation"
+msgstr "hnupamfeni"
+
+msgid "any"
+msgstr "mun`a"
+
+msgid "Art"
+msgstr "hogunthoki"
+
+msgid "background"
+msgstr "rambo"
+
+msgid "backgrounds"
+msgstr "ya mbo"
+
+msgid "Backgrounds"
+msgstr "Fondos"
+
+msgid "brightness"
+msgstr "huets`i"
+
+msgid "Brush size: "
+msgstr "hanja ra nkots`i"
+
+msgid "button"
+msgstr "boto"
+
+msgid "button pressed"
+msgstr "boto ntomi"
+
+msgid "Camera"
+msgstr "njukunk´oi"
+
+msgid "can rotate"
+msgstr "hampu di nxint´i"
+
+msgid "cancel"
+msgstr "momi"
+
+msgid "Cancel"
+msgstr "momi"
+
+msgid "Choose a folder"
+msgstr "huahni nda geä"
+
+msgid "Choose new sprite from file"
+msgstr "hñaki n`a ray`o mefi"
+
+msgid "clean up"
+msgstr "thuki"
+
+msgid "Clear"
+msgstr "thuki"
+
+msgid "Clear canvas"
+msgstr "thuki hmi"
+
+msgid "Close and continue"
+msgstr "ko´ti ne sigi"
+
+msgid "Close dialog?"
+msgstr "¿gi kotii ñaki?"
+
+msgid "Close paint editor?"
+msgstr "¿gi kot`i ra nk`oi?"
+
+msgid "close port"
+msgstr "kot`i ra mfoti"
+
+msgid "Close sound recorder?"
+msgstr "¿gi kot`i ra njuatu nzuni?"
+
+msgid "color"
+msgstr "theni"
+
+msgid "Compress Images"
+msgstr "pehni ya nk`oi"
+
+msgid "Compress Sounds"
+msgstr "pehni ya nzuni"
+
+msgid "Compress sounds and images"
+msgstr "penhi ya nk`oi na ya nzuni"
+
+msgid "Computer"
+msgstr "nt`ot`i boja"
+
+msgid "connected"
+msgstr "mfoti"
+
+msgid "Connecting to "
+msgstr "xa mfoti ka"
+
+msgid "Copy"
+msgstr "hñaki"
+
+msgid "costume"
+msgstr "mpote"
+
+msgid "costumes"
+msgstr "ya mpote"
+
+msgid "Costumes"
+msgstr "hingi tso gä nxadi"
+
+msgid "Could not read"
+msgstr "hingi tso gä nxadi pe xi ts'oni"
+
+msgid "Could not read project; file may be damaged"
+msgstr "hingi tso gi y'ot'u ra m'efi"
+
+msgid "Could not write file"
+msgstr "xoku ri guenda"
+
+msgid "Create account"
+msgstr "xoku n'a ray'o m'efi"
+
+msgid "Create an empty project"
+msgstr "mpehna m'efi, di tomi ra nkots´i"
+
+msgid "Data sent. Waiting for response..."
+msgstr "thuki"
+
+msgid "delete"
+msgstr "thuki"
+
+msgid "Delete"
+msgstr "thuki ra njunum'efi"
+
+msgid "Delete a list"
+msgstr "thukira mpadi"
+
+msgid "Delete a variable"
+msgstr "thuki ra mpote"
+
+msgid "Delete this background"
+msgstr ""
+
+msgid "Delete this costume"
+msgstr "thuku ra nzuni"
+
+msgid "Delete this sound"
+msgstr "mhi nt'ot'uboja"
+
+msgid "Delete this sprite"
+msgstr ""
+
+msgid "Desktop"
+msgstr "ya he'mi"
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr ""
+
+msgid "Documents"
+msgstr "ogi mat'i"
+
+msgid "don't rotate"
+msgstr "hoy"
+
+msgid "Don't Save"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "down"
+msgstr "ñat'u hoy"
+
+msgid "down arrow"
+msgstr "tsitsi kar xokum'ef'i"
+
+msgid "drag to resize"
+msgstr ""
+
+msgid "drag to rotate"
+msgstr ""
+
+msgid "draggable on website?"
+msgstr "yopi"
+
+msgid "duplicate"
+msgstr "thuki"
+
+msgid "Duplicate"
+msgstr "ñani"
+
+msgid "edge"
+msgstr "juki"
+
+msgid "Edit"
+msgstr "ya m'efi nxit'i ñani"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "kut'i ngu ri uti"
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr "nthuki"
+
+msgid "Eraser"
+msgstr "hangu ra nthuki"
+
+msgid "Eraser size"
+msgstr "poni di ge ra nt'udi"
+
+msgid "Error!"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Exit presentation"
+msgstr ""
+
+msgid "Exit presentation mode"
+msgstr "pehni"
+
+msgid "export"
+msgstr "pehni ra mbo"
+
+msgid "Export Background"
+msgstr "pehni ra mpote"
+
+msgid "Export Costume"
+msgstr "himbi ho ra mpote"
+
+msgid "Export failed"
+msgstr "himbi ho ra mpehni"
+
+msgid "Export Sound"
+msgstr "pehni nzuni"
+
+msgid "Export Sprite"
+msgstr "pehnite ma ra"
+
+msgid "export this costume"
+msgstr "pehni nuna"
+
+msgid "export this sound"
+msgstr ""
+
+msgid "export this sprite"
+msgstr ""
+
+msgid "Extras menu"
+msgstr "ya nkäts'i"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "nhuanu kuhu"
+
+msgid "Failed:"
+msgstr "hingi za"
+
+msgid "false"
+msgstr "hima juäni"
+
+msgid "File"
+msgstr ""
+
+msgid "File not found"
+msgstr "hinte mui"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "met'o"
+
+msgid "first"
+msgstr "dahuä"
+
+msgid "fisheye"
+msgstr "nixt´i nkät´i"
+
+msgid "Flash blocks (fast)"
+msgstr "ramuch´u ri kät´i"
+
+msgid "Flash blocks (slow)"
+msgstr "pegi"
+
+msgid "Flip horizontally"
+msgstr "m'omi"
+
+msgid "Flip vertically"
+msgstr "pa ngatho nuya"
+
+msgid "For all sprites"
+msgstr "pa gena"
+
+msgid "For this sprite only"
+msgstr "tema ra"
+
+msgid "Game"
+msgstr ""
+
+msgid "Get surprise sprite"
+msgstr "hanse n'a ra nthuki"
+
+msgid "Get the last thing deleted"
+msgstr "chi tuki"
+
+msgid "Getting Started"
+msgstr ""
+
+msgid "ghost"
+msgstr ""
+
+msgid "Go To Scratch Website"
+msgstr ""
+
+msgid "grab screen region for new costume"
+msgstr "juahni nda ge´ä pan´a ray´o"
+
+msgid "grab screen region for new sprite"
+msgstr "xoki"
+
+msgid "Grow"
+msgstr "xoku ma ra"
+
+msgid "Grow sprite"
+msgstr "¡te gi pefi¡"
+
+msgid "hello "
+msgstr ""
+
+msgid "Hello!"
+msgstr "mfats'i"
+
+msgid "help"
+msgstr "hets'i"
+
+msgid "Help"
+msgstr ""
+
+msgid "Help Page"
+msgstr ""
+
+msgid "Help Screens"
+msgstr ""
+
+msgid "Hide Motor Blocks"
+msgstr ""
+
+msgid "High (biggest)"
+msgstr "mmm"
+
+msgid "Hmm..."
+msgstr "ngu"
+
+msgid "Home"
+msgstr "mpehni nk'oi"
+
+msgid "Images compressed"
+msgstr "batsihi"
+
+msgid "import"
+msgstr "batsihi"
+
+msgid "Import"
+msgstr "ba tsihi ne gi kätsi maña"
+
+msgid "Import an image on top of your current canvas"
+msgstr "ba sihi mbo"
+
+msgid "Import Background"
+msgstr "batsihi ra mpote"
+
+msgid "Import Costume"
+msgstr "ba tsihi ra nk'oi"
+
+msgid "Import Image"
+msgstr "ba tsihi ra njuni"
+
+msgid "Import List"
+msgstr "Importar Lista"
+
+msgid "Import Project"
+msgstr "mpehnu m'efi"
+
+msgid "import project"
+msgstr "mpehnu nzuni"
+
+msgid "Import Sound"
+msgstr "hingi nhehui"
+
+msgid "Incompatible Scratch file format"
+msgstr "¿hanse da nxadi?"
+
+msgid "Is the folder read-only?"
+msgstr "xa za JPEG(ret´a-n´anthebe)"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "ra rihi"
+
+msgid "kbytes"
+msgstr "hñä"
+
+msgid "Language"
+msgstr "noho"
+
+msgid "large readout"
+msgstr "hanse n'a"
+
+msgid "last"
+msgstr "nsuru"
+
+msgid "left"
+msgstr "ñat'u nsuru"
+
+msgid "left arrow"
+msgstr "ma"
+
+msgid "length"
+msgstr "tsibi"
+
+msgid "light"
+msgstr "ma hioni pa geña"
+
+msgid "Line tool (draw lines)"
+msgstr "ra thuhu ra njuni"
+
+msgid "List name?"
+msgstr "gäi"
+
+msgid "Low"
+msgstr "ta hoy"
+
+msgid "Lowest (smallest)"
+msgstr "ray'onjuni nt'ot'i"
+
+msgid "Make a list"
+msgstr "ray'o mpadi"
+
+msgid "Make a variable"
+msgstr "xoki"
+
+msgid "Max:"
+msgstr "Max:"
+
+msgid "meow"
+msgstr "ra thuhu ra mehni"
+
+msgid "Message name:"
+msgstr "ts'uki"
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "mod"
+msgstr "mara"
+
+msgid "more"
+msgstr "mara ya mpet´i"
+
+msgid "More tags:"
+msgstr "ya nk´oi"
+
+msgid "mosaic"
+msgstr "ntomi ta saha"
+
+msgid "mouse x:"
+msgstr "tomi ch'ulo saha"
+
+msgid "mouse y:"
+msgstr "ñat'i hamp'u"
+
+msgid "mouse-pointer"
+msgstr "ñ'ani"
+
+msgid "Move"
+msgstr "thuhu"
+
+msgid "Music"
+msgstr "r'ay'o"
+
+msgid "My Projects"
+msgstr ""
+
+msgid "new"
+msgstr "r'ay'o "
+
+msgid "New"
+msgstr "r'ay'o mbo"
+
+msgid "New background:"
+msgstr "r'ay'o nk´oi"
+
+msgid "New costume:"
+msgstr "r'ay'o thuhu m'efi"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "r'ay'o nzuni"
+
+msgid "New sound:"
+msgstr "r'ay'o mara"
+
+msgid "New Sprite"
+msgstr "hina"
+
+msgid "New sprite:"
+msgstr ""
+
+msgid "No"
+msgstr "hinte pongi ya mfats´i"
+
+msgid "No MIDI ports currently available."
+msgstr "hinte mui ya mpet´i"
+
+msgid "No motion blocks"
+msgstr "otho ya me´fi"
+
+msgid "no scripts"
+msgstr "otho ya mfats´i"
+
+msgid "No serial ports found"
+msgstr "otho ra mpadi"
+
+msgid "No variables."
+msgstr "za xa"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "normal readout"
+msgstr ""
+
+msgid "Off"
+msgstr "xifi hä"
+
+msgid "OK"
+msgstr "tsoke"
+
+msgid "On"
+msgstr "hanse hiandi nsuru -hogy'e"
+
+msgid "only face left-right"
+msgstr "xoki"
+
+msgid "Open"
+msgstr "xoki ra me´fi scratch"
+
+msgid "Open a Scratch project"
+msgstr "xoku ra m'efi"
+
+msgid "Open Project"
+msgstr "o"
+
+msgid "or"
+msgstr "kots'i"
+
+msgid "Paint"
+msgstr "hokunkots'i"
+
+msgid "Paint Editor"
+msgstr "koxu n'a rayo"
+
+msgid "Paint new sprite"
+msgstr "nkots'i"
+
+msgid "Paintbrush"
+msgstr "hinto dä bädi"
+
+msgid "Password:"
+msgstr "hangu (n a nthebe uni ra za "
+
+msgid "Percent? (100 gives original size)"
+msgstr "nk'oi"
+
+msgid "Pictures"
+msgstr "Fotos"
+
+msgid "pixelate"
+msgstr "pent'i"
+
+msgid "play"
+msgstr "mpefi kor mede"
+
+msgid "Please enter a number"
+msgstr "Por favor usar un número"
+
+msgid "pop"
+msgstr "hoki ha da ndui"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "ka hoku ra m'efi"
+
+msgid "Preparing project..."
+msgstr "ot'e m'efi"
+
+msgid "Project author:"
+msgstr "thuhu ra m'efi"
+
+msgid "Project name"
+msgstr "ra nkätsi ra m'efi"
+
+msgid "Project Notes"
+msgstr "Notas Sobre el Proyecto"
+
+msgid "Project notes"
+msgstr "mfoxum'efi"
+
+msgid "Project uploaded."
+msgstr "m'efi"
+
+msgid "Projects"
+msgstr "tsogi"
+
+msgid "Quit"
+msgstr "tsogi scratch"
+
+msgid "Quit Scratch"
+msgstr "kuati"
+
+msgid "Reading"
+msgstr ""
+
+msgid "record"
+msgstr "grabar"
+
+msgid "Record"
+msgstr "nkuati"
+
+msgid "recording"
+msgstr "grabación"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "pengi gi hoki"
+
+msgid "Redo"
+msgstr "hñaki ra da"
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "nts'edi"
+
+msgid "resistance"
+msgstr "hoguy'e"
+
+msgid "resize this sprite"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "nt'udi hoguy'e"
+
+msgid "right arrow"
+msgstr "xint´i kar hoguy´e"
+
+msgid "Rotate clock-wise"
+msgstr ""
+
+msgid "Rotate counter-clock-wise"
+msgstr "nxint'i"
+
+msgid "rotate this sprite"
+msgstr ""
+
+msgid "Rotation degrees?"
+msgstr ""
+
+msgid "Save"
+msgstr "kuatu ra  hñäki ray'o m'efi"
+
+msgid "Save a copy of the current project"
+msgstr "kuati nguna"
+
+msgid "Save As"
+msgstr "himbi kuati"
+
+msgid "Save changes before quitting?"
+msgstr ""
+
+msgid "Save failed"
+msgstr "kuatu ya nk'oi ra m'efi"
+
+msgid "save picture of scripts"
+msgstr "guardar imagen de los programas"
+
+msgid "save picture of stage..."
+msgstr "kuatu ra m'efi"
+
+msgid "Save Project"
+msgstr "kuatu ra nk'oi ra m'efi"
+
+msgid "Save Scripts Snapshot"
+msgstr ""
+
+msgid "Save Stage Shot"
+msgstr "kuatu ra ray'o m'efi"
+
+msgid "Save the current project"
+msgstr "¿gi kuatu ra ray'o m'efi?"
+
+msgid "Save the current project?"
+msgstr "ya m'efi"
+
+msgid "Save this project"
+msgstr ""
+
+msgid "Scripts"
+msgstr "hiäk ra mfots'i"
+
+msgid "select serial/USB port"
+msgstr "hñaki ndad´ri mpefi"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "hñaku ra hña"
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr "hñaki ha dä ndui"
+
+msgid "Set rotation center"
+msgstr "dumi gi hiandu ha gi japi"
+
+msgid "Set Single Stepping"
+msgstr "ts'uki ne gi hñuts'i"
+
+msgid "set slider min and max"
+msgstr "penpu ra m'efi mara ya jä'i"
+
+msgid "Share"
+msgstr "uti ra nt´ot´i mefi"
+
+msgid "Share this project"
+msgstr ""
+
+msgid "Share This Project Online"
+msgstr "xepu ra m'efi"
+
+msgid "Show Motor Blocks"
+msgstr ""
+
+msgid "show ScratchBoard watcher"
+msgstr "ch'uki"
+
+msgid "Shrink"
+msgstr "ch'uki ya te mara"
+
+msgid "Shrink sprite"
+msgstr "nxoni"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Single-step speed?"
+msgstr ""
+
+msgid "slider"
+msgstr "deslizador"
+
+msgid "Slider range:"
+msgstr "nzuni za"
+
+msgid "Sound quality:"
+msgstr "nkuati ya nzuni"
+
+msgid "Sound Recorder"
+msgstr "nzuni"
+
+msgid "Sounds"
+msgstr "mhunts'u nzuni"
+
+msgid "Sounds compressed"
+msgstr "tsogi"
+
+msgid "space"
+msgstr "te mara"
+
+msgid "Sprite"
+msgstr "nguki"
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr "hmi"
+
+msgid "Stage"
+msgstr "Escenario"
+
+msgid "Stage selected:"
+msgstr "mpet´i mpote"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "dumi ra me´fi kor k´angi"
+
+msgid "Start green flag scripts"
+msgstr "handi ha ri hoki"
+
+msgid "Start Single Stepping"
+msgstr "m'omi"
+
+msgid "stop"
+msgstr "m'omi ngatho"
+
+msgid "Stop everything"
+msgstr "m´omi hiandi ra ua"
+
+msgid "Stop Single Stepping"
+msgstr "mpotu theni"
+
+msgid "Story"
+msgstr ""
+
+msgid "Support Site"
+msgstr ""
+
+msgid "Switch colors"
+msgstr "ya m´ema ha thuhu"
+
+msgid "Switch to full stage"
+msgstr ""
+
+msgid "Switch to presentation mode"
+msgstr ""
+
+msgid "Switch to small stage"
+msgstr ""
+
+msgid "Tags:"
+msgstr "nthokum'efi"
+
+msgid "Text tool (edit text layer)"
+msgstr "ya thuhu ya bi mpoti"
+
+msgid "That variable name is already in use"
+msgstr "ya thuhu ya nkuati ya mui"
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "mutsi"
+
+msgid "thing"
+msgstr "majuäni"
+
+msgid "this way"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "true"
+msgstr "xi nxontho"
+
+msgid "Turbo speed"
+msgstr "ga poti nar mutsi"
+
+msgid "turn into new sprite"
+msgstr "ts'oni"
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Undo"
+msgstr "mañä"
+
+msgid "up"
+msgstr "nt'udi mañä"
+
+msgid "up arrow"
+msgstr "flecha arriba"
+
+msgid "Updating thumbnails"
+msgstr "msgid \"Updating thumbnails\""
+
+msgid "Upload succeeded!"
+msgstr "¡ra m'efi bi ma¡"
+
+msgid "Upload to Scratch Server"
+msgstr "bi ma ra scratch"
+
+msgid "Uploading"
+msgstr "pehni"
+
+msgid "Variable name?"
+msgstr "ra thuhu ya m´efi"
+
+msgid "View on stage"
+msgstr "ñetsi kar tarima"
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr "xedi"
+
+msgid "world"
+msgstr ""
+
+msgid "Write Multiple Project Summaries"
+msgstr "hoki xangu ya m´efi pa genpu"
+
+msgid "Write Project Summary"
+msgstr "hoki xangu ya m´efi feni"
+
+msgid "Yes"
+msgstr "hä"
+
+msgid "Your project is now online at"
+msgstr "ra m´efi mui har web"
+
+msgid "Your Scratch website login name:"
+msgstr "thuhu ra mefi"
+
+msgid "Zoom in"
+msgstr "thäxt'i"
+
+msgid "Zoom out"
+msgstr "jot'i"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "ngondo mida"
+
+msgid "Acoustic Bass"
+msgstr "Bajo acústico"
+
+msgid "Acoustic Bass Drum"
+msgstr "mist´ambo"
+
+msgid "Acoustic Grand"
+msgstr "pixt´uhu"
+
+msgid "Acoustic Snare"
+msgstr "tambo"
+
+msgid "Agogo"
+msgstr "Agogó"
+
+msgid "Alto Sax"
+msgstr "ra´to mida"
+
+msgid "Applause"
+msgstr "mfet'uy'e"
+
+msgid "Bagpipe"
+msgstr "Gaita"
+
+msgid "Banjo"
+msgstr "ra xifni mida"
+
+msgid "Baritone Sax"
+msgstr "Saxofón barítono"
+
+msgid "Bass Drum 1"
+msgstr "Bombo 1"
+
+msgid "Bassoon"
+msgstr "Fagot"
+
+msgid "Bird Tweet"
+msgstr "gi´a ts´ints´u"
+
+msgid "Blown Bottle"
+msgstr "p´ixta xito"
+
+msgid "Brass Section"
+msgstr "hajaya boj´ä mida"
+
+msgid "Breath Noise"
+msgstr "ntsihnä mida"
+
+msgid "Bright Acoustic"
+msgstr "ts´imida huets´i"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celesta"
+
+msgid "Cello"
+msgstr "ta mida"
+
+msgid "Chinese Cymbal"
+msgstr "Platillo Chino"
+
+msgid "Choir Aahs"
+msgstr "mutsi ra aahs"
+
+msgid "Church Organ"
+msgstr "ts´imida nijä"
+
+msgid "Clarinet"
+msgstr "thuxi"
+
+msgid "Claves"
+msgstr "mbunza"
+
+msgid "Clavinet"
+msgstr "Clavinet"
+
+msgid "Closed Hi-Hat"
+msgstr "Charles cerrado"
+
+msgid "Contrabass"
+msgstr "ta mida"
+
+msgid "Cowbell"
+msgstr "Cencerro"
+
+msgid "Crash Cymbal 1"
+msgstr "Platillo crash 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Platillo crash 2"
+
+msgid "Distortion Guitar"
+msgstr "ts´o mida"
+
+msgid "Drawbar Organ"
+msgstr "ts´i mida hammond"
+
+msgid "Dulcimer"
+msgstr "nkugu thuhu"
+
+msgid "Electric Bass (finger)"
+msgstr "madui mida tsibi"
+
+msgid "Electric Bass (pick)"
+msgstr "Bajo eléctrico (uña)"
+
+msgid "Electric Clean Guitar"
+msgstr "mida tsibi"
+
+msgid "Electric Grand"
+msgstr "tsímida tsibi"
+
+msgid "Electric Jazz Guitar"
+msgstr "mida tsibi jazz"
+
+msgid "Electric Muted Guitar"
+msgstr "gogu mida tsibi"
+
+msgid "Electric Piano 1"
+msgstr "ts´imida tsibi n´a"
+
+msgid "Electric Piano 2"
+msgstr "ts´imida tsibi yoho"
+
+msgid "Electric Snare"
+msgstr "tambo tsibi"
+
+msgid "English Horn"
+msgstr "ndäni"
+
+msgid "FX 1 (rain)"
+msgstr "nzuni y´e"
+
+msgid "FX 2 (soundtrack)"
+msgstr "tanzuni"
+
+msgid "FX 3 (crystal)"
+msgstr "nxinzuni"
+
+msgid "FX 4 (atmosphere)"
+msgstr "nzuni yuni"
+
+msgid "FX 5 (brightness)"
+msgstr "huets´i nzuni"
+
+msgid "FX 6 (goblins)"
+msgstr "ch´ulo nzuni"
+
+msgid "FX 7 (echoes)"
+msgstr "nt´oti nzuni"
+
+msgid "FX 8 (sci-fi)"
+msgstr "nzuni pite"
+
+msgid "Fiddle"
+msgstr "nchiri celta"
+
+msgid "Flute"
+msgstr "thuxi"
+
+msgid "French Horn"
+msgstr "ta thuxi"
+
+msgid "Fretless Bass"
+msgstr "mida gogu"
+
+msgid "Glockenspiel"
+msgstr "mhunts´i nzuni"
+
+msgid "Guitar Fret Noise"
+msgstr "tu ya nzuni"
+
+msgid "Guitar Harmonics"
+msgstr "ya hogu nzuni"
+
+msgid "Gunshot"
+msgstr "ñuni fants´i"
+
+msgid "Hand Clap"
+msgstr "mfemuy'e"
+
+msgid "Harmonica"
+msgstr "met´o tsí mida"
+
+msgid "Harpsichord"
+msgstr "Clavicémbalo"
+
+msgid "Helicopter"
+msgstr "nzuni bojä"
+
+msgid "Hi Bongo"
+msgstr "t´ulo fonts´i"
+
+msgid "Hi Wood Block"
+msgstr "huada mida"
+
+msgid "Hi-Mid Tom"
+msgstr "Tom medio-agudo"
+
+msgid "High Agogo"
+msgstr "Agogó agudo"
+
+msgid "High Floor Tom"
+msgstr "Tom de suelo agudo"
+
+msgid "High Timbale"
+msgstr "Timbal agudo"
+
+msgid "High Tom"
+msgstr "Tom agudo"
+
+msgid "Honky-Tonk"
+msgstr ""
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "met´o huada"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "met´o nthegi"
+
+msgid "Lead 3 (calliope)"
+msgstr "met´o ts´i mida"
+
+msgid "Lead 4 (chiff)"
+msgstr "Principal 4 (siseo órgano)"
+
+msgid "Lead 5 (charang)"
+msgstr "Principal 5 (charango)"
+
+msgid "Lead 6 (voice)"
+msgstr "met´o hña"
+
+msgid "Lead 7 (fifths)"
+msgstr "met´o kut´a"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Principal 8 (bajo y melodía)"
+
+msgid "Long Guiro"
+msgstr "minti mida ma"
+
+msgid "Long Whistle"
+msgstr "ta thuxi"
+
+msgid "Low Agogo"
+msgstr "Agogó grave"
+
+msgid "Low Bongo"
+msgstr "Bongó grave"
+
+msgid "Low Conga"
+msgstr "Conga grave"
+
+msgid "Low Floor Tom"
+msgstr "Tom de seulo grave"
+
+msgid "Low Timbale"
+msgstr "Timbal grave"
+
+msgid "Low Tom"
+msgstr "Tom grave"
+
+msgid "Low Wood Block"
+msgstr "Cajita china grave"
+
+msgid "Low-Mid Tom"
+msgstr "Tom medio-grave"
+
+msgid "Maracas"
+msgstr "nxinxi"
+
+msgid "Marimba"
+msgstr "tats´i mdaza"
+
+msgid "Melodic Tom"
+msgstr "Timbala melódica"
+
+msgid "Music Box"
+msgstr "huada mida"
+
+msgid "Mute Cuica"
+msgstr "Cuica sorda"
+
+msgid "Mute Hi Conga"
+msgstr "Conga aguda sorda"
+
+msgid "Mute Triangle"
+msgstr "hñumida gogu"
+
+msgid "Muted Trumpet"
+msgstr "ta thuxi gogu"
+
+msgid "Nylon String Guitar"
+msgstr "mida española"
+
+msgid "Oboe"
+msgstr "Oboe"
+
+msgid "Ocarina"
+msgstr "Ocarina"
+
+msgid "Open Cuica"
+msgstr "Cuica suelta"
+
+msgid "Open Hi Conga"
+msgstr "Conga aguda suelta"
+
+msgid "Open Hi-Hat"
+msgstr "Charles abierto"
+
+msgid "Open Triangle"
+msgstr "hñu mida nhegi"
+
+msgid "Orchestra Hit"
+msgstr "nfäte mhunts´i"
+
+msgid "Orchestral Strings"
+msgstr "Arpa orquestal"
+
+msgid "Overdriven Guitar"
+msgstr "ñudi mida"
+
+msgid "Pad 1 (new age)"
+msgstr "mbo ná ra´yo"
+
+msgid "Pad 2 (warm)"
+msgstr "mbo yoho xi chipa"
+
+msgid "Pad 3 (polysynth)"
+msgstr "mbo hñu xangu mhunts´i"
+
+msgid "Pad 4 (choir)"
+msgstr "mbo goho ntuhu"
+
+msgid "Pad 5 (bowed)"
+msgstr "mbo kut´a nt´ot´i"
+
+msgid "Pad 6 (metallic)"
+msgstr "mbo ra´to bojä"
+
+msgid "Pad 7 (halo)"
+msgstr "mbo yoto"
+
+msgid "Pad 8 (sweep)"
+msgstr "mbo hñátompaxi"
+
+msgid "Pan Flute"
+msgstr "thuxi thume"
+
+msgid "Pedal Hi-Hat"
+msgstr "carlo bojä"
+
+msgid "Percussive Organ"
+msgstr "Órgano percusivo"
+
+msgid "Piccolo"
+msgstr "thu´za"
+
+msgid "Pizzicato Strings"
+msgstr "thohi pizzicato"
+
+msgid "Recorder"
+msgstr "thuxi nkuhi"
+
+msgid "Reed Organ"
+msgstr "manza thuhu "
+
+msgid "Reverse Cymbal"
+msgstr "moji xibdo"
+
+msgid "Ride Bell"
+msgstr "tegi ngoi"
+
+msgid "Ride Cymbal 1"
+msgstr "Platillo guía 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Platillo guía 2"
+
+msgid "Rock Organ"
+msgstr "Órgano de rock"
+
+msgid "Seashore"
+msgstr "Playa"
+
+msgid "Shakuhachi"
+msgstr "Shakuhachi"
+
+msgid "Shamisen"
+msgstr "Shamisen"
+
+msgid "Shanai"
+msgstr "Shanai"
+
+msgid "Short Guiro"
+msgstr "ximo minfi"
+
+msgid "Short Whistle"
+msgstr "tulo thuxi"
+
+msgid "Side Stick"
+msgstr "Golpe lateral"
+
+msgid "Sitar"
+msgstr "Sitar"
+
+msgid "Slap Bass 1"
+msgstr "Bajo golpeado 1"
+
+msgid "Slap Bass 2"
+msgstr "Bajo golpeado 2"
+
+msgid "Soprano Sax"
+msgstr "Saxofón soprano"
+
+msgid "Splash Cymbal"
+msgstr "Platillo splash"
+
+msgid "Steel Drums"
+msgstr "Tambores metálicos"
+
+msgid "Steel String Guitar"
+msgstr "mida dexi bokha"
+
+msgid "String Ensemble 1"
+msgstr "dexi mida n' a"
+
+msgid "String Ensemble 2"
+msgstr "dexi mida yoho"
+
+msgid "Synth Bass 1"
+msgstr "Bajo sintetizado 1"
+
+msgid "Synth Bass 2"
+msgstr "Bajo sintetizado 2"
+
+msgid "Synth Drum"
+msgstr "Percusión sintetizada"
+
+msgid "Synth Voice"
+msgstr "un ña"
+
+msgid "SynthBrass 1"
+msgstr "Metales sintetizados 1"
+
+msgid "SynthBrass 2"
+msgstr "Metales sintetizados 2"
+
+msgid "SynthStrings 1"
+msgstr "Cuerdas sintetizadas 1"
+
+msgid "SynthStrings 2"
+msgstr "Cuerdas sintetizadas 2"
+
+msgid "Taiko Drum"
+msgstr "Tambor Taiko"
+
+msgid "Tambourine"
+msgstr "Pandereta"
+
+msgid "Tango Accordion"
+msgstr "Bandoneón"
+
+msgid "Telephone Ring"
+msgstr "mbunhña"
+
+msgid "Tenor Sax"
+msgstr "Saxofón tenor"
+
+msgid "Timpani"
+msgstr "tsuni"
+
+msgid "Tinkle Bell"
+msgstr "Campanilla"
+
+msgid "Tremolo Strings"
+msgstr "Cuerdas con trémolo"
+
+msgid "Trombone"
+msgstr "Trombón"
+
+msgid "Trumpet"
+msgstr "Trompeta"
+
+msgid "Tuba"
+msgstr "tuxi xi buha"
+
+msgid "Tubular Bells"
+msgstr "tegi bokha"
+
+msgid "Vibraphone"
+msgstr "mbuxuni"
+
+msgid "Vibraslap"
+msgstr "Trafaplás"
+
+msgid "Viola"
+msgstr "ta mida nthoki"
+
+msgid "Violin"
+msgstr "nchiri"
+
+msgid "Voice Oohs"
+msgstr "Voz de oohs"
+
+msgid "Whistle"
+msgstr "thuxi"
+
+msgid "Woodblock"
+msgstr "Caja china"
+
+msgid "Xylophone"
+msgstr "Xilófono"

@@ -1,0 +1,1923 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-01-14 14:57-0400\n"
+"Last-Translator: Yolanda Campos Campos <yola.campos@gmail.com>\n"
+"Language-Team: \n"
+"Language: myn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.2.1\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Tenek"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr ""
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H in jalbixtal axi ti láb in bij sensor"
+
+msgid "%L contains %s"
+msgstr ""
+
+msgid "%a of %m"
+msgstr "%a ti %m"
+
+msgid "%b and %b"
+msgstr "%b ani' %b"
+
+msgid "%b or %b"
+msgstr "%b Kom %b"
+
+msgid "%f of %n"
+msgstr "%f ti %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "%s punchij %L"
+
+msgid "answer"
+msgstr ""
+
+msgid "ask %s and wait"
+msgstr ""
+
+msgid "background #"
+msgstr "tin lupnel #"
+
+msgid "broadcast %e"
+msgstr "ka abaj patalchik %e"
+
+msgid "broadcast %e and wait"
+msgstr "ka abaj patalchik %e ani ka aychi"
+
+msgid "change %g effect by %n"
+msgstr "jalk'unchij %g in k'ijidhméj k'al %n"
+
+msgid "change %v by %n"
+msgstr "jalk'uy %v k'al %n"
+
+msgid "change pen color by %n"
+msgstr "jalk'uy majuxtalab k'al %n"
+
+msgid "change pen shade by %n"
+msgstr "jalk'uxtaláb in ts'apik an dhuchumtaláb k'al %n"
+
+msgid "change pen size by %n"
+msgstr "jalk'uy in pakdhá an dhúchumtalab k'al %n"
+
+msgid "change size by %n"
+msgstr "jalk'uxtaláb in pakdhá k'al %n"
+
+msgid "change tempo by %n"
+msgstr "jalk'uxtaláb biyal k'al %n"
+
+msgid "change volume by %n"
+msgstr "jalkúxtaláb pakdhá k'al %n"
+
+msgid "change x by %n"
+msgstr "jalk'uy x k'al %n"
+
+msgid "change y by %n"
+msgstr "jalk'uy y k'al %n"
+
+msgid "clear"
+msgstr "pakuy"
+
+msgid "clear graphic effects"
+msgstr "tixk'a an k'ijidhméj kiloxtalab"
+
+msgid "color %C is touching %C?"
+msgstr "¿majuxtaláb %C éblim%C?"
+
+msgid "control"
+msgstr "abatnaxtaláb"
+
+msgid "costume #"
+msgstr "# jalkúxtaláb"
+
+msgid "delete %y of %L"
+msgstr "pakuxtaláb %y ti %L"
+
+msgid "direction"
+msgstr "belaxtaláb"
+
+msgid "distance to %m"
+msgstr "nakdha a %m"
+
+msgid "else"
+msgstr ""
+
+msgid "forever"
+msgstr "abal éts'ey"
+
+msgid "forever if %b"
+msgstr "abal éts'ey anits %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "ka edhlats %n ti segs a x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "ka aba %n kuxláb"
+
+msgid "go to %m"
+msgstr "kit k'alej ti %m"
+
+msgid "go to front"
+msgstr "ka aba ti tamet"
+
+msgid "go to x:%n y:%n"
+msgstr "kit k'alej ti x:%n ani y:%n"
+
+msgid "hide"
+msgstr "tsinkádh"
+
+msgid "hide variable %v"
+msgstr "tsinkádh jalk'uxtaláb %v"
+
+msgid "if %b"
+msgstr "aníts %b"
+
+msgid "if on edge, bounce"
+msgstr "ka t'ikónchi' max in tákal an walte'"
+
+msgid "insert %s at %i of %L"
+msgstr "ka %s baliy %i ti %L"
+
+msgid "item %i of %L"
+msgstr "item %i ti %L"
+
+msgid "join %s %s"
+msgstr ""
+
+msgid "key %k pressed?"
+msgstr "¿dhuchumtaláb %k pat'al ni'adh?"
+
+msgid "length of %L"
+msgstr "nakel ti %L"
+
+msgid "length of %s"
+msgstr "nakel ti %s"
+
+msgid "letter %n of %s"
+msgstr ""
+
+msgid "list"
+msgstr "nik'adh"
+
+msgid "looks"
+msgstr "jalk'uxtaláb"
+
+msgid "loud?"
+msgstr "¿tsapik janiníl?"
+
+msgid "loudness"
+msgstr "ák' janiníl"
+
+msgid "motion"
+msgstr "ka édhlats"
+
+msgid "motor direction %W"
+msgstr ""
+
+msgid "motor off"
+msgstr ""
+
+msgid "motor on"
+msgstr ""
+
+msgid "motor on for %n secs"
+msgstr ""
+
+msgid "motor power %n"
+msgstr ""
+
+msgid "mouse down?"
+msgstr "¿t'él ni'adh?"
+
+msgid "mouse x"
+msgstr "x t'él"
+
+msgid "mouse y"
+msgstr "y t'él"
+
+msgid "move %n steps"
+msgstr "ka édhlats %n an xákab"
+
+msgid "next background"
+msgstr "taltal juneke'"
+
+msgid "next costume"
+msgstr "júneke jalk'uxtaláb"
+
+msgid "not %b"
+msgstr "ibaj %b"
+
+msgid "operators"
+msgstr ""
+
+msgid "pen"
+msgstr "dhuchumtaláb"
+
+msgid "pen down"
+msgstr "pa'baj dhuchumtaláb"
+
+msgid "pen up"
+msgstr "k'adhbáj dhuchumtaláb"
+
+msgid "pick random %n to %n"
+msgstr "ájumtalab wenkódh %n ani %n"
+
+msgid "play drum %D for %n beats"
+msgstr "t'eney %D tambol %n ni'adh"
+
+msgid "play note %N for %n beats"
+msgstr "t'eney %N ajatláb %n ni'adh "
+
+msgid "play sound %S"
+msgstr "t'eney dhininil %S"
+
+msgid "play sound %S until done"
+msgstr "t'eney dhininil %S aychixtaláb"
+
+msgid "point in direction %d"
+msgstr "ch'ubchiy bolídh %d"
+
+msgid "point towards %m"
+msgstr "ch'ubchiy ti %m"
+
+msgid "repeat %n"
+msgstr "tsáb uluw %n"
+
+msgid "repeat until %b"
+msgstr "tsáb uluw ma' %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "jalk'udh %i ti %L %s"
+
+msgid "reset timer"
+msgstr "ka tuxchi' juníl (cronómetro)"
+
+msgid "rest for %n beats"
+msgstr "kwek'intaláb %n ni'adh"
+
+msgid "round %n"
+msgstr "kuechodhná %n"
+
+msgid "say %s"
+msgstr "uluw %s"
+
+msgid "say %s for %n secs"
+msgstr "úludh %s dhúbat %n"
+
+msgid "sensing"
+msgstr "k'aldhaxtaláb"
+
+msgid "sensor %h?"
+msgstr "¿k'aldhaxtaláb lek'tsidh%h?"
+
+msgid "set %g effect to %n"
+msgstr "éts'ey %g k'ijidhtaláb ti %n"
+
+msgid "set %v to %n"
+msgstr "éts'ey %v ti %n"
+
+msgid "set instrument to %I"
+msgstr "éts'ey eyaxtaláb ti %I"
+
+msgid "set pen color to %c"
+msgstr "éts'ey mukuxtaláb té ti %c"
+
+msgid "set pen color to %n"
+msgstr "éts'ey  mukuxtaláb té ti %n"
+
+msgid "set pen shade to %n"
+msgstr "éts'ey ts'ápik dhuchumtaláb ti %n"
+
+msgid "set pen size to %n"
+msgstr "éts'ey puwel an dhuxumtaláb ti %n"
+
+msgid "set size to %n%"
+msgstr "éts'ey puwel ti n %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "éts'ey an k'icháj ti %n ppm"
+
+msgid "set volume to %n%"
+msgstr "éts'ey ák'nal ti %n%"
+
+msgid "set x to %n"
+msgstr "éts'ey x ti %n"
+
+msgid "set y to %n"
+msgstr "éts'ey y ti %n"
+
+msgid "show"
+msgstr "tejwamedha'"
+
+msgid "show variable %v"
+msgstr "tejwamedha' jalk'uxtaláb %v"
+
+msgid "size"
+msgstr "in puwél"
+
+msgid "sound"
+msgstr "tsininil"
+
+msgid "stamp"
+msgstr "ts'omay"
+
+msgid "stop all"
+msgstr "kúbiy pátal"
+
+msgid "stop all sounds"
+msgstr "kúbiy pátal dhininíl"
+
+msgid "stop script"
+msgstr "kúbiy pátal an t'oláb"
+
+msgid "switch to background %l"
+msgstr "jalk'uxtaláb in táltal %l"
+
+msgid "switch to costume %l"
+msgstr "jalk'uxtaláb in kotón ti %l"
+
+msgid "tempo"
+msgstr "biyál"
+
+msgid "think %s"
+msgstr "tsalpay %s"
+
+msgid "think %s for %n secs"
+msgstr "tsálab %s dhúbath %n"
+
+msgid "timer"
+msgstr "pat'al jolataláb"
+
+msgid "touching %m?"
+msgstr "¿in tákal %m?"
+
+msgid "touching color %C?"
+msgstr "¿in tákal an majuxtaláb %C?"
+
+msgid "turn %n degrees"
+msgstr "tsawiwíl %n ajumtaláb"
+
+msgid "variables"
+msgstr "jalk'uxtaláb"
+
+msgid "volume"
+msgstr "ák'nal"
+
+msgid "wait %n secs"
+msgstr "aychij %n dhúbath"
+
+msgid "wait until %b"
+msgstr "ka aychij ma ka %b"
+
+msgid "when %k key pressed"
+msgstr "tám %k ka ni'a an dhuchumtalán láb"
+
+msgid "when %m clicked"
+msgstr "tam %m ka ni'a "
+
+msgid "when I receive %e"
+msgstr "tam ka bats'uw %e"
+
+msgid "x position"
+msgstr "kw'ajixtaláb x"
+
+msgid "y position"
+msgstr "kw'ajixtaláb y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(ni jant'o')"
+
+msgid "1 script"
+msgstr "jún i t'oláb"
+
+msgid "About Scratch"
+msgstr "U tejwamé ti Scratch"
+
+msgid "About this project:"
+msgstr "Ka eláj ti  axe' xi t'ojláb"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "tamkudh t'ilaxtaláb"
+
+msgid "add comment here"
+msgstr "tamkudh t'ilaxtaláb tejé'"
+
+msgid "all"
+msgstr "pátal"
+
+msgid "and"
+msgstr "ani'"
+
+msgid "Animation"
+msgstr ""
+
+msgid "any"
+msgstr "jawakits"
+
+msgid "Art"
+msgstr ""
+
+msgid "background"
+msgstr "lubnél"
+
+msgid "backgrounds"
+msgstr "lubnélchik"
+
+msgid "Backgrounds"
+msgstr "Lubélchik"
+
+msgid "brightness"
+msgstr "mak'i'"
+
+msgid "Brush size: "
+msgstr "Puwel an majuxtaláb"
+
+msgid "button"
+msgstr "lek'tsinchixtaláb"
+
+msgid "button pressed"
+msgstr "lek'tsinchixtaláb ni'adh"
+
+msgid "Camera"
+msgstr ""
+
+msgid "can rotate"
+msgstr "tsawk'idh tolmix"
+
+msgid "cancel"
+msgstr "Pakuxtaláb"
+
+msgid "Cancel"
+msgstr "Pakuxtaláb"
+
+msgid "Choose a folder"
+msgstr "Ka tákuy an  kotomláb úw"
+
+msgid "Choose new sprite from file"
+msgstr "Ka tákuy jún it t'ojláb tamkúdh"
+
+msgid "clean up"
+msgstr "kw'itiy"
+
+msgid "Clear"
+msgstr "Kw'itiy"
+
+msgid "Clear canvas"
+msgstr "Kw'itiy an toltóm"
+
+msgid "Close and continue"
+msgstr ""
+
+msgid "Close dialog?"
+msgstr "¿mápudh t'ílaxtaláb?"
+
+msgid "Close paint editor?"
+msgstr "¿Mápudh abatnap majuxtaláb"
+
+msgid "close port"
+msgstr "mápudh wi'leb"
+
+msgid "Close sound recorder?"
+msgstr "¿Mapudh kaw pat'al  sininíl?"
+
+msgid "color"
+msgstr "mukuxtaláb"
+
+msgid "Compress Images"
+msgstr "tsipkamédha an walchik"
+
+msgid "Compress Sounds"
+msgstr "Tsipkamédha an sininíl"
+
+msgid "Compress sounds and images"
+msgstr "Tsipkamédha an sininíl ani an k'íjidh walchik"
+
+msgid "Computer"
+msgstr "Lekw'tsidh pát'al láb ok'"
+
+msgid "connected"
+msgstr "ts'a láb k'amal"
+
+msgid "Connecting to "
+msgstr "Ts'a Lab k'amal ti"
+
+msgid "Copy"
+msgstr "tsáb ts'ejka"
+
+msgid "costume"
+msgstr "Pil i jalk'uxtaláb toltóm"
+
+msgid "costumes"
+msgstr "Pil i jalk'uxtaláb toltómichik"
+
+msgid "Costumes"
+msgstr "Pil i jalk'uxtaláb toltómichik"
+
+msgid "Could not read"
+msgstr "Yab in ejtowal kin ajiy"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Yab in ejtowal kin ajiy an t'ojláb, an tamkuy úw walám ódhenek"
+
+msgid "Could not write file"
+msgstr "Yab in éjtowal kin dhucháj an tamkux úw"
+
+msgid "Create account"
+msgstr "Ka ts'ejka jun i t'oláb"
+
+msgid "Create an empty project"
+msgstr "Ka ts'ejka jun i t'oláb it"
+
+msgid "Data sent. Waiting for response..."
+msgstr "T'ojláb abnenek. In ayál i t'ojts'ixtaláb"
+
+msgid "delete"
+msgstr "pakuw"
+
+msgid "Delete"
+msgstr "Pakuw"
+
+msgid "Delete a list"
+msgstr "ka pakuw jun i nik'adh dhuche'"
+
+msgid "Delete a variable"
+msgstr "ka pakuw jalk'uxtaláb"
+
+msgid "Delete this background"
+msgstr ""
+
+msgid "Delete this costume"
+msgstr "Ka pakuw axé xi toltimidh"
+
+msgid "Delete this sound"
+msgstr "ka pakuw axe' xi sininíl"
+
+msgid "Delete this sprite"
+msgstr ""
+
+msgid "Desktop"
+msgstr "k'a'al met'axtaláb"
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr ""
+
+msgid "Documents"
+msgstr "úw dhúchadh"
+
+msgid "don't rotate"
+msgstr "yab ka wilá'"
+
+msgid "Don't Save"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "down"
+msgstr "alál"
+
+msgid "down arrow"
+msgstr "ch'ichok'láb alál"
+
+msgid "drag to resize"
+msgstr ""
+
+msgid "drag to rotate"
+msgstr ""
+
+msgid "draggable on website?"
+msgstr "¿Ka kinaj an web axi awil ka úmaj"
+
+msgid "duplicate"
+msgstr "tsábchil ts'ejkadh"
+
+msgid "Duplicate"
+msgstr "tsábchil ts'ejkadh"
+
+msgid "edge"
+msgstr "walte'"
+
+msgid "Edit"
+msgstr "ka ábna'"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Éyaxtal (ts'ejkap axi kwechochol, axi toniníl ani axi ka t'uchiy pátal)"
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr "Kit ótsits ti k'a'al t'ojláb"
+
+msgid "Eraser"
+msgstr "Pakuxtaláb"
+
+msgid "Eraser size"
+msgstr "Pakdhá' an pakuxtaláb"
+
+msgid "Error!"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Exit presentation"
+msgstr ""
+
+msgid "Exit presentation mode"
+msgstr "Kit kaléj tam kit taliy ka olna'"
+
+msgid "export"
+msgstr "Kaldaxtaláb"
+
+msgid "Export Background"
+msgstr "Kaldaxtaláb lúpudh"
+
+msgid "Export Costume"
+msgstr "Kaldaxtaláb  kontonlídh"
+
+msgid "Export failed"
+msgstr "Kaldaxtaláb ódhey"
+
+msgid "Export Sound"
+msgstr "Kaldaxtaláb sininíl"
+
+msgid "Export Sprite"
+msgstr "Kaldaxtaláb Umalej"
+
+msgid "export this costume"
+msgstr "Kaldaxtaláb axe' xi umálej"
+
+msgid "export this sound"
+msgstr ""
+
+msgid "export this sprite"
+msgstr ""
+
+msgid "Extras menu"
+msgstr "Éyaxtal axi in kwa'al pilchik ka éyendha"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "T'ukuxtaláb (Abal ka tákuy an majuxtaláb)"
+
+msgid "Failed:"
+msgstr "odextaláb"
+
+msgid "false"
+msgstr "janamtaláb"
+
+msgid "File"
+msgstr ""
+
+msgid "File not found"
+msgstr "Xant'oj an úw axi dháyax"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Pat'ál abal ka t'uchiy an majuxtaláb"
+
+msgid "first"
+msgstr "ók'ox"
+
+msgid "fisheye"
+msgstr "in wál an to'ol"
+
+msgid "Flash blocks (fast)"
+msgstr "Ka mukuy  an pejax (dhúbat"
+
+msgid "Flash blocks (slow)"
+msgstr "Ka mukuy an pejax (k'ayúm)"
+
+msgid "Flip horizontally"
+msgstr "Tsawiwíl bolidh"
+
+msgid "Flip vertically"
+msgstr "Tsawiwíl kubat"
+
+msgid "For all sprites"
+msgstr "Abál pátal an eyendhaxtaláb"
+
+msgid "For this sprite only"
+msgstr "Abál axe xi eyendhaxtaláb"
+
+msgid "Game"
+msgstr ""
+
+msgid "Get surprise sprite"
+msgstr "Eyendhaxtaláb k'ijidh ádhik"
+
+msgid "Get the last thing deleted"
+msgstr "Taltal eyendhaxtaláb pákudh"
+
+msgid "Getting Started"
+msgstr ""
+
+msgid "ghost"
+msgstr ""
+
+msgid "Go To Scratch Website"
+msgstr ""
+
+msgid "grab screen region for new costume"
+msgstr ""
+"Ka takuy an t'ojláb pejax axi kw'ajat ti tametan lewts'idhtaláb abal ka "
+"jalk'uy in kotomláb"
+
+msgid "grab screen region for new sprite"
+msgstr ""
+"Ka takuy an t'ojláb pejax axi kw'ajat ti tamet an lewts'idh pat'ál abal ka "
+"aliy an úmalej"
+
+msgid "Grow"
+msgstr "puwendhax"
+
+msgid "Grow sprite"
+msgstr "puwendhax jawakits"
+
+msgid "hello "
+msgstr ""
+
+msgid "Hello!"
+msgstr "nenék"
+
+msgid "help"
+msgstr "tolmixtaláb"
+
+msgid "Help"
+msgstr ""
+
+msgid "Help Page"
+msgstr ""
+
+msgid "Help Screens"
+msgstr ""
+
+msgid "Hide Motor Blocks"
+msgstr ""
+
+msgid "High (biggest)"
+msgstr "púlik"
+
+msgid "Hmm..."
+msgstr "mmm..."
+
+msgid "Home"
+msgstr "ts'ikintaláb"
+
+msgid "Images compressed"
+msgstr "k'ijidhtalab tsipkamedhaits"
+
+msgid "import"
+msgstr "Otselchixtaláb"
+
+msgid "Import"
+msgstr "Otselchixtaláb"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Otselchixtaláb jún i k'ijidhtaláb tin tamét axi xowé'"
+
+msgid "Import Background"
+msgstr "Otselchixtaláb lúpudh"
+
+msgid "Import Costume"
+msgstr "Otselchixtaláb axi in kwa'al pil in kotón"
+
+msgid "Import Image"
+msgstr "Otselchixtaláb K'íjidh"
+
+msgid "Import List"
+msgstr "Otselchixtaláb jún i nik'adh dhúxlab"
+
+msgid "Import Project"
+msgstr "Otselchixtaláb t'ojláb"
+
+msgid "import project"
+msgstr "Otselchixtaláb t'ojláb"
+
+msgid "Import Sound"
+msgstr "Otselchixtaláb Sininíl"
+
+msgid "Incompatible Scratch file format"
+msgstr "Jólat úw axi an t'ojláb yáb in kulbetnál"
+
+msgid "Is the folder read-only?"
+msgstr "¿An t'ojláb expídh abál ka ájiy?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "Alwataláb JPEG (10-100)"
+
+msgid "kbytes"
+msgstr "Kbytes"
+
+msgid "Language"
+msgstr "Kawintaláb"
+
+msgid "large readout"
+msgstr "pak'dha o pulik"
+
+msgid "last"
+msgstr "táltal"
+
+msgid "left"
+msgstr "kw'atab"
+
+msgid "left arrow"
+msgstr "Ts'upídh té'  kw'atab"
+
+msgid "length"
+msgstr "nakél "
+
+msgid "light"
+msgstr "tajaxtaláb"
+
+msgid "Line tool (draw lines)"
+msgstr "Eyendaxtaláb abál ka ts'ejka an kiloxtaláb"
+
+msgid "List name?"
+msgstr "¿Bij an kiloxtaláb?"
+
+msgid "Low"
+msgstr "Pa'íl"
+
+msgid "Lowest (smallest)"
+msgstr "Axi' mas tsa'at"
+
+msgid "Make a list"
+msgstr "It' dhucumtaláb"
+
+msgid "Make a variable"
+msgstr "It' jalk'unenek"
+
+msgid "Max:"
+msgstr "Max: puwél"
+
+msgid "meow"
+msgstr "miau"
+
+msgid "Message name:"
+msgstr "in big an dhúchnel"
+
+msgid "Min:"
+msgstr "tsipkats"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "yán"
+
+msgid "More tags:"
+msgstr "yán i pejachik"
+
+msgid "mosaic"
+msgstr "t'ujúb  láb"
+
+msgid "mouse x:"
+msgstr "x an t'él"
+
+msgid "mouse y:"
+msgstr "y an t'él"
+
+msgid "mouse-pointer"
+msgstr "chúbchix an t'él"
+
+msgid "Move"
+msgstr "Edhláts"
+
+msgid "Music"
+msgstr "T'enextaláb"
+
+msgid "My Projects"
+msgstr ""
+
+msgid "new"
+msgstr "it'"
+
+msgid "New"
+msgstr "it'"
+
+msgid "New background:"
+msgstr "Lupudh ít"
+
+msgid "New costume:"
+msgstr "It i kotomláb"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "It i bij an tamkudh úw"
+
+msgid "New sound:"
+msgstr "Sininíl ít"
+
+msgid "New Sprite"
+msgstr ""
+
+msgid "New sprite:"
+msgstr "Ít i eyaxtaláb"
+
+msgid "No"
+msgstr "Ibáj"
+
+msgid "No MIDI ports currently available."
+msgstr "Ni jún i wíleb MIDI jolat abál ka eyendha'"
+
+msgid "No motion blocks"
+msgstr "Yáb wa'ats ni jún i pejax t'ojláb ti éjel"
+
+msgid "no scripts"
+msgstr "Yáb wa'ats i t'ojláb"
+
+msgid "No serial ports found"
+msgstr "Yáb wa'ats i jolataláb ník'adh abal ka éyendha'"
+
+msgid "No variables."
+msgstr "Yab wats i jalk'uxtalá"
+
+msgid "Normal"
+msgstr "Alwak'i"
+
+msgid "normal readout"
+msgstr ""
+
+msgid "Off"
+msgstr "Tepdhax"
+
+msgid "OK"
+msgstr "Anits"
+
+msgid "On"
+msgstr "Lekw'tsidh"
+
+msgid "only face left-right"
+msgstr "Ka ts'uw kwatab - wináb"
+
+msgid "Open"
+msgstr "Ka japiy"
+
+msgid "Open a Scratch project"
+msgstr "Ka japiy jun i taltal i t'oláb axin bij ti láb Scratch"
+
+msgid "Open Project"
+msgstr "Ka japiy an t'oláb"
+
+msgid "or"
+msgstr "o"
+
+msgid "Paint"
+msgstr "Mukuxtaláb"
+
+msgid "Paint Editor"
+msgstr "Abatnél i majuxtaláb"
+
+msgid "Paint new sprite"
+msgstr "ka mukuy ti it'"
+
+msgid "Paintbrush"
+msgstr "majuxtaláb"
+
+msgid "Password:"
+msgstr "tsab dhuxnél"
+
+msgid "Percent? (100 gives original size)"
+msgstr "¿Puwendhab? (jún ínik in puwél k'a'al)"
+
+msgid "Pictures"
+msgstr "Walchik'"
+
+msgid "pixelate"
+msgstr "Pixelizar"
+
+msgid "play"
+msgstr "Takáj"
+
+msgid "Please enter a number"
+msgstr "Ka eyendha' jún ajuntaláb"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Ka ts'ejka tin ts'ikintal an tsawiwíl"
+
+msgid "Preparing project..."
+msgstr "Ts'ejkanál an T'ojláb"
+
+msgid "Project author:"
+msgstr "Bijláb axi in ts'ejka an t'ojláb"
+
+msgid "Project name"
+msgstr "Bijláb axi in ts'ejka an t'ojláb"
+
+msgid "Project Notes"
+msgstr "Dhuxnél an t'ojláb"
+
+msgid "Project notes"
+msgstr "Dhuxnél an t'ojláb"
+
+msgid "Project uploaded."
+msgstr "T'ojláb abal patalchik"
+
+msgid "Projects"
+msgstr "T'ojláb"
+
+msgid "Quit"
+msgstr "Ka jiláj"
+
+msgid "Quit Scratch"
+msgstr "Ka jiuláj Scratch"
+
+msgid "Reading"
+msgstr ""
+
+msgid "record"
+msgstr "Ka ts'ataj"
+
+msgid "Record"
+msgstr "Ka ts'ataj"
+
+msgid "recording"
+msgstr "Ts'atachik"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Eyaxtal axi ti láb in bij \"rectángulos\""
+
+msgid "Redo"
+msgstr "Tsáb ts'ejkadh"
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "Ka tixka an tsu'uxtaláb ti tamkunel"
+
+msgid "resistance"
+msgstr "In lubál"
+
+msgid "resize this sprite"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "wínap"
+
+msgid "right arrow"
+msgstr "Bolídh té' wínap"
+
+msgid "Rotate clock-wise"
+msgstr "Tsawiwíl bolídh axi in k'al an pat'al láb in binál an \"hora\""
+
+msgid "Rotate counter-clock-wise"
+msgstr "Tsawiwíl kuxláb axi in k'al an pat'al láb in binál an \"hora\""
+
+msgid "rotate this sprite"
+msgstr ""
+
+msgid "Rotation degrees?"
+msgstr ""
+
+msgid "Save"
+msgstr "Ka dháya"
+
+msgid "Save a copy of the current project"
+msgstr "Ka dháya jún in t'ojláb ts'ejkadh axi xowé"
+
+msgid "Save As"
+msgstr "Ka dháya ti"
+
+msgid "Save changes before quitting?"
+msgstr ""
+
+msgid "Save failed"
+msgstr "Ka dháya an t'ojláb ódhenek"
+
+msgid "save picture of scripts"
+msgstr "Ka dháya an k'ijidhtaláb t'ojláb"
+
+msgid "save picture of stage..."
+msgstr "Ka dháya an k'ijidhtaláb yanél"
+
+msgid "Save Project"
+msgstr "Ka dháya an t'ojláb "
+
+msgid "Save Scripts Snapshot"
+msgstr "Ka dháya an k'ijidhtaláb T'ojláb"
+
+msgid "Save Stage Shot"
+msgstr "Ka dháya an k'ijidhtaláb yanél"
+
+msgid "Save the current project"
+msgstr "Ka dháya an t'ojláb axi xowé"
+
+msgid "Save the current project?"
+msgstr "¿Ka dháya an t'ojláb axi xowé?"
+
+msgid "Save this project"
+msgstr ""
+
+msgid "Scripts"
+msgstr "T'ojlabchik"
+
+msgid "select serial/USB port"
+msgstr "Ka tákuy an t'ojláb níkadh/USB "
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Eyaxtal tákudh (edhlats, jalk'uxtaláb ani an pakuxtaláb tákudh"
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr "Takuxtaláb kawintal pejachik"
+
+msgid "Set rotation center"
+msgstr "Takuxtaláb ts'ikintal tsawiwíl"
+
+msgid "Set Single Stepping"
+msgstr "Ka ts'ikiy a tsúw an xakap"
+
+msgid "set slider min and max"
+msgstr "Ka punchij ts'ik ani puwe in jálbixtal"
+
+msgid "Share"
+msgstr "Ka júnax éyendha"
+
+msgid "Share this project"
+msgstr ""
+
+msgid "Share This Project Online"
+msgstr "ka júnax éyendha axe xi t'ojláb bolídh"
+
+msgid "Show Motor Blocks"
+msgstr ""
+
+msgid "show ScratchBoard watcher"
+msgstr "Ka tejwamedhá an \"ScratchBoard\""
+
+msgid "Shrink"
+msgstr "tsipkamedhá"
+
+msgid "Shrink sprite"
+msgstr "tsipkamedhá eyaxtaláb"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Single-step speed?"
+msgstr ""
+
+msgid "slider"
+msgstr "K'itnal"
+
+msgid "Slider range:"
+msgstr "Péjax in jálbixtal"
+
+msgid "Sound quality:"
+msgstr "Alwa' sininíl"
+
+msgid "Sound Recorder"
+msgstr "Ts'atal an sininíl"
+
+msgid "Sounds"
+msgstr "Sininíl"
+
+msgid "Sounds compressed"
+msgstr "Sininíl ka ts'ipkamedhá"
+
+msgid "space"
+msgstr "Jolataláb"
+
+msgid "Sprite"
+msgstr "Umalej"
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr "Ibíl \"cuadrado\""
+
+msgid "Stage"
+msgstr "Tamkunél"
+
+msgid "Stage selected:"
+msgstr "Tamkunél tákudh"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Ts'omaxtaláb (ka takuy jún i jolataláb ani ka yanédha)"
+
+msgid "Start green flag scripts"
+msgstr "Ka tujchi' an t'ojláb  ti toltóm yaxu'"
+
+msgid "Start Single Stepping"
+msgstr "Ka tsu'u an xakab owdháchik"
+
+msgid "stop"
+msgstr "Kubiy"
+
+msgid "Stop everything"
+msgstr "Kubiy pátal"
+
+msgid "Stop Single Stepping"
+msgstr "Abal ka tsu'u an xakab"
+
+msgid "Story"
+msgstr ""
+
+msgid "Support Site"
+msgstr ""
+
+msgid "Switch colors"
+msgstr "Jak'uxtaláb mukuxtal"
+
+msgid "Switch to full stage"
+msgstr ""
+
+msgid "Switch to presentation mode"
+msgstr ""
+
+msgid "Switch to small stage"
+msgstr ""
+
+msgid "Tags:"
+msgstr "Péjax úw ts'omadh"
+
+msgid "Text tool (edit text layer)"
+msgstr "Éyaxtal dhuchumtaláb"
+
+msgid "That variable name is already in use"
+msgstr "That variable name is already in use"
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "An bij an t'ojláb kw'ajatits.¿A lej ka tsáb dhucháj?"
+
+msgid "thing"
+msgstr "Eyextaláb"
+
+msgid "this way"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "true"
+msgstr "Anits"
+
+msgid "Turbo speed"
+msgstr "Léj adhidhíl"
+
+msgid "turn into new sprite"
+msgstr "Ka wenk'o ti it i eyextaláb"
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Undo"
+msgstr "Ka páku"
+
+msgid "up"
+msgstr "Walk'i"
+
+msgid "up arrow"
+msgstr "Ts'upidh té' walk'i"
+
+msgid "Updating thumbnails"
+msgstr "msgid \"Updating thumbnails\""
+
+msgid "Upload succeeded!"
+msgstr "T'ojláb axi u abaits"
+
+msgid "Upload to Scratch Server"
+msgstr "U abál an ts'ejkom ti Scratch"
+
+msgid "Uploading"
+msgstr "U abál"
+
+msgid "Variable name?"
+msgstr "¿Bijchik i yanétal"
+
+msgid "View on stage"
+msgstr "ka tejwamedhá an yanél"
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr "Tsawixtaláb"
+
+msgid "world"
+msgstr ""
+
+msgid "Write Multiple Project Summaries"
+msgstr "Ka yánedha ani ka wílaj an dhúxlab axi yandha an t'ojláb"
+
+msgid "Write Project Summary"
+msgstr "Ka yánedha ani ka wílaj an dhúxlab axi kw'ajat ti t'ojláb"
+
+msgid "Yes"
+msgstr "Aníts"
+
+msgid "Your project is now online at"
+msgstr "An t'ojláb kw'ajat bolídh ti web"
+
+msgid "Your Scratch website login name:"
+msgstr "Bij an ts'ejkom t'ojláb"
+
+msgid "Zoom in"
+msgstr "Ka utbá'"
+
+msgid "Zoom out"
+msgstr "Owmedhá"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "T'enixtaláb"
+
+msgid "Acoustic Bass"
+msgstr "Tsa'at T'enixtaláb"
+
+msgid "Acoustic Bass Drum"
+msgstr "T'enixtaláb axi ti láb in bij \"Bombo Acústico\""
+
+msgid "Acoustic Grand"
+msgstr "T'enixtaláb pat'ál"
+
+msgid "Acoustic Snare"
+msgstr "Tamból "
+
+msgid "Agogo"
+msgstr "T'enixtaláb"
+
+msgid "Alto Sax"
+msgstr "T'enixtaláb Yejnek"
+
+msgid "Applause"
+msgstr "Bikbilchik"
+
+msgid "Bagpipe"
+msgstr "Éyendhextaláb abál ka t'éney"
+
+msgid "Banjo"
+msgstr "Éyendhaxtaláb abál ka t'éney"
+
+msgid "Baritone Sax"
+msgstr "T'enixtaláb"
+
+msgid "Bass Drum 1"
+msgstr "Bombo jún"
+
+msgid "Bassoon"
+msgstr "Fagot"
+
+msgid "Bird Tweet"
+msgstr "Piada i ts'ítsin"
+
+msgid "Blown Bottle"
+msgstr "Balixtaláb júchudh"
+
+msgid "Brass Section"
+msgstr "Pejachik i pát'al"
+
+msgid "Breath Noise"
+msgstr "Sininíl ti íxak"
+
+msgid "Bright Acoustic"
+msgstr "T'enixtaláb ts'umimíl"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "K'aylal"
+
+msgid "Cello"
+msgstr "T'enixtaláb axi ti láb in bij \"violonchelo\""
+
+msgid "Chinese Cymbal"
+msgstr "K'apnél chino"
+
+msgid "Choir Aahs"
+msgstr "Yanél axi aahs"
+
+msgid "Church Organ"
+msgstr "Péjax i tiopan"
+
+msgid "Clarinet"
+msgstr "T'enixtaláb axi ti láb in bij ti \"clarinete\""
+
+msgid "Claves"
+msgstr "T'enixtaláb axi ti láb in bij ti \"claves)"
+
+msgid "Clavinet"
+msgstr "T'enixtaláb axi ti láb in bij \"Clavinet\""
+
+msgid "Closed Hi-Hat"
+msgstr "Charles mapudh"
+
+msgid "Contrabass"
+msgstr ""
+
+msgid "Cowbell"
+msgstr ""
+
+msgid "Crash Cymbal 1"
+msgstr "K'apnél crash jún"
+
+msgid "Crash Cymbal 2"
+msgstr "K'apnél crash tsáb"
+
+msgid "Distortion Guitar"
+msgstr "Ajab jalk'unenek"
+
+msgid "Drawbar Organ"
+msgstr "T'enixtaláb Hammond"
+
+msgid "Dulcimer"
+msgstr "Tsik'amedhá"
+
+msgid "Electric Bass (finger)"
+msgstr "Tsa'at ts'aj láb (ch'uchúb)"
+
+msgid "Electric Bass (pick)"
+msgstr "Tsa'at ts'aj láb  (ítsik)"
+
+msgid "Electric Clean Guitar"
+msgstr "Ajab ts'aj láb  tájax"
+
+msgid "Electric Grand"
+msgstr "Ténixtaláb ts'áj láb pulik"
+
+msgid "Electric Jazz Guitar"
+msgstr "Ajab ts'aj láb jazz"
+
+msgid "Electric Muted Guitar"
+msgstr "Ajab ts'aj láb sordina"
+
+msgid "Electric Piano 1"
+msgstr "T'enixtaláb ts'áj láb jún"
+
+msgid "Electric Piano 2"
+msgstr "T'enixtaláb ts'áj láb tsab"
+
+msgid "Electric Snare"
+msgstr "Tambol  ts'áj láb"
+
+msgid "English Horn"
+msgstr ""
+
+msgid "FX 1 (rain)"
+msgstr "K'ijidhtaláb jún (áb)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "K'ijidhtaláb tsáb (sininíl)"
+
+msgid "FX 3 (crystal)"
+msgstr "K'ijidhtaláb ox (t'ujub tájax)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "K'ijidhtaláb tse'  (k'aylal)"
+
+msgid "FX 5 (brightness)"
+msgstr "K'ijidhtaláb bó' (ts'umimil)"
+
+msgid "FX 6 (goblins)"
+msgstr "K'ijidhtaláb akak (tsakám inik)"
+
+msgid "FX 7 (echoes)"
+msgstr "K'ijidhtaláb buk (ecos)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "K'ijidhtaláb waxik (dhúchadh tsálap ínik)"
+
+msgid "Fiddle"
+msgstr "Ajab celta"
+
+msgid "Flute"
+msgstr "T'enixtaláb "
+
+msgid "French Horn"
+msgstr "T'enixtaláb"
+
+msgid "Fretless Bass"
+msgstr "T'enixtaláb axi yab in kwa'al an tálab"
+
+msgid "Glockenspiel"
+msgstr "Ubatláb axi sininíl"
+
+msgid "Guitar Fret Noise"
+msgstr "T'enixtaláb"
+
+msgid "Guitar Harmonics"
+msgstr "K'íjidh t'enixtaláb"
+
+msgid "Gunshot"
+msgstr "Péten an tsók"
+
+msgid "Hand Clap"
+msgstr "bok'bólchik"
+
+msgid "Harmonica"
+msgstr "K'ijidhtaláb"
+
+msgid "Harpsichord"
+msgstr "T'enixtaláb axi ti láb in bij \"Clavicémbalo\""
+
+msgid "Helicopter"
+msgstr "Júmnal pat'al"
+
+msgid "Hi Bongo"
+msgstr "T'enixtaláb axi ti láb in bij \"Bongó\" agudo"
+
+msgid "Hi Wood Block"
+msgstr "Balixtalán \"china\" aguda"
+
+msgid "Hi-Mid Tom"
+msgstr "Tom ts'ejel agudo"
+
+msgid "High Agogo"
+msgstr ""
+
+msgid "High Floor Tom"
+msgstr "Tom ti tsabál agud"
+
+msgid "High Timbale"
+msgstr ""
+
+msgid "High Tom"
+msgstr ""
+
+msgid "Honky-Tonk"
+msgstr ""
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Ok'nome jún (onda cuadrada)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Ok'nome tsáb (k'amab i ts'en)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Ok'nome óx (péjax i iniktal paw)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Ok'nome tsé' (siseo péjax iniktal)"
+
+msgid "Lead 5 (charang)"
+msgstr "Ok'nome bó' (charango)"
+
+msgid "Lead 6 (voice)"
+msgstr "Ok'nome akak (kawíntal)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Ok'nome buk (bo'chik)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Ok'nome wachik (tsa'at ani k'ijidh)"
+
+msgid "Long Guiro"
+msgstr "T'enixtaláb nákat"
+
+msgid "Long Whistle"
+msgstr "Juchuxtaláb nákat"
+
+msgid "Low Agogo"
+msgstr "T'enixtaláb axi ti láb in bij \"Agogó\" we' k'ochól"
+
+msgid "Low Bongo"
+msgstr "T'enixtaláb axi ti láb in bij \"Bongó\" we' k'ochól"
+
+msgid "Low Conga"
+msgstr "T'enixtaláb axi ti láb i bij \"Conga\" we' k'ochól"
+
+msgid "Low Floor Tom"
+msgstr "Tom de seulo k'ochól"
+
+msgid "Low Timbale"
+msgstr "Timbal K'ochól"
+
+msgid "Low Tom"
+msgstr "Tom K'ochól"
+
+msgid "Low Wood Block"
+msgstr "Balixtaláb \"china\" k'ochól"
+
+msgid "Low-Mid Tom"
+msgstr "Tom ts'ejel K'ochól"
+
+msgid "Maracas"
+msgstr "Dhóth"
+
+msgid "Marimba"
+msgstr "Tsakám dhóth"
+
+msgid "Melodic Tom"
+msgstr "T'enixtaláb "
+
+msgid "Music Box"
+msgstr "Balchixtaláb t'enedh"
+
+msgid "Mute Cuica"
+msgstr "Cuica yab tsi'néj"
+
+msgid "Mute Hi Conga"
+msgstr "Conga aguda tsi'néj"
+
+msgid "Mute Triangle"
+msgstr "T'enixtaláb tsi'néj"
+
+msgid "Muted Trumpet"
+msgstr "T'enixtaláb k'al i sordina"
+
+msgid "Nylon String Guitar"
+msgstr "Ajab láb"
+
+msgid "Oboe"
+msgstr "Oboe"
+
+msgid "Ocarina"
+msgstr "Ocarina"
+
+msgid "Open Cuica"
+msgstr "Cuica walkadh"
+
+msgid "Open Hi Conga"
+msgstr "Conga aguda walkadh"
+
+msgid "Open Hi-Hat"
+msgstr "Charles ja'pidh"
+
+msgid "Open Triangle"
+msgstr "T'enixtaláb walkadh"
+
+msgid "Orchestra Hit"
+msgstr "Atájchik an t'enixtaláb"
+
+msgid "Orchestral Strings"
+msgstr "Ajab  \"orquestal\""
+
+msgid "Overdriven Guitar"
+msgstr "Ajab t'uchat"
+
+msgid "Pad 1 (new age)"
+msgstr "Lupnél jún (it)"
+
+msgid "Pad 2 (warm)"
+msgstr "Lupnél tsáb (kídhmax)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Lupnél  óx (polisintetizador)"
+
+msgid "Pad 4 (choir)"
+msgstr "Lupnél tsé'  (yanél )"
+
+msgid "Pad 5 (bowed)"
+msgstr "Lupnél bó' (ti pulte')"
+
+msgid "Pad 6 (metallic)"
+msgstr "Lupnél akak (patál)"
+
+msgid "Pad 7 (halo)"
+msgstr "Lupnél buk (aureola)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Lupnél wachik (lits'o)"
+
+msgid "Pan Flute"
+msgstr "T'enixtaláb  dhúl ts'imadh bok'ol"
+
+msgid "Pedal Hi-Hat"
+msgstr "Charles pedal"
+
+msgid "Percussive Organ"
+msgstr "T'enixtaláb aynél"
+
+msgid "Piccolo"
+msgstr "Tsakám dhúl"
+
+msgid "Pizzicato Strings"
+msgstr "Ts'aj  pozzicato"
+
+msgid "Recorder"
+msgstr "T'enextaláb dhúl tsi'ik"
+
+msgid "Reed Organ"
+msgstr "T'enixtaláb"
+
+msgid "Reverse Cymbal"
+msgstr "K'apnél jalk'unél"
+
+msgid "Ride Bell"
+msgstr "Sininíl pát'al ti k'apnél óknom"
+
+msgid "Ride Cymbal 1"
+msgstr "K'apnél óknom jún"
+
+msgid "Ride Cymbal 2"
+msgstr "K'apnél óknom tsáb"
+
+msgid "Rock Organ"
+msgstr "T'enixtaláb an láb"
+
+msgid "Seashore"
+msgstr "Walte' an pulik lejem"
+
+msgid "Shakuhachi"
+msgstr "T'enixtaláb Shakuhachi"
+
+msgid "Shamisen"
+msgstr "T'enixtaláb ti láb uxnal ti Shamisen"
+
+msgid "Shanai"
+msgstr "T'enixtaláb ti láb uxna ti Shanai"
+
+msgid "Short Guiro"
+msgstr "T'enixtaláb tsipkats"
+
+msgid "Short Whistle"
+msgstr "Juchuxtaláb tsipkats"
+
+msgid "Side Stick"
+msgstr "K'olodh tsapchil bolídh"
+
+msgid "Sitar"
+msgstr "Sitar"
+
+msgid "Slap Bass 1"
+msgstr "Tsa'at k'olodh jún"
+
+msgid "Slap Bass 2"
+msgstr "Tsa'at k'olodh tsáb"
+
+msgid "Soprano Sax"
+msgstr "T'enixtaláb aaaaasi ti láb in bij \"saxofón soprano\""
+
+msgid "Splash Cymbal"
+msgstr "K'apnél  splash"
+
+msgid "Steel Drums"
+msgstr "Tamboles tsápik"
+
+msgid "Steel String Guitar"
+msgstr "T'enixtaláb tsápik"
+
+msgid "String Ensemble 1"
+msgstr "Yanél ts'áj jún"
+
+msgid "String Ensemble 2"
+msgstr "Yanél ts'áj tsáb"
+
+msgid "Synth Bass 1"
+msgstr "Tsa'at  ts'ejkadh jún"
+
+msgid "Synth Bass 2"
+msgstr "Tsa'at  ts'ejkadh tsáb"
+
+msgid "Synth Drum"
+msgstr "aynixtaláb  ts'ejkadh"
+
+msgid "Synth Voice"
+msgstr "kawintal an ts'ejkadh"
+
+msgid "SynthBrass 1"
+msgstr "Pat'al ts'ejkadh jún"
+
+msgid "SynthBrass 2"
+msgstr "Pat'al ts'ejkadh tsáb"
+
+msgid "SynthStrings 1"
+msgstr "Ts'áj ts'ejkadh jún"
+
+msgid "SynthStrings 2"
+msgstr "Ts'áj ts'ejkadh tsáb"
+
+msgid "Taiko Drum"
+msgstr "Tambol taiko"
+
+msgid "Tambourine"
+msgstr "T'enixtaláb axi ti láb in bij ti \"pandereta\""
+
+msgid "Tango Accordion"
+msgstr "T'enixtaláb axi ti láb in bij ti \"Bandoneón\""
+
+msgid "Telephone Ring"
+msgstr "Sininíl an ts'aj kawintaláb"
+
+msgid "Tenor Sax"
+msgstr "T'enixtaláb aaxi ti láb in bij ti Saxofón tenor"
+
+msgid "Timpani"
+msgstr "T'enixtaláb axi ti láb in bij ti Timbales"
+
+msgid "Tinkle Bell"
+msgstr "Tsakám sininíl"
+
+msgid "Tremolo Strings"
+msgstr "Ts'aj k'ali trémolo"
+
+msgid "Trombone"
+msgstr "T'enixtaláb axi ti láb in bij \"trombón\""
+
+msgid "Trumpet"
+msgstr "T'enixtaláb axi ti láb in bij \"trompeta\""
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "T'enixtalán axi ti láb in bij \"tubulares\""
+
+msgid "Vibraphone"
+msgstr "T'enixtaláb axi ti láb in bij \"vibráfono\""
+
+msgid "Vibraslap"
+msgstr "T'enixtaláb axi ti láb in bij   \"trafaplás\" "
+
+msgid "Viola"
+msgstr "T'enixtaláb axi ti láb in bij \"viola\" ó ajab"
+
+msgid "Violin"
+msgstr "T'enixtaláb axi ti láb in bij \"violín\" ó ajab"
+
+msgid "Voice Oohs"
+msgstr "Kawintal an oohs"
+
+msgid "Whistle"
+msgstr "Juchuxtaláb"
+
+msgid "Woodblock"
+msgstr "Balixtaláb china"
+
+msgid "Xylophone"
+msgstr "T'enixtaláb axi ti láb in bij \"xilófono\""

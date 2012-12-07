@@ -1,0 +1,1941 @@
+# Stefan <stefan.rrr@web.de>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch\n"
+"Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"POT-Creation-Date: 2008-02-18 03:58-0400\n"
+"PO-Revision-Date: 2011-03-16 17:11-0400\n"
+"Last-Translator: Stefan Heinrich Hermann <stefan.rrr@web.de>\n"
+"Language-Team: rrr\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.1\n"
+
+############################################
+# FORMATTING
+############################################
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Esperanto"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# &amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# Font to use on a Windows system&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# (Don't translate)
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system&amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# Font to use on a Mac system&amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# (Don't translate)
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# &amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# Font to use on a Linux system&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# (Don't translate)
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+msgid "%H sensor value"
+msgstr "valoro de sentilo %H"
+
+msgid "%L contains %s"
+msgstr "%L enhavas %s"
+
+msgid "%a of %m"
+msgstr "%a el %m"
+
+msgid "%b and %b"
+msgstr "%b kaj %b"
+
+msgid "%b or %b"
+msgstr "%b aŭ %b"
+
+msgid "%f of %n"
+msgstr "%f el %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "aldonu %s al %L"
+
+msgid "answer"
+msgstr "respondo"
+
+msgid "ask %s and wait"
+msgstr "demandu %s kaj atendu"
+
+msgid "background #"
+msgstr "numero de la fono"
+
+msgid "broadcast %e"
+msgstr "elsendu %e al ĉiuj"
+
+msgid "broadcast %e and wait"
+msgstr "elsendu %e al ĉiuj kaj atendu"
+
+msgid "change %g effect by %n"
+msgstr "ŝanĝu %g efekton je %n"
+
+msgid "change %v by %n"
+msgstr "ŝanĝu %v je %n"
+
+msgid "change pen color by %n"
+msgstr "ŝanĝu skribilkoloron je %n"
+
+msgid "change pen shade by %n"
+msgstr "ŝanĝu kolorforton je %n"
+
+msgid "change pen size by %n"
+msgstr "ŝanĝu skribildikecon je %n"
+
+msgid "change size by %n"
+msgstr "ŝanĝu grandecon je %n"
+
+msgid "change tempo by %n"
+msgstr "ŝanĝu rapidecon je %n"
+
+msgid "change volume by %n"
+msgstr "ŝanĝu laŭtecon je %n"
+
+msgid "change x by %n"
+msgstr "ŝanĝu x je %n"
+
+msgid "change y by %n"
+msgstr "ŝanĝu y je %n"
+
+msgid "clear"
+msgstr "forigu desegnaĵojn"
+
+msgid "clear graphic effects"
+msgstr "malŝaltu grafikajn efektojn"
+
+msgid "color %C is touching %C?"
+msgstr "koloro %C tuŝas %C?"
+
+msgid "control"
+msgstr "stirado"
+
+msgid "costume #"
+msgstr "kostumo nombro"
+
+msgid "delete %y of %L"
+msgstr "forigu %y el %L"
+
+msgid "direction"
+msgstr "direkto"
+
+msgid "distance to %m"
+msgstr "distanco de %m"
+
+msgid "else"
+msgstr "alie"
+
+msgid "forever"
+msgstr "ripetu eterne"
+
+msgid "forever if %b"
+msgstr "ripetu, se %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "glitu %n sek. al x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "iru %n tavolojn malantaŭen"
+
+msgid "go to %m"
+msgstr "iru al %m"
+
+msgid "go to front"
+msgstr "iru antaŭen"
+
+msgid "go to x:%n y:%n"
+msgstr "iru al x:%n y:%n"
+
+msgid "hide"
+msgstr "kaŝiĝu"
+
+msgid "hide variable %v"
+msgstr "kaŝu variablon %v"
+
+msgid "if %b"
+msgstr "se %b"
+
+msgid "if on edge, bounce"
+msgstr "reĵetiĝu de la rando"
+
+msgid "insert %s at %i of %L"
+msgstr "insertu %s ĉe %i en %L"
+
+msgid "item %i of %L"
+msgstr "elemento %i el %L"
+
+msgid "join %s %s"
+msgstr "kunligu %s kaj %s"
+
+msgid "key %k pressed?"
+msgstr "klavo %k estas premita?"
+
+msgid "length of %L"
+msgstr "longeco de %L"
+
+msgid "length of %s"
+msgstr "longeco de %s"
+
+msgid "letter %n of %s"
+msgstr "litero %n el %s"
+
+msgid "list"
+msgstr "listo"
+
+msgid "looks"
+msgstr "aspekto"
+
+msgid "loud?"
+msgstr "laŭte?"
+
+msgid "loudness"
+msgstr "laŭteco"
+
+msgid "motion"
+msgstr "movado"
+
+msgid "motor direction %W"
+msgstr "motordirekto %W"
+
+msgid "motor off"
+msgstr "elŝaltu motoron"
+
+msgid "motor on"
+msgstr "enŝaltu motoron"
+
+msgid "motor on for %n secs"
+msgstr "enŝaltu motoron dum %n sekundoj"
+
+msgid "motor power %n"
+msgstr "motorforto %n"
+
+msgid "mouse down?"
+msgstr "musklavo estas premita?"
+
+msgid "mouse x"
+msgstr "musa x-pozicio"
+
+msgid "mouse y"
+msgstr "musa y-pozicio"
+
+msgid "move %n steps"
+msgstr "iru %n paŝojn"
+
+msgid "next background"
+msgstr "sekva fono"
+
+msgid "next costume"
+msgstr "sekva kostumo"
+
+msgid "not %b"
+msgstr "ne %b"
+
+msgid "operators"
+msgstr "operatoro"
+
+msgid "pen"
+msgstr "skribilo"
+
+msgid "pen down"
+msgstr "malsuprenigu skribilon"
+
+msgid "pen up"
+msgstr "suprenigu skribilon"
+
+msgid "pick random %n to %n"
+msgstr "stokasto inter %n kaj %n"
+
+msgid "play drum %D for %n beats"
+msgstr "aŭdigu tamburon %D dum %n taktoj"
+
+msgid "play note %N for %n beats"
+msgstr "aŭdigu noton %N dum %n taktoj"
+
+msgid "play sound %S"
+msgstr "aŭdigu sonon %S"
+
+msgid "play sound %S until done"
+msgstr "aŭdigu sonon %S ĝisfine"
+
+msgid "point in direction %d"
+msgstr "montru laŭ direkto %d"
+
+msgid "point towards %m"
+msgstr "montru al %m"
+
+msgid "repeat %n"
+msgstr "ripetu %n-foje"
+
+msgid "repeat until %b"
+msgstr "ripetu ĝis %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "anstataŭigu elementon %i de %L per %s"
+
+msgid "reset timer"
+msgstr "startigu klikhorloĝon denove"
+
+msgid "rest for %n beats"
+msgstr "paŭzigu dum %n taktoj"
+
+msgid "round %n"
+msgstr "%n rondigita"
+
+msgid "say %s"
+msgstr "diru %s"
+
+msgid "say %s for %n secs"
+msgstr "diru %s dum %n sekundoj"
+
+msgid "sensing"
+msgstr "senti"
+
+msgid "sensor %h?"
+msgstr "sentilo %h?"
+
+msgid "set %g effect to %n"
+msgstr "metu %g efekton al %n"
+
+msgid "set %v to %n"
+msgstr "metu %v al %n"
+
+msgid "set instrument to %I"
+msgstr "metu instrumenton al %I"
+
+msgid "set pen color to %c"
+msgstr "metu skribilkoloron al %c"
+
+msgid "set pen color to %n"
+msgstr "metu skribilkoloron al %n"
+
+msgid "set pen shade to %n"
+msgstr "metu kolorforton al %n"
+
+msgid "set pen size to %n"
+msgstr "metu skribildikecon al %n"
+
+msgid "set size to %n%"
+msgstr "metu grandecon al %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "metu rapidecon al %n taktoj minute"
+
+msgid "set volume to %n%"
+msgstr "metu laŭtecon al %n%"
+
+msgid "set x to %n"
+msgstr "metu x al %n"
+
+msgid "set y to %n"
+msgstr "metu y al %n"
+
+msgid "show"
+msgstr "montriĝu"
+
+msgid "show variable %v"
+msgstr "montru variablon %v"
+
+msgid "size"
+msgstr "grandeco"
+
+msgid "sound"
+msgstr "sono"
+
+msgid "stamp"
+msgstr "stampi"
+
+msgid "stop all"
+msgstr "finigu ĉion"
+
+msgid "stop all sounds"
+msgstr "finigu ĉiujn sonojn"
+
+msgid "stop script"
+msgstr "finigu skripton"
+
+msgid "switch to background %l"
+msgstr "ŝanĝu al fono %l"
+
+msgid "switch to costume %l"
+msgstr "ŝanĝu al kostumo %l"
+
+msgid "tempo"
+msgstr "rapideco"
+
+msgid "think %s"
+msgstr "pensu %s"
+
+msgid "think %s for %n secs"
+msgstr "pensu %s dum %n sekundoj"
+
+msgid "timer"
+msgstr "klikhorloĝo"
+
+msgid "touching %m?"
+msgstr "%m estas tuŝita?"
+
+msgid "touching color %C?"
+msgstr "koloro %C estas tuŝita?"
+
+msgid "turn %n degrees"
+msgstr "turnu %n gradojn"
+
+msgid "variables"
+msgstr "variabloj"
+
+msgid "volume"
+msgstr "laŭteco"
+
+msgid "wait %n secs"
+msgstr "atendu %n sekundojn"
+
+msgid "wait until %b"
+msgstr "atendu ĝis %b"
+
+msgid "when %k key pressed"
+msgstr "kiam klavo %k estas premita"
+
+msgid "when %m clicked"
+msgstr "kiam %m estas alklakita"
+
+msgid "when I receive %e"
+msgstr "kiam mi ricevas %e"
+
+msgid "x position"
+msgstr "x pozicio"
+
+msgid "y position"
+msgstr "y pozicio"
+
+############################################
+# USER INTERFACE
+############################################
+msgid "(empty)"
+msgstr "(malplena)"
+
+msgid "1 script"
+msgstr "1 skripto"
+
+msgid "About Scratch"
+msgstr "Pri Scratch"
+
+msgid "About this project:"
+msgstr "Pri ĉi tiu projekto:"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "aldoni komenton"
+
+msgid "add comment here"
+msgstr "aldoni komenton ĉi tie"
+
+# (Jens) gemeint sind alle Elemente einer Liste
+msgid "all"
+msgstr "ĉiuj"
+
+msgid "and"
+msgstr "kaj"
+
+msgid "Animation"
+msgstr "Animacio"
+
+msgid "any"
+msgstr "iu"
+
+msgid "Art"
+msgstr "Arto"
+
+msgid "background"
+msgstr "fono"
+
+msgid "backgrounds"
+msgstr "fonoj"
+
+msgid "Backgrounds"
+msgstr "Fonoj"
+
+msgid "brightness"
+msgstr "heleca"
+
+msgid "Brush size: "
+msgstr "Penika grandeco: "
+
+msgid "button"
+msgstr "butono"
+
+msgid "button pressed"
+msgstr "butono premita"
+
+msgid "Camera"
+msgstr "Filmilo"
+
+msgid "can rotate"
+msgstr "turnebla"
+
+msgid "cancel"
+msgstr "rezignu"
+
+msgid "Cancel"
+msgstr "Rezignu"
+
+msgid "Choose a folder"
+msgstr "Elektu dosierujon"
+
+msgid "Choose new sprite from file"
+msgstr "Elektu novan objekton el dosiero"
+
+msgid "clean up"
+msgstr "Purigu"
+
+msgid "Clear"
+msgstr "Nuligi"
+
+msgid "Clear canvas"
+msgstr "Viŝi kanvason"
+
+msgid "Close and continue"
+msgstr "Fermi kaj daŭrigi"
+
+msgid "Close dialog?"
+msgstr "Ĉu fermi dialogon?"
+
+msgid "Close paint editor?"
+msgstr "Ĉu fermi pentradoprogramon?"
+
+msgid "close port"
+msgstr "fermu pordon"
+
+msgid "Close sound recorder?"
+msgstr "Ĉu finigi sonoregistradon?"
+
+msgid "color"
+msgstr "kolora"
+
+msgid "Compress Images"
+msgstr "Densigi bildojn"
+
+msgid "Compress Sounds"
+msgstr "Densigi sonojn"
+
+msgid "Compress sounds and images"
+msgstr "Densigi sonojn kaj bildojn"
+
+msgid "Computer"
+msgstr "Komputilo"
+
+msgid "connected"
+msgstr "ligita"
+
+msgid "Connecting to "
+msgstr "Ligante kun "
+
+msgid "Copy"
+msgstr "Kopii"
+
+msgid "costume"
+msgstr "kostumo"
+
+msgid "costumes"
+msgstr "kostumoj"
+
+msgid "Costumes"
+msgstr "Kostumoj"
+
+msgid "Could not read"
+msgstr "La dosiero ne legeblas"
+
+msgid "Could not read project; file may be damaged"
+msgstr "La projekto ne legeblas, eble la dosiero estas difektita"
+
+msgid "Could not write file"
+msgstr "Ne eblas skribi la dosieron"
+
+msgid "Create account"
+msgstr "Krei uzantokonton"
+
+msgid "Create an empty project"
+msgstr "Krei malplenan projekton"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Datumo forsendita. Atendante respondon..."
+
+msgid "delete"
+msgstr "forigi"
+
+msgid "Delete"
+msgstr "Forigi"
+
+msgid "Delete a list"
+msgstr "Forigi liston"
+
+msgid "Delete a variable"
+msgstr "Forigi variablon"
+
+msgid "Delete this background"
+msgstr "Ĉi tiun fonobildon forigi"
+
+msgid "Delete this costume"
+msgstr "Ĉi tiun kostumon forigi"
+
+msgid "Delete this sound"
+msgstr "Ĉi tiun sonon forigi"
+
+msgid "Delete this sprite"
+msgstr "Ĉi tiun objekton forigi"
+
+msgid "Desktop"
+msgstr "Labortablo"
+
+msgid "disable remote sensor connections"
+msgstr "malebligi konekton al foraj sentiloj"
+
+msgid "distance"
+msgstr "distanco"
+
+msgid "Documents"
+msgstr "Dokumentoj"
+
+msgid "don't rotate"
+msgstr "ne turnebla"
+
+msgid "Don't Save"
+msgstr "Ne konservi"
+
+msgid "Done"
+msgstr "Preta"
+
+msgid "down"
+msgstr "malsupre"
+
+msgid "down arrow"
+msgstr "sago malsupren"
+
+msgid "drag to resize"
+msgstr "treni por ŝanĝi grandecon"
+
+msgid "drag to rotate"
+msgstr "treni por turni"
+
+msgid "draggable on website?"
+msgstr "ĉu trenable sur TTT-ejo?"
+
+msgid "duplicate"
+msgstr "duobligi"
+
+msgid "Duplicate"
+msgstr "Duobligi"
+
+msgid "edge"
+msgstr "rando"
+
+msgid "Edit"
+msgstr "Redakti"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Elipsilo (pentri elipson aŭ cirklon)"
+
+msgid "enable remote sensor connections"
+msgstr "ebligi konektojn al foraj sentiloj"
+
+msgid "Enter presentation mode"
+msgstr "Prezentomoduso"
+
+msgid "Eraser"
+msgstr "Skrapgumo"
+
+msgid "Eraser size"
+msgstr "Larĝeco"
+
+msgid "Error!"
+msgstr "Eraro!"
+
+msgid "Examples"
+msgstr "Ekzemploj"
+
+msgid "Exit presentation"
+msgstr "Forlasi prezenton"
+
+msgid "Exit presentation mode"
+msgstr "Forlasi prezentomoduson"
+
+msgid "export"
+msgstr "eksporti"
+
+msgid "Export Background"
+msgstr "Eksporti fonobildon"
+
+msgid "Export Costume"
+msgstr "Eksporti kostumon"
+
+msgid "Export failed"
+msgstr "La eksporto malsukcesis"
+
+msgid "Export Sound"
+msgstr "Eksporti sonon"
+
+msgid "Export Sprite"
+msgstr "Eksporti objekton"
+
+msgid "export this costume"
+msgstr "ĉi tiun kostumon eksporti"
+
+msgid "export this sound"
+msgstr "ĉi tiun sonon eksporti"
+
+msgid "export this sprite"
+msgstr "ĉi tiun objekton eksporti"
+
+msgid "Extras menu"
+msgstr "Ekstra menuo"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Pipoto (elekti koloron)"
+
+msgid "Failed:"
+msgstr "Malsukceso:"
+
+msgid "false"
+msgstr "malvera"
+
+msgid "File"
+msgstr "Dosiero"
+
+msgid "File not found"
+msgstr "Dosiero ne trovita"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Plenigilo (plenigi areojn per farbo)"
+
+msgid "first"
+msgstr "unua"
+
+msgid "fisheye"
+msgstr "fiŝokula"
+
+msgid "Flash blocks (fast)"
+msgstr "Ekbrili blokojn (rapide)"
+
+msgid "Flash blocks (slow)"
+msgstr "Ekbrili blokojn (malrapide)"
+
+msgid "Flip horizontally"
+msgstr "Speguli horizontale"
+
+msgid "Flip vertically"
+msgstr "Speguli vertikale"
+
+msgid "For all sprites"
+msgstr "Por ĉiuj objektoj"
+
+msgid "For this sprite only"
+msgstr "Nur por ĉi tiu objekto"
+
+msgid "Game"
+msgstr "Ludo"
+
+msgid "Get surprise sprite"
+msgstr "Surpriza objekto"
+
+msgid "Get the last thing deleted"
+msgstr "Malfari lastan agon"
+
+msgid "Getting Started"
+msgstr "Unuaj paŝoj"
+
+msgid "ghost"
+msgstr "diafaneca"
+
+msgid "Go To Scratch Website"
+msgstr "Viziti Scratch-retejon"
+
+msgid "grab screen region for new costume"
+msgstr "preni ekranan areon kaj fari novan kostumon"
+
+msgid "grab screen region for new sprite"
+msgstr "preni ekranan areon kaj fari novan objekton"
+
+msgid "Grow"
+msgstr "Pligrandigi"
+
+msgid "Grow sprite"
+msgstr "Pligrandigi objekton"
+
+msgid "hello "
+msgstr "Saluton "
+
+msgid "Hello!"
+msgstr "Saluton!"
+
+msgid "help"
+msgstr "helpu"
+
+msgid "Help"
+msgstr "Helpu"
+
+msgid "Help Page"
+msgstr "Helpopaĝo"
+
+msgid "Help Screens"
+msgstr "Helpopaĝoj"
+
+msgid "Hide Motor Blocks"
+msgstr "Kaŝi blokojn por motorstirado"
+
+msgid "High (biggest)"
+msgstr "Alta (plej granda)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Hejmo"
+
+msgid "Images compressed"
+msgstr "Densigitaj bildoj"
+
+msgid "import"
+msgstr "importi"
+
+msgid "Import"
+msgstr "Importi"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Importi bildon el dosiero"
+
+msgid "Import Background"
+msgstr "Importi fonobildon"
+
+msgid "Import Costume"
+msgstr "Importi kostumon"
+
+msgid "Import Image"
+msgstr "Importi bildon"
+
+msgid "Import List"
+msgstr "Importi liston"
+
+msgid "Import Project"
+msgstr "Importi projekton"
+
+msgid "import project"
+msgstr "importi projekton"
+
+msgid "Import Sound"
+msgstr "Importi sonon"
+
+msgid "Incompatible Scratch file format"
+msgstr "Malkongrua Scratch dosierformato"
+
+msgid "Is the folder read-only?"
+msgstr "Ĉu la dosierujo estas nurlega?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "Kia JPEG kvalito (10-100)?"
+
+msgid "kbytes"
+msgstr "kilobajtoj"
+
+msgid "Language"
+msgstr "Lingvo"
+
+msgid "large readout"
+msgstr "granda vidigilo"
+
+msgid "last"
+msgstr "lasta"
+
+msgid "left"
+msgstr "maldextre"
+
+msgid "left arrow"
+msgstr "sago maldextren"
+
+msgid "length"
+msgstr "longeco"
+
+msgid "light"
+msgstr "lumo"
+
+msgid "Line tool (draw lines)"
+msgstr "Liniilo (pentri rektajn liniojn)"
+
+msgid "List name?"
+msgstr "Kiu estas la listnomo?"
+
+msgid "Low"
+msgstr "Malalta"
+
+msgid "Lowest (smallest)"
+msgstr "Plej malalta (plej malgranda)"
+
+msgid "Make a list"
+msgstr "Krei novan liston"
+
+msgid "Make a variable"
+msgstr "Krei novan variablon"
+
+msgid "Max:"
+msgstr "Maks:"
+
+msgid "meow"
+msgstr "Miaŭ"
+
+msgid "Message name:"
+msgstr "Mesaĝonomo:"
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "pli"
+
+msgid "More tags:"
+msgstr "Aliaj gvidvortoj:"
+
+msgid "mosaic"
+msgstr "mozaika"
+
+msgid "mouse x:"
+msgstr "musa x:"
+
+msgid "mouse y:"
+msgstr "musa y:"
+
+msgid "mouse-pointer"
+msgstr "musa montrilo"
+
+msgid "Move"
+msgstr "Movi"
+
+msgid "Music"
+msgstr "Musiko"
+
+msgid "My Projects"
+msgstr "Miaj projektoj"
+
+msgid "new"
+msgstr "nova"
+
+msgid "New"
+msgstr "Nova"
+
+msgid "New background:"
+msgstr "Nova fono:"
+
+msgid "New costume:"
+msgstr "Nova kostumo:"
+
+msgid "New file name?"
+msgstr "Nova dosiernomo:"
+
+msgid "New Filename:"
+msgstr "Nova dosiernomo:"
+
+msgid "New sound:"
+msgstr "Nova sono:"
+
+msgid "New Sprite"
+msgstr "Nova objekto"
+
+msgid "New sprite:"
+msgstr "Nova objekto:"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No MIDI ports currently available."
+msgstr "Nuntempe neniu MIDI pordo haveblas."
+
+msgid "No motion blocks"
+msgstr "Neniuj movaj blokoj"
+
+msgid "no scripts"
+msgstr "neniuj skriptoj"
+
+msgid "No serial ports found"
+msgstr "Ne trovis serian pordon"
+
+msgid "No variables."
+msgstr "Neniuj variabloj."
+
+msgid "Normal"
+msgstr "Normale"
+
+msgid "normal readout"
+msgstr "kutima vidigilo"
+
+msgid "Off"
+msgstr "Elŝalti"
+
+msgid "OK"
+msgstr "Bone"
+
+msgid "On"
+msgstr "Enŝalti"
+
+msgid "only face left-right"
+msgstr "nur maldekstren/dekstren"
+
+msgid "Open"
+msgstr "Malfermi"
+
+msgid "Open a Scratch project"
+msgstr "Malfermi Scratch projekton"
+
+msgid "Open Project"
+msgstr "Malfermi projekton"
+
+msgid "or"
+msgstr "aŭ"
+
+msgid "Paint"
+msgstr "Pentri"
+
+msgid "Paint Editor"
+msgstr "Pentradoprogramo"
+
+msgid "Paint new sprite"
+msgstr "Pentri novan objekton"
+
+msgid "Paintbrush"
+msgstr "Peniko"
+
+msgid "Password:"
+msgstr "Pasvorto:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Kiom da elcentoj? (100 estas la originala grandeco)"
+
+msgid "Pictures"
+msgstr "Bildoj"
+
+msgid "pixelate"
+msgstr "rastruma"
+
+msgid "play"
+msgstr "ludigi"
+
+msgid "Please enter a number"
+msgstr "Bonvolu enigi nombron"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Alĝustigi crucon por difini turncentron"
+
+msgid "Preparing project..."
+msgstr "Projekto prepariĝas..."
+
+msgid "Project author:"
+msgstr "Projektaŭtoro:"
+
+msgid "Project name"
+msgstr "Projektnomo"
+
+msgid "Project Notes"
+msgstr "Projektnotoj"
+
+msgid "Project notes"
+msgstr "Projektnotoj"
+
+msgid "Project uploaded."
+msgstr "Projekto alŝutita."
+
+msgid "Projects"
+msgstr "Projektoj"
+
+msgid "Quit"
+msgstr "Fini"
+
+msgid "Quit Scratch"
+msgstr "Fini Scratch-on"
+
+msgid "Reading"
+msgstr "Ŝargi"
+
+msgid "record"
+msgstr "registri"
+
+msgid "Record"
+msgstr "Registri"
+
+msgid "recording"
+msgstr "registrante"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Rektangulo (pentri plenan aŭ malplenan rektangulon aŭ kvadraton)"
+
+msgid "Redo"
+msgstr "Refari"
+
+msgid "Reference Guide"
+msgstr "Manlibro"
+
+msgid "Remote sensor connections enabled"
+msgstr "konektoj al foraj sentiloj ebligitaj"
+
+msgid "Remove viewer from stage"
+msgstr "forigi vidigilo de scenejo"
+
+msgid "resistance"
+msgstr "rezistanco"
+
+msgid "resize this sprite"
+msgstr "ŝanĝi grandecon de ĉi tiu objekto"
+
+msgid "reverse"
+msgstr "renversi"
+
+msgid "right"
+msgstr "dextre"
+
+msgid "right arrow"
+msgstr "sago dextren"
+
+msgid "Rotate clock-wise"
+msgstr "Turni horloĝdirekte"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Turni malhorloĝdirekte"
+
+msgid "rotate this sprite"
+msgstr "turni ĉi tiun objekton"
+
+msgid "Rotation degrees?"
+msgstr "Turna angulo"
+
+msgid "Save"
+msgstr "Konservi"
+
+msgid "Save a copy of the current project"
+msgstr "Konservi kopion de la aktuala projekto"
+
+msgid "Save As"
+msgstr "Konservi kiel"
+
+msgid "Save changes before quitting?"
+msgstr "Ĉu konservi ŝanĝojn antaŭ fini?"
+
+msgid "Save failed"
+msgstr "Konservado malsukcesis"
+
+msgid "save picture of scripts"
+msgstr "konservi skriptojn kiel bildon"
+
+msgid "save picture of stage..."
+msgstr "konservi scenejon kiel bildon..."
+
+msgid "Save Project"
+msgstr "Konservi projekton"
+
+msgid "Save Scripts Snapshot"
+msgstr "Konservi skriptojn kiel bildo"
+
+msgid "Save Stage Shot"
+msgstr "Konservi scenejon kiel bildo"
+
+msgid "Save the current project"
+msgstr "Konservi la aktualan projekton"
+
+msgid "Save the current project?"
+msgstr "Ĉu konservi la aktualan projekton?"
+
+msgid "Save this project"
+msgstr "Konservi ĉi tiun projekton"
+
+msgid "Scripts"
+msgstr "Skriptoj"
+
+msgid "select serial/USB port"
+msgstr "elekti serian/USB-an pordon"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Elektilo (movi, modifi aŭ forigi elekton)"
+
+msgid "Set costume center"
+msgstr "Defini kostuman centron"
+
+msgid "Set language"
+msgstr "Elekti lingvon"
+
+msgid "Set rotation center"
+msgstr "Difini turnan centron"
+
+msgid "Set Single Stepping"
+msgstr "Difini unuopajn paŝojn"
+
+msgid "set slider min and max"
+msgstr "difini min kaj maks de potenciometro"
+
+msgid "Share"
+msgstr "Publikigi"
+
+msgid "Share this project"
+msgstr "Publikigi ĉi tiun projekton"
+
+msgid "Share This Project Online"
+msgstr "Rete publikigi ĉi tiun projekton"
+
+msgid "Show Motor Blocks"
+msgstr "Montri motorblokojn"
+
+msgid "show ScratchBoard watcher"
+msgstr "Montri Skraĉtabulobservilo"
+
+msgid "Shrink"
+msgstr "Malgrandigi"
+
+msgid "Shrink sprite"
+msgstr "Malgrandigi objekton"
+
+msgid "Simulation"
+msgstr "Simulado"
+
+msgid "Single-step speed?"
+msgstr "Rapideco de unuopa paŝo"
+
+msgid "slider"
+msgstr "potenciometro"
+
+msgid "Slider range:"
+msgstr "Potenciometra regiono:"
+
+msgid "Sound quality:"
+msgstr "Sona kvalito:"
+
+msgid "Sound Recorder"
+msgstr "Sona registrilo"
+
+msgid "Sounds"
+msgstr "Sonoj"
+
+msgid "Sounds compressed"
+msgstr "Densigitaj sonoj"
+
+msgid "space"
+msgstr "spacetklavo"
+
+msgid "Sprite"
+msgstr "Objekto"
+
+msgid "Sprites"
+msgstr "Objektoj"
+
+msgid "sqrt"
+msgstr "radiko"
+
+msgid "Stage"
+msgstr "Scenejo"
+
+msgid "Stage selected:"
+msgstr "Elektita scenejo:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Stampilo (elekti regionon, tiam stampi kopiojn)"
+
+msgid "Start green flag scripts"
+msgstr "Lanĉi verdflagajn skriptojn"
+
+msgid "Start Single Stepping"
+msgstr "Komenci unuopajn paŝojn"
+
+msgid "stop"
+msgstr "haltigi"
+
+msgid "Stop everything"
+msgstr "Haltigi ĉion"
+
+msgid "Stop Single Stepping"
+msgstr "Fini unuopajn paŝojn"
+
+msgid "Story"
+msgstr "Rakonto"
+
+msgid "Support Site"
+msgstr "Subtenopaĝo"
+
+msgid "Switch colors"
+msgstr "Ŝanĝi kolorojn"
+
+msgid "Switch to full stage"
+msgstr "Granda scenejo"
+
+msgid "Switch to presentation mode"
+msgstr "Prezenta scenejo"
+
+msgid "Switch to small stage"
+msgstr "Malgranda scenejo"
+
+msgid "Tags:"
+msgstr "Gvidvortoj:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Tekstilo (redakti tekstan ebenon)"
+
+msgid "That variable name is already in use"
+msgstr "Tiu variablonomo jam estas uzita"
+
+msgid "that way"
+msgstr "tien"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "La dosiernomo jam ekzistas. Ĉu anstataŭigi dosieron?"
+
+msgid "thing"
+msgstr "ion"
+
+msgid "this way"
+msgstr "ĉi tien"
+
+msgid "tilt"
+msgstr "kliniteco"
+
+msgid "true"
+msgstr "vero"
+
+msgid "Turbo speed"
+msgstr "Rapidego"
+
+msgid "turn into new sprite"
+msgstr "transformi en novan objekton"
+
+msgid "Undelete"
+msgstr "Malforigi"
+
+msgid "Undo"
+msgstr "Malfari"
+
+msgid "up"
+msgstr "supre"
+
+msgid "up arrow"
+msgstr "sago supren"
+
+msgid "Updating thumbnails"
+msgstr "Aktualigante antaŭrigardojn"
+
+msgid "Upload succeeded!"
+msgstr "Alŝuto sukcesis!"
+
+msgid "Upload to Scratch Server"
+msgstr "Alŝuti al Scratch servilo"
+
+msgid "Uploading"
+msgstr "Alŝuti"
+
+msgid "Variable name?"
+msgstr "Variablonomo:"
+
+msgid "View on stage"
+msgstr "Vidigi sur scenejo"
+
+msgid "What's your name?"
+msgstr "Kiel vi nomiĝas?"
+
+msgid "whirl"
+msgstr "kirla"
+
+msgid "world"
+msgstr "mondo"
+
+msgid "Write Multiple Project Summaries"
+msgstr "Skribi plurajn projektresumojn"
+
+msgid "Write Project Summary"
+msgstr "Skribi projektresumon"
+
+msgid "Yes"
+msgstr "Jes"
+
+msgid "Your project is now online at"
+msgstr "Via projekto nun estas publigita ĉe"
+
+msgid "Your Scratch website login name:"
+msgstr "Via Scratch salutnomo:"
+
+msgid "Zoom in"
+msgstr "Zomi"
+
+msgid "Zoom out"
+msgstr "Malzomi"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+############################################
+# FORMATTING
+# BLOCKS
+# USER INTERFACE
+# MIDI INSTRUMENTS
+msgid "Accordion"
+msgstr "Akordiono"
+
+msgid "Acoustic Bass"
+msgstr "Kontrabaso"
+
+msgid "Acoustic Bass Drum"
+msgstr "Akustika bastamburo"
+
+msgid "Acoustic Grand"
+msgstr "Horizontala piano"
+
+msgid "Acoustic Snare"
+msgstr "Rultamburo"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Alta saksofono"
+
+msgid "Applause"
+msgstr "Aplaŭdo"
+
+msgid "Bagpipe"
+msgstr "Sakŝalmo"
+
+msgid "Banjo"
+msgstr "Banĵo"
+
+msgid "Baritone Sax"
+msgstr "Baritona saksofono"
+
+msgid "Bass Drum 1"
+msgstr "Bastamburo"
+
+msgid "Bassoon"
+msgstr "Fagoto"
+
+msgid "Bird Tweet"
+msgstr "Birdpepado"
+
+msgid "Blown Bottle"
+msgstr "Botelblovado"
+
+msgid "Brass Section"
+msgstr "Latunaj blovinstrumentoj"
+
+msgid "Breath Noise"
+msgstr "Spirbrueto"
+
+msgid "Bright Acoustic"
+msgstr "Piano"
+
+msgid "Cabasa"
+msgstr "Cabazo"
+
+msgid "Celesta"
+msgstr "Celesto"
+
+msgid "Cello"
+msgstr "Violonĉelo"
+
+msgid "Chinese Cymbal"
+msgstr "Ĉina cimbalo"
+
+msgid "Choir Aahs"
+msgstr "Ĥoraj aaj"
+
+msgid "Church Organ"
+msgstr "Orgeno"
+
+msgid "Clarinet"
+msgstr "Klarneto"
+
+msgid "Claves"
+msgstr "Klaveoj"
+
+msgid "Clavinet"
+msgstr "Klavineto"
+
+msgid "Closed Hi-Hat"
+msgstr "Ĉarlestono kunigata"
+
+msgid "Contrabass"
+msgstr "Kontrabaso"
+
+msgid "Cowbell"
+msgstr "Bovsonorilo"
+
+msgid "Crash Cymbal 1"
+msgstr "Kraka cimbalo 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Kraka cimbalo 2"
+
+msgid "Distortion Guitar"
+msgstr "Gitaro distorda"
+
+msgid "Drawbar Organ"
+msgstr "Hamondorgeno"
+
+msgid "Dulcimer"
+msgstr "Zimbalono"
+
+msgid "Electric Bass (finger)"
+msgstr "Elektra baso pinĉata"
+
+msgid "Electric Bass (pick)"
+msgstr "Elektra baso plektro"
+
+msgid "Electric Clean Guitar"
+msgstr "Elektra gitaro pura"
+
+msgid "Electric Grand"
+msgstr "Elektra horizontala piano"
+
+msgid "Electric Jazz Guitar"
+msgstr "Elektra ĵazgitaro"
+
+msgid "Electric Muted Guitar"
+msgstr "Elektra gitaro dampa"
+
+msgid "Electric Piano 1"
+msgstr "Elektra piano 1"
+
+msgid "Electric Piano 2"
+msgstr "Elektra piano 2"
+
+msgid "Electric Snare"
+msgstr "Elektra rultamburo"
+
+msgid "English Horn"
+msgstr "Angla korno"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (pluvo)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (akustika trako)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (kristalo)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (atmosfero)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (heldenso)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX 6 (koboldoj)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (eĥoj)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (sciencfikcio)"
+
+msgid "Fiddle"
+msgstr "Folklora violono"
+
+msgid "Flute"
+msgstr "Fluto"
+
+msgid "French Horn"
+msgstr "Franca korno"
+
+msgid "Fretless Bass"
+msgstr "Senfreta baso"
+
+msgid "Glockenspiel"
+msgstr "Kariljono"
+
+msgid "Guitar Fret Noise"
+msgstr "Gitarfretbrueto"
+
+msgid "Guitar Harmonics"
+msgstr "Flaĝolettono"
+
+msgid "Gunshot"
+msgstr "Pafo"
+
+msgid "Hand Clap"
+msgstr "Manklakado"
+
+msgid "Harmonica"
+msgstr "Buŝharmoniko"
+
+msgid "Harpsichord"
+msgstr "Klaviceno"
+
+msgid "Helicopter"
+msgstr "Helikoptero"
+
+msgid "Hi Bongo"
+msgstr "Alta bongo"
+
+msgid "Hi Wood Block"
+msgstr "Alta lignobloko"
+
+msgid "Hi-Mid Tom"
+msgstr "Altmeza tamo"
+
+msgid "High Agogo"
+msgstr "Alta agogo"
+
+msgid "High Floor Tom"
+msgstr "Alta tamego"
+
+msgid "High Timbale"
+msgstr "Alta timbaleo"
+
+msgid "High Tom"
+msgstr "Alta tamo"
+
+msgid "Honky-Tonk"
+msgstr "Fidrinkejo"
+
+msgid "Kalimba"
+msgstr "Kalimbo"
+
+msgid "Koto"
+msgstr "Kotocitro"
+
+msgid "Lead 1 (square)"
+msgstr "Solo 1 (rektangulo)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Solo 2 (segildento)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Solo 3 (vapororgeno)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Solo 4 (ĉifo)"
+
+msgid "Lead 5 (charang)"
+msgstr "Solo 5 (ĉarango)"
+
+msgid "Lead 6 (voice)"
+msgstr "Solo 6 (voĉo)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Solo 7 (kvintoj)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Solo 8 (baso kaj solo)"
+
+msgid "Long Guiro"
+msgstr "Longa guiro"
+
+msgid "Long Whistle"
+msgstr "Longa fajfo"
+
+msgid "Low Agogo"
+msgstr "Malalta agogo"
+
+msgid "Low Bongo"
+msgstr "Malalta bongo"
+
+msgid "Low Conga"
+msgstr "Malalta kongao"
+
+msgid "Low Floor Tom"
+msgstr "Malalta planka tamo"
+
+msgid "Low Timbale"
+msgstr "Malalta timbaleo"
+
+msgid "Low Tom"
+msgstr "Malalta tamo"
+
+msgid "Low Wood Block"
+msgstr "Malalta lignobloko"
+
+msgid "Low-Mid Tom"
+msgstr "Malalta meze tamo"
+
+msgid "Maracas"
+msgstr "Marakoj"
+
+msgid "Marimba"
+msgstr "Marimbo"
+
+msgid "Melodic Tom"
+msgstr "Melodia tamo"
+
+msgid "Music Box"
+msgstr "Gramofonaŭtomato"
+
+msgid "Mute Cuica"
+msgstr "Cuico dampa"
+
+msgid "Mute Hi Conga"
+msgstr "Alta congao dampa"
+
+msgid "Mute Triangle"
+msgstr "Triangulo dampa"
+
+msgid "Muted Trumpet"
+msgstr "Trumpeto dampa"
+
+msgid "Nylon String Guitar"
+msgstr "Nilonkordgitaro"
+
+msgid "Oboe"
+msgstr "Hobojo"
+
+msgid "Ocarina"
+msgstr "Okarino"
+
+msgid "Open Cuica"
+msgstr "Malferma cuico"
+
+msgid "Open Hi Conga"
+msgstr "Malferma alta congao"
+
+msgid "Open Hi-Hat"
+msgstr "Ĉarlestono disigata"
+
+msgid "Open Triangle"
+msgstr "Malferma triangulo"
+
+msgid "Orchestra Hit"
+msgstr "Orkestra fanfaro"
+
+msgid "Orchestral Strings"
+msgstr "Orkestraj kordoj"
+
+msgid "Overdriven Guitar"
+msgstr "Tromodulita gitaro"
+
+msgid "Pad 1 (new age)"
+msgstr "Plato 1 (nova epoko)"
+
+msgid "Pad 2 (warm)"
+msgstr "Plato 2 (varma)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Plato 3 (polisinto)"
+
+msgid "Pad 4 (choir)"
+msgstr "Plato 4 (ĥoro)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Plato 5 (kurba)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Plato 6 (metala)"
+
+msgid "Pad 7 (halo)"
+msgstr "Plato 7 (haloo)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Plato 8 (balai)"
+
+msgid "Pan Flute"
+msgstr "Paŝtista fluto"
+
+msgid "Pedal Hi-Hat"
+msgstr "Pedalĉarlestono"
+
+msgid "Percussive Organ"
+msgstr "Perkutorgeno"
+
+msgid "Piccolo"
+msgstr "Fluteto"
+
+msgid "Pizzicato Strings"
+msgstr "Picikato kordoj"
+
+msgid "Recorder"
+msgstr "Bekfluto"
+
+msgid "Reed Organ"
+msgstr "Anĉorgeno"
+
+msgid "Reverse Cymbal"
+msgstr "Inversa cimbalo"
+
+msgid "Ride Bell"
+msgstr "Tinta sonorilo"
+
+msgid "Ride Cymbal 1"
+msgstr "Tinta cimbalo 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Tinta cimbalo 2"
+
+msgid "Rock Organ"
+msgstr "Rokorgeno"
+
+msgid "Seashore"
+msgstr "Marbordo"
+
+msgid "Shakuhachi"
+msgstr "Ŝakuhaĉifluto"
+
+msgid "Shamisen"
+msgstr "Ŝamisenliuto"
+
+msgid "Shanai"
+msgstr "Ŝenaihobojo"
+
+msgid "Short Guiro"
+msgstr "Mallonga guiro"
+
+msgid "Short Whistle"
+msgstr "Mallonga fajfo"
+
+msgid "Side Stick"
+msgstr "Randbato"
+
+msgid "Sitar"
+msgstr "Sitaro"
+
+msgid "Slap Bass 1"
+msgstr "Frapobaso 1"
+
+msgid "Slap Bass 2"
+msgstr "Frapobaso 2"
+
+msgid "Soprano Sax"
+msgstr "Soprana saksofono"
+
+msgid "Splash Cymbal"
+msgstr "Plaŭda cimbalo"
+
+msgid "Steel Drums"
+msgstr "Ŝtaltamo"
+
+msgid "Steel String Guitar"
+msgstr "Ŝtalgitaro"
+
+msgid "String Ensemble 1"
+msgstr "Kordoj ensemblo 1"
+
+msgid "String Ensemble 2"
+msgstr "Kordoj ensemblo 2"
+
+msgid "Synth Bass 1"
+msgstr "Sinto baso 1"
+
+msgid "Synth Bass 2"
+msgstr "Sinto baso 2"
+
+msgid "Synth Drum"
+msgstr "Sinto tamburo"
+
+msgid "Synth Voice"
+msgstr "Sinto voĉo"
+
+msgid "SynthBrass 1"
+msgstr "Sinto latuno 1"
+
+msgid "SynthBrass 2"
+msgstr "Sinto latuno 2"
+
+msgid "SynthStrings 1"
+msgstr "Sinto kordoj 1"
+
+msgid "SynthStrings 2"
+msgstr "Sinto kordoj 2"
+
+msgid "Taiko Drum"
+msgstr "Taiko tamburo"
+
+msgid "Tambourine"
+msgstr "Tamburino"
+
+msgid "Tango Accordion"
+msgstr "Bandoneono"
+
+msgid "Telephone Ring"
+msgstr "Telefonsonorilo"
+
+msgid "Tenor Sax"
+msgstr "Tenora saksofono"
+
+msgid "Timpani"
+msgstr "Timbalo"
+
+msgid "Tinkle Bell"
+msgstr "Tintilo"
+
+msgid "Tremolo Strings"
+msgstr "Tremsono kordoj"
+
+msgid "Trombone"
+msgstr "Trombono"
+
+msgid "Trumpet"
+msgstr "Trumpeto"
+
+msgid "Tuba"
+msgstr "Tubjo"
+
+msgid "Tubular Bells"
+msgstr "Tubsonorilo"
+
+msgid "Vibraphone"
+msgstr "Vibrafono"
+
+msgid "Vibraslap"
+msgstr "Vibrafrapo"
+
+msgid "Viola"
+msgstr "Vjolo"
+
+msgid "Violin"
+msgstr "Violono"
+
+msgid "Voice Oohs"
+msgstr "Voĉo ooj"
+
+msgid "Whistle"
+msgstr "Fajfo"
+
+msgid "Woodblock"
+msgstr "Lignobloko"
+
+msgid "Xylophone"
+msgstr "Ksilofono"

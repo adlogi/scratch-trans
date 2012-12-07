@@ -1,0 +1,469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-03 23:23+0200\n"
+"PO-Revision-Date: 2012-12-05 00:28+0200\n"
+"Last-Translator: Marek <faramir@mat.umk.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "Language-Name"
+msgstr "Polski"
+
+msgid "%b and %b"
+msgstr "%b i %b"
+
+msgid "%b or %b"
+msgstr "%b lub %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute z %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list zawiera %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp z %n"
+
+msgid "%m.sensor sensor value"
+msgstr "wartość czujnika %m.sensor"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "dodaj %s do %m.list"
+
+msgid "answer"
+msgstr "odpowiedź"
+
+msgid "ask %s and wait"
+msgstr "zapytaj %s i czekaj"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "tło #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop name"
+msgstr "nazwa tła"
+
+msgid "broadcast %m.broadcast"
+msgstr "nadaj %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "nadaj %m.broadcast i czekaj"
+
+msgid "change %m.effect effect by %n"
+msgstr "zmień efekt %m.effect o %n"
+
+msgid "change %m.var by %n"
+msgstr "zmień %m.var o %n"
+
+msgid "change pen color by %n"
+msgstr "zmień kolor pisaka o %n"
+
+msgid "change pen shade by %n"
+msgstr "zmień odcień pisaka o %n"
+
+msgid "change pen size by %n"
+msgstr "zmień rozmiar pisaka o %n"
+
+msgid "change size by %n"
+msgstr "zmień rozmiar o %n"
+
+msgid "change tempo by %n"
+msgstr "zmień tempo o %n"
+
+msgid "change volume by %n"
+msgstr "zmień głośność o %n"
+
+msgid "change x by %n"
+msgstr "zmień x o %n"
+
+msgid "change y by %n"
+msgstr "zmień y o %n"
+
+msgid "clear"
+msgstr "wyczyść"
+
+msgid "clear graphic effects"
+msgstr "wyczyść efekty graficzne"
+
+#, fuzzy
+msgid "clone startup"
+msgstr "start klona"
+
+msgid "color %c is touching %c?"
+msgstr "czy kolor %c dotyka %c?"
+
+msgid "Control"
+msgstr "Kontrola"
+
+msgid "costume #"
+msgstr "kostium #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "sklonuj %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "aktualny %m.timeAndDate"
+
+msgid "Data"
+msgstr "Dane"
+
+msgid "define"
+msgstr "definiuj"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "usuń %d.listDeleteItem z %m.list"
+
+msgid "delete this clone"
+msgstr "usuń tego klona"
+
+msgid "direction"
+msgstr "kierunek"
+
+msgid "distance"
+msgstr "odległość"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "odległość do %m.spriteOrMouse"
+
+msgid "else"
+msgstr "w przeciwnym razie"
+
+msgid "Events"
+msgstr "Zdarzenia"
+
+msgid "forever"
+msgstr "zawsze"
+
+msgid "forever if %b"
+msgstr "zawsze, jeżeli %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "leć przez %n s do x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "wróć o %n warstw"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "idź do %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "na wierzch"
+
+msgid "go to x:%n y:%n"
+msgstr "idź do x:%n y:%n"
+
+msgid "hide"
+msgstr "ukryj"
+
+msgid "hide all sprites"
+msgstr "ukryj wszystkie duszki"
+
+#, fuzzy
+msgid "hide monitor %m.varOrList"
+msgstr "ukryj podgląd %m.varOrList"
+
+msgid "if %b"
+msgstr "jeżeli %b"
+
+msgid "if on edge, bounce"
+msgstr "jeżeli na brzegu, odbij się"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "wstaw %s na pozycji %d.listItem do %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "element %d.listItem z %m.list"
+
+msgid "join %s %s"
+msgstr "połącz %s i %s"
+
+msgid "key %m.key pressed?"
+msgstr "klawisz %m.key naciśnięty?"
+
+msgid "length of %m.list"
+msgstr "długość %m.list"
+
+msgid "length of %s"
+msgstr "długość %s"
+
+msgid "letter %n of %s"
+msgstr "litera %n z %s"
+
+msgid "Looks"
+msgstr "Wygląd"
+
+msgid "loudness"
+msgstr "głośność"
+
+msgid "More Blocks"
+msgstr "Więcej bloków"
+
+msgid "Motion"
+msgstr "Ruch"
+
+msgid "motor direction %m.motorDirection"
+msgstr "kierunek silnika %m.motorDirection"
+
+msgid "motor off"
+msgstr "wyłącz silnik"
+
+msgid "motor on"
+msgstr "włącz silnik"
+
+msgid "motor on for %n secs"
+msgstr "włącz silnik na %n s"
+
+msgid "motor power %n"
+msgstr "moc silnika %n"
+
+msgid "mouse down?"
+msgstr "wciśnięty klawisz myszy?"
+
+msgid "mouse x"
+msgstr "x myszy"
+
+msgid "mouse y"
+msgstr "y myszy"
+
+msgid "move %n steps"
+msgstr "przesuń o %n kroków"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "następne tło"
+
+msgid "next costume"
+msgstr "następny kostium"
+
+msgid "not %b"
+msgstr "nie %b"
+
+msgid "Operators"
+msgstr "Wyrażenia"
+
+msgid "Pen"
+msgstr "Pisak"
+
+msgid "pen down"
+msgstr "przyłóż pisak"
+
+msgid "pen up"
+msgstr "podnieś pisak"
+
+#, fuzzy
+msgid "pick random %n to %n"
+msgstr "losuj od %n do %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "zagraj bębenkiem %d.drum przez %n taktów"
+
+# "zagraj nutę %d.note przez %n taktów" where "play note %n for %n beats"
+#, fuzzy
+msgid "play note %n for %n beats"
+msgstr "zagraj nutę %d.note przez %n taktów"
+
+msgid "play sound %m.sound"
+msgstr "zagraj dźwięk %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "zagraj dźwięk %m.sound i czekaj"
+
+msgid "point in direction %d.direction"
+msgstr "ustaw kierunek na %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "ustaw w stronę %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "powtórz %n razy"
+
+msgid "repeat until %b"
+msgstr "powtarzaj aż %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "zamień element %d.listItem z %m.list na %s"
+
+msgid "reset timer"
+msgstr "kasuj zegar"
+
+msgid "rest for %n beats"
+msgstr "pauzuj przez %n taktów"
+
+msgid "round %n"
+msgstr "zaokrąglij %n"
+
+msgid "say %s"
+msgstr "powiedz %s"
+
+msgid "say %s for %n secs"
+msgstr "powiedz %s przez %n s"
+
+msgid "Scratch days"
+msgstr "dni Scratcha"
+
+msgid "Sensing"
+msgstr "Czujniki"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "czujnik %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "ustaw efekt %m.effect na %n"
+
+# "ustaw %m.var na %n"
+msgid "set %m.var to %s"
+msgstr "ustaw %m.var na %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "ustaw instrument na %d.instrument"
+
+msgid "set pen color to %c"
+msgstr "ustaw kolor pisaka na %c"
+
+# "ustaw kolor pisaka na %c"
+msgid "set pen color to %n"
+msgstr "ustaw kolor pisaka na %n"
+
+msgid "set pen shade to %n"
+msgstr "ustaw odcień pisaka na %n"
+
+msgid "set pen size to %n"
+msgstr "ustaw rozmiar pisaka na %n"
+
+msgid "set size to %n%"
+msgstr "ustaw rozmiar na %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "ustaw tempo na %n taktów na minutę"
+
+#, fuzzy
+msgid "set video transparency to %n%"
+msgstr "ustaw przezroczystość kamery na %n%"
+
+msgid "set volume to %n%"
+msgstr "ustaw głośność na %n%"
+
+msgid "set x to %n"
+msgstr "ustaw x na %n"
+
+msgid "set y to %n"
+msgstr "ustaw y na %n"
+
+msgid "show"
+msgstr "pokaż"
+
+#, fuzzy
+msgid "show monitor %m.varOrList"
+msgstr "pokaż podgląd %m.varOrList"
+
+msgid "size"
+msgstr "rozmiar"
+
+msgid "Sound"
+msgstr "Dźwięk"
+
+msgid "stamp"
+msgstr "stempluj"
+
+msgid "stop %m.stop"
+msgstr "zatrzymaj %m.stop"
+
+msgid "stop all sounds"
+msgstr "zatrzymaj wszystkie dźwięki"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "zmień tło na %m.backdrop"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "zmień tło na %m.backdrop i czekaj"
+
+msgid "switch costume to %m.costume"
+msgstr "zmień kostium na %m.costume"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "pomyśl %s"
+
+msgid "think %s for %n secs"
+msgstr "pomyśl %s przez %n s"
+
+msgid "tilt"
+msgstr "wychylenie"
+
+msgid "timer"
+msgstr "zegar"
+
+msgid "touching %m.touching?"
+msgstr "dotyka %m.touching?"
+
+msgid "touching color %c?"
+msgstr "dotyka koloru %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "obróć @turnLeft o %n stopni"
+
+msgid "turn @turnRight %n degrees"
+msgstr "obróć @turnRight o %n stopni"
+
+#, fuzzy
+msgid "turn video %m.videoState"
+msgstr "kamera %m.videoState"
+
+msgid "user id"
+msgstr "id użytkownika"
+
+#, fuzzy
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "%m.videoMotionType kamery na %m.stageOrThis"
+
+msgid "volume"
+msgstr "głośność"
+
+msgid "wait %n secs"
+msgstr "czekaj %n s"
+
+msgid "wait until %b"
+msgstr "czekaj aż %b"
+
+msgid "when %m.key key pressed"
+msgstr "kiedy klawisz %m.key naciśnięty"
+
+#, fuzzy
+msgid "when @greenFlag clicked"
+msgstr "kiedy @greenFlag"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "when backdrop switches to %m.backdrop"
+msgstr "kiedy tło zmieni się na %m.backdrop"
+
+msgid "when I am clicked"
+msgstr "kiedy zostanę kliknięty"
+
+msgid "when I receive %m.broadcast"
+msgstr "kiedy otrzymam %m.broadcast"
+
+msgid "x position"
+msgstr "współrzędna x"
+
+msgid "y position"
+msgstr "współrzędna y"

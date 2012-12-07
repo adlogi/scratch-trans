@@ -1,0 +1,1910 @@
+﻿# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "မြန်မာဘာသာ"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1.5"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "Myanmar3"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "Myanmar3"
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "Myanmar3"
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H အာရုံခံကိရိယာ တန်ဖိုး"
+
+msgid "%L contains %s"
+msgstr "%L မှာ %s က ပါဝင်"
+
+msgid "%a of %m"
+msgstr "%m ရဲ့ %a"
+
+msgid "%b and %b"
+msgstr "%b နဲ့ %b"
+
+msgid "%b or %b"
+msgstr "%b သို့မဟုတ် %b"
+
+msgid "%f of %n"
+msgstr "%n ရဲ့ %f"
+
+msgid "%n mod %n"
+msgstr "%n2 ကို %n1 နဲ့စားထားသောစားကြွင်း"
+
+msgid "add %s to %L"
+msgstr "%s ကို %L နဲ့ပေါင်း"
+
+msgid "answer"
+msgstr "အဖြေ"
+
+msgid "ask %s and wait"
+msgstr "%s မေးပြီး စောင့်"
+
+msgid "background #"
+msgstr "နောက်ခံ နံပါတ်"
+
+msgid "broadcast %e"
+msgstr "%e ကိုထုတ်လွှင့်"
+
+msgid "broadcast %e and wait"
+msgstr "%e ကိုထုတ်လွှင့်ပြီး စောင့်"
+
+msgid "change %g effect by %n"
+msgstr "%g ရဲ့ သက်ရောက်မှု့ကို %n စီ ပြောင်း"
+
+msgid "change %v by %n"
+msgstr "%v ကို %n စီ ပြောင်း"
+
+msgid "change pen color by %n"
+msgstr "စုတ်တံရဲ့ အရောင်ကို %n စီ ပြောင်း"
+
+msgid "change pen shade by %n"
+msgstr "စုတ်တံရဲ့ အရောင် အလင်း၊ အမှောင် ကို %n စီ ပြောင်း"
+
+msgid "change pen size by %n"
+msgstr "စုတ်တံအရွယ်ကို %n စီ ပြောင်း"
+
+msgid "change size by %n"
+msgstr "အရွယ်ကို %n စီ ပြောင်း"
+
+msgid "change tempo by %n"
+msgstr "အသံရဲ့ မြန်နှုန်းကို %n စီ ပြောင်း"
+
+msgid "change volume by %n"
+msgstr "အသံ အတိုးအကျယ်ကို %n စီ ပြောင်း"
+
+msgid "change x by %n"
+msgstr "x ဝင်ရိုးကို %n စီ ပြောင်း"
+
+msgid "change y by %n"
+msgstr "y ဝင်ရိုးကို %n စီ ပြောင်း"
+
+msgid "clear"
+msgstr "ဖျက်"
+
+msgid "clear graphic effects"
+msgstr "ဂရက်ဖစ်ရဲ့ သက်ရောက်မှု့ကို ဖျက်"
+
+msgid "color %C is touching %C?"
+msgstr "%C အရောင်ကို %C အရောင်နဲ့ ရော"
+
+msgid "control"
+msgstr "ထိန်းချုပ်"
+
+msgid "costume #"
+msgstr "အဝတ်အစား ရဲ့ နံပါတ်"
+
+msgid "delete %y of %L"
+msgstr "%y ခုမြောက်ကို %L ကနေဖျက်"
+
+msgid "direction"
+msgstr "ဦးတည်ရာ"
+
+msgid "distance to %m"
+msgstr "%m အထိ ခွာ"
+
+msgid "else"
+msgstr "မဟုတ်ရင်"
+
+msgid "forever"
+msgstr "အမြဲတမ်း"
+
+msgid "forever if %b"
+msgstr "အကယ်၍ %b ဆိုရင် အမြဲတမ်း"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n စက္ကန့်မှာ x ဝင်ရိုးကို %n 、y ဝင်ရိုးကို%n အဖြစ် ပြောင်း"
+
+msgid "go back %n layers"
+msgstr "%n လွှာဆီ ပြန်ရွှေ့"
+
+msgid "go to %m"
+msgstr "%m ဆီသွား"
+
+msgid "go to front"
+msgstr "ရှေ့ကိုထုပ်"
+
+msgid "go to x:%n y:%n"
+msgstr "xဝင်ရိုးကို %n 、yဝင်ရိုးကို %n အဖြစ်ထား"
+
+msgid "hide"
+msgstr "ဖွက်"
+
+msgid "hide variable %v"
+msgstr "ဘေရီရေဘယ် %v ကိုဖွက်"
+
+msgid "if %b"
+msgstr "အကယ်၍ %b ဆိုရင်"
+
+msgid "if on edge, bounce"
+msgstr "အကယ်၍ ဘောင်နဲ့ထိရင် ပြန်ကန်"
+
+msgid "insert %s at %i of %L"
+msgstr "%L ရဲ့ %i ခုမြောက်မှာ %s ကို ထည့်"
+
+msgid "item %i of %L"
+msgstr "%L ရဲ့ %i ကြိမ်မြောက်"
+
+msgid "join %s %s"
+msgstr "%s နဲ့ %s ကိုဆက်"
+
+msgid "key %k pressed?"
+msgstr "%k ကီးကိုနှိပ်ခဲ့လား"
+
+msgid "length of %L"
+msgstr "%L ရဲ့အရှည်"
+
+msgid "length of %s"
+msgstr "%s ရဲ့အရှည်"
+
+msgid "letter %n of %s"
+msgstr "%s ရဲ့ %n လုံးမြောက် စာလုံး"
+
+msgid "list"
+msgstr "စာရင်း"
+
+msgid "looks"
+msgstr "မြင်ရပုံ"
+
+msgid "loud?"
+msgstr "ဆူညံလား"
+
+msgid "loudness"
+msgstr "အသံ အတိုးအကျယ်"
+
+msgid "motion"
+msgstr "လှုပ်ရှားမှု့"
+
+msgid "motor direction %W"
+msgstr "မော်တာရဲ့ လည်ပတ်မှု့ကို %W အဖြစ်ထား"
+
+msgid "motor off"
+msgstr "မော်တာကို ပိတ်"
+
+msgid "motor on"
+msgstr "မော်တာကို ဖွင့်"
+
+msgid "motor on for %n secs"
+msgstr "မော်တာကို  %n စက္ကန့် ဖွင့်"
+
+msgid "motor power %n"
+msgstr "မော်တာ ပါဝါကို  %n အဖြစ်ထား"
+
+===========================================
+---------- translation finished ------------
+
+msgid "mouse down?"
+msgstr "မောက်စ်ကို နှိပ်ခဲ့လား"
+
+msgid "mouse x"
+msgstr "မောက်စ်ရဲ့ x ဝင်ရိုး"
+
+msgid "mouse y"
+msgstr "မောက်စ်ရဲ့ y ဝင်ရိုး"
+
+msgid "move %n steps"
+msgstr "%n လှမ်း ရွှေ့"
+
+msgid "next background"
+msgstr "နောက်ခံပုံ နောက်တခုအဖြစ်ပြောင်း"
+
+msgid "next costume"
+msgstr "အဝတ်အစား နောက်တစုံလဲ"
+
+msgid "not %b"
+msgstr "%b မဟုတ်"
+
+msgid "operators"
+msgstr "လုပ်ကိုင်မှု့"
+
+msgid "pen"
+msgstr "စုတ်တံ"
+
+msgid "pen down"
+msgstr "စုတ်တံ ကိုပြန်ထား"
+
+msgid "pen up"
+msgstr "စုတ်တံ ကိုယူ"
+
+msgid "pick random %n to %n"
+msgstr "%n ကနေ %n အထိ ကျပန်းရွေး"
+
+msgid "play drum %D for %n beats"
+msgstr "%D ဒရမ်ကို %n စည်းချက်နဲ့ တီး"
+
+msgid "play note %N for %n beats"
+msgstr "%N ဂီတသင်္ကေတတွေ ကို %n စည်းချက်နဲ့ တီးခတ်"
+
+msgid "play sound %S"
+msgstr "%S အသံကို ထုတ်"
+
+msgid "play sound %S until done"
+msgstr "ပြီးတဲ့အထိ %S ရဲ့ အသံကိုထုတ်"
+
+msgid "point in direction %d"
+msgstr "%d ဒီဂရီ ရွှေ့ (လှည့်)"
+===========================================
+---------- translation finished ------------
+
+msgid "point towards %m"
+msgstr "%m ဆီ ဦးတည်"
+
+msgid "repeat %n"
+msgstr "%n ခါ ထပ်လုပ်"
+
+msgid "repeat until %b"
+msgstr "%b ဖြစ်တဲ့အထိ ထပ်လုပ်"
+
+msgid "replace item %i of %L with %s"
+msgstr "%L ရဲ့ %i ခုမြောက်ကို %s နဲ့ အစားထိုး"
+
+msgid "reset timer"
+msgstr "တိုင်မာအချိန်ကို ပြန်စ"
+
+msgid "rest for %n beats"
+msgstr "စည်းချက် %n ခါ အနားပေး"
+
+msgid "round %n"
+msgstr "%n ရဲ့အနီးဆုံးကိန်းပြည့်"
+
+msgid "say %s"
+msgstr "%s လို့ပြော"
+
+msgid "say %s for %n secs"
+msgstr "%s လို့ %n စက္ကန့် ပြော"
+
+msgid "sensing"
+msgstr "ရှာဖွေမှု့"
+
+msgid "sensor %h?"
+msgstr "အာရုံခံကိရိယာ %h လား"
+
+msgid "set %g effect to %n"
+msgstr "%g ရဲ့ သက်ရောက်မှု့ကို %n အဖြစ် သတ်မှတ်"
+
+msgid "set %v to %n"
+msgstr "%v ကို %n အဖြစ် သတ်မှတ်"
+
+msgid "set instrument to %I"
+msgstr "တူရိယာ ကို %I အဖြစ် သတ်မှတ်"
+
+msgid "set pen color to %c"
+msgstr "စုတ်တံရဲ့ အရောင်ကို %c အဖြစ် သတ်မှတ်"
+
+msgid "set pen color to %n"
+msgstr "စုတ်တံရဲ့ အရောင်ကို %n အဖြစ် သတ်မှတ်"
+
+msgid "set pen shade to %n"
+msgstr "စုတ်တံရဲ့ အရောင် အလင်း၊ အမှောင် ကို %n အဖြစ် သတ်မှတ်"
+
+msgid "set pen size to %n"
+msgstr "စုတ်တံအရွယ်ကို  %n အဖြစ် သတ်မှတ်"
+
+msgid "set size to %n%"
+msgstr "အရွယ်အစားကို %n% အဖြစ် သတ်မှတ်"
+
+msgid "set tempo to %n bpm"
+msgstr "အသံရဲ့ မြန်နှုန်းကို %n BPM အဖြစ် သတ်မှတ်"
+
+msgid "set volume to %n%"
+msgstr "အသံ အတိုးအကျယ် ကို %n% အဖြစ် သတ်မှတ်"
+
+msgid "set x to %n"
+msgstr "x ဝင်ရိုးကို %n အဖြစ် သတ်မှတ်"
+
+msgid "set y to %n"
+msgstr "y ဝင်ရိုးကို %n အဖြစ် သတ်မှတ်"
+
+msgid "show"
+msgstr "ပြမည်"
+
+msgid "show variable %v"
+msgstr "ဘေရီရေဘယ် %v ကို ပြ"
+
+msgid "size"
+msgstr "အရွယ်အစား"
+
+msgid "sound"
+msgstr "အသံ"
+
+msgid "stamp"
+msgstr "တံဆိပ်တုံး"
+
+msgid "stop all"
+msgstr "အားလုံးကို ရပ်"
+
+msgid "stop all sounds"
+msgstr "အသံအားလုံးကို ရပ်"
+
+msgid "stop script"
+msgstr "စကရစ် ကို ရပ် "
+==============================
+
+msgid "switch to background %l"
+msgstr "နောက်ခံကို %l အဖြစ်ပြောင်း"
+
+msgid "switch to costume %l"
+msgstr "အဝတ်အစားကို %l အဖြစ်ပြောင်း"
+
+msgid "tempo"
+msgstr "အသံရဲ့ မြန်နှုန်း"
+
+msgid "think %s"
+msgstr "%s လို့ စဉ်းစား"
+
+msgid "think %s for %n secs"
+msgstr "%s လို့ %n စက္ကန့် စဉ်းစား"
+
+msgid "timer"
+msgstr "အချိန် တိုင်မာ"
+
+msgid "touching %m?"
+msgstr "%m ကို ထိခဲ့လား"
+
+msgid "touching color %C?"
+msgstr "%C အရောင်နဲ့ ချယ်ခဲ့လား"
+
+msgid "turn %n degrees"
+msgstr "%n ဒီဂရီ လှည့်"
+
+msgid "variables"
+msgstr "ဘေရီရေဘယ်"
+
+msgid "volume"
+msgstr "အသံ အတိုးအကျယ်"
+
+msgid "wait %n secs"
+msgstr "%n စက္ကန့်စောင့်"
+
+msgid "wait until %b"
+msgstr "%b အထိ စောင့်"
+
+msgid "when %k key pressed"
+msgstr "%k ကီးကိုနှိပ်ခဲ့ရင်"
+
+msgid "when %m clicked"
+msgstr "%m ကို ကလစ် နှိပ်ခဲ့ရင်"
+
+msgid "when I receive %e"
+msgstr "%e ကိုလက်ခံရ တဲ့အခါ"
+
+msgid "x position"
+msgstr "xဝင်ရိုး"
+
+msgid "y position"
+msgstr "yဝင်ရိုး"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(ဗလာ)"
+
+msgid "1 script"
+msgstr "စကရစ် 1"
+
+msgid "About Scratch"
+msgstr "Scratch အကြောင်း"
+
+msgid "About this project:"
+msgstr "ဒီပရောဂျက် အကြောင်း"
+
+msgid "abs"
+msgstr "ပြည့်စုံသော တန်ဖိုး"
+
+msgid "add comment"
+msgstr "မှတ်ချက် အသစ်ထည့်"
+
+msgid "add comment here"
+msgstr "မှတ်ချက် အသစ်ထည့်ပါ"
+
+msgid "all"
+msgstr "အားလုံး"
+
+msgid "and"
+msgstr "နဲ့"
+
+msgid "Animation"
+msgstr "ပုံ/ကာတွန်း လှုပ်ရှားမှု့"
+
+msgid "any"
+msgstr "တခုခု"
+
+msgid "Art"
+msgstr "အနုပညာ"
+
+msgid "background"
+msgstr "နောက်ခံ"
+
+msgid "backgrounds"
+msgstr "နောက်ခံများ"
+
+msgid "Backgrounds"
+msgstr "နောက်ခံများ"
+
+msgid "brightness"
+msgstr "အလင်း အမှာင်"
+
+msgid "Brush size: "
+msgstr "စုတ်တံ အရွယ်အစား"
+
+msgid "button"
+msgstr "ခလုတ်"
+
+msgid "button pressed"
+msgstr "ခလုတ် ကို နှိပ်ခဲ့"
+
+msgid "Camera"
+msgstr "ကင်မရာ"
+
+msgid "can rotate"
+msgstr "လှည့်ပတ်"
+
+msgid "cancel"
+msgstr "ပယ်ဖျက်"
+
+msgid "Cancel"
+msgstr "ပယ်ဖျက်"
+
+msgid "Choose a folder"
+msgstr "ဖိုလ်ဒါ ကို ရွေး"
+
+msgid "Choose new sprite from file"
+msgstr "သရုပ်ဆောင် အသစ်ကို ဖိုင်ကနေရွေး"
+
+msgid "clean up"
+msgstr "သေသေသပ်သပ်၊ ရှင်းရှင်းလင်းလင်း"
+
+msgid "Clear"
+msgstr "ဖျက်"
+
+msgid "Clear canvas"
+msgstr "ကန်းဗတ်(စ်) ကိုဖျက်"
+
+msgid "Close and continue"
+msgstr "ပိတ်ပြီး ဆက်လုပ်"
+
+msgid "Close dialog?"
+msgstr "ဒိုင်ယာလော့ခ် ကို ပိတ်မလား"
+
+msgid "Close paint editor?"
+msgstr "အရောင်ချယ် အယ်ဒီတာ ကို ပိတ်မလား"
+
+msgid "close port"
+msgstr "port ကို ပိတ်"
+
+msgid "Close sound recorder?"
+msgstr "အသံဖမ်း ရီကော်ဒါ ကို ပိတ်မလား"
+
+msgid "color"
+msgstr "အရောင်"
+
+msgid "Compress Images"
+msgstr "ဖိုင်အရွယ်အစား ချုံ့ထားသော ပုံများ"
+
+msgid "Compress Sounds"
+msgstr "ဖိုင်အရွယ်အစား ချုံ့ထားသော အသံများ"
+
+msgid "Compress sounds and images"
+msgstr "ဖိုင်အရွယ်အစား ချုံ့ထားသော အသံ နဲ့ ပုံများ"
+
+msgid "Computer"
+msgstr "ကွန်ပျူတာ"
+
+msgid "connected"
+msgstr "ဆက်သွယ်ပြီး"
+
+msgid "Connecting to "
+msgstr "ဆက်သွယ်ရန် "
+
+msgid "Copy"
+msgstr "ကော်ပီကူး"
+
+msgid "costume"
+msgstr "အဝတ်အစား"
+
+msgid "costumes"
+msgstr "အဝတ်အစားများ"
+
+msgid "Costumes"
+msgstr "အဝတ်အစားများ"
+
+msgid "Could not read"
+msgstr "မဖတ်နိုင်"
+
+msgid "Could not read project; file may be damaged"
+msgstr "ပရောဂျက် ကို မဖတ်နိုင်။ ဖိုင်ပျက်တာကြောင့် ဖြစ်နိုင်။"
+
+msgid "Could not write file"
+msgstr "ဖိုင်ကို မရေးနိုင်"
+
+msgid "Create account"
+msgstr "အကောင့် အသစ်လုပ်"
+
+msgid "Create an empty project"
+msgstr "ဗလာ ပရောဂျက်အသစ် တခု ဆောက်"
+
+msgid "Data sent. Waiting for response..."
+msgstr "ဒေတာကိုပို့ပြီး။ တုံ့ပြန်မှု့ကို စောင့်နေဆဲ"
+
+msgid "delete"
+msgstr "ဖျက်"
+
+msgid "Delete"
+msgstr "ဖျက်"
+
+msgid "Delete a list"
+msgstr "စာရင်းတခုကို ဖျက်"
+
+msgid "Delete a variable"
+msgstr "ဘေရီရေဘယ် ကို ဖျက်"
+
+msgid "Delete this background"
+msgstr "ဒီနောက်ခံကို ဖျက်"
+
+msgid "Delete this costume"
+msgstr "ဒီအဝတ်အစားကို ဖျက်"
+
+msgid "Delete this sound"
+msgstr "ဒီအသံကို ဖျက်"
+
+msgid "Delete this sprite"
+msgstr "ဒီသရုပ်ဆောင် ကို ဖျက်"
+
+msgid "Desktop"
+msgstr "ဒတ်စတော့(ပ်)"
+
+msgid "disable remote sensor connections"
+msgstr "အဝေးထိန်း အာရုံခံကိရိယာ ဆက်သွယ်မှု့ကို ခွင့်မပြု"
+
+msgid "distance"
+msgstr "အကွာအဝေး"
+
+msgid "Documents"
+msgstr "စာရွက်စာတမ်းများ"
+
+msgid "don't rotate"
+msgstr "မလှည့်ပတ်စေ"
+
+msgid "Don't Save"
+msgstr "မသိမ်းဘူး"
+
+msgid "Done"
+msgstr "ဆောင်ရွက်ပြီး"
+
+msgid "down"
+msgstr "အောက်"
+
+msgid "down arrow"
+msgstr "အောက်ဘက် မြှား"
+
+msgid "drag to resize"
+msgstr "မောက်(စ်)နဲ့ ဒရပ်ဆွဲပြီး အရွယ်အစားကို ပြောင်း"
+
+msgid "drag to rotate"
+msgstr "မောက်(စ်)နဲ့ ဒရပ်ဆွဲပြီး လှည့်"
+
+msgid "draggable on website?"
+msgstr "Web ဆိုက်ပေါ်မှာ မောက်(စ်)နဲ့  ဒရပ်ဆွဲနိုင်မလား"
+
+msgid "duplicate"
+msgstr "ပွားယူ"
+
+msgid "Duplicate"
+msgstr "ပွားယူ"
+
+msgid "edge"
+msgstr "ဘောင် (သို့) အစွန်း"
+
+msgid "Edit"
+msgstr "ပြင်ဆင်မှု့"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "ဘဲဥပုံ ကိရိယာ (ပုံကြမ်းဆွဲ (သို့) ဘဲဥပုံ၊ စက်ဝိုင်းပုံ များဆွဲထည့်ခြင်း)"
+
+msgid "enable remote sensor connections"
+msgstr "အဝေးထိန်း အာရုံခံကိရိယာ ဆက်သွယ်မှု့ကို ခွင့်ပြု"
+
+msgid "Enter presentation mode"
+msgstr "တင်ဆက်ပြသမှု့ ပုံစံ ဆီ ဝင်ရောက်"
+
+msgid "Eraser"
+msgstr "ခဲဖျက်"
+
+msgid "Eraser size"
+msgstr "ခဲဖျက်ရဲ့ အရွယ်အစား"
+
+msgid "Error!"
+msgstr "အမှားအယွင်း"
+
+msgid "Examples"
+msgstr "ဥပမာ"
+
+msgid "Exit presentation"
+msgstr "တင်ဆက်ပြသမှု့ ပုံစံကနေ ထွက်"
+
+msgid "Exit presentation mode"
+msgstr "တင်ဆက်ပြသမှု့ ပုံစံကနေ ထွက်"
+
+msgid "export"
+msgstr "ဖိုင်အနေနဲ့ရေးထုတ်"
+
+msgid "Export Background"
+msgstr "နောက်ခံကို ဖိုင်အနေနဲ့ရေးထုတ်"
+
+msgid "Export Costume"
+msgstr "အဝတ်အစားကို ဖိုင်အနေနဲ့ရေးထုတ်"
+
+msgid "Export failed"
+msgstr "ဖိုင်အနေနဲ့ရေးထုတ်တာ မအောင်မြင်"
+
+msgid "Export Sound"
+msgstr "အသံကို ဖိုင်အနေနဲ့ရေးထုတ်"
+
+msgid "Export Sprite"
+msgstr "သရုပ်ဆောင် ကို ဖိုင်အနေနဲ့ရေးထုတ်"
+
+msgid "export this costume"
+msgstr "ဒီအဝတ်အစားကို ဖိုင်အနေနဲ့ရေးထုတ်"
+
+msgid "export this sound"
+msgstr "ဒီအသံကို ဖိုင်အနေနဲ့ရေးထုတ်"
+
+msgid "export this sprite"
+msgstr "ဒီသရုပ်ဆောင် ကို ဖိုင်အနေနဲ့ရေးထုတ်"
+
+msgid "Extras menu"
+msgstr "အပို မန်နူး(ရွေးစရာ စာရင်း)"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "အရောင်စုပ် ကိရိယာ (အရောင်တမျိုးကို ရွေးချယ်ပါ)"
+
+msgid "Failed:"
+msgstr "မအောင်မြင်"
+
+msgid "false"
+msgstr "မှား"
+
+msgid "File"
+msgstr "ဖိုင်"
+
+msgid "File not found"
+msgstr "ဖိုင်ကို ရှာမတွေ့"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "အရောင်ဖြည့် ကိရိယာ(အရောင်၊ ချယ်မှုန်းပုံစံ ကို ဧရိယာရွေးပြီး ဖြည့်နိုင်)"
+
+msgid "first"
+msgstr "ပထမ"
+
+msgid "fisheye"
+msgstr "ငါးမျက်လုံး မှန်ဘီလူး "
+
+msgid "Flash blocks (fast)"
+msgstr "ဘလောက်တုံးများကို  မှိတ်တုတ်မှိတ်တုတ်ဖြစ်စေ (အမြန်)"
+
+msgid "Flash blocks (slow)"
+msgstr "ဘလောက်တုံးများကို မှိတ်တုတ်မှိတ်တုတ်ဖြစ်စေ (အနှေး)"
+
+msgid "Flip horizontally"
+msgstr "အလျားလိုက် လှည့်ပြောင်း"
+
+msgid "Flip vertically"
+msgstr "ထောင်လိုက် လှည့်ပြောင်း"
+
+msgid "For all sprites"
+msgstr "သရုပ်ဆောင် အားလုံးအတွက်"
+
+msgid "For this sprite only"
+msgstr "ဒီသရုပ်ဆောင် တခုထဲ အတွက်"
+
+msgid "Game"
+msgstr "ဂိမ်း"
+
+msgid "Get surprise sprite"
+msgstr "ဘာ သရုပ်ဆောင် ပါလိမ့်"
+
+msgid "Get the last thing deleted"
+msgstr "နောက်ဆုံး ဖျက်ခဲ့တာကို ပြန်ပြင် (မဖျက်ချင်တော့ဘူး)"
+
+msgid "Getting Started"
+msgstr "စလုပ်"
+
+msgid "ghost"
+msgstr "သရဲ"
+
+msgid "Go To Scratch Website"
+msgstr "Scratchရဲ့ Webဆိုက်ကိုဖွင့်"
+
+msgid "grab screen region for new costume"
+msgstr "မော်နီတာစကရင် ဧရိယာတခုကို ဖြတ်ထုတ်ယူပြီး အဝတ်အစား အသစ်အဖြစ်သုံး"
+
+msgid "grab screen region for new sprite"
+msgstr "မော်နီတာစကရင် ဧရိယာတခုကို ဖြတ်ထုတ်ယူပြီး သရုပ်ဆောင် အသစ်အဖြစ်သုံး"
+
+msgid "Grow"
+msgstr "ကြီးထွားစေ (ချဲ့)"
+
+msgid "Grow sprite"
+msgstr "သရုပ်ဆောင် ကို ကြီးထွားစေ"
+
+msgid "hello "
+msgstr "ဟလ်လို"
+
+msgid "Hello!"
+msgstr "နေကောင်းလား။"
+
+msgid "help"
+msgstr "အကူအညီ"
+
+msgid "Help"
+msgstr "အကူအညီ"
+
+msgid "Help Page"
+msgstr "အကူအညီ Webစာမျက်နှာ"
+
+msgid "Help Screens"
+msgstr "အကူအညီ စာမျက်နှာများ"
+
+msgid "Hide Motor Blocks"
+msgstr "မော်တာ ဘလောက်တုံးတွေကို ဖျောက်"
+
+msgid "High (biggest)"
+msgstr "အမြင့် (အကြီးဆုံး)"
+
+msgid "Hmm..."
+msgstr "ဟယ်"
+
+msgid "Home"
+msgstr "ရှေ့ဆုံးနေရာ (ရှေ့ဆုံး စာမျက်နှာ)"
+
+msgid "Images compressed"
+msgstr "ဖိုင်အရွယ်အစား ချုံ့ထားသော ပုံများ"
+
+msgid "import"
+msgstr "ဖတ်ယူ"
+
+msgid "Import"
+msgstr "ဖတ်ယူ"
+
+msgid "Import an image on top of your current canvas"
+msgstr "လက်ရှိ ပုံဆွဲဧရိယာ ရဲ့ အပေါ်ဆုံးဆီ ပုံကို ဖတ်ယူ"
+
+msgid "Import Background"
+msgstr "နောက်ခံကို ဖတ်ယူ"
+
+msgid "Import Costume"
+msgstr "အဝတ်အစားကို ဖတ်ယူ"
+
+msgid "Import Image"
+msgstr "ပုံကို ဖတ်ယူ"
+
+msgid "Import List"
+msgstr "စာရင်းကို ဖတ်ယူ"
+
+msgid "Import Project"
+msgstr "ပရောဂျက်ကို ဖတ်ယူ"
+
+msgid "import project"
+msgstr "ပရောဂျက်ကို ဖတ်ယူ"
+
+msgid "Import Sound"
+msgstr "အသံကို ဖတ်ယူ"
+
+msgid "Incompatible Scratch file format"
+msgstr "Scratch ဖိုင်အမျိုးအစားနဲ့ မတူ"
+
+msgid "Is the folder read-only?"
+msgstr "ဒီဖိုလ်ဒါက ဖတ်ရုံသက်သက်ပဲ(ရေးလို့/ပြင်လို့ မရဘူး)လား"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "JPEGရဲ့ အရည်အသွေး(10-100)"
+
+msgid "kbytes"
+msgstr "kbytes"
+
+msgid "Language"
+msgstr "ဘာသာစကား"
+
+msgid "large readout"
+msgstr "အသံကျယ်ကျယ်ဖြင့် ဖတ်"
+
+msgid "last"
+msgstr "နောက်ဆုံး"
+
+msgid "left"
+msgstr "ဘယ်"
+
+msgid "left arrow"
+msgstr "ဘယ်ဘက်မြှား"
+
+msgid "length"
+msgstr "အလျား"
+
+msgid "light"
+msgstr "အလင်း"
+
+msgid "Line tool (draw lines)"
+msgstr "မျဉ်း ကိရိယာ(မျဉ်းကိုဆွဲ)"
+
+msgid "List name?"
+msgstr "စာရင်းရဲ့ နာမည်"
+
+msgid "Low"
+msgstr "နှိမ့်"
+
+msgid "Lowest (smallest)"
+msgstr "အနှိမ့်ဆုံး(အသေးဆုံး)"
+
+msgid "Make a list"
+msgstr "စာရင်းတခုကို ပြုလုပ်"
+
+msgid "Make a variable"
+msgstr "ဘေရီရေဘယ်  တခုကို ပြုလုပ်"
+
+msgid "Max:"
+msgstr "အများဆုံး"
+
+msgid "meow"
+msgstr "ညောင်"
+
+msgid "Message name:"
+msgstr "သတင်းစကား ရဲ့ အမည်"
+
+msgid "Min:"
+msgstr "အနည်းဆုံး"
+
+msgid "mod"
+msgstr "စားကြွင်း"
+
+msgid "more"
+msgstr "ပို"
+
+msgid "More tags:"
+msgstr "တခြား tag များ"
+
+msgid "mosaic"
+msgstr "မှန်စီ အနုပညာ"
+
+msgid "mouse x:"
+msgstr "မောက်(စ်)ရဲ့xဝင်ရိုး:"
+
+msgid "mouse y:"
+msgstr "မောက်(စ်)ရဲ့yဝင်ရိုး:"
+
+msgid "mouse-pointer"
+msgstr "မောက်(စ်)ရဲ့ ပွိုင်တာ"
+
+msgid "Move"
+msgstr "ရွှေ့"
+
+msgid "Music"
+msgstr "တေးဂီတ"
+
+msgid "My Projects"
+msgstr "ငါ့ ပရောဂျက်များ"
+
+msgid "new"
+msgstr "အသစ်"
+
+msgid "New"
+msgstr "အသစ်"
+
+msgid "New background:"
+msgstr "နောက်ခံ အသစ်"
+
+msgid "New costume:"
+msgstr "အဝတ်အစား အသစ်"
+
+msgid "New file name?"
+msgstr "ဖိုင်နာမည် အသစ်"
+
+msgid "New Filename:"
+msgstr "ဖိုင်နာမည် အသစ်"
+
+msgid "New sound:"
+msgstr "အသံ အသစ်"
+
+msgid "New Sprite"
+msgstr "sprite အသစ်"
+
+msgid "New sprite:"
+msgstr "သရုပ်ဆောင် အသစ် "
+
+msgid "No"
+msgstr "မဟုတ်ဘူး"
+
+msgid "No MIDI ports currently available."
+msgstr "လက်ရှိ MIDI port မရှိပါ"
+
+msgid "No motion blocks"
+msgstr "လှုပ်ရှားမှု့ ဘလောက်တုံးများ မရှိ"
+
+msgid "no scripts"
+msgstr "စကရစ် မရှိ"
+
+msgid "No serial ports found"
+msgstr "serial port များ မတွေ့ရ"
+
+msgid "No variables."
+msgstr "ဘေရီရေဘယ် မရှိ"
+
+msgid "Normal"
+msgstr "ပုံမှန်"
+
+msgid "normal readout"
+msgstr "ပုံမှန် ဖတ်"
+
+msgid "Off"
+msgstr "ပိတ်"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "ဖွင့်"
+
+msgid "only face left-right"
+msgstr "ဘယ် ညာ ပြောင်းရုံသက်သက်"
+
+msgid "Open"
+msgstr "ဖွင့်"
+
+msgid "Open a Scratch project"
+msgstr "Scratch ရဲ့ ပရောဂျက်ကိုဖွင့်"
+
+msgid "Open Project"
+msgstr "ပရောဂျက်ကိုဖွင့်"
+
+msgid "or"
+msgstr "(သို့)"
+
+msgid "Paint"
+msgstr "ဆေးခြယ် (ပန်းချီဆွဲ)"
+
+msgid "Paint Editor"
+msgstr "ဆေးခြယ် အယ်ဒီတာ"
+
+msgid "Paint new sprite"
+msgstr "သရုပ်ဆောင် အသစ်ကို ဆေးခြယ်"
+
+msgid "Paintbrush"
+msgstr "ပန်းချီဆွဲ စုတ်တံ"
+
+msgid "Password:"
+msgstr "စကားဝှက် "
+
+msgid "Percent? (100 gives original size)"
+msgstr "ရာခိုင်နှုန်း (၁၀၀ ကမူလအရွယ်အစား)"
+
+msgid "Pictures"
+msgstr "ပုံများ"
+
+msgid "pixelate"
+msgstr "pixelအဖြစ် ပြောင်း"
+
+msgid "play"
+msgstr "ပြန်ဖွင့်"
+
+msgid "Please enter a number"
+msgstr "နံပါတ် တခု ရိုက်ထည့်ပါ"
+
+msgid "pop"
+msgstr "pop တေးဂီတ"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "လည်ပတ်မှု့ရဲ့ အလယ်မှတ်ကို သတ်မှတ်ဖို့အတွက် အပေါင်းလက္ခဏာ ပွိုင်တာကို နေရာချခြင်း"
+
+msgid "Preparing project..."
+msgstr "ပရောဂျက်အတွက် ပြင်ဆင်နေ..."
+
+msgid "Project author:"
+msgstr "ပရောဂျက် ရေးသားခဲ့သူ:"
+
+msgid "Project name"
+msgstr "ပရောဂျက် နာမည်"
+
+msgid "Project Notes"
+msgstr "ပရောဂျက်ရဲ့ မှတ်စုစာအုပ်"
+
+msgid "Project notes"
+msgstr "ပရောဂျက်ရဲ့ မှတ်စုစာအုပ်"
+
+msgid "Project uploaded."
+msgstr "ပရောဂျက် uploadလုပ်ပြီး"
+
+msgid "Projects"
+msgstr "ပရောဂျက်များ"
+
+msgid "Quit"
+msgstr "ထွက်"
+
+msgid "Quit Scratch"
+msgstr "Scratchကို ပိတ်"
+
+msgid "Reading"
+msgstr "ဖတ်"
+
+msgid "record"
+msgstr "အသံသွင်း"
+
+msgid "Record"
+msgstr "အသံသွင်း"
+
+msgid "recording"
+msgstr "အသံသွင်းနေ"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "ထောင့်မှန်စတုဂံပုံ ကိရိယာ (ပုံကြမ်းဆွဲ (သို့) ထောင့်မှန်စတုဂံပုံ၊ စတုရန်းပုံ များဆွဲထည့်ခြင်း)"
+
+msgid "Redo"
+msgstr "ပြန်လုပ်"
+
+msgid "Reference Guide"
+msgstr "အညွှန်း"
+
+msgid "Remote sensor connections enabled"
+msgstr "အဝေးထိန်း အာရုံခံကိရိယာ ဆက်သွယ်မှု့ကို ခွင့်ပြု"
+
+msgid "Remove viewer from stage"
+msgstr "ဇတ်ခုံပေါ် ကနေ viewer ကိုဖျက်"
+
+msgid "resistance"
+msgstr "ခံနိုင်ရည်"
+
+msgid "resize this sprite"
+msgstr "ဒီ သရုပ်ဆောင်ရဲ့ အရွယ်အစားကို ပြောင်း"
+
+msgid "reverse"
+msgstr "ပြောင်းပြန်"
+
+msgid "right"
+msgstr "ညာ"
+
+msgid "right arrow"
+msgstr "ညာမြှား"
+
+msgid "Rotate clock-wise"
+msgstr "နာရီလက်တံ အတိုင်း လှည့်"
+
+msgid "Rotate counter-clock-wise"
+msgstr "နာရီလက်တံပြောင်းပြန် လှည့်"
+
+msgid "rotate this sprite"
+msgstr "ဒီသရုပ်ဆောင် ကို လှည့်"
+
+msgid "Rotation degrees?"
+msgstr "လှည့်ပတ်မှု့ ဒီဂရီ"
+
+msgid "Save"
+msgstr "သိမ်းဆည်"
+
+msgid "Save a copy of the current project"
+msgstr "လက်ရှိပရောဂျက်ကို ကော်ပီကူး သိမ်းဆည်း"
+
+msgid "Save As"
+msgstr "နာမည်ပေးပြီး သိမ်း"
+
+msgid "Save changes before quitting?"
+msgstr "ပရိုဂရမ်ကမထွက်ခင် အပြောင်းအလဲလုပ်ခဲ့တာတွေကို သိမ်းဆည်းမလား"
+
+msgid "Save failed"
+msgstr "သိမ်းဆည်းလို့ မရ"
+
+msgid "save picture of scripts"
+msgstr "စကရစ်များရဲ့ ပုံကို သိမ်းဆည်း"
+
+msgid "save picture of stage..."
+msgstr "ဇတ်ခုံရဲ့ ပုံကို သိမ်းဆည်း..."
+
+msgid "Save Project"
+msgstr "ပရောဂျက်ကို သိမ်းဆည်း"
+
+msgid "Save Scripts Snapshot"
+msgstr "စကရစ်များရဲ့ ဓာတ်ပုံကို သိမ်းဆည်း"
+
+msgid "Save Stage Shot"
+msgstr "ဇတ်ခုံရဲ့ ဓာတ်ပုံကို သိမ်းဆည်း"
+
+msgid "Save the current project"
+msgstr "လက်ရှိပရောဂျက်ကို သိမ်းဆည်း"
+
+msgid "Save the current project?"
+msgstr "လက်ရှိပရောဂျက်ကို သိမ်းဆည်းမလား"
+
+msgid "Save this project"
+msgstr "ဒီပရောဂျက်ကို သိမ်းဆည်း"
+
+msgid "Scripts"
+msgstr "စကရစ်"
+
+msgid "select serial/USB port"
+msgstr "Serial(သို့) USB portကို ရွေး"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "ရွေးချယ်မှု့ ကိရိယာ (ရွေးထားတာကို ရွှေ့၊ ပြုပြင်၊ ဖျက်)"
+
+msgid "Set costume center"
+msgstr "အဝတ်အစား ရဲ့ ဗဟိုမှတ်ကို သတ်မှတ်"
+
+msgid "Set language"
+msgstr "ဘာသာစကားကို သတ်မှတ်"
+
+msgid "Set rotation center"
+msgstr "လှည့်ပတ်မှု့ရဲ့ ဗဟိုမှတ်ကို သတ်မှတ်"
+
+msgid "Set Single Stepping"
+#msgstr "ခြေလှမ်းကို သတ်မှတ်"
+msgstr "အဆင့်တဆင့်ခြင်းသွားဖို့ သတ်မှတ်"
+
+msgid "set slider min and max"
+msgstr "ဆလိုဒ်ဒါရဲ့ အနည်းဆုံး၊ အများဆုံး တန်ဖိုးကို သတ်မှတ်"
+
+msgid "Share"
+msgstr "ဖြန့်ဝေ"
+
+msgid "Share this project"
+msgstr "ဒီပရောဂျက်ကို ဖြန့်ဝေ"
+
+msgid "Share This Project Online"
+msgstr "ဒီပရောဂျက်ကို အင်တာနက်မှာ ဖြန့်ဝေ"
+
+msgid "Show Motor Blocks"
+msgstr "မော်တာ ဘလောက်တုံးတွေကို ပြသ"
+
+msgid "show ScratchBoard watcher"
+msgstr "ScratchBoard watcherကို ပြသ"
+
+msgid "Shrink"
+msgstr "ချုံ့"
+
+msgid "Shrink sprite"
+msgstr "သရုပ်ဆောင်ကို ချုံ့"
+
+msgid "Simulation"
+msgstr "စီမျူလေးရှင်း"
+
+msgid "Single-step speed?"
+#msgstr "ခြေလှမ်းတခုရဲ့ မြန်နှုန်း"
+msgstr "အဆင့်တဆင့်ရဲ့ မြန်နှုန်း"
+
+msgid "slider"
+msgstr "ဆလိုဒ်ဒါ"
+
+msgid "Slider range:"
+msgstr "ဆလိုဒ်ဒါရဲ့ အတိုင်းအတာ:"
+
+msgid "Sound quality:"
+msgstr "အသံရဲ့ အရည်အသွေး:"
+
+msgid "Sound Recorder"
+msgstr "အသံဖမ်းစက်"
+
+msgid "Sounds"
+msgstr "အသံ"
+
+msgid "Sounds compressed"
+msgstr "ဖိုင်အရွယ်အစား ချုံ့ထားသော အသံများ"
+
+msgid "space"
+msgstr "နေရာ (အကျယ်အဝန်း)"
+
+msgid "Sprite"
+msgstr "သရုပ်ဆောင်"
+
+msgid "Sprites"
+msgstr "သရုပ်ဆောင်များ"
+
+msgid "sqrt"
+msgstr "စကွဲရုတ် (square root)"
+
+msgid "Stage"
+msgstr "ဇတ်ခုံ"
+
+msgid "Stage selected:"
+msgstr "ရွေးချယ်ထားသော ဇတ်ခုံ"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "တံဆိပ်တုံး ကိရိယာ (ရွေးချယ်ထားသော ဧရိယာရဲ့ကော်ပီကို တံဆိပ်တုံးလိုထု)"
+
+msgid "Start green flag scripts"
+msgstr "အစိမ်းရောင်အလံနဲ့ စကရစ်ကို စတင်"
+
+msgid "Start Single Stepping"
+msgstr "တဆင့်ခြင်း စတင်"
+
+msgid "stop"
+msgstr "ရပ်"
+
+msgid "Stop everything"
+msgstr "အားလုံးကို ရပ်"
+
+msgid "Stop Single Stepping"
+msgstr "တဆင့်ခြင်းသွားတာကို ရပ်"
+
+msgid "Story"
+msgstr "ဇာတ်လမ်း"
+
+msgid "Support Site"
+msgstr "အထောက်အပံ့ Webဆိုက်"
+
+msgid "Switch colors"
+msgstr "အရောင်များကို ဖလှယ်"
+
+msgid "Switch to full stage"
+msgstr "ဇတ်ခုံကို မော်နီတာအပြည့်ပြအောင် ပြောင်း"
+
+msgid "Switch to presentation mode"
+msgstr "တင်ဆက်ပြသမှု့ ပုံစံအဖြစ် ပြောင်း"
+
+msgid "Switch to small stage"
+msgstr "ဇတ်ခုံအသေးအဖြစ် ပြောင်း"
+
+msgid "Tags:"
+msgstr "အမှတ်အသား ကဒ်"
+
+msgid "Text tool (edit text layer)"
+msgstr "စာသား ကိရိယာ(စာသားအလွှာကို ပြင်)"
+
+msgid "That variable name is already in use"
+msgstr "အဲဒီ ဘေရီရေဘယ် နာမည်က သုံးထားပြီးသား"
+
+msgid "that way"
+msgstr "အဲဒီဘက် ဦးတည်"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "ဖိုင်နာမည်ကရှိပြီးသား။ ရှိပြီးသားဖိုင်ကို ထပ်ရေးမလား။"
+
+msgid "thing"
+msgstr "တခုခု"
+
+msgid "this way"
+msgstr "ဒီဘက်"
+
+msgid "tilt"
+msgstr "စောင်း\ရွှေ့"
+
+msgid "true"
+msgstr "မှန်"
+
+msgid "Turbo speed"
+msgstr "တာဘိုရဲ့ အမြန်နှုန်း"
+
+msgid "turn into new sprite"
+msgstr "သရုပ်ဆောင်အသစ် အဖြစ်ပြောင်း"
+
+msgid "Undelete"
+msgstr "ဖျက်ခဲ့တာကို ပြန်ပြင် (မဖျက်တော့ဘူး)"
+
+msgid "Undo"
+msgstr "မလုပ်တော့ပါ"
+
+msgid "up"
+msgstr "အပေါ်"
+
+msgid "up arrow"
+msgstr "အပေါ် မြှား"
+
+msgid "Updating thumbnails"
+msgstr "ပုံသေးတွေကို updateလုပ်"
+
+msgid "Upload succeeded!"
+msgstr "အင်တာနက်ပေါ် အောင်မြင်စွာတင်နိုင်"
+
+msgid "Upload to Scratch Server"
+msgstr "Scratch ဆာဗာဆီ တင်"
+
+msgid "Uploading"
+msgstr "အင်တာနက်ပေါ်တင်"
+
+msgid "Variable name?"
+msgstr "ဘေရီရေဘယ် နာမည်"
+
+msgid "View on stage"
+msgstr "ဇတ်ခုံ မှာကြည့်"
+
+msgid "What's your name?"
+msgstr "မင်းနာမည် ဘယ်လိုခေါ်လဲ"
+
+msgid "whirl"
+msgstr "ဝေ့ဝိုက် လှည့်"
+
+msgid "world"
+msgstr "ကမ္ဘာ"
+
+msgid "Write Multiple Project Summaries"
+msgstr "ပရောဂျက်များရဲ့ အနှစ်ချုပ် ကိုရေး"
+
+msgid "Write Project Summary"
+msgstr "ပရောဂျက်ရဲ့ အနှစ်ချုပ် ကိုရေး"
+
+msgid "Yes"
+msgstr "ဟုတ်တယ်"
+
+msgid "Your project is now online at"
+msgstr "မင်းရဲ့ ပရောဂျက်က ယခု online"
+
+msgid "Your Scratch website login name:"
+msgstr "မင်းရဲ့Scratch Webဆိုက် လော့ဂင်နာမည် "
+
+msgid "Zoom in"
+msgstr "ချဲ့ကြည့်"
+
+msgid "Zoom out"
+msgstr "ချုံ့ကြည့်"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "အကော်ဒီယံ"
+
+msgid "Acoustic Bass"
+msgstr "Acoustic သံနိမ့်"
+
+msgid "Acoustic Bass Drum"
+msgstr "Acoustic သံနိမ့် ဒရမ်"
+
+msgid "Acoustic Grand"
+msgstr "Acoustic Grand"
+
+msgid "Acoustic Snare"
+msgstr "Acoustic Snare"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Alto Sax"
+
+msgid "Applause"
+msgstr "Applause"
+
+msgid "Bagpipe"
+msgstr "Bagpipe"
+
+msgid "Banjo"
+msgstr "ဘင်ဂျို"
+
+msgid "Baritone Sax"
+msgstr "Baritone Sax"
+
+msgid "Bass Drum 1"
+msgstr "Bass ဒရမ် 1"
+
+msgid "Bassoon"
+msgstr "Bassoon"
+
+msgid "Bird Tweet"
+msgstr "Bird Tweet"
+
+msgid "Blown Bottle"
+msgstr "Blown Bottle"
+
+msgid "Brass Section"
+msgstr "Brass Section"
+
+msgid "Breath Noise"
+msgstr "Breath Noise"
+
+msgid "Bright Acoustic"
+msgstr "Bright Acoustic"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celesta"
+
+msgid "Cello"
+msgstr "တယောအကြီးစား"
+
+msgid "Chinese Cymbal"
+msgstr "တရုပ်Cymbal"
+
+msgid "Choir Aahs"
+msgstr "Choir Aahs"
+
+msgid "Church Organ"
+msgstr "ခရစ်ယာန်ဘုရားကျောင်းက အော်ဂင်"
+
+msgid "Clarinet"
+msgstr "Clarinet"
+
+msgid "Claves"
+msgstr "Claves"
+
+msgid "Clavinet"
+msgstr "Clavinet"
+
+msgid "Closed Hi-Hat"
+msgstr "Closed Hi-Hat"
+
+msgid "Contrabass"
+msgstr "Contrabass"
+
+msgid "Cowbell"
+msgstr "Cowbell"
+
+msgid "Crash Cymbal 1"
+msgstr "Crash Cymbal 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Crash Cymbal 2"
+
+msgid "Distortion Guitar"
+msgstr "Distortion ဂစ်တာ"
+
+msgid "Drawbar Organ"
+msgstr "Drawbar အော်ဂင်"
+
+msgid "Dulcimer"
+msgstr "Dulcimer"
+
+msgid "Electric Bass (finger)"
+msgstr "လျှပ်စစ် Bass (လက်ညှိုး)"
+
+msgid "Electric Bass (pick)"
+msgstr "လျှပ်စစ် Bass (pick)"
+
+msgid "Electric Clean Guitar"
+msgstr "လျှပ်စစ် Clean ဂစ်တာ"
+
+msgid "Electric Grand"
+msgstr "လျှပ်စစ် Grand"
+
+msgid "Electric Jazz Guitar"
+msgstr "လျှပ်စစ် Jazz ဂစ်တာ"
+
+msgid "Electric Muted Guitar"
+msgstr "လျှပ်စစ် Muted ဂစ်တာ"
+
+msgid "Electric Piano 1"
+msgstr "လျှပ်စစ် စန္ဒယား1"
+
+msgid "Electric Piano 2"
+msgstr "လျှပ်စစ် စန္ဒယား 2"
+
+msgid "Electric Snare"
+msgstr "လျှပ်စစ် Snare"
+
+msgid "English Horn"
+msgstr "အင်္ဂလိပ် Horn"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (rain)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (soundtrack)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (crystal)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (atmosphere)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (brightness)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX 6 (goblins)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (echoes)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (sci-fi)"
+
+msgid "Fiddle"
+msgstr "တယော"
+
+msgid "Flute"
+msgstr "ပလွေ"
+
+msgid "French Horn"
+msgstr "ပြင်သစ် Horn"
+
+msgid "Fretless Bass"
+msgstr "Fretless Bass"
+
+msgid "Glockenspiel"
+msgstr "Glockenspiel"
+
+msgid "Guitar Fret Noise"
+msgstr "Fret Noise ဂစ်တာ"
+
+msgid "Guitar Harmonics"
+msgstr "Harmonics ဂစ်တာ"
+
+msgid "Gunshot"
+msgstr "သေနတ်ပစ်သံ"
+
+msgid "Hand Clap"
+msgstr "လက်ခုပ်တီးသံ"
+
+msgid "Harmonica"
+msgstr "သံစုံဗာဂျာ"
+
+msgid "Harpsichord"
+msgstr "Harpsichord"
+
+msgid "Helicopter"
+msgstr "ဟယ်လီကော်ပတာ"
+
+msgid "Hi Bongo"
+msgstr "Hi Bongo"
+
+msgid "Hi Wood Block"
+msgstr "Hi Wood Block"
+
+msgid "Hi-Mid Tom"
+msgstr "Hi-Mid Tom"
+
+msgid "High Agogo"
+msgstr "High Agogo"
+
+msgid "High Floor Tom"
+msgstr "High Floor Tom"
+
+msgid "High Timbale"
+msgstr "High Timbale"
+
+msgid "High Tom"
+msgstr "High Tom"
+
+msgid "Honky-Tonk"
+msgstr "Honky-Tonk"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "ဂျပန်စောင်း"
+
+msgid "Lead 1 (square)"
+msgstr "Lead 1 (square)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Lead 2 (sawtooth)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Lead 3 (calliope)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Lead 4 (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "Lead 5 (charang)"
+
+msgid "Lead 6 (voice)"
+msgstr "Lead 6 (voice)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Lead 7 (fifths)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Lead 8 (bass+lead)"
+
+msgid "Long Guiro"
+msgstr "Long Guiro"
+
+msgid "Long Whistle"
+msgstr "Long Whistle"
+
+msgid "Low Agogo"
+msgstr "Low Agogo"
+
+msgid "Low Bongo"
+msgstr "Low Bongo"
+
+msgid "Low Conga"
+msgstr "Low Conga"
+
+msgid "Low Floor Tom"
+msgstr "Low Floor Tom"
+
+msgid "Low Timbale"
+msgstr "Low Timbale"
+
+msgid "Low Tom"
+msgstr "Low Tom"
+
+msgid "Low Wood Block"
+msgstr "Low Wood Block"
+
+msgid "Low-Mid Tom"
+msgstr "Low-Mid Tom"
+
+msgid "Maracas"
+msgstr "Maracas"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Melodic Tom"
+
+msgid "Music Box"
+msgstr "Music Box"
+
+msgid "Mute Cuica"
+msgstr "Mute Cuica"
+
+msgid "Mute Hi Conga"
+msgstr "Mute Hi Conga"
+
+msgid "Mute Triangle"
+msgstr "Mute Triangle"
+
+msgid "Muted Trumpet"
+msgstr "Muted Trumpet"
+
+msgid "Nylon String Guitar"
+msgstr "Nylon String ဂစ်တာ"
+
+msgid "Oboe"
+msgstr "Oboe"
+
+msgid "Ocarina"
+msgstr "Ocarina"
+
+msgid "Open Cuica"
+msgstr "Open Cuica"
+
+msgid "Open Hi Conga"
+msgstr "Open Hi Conga"
+
+msgid "Open Hi-Hat"
+msgstr "Open Hi-Hat"
+
+msgid "Open Triangle"
+msgstr "Open Triangle"
+
+msgid "Orchestra Hit"
+msgstr "Orchestra Hit"
+
+msgid "Orchestral Strings"
+msgstr "Orchestral Strings"
+
+msgid "Overdriven Guitar"
+msgstr "Overdriven ဂစ်တာ"
+
+msgid "Pad 1 (new age)"
+msgstr "Pad 1 (new age)"
+
+msgid "Pad 2 (warm)"
+msgstr "Pad 2 (warm)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Pad 3 (polysynth)"
+
+msgid "Pad 4 (choir)"
+msgstr "Pad 4 (choir)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Pad 5 (bowed)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Pad 6 (metallic)"
+
+msgid "Pad 7 (halo)"
+msgstr "Pad 7 (halo)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Pad 8 (sweep)"
+
+msgid "Pan Flute"
+msgstr "ပန် ပလွေ"
+
+msgid "Pedal Hi-Hat"
+msgstr "Pedal Hi-Hat"
+
+msgid "Percussive Organ"
+msgstr "Percussive အော်ဂင်"
+
+msgid "Piccolo"
+msgstr "Piccolo"
+
+msgid "Pizzicato Strings"
+msgstr "Pizzicato Strings"
+
+msgid "Recorder"
+msgstr "ရီကော်ဒါ"
+
+msgid "Reed Organ"
+msgstr "Reed အော်ဂင်"
+
+msgid "Reverse Cymbal"
+msgstr "Reverse Cymbal"
+
+msgid "Ride Bell"
+msgstr "Ride Bell"
+
+msgid "Ride Cymbal 1"
+msgstr "Ride Cymbal 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Ride Cymbal 2"
+
+msgid "Rock Organ"
+msgstr "ရောခ့် အော်ဂင်"
+
+msgid "Seashore"
+msgstr "ပင်လယ်ကမ်းခြေ"
+
+msgid "Shakuhachi"
+msgstr "Shakuhachi"
+
+msgid "Shamisen"
+msgstr "Shamisen"
+
+msgid "Shanai"
+msgstr "Shanai"
+
+msgid "Short Guiro"
+msgstr "Short Guiro"
+
+msgid "Short Whistle"
+msgstr "ခရာ(တို)"
+
+msgid "Side Stick"
+msgstr "Side Stick"
+
+msgid "Sitar"
+msgstr "အိန္ဒိယ ဗျတ်စောင်း"
+
+msgid "Slap Bass 1"
+msgstr "Slap Bass 1"
+
+msgid "Slap Bass 2"
+msgstr "Slap Bass 2"
+
+msgid "Soprano Sax"
+msgstr "Soprano Sax"
+
+msgid "Splash Cymbal"
+msgstr "Splash Cymbal"
+
+msgid "Steel Drums"
+msgstr "စတီး ဒရမ်"
+
+msgid "Steel String Guitar"
+msgstr "စတီးကြိုးဂစ်တာ"
+
+msgid "String Ensemble 1"
+msgstr "String Ensemble 1"
+
+msgid "String Ensemble 2"
+msgstr "String Ensemble 2"
+
+msgid "Synth Bass 1"
+msgstr "Synth Bass 1"
+
+msgid "Synth Bass 2"
+msgstr "Synth Bass 2"
+
+msgid "Synth Drum"
+msgstr "Synth ဒရမ်"
+
+msgid "Synth Voice"
+msgstr "Synth အသံ"
+
+msgid "SynthBrass 1"
+msgstr "SynthBrass 1"
+
+msgid "SynthBrass 2"
+msgstr "SynthBrass 2"
+
+msgid "SynthStrings 1"
+msgstr "SynthStrings 1"
+
+msgid "SynthStrings 2"
+msgstr "SynthStrings 2"
+
+msgid "Taiko Drum"
+msgstr "တိုင်ကို ဒရမ်"
+
+msgid "Tambourine"
+msgstr "တမ်ဘိုရင်း"
+
+msgid "Tango Accordion"
+msgstr "တန်ဂို အကော်ဒီယံ"
+
+msgid "Telephone Ring"
+msgstr "တယ်လီဖုန်း ဘဲ(လ်)မြည်သံ"
+
+msgid "Tenor Sax"
+msgstr "Tenor Sax"
+
+msgid "Timpani"
+msgstr "Timpani"
+
+msgid "Tinkle Bell"
+msgstr "Tinkle ဘဲ(လ်)"
+
+msgid "Tremolo Strings"
+msgstr "Tremolo Strings"
+
+msgid "Trombone"
+msgstr "Trombone"
+
+msgid "Trumpet"
+msgstr "Trumpet"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "Tubular Bells"
+
+msgid "Vibraphone"
+msgstr "Vibraphone"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "Viola"
+msgstr "Viola"
+
+msgid "Violin"
+msgstr "တယော"
+
+msgid "Voice Oohs"
+msgstr "အသံ(အူး)"
+
+msgid "Whistle"
+msgstr "ခရာ"
+
+msgid "Woodblock"
+msgstr "Woodblock"
+
+msgid "Xylophone"
+msgstr "ပတ္တလား"
+

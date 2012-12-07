@@ -1,0 +1,1925 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 2010.01.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-12\n"
+"PO-Revision-Date: 2010-01-12 04:22-0400\n"
+"Last-Translator: Mehmet Coban <mcoban82@gmail.com>\n"
+"Language-Team: Kurdish\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!= 1);\n"
+"X-Generator: Pootle 1.2.1\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu<br />
+# <br />
+# (Required)
+msgid "Language-Name"
+msgstr "Kurdî"
+
+# Directionality of language<br />
+# <br />
+# LTR = Left to Right<br />
+# <br />
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)<br />
+# <br />
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1"
+
+# Set to 'true' or 'false'<br />
+# <br />
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "Pîti Nusîn  bo Windows"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "Pîti Nusîn bo Mac"
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "Pîti Nusîn bo Linux"
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "Gringiya Sensor %H"
+
+msgid "%L contains %s"
+msgstr "%s hundirî %L deye"
+
+msgid "%a of %m"
+msgstr "%a ji %m"
+
+msgid "%b and %b"
+msgstr "%b û %b"
+
+msgid "%b or %b"
+msgstr "%b an %b"
+
+msgid "%f of %n"
+msgstr "%f ji %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "%s tevlî %L ke"
+
+msgid "answer"
+msgstr "bersiv"
+
+msgid "ask %s and wait"
+msgstr "%s pirske û li bendê be"
+
+msgid "background #"
+msgstr "Binpaşk #"
+
+msgid "broadcast %e"
+msgstr "%e biweşîne"
+
+msgid "broadcast %e and wait"
+msgstr "%e biweşîne û li bendê be"
+
+msgid "change %g effect by %n"
+msgstr "efekta %g bi %n re biguherîne"
+
+msgid "change %v by %n"
+msgstr "%v bi %n re biguherîne"
+
+msgid "change pen color by %n"
+msgstr "rengî pênûsê bi %n re biguherîne"
+
+msgid "change pen shade by %n"
+msgstr "sîha pênûsê bi %n re biguherîne"
+
+msgid "change pen size by %n"
+msgstr "mezinahî a pênûsê bi %n re biguherîne"
+
+msgid "change size by %n"
+msgstr "mezinahî bi %n re biguherîne"
+
+msgid "change tempo by %n"
+msgstr "tempo bi %n re biguherîne"
+
+msgid "change volume by %n"
+msgstr "deng bi %n re biguherîne"
+
+msgid "change x by %n"
+msgstr "x bi %n re biguherîne"
+
+msgid "change y by %n"
+msgstr "y bi %n re biguherîne"
+
+msgid "clear"
+msgstr "paqij"
+
+msgid "clear graphic effects"
+msgstr "efekt a grafikê paqijbike"
+
+msgid "color %C is touching %C?"
+msgstr "%C nêzîkê %C dibe?"
+
+msgid "control"
+msgstr "kontrol"
+
+msgid "costume #"
+msgstr "kostum #"
+
+msgid "delete %y of %L"
+msgstr "%y ji %L paqijke"
+
+msgid "direction"
+msgstr "rex"
+
+msgid "distance to %m"
+msgstr "dûrbûn ji %m"
+
+msgid "else"
+msgstr "wekîdin"
+
+msgid "forever"
+msgstr "herdem"
+
+msgid "forever if %b"
+msgstr "herdem heger %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n sanîyêde biçe  x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "%n qat paşve vegere"
+
+msgid "go to %m"
+msgstr "biçe %m"
+
+msgid "go to front"
+msgstr "pêşve biçe"
+
+msgid "go to x:%n y:%n"
+msgstr "biçe x:%n y:%n"
+
+msgid "hide"
+msgstr "veşêre"
+
+msgid "hide variable %v"
+msgstr "guhêrbar %v veşêre"
+
+msgid "if %b"
+msgstr "heger %b"
+
+msgid "if on edge, bounce"
+msgstr "heger kêlekê be, xwe çeke"
+
+msgid "insert %s at %i of %L"
+msgstr "%s têke %i ji %L"
+
+msgid "item %i of %L"
+msgstr "tiştê %i ji %L"
+
+msgid "join %s %s"
+msgstr "tevli %s %s be"
+
+msgid "key %k pressed?"
+msgstr "tûş a %k pêlêkirîye?"
+
+msgid "length of %L"
+msgstr "dirêjbûn a %L"
+
+msgid "length of %s"
+msgstr "dirêjbûn a %s"
+
+msgid "letter %n of %s"
+msgstr "tîp %n ji %s"
+
+msgid "list"
+msgstr "lîste"
+
+msgid "looks"
+msgstr "nêrîn"
+
+msgid "loud?"
+msgstr "bi bang?"
+
+msgid "loudness"
+msgstr "hêdî(bêdeng)"
+
+msgid "motion"
+msgstr "hereket"
+
+msgid "motor direction %W"
+msgstr "rexa motor %W"
+
+msgid "motor off"
+msgstr "motor girtîye"
+
+msgid "motor on"
+msgstr "motor vekirîye"
+
+msgid "motor on for %n secs"
+msgstr "motor vekirîye bo %n saniye"
+
+msgid "motor power %n"
+msgstr "hêza motor %n"
+
+msgid "mouse down?"
+msgstr "mişk pêlêkirî?"
+
+msgid "mouse x"
+msgstr "mişk x"
+
+msgid "mouse y"
+msgstr "mişk y"
+
+msgid "move %n steps"
+msgstr "%n gavan hereketke"
+
+msgid "next background"
+msgstr "binpaşkîyekî din"
+
+msgid "next costume"
+msgstr "kostumekê pêşve"
+
+msgid "not %b"
+msgstr "ne %b"
+
+msgid "operators"
+msgstr "operator"
+
+msgid "pen"
+msgstr "pênûs"
+
+msgid "pen down"
+msgstr "pênûs pêlêkirî"
+
+msgid "pen up"
+msgstr "pênûs serbest"
+
+msgid "pick random %n to %n"
+msgstr "ji %n heta %n bi rasthatî vebijêre"
+
+msgid "play drum %D for %n beats"
+msgstr "baterîya %D %n caran lêxe"
+
+msgid "play note %N for %n beats"
+msgstr "nota ya %N %n caran lêxe"
+
+msgid "play sound %S"
+msgstr "dengî %S lêxîne"
+
+msgid "play sound %S until done"
+msgstr "dengî %S heta dawîye lêxe"
+
+msgid "point in direction %d"
+msgstr "rexa %d ve bizivirîn"
+
+msgid "point towards %m"
+msgstr "berve %m bizivirîn"
+
+msgid "repeat %n"
+msgstr "%n caran dûbarekin"
+
+msgid "repeat until %b"
+msgstr "hata %b dûbarekin"
+
+msgid "replace item %i of %L with %s"
+msgstr "tişt %i ji %L bi %s re biguherîne"
+
+msgid "reset timer"
+msgstr "demjimar tuneke"
+
+msgid "rest for %n beats"
+msgstr "bo lêxistina %n raweste"
+
+msgid "round %n"
+msgstr "%n girdîne"
+
+msgid "say %s"
+msgstr "bêje %s"
+
+msgid "say %s for %n secs"
+msgstr "bêje %s bo %n sanîye"
+
+msgid "sensing"
+msgstr "têgihîn"
+
+msgid "sensor %h?"
+msgstr "sensor %h"
+
+msgid "set %g effect to %n"
+msgstr "efekta %g bikin %n"
+
+msgid "set %v to %n"
+msgstr "%v 'yê bike %n"
+
+msgid "set instrument to %I"
+msgstr "instrument bike %I"
+
+msgid "set pen color to %c"
+msgstr "rengî pênûsê bike %c"
+
+msgid "set pen color to %n"
+msgstr "rengî pênûsê bike %n"
+
+msgid "set pen shade to %n"
+msgstr "sîha pênûsê bike %n"
+
+msgid "set pen size to %n"
+msgstr "mezinîya pênûsê bike %n"
+
+msgid "set size to %n%"
+msgstr "mezinîyê bike %n"
+
+msgid "set tempo to %n bpm"
+msgstr "tempo bike %n bpm"
+
+msgid "set volume to %n%"
+msgstr "bilindkirina deng bike %n%"
+
+msgid "set x to %n"
+msgstr "x bike %n"
+
+msgid "set y to %n"
+msgstr "y bike %n"
+
+msgid "show"
+msgstr "şanîke"
+
+msgid "show variable %v"
+msgstr "guhêrbar %v şanîke"
+
+msgid "size"
+msgstr "mezintî"
+
+msgid "sound"
+msgstr "deng"
+
+msgid "stamp"
+msgstr "Mor(demxe)"
+
+msgid "stop all"
+msgstr "hemû rawestîne"
+
+msgid "stop all sounds"
+msgstr "hemû dengan rawestîne"
+
+msgid "stop script"
+msgstr "nivîskê rawestîne"
+
+msgid "switch to background %l"
+msgstr "vegere binpaşkî ya %l "
+
+msgid "switch to costume %l"
+msgstr "vegere kostum a %l"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "%s bifikire"
+
+msgid "think %s for %n secs"
+msgstr "%s bifikire bo %n sanîye"
+
+msgid "timer"
+msgstr "demjimar"
+
+msgid "touching %m?"
+msgstr "berve %m diçe ?"
+
+msgid "touching color %C?"
+msgstr "berve reng %C diçe ?"
+
+msgid "turn %n degrees"
+msgstr "%n derece bizîvire"
+
+msgid "variables"
+msgstr "guhêrbar"
+
+msgid "volume"
+msgstr "deng"
+
+msgid "wait %n secs"
+msgstr "%n sanîye raweste"
+
+msgid "wait until %b"
+msgstr "heta %b raweste"
+
+msgid "when %k key pressed"
+msgstr "heger tûşa %k çapkirî be "
+
+msgid "when %m clicked"
+msgstr "heger %m pêlêkirî be"
+
+msgid "when I receive %e"
+msgstr "heger ez %e bistînim"
+
+msgid "x position"
+msgstr "pozîsyona x"
+
+msgid "y position"
+msgstr "pozîsyona y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "vala"
+
+msgid "1 script"
+msgstr "1 nivîsk "
+
+msgid "About Scratch"
+msgstr "Derbarê Scratch'de"
+
+msgid "About this project:"
+msgstr "derbarê vê projê'de"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "şîrove bike"
+
+msgid "add comment here"
+msgstr "li vir şîrove bike"
+
+msgid "all"
+msgstr "hemû"
+
+msgid "and"
+msgstr "û"
+
+msgid "Animation"
+msgstr "Anîmasyon"
+
+msgid "any"
+msgstr "hîç"
+
+msgid "Art"
+msgstr "huner"
+
+msgid "background"
+msgstr "binpaşk"
+
+msgid "backgrounds"
+msgstr "binpaşk"
+
+msgid "Backgrounds"
+msgstr "Binpaşk"
+
+msgid "brightness"
+msgstr "ronakî"
+
+msgid "Brush size: "
+msgstr "mezinîya Firçe"
+
+msgid "button"
+msgstr "buton"
+
+msgid "button pressed"
+msgstr "buton çapkirî"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "can rotate"
+msgstr "kare bizivirîne"
+
+msgid "cancel"
+msgstr "betal bike"
+
+msgid "Cancel"
+msgstr "Betal"
+
+msgid "Choose a folder"
+msgstr "belgedankekê vebijêre"
+
+msgid "Choose new sprite from file"
+msgstr "Aferînekeka nû ji peldankê vebijêre"
+
+msgid "clean up"
+msgstr "paqij ke"
+
+msgid "Clear"
+msgstr "Paqij"
+
+msgid "Clear canvas"
+msgstr "Taqeyê paqij ke"
+
+msgid "Close and continue"
+msgstr "Bigire û berdewam ke"
+
+msgid "Close dialog?"
+msgstr "diyalogê bigirin?"
+
+msgid "Close paint editor?"
+msgstr "wêne verastker bigirin?"
+
+msgid "close port"
+msgstr "port bigirin"
+
+msgid "Close sound recorder?"
+msgstr "Deng tomarker bigirin ?"
+
+msgid "color"
+msgstr "reng"
+
+msgid "Compress Images"
+msgstr "Resiman bidewsîne"
+
+msgid "Compress Sounds"
+msgstr "Dengan bidewsîne"
+
+msgid "Compress sounds and images"
+msgstr "Dengan û resiman bidewsîne"
+
+msgid "Computer"
+msgstr "Kompîter"
+
+msgid "connected"
+msgstr "hate grêdan"
+
+msgid "Connecting to "
+msgstr "tê grêdan"
+
+msgid "Copy"
+msgstr "Kopye"
+
+msgid "costume"
+msgstr "kostum"
+
+msgid "costumes"
+msgstr "kostum"
+
+msgid "Costumes"
+msgstr "Kostum"
+
+msgid "Could not read"
+msgstr "Nayê xwendin"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Proje nayê xwendin; peldank dibe ku xerab bûye"
+
+msgid "Could not write file"
+msgstr "Peldank nayê nivîsandin"
+
+msgid "Create account"
+msgstr "Hesab çêke"
+
+msgid "Create an empty project"
+msgstr "Projeyek vala çêke"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Data hate şandin. Li benda bersivêye... "
+
+msgid "delete"
+msgstr "paqij be"
+
+msgid "Delete"
+msgstr "Paqij ke"
+
+msgid "Delete a list"
+msgstr "Lîstekê paqij ke"
+
+msgid "Delete a variable"
+msgstr "Guhêrbarekê paqij ke"
+
+msgid "Delete this background"
+msgstr "Vî binpaşkîyê paqij ke"
+
+msgid "Delete this costume"
+msgstr "Vî kostumî paqij ke"
+
+msgid "Delete this sound"
+msgstr "Vî dengî paqij ke"
+
+msgid "Delete this sprite"
+msgstr "Vê aferînekê paqij ke"
+
+msgid "Desktop"
+msgstr "Sermase"
+
+msgid "disable remote sensor connections"
+msgstr "grêdanka qumand a dûr bigire"
+
+msgid "distance"
+msgstr "dûrî"
+
+msgid "Documents"
+msgstr "Dokuman"
+
+msgid "don't rotate"
+msgstr "nezivirîne"
+
+msgid "Don't Save"
+msgstr "Qeyd neke"
+
+msgid "Done"
+msgstr "Bû"
+
+msgid "down"
+msgstr "jêr"
+
+msgid "down arrow"
+msgstr "tîra jêr"
+
+msgid "drag to resize"
+msgstr "ji bo dîsa guhêrandinê kaşke"
+
+msgid "drag to rotate"
+msgstr "ji bo nûzivirandinê kaşke"
+
+msgid "draggable on website?"
+msgstr "li ser malperê tê kaşkirin?"
+
+msgid "duplicate"
+msgstr "dubare"
+
+msgid "Duplicate"
+msgstr "Dubare ke"
+
+msgid "edge"
+msgstr "kevî"
+
+msgid "Edit"
+msgstr "Verastke"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Amûra Elips (elipsa tijî an a vala  an jî bazneyan çixizke"
+
+msgid "enable remote sensor connections"
+msgstr "grêdanka qumand a dûr veke"
+
+msgid "Enter presentation mode"
+msgstr "Têkeve moda raberkirinê"
+
+msgid "Eraser"
+msgstr "Jêbirk"
+
+msgid "Eraser size"
+msgstr "Mezinîya jêbirkê"
+
+msgid "Error!"
+msgstr "Xeta!"
+
+msgid "Examples"
+msgstr "Mînak"
+
+msgid "Exit presentation"
+msgstr "Raberkirinê biqedîne"
+
+msgid "Exit presentation mode"
+msgstr "Moda raberkirinê biqedîne"
+
+msgid "export"
+msgstr "derxistin a derve"
+
+msgid "Export Background"
+msgstr "binpaşkê derxe derve"
+
+msgid "Export Costume"
+msgstr "Kostum derxe derve"
+
+msgid "Export failed"
+msgstr "Derxistin biserneket"
+
+msgid "Export Sound"
+msgstr "Deng derxe derve"
+
+msgid "Export Sprite"
+msgstr "Aferînek  derxe derve"
+
+msgid "export this costume"
+msgstr "Vî kostumî derxe derve"
+
+msgid "export this sound"
+msgstr "Vî dengî derxe derve"
+
+msgid "export this sprite"
+msgstr "Vê Aferînekê derxe derve"
+
+msgid "Extras menu"
+msgstr "Menu a Ekstra"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Amûra rengvebijêrînê (rengekî vebijêre)"
+
+msgid "Failed:"
+msgstr "Biserneket:"
+
+msgid "false"
+msgstr "xelet"
+
+msgid "File"
+msgstr "Peldank"
+
+msgid "File not found"
+msgstr "Peldank nayê dîtin"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Amûra tijikirinê (qadan bi reng yanjî bi gradient tijîke"
+
+msgid "first"
+msgstr "yekem"
+
+msgid "fisheye"
+msgstr "çavmasî"
+
+msgid "Flash blocks (fast)"
+msgstr "Blokên flash (zû)"
+
+msgid "Flash blocks (slow)"
+msgstr "Blokên flash (hêdî)"
+
+msgid "Flip horizontally"
+msgstr "Berwarî wergerîne"
+
+msgid "Flip vertically"
+msgstr "Emûdî wergerîne"
+
+msgid "For all sprites"
+msgstr "Ji bo hemû Aferînekan"
+
+msgid "For this sprite only"
+msgstr "Tenê ji bo vê Aferînekê"
+
+msgid "Game"
+msgstr "Lîstik"
+
+msgid "Get surprise sprite"
+msgstr "Aferîneka surprîz bianîne"
+
+msgid "Get the last thing deleted"
+msgstr "Tiştî herî dawî hate paqijkirin, bianîne "
+
+msgid "Getting Started"
+msgstr "Destpêk"
+
+msgid "ghost"
+msgstr "pêrew"
+
+msgid "Go To Scratch Website"
+msgstr "Biçe Malpera Scratch"
+
+msgid "grab screen region for new costume"
+msgstr "herêmî ekranê bo Kostumeka nû bistîne"
+
+msgid "grab screen region for new sprite"
+msgstr "herêmî ekranê bo Aferîneka nû bistîne"
+
+msgid "Grow"
+msgstr "Mezinkirin"
+
+msgid "Grow sprite"
+msgstr "Mezinkirina Aferîn"
+
+msgid "hello "
+msgstr "merheba "
+
+msgid "Hello!"
+msgstr "Merheba!"
+
+msgid "help"
+msgstr "alîkarî"
+
+msgid "Help"
+msgstr "Alîkarî"
+
+msgid "Help Page"
+msgstr "Rûpela Alîkarîyê"
+
+msgid "Help Screens"
+msgstr "Ekrana Alîkarîyê"
+
+msgid "Hide Motor Blocks"
+msgstr "Blokên motorê veşêre"
+
+msgid "High (biggest)"
+msgstr "Bilind (herî bilind)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Mal"
+
+msgid "Images compressed"
+msgstr "Wêne hatin şitandin"
+
+msgid "import"
+msgstr "bixe hundir"
+
+msgid "Import"
+msgstr "Bixe hundir"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Resimekî hawirdeke ser çarçeweya aktuel"
+
+msgid "Import Background"
+msgstr "binpaşkê bixe hundir"
+
+msgid "Import Costume"
+msgstr "Kostum bixe hundir"
+
+msgid "Import Image"
+msgstr "Wêne bixe hundir"
+
+msgid "Import List"
+msgstr "Lîsteyê bixe hundir"
+
+msgid "Import Project"
+msgstr "Projeyê bixe hundir"
+
+msgid "import project"
+msgstr "projeyê bixe hundir"
+
+msgid "Import Sound"
+msgstr "Dengan bixe hundir"
+
+msgid "Incompatible Scratch file format"
+msgstr "Formata Peldankê ne gorî Scratch'e"
+
+msgid "Is the folder read-only?"
+msgstr "Belgedank tenê jibo xwendinêye?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "Qalîteya JPEG (10-100)?"
+
+msgid "kbytes"
+msgstr "kbytes"
+
+msgid "Language"
+msgstr "Ziman"
+
+msgid "large readout"
+msgstr "Nivîsara mezina grafikî"
+
+msgid "last"
+msgstr "dawî"
+
+msgid "left"
+msgstr "çep"
+
+msgid "left arrow"
+msgstr "tîra çep"
+
+msgid "length"
+msgstr "dirêjî"
+
+msgid "light"
+msgstr "ronî"
+
+msgid "Line tool (draw lines)"
+msgstr "Amûra çîzikê (çîzikê çîzke)"
+
+msgid "List name?"
+msgstr "Navî Listeyê"
+
+msgid "Low"
+msgstr "Nizm"
+
+msgid "Lowest (smallest)"
+msgstr "herî nizm (herî biçûk)"
+
+msgid "Make a list"
+msgstr "Lîstekê çêke "
+
+msgid "Make a variable"
+msgstr "Guhêrbarekî çêke"
+
+msgid "Max:"
+msgstr "Herî mezin (maksîmum):"
+
+msgid "meow"
+msgstr "mîyeew"
+
+msgid "Message name:"
+msgstr "Navê Mesajê"
+
+msgid "Min:"
+msgstr "Herî kêmtir:"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "zêdetir"
+
+msgid "More tags:"
+msgstr "zêdetir etîket"
+
+msgid "mosaic"
+msgstr "mozayîk"
+
+msgid "mouse x:"
+msgstr "mişk  x:"
+
+msgid "mouse y:"
+msgstr "mişk  y:"
+
+msgid "mouse-pointer"
+msgstr "mişk-nîşandar"
+
+msgid "Move"
+msgstr "Bileqînin"
+
+msgid "Music"
+msgstr "Muzîk"
+
+msgid "My Projects"
+msgstr "Projeyê min"
+
+msgid "new"
+msgstr "nû"
+
+msgid "New"
+msgstr "Nû"
+
+msgid "New background:"
+msgstr "Binpaşkeka nû"
+
+msgid "New costume:"
+msgstr "Kostumeka nû"
+
+msgid "New file name?"
+msgstr "Navî peldanka nû?"
+
+msgid "New Filename:"
+msgstr "Navî Peldanka Nû:"
+
+msgid "New sound:"
+msgstr "Dengî nû:"
+
+msgid "New Sprite"
+msgstr "Karektereka Nû"
+
+msgid "New sprite:"
+msgstr "Karektereka nû:"
+
+msgid "No"
+msgstr "Na"
+
+msgid "No MIDI ports currently available."
+msgstr "Hîç MIDI port niha ne avane"
+
+msgid "No motion blocks"
+msgstr "Hîç blokên hereketê tunene"
+
+msgid "no scripts"
+msgstr "Hîç nivîsk tunene"
+
+msgid "No serial ports found"
+msgstr "Hîç portên dûz nehatin dîtin"
+
+msgid "No variables."
+msgstr "Hîç Guhêrbar tunene"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "normal readout"
+msgstr "nivîsara grafîkî a normal"
+
+msgid "Off"
+msgstr "Girtî"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "Vekirî"
+
+msgid "only face left-right"
+msgstr "tenê ber bi çepe yanjî raste"
+
+msgid "Open"
+msgstr "Veke"
+
+msgid "Open a Scratch project"
+msgstr "Projeyeka Scratch veke"
+
+msgid "Open Project"
+msgstr "Projeyê veke"
+
+msgid "or"
+msgstr "ya jî"
+
+msgid "Paint"
+msgstr "Boyax"
+
+msgid "Paint Editor"
+msgstr "Verastker a Boyaxê"
+
+msgid "Paint new sprite"
+msgstr "Karektereka nû boyax ke"
+
+msgid "Paintbrush"
+msgstr "Firça Boyaxê"
+
+msgid "Password:"
+msgstr "Şîfre:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Sedî? (100 mezinîya orjînal dide)"
+
+msgid "Pictures"
+msgstr "Wêne"
+
+msgid "pixelate"
+msgstr "cûre cûr pixel parveke"
+
+msgid "play"
+msgstr "bileyîz"
+
+msgid "Please enter a number"
+msgstr "Kerema xwe nimerekê binivîsîne"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Navendîya zivirandinê bi tomarkerê eyar bike"
+
+msgid "Preparing project..."
+msgstr "Proje amade dibe..."
+
+msgid "Project author:"
+msgstr "Xwedîyê projeyê:"
+
+msgid "Project name"
+msgstr "Navê projeyê"
+
+msgid "Project Notes"
+msgstr "Nîşanka Projeyê"
+
+msgid "Project notes"
+msgstr "Nîşanka projeyê"
+
+msgid "Project uploaded."
+msgstr "Proje lêbarbû."
+
+msgid "Projects"
+msgstr "Proje"
+
+msgid "Quit"
+msgstr "Derkeve"
+
+msgid "Quit Scratch"
+msgstr "Ji Scratch derkeve"
+
+msgid "Reading"
+msgstr "Xwendin"
+
+msgid "record"
+msgstr "tomarkirin"
+
+msgid "Record"
+msgstr "Tomarkirin"
+
+msgid "recording"
+msgstr "tê tomarkirin"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Amûra Çarkoşe (Çarkoşeyên vala yanjî Çarkoşeyên tijî çixîz ke)"
+
+msgid "Redo"
+msgstr "Pêşve"
+
+msgid "Reference Guide"
+msgstr "Rêbera Referansan"
+
+msgid "Remote sensor connections enabled"
+msgstr "Grêdanka qumand a dûr amadeye"
+
+msgid "Remove viewer from stage"
+msgstr "Temaşeger li ser dikê rake"
+
+msgid "resistance"
+msgstr "rezîstans"
+
+msgid "resize this sprite"
+msgstr "Vê Aferînekê dîsa biguhêre"
+
+msgid "reverse"
+msgstr "dij"
+
+msgid "right"
+msgstr "rast"
+
+msgid "right arrow"
+msgstr "tîra rast"
+
+msgid "Rotate clock-wise"
+msgstr "Hêla seetê de bizivirîne"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Dijî hêla seetê de bizivirîne"
+
+msgid "rotate this sprite"
+msgstr "Vê Aferînekê bizivirîne"
+
+msgid "Rotation degrees?"
+msgstr "Dereca zivirandinê?"
+
+msgid "Save"
+msgstr "Qeyd ke"
+
+msgid "Save a copy of the current project"
+msgstr "Kopyeka projeya niha qeyd ke"
+
+msgid "Save As"
+msgstr "Wekî din Qeyd ke"
+
+msgid "Save changes before quitting?"
+msgstr "Berî derketinê guhartinan qeyd ke "
+
+msgid "Save failed"
+msgstr "Qeyd nebû!"
+
+msgid "save picture of scripts"
+msgstr "wêneyên nivîskê qeyd ke"
+
+msgid "save picture of stage..."
+msgstr "wêneyên dikê qeyd ke..."
+
+msgid "Save Project"
+msgstr "Projeyê qeyd ke"
+
+msgid "Save Scripts Snapshot"
+msgstr "Resmên nivîskê qeyd ke"
+
+msgid "Save Stage Shot"
+msgstr "Resmên dikê qeyd ke"
+
+msgid "Save the current project"
+msgstr "Projeya niha qeyd ke"
+
+msgid "Save the current project?"
+msgstr "Projeya niha qeyd ke?"
+
+msgid "Save this project"
+msgstr "Vê Projeyê qeyd ke"
+
+msgid "Scripts"
+msgstr "Nivîsk"
+
+msgid "select serial/USB port"
+msgstr "vebijêre dûz/USB port"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Amûra vebijartinê (leqandin, guhartin yanjî paqijkirina cihî vebijartî)"
+
+msgid "Set costume center"
+msgstr "Navenda kostumê eyar bike"
+
+msgid "Set language"
+msgstr "Ziman eyar bike"
+
+msgid "Set rotation center"
+msgstr "Navanda zivirandinê eyar bike"
+
+msgid "Set Single Stepping"
+msgstr "Gav-bi-gav xebitandinê eyar bike"
+
+msgid "set slider min and max"
+msgstr "Ji bo Tapan herî kêm û zêde eyar bike"
+
+msgid "Share"
+msgstr "Parveke"
+
+msgid "Share this project"
+msgstr "Vê projeyê parveke"
+
+msgid "Share This Project Online"
+msgstr "Vê projeyê Onlîne parveke"
+
+msgid "Show Motor Blocks"
+msgstr "Blokên Motorê şanîke"
+
+msgid "show ScratchBoard watcher"
+msgstr "ScratchBoard şopandar şanîke"
+
+msgid "Shrink"
+msgstr "Biçûk kirin"
+
+msgid "Shrink sprite"
+msgstr "Aferînekê biçûk bike"
+
+msgid "Simulation"
+msgstr "Sîmûlasyon"
+
+msgid "Single-step speed?"
+msgstr "Gav-bi-gav hewldan?"
+
+msgid "slider"
+msgstr "Tapan"
+
+msgid "Slider range:"
+msgstr "Navbera tapan:"
+
+msgid "Sound quality:"
+msgstr "Qalîta Deng:"
+
+msgid "Sound Recorder"
+msgstr "Tomarkera Deng"
+
+msgid "Sounds"
+msgstr "Deng"
+
+msgid "Sounds compressed"
+msgstr "Deng hatine şitandin"
+
+msgid "space"
+msgstr "valayî"
+
+msgid "Sprite"
+msgstr "Aferînek"
+
+msgid "Sprites"
+msgstr "Aferînek"
+
+msgid "sqrt"
+msgstr "sqrt"
+
+msgid "Stage"
+msgstr "Dik"
+
+msgid "Stage selected:"
+msgstr "Dik hate vebijartin:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Amûra morê(demxe)(qadê vebijêre, dûvre bi morê kopye bikin)"
+
+msgid "Start green flag scripts"
+msgstr "Bi fermana ala kesk destpêbike"
+
+msgid "Start Single Stepping"
+msgstr "Gav-bi-gav xebitandinê destpêbike"
+
+msgid "stop"
+msgstr "raweste"
+
+msgid "Stop everything"
+msgstr "Her tiştî rawestîne"
+
+msgid "Stop Single Stepping"
+msgstr "Gav-bi-gav xebitandinê rawestîne"
+
+msgid "Story"
+msgstr "çîrok"
+
+msgid "Support Site"
+msgstr "Destek bide Malperê"
+
+msgid "Switch colors"
+msgstr "Rengan biguhêre"
+
+msgid "Switch to full stage"
+msgstr "Biguhêre dika bitûn"
+
+msgid "Switch to presentation mode"
+msgstr "Biguhêre moda raberkirinê"
+
+msgid "Switch to small stage"
+msgstr "Biguhêre dika biçûk"
+
+msgid "Tags:"
+msgstr "Etîket:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Amûra tekst (qatên teksta verastîne)"
+
+msgid "That variable name is already in use"
+msgstr "Ew navî guhêrbar tê bikaranîn"
+
+msgid "that way"
+msgstr "ew rê"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Navî peldankê berê de heye. Binivîse ser Peldanka heyî?"
+
+msgid "thing"
+msgstr "tişt"
+
+msgid "this way"
+msgstr "Va rêya"
+
+msgid "tilt"
+msgstr "meyl"
+
+msgid "true"
+msgstr "rast"
+
+msgid "Turbo speed"
+msgstr "lezbûna turbo"
+
+msgid "turn into new sprite"
+msgstr "Veguhêrin ser Aferînekî nû"
+
+msgid "Undelete"
+msgstr "Paqijkirin şûnda vegerîne"
+
+msgid "Undo"
+msgstr "Şûnda vegerîne"
+
+msgid "up"
+msgstr "ber bi jor"
+
+msgid "up arrow"
+msgstr "tîra jor"
+
+msgid "Updating thumbnails"
+msgstr "Rojaneyîna minyaturwêneyan"
+
+msgid "Upload succeeded!"
+msgstr "Lêbarkirin serkeft!"
+
+msgid "Upload to Scratch Server"
+msgstr "Li Scratch Server(Peydeker) barbike"
+
+msgid "Uploading"
+msgstr "Tê lêbarkirin"
+
+msgid "Variable name?"
+msgstr "Navî guhêrbar"
+
+msgid "View on stage"
+msgstr "Li ser dikê lê mêzîne"
+
+msgid "What's your name?"
+msgstr "Navî te çîye?"
+
+msgid "whirl"
+msgstr "Zû bizîvire"
+
+msgid "world"
+msgstr "gerdûn"
+
+msgid "Write Multiple Project Summaries"
+msgstr "Nimûneya Projeya pirbarî binivîsînin"
+
+msgid "Write Project Summary"
+msgstr "Nimûneya Projê binivîsîne"
+
+msgid "Yes"
+msgstr "Erê"
+
+msgid "Your project is now online at"
+msgstr "Projeya te niha online li"
+
+msgid "Your Scratch website login name:"
+msgstr "Navî teyî ji bo têketina Malpera Scratch:"
+
+msgid "Zoom in"
+msgstr "Nêzîktir be"
+
+msgid "Zoom out"
+msgstr "Dûrtir be"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Akordîyon"
+
+msgid "Acoustic Bass"
+msgstr "Basa Akûstîk"
+
+msgid "Acoustic Bass Drum"
+msgstr "Dahola Basa Akûstîk"
+
+msgid "Acoustic Grand"
+msgstr "Pîyanoya Akûstîk"
+
+msgid "Acoustic Snare"
+msgstr "Snara Akûstîk"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Saksofona Alto"
+
+msgid "Applause"
+msgstr "Çepik"
+
+msgid "Bagpipe"
+msgstr "Gayda"
+
+msgid "Banjo"
+msgstr "Banco"
+
+msgid "Baritone Sax"
+msgstr "Saksafona Bariton"
+
+msgid "Bass Drum 1"
+msgstr "Dahola Bas 1"
+
+msgid "Bassoon"
+msgstr "Fagot"
+
+msgid "Bird Tweet"
+msgstr "Dengên Çûçikan"
+
+msgid "Blown Bottle"
+msgstr "Pifkirina Şûşeyan"
+
+msgid "Brass Section"
+msgstr "Enstrumanên Pifkirinê"
+
+msgid "Breath Noise"
+msgstr "Dengê bêhnstandinê"
+
+msgid "Bright Acoustic"
+msgstr "Akûstîka vekirî"
+
+msgid "Cabasa"
+msgstr "Kabasa"
+
+msgid "Celesta"
+msgstr "Selesta"
+
+msgid "Cello"
+msgstr "Sello"
+
+msgid "Chinese Cymbal"
+msgstr "Zengila Çînî"
+
+msgid "Choir Aahs"
+msgstr "Aa Dengî Koro"
+
+msgid "Church Organ"
+msgstr "Orga Dêr"
+
+msgid "Clarinet"
+msgstr "Klarinet"
+
+msgid "Claves"
+msgstr "Klaves"
+
+msgid "Clavinet"
+msgstr "Klavinet"
+
+msgid "Closed Hi-Hat"
+msgstr "Hi-Hat a Girtî"
+
+msgid "Contrabass"
+msgstr "Kontra Bas"
+
+msgid "Cowbell"
+msgstr "Kowbel"
+
+msgid "Crash Cymbal 1"
+msgstr "Zengil a Krash 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Zengil a Krash 2"
+
+msgid "Distortion Guitar"
+msgstr "Gîtara Dîstorsiyon"
+
+msgid "Drawbar Organ"
+msgstr "Orga têkişandin"
+
+msgid "Dulcimer"
+msgstr "Gayda"
+
+msgid "Electric Bass (finger)"
+msgstr "Basa Elektrîk (bi pêçî)"
+
+msgid "Electric Bass (pick)"
+msgstr "Basa Elektrîk(bi mizrab)"
+
+msgid "Electric Clean Guitar"
+msgstr "Gîtara Elektrîkî"
+
+msgid "Electric Grand"
+msgstr "Pîyanoya elektrîkî a biboçik"
+
+msgid "Electric Jazz Guitar"
+msgstr "Gîtara Caz a Elektrîkî"
+
+msgid "Electric Muted Guitar"
+msgstr "Gîtara Elektrîkî a mûr"
+
+msgid "Electric Piano 1"
+msgstr "Pîyanoya Elektrîkî  1"
+
+msgid "Electric Piano 2"
+msgstr "Pîyanoya Elektrîkî  2"
+
+msgid "Electric Snare"
+msgstr "Trampeta Elektrîkî"
+
+msgid "English Horn"
+msgstr "Nefîra Muzîk a Îngilîzî"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (baran)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (muzîk a fîlm)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (krîstal)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (atmosfer)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (newnaqî)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX 6 (cin)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (eko)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (zanistî-badek)"
+
+msgid "Fiddle"
+msgstr "Keman"
+
+msgid "Flute"
+msgstr "Flût"
+
+msgid "French Horn"
+msgstr "Nefîra Muzîkê a Frengî"
+
+msgid "Fretless Bass"
+msgstr "Bas a pêlpêlî"
+
+msgid "Glockenspiel"
+msgstr "Zengila Orkestra"
+
+msgid "Guitar Fret Noise"
+msgstr "Dengî Perde a Gîtar"
+
+msgid "Guitar Harmonics"
+msgstr "Gîtar a harmonîk"
+
+msgid "Gunshot"
+msgstr "Dengî Çekê"
+
+msgid "Hand Clap"
+msgstr "Çepik"
+
+msgid "Harmonica"
+msgstr "Harmonîka"
+
+msgid "Harpsichord"
+msgstr "Pîyanoyeka kevn"
+
+msgid "Helicopter"
+msgstr "Helikopter"
+
+msgid "Hi Bongo"
+msgstr "Hi Bongo"
+
+msgid "Hi Wood Block"
+msgstr "Hi Bloka Texte"
+
+msgid "Hi-Mid Tom"
+msgstr "Dahol a mezin"
+
+msgid "High Agogo"
+msgstr "Agogo a bilind"
+
+msgid "High Floor Tom"
+msgstr "Dahol a berwarî"
+
+msgid "High Timbale"
+msgstr "Trampet a bilind"
+
+msgid "High Tom"
+msgstr "Dahol a bilind"
+
+msgid "Honky-Tonk"
+msgstr "Cihî bezmê"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto ( Amûra Muzîk a Japon)"
+
+msgid "Lead 1 (square)"
+msgstr "1. rêz (kare)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "2.rêz (didanê birekê)"
+
+msgid "Lead 3 (calliope)"
+msgstr "3. rêz (calliope)"
+
+msgid "Lead 4 (chiff)"
+msgstr "4.rêz (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "5.rêz (charang)"
+
+msgid "Lead 6 (voice)"
+msgstr "6. rêz (deng)"
+
+msgid "Lead 7 (fifths)"
+msgstr "7. rêz (fifths)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "8.rêz(bass+lead)"
+
+msgid "Long Guiro"
+msgstr "Guiro dirêj"
+
+msgid "Long Whistle"
+msgstr "Tûtik a dirêj"
+
+msgid "Low Agogo"
+msgstr "Agogo a kin"
+
+msgid "Low Bongo"
+msgstr "Bongo kin"
+
+msgid "Low Conga"
+msgstr "Tomba kin"
+
+msgid "Low Floor Tom"
+msgstr "Dahol a kin berwarî"
+
+msgid "Low Timbale"
+msgstr "Trampet a kin"
+
+msgid "Low Tom"
+msgstr "Dahol a kin"
+
+msgid "Low Wood Block"
+msgstr "Bloka Textîn a kin"
+
+msgid "Low-Mid Tom"
+msgstr "Dahola kin-navîn"
+
+msgid "Maracas"
+msgstr "Maracas"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Dahola melodîk"
+
+msgid "Music Box"
+msgstr "Qutîya Muzîk"
+
+msgid "Mute Cuica"
+msgstr "Cuica korîkî"
+
+msgid "Mute Hi Conga"
+msgstr "Tumba korîkî"
+
+msgid "Mute Triangle"
+msgstr "Sêkoşe a korîkî"
+
+msgid "Muted Trumpet"
+msgstr "Trompet a korîkî"
+
+msgid "Nylon String Guitar"
+msgstr "Klasîk Gîtar"
+
+msgid "Oboe"
+msgstr "Obua"
+
+msgid "Ocarina"
+msgstr "Okarina"
+
+msgid "Open Cuica"
+msgstr "Cuica Vekirî"
+
+msgid "Open Hi Conga"
+msgstr "Hi Conga (Tumba) a Vekirî"
+
+msgid "Open Hi-Hat"
+msgstr "Hi-Hat(Zengil) a Vekirî"
+
+msgid "Open Triangle"
+msgstr "Sêkoşe a vekirî"
+
+msgid "Orchestra Hit"
+msgstr "Orkestra Hit"
+
+msgid "Orchestral Strings"
+msgstr "Orkestra Amûrên Têlîn"
+
+msgid "Overdriven Guitar"
+msgstr "Gîtara hêzdarkirî"
+
+msgid "Pad 1 (new age)"
+msgstr "Pad 1 (sala nû)"
+
+msgid "Pad 2 (warm)"
+msgstr "Pad 2 (germ)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Pad 3 (pirdengî)"
+
+msgid "Pad 4 (choir)"
+msgstr "Pad 4 (koro)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Pad 5 (xûz)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Pad 6 (lajwerdî)"
+
+msgid "Pad 7 (halo)"
+msgstr "Pad 7 (bazna ronî)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Pad 8 (damalandin)"
+
+msgid "Pan Flute"
+msgstr "Pan Flût"
+
+msgid "Pedal Hi-Hat"
+msgstr "Hi-Hat(Zengil) a bi Pêlgeh"
+
+msgid "Percussive Organ"
+msgstr "Amûrên lêdanî"
+
+msgid "Piccolo"
+msgstr "Piccolo( Fluta biçûk)"
+
+msgid "Pizzicato Strings"
+msgstr "Têlên Kemanê"
+
+msgid "Recorder"
+msgstr "Blok Flut (Recorder)"
+
+msgid "Reed Organ"
+msgstr "Org a depîn"
+
+msgid "Reverse Cymbal"
+msgstr "Zengil a vajî"
+
+msgid "Ride Bell"
+msgstr "Zîl a Bisîklet"
+
+msgid "Ride Cymbal 1"
+msgstr "Zengil a Bisîklet 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Zengil a Bisîklet 2"
+
+msgid "Rock Organ"
+msgstr "Org a Rock"
+
+msgid "Seashore"
+msgstr "Kêleka Derya"
+
+msgid "Shakuhachi"
+msgstr "Flûta Bambu"
+
+msgid "Shamisen"
+msgstr "Amûra bi Têlîn a Japon (Shamisen)"
+
+msgid "Shanai"
+msgstr "Zirna Hîndî"
+
+msgid "Short Guiro"
+msgstr "Guiro a kin"
+
+msgid "Short Whistle"
+msgstr "Tûtik a kin"
+
+msgid "Side Stick"
+msgstr "bişemitîne kêlekê"
+
+msgid "Sitar"
+msgstr "Sitar"
+
+msgid "Slap Bass 1"
+msgstr "Bas Gîtar 1"
+
+msgid "Slap Bass 2"
+msgstr "Bas Gîtar 2"
+
+msgid "Soprano Sax"
+msgstr "Soprano Saksafon"
+
+msgid "Splash Cymbal"
+msgstr "Zengil lêdan"
+
+msgid "Steel Drums"
+msgstr "Dahola Pola"
+
+msgid "Steel String Guitar"
+msgstr "Akustik Gîtar"
+
+msgid "String Ensemble 1"
+msgstr "Deng Grup 1"
+
+msgid "String Ensemble 2"
+msgstr "Deng Grup 2"
+
+msgid "Synth Bass 1"
+msgstr "Synth Bas 1"
+
+msgid "Synth Bass 2"
+msgstr "Synth Bas 2"
+
+msgid "Synth Drum"
+msgstr "Synth Dahol"
+
+msgid "Synth Voice"
+msgstr "Synth Deng"
+
+msgid "SynthBrass 1"
+msgstr "Synth Bando 1"
+
+msgid "SynthBrass 2"
+msgstr "Synth Bando 2"
+
+msgid "SynthStrings 1"
+msgstr "Synth Amûra bi Têl 1"
+
+msgid "SynthStrings 2"
+msgstr "Synth Amûra bi Têl 2"
+
+msgid "Taiko Drum"
+msgstr "Taiko Dahol"
+
+msgid "Tambourine"
+msgstr "Tambûrîn"
+
+msgid "Tango Accordion"
+msgstr "Tango Akordiyon"
+
+msgid "Telephone Ring"
+msgstr "Dengî Telefon"
+
+msgid "Tenor Sax"
+msgstr "Tenor Saksafon"
+
+msgid "Timpani"
+msgstr "Timpani (Dahol)"
+
+msgid "Tinkle Bell"
+msgstr "Çıngırak"
+
+msgid "Tremolo Strings"
+msgstr "Titrek Ses"
+
+msgid "Trombone"
+msgstr "Trombon"
+
+msgid "Trumpet"
+msgstr "Trompet"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "Dengên Nefîr"
+
+msgid "Vibraphone"
+msgstr "Vibrafon"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "Viola"
+msgstr "Viyola"
+
+msgid "Violin"
+msgstr "Keman"
+
+msgid "Voice Oohs"
+msgstr "Dengî Ohh"
+
+msgid "Whistle"
+msgstr "Tûtik"
+
+msgid "Woodblock"
+msgstr "Blok a Textî"
+
+msgid "Xylophone"
+msgstr "Ksilofon"

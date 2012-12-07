@@ -1,0 +1,1921 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-12-22 20:14-0400\n"
+"Last-Translator: Yolanda Campos Campos <yola.campos@gmail.com>\n"
+"Language-Team: \n"
+"Language: hch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.2.1\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Wixarika"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr ""
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H kemürayeâxe tsentsuri"
+
+msgid "%L contains %s"
+msgstr ""
+
+msgid "%a of %m"
+msgstr "%a pinieya %m"
+
+msgid "%b and %b"
+msgstr "%b yaî %b"
+
+msgid "%b or %b"
+msgstr "%b yatüni %b"
+
+msgid "%f of %n"
+msgstr "%f pinieya %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "%s penutipaürita %L"
+
+msgid "answer"
+msgstr ""
+
+msgid "ask %s and wait"
+msgstr ""
+
+msgid "background #"
+msgstr "kemayeâne #"
+
+msgid "broadcast %e"
+msgstr "yunaitü püwaranunüâirie %e"
+
+msgid "broadcast %e and wait"
+msgstr "yunaitü püwaranunüâirie %e yaî pütaîkuewani"
+
+msgid "change %g effect by %n"
+msgstr "püpata %g êpetu xeimeküküpüta %n"
+
+msgid "change %v by %n"
+msgstr "püpata %v xeimeküküpüta %n"
+
+msgid "change pen color by %n"
+msgstr "rapi tauxiyari püpata xeimeküküpüta %n"
+
+msgid "change pen shade by %n"
+msgstr "rapi tauxiyari hanutiyakame püpata xeimeküküpüta %n"
+
+msgid "change pen size by %n"
+msgstr "rapi kemüpa püpata xeimeküküpüta %n"
+
+msgid "change size by %n"
+msgstr "pipata kemüpa xeimeküküpüta %n"
+
+msgid "change tempo by %n"
+msgstr "pipata (tempo) xeimeküküpüta %n"
+
+msgid "change volume by %n"
+msgstr "pipata menutiwieni xeimeküküpüta %n"
+
+msgid "change x by %n"
+msgstr "pipata x xeimeküküpüta %n"
+
+msgid "change y by %n"
+msgstr "pipata y xeimeküküpüta %n"
+
+msgid "clear"
+msgstr "peyeitüani"
+
+msgid "clear graphic effects"
+msgstr "piyeitüani êpetu kürikürapiku"
+
+msgid "color %C is touching %C?"
+msgstr "¿tauxi %C heima pitawirieni%C?"
+
+msgid "control"
+msgstr "kunitururi"
+
+msgid "costume #"
+msgstr "# kemari"
+
+msgid "delete %y of %L"
+msgstr "peyeitüani %y ketita %L"
+
+msgid "direction"
+msgstr "kemütimie"
+
+msgid "distance to %m"
+msgstr "wa kemeutatewa %m"
+
+msgid "else"
+msgstr ""
+
+msgid "forever"
+msgstr "ya ânemekü"
+
+msgid "forever if %b"
+msgstr "hü Ya ânemekü %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "wa %n püyeyani tsekunitu x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "yu kuta %n pitanüâni "
+
+msgid "go to %m"
+msgstr "wa pümie %m"
+
+msgid "go to front"
+msgstr "hüxiena pitanüâni"
+
+msgid "go to x:%n y:%n"
+msgstr "wa pümie x:%n y:%n"
+
+msgid "hide"
+msgstr "pitiâwieta"
+
+msgid "hide variable %v"
+msgstr "pitiâwieta pariâpüre"
+
+msgid "if %b"
+msgstr "hü %b"
+
+msgid "if on edge, bounce"
+msgstr "pawene xüka tiutawaxüani tetsitana"
+
+msgid "insert %s at %i of %L"
+msgstr "pitawiyatsitäuni %s hetsiena %i ketita %L"
+
+msgid "item %i of %L"
+msgstr "îtemi %i ketita %L"
+
+msgid "join %s %s"
+msgstr ""
+
+msgid "key %k pressed?"
+msgstr "¿teküra %k tsinatü?"
+
+msgid "length of %L"
+msgstr "kemütewi ketita %L"
+
+msgid "length of %s"
+msgstr "kemütewi ketita %s"
+
+msgid "letter %n of %s"
+msgstr ""
+
+msgid "list"
+msgstr "memakaûtse"
+
+msgid "looks"
+msgstr "waâtü"
+
+msgid "loud?"
+msgstr "¿kui ûyuaneme?"
+
+msgid "loudness"
+msgstr "mikuyuitüwa müêniüriükü"
+
+msgid "motion"
+msgstr "mukuyuake"
+
+msgid "motor direction %W"
+msgstr ""
+
+msgid "motor off"
+msgstr ""
+
+msgid "motor on"
+msgstr ""
+
+msgid "motor on for %n secs"
+msgstr ""
+
+msgid "motor power %n"
+msgstr ""
+
+msgid "mouse down?"
+msgstr "¿naika katsinatü?"
+
+msgid "mouse x"
+msgstr "naika x pinieya"
+
+msgid "mouse y"
+msgstr "naika y pinieya"
+
+msgid "move %n steps"
+msgstr "pukuyuani %n yeyani"
+
+msgid "next background"
+msgstr "tawari xewitü kemayeâne"
+
+msgid "next costume"
+msgstr "tawari xewitü kemari"
+
+msgid "not %b"
+msgstr "waikü %b"
+
+msgid "operators"
+msgstr ""
+
+msgid "pen"
+msgstr "rapi"
+
+msgid "pen down"
+msgstr "rapi pakakueni"
+
+msgid "pen up"
+msgstr "rapi peutituani"
+
+msgid "pick random %n to %n"
+msgstr "înüari kepai müînüaritüani hakewa %n y %n"
+
+msgid "play drum %D for %n beats"
+msgstr "pitayuitüani tepu %D reuteteretü %n îküpünatü"
+
+msgid "play note %N for %n beats"
+msgstr "pitayuitüani nuta %N reuteteretü %n îküpünatü"
+
+msgid "play sound %S"
+msgstr "pitayuitüani müêniuriükü %S"
+
+msgid "play sound %S until done"
+msgstr "pitayuitüani müêniüriükü yaî pikuewieni"
+
+msgid "point in direction %d"
+msgstr "peitanieritüani hake memie %d"
+
+msgid "point towards %m"
+msgstr "hake peitanieritüani %m"
+
+msgid "repeat %n"
+msgstr "hutarieka %n"
+
+msgid "repeat until %b"
+msgstr "hutarieka xüka keri %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "pipata %i ketitakü %L %s"
+
+msgid "reset timer"
+msgstr "hutarieka pitsutüani kurumeturu"
+
+msgid "rest for %n beats"
+msgstr "kiüri %n îküpunatü"
+
+msgid "round %n"
+msgstr "âurie %n"
+
+msgid "say %s"
+msgstr "pütayüni %s"
+
+msgid "say %s for %n secs"
+msgstr "pütayüni %s tsekunitu %n hanukayeikakaku"
+
+msgid "sensing"
+msgstr "tsenitsure"
+
+msgid "sensor %h?"
+msgstr "¿tsenitsure tatü%h?"
+
+msgid "set %g effect to %n"
+msgstr "wa %g piwetsitüani êpetu %n"
+
+msgid "set %v to %n"
+msgstr "wa %v piwetsitüani %n"
+
+msgid "set instrument to %I"
+msgstr "wa piwetsitüani îtsiturumenitu %I"
+
+msgid "set pen color to %c"
+msgstr "wa piwetsitüani tauxi kemüâne rapi %c"
+
+msgid "set pen color to %n"
+msgstr "wa piwetsitüani tauxi kemüâne rapi %n"
+
+msgid "set pen shade to %n"
+msgstr "wa piwetsitüani hanutiyakame rapi %n"
+
+msgid "set pen size to %n"
+msgstr "wa piwetsitüani kepame rapi %n "
+
+msgid "set size to %n%"
+msgstr "wa piwetsitüani n %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "wa piwetsitüani (tempo) %n ppm"
+
+msgid "set volume to %n%"
+msgstr "wa piwetsitüani menutiùra %n%"
+
+msgid "set x to %n"
+msgstr "wa piwetsitüani x %n"
+
+msgid "set y to %n"
+msgstr "wa piwetsitüani y %n"
+
+msgid "show"
+msgstr "piyetsera"
+
+msgid "show variable %v"
+msgstr "piyetsera pariapüre"
+
+msgid "size"
+msgstr "keneme"
+
+msgid "sound"
+msgstr "mayuake"
+
+msgid "stamp"
+msgstr "tseyu peumani"
+
+msgid "stop all"
+msgstr "pewakeni naitü"
+
+msgid "stop all sounds"
+msgstr "püwakeni naitü mayuake"
+
+msgid "stop script"
+msgstr "püwakeni purukurama"
+
+msgid "switch to background %l"
+msgstr "wa pipata kemayeâne %l"
+
+msgid "switch to costume %l"
+msgstr "wa pipata kemarite %l"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "ketiêrieni %s"
+
+msgid "think %s for %n secs"
+msgstr "ketiêrieni %s tsekunitu %n hanukayeikakaku"
+
+msgid "timer"
+msgstr "kürunumeturu"
+
+msgid "touching %m?"
+msgstr "¿pikuwiwiya%m?"
+
+msgid "touching color %C?"
+msgstr "¿tauxi mukuwiwiya%C?"
+
+msgid "turn %n degrees"
+msgstr "taâurie paweni küraru"
+
+msgid "variables"
+msgstr "pariâpure"
+
+msgid "volume"
+msgstr "nanutiwi"
+
+msgid "wait %n secs"
+msgstr "tsekutu %n kuewieni"
+
+msgid "wait until %b"
+msgstr "kuewieni ânake%b"
+
+msgid "when %k key pressed"
+msgstr "teküra müpüna tsie"
+
+msgid "when %m clicked"
+msgstr "mipüna %m tsie"
+
+msgid "when I receive %e"
+msgstr "menupini tsie%e"
+
+msgid "x position"
+msgstr "putsitsiuni x"
+
+msgid "y position"
+msgstr "putsitsiuni y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(hayewakitü)"
+
+msgid "1 script"
+msgstr "1 pururama"
+
+msgid "About Scratch"
+msgstr "keâne Scratch"
+
+msgid "About this project:"
+msgstr "keâne îkü puruyetu"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "pitamüani kemüâneni"
+
+msgid "add comment here"
+msgstr "pitamüani xeime kemüâneni êna"
+
+msgid "all"
+msgstr "yunaitü"
+
+msgid "and"
+msgstr "yaî"
+
+msgid "Animation"
+msgstr ""
+
+msgid "any"
+msgstr "kepaitsietü"
+
+msgid "Art"
+msgstr ""
+
+msgid "background"
+msgstr "kemayeâne"
+
+msgid "backgrounds"
+msgstr "kemayeânene"
+
+msgid "Backgrounds"
+msgstr "Kemayeânene"
+
+msgid "brightness"
+msgstr "pümerükaüye"
+
+msgid "Brush size: "
+msgstr "kepame purucha"
+
+msgid "button"
+msgstr "putüni"
+
+msgid "button pressed"
+msgstr "putüni pünatü"
+
+msgid "Camera"
+msgstr ""
+
+msgid "can rotate"
+msgstr "kiru âwiritaru"
+
+msgid "cancel"
+msgstr "Neuhayewa"
+
+msgid "Cancel"
+msgstr "Neuhayewa"
+
+msgid "Choose a folder"
+msgstr "panuyewauni karüpeta"
+
+msgid "Choose new sprite from file"
+msgstr "panuyewauni xei hekuame pururama ârüchipu mieme"
+
+msgid "clean up"
+msgstr "pitaîtieni"
+
+msgid "Clear"
+msgstr "Pitaîtieni"
+
+msgid "Clear canvas"
+msgstr "pitaîtieni rienitsu mieme"
+
+msgid "Close and continue"
+msgstr ""
+
+msgid "Close dialog?"
+msgstr "¿reunani niuki?"
+
+msgid "Close paint editor?"
+msgstr "¿reunani êrituri tipuku mieme?"
+
+msgid "close port"
+msgstr "reunani pueritu"
+
+msgid "Close sound recorder?"
+msgstr "¿reunani kürawarura tsunitu mieme?"
+
+msgid "color"
+msgstr "tauxi"
+
+msgid "Compress Images"
+msgstr "pitipetsina îmaketsixi"
+
+msgid "Compress Sounds"
+msgstr "pitipetsina tsuniru"
+
+msgid "Compress sounds and images"
+msgstr "pitipetsina tsuniru mayani îmaketsixi"
+
+msgid "Computer"
+msgstr "kuputarura"
+
+msgid "connected"
+msgstr "peuwie"
+
+msgid "Connecting to "
+msgstr "wa peuwie "
+
+msgid "Copy"
+msgstr "pekaùke"
+
+msgid "costume"
+msgstr "kemari"
+
+msgid "costumes"
+msgstr "kemarite"
+
+msgid "Costumes"
+msgstr "Kemarite"
+
+msgid "Could not read"
+msgstr "pükayüwe mitaterüwa"
+
+msgid "Could not read project; file may be damaged"
+msgstr "pükayüwe mitaterüwa puruyetu, ârichipu ânatü nimuri"
+
+msgid "Could not write file"
+msgstr "pükayüwe mütitaûtüani ârichipu"
+
+msgid "Create account"
+msgstr "pitawewieni kueta"
+
+msgid "Create an empty project"
+msgstr "pitawewieni puruyetu hekuame"
+
+msgid "Data sent. Waiting for response..."
+msgstr "puruyetu nüâriekame. Pitakuewie kemutayü"
+
+msgid "delete"
+msgstr "peyeitüani"
+
+msgid "Delete"
+msgstr "Peyeitüani"
+
+msgid "Delete a list"
+msgstr "peyeitüani memakaûtse"
+
+msgid "Delete a variable"
+msgstr "peyeitüani pariâpüre"
+
+msgid "Delete this background"
+msgstr ""
+
+msgid "Delete this costume"
+msgstr "peyeitüani îkü kemari"
+
+msgid "Delete this sound"
+msgstr "peyeitüani îkü tsuniru"
+
+msgid "Delete this sprite"
+msgstr ""
+
+msgid "Desktop"
+msgstr "êtsikürituriyu"
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr ""
+
+msgid "Documents"
+msgstr "xapate"
+
+msgid "don't rotate"
+msgstr "taâurie pükahehüani"
+
+msgid "Don't Save"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "down"
+msgstr "hetüa"
+
+msgid "down arrow"
+msgstr "ùrü heukaniereme"
+
+msgid "drag to resize"
+msgstr ""
+
+msgid "drag to rotate"
+msgstr ""
+
+msgid "draggable on website?"
+msgstr "¿piyehana êna web âpiritaru?"
+
+msgid "duplicate"
+msgstr "pihutariya"
+
+msgid "Duplicate"
+msgstr "pihutariya"
+
+msgid "edge"
+msgstr "tetsitana"
+
+msgid "Edit"
+msgstr "pitawewieni"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "keâne pini êritsexi (xiküraüye xeime neutawewi, âurie êritse hünetü)"
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr "panuhani mutu puretsenitatsiuni"
+
+msgid "Eraser"
+msgstr "yeitüwame"
+
+msgid "Eraser size"
+msgstr "kepa yeitüwame"
+
+msgid "Error!"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Exit presentation"
+msgstr ""
+
+msgid "Exit presentation mode"
+msgstr "payeyani mutu püretsenitatsiuni"
+
+msgid "export"
+msgstr "penünüâni"
+
+msgid "Export Background"
+msgstr "penünüâni kemayeâne"
+
+msgid "Export Costume"
+msgstr "penünüâni kemari"
+
+msgid "Export failed"
+msgstr "pükayüwekaxüa menunuâ"
+
+msgid "Export Sound"
+msgstr "penünüâni tsuniru"
+
+msgid "Export Sprite"
+msgstr "penünüâni ûketuru"
+
+msgid "export this costume"
+msgstr "penünüâni îkü ûketuru"
+
+msgid "export this sound"
+msgstr ""
+
+msgid "export this sprite"
+msgstr ""
+
+msgid "Extras menu"
+msgstr "Menu tawari"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "kuteru (mitiwaunikü tauxi)"
+
+msgid "Failed:"
+msgstr "pükahükü"
+
+msgid "false"
+msgstr "pükayuri"
+
+msgid "File"
+msgstr ""
+
+msgid "File not found"
+msgstr "pükaîtaxei ârüchipu"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "kemüâne pini meyehüniya taxikü "
+
+msgid "first"
+msgstr "manuyehaitüa"
+
+msgid "fisheye"
+msgstr "ketsü hüxieya"
+
+msgid "Flash blocks (fast)"
+msgstr "pitauximani puruke (kuitüwa)"
+
+msgid "Flash blocks (slow)"
+msgstr "pitauximani puruke (âxükai)"
+
+msgid "Flip horizontally"
+msgstr "taâurie pepaürita ûkaikame"
+
+msgid "Flip vertically"
+msgstr "taâurie pepaürita ûweme"
+
+msgid "For all sprites"
+msgstr "naime pini kepaümeme payani"
+
+msgid "For this sprite only"
+msgstr "îkü pini payani"
+
+msgid "Game"
+msgstr ""
+
+msgid "Get surprise sprite"
+msgstr "pini manatiheküare"
+
+msgid "Get the last thing deleted"
+msgstr "manawie pini muyeitürixü"
+
+msgid "Getting Started"
+msgstr ""
+
+msgid "ghost"
+msgstr ""
+
+msgid "Go To Scratch Website"
+msgstr ""
+
+msgid "grab screen region for new costume"
+msgstr "penuyewauni rekiuni meyeheküa xewitü hekuame kemari"
+
+msgid "grab screen region for new sprite"
+msgstr "penuyewauni rekiuni meyeheküa xewitü hekuame pini"
+
+msgid "Grow"
+msgstr "pitahana"
+
+msgid "Grow sprite"
+msgstr "pitahana pini"
+
+msgid "hello "
+msgstr ""
+
+msgid "Hello!"
+msgstr "!keâku!"
+
+msgid "help"
+msgstr "parewiya"
+
+msgid "Help"
+msgstr ""
+
+msgid "Help Page"
+msgstr ""
+
+msgid "Help Screens"
+msgstr ""
+
+msgid "Hide Motor Blocks"
+msgstr ""
+
+msgid "High (biggest)"
+msgstr "mutewi (kuini mawe)"
+
+msgid "Hmm..."
+msgstr "mmm…"
+
+msgid "Home"
+msgstr "mütayuani"
+
+msgid "Images compressed"
+msgstr "îmake petsinietükaime"
+
+msgid "import"
+msgstr "pitaîwauni"
+
+msgid "Import"
+msgstr "Pitaîwauni"
+
+msgid "Import an image on top of your current canvas"
+msgstr "pitaîwauni îmake heimana rienitsu hikü"
+
+msgid "Import Background"
+msgstr "pitaîwauni kemayeâne"
+
+msgid "Import Costume"
+msgstr "pitaîwauni kemari"
+
+msgid "Import Image"
+msgstr "pitaîwauni îmake"
+
+msgid "Import List"
+msgstr "pitaîwauni memakaûtse"
+
+msgid "Import Project"
+msgstr "Pitaîwauni puruyetu"
+
+msgid "import project"
+msgstr "pitaîwauni puruyetu"
+
+msgid "Import Sound"
+msgstr "pitaîwauni tsuniru"
+
+msgid "Incompatible Scratch file format"
+msgstr "purumatu âruchipu mükatikunanake"
+
+msgid "Is the folder read-only?"
+msgstr "¿karupeta kanihükütüni xeiküa terüwarika?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "karira JPG (10-100)"
+
+msgid "kbytes"
+msgstr "kbytes"
+
+msgid "Language"
+msgstr "kemütiuniuka"
+
+msgid "large readout"
+msgstr "êpatü"
+
+msgid "last"
+msgstr "manawie"
+
+msgid "left"
+msgstr "ûtata"
+
+msgid "left arrow"
+msgstr "ùrü ûtata"
+
+msgid "length"
+msgstr "kemayetewi"
+
+msgid "light"
+msgstr "heküa"
+
+msgid "Line tool (draw lines)"
+msgstr "keâne pini riniâ püyüni"
+
+msgid "List name?"
+msgstr "¿ketitewa memakaûtse?"
+
+msgid "Low"
+msgstr "chiûtewitü"
+
+msgid "Lowest (smallest)"
+msgstr "kui chimutewi"
+
+msgid "Make a list"
+msgstr "memakaûtse hekuame"
+
+msgid "Make a variable"
+msgstr "pariâpüre hekuame"
+
+msgid "Max:"
+msgstr "Max:"
+
+msgid "meow"
+msgstr "miau"
+
+msgid "Message name:"
+msgstr "kemütitewa metsake"
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "tawari"
+
+msgid "More tags:"
+msgstr "tawari êtiketatsixi"
+
+msgid "mosaic"
+msgstr "mutsaîku"
+
+msgid "mouse x:"
+msgstr "x naika pinieya"
+
+msgid "mouse y:"
+msgstr "y naika pinieya"
+
+msgid "mouse-pointer"
+msgstr "naika îtüwameya"
+
+msgid "Move"
+msgstr "pikuyuitüani"
+
+msgid "Music"
+msgstr "kuikari"
+
+msgid "My Projects"
+msgstr ""
+
+msgid "new"
+msgstr "hekuame"
+
+msgid "New"
+msgstr "Hekuame"
+
+msgid "New background:"
+msgstr "kemayeâne hekuame"
+
+msgid "New costume:"
+msgstr "hekuame kemari:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "hekuame kemütitewa ârichipu:"
+
+msgid "New sound:"
+msgstr "tsuniru hekuame:"
+
+msgid "New Sprite"
+msgstr ""
+
+msgid "New sprite:"
+msgstr "hekuame pini"
+
+msgid "No"
+msgstr "hawaikü"
+
+msgid "No MIDI ports currently available."
+msgstr "nixewitü pueêritu MIDI tiripunipüre"
+
+msgid "No motion blocks"
+msgstr "pukaxuawe puruke mukuyuake"
+
+msgid "no scripts"
+msgstr "pükaxuawe pururama"
+
+msgid "No serial ports found"
+msgstr "nixewitü puêritu tseriâri tiripunipüre"
+
+msgid "No variables."
+msgstr "püka xuawe pariâpüre"
+
+msgid "Normal"
+msgstr "yapüâne"
+
+msgid "normal readout"
+msgstr ""
+
+msgid "Off"
+msgstr "pütütse"
+
+msgid "OK"
+msgstr "keneupitüa"
+
+msgid "On"
+msgstr "pütaâ"
+
+msgid "only face left-right"
+msgstr "pixeiya xeiküa ûta-tserieta"
+
+msgid "Open"
+msgstr "peiyepieni"
+
+msgid "Open a Scratch project"
+msgstr "peiyepieni xei puruyetu Scratch mieme"
+
+msgid "Open Project"
+msgstr "peiyepieni puruyetu"
+
+msgid "or"
+msgstr "îyapüta"
+
+msgid "Paint"
+msgstr "pitauximani"
+
+msgid "Paint Editor"
+msgstr "tauxi mukumauwa"
+
+msgid "Paint new sprite"
+msgstr "pitauximani ûketu hekuame"
+
+msgid "Paintbrush"
+msgstr "purucha"
+
+msgid "Password:"
+msgstr "Müâwietsi"
+
+msgid "Percent? (100 gives original size)"
+msgstr "¿purutsetake? (100 kemupa mutawewiya)"
+
+msgid "Pictures"
+msgstr "putu"
+
+msgid "pixelate"
+msgstr "pitseritsaxi"
+
+msgid "play"
+msgstr "hutsuna"
+
+msgid "Please enter a number"
+msgstr "Kuerietü înüari keneukumayüa"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "âixüa pitekeni putu taâurie mehüani"
+
+msgid "Preparing project..."
+msgstr "pikuhaâritüani puruyetu"
+
+msgid "Project author:"
+msgstr "kepai mütatawewi puruyetu:"
+
+msgid "Project name"
+msgstr "kemütitewa puruyetu"
+
+msgid "Project Notes"
+msgstr "nuta kemüâne puruyetu"
+
+msgid "Project notes"
+msgstr "nuta kemüâne puruyetu"
+
+msgid "Project uploaded."
+msgstr "puruyetu memikumauwa yunaitü"
+
+msgid "Projects"
+msgstr "puruyetutsixi"
+
+msgid "Quit"
+msgstr "pihayewa"
+
+msgid "Quit Scratch"
+msgstr "pühayewa Scratch"
+
+msgid "Reading"
+msgstr ""
+
+msgid "record"
+msgstr "pekaùke"
+
+msgid "Record"
+msgstr "Pekaùke"
+
+msgid "recording"
+msgstr "ùkiya"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "ketimieme mayenauka"
+
+msgid "Redo"
+msgstr "yu kuta"
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "neunawairie mütaheküa kemürayemie"
+
+msgid "resistance"
+msgstr "ketinewie"
+
+msgid "resize this sprite"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "tserieta"
+
+msgid "right arrow"
+msgstr "ùrü tserieta"
+
+msgid "Rotate clock-wise"
+msgstr "taâurie pehüani menetsiya xeru kamütimie"
+
+msgid "Rotate counter-clock-wise"
+msgstr "taâurie pehüani menetsiya xeru yukuta kamütimie"
+
+msgid "rotate this sprite"
+msgstr ""
+
+msgid "Rotation degrees?"
+msgstr ""
+
+msgid "Save"
+msgstr "pitiûta"
+
+msgid "Save a copy of the current project"
+msgstr "pitiûta xei kupiya mükü puruyetu hikü mieme"
+
+msgid "Save As"
+msgstr "pitiûta yaâneme"
+
+msgid "Save changes before quitting?"
+msgstr ""
+
+msgid "Save failed"
+msgstr "pitiûta pükaùyüwekaxüa"
+
+msgid "save picture of scripts"
+msgstr "pitiûta îmake pururama tie mieme"
+
+msgid "save picture of stage..."
+msgstr "pitiûta îmake êtsenariyu mieme"
+
+msgid "Save Project"
+msgstr "pitiûta puruyetu"
+
+msgid "Save Scripts Snapshot"
+msgstr "pitiûta îmake pururama mieme"
+
+msgid "Save Stage Shot"
+msgstr "pitiûta îmake êtsenariyu mieme"
+
+msgid "Save the current project"
+msgstr "pitiûta puruyetu hikü mieme"
+
+msgid "Save the current project?"
+msgstr "¿pitiûta puruyetu hikü mieme?"
+
+msgid "Save this project"
+msgstr ""
+
+msgid "Scripts"
+msgstr "pururama"
+
+msgid "select serial/USB port"
+msgstr "penuyewauni pueritu tseriari/USB"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr ""
+"keâne pini menuyewau (pikuyuitüani, pitahekuariya, yatüni peyeitüani "
+"menuyewau)"
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr "penuyewauni niuki puruke tsiemieme"
+
+msgid "Set rotation center"
+msgstr "penuyewauni putu taâurie mawautse"
+
+msgid "Set Single Stepping"
+msgstr "pütayuani îxeiyatü kemütiukeka"
+
+msgid "set slider min and max"
+msgstr "pekeni min yaî max kemürayeâxe"
+
+msgid "Share"
+msgstr "¡Pütaînieni!"
+
+msgid "Share this project"
+msgstr ""
+
+msgid "Share This Project Online"
+msgstr "pütaînieni îku puruyetu riniyatsie"
+
+msgid "Show Motor Blocks"
+msgstr ""
+
+msgid "show ScratchBoard watcher"
+msgstr "piyetsera ScratchBoard"
+
+msgid "Shrink"
+msgstr "pitiûta"
+
+msgid "Shrink sprite"
+msgstr "pitiûta ûketu"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Single-step speed?"
+msgstr ""
+
+msgid "slider"
+msgstr "müyexüre"
+
+msgid "Slider range:"
+msgstr "xaniku kemürayeâxe"
+
+msgid "Sound quality:"
+msgstr "karira tsunitu mieme"
+
+msgid "Sound Recorder"
+msgstr "pekaùke tsunirutsie mieme"
+
+msgid "Sounds"
+msgstr "tsunirute"
+
+msgid "Sounds compressed"
+msgstr "tsunirute petsinietükaime"
+
+msgid "space"
+msgstr "puyewa"
+
+msgid "Sprite"
+msgstr "ûketu"
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr "nanari mayehaika"
+
+msgid "Stage"
+msgstr "êtsenariyu"
+
+msgid "Stage selected:"
+msgstr "êtsenariyu manuyewawie:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "tseyu (manuyewawie kemuyewa yaî êtsitapa ùkiyari)"
+
+msgid "Start green flag scripts"
+msgstr "mütayuani pururamatsixi patera mieme mü tsiüraüye"
+
+msgid "Start Single Stepping"
+msgstr "pixeiya müyekeka yahanutatetewatü"
+
+msgid "stop"
+msgstr "pütakeni"
+
+msgid "Stop everything"
+msgstr "naime pewakeni"
+
+msgid "Stop Single Stepping"
+msgstr "pütakeni mixeiya müyekekakü"
+
+msgid "Story"
+msgstr ""
+
+msgid "Support Site"
+msgstr ""
+
+msgid "Switch colors"
+msgstr "tauxi püpata"
+
+msgid "Switch to full stage"
+msgstr ""
+
+msgid "Switch to presentation mode"
+msgstr ""
+
+msgid "Switch to small stage"
+msgstr ""
+
+msgid "Tags:"
+msgstr "êtiketa:"
+
+msgid "Text tool (edit text layer)"
+msgstr "keâne pini mayeûtse mieme"
+
+msgid "That variable name is already in use"
+msgstr "mükü kemütitewa xewitüri pariâpüre pikumaüwa"
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "kemütitewa ârichipu püyekari. ¿hemana petitaûtüani?"
+
+msgid "thing"
+msgstr "pini"
+
+msgid "this way"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "true"
+msgstr "yuri"
+
+msgid "Turbo speed"
+msgstr "Kui kemayüwe"
+
+msgid "turn into new sprite"
+msgstr "peyeitüani ûketu hekuame"
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Undo"
+msgstr "pitapariya"
+
+msgid "up"
+msgstr "heima"
+
+msgid "up arrow"
+msgstr "ûrü heima"
+
+msgid "Updating thumbnails"
+msgstr "msgid \"Updating thumbnails\""
+
+msgid "Upload succeeded!"
+msgstr "puruyetu menüâ"
+
+msgid "Upload to Scratch Server"
+msgstr "panunüâni tseripituxi Scratch mieme"
+
+msgid "Uploading"
+msgstr "peinüâ"
+
+msgid "Variable name?"
+msgstr "¿kemütitewa pariâpüre?"
+
+msgid "View on stage"
+msgstr "pitaxata êtsenariyu"
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr "haiküri"
+
+msgid "world"
+msgstr ""
+
+msgid "Write Multiple Project Summaries"
+msgstr "pitamani peritsiuni mayeûtse kuriku mieme mayepaüme puruyetutsie"
+
+msgid "Write Project Summary"
+msgstr "pitamani peritsiuni mayeûtse kuriku mieme puruyetutsie"
+
+msgid "Yes"
+msgstr "hü"
+
+msgid "Your project is now online at"
+msgstr "puruyetu web kemütimie puniere"
+
+msgid "Your Scratch website login name:"
+msgstr "kemütitewa ûtsuariyu:"
+
+msgid "Zoom in"
+msgstr "petaùra"
+
+msgid "Zoom out"
+msgstr "wa piùra"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "âkuriuni"
+
+msgid "Acoustic Bass"
+msgstr "paku âkutiku"
+
+msgid "Acoustic Bass Drum"
+msgstr "Bombo âkutiku"
+
+msgid "Acoustic Grand"
+msgstr "piânu yu kuaxi âkutiku"
+
+msgid "Acoustic Snare"
+msgstr "tepu âkutiku"
+
+msgid "Agogo"
+msgstr "Agogó"
+
+msgid "Alto Sax"
+msgstr "Tsatsupuni ûtewitü"
+
+msgid "Applause"
+msgstr "tahutsunatü"
+
+msgid "Bagpipe"
+msgstr "Gaita"
+
+msgid "Banjo"
+msgstr "Banjo"
+
+msgid "Baritone Sax"
+msgstr "Tsatsupuni barítono"
+
+msgid "Bass Drum 1"
+msgstr "Bombo 1"
+
+msgid "Bassoon"
+msgstr "Fagot"
+
+msgid "Bird Tweet"
+msgstr "Piada wikiheyakü"
+
+msgid "Blown Bottle"
+msgstr "puteya hutsiekame"
+
+msgid "Brass Section"
+msgstr "tsetsiuni tepüateyakü"
+
+msgid "Breath Noise"
+msgstr "tsuniru îyayakü"
+
+msgid "Bright Acoustic"
+msgstr "piânu âkutiku merükaüyeme"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celesta"
+
+msgid "Cello"
+msgstr "Piurunicheru"
+
+msgid "Chinese Cymbal"
+msgstr "Xakü tsinu"
+
+msgid "Choir Aahs"
+msgstr "Coro de aahs"
+
+msgid "Church Organ"
+msgstr "ûrikanu teyupani mieme"
+
+msgid "Clarinet"
+msgstr "kürarinete"
+
+msgid "Claves"
+msgstr "kürape"
+
+msgid "Clavinet"
+msgstr "Clavinet"
+
+msgid "Closed Hi-Hat"
+msgstr "Charles reunatü"
+
+msgid "Contrabass"
+msgstr "kunutürapaku"
+
+msgid "Cowbell"
+msgstr "tirau"
+
+msgid "Crash Cymbal 1"
+msgstr "Xakü crash 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Xakü crash 2"
+
+msgid "Distortion Guitar"
+msgstr "Kanari âixüa kereukuwietü"
+
+msgid "Drawbar Organ"
+msgstr "ûrikanu Hammond"
+
+msgid "Dulcimer"
+msgstr "Dulcémele"
+
+msgid "Electric Bass (finger)"
+msgstr "paku êretiku (îtüwame)"
+
+msgid "Electric Bass (pick)"
+msgstr "paku êretiku (xüte)"
+
+msgid "Electric Clean Guitar"
+msgstr "kanari êritiku yu hekuatü"
+
+msgid "Electric Grand"
+msgstr "piânu êretiku êpatü"
+
+msgid "Electric Jazz Guitar"
+msgstr "kanari êretika jazz"
+
+msgid "Electric Muted Guitar"
+msgstr "kanari êretiku sordina"
+
+msgid "Electric Piano 1"
+msgstr "piânu êretiku 1"
+
+msgid "Electric Piano 2"
+msgstr "piânu êretiku 2"
+
+msgid "Electric Snare"
+msgstr "tepu êreturuniku"
+
+msgid "English Horn"
+msgstr "corno îküretsi"
+
+msgid "FX 1 (rain)"
+msgstr "êpetu 1 (wiyeri)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "êpetu 2 (pata tsunura)"
+
+msgid "FX 3 (crystal)"
+msgstr "êpetu 3 (küritari)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "êpetu 4 (âmuperiku)"
+
+msgid "FX 5 (brightness)"
+msgstr "êpetu 5 (merükaüye)"
+
+msgid "FX 6 (goblins)"
+msgstr "êpetu 6 (hatamete)"
+
+msgid "FX 7 (echoes)"
+msgstr "êpetu 7 (yuariya)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "êpetu 8 (tsietsia pitsiuni)"
+
+msgid "Fiddle"
+msgstr "xaweri tserita"
+
+msgid "Flute"
+msgstr "haka waikari"
+
+msgid "French Horn"
+msgstr "xupira"
+
+msgid "Fretless Bass"
+msgstr "Paku türate kehexeiyatü"
+
+msgid "Glockenspiel"
+msgstr "waikari tipüre mieme"
+
+msgid "Guitar Fret Noise"
+msgstr "türateu kanari mieme"
+
+msgid "Guitar Harmonics"
+msgstr "harümuniku kanaritsie mieme"
+
+msgid "Gunshot"
+msgstr "xipüre petatuaxixü"
+
+msgid "Hand Clap"
+msgstr "Pekahutsuna"
+
+msgid "Harmonica"
+msgstr "Harümunika"
+
+msgid "Harpsichord"
+msgstr "clavicémbalo"
+
+msgid "Helicopter"
+msgstr "tarawiraxi"
+
+msgid "Hi Bongo"
+msgstr "bongó chiûyuatü"
+
+msgid "Hi Wood Block"
+msgstr "rayepini tsina chiûyuatü"
+
+msgid "Hi-Mid Tom"
+msgstr "Tom ya-ûyuatü"
+
+msgid "High Agogo"
+msgstr "Agogó chiûyuatü"
+
+msgid "High Floor Tom"
+msgstr "Tom kuiekü chiûyuatü"
+
+msgid "High Timbale"
+msgstr "Tipari chiûyuatü"
+
+msgid "High Tom"
+msgstr "Tom chiûyuatü"
+
+msgid "Honky-Tonk"
+msgstr ""
+
+msgid "Kalimba"
+msgstr "karipa"
+
+msgid "Koto"
+msgstr "kutu"
+
+msgid "Lead 1 (square)"
+msgstr "püritsipari 1 (ûnita mayehaika)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "püritsipari 2 (tamete tsiexa mieme)"
+
+msgid "Lead 3 (calliope)"
+msgstr "püritsipari 3 (ûrikanu âüxi tsiemieme)"
+
+msgid "Lead 4 (chiff)"
+msgstr "püritsipari 4 (tsitseû  ûrikanu)"
+
+msgid "Lead 5 (charang)"
+msgstr "püritsipari 5 (charango)"
+
+msgid "Lead 6 (voice)"
+msgstr "püritsipari 6 (niuki)"
+
+msgid "Lead 7 (fifths)"
+msgstr "püritsipari 7 (quintas)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "püritsipari 8 (paku yaî kuikari)"
+
+msgid "Long Guiro"
+msgstr "kuiru tewime"
+
+msgid "Long Whistle"
+msgstr "hütsiwame êtewime"
+
+msgid "Low Agogo"
+msgstr "agogó êûyuatü"
+
+msgid "Low Bongo"
+msgstr "bongó êûyuatü"
+
+msgid "Low Conga"
+msgstr "conga êûyuatü"
+
+msgid "Low Floor Tom"
+msgstr "tumi "
+
+msgid "Low Timbale"
+msgstr "Tinipari êûyuatü"
+
+msgid "Low Tom"
+msgstr "tumi êûyuatü"
+
+msgid "Low Wood Block"
+msgstr "rayepine tsina êûyuatü"
+
+msgid "Low-Mid Tom"
+msgstr "tumi êchiva kaûyuatü"
+
+msgid "Maracas"
+msgstr "kaxa"
+
+msgid "Marimba"
+msgstr "mariniwa"
+
+msgid "Melodic Tom"
+msgstr "timüpara merurika"
+
+msgid "Music Box"
+msgstr "rayepine yünütü kuikari"
+
+msgid "Mute Cuica"
+msgstr "kuika nakatu"
+
+msgid "Mute Hi Conga"
+msgstr "kunüka âkuta nakatu"
+
+msgid "Mute Triangle"
+msgstr "mayehaika nakatü"
+
+msgid "Muted Trumpet"
+msgstr "turupeta tsaritina yünütü"
+
+msgid "Nylon String Guitar"
+msgstr "kanari êtsipanura"
+
+msgid "Oboe"
+msgstr "ûwue"
+
+msgid "Ocarina"
+msgstr "ûkarina"
+
+msgid "Open Cuica"
+msgstr "kuika kayuwiya"
+
+msgid "Open Hi Conga"
+msgstr "kunüka âkuta kayuwiyatü"
+
+msgid "Open Hi-Hat"
+msgstr "charles heuyepietü"
+
+msgid "Open Triangle"
+msgstr "mayehaika kayuwiya"
+
+msgid "Orchestra Hit"
+msgstr "êtsitu küma ûruketsita"
+
+msgid "Orchestral Strings"
+msgstr "ârüpa ûruketsita"
+
+msgid "Overdriven Guitar"
+msgstr "kanari mayeîpike"
+
+msgid "Pad 1 (new age)"
+msgstr "kemayeâne 1 (hekuame êra)"
+
+msgid "Pad 2 (warm)"
+msgstr "kemayeâne 2 (xükatü)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "kemayeâne 3 (puritsintetitsaruri)"
+
+msgid "Pad 4 (choir)"
+msgstr "kemayeâne 4 (kuru)"
+
+msgid "Pad 5 (bowed)"
+msgstr "kemayeâne 5 (tupiyari)"
+
+msgid "Pad 6 (metallic)"
+msgstr "kamayeâne 6 (tepüayatü)"
+
+msgid "Pad 7 (halo)"
+msgstr "kemayeâne 7 (âureûra)"
+
+msgid "Pad 8 (sweep)"
+msgstr "kameyeâne 8 (îtiyakame)"
+
+msgid "Pan Flute"
+msgstr "haka waikari"
+
+msgid "Pedal Hi-Hat"
+msgstr "charles pedal"
+
+msgid "Percussive Organ"
+msgstr "ûrikanu perikutsiwu"
+
+msgid "Piccolo"
+msgstr "haka waikari chipetü"
+
+msgid "Pizzicato Strings"
+msgstr "mawütüka pizzicato"
+
+msgid "Recorder"
+msgstr "haka waikari hakakame"
+
+msgid "Reed Organ"
+msgstr "ârimuniu"
+
+msgid "Reverse Cymbal"
+msgstr "xakü taâurie hawekame"
+
+msgid "Ride Bell"
+msgstr "tirau xakuya kemüâne"
+
+msgid "Ride Cymbal 1"
+msgstr "xakü kia 1"
+
+msgid "Ride Cymbal 2"
+msgstr "xakü kia 2"
+
+msgid "Rock Organ"
+msgstr "ûrikanu"
+
+msgid "Seashore"
+msgstr "xiekaripa"
+
+msgid "Shakuhachi"
+msgstr "shakuhachi"
+
+msgid "Shamisen"
+msgstr "shakumisen"
+
+msgid "Shanai"
+msgstr "shanai"
+
+msgid "Short Guiro"
+msgstr "kuiru chitewime"
+
+msgid "Short Whistle"
+msgstr "hutsiwame chitewime"
+
+msgid "Side Stick"
+msgstr "Pitahutsuna yu êtsama"
+
+msgid "Sitar"
+msgstr "sitar"
+
+msgid "Slap Bass 1"
+msgstr "paku kurupuaru 1"
+
+msgid "Slap Bass 2"
+msgstr "paku kurupuaru 2"
+
+msgid "Soprano Sax"
+msgstr "tsatsupuni tsupüranu"
+
+msgid "Splash Cymbal"
+msgstr "xakü splash"
+
+msgid "Steel Drums"
+msgstr "tepute tepüayari"
+
+msgid "Steel String Guitar"
+msgstr "kanari âkutsitika (mawütüka tepüakü)"
+
+msgid "String Ensemble 1"
+msgstr "memüteukayuitüwa mawütüka 1"
+
+msgid "String Ensemble 2"
+msgstr "memüteukayuitüwa mawütüka 2"
+
+msgid "Synth Bass 1"
+msgstr "paku tsitetitsaru 1"
+
+msgid "Synth Bass 2"
+msgstr "paku tsitetitsaru 2"
+
+msgid "Synth Drum"
+msgstr "perikutsiuni tsitetitsaru"
+
+msgid "Synth Voice"
+msgstr "â niuki tsitetitsara"
+
+msgid "SynthBrass 1"
+msgstr "tepüa tsitetitsaru 1"
+
+msgid "SynthBrass 2"
+msgstr "tepüa tsitetitsaru 2"
+
+msgid "SynthStrings 1"
+msgstr "wiwieri tsintetitsara 1"
+
+msgid "SynthStrings 2"
+msgstr "wiwieri tsintetitsara 2"
+
+msgid "Taiko Drum"
+msgstr "Tepu taîku"
+
+msgid "Tambourine"
+msgstr "panutereta"
+
+msgid "Tango Accordion"
+msgstr "panituniuni"
+
+msgid "Telephone Ring"
+msgstr "terepunu kemütiuyake"
+
+msgid "Tenor Sax"
+msgstr "tsatsupuni tenuri"
+
+msgid "Timpani"
+msgstr "timüwari"
+
+msgid "Tinkle Bell"
+msgstr "tirau yapeme"
+
+msgid "Tremolo Strings"
+msgstr "wiwieri pinieya turemuru"
+
+msgid "Trombone"
+msgstr "turupuni"
+
+msgid "Trumpet"
+msgstr "turupeta"
+
+msgid "Tuba"
+msgstr "tupa"
+
+msgid "Tubular Bells"
+msgstr "tirau kurumawime"
+
+msgid "Vibraphone"
+msgstr "wipürapunu"
+
+msgid "Vibraslap"
+msgstr "türapapüratsi"
+
+msgid "Viola"
+msgstr "piura"
+
+msgid "Violin"
+msgstr "xaweri"
+
+msgid "Voice Oohs"
+msgstr "â niuki wa oohs"
+
+msgid "Whistle"
+msgstr "hütsiwame"
+
+msgid "Woodblock"
+msgstr "tipineme Tsina"
+
+msgid "Xylophone"
+msgstr "tsirupunu"

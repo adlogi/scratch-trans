@@ -1,0 +1,444 @@
+msgid "Language-Name"
+msgstr "svenska"
+
+msgid "%b and %b"
+msgstr "%b och %b"
+
+msgid "%b or %b"
+msgstr "%b eller %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute av %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list innehåller %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp av %n"
+
+msgid "%m.sensor sensor value"
+msgstr "sensorns %m.sensor värde"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "lägg till %s till %m.list"
+
+msgid "answer"
+msgstr "svar"
+
+msgid "ask %s and wait"
+msgstr "fråga %s och vänta"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "bakgrund #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "sända %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "sända %m.broadcast och vänta"
+
+msgid "change %m.effect effect by %n"
+msgstr "ändra %m.effect effekten med %n"
+
+msgid "change %m.var by %n"
+msgstr "ändra %m.var med %n"
+
+msgid "change pen color by %n"
+msgstr "ändra pennans färg med %n"
+
+msgid "change pen shade by %n"
+msgstr "ändra pennans nyans med %n"
+
+msgid "change pen size by %n"
+msgstr "ändra pennans storlek med %n"
+
+msgid "change size by %n"
+msgstr "ändra storlek med %n"
+
+msgid "change tempo by %n"
+msgstr "ändra tempo med %n"
+
+msgid "change volume by %n"
+msgstr "ändra volym med %n"
+
+msgid "change x by %n"
+msgstr "ändra x med %n"
+
+msgid "change y by %n"
+msgstr "ändra y med %n"
+
+msgid "clear"
+msgstr "radera"
+
+msgid "clear graphic effects"
+msgstr "ta bort grafisk effekt"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "är färgen %c över %c?"
+
+msgid "Control"
+msgstr "kontroll"
+
+msgid "costume #"
+msgstr "klädsel #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "ta bort %d.listDeleteItem i %m.list"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "riktning"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "avstånd till %m.spriteOrMouse"
+
+msgid "else"
+msgstr "annars"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "för alltid"
+
+msgid "forever if %b"
+msgstr "för alltid om %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "glid %n sek till x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "gå ned %n lager"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "gå till %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "lägg överst"
+
+msgid "go to x:%n y:%n"
+msgstr "gå till x:%n y:%n"
+
+msgid "hide"
+msgstr "göm"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide monitor %m.varOrList"
+msgstr ""
+
+msgid "if %b"
+msgstr "om %b"
+
+msgid "if on edge, bounce"
+msgstr "studsa om vid kanten"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "sätt in %s på %d.listItem i %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "%d.listItem i %m.list"
+
+msgid "join %s %s"
+msgstr "förena %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "%m.key nedtryckt?"
+
+msgid "length of %m.list"
+msgstr "längd på %m.list"
+
+msgid "length of %s"
+msgstr "längd på %s"
+
+msgid "letter %n of %s"
+msgstr "bokstav %n i %s"
+
+msgid "Looks"
+msgstr "utseende"
+
+msgid "loudness"
+msgstr "ljudnivå"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "rörelse"
+
+msgid "motor direction %m.motorDirection"
+msgstr "motorriktning %m.motorDirection"
+
+msgid "motor off"
+msgstr "motor av"
+
+msgid "motor on"
+msgstr "motor på"
+
+msgid "motor on for %n secs"
+msgstr "motor på i %n sekunder"
+
+msgid "motor power %n"
+msgstr "motor kraft %n"
+
+msgid "mouse down?"
+msgstr "musknappen?"
+
+msgid "mouse x"
+msgstr "mus x"
+
+msgid "mouse y"
+msgstr "mus y"
+
+msgid "move %n steps"
+msgstr "gå %n steg"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "nästa bakgrund"
+
+msgid "next costume"
+msgstr "nästa klädsel"
+
+msgid "not %b"
+msgstr "inte %b"
+
+msgid "Operators"
+msgstr "operator"
+
+msgid "Pen"
+msgstr "penna"
+
+msgid "pen down"
+msgstr "penna ned"
+
+msgid "pen up"
+msgstr "penna upp"
+
+msgid "pick random %n to %n"
+msgstr "slumptal %n till %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "spela trumman %d.drum i %n taktslag"
+
+msgid "play note %n for %n beats"
+msgstr "spela tonen %d.note i %n taktslag"
+
+msgid "play sound %m.sound"
+msgstr "spela ljudet %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "spela ljudet %m.sound tills färdig"
+
+msgid "point in direction %d.direction"
+msgstr "peka i %d.direction riktning"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "peka mot %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "repetera %n"
+
+msgid "repeat until %b"
+msgstr "repetera tills %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "ersätt %d.listItem i %m.list med %s"
+
+msgid "reset timer"
+msgstr "nollställ timer"
+
+msgid "rest for %n beats"
+msgstr "pausa i %n taktslag"
+
+msgid "round %n"
+msgstr "avrunda %n"
+
+msgid "say %s"
+msgstr "säg %s"
+
+msgid "say %s for %n secs"
+msgstr "säg %s i %n sekunder"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "känna av"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "sensorn %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "sätt %m.effect effekten till %n"
+
+msgid "set %m.var to %s"
+msgstr "sätt %m.var till %n"
+
+msgid "set instrument to %d.instrument"
+msgstr "sätt instrument till %d.instrument"
+
+msgid "set pen color to %c"
+msgstr "sätt pennans färg till %c"
+
+msgid "set pen color to %n"
+msgstr "sätt pennans färg till %c"
+
+msgid "set pen shade to %n"
+msgstr "sätt pennans nyans till %n"
+
+msgid "set pen size to %n"
+msgstr "sätt pennans storlek till %n"
+
+msgid "set size to %n%"
+msgstr "sätt storleken till %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "sätt tempo till %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "sätt volym till %n%"
+
+msgid "set x to %n"
+msgstr "sätt x till %n"
+
+msgid "set y to %n"
+msgstr "sätt y till %n"
+
+msgid "show"
+msgstr "visa"
+
+msgid "show monitor %m.varOrList"
+msgstr ""
+
+msgid "size"
+msgstr "storlek"
+
+msgid "Sound"
+msgstr "ljud"
+
+msgid "stamp"
+msgstr "stämpla"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "stoppa all ljud"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "tänk %s"
+
+msgid "think %s for %n secs"
+msgstr "tänk %s i %n sekunder"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "timer"
+
+msgid "touching %m.touching?"
+msgstr "rör %m.touching?"
+
+msgid "touching color %c?"
+msgstr "rör färgen %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "volym"
+
+msgid "wait %n secs"
+msgstr "vänta %n sekunder"
+
+msgid "wait until %b"
+msgstr "vänta tills %b"
+
+msgid "when %m.key key pressed"
+msgstr "när %m.key trycks"
+
+msgid "when @greenFlag clicked"
+msgstr "när @greenFlag klickas på"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when I am clicked"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "x position"
+msgstr "x-läge"
+
+msgid "y position"
+msgstr "y-läge"
+

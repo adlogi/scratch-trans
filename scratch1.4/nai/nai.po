@@ -1,0 +1,1927 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-01-11 13:53-0400\n"
+"Last-Translator: Yolanda Campos Campos <yola.campos@gmail.com>\n"
+"Language-Team: \n"
+"Language: nai\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.2.1\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Tepehuan"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr ""
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H Na jᶤx jix chatda'"
+
+msgid "%L contains %s"
+msgstr ""
+
+msgid "%a of %m"
+msgstr "%a gu %m"
+
+msgid "%b and %b"
+msgstr "%b gio %b"
+
+msgid "%b or %b"
+msgstr "%b o %b"
+
+msgid "%f of %n"
+msgstr "%f gu %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "bᶤnda'%s a %L"
+
+msgid "answer"
+msgstr ""
+
+msgid "ask %s and wait"
+msgstr ""
+
+msgid "background #"
+msgstr "J+'k mamxidhix #"
+
+msgid "broadcast %e"
+msgstr "b+x ja jossidha' %e"
+
+msgid "broadcast %e and wait"
+msgstr "b+x ja joxxidha' %e gio n+rada'"
+
+msgid "change %g effect by %n"
+msgstr "makam maxdha' %g na %n"
+
+msgid "change %v by %n"
+msgstr "makam %v por %n"
+
+msgid "change pen color by %n"
+msgstr "makam tu'm ka' gu ua'nkar ja'pna %n"
+
+msgid "change pen shade by %n"
+msgstr "Io'm piam palhᶤp maxdha' %n"
+
+msgid "change pen size by %n"
+msgstr "jumaika' gu ua'nkar por %n"
+
+msgid "change size by %n"
+msgstr "makam geka' por %n"
+
+msgid "change tempo by %n"
+msgstr "j+'k bhaan ka'm por %n"
+
+msgid "change volume by %n"
+msgstr "makam ap xi j+xkada' na %n"
+
+msgid "change x by %n"
+msgstr "makam x por %n"
+
+msgid "change y by %n"
+msgstr "makam y por %n"
+
+msgid "clear"
+msgstr "mai'chulhdha'"
+
+msgid "clear graphic effects"
+msgstr "ja'k bh+ya' ap"
+
+msgid "color %C is touching %C?"
+msgstr "¿mamxi'ñkar %C bhaan %C?"
+
+msgid "control"
+msgstr "ma'o'n"
+
+msgid "costume #"
+msgstr "j+'kim t+i'dhix #"
+
+msgid "delete %y of %L"
+msgstr "mai'chulhdha' %y gu %L"
+
+msgid "direction"
+msgstr "paja'k n+iñchu'ñ"
+
+msgid "distance to %m"
+msgstr "j+'x a %m"
+
+msgid "else"
+msgstr ""
+
+msgid "forever"
+msgstr "gammᶤjᶤ"
+
+msgid "forever if %b"
+msgstr "gammᶤjᶤ %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "da'npixdha' na %n segs a x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "ku' jimchuda' %n p+x ji ju'"
+
+msgid "go to %m"
+msgstr "jiim a %m"
+
+msgid "go to front"
+msgstr "b++p+' jimchuda'"
+
+msgid "go to x:%n y:%n"
+msgstr "jiim a x:%n y:%n"
+
+msgid "hide"
+msgstr "ᶤxchu'"
+
+msgid "hide variable %v"
+msgstr "´+xchu' ap dhi' na cham maat+' %v"
+
+msgid "if %b"
+msgstr "jɇ' %b"
+
+msgid "if on edge, bounce"
+msgstr "m"
+
+msgid "insert %s at %i of %L"
+msgstr "muja'k bh+ichdha' %s gio %i de %L"
+
+msgid "item %i of %L"
+msgstr "item %i de %L"
+
+msgid "join %s %s"
+msgstr ""
+
+msgid "key %k pressed?"
+msgstr "¿d+lh ua'nakar %k mai'xpa'?"
+
+msgid "length of %L"
+msgstr "Na jᶤ'k jir tɇbka' gu %L"
+
+msgid "length of %s"
+msgstr "Na jᶤ'k jir tɇbka' gu %s"
+
+msgid "letter %n of %s"
+msgstr ""
+
+msgid "list"
+msgstr "Na jᶤ'k mi dhaaxix"
+
+msgid "looks"
+msgstr "puchu'm"
+
+msgid "loud?"
+msgstr "¿iu'm kaidha'"
+
+msgid "loudness"
+msgstr "t+xsadhiñ kaidha'"
+
+msgid "motion"
+msgstr "jimm+"
+
+msgid "motor direction %W"
+msgstr ""
+
+msgid "motor off"
+msgstr ""
+
+msgid "motor on"
+msgstr ""
+
+msgid "motor on for %n secs"
+msgstr ""
+
+msgid "motor power %n"
+msgstr ""
+
+msgid "mouse down?"
+msgstr "¿ bas+k mai'sap?"
+
+msgid "mouse x"
+msgstr "x gu bas+k"
+
+msgid "mouse y"
+msgstr "gio gu bas+k"
+
+msgid "move %n steps"
+msgstr "joiñi'ñ %n k+isap"
+
+msgid "next background"
+msgstr "max jumai"
+
+msgid "next costume"
+msgstr "jumai jix j+mim"
+
+msgid "not %b"
+msgstr "cham %b"
+
+msgid "operators"
+msgstr ""
+
+msgid "pen"
+msgstr "u'uankar"
+
+msgid "pen down"
+msgstr "t+bañdha' u'uankar"
+
+msgid "pen up"
+msgstr "t+sa'ñdha' u'uankar"
+
+msgid "pick random %n to %n"
+msgstr "jax na p+x chu'm ja'kolhiñ bhaan %n y %n"
+
+msgid "play drum %D for %n beats"
+msgstr "sasbia' tambolh %D j+'x %n joiñ"
+
+msgid "play note %N for %n beats"
+msgstr "Am tu sab palhᶤp %N"
+
+msgid "play sound %S"
+msgstr "sasbia' gu sasab %S"
+
+msgid "play sound %S until done"
+msgstr "sasbia' gu sasab %S gio t+ n+rada'"
+
+msgid "point in direction %d"
+msgstr "mujak xi k+xi'ñ s+lh %d"
+
+msgid "point towards %m"
+msgstr "muja'k xi k+xi'ñ na pai' %m"
+
+msgid "repeat %n"
+msgstr "gio up %n"
+
+msgid "repeat until %b"
+msgstr "giop mui' xi bh+ichdha' munmu na %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "makam ja'k bh+ichdha' %i dhi %L na pai' %s"
+
+msgid "reset timer"
+msgstr "giop bhai'p ji k+sa' na jax aagidha'"
+
+msgid "rest for %n beats"
+msgstr "dhupiñ na pai' %n"
+
+msgid "round %n"
+msgstr "xikolhgidha' %n"
+
+msgid "say %s"
+msgstr "xi a' %s"
+
+msgid "say %s for %n secs"
+msgstr "xi a' %s gio %n xi'"
+
+msgid "sensing"
+msgstr "Mᶤmᶤichdhakar"
+
+msgid "sensor %h?"
+msgstr "¿Mᶤichkar %h mᶤim ?"
+
+msgid "set %g effect to %n"
+msgstr "Bha bi'spa' ap gux abhartugi'ñ %g ja'pna %n"
+
+msgid "set %v to %n"
+msgstr "Bi'spa' %v piam %n"
+
+msgid "set instrument to %I"
+msgstr "Bi'spa' gu sasbikar a %l"
+
+msgid "set pen color to %c"
+msgstr "Bha bi'spa' ap gux abhartugi'ñ gu lápiz %c"
+
+msgid "set pen color to %n"
+msgstr "Bha bi'spa' ap gux abhartugi'ñ gu lápiz %n"
+
+msgid "set pen shade to %n"
+msgstr "Bi'spa' na jᶤx maaxilhia' gu u'uankar %n"
+
+msgid "set pen size to %n"
+msgstr "Bi'spa' na jᶤx maaxilhia' gu u'uankar %n"
+
+msgid "set size to %n%"
+msgstr "Bi'spa' na jᶤx a %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "Bi'xpa' na jᶤ'x mᶤkiidha' %n bpm"
+
+msgid "set volume to %n%"
+msgstr "Xi dhaasa' gu kai'ch a %n%"
+
+msgid "set x to %n"
+msgstr "Bi'spa' x mummu %n"
+
+msgid "set y to %n"
+msgstr "maxdha'ap %n"
+
+msgid "show"
+msgstr "maxdha'ap"
+
+msgid "show variable %v"
+msgstr "Maxdha'ap gui' na pᶤx jim maxdha' %v"
+
+msgid "size"
+msgstr "j+'xka"
+
+msgid "sound"
+msgstr "sasab"
+
+msgid "stamp"
+msgstr "daxdha'"
+
+msgid "stop all"
+msgstr "ja tuttu b+x"
+
+msgid "stop all sounds"
+msgstr "ja tuttu' b+x gu sassab"
+
+msgid "stop script"
+msgstr "Ba kᶤᶤsa' nap tu' jax bua"
+
+msgid "switch to background %l"
+msgstr "makamkada'ap gu tukab ga'n a %l"
+
+msgid "switch to costume %l"
+msgstr "Makam buibsatda' a %l"
+
+msgid "tempo"
+msgstr "Tempo"
+
+msgid "think %s"
+msgstr "jum aaga' %s"
+
+msgid "think %s for %n secs"
+msgstr "jum aaga' %s na %n jotmoda'"
+
+msgid "timer"
+msgstr "Cronómetro"
+
+msgid "touching %m?"
+msgstr "¿da'ng+ %m?"
+
+msgid "touching color %C?"
+msgstr "da'ng+ gu mamxiñkar %C?"
+
+msgid "turn %n degrees"
+msgstr "xikolh bh+iya' %n j+xka'"
+
+msgid "variables"
+msgstr "aixim tu'm"
+
+msgid "volume"
+msgstr "gekada'"
+
+msgid "wait %n secs"
+msgstr "n+rada' %n xi'"
+
+msgid "wait until %b"
+msgstr "n+rada' na gu %b"
+
+msgid "when %k key pressed"
+msgstr "nap ma'ispa' gu d+lh u'uandam %k"
+
+msgid "when %m clicked"
+msgstr "nap ma'ispa' gu %m"
+
+msgid "when I receive %e"
+msgstr "Na pai'dhuk dagia' %e"
+
+msgid "x position"
+msgstr "Na pai' kᶤk gu x"
+
+msgid "y position"
+msgstr "Na pai' kᶤk gu y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "jup tu'm"
+
+msgid "1 script"
+msgstr "ma'm mi tum a'gadam"
+
+msgid "About Scratch"
+msgstr "bhaan gu Scratch"
+
+msgid "About this project:"
+msgstr "bhaa dhi' na mi tum a'ga"
+
+msgid "abs"
+msgstr "abc"
+
+msgid "add comment"
+msgstr "Mi'p xi ua'ña' nap jax jix chᶤ'im"
+
+msgid "add comment here"
+msgstr "b+nda'ap ma'n a'ga' ya'"
+
+msgid "all"
+msgstr "b+x"
+
+msgid "and"
+msgstr "gio"
+
+msgid "Animation"
+msgstr ""
+
+msgid "any"
+msgstr "jax na p+x chu'm"
+
+msgid "Art"
+msgstr ""
+
+msgid "background"
+msgstr "maxdha"
+
+msgid "backgrounds"
+msgstr "maxdha'"
+
+msgid "Backgrounds"
+msgstr "maxdha'"
+
+msgid "brightness"
+msgstr "toobik"
+
+msgid "Brush size: "
+msgstr "na j+x gu mamxiñkar"
+
+msgid "button"
+msgstr "butun"
+
+msgid "button pressed"
+msgstr "boi'xpaap gu butun"
+
+msgid "Camera"
+msgstr ""
+
+msgid "can rotate"
+msgstr "Jix bhai' nap xikolh bua'"
+
+msgid "cancel"
+msgstr "so'mdha'"
+
+msgid "Cancel"
+msgstr "so'mdha'"
+
+msgid "Choose a folder"
+msgstr "aaga gu ulñakar"
+
+msgid "Choose new sprite from file"
+msgstr "ma'n xi a' na pai' xibkam bha tum gamu' b+x aixim tu'm ñi'ok"
+
+msgid "clean up"
+msgstr "k+'mpi'"
+
+msgid "Clear"
+msgstr "k+'mpi'"
+
+msgid "Clear canvas"
+msgstr "k+mpigak gu jannulh"
+
+msgid "Close and continue"
+msgstr ""
+
+msgid "Close dialog?"
+msgstr "kuupa' ap gu a'ga"
+
+msgid "Close paint editor?"
+msgstr "¿kuupa' ap na pai'dh+r jup bua gu mamxi'ñ?"
+
+msgid "close port"
+msgstr "xi kuup gu kingob"
+
+msgid "Close sound recorder?"
+msgstr "¿xi kuup na pai' biipio' gu sasab?"
+
+msgid "color"
+msgstr "Aixim tu'm"
+
+msgid "Compress Images"
+msgstr "tlhichkada'ap gu mamaxdha'kar"
+
+msgid "Compress Sounds"
+msgstr "tllhichkada'ap gu sasab"
+
+msgid "Compress sounds and images"
+msgstr "tlhichkada'ap gu sasab gio mamaxdha'kar"
+
+msgid "Computer"
+msgstr "matda' ulhñakar"
+
+msgid "connected"
+msgstr "bhaan tuda'"
+
+msgid "Connecting to "
+msgstr "bhaan tu dañchudim a"
+
+msgid "Copy"
+msgstr "ma'n na jax chu'm jupna'"
+
+msgid "costume"
+msgstr "maakam tui'dh'"
+
+msgid "costumes"
+msgstr "maakam tu'm am"
+
+msgid "Costumes"
+msgstr "maakam tu'm am"
+
+msgid "Could not read"
+msgstr "cham jum jiñkoiñ"
+
+msgid "Could not read project; file may be damaged"
+msgstr ""
+"cham bhai' jum jiñkoiñ gu aixim tu'm niok, na pai' ulhñix xichui'dhixchi"
+
+msgid "Could not write file"
+msgstr "cham bhai'm u'uan na pai' jum ulhnix"
+
+msgid "Create account"
+msgstr "jumaikada'"
+
+msgid "Create an empty project"
+msgstr "jumaikada' xibkam gu aixim tu'm ñi'ok"
+
+msgid "Data sent. Waiting for response..."
+msgstr "aixim tu'm ñi'ok joot. Te nera nam ja'k buidha'"
+
+msgid "delete"
+msgstr "mai'chulhdha'"
+
+msgid "Delete"
+msgstr "Mai'chulhdha'"
+
+msgid "Delete a list"
+msgstr "maichdha' ma'n sung+m"
+
+msgid "Delete a variable"
+msgstr "maichdha' na j+'x ba jim"
+
+msgid "Delete this background"
+msgstr ""
+
+msgid "Delete this costume"
+msgstr "maichdha' "
+
+msgid "Delete this sound"
+msgstr "maichdha' dhi sasab"
+
+msgid "Delete this sprite"
+msgstr ""
+
+msgid "Desktop"
+msgstr "ka'm tum u'uan"
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr ""
+
+msgid "Documents"
+msgstr "u'uan"
+
+msgid "don't rotate"
+msgstr "chap jimmichu'nda'"
+
+msgid "Don't Save"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "down"
+msgstr "b+ta'n"
+
+msgid "down arrow"
+msgstr "u'uu b+ta'n"
+
+msgid "drag to resize"
+msgstr ""
+
+msgid "drag to rotate"
+msgstr ""
+
+msgid "draggable on website?"
+msgstr "¿baiss+na'ap na pai' web ' m+im"
+
+msgid "duplicate"
+msgstr "gokkada'ap"
+
+msgid "Duplicate"
+msgstr "Gokkada'ap"
+
+msgid "edge"
+msgstr "ju'ñdharam"
+
+msgid "Edit"
+msgstr "k+'mpigixkam ba busnia'."
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr ""
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr "bakia' na jax na mui' ji bh+ichdha'"
+
+msgid "Eraser"
+msgstr "uankar"
+
+msgid "Eraser size"
+msgstr "j+'x gu uañkar"
+
+msgid "Error!"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Exit presentation"
+msgstr ""
+
+msgid "Exit presentation mode"
+msgstr "busnia' nat pai'dh+r mu bh+ich"
+
+msgid "export"
+msgstr "bh+ika'"
+
+msgid "Export Background"
+msgstr "bh+ika' tukabga'n"
+
+msgid "Export Costume"
+msgstr "bh+ika' aixim t+iñxim"
+
+msgid "Export failed"
+msgstr "t+ bh+bh+tt+k cham am bua"
+
+msgid "Export Sound"
+msgstr "bh+ika' gu sasab"
+
+msgid "Export Sprite"
+msgstr "bh+ika' tu'"
+
+msgid "export this costume"
+msgstr "bh+ika' dhi'ñi tu'nap+x"
+
+msgid "export this sound"
+msgstr ""
+
+msgid "export this sprite"
+msgstr ""
+
+msgid "Extras menu"
+msgstr "na pai'dh+r jum n+n+iñ gio jaipup"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "ga'mukar(na pai'dh+r jum da'ng+ gu mamxikar)"
+
+msgid "Failed:"
+msgstr "cham am buix:"
+
+msgid "false"
+msgstr "iat"
+
+msgid "File"
+msgstr ""
+
+msgid "File not found"
+msgstr "cham jum t+ na pai' tum ulhis"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "nap pai' t+gia' nap k+'n tu mamxidha'"
+
+msgid "first"
+msgstr "b++p+'(a)"
+
+msgid "fisheye"
+msgstr "buiñ gu batoop"
+
+msgid "Flash blocks (fast)"
+msgstr "mamxidha'ap da'nximjotmoda'"
+
+msgid "Flash blocks (slow)"
+msgstr "mamxidha'ap da'nxim (salh)"
+
+msgid "Flip horizontally"
+msgstr "Gai ja'k ap xi baissᶤna'"
+
+msgid "Flip vertically"
+msgstr "Bᶤta'n ja'k ap xi baissᶤna'"
+
+msgid "For all sprites"
+msgstr "B+x na jᶤk mi tu jai'ch"
+
+msgid "For this sprite only"
+msgstr "dhi'ñi ba' tu'"
+
+msgid "Game"
+msgstr ""
+
+msgid "Get surprise sprite"
+msgstr "tu' cham matg+m"
+
+msgid "Get the last thing deleted"
+msgstr "tu' kugaram mai'buixim"
+
+msgid "Getting Started"
+msgstr ""
+
+msgid "ghost"
+msgstr ""
+
+msgid "Go To Scratch Website"
+msgstr ""
+
+msgid "grab screen region for new costume"
+msgstr ""
+"xi maxchuda'ap na pai' tum u'uan bhai'ba jup dunia' jumai gu maamtu'm "
+"t+iñxim"
+
+msgid "grab screen region for new sprite"
+msgstr "Xi maxchuda'ap nap jᶤx jumai jup duñia'"
+
+msgid "Grow"
+msgstr "gɇ'ka'n"
+
+msgid "Grow sprite"
+msgstr "gɇ'kada'ap dhi'"
+
+msgid "hello "
+msgstr ""
+
+msgid "Hello!"
+msgstr "¡Xᶤᶤban!"
+
+msgid "help"
+msgstr "palhbuiñ"
+
+msgid "Help"
+msgstr ""
+
+msgid "Help Page"
+msgstr ""
+
+msgid "Help Screens"
+msgstr ""
+
+msgid "Hide Motor Blocks"
+msgstr ""
+
+msgid "High (biggest)"
+msgstr "t+b( jix ium ge)"
+
+msgid "Hmm..."
+msgstr "mmm….."
+
+msgid "Home"
+msgstr "t+bgat"
+
+msgid "Images compressed"
+msgstr "tlhich mamaxkar"
+
+msgid "import"
+msgstr "joossa'"
+
+msgid "Import"
+msgstr "Jossa'"
+
+msgid "Import an image on top of your current canvas"
+msgstr "joossa' ma'n maxkar bhaan gu jannulh xib"
+
+msgid "Import Background"
+msgstr "joossa' tukab ja'k"
+
+msgid "Import Costume"
+msgstr "joossa' j+mim t+idhixkam"
+
+msgid "Import Image"
+msgstr "joossa' maxkar"
+
+msgid "Import List"
+msgstr "joossa' u'uanxim"
+
+msgid "Import Project"
+msgstr "joossa' aixim tu'm ua'nxim"
+
+msgid "import project"
+msgstr "joossa' aixim tu'm ua'nxim"
+
+msgid "Import Sound"
+msgstr "joossa sasab"
+
+msgid "Incompatible Scratch file format"
+msgstr "na pai' tum ulhis ma'n na jax chu'm"
+
+msgid "Is the folder read-only?"
+msgstr "¿na pai' jum ulhis dai gu jiñkoiñ"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "k++' JPEG (10-100)"
+
+msgid "kbytes"
+msgstr "kbytes"
+
+msgid "Language"
+msgstr "a'ga"
+
+msgid "large readout"
+msgstr "gɇ'"
+
+msgid "last"
+msgstr "daipui'"
+
+msgid "left"
+msgstr "o'nsopd+r"
+
+msgid "left arrow"
+msgstr "u'uu o'nsopd+r"
+
+msgid "length"
+msgstr "Na jᶤ'x jir tɇb"
+
+msgid "light"
+msgstr "Bᶤgi'ñ"
+
+msgid "Line tool (draw lines)"
+msgstr "na pai'dh+r jum booso' gu tɇ'tɇb"
+
+msgid "List name?"
+msgstr "¿jax ch+ na pai' tu daxix"
+
+msgid "Low"
+msgstr "t+bañdha' "
+
+msgid "Lowest (smallest)"
+msgstr "iom b+ta'n"
+
+msgid "Make a list"
+msgstr "xibkam "
+
+msgid "Make a variable"
+msgstr "xibkam aixim tu'm"
+
+msgid "Max:"
+msgstr "max:"
+
+msgid "meow"
+msgstr "ñau"
+
+msgid "Message name:"
+msgstr "jax ch+' gui' nat jum joot"
+
+msgid "Min:"
+msgstr "min:"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "mui'"
+
+msgid "More tags:"
+msgstr "mui' bhibhixdam:"
+
+msgid "mosaic"
+msgstr "aixim tu'm bh+ndhixim"
+
+msgid "mouse x:"
+msgstr "x gu bas+k"
+
+msgid "mouse y:"
+msgstr "y gu bas+k"
+
+msgid "mouse-pointer"
+msgstr "s+ss+ñkaru'n gu bas+k"
+
+msgid "Move"
+msgstr "joiñiñ"
+
+msgid "Music"
+msgstr "saasab"
+
+msgid "My Projects"
+msgstr ""
+
+msgid "new"
+msgstr "xibkam"
+
+msgid "New"
+msgstr "Xibkam"
+
+msgid "New background:"
+msgstr "tuukab xibkam:"
+
+msgid "New costume:"
+msgstr "xibkam aixim tu'm t+ t+'kam:"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "xibkam t+' na pai' tum ga'mu:"
+
+msgid "New sound:"
+msgstr "xibkam sasab"
+
+msgid "New Sprite"
+msgstr "xibkam tu'"
+
+msgid "New sprite:"
+msgstr ""
+
+msgid "No"
+msgstr "cham"
+
+msgid "No MIDI ports currently available."
+msgstr "cham jax chu'm ki'ngob MIDI bhai'"
+
+msgid "No motion blocks"
+msgstr "cham jaich daagixkam na joiñ"
+
+msgid "no scripts"
+msgstr "cham jaich gu b+x aixim ua'nxim"
+
+msgid "No serial ports found"
+msgstr "cham jax chu'm ki'ngob jix bhai'"
+
+msgid "No variables."
+msgstr "cham jaich gu aixim tu'm"
+
+msgid "Normal"
+msgstr "Amp+x"
+
+msgid "normal readout"
+msgstr ""
+
+msgid "Off"
+msgstr "tuukix"
+
+msgid "OK"
+msgstr "j+'ñdha'"
+
+msgid "On"
+msgstr "m+ichdhix"
+
+msgid "only face left-right"
+msgstr "dai mija'k t+ t+gia' o'nsopd+r-k+'nd+r"
+
+msgid "Open"
+msgstr "kupiok"
+
+msgid "Open a Scratch project"
+msgstr "kupio'ka'ap gu b+x aixim tu'm ua'ñixkam na pai' gu Scratch"
+
+msgid "Open Project"
+msgstr "kupiok gu aixim tu'm ua'ñixkam"
+
+msgid "or"
+msgstr "o"
+
+msgid "Paint"
+msgstr "mamxiñ"
+
+msgid "Paint Editor"
+msgstr "na pai'dh+r buan na k+'n tum mamxi'ñ"
+
+msgid "Paint new sprite"
+msgstr "tu'p xibkam xi mamxidha'"
+
+msgid "Paintbrush"
+msgstr "k+'n tum mamxi'ñ"
+
+msgid "Password:"
+msgstr "jax chu'm k+'n bakia':"
+
+msgid "Percent? (100 gives original size)"
+msgstr "¿j+'xkada'? (100 amp+x na j+'x ka')"
+
+msgid "Pictures"
+msgstr "mamaxkar"
+
+msgid "pixelate"
+msgstr "Pixelizar"
+
+msgid "play"
+msgstr "taata'"
+
+msgid "Please enter a number"
+msgstr "mi'dh+r jap ma'n xi aaga' gu ja'kolhiñ"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "bhai'kada'ap gu kuga'n na xikolh jimm+"
+
+msgid "Preparing project..."
+msgstr "buim aixim tu'm ua'nixkam…"
+
+msgid "Project author:"
+msgstr "jup duu dhi aiximtu'm ua'ñixkam"
+
+msgid "Project name"
+msgstr "jax ch+' aixim tu'm ua'ñixkam"
+
+msgid "Project Notes"
+msgstr "tu daaxix bhaan aixim tu'm ua'nixkam"
+
+msgid "Project notes"
+msgstr "tu daaxix bhaan aixim tu'm ua'nixkam"
+
+msgid "Project uploaded."
+msgstr "aixim tu'm ua'ñixkam mui'dh+t"
+
+msgid "Projects"
+msgstr "aixim tu'm ua'ñixkam"
+
+msgid "Quit"
+msgstr "mi'p xi buaje"
+
+msgid "Quit Scratch"
+msgstr "mi'p xi buaje Scratch"
+
+msgid "Reading"
+msgstr ""
+
+msgid "record"
+msgstr "gamußap maßn na jaxchußm"
+
+msgid "Record"
+msgstr "Gamußap maßn na jaxchußm"
+
+msgid "recording"
+msgstr "na paiß jum ulhix gu ñiok"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "na pai'dh+r jum booso' gu maakob t+b ju'ñdharkam"
+
+msgid "Redo"
+msgstr "dhi gio ja'k jup bua'"
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "ja'k bh+iya' na pai'dh+r n+iñ dhi ………………"
+
+msgid "resistance"
+msgstr "kabaak"
+
+msgid "resize this sprite"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "k+'nd+r"
+
+msgid "right arrow"
+msgstr "u'uu k+'nd+r"
+
+msgid "Rotate clock-wise"
+msgstr ""
+"xikolh bh+iya' na jax ja'k jimda' na pai' bhaan jix maat+' na bar j+'kka'"
+
+msgid "Rotate counter-clock-wise"
+msgstr ""
+"xikolh bh+iya' na jax ja'k cham jimm+ na pai' bhaan jix maat+' na bar "
+"j+'kka'"
+
+msgid "rotate this sprite"
+msgstr ""
+
+msgid "Rotation degrees?"
+msgstr ""
+
+msgid "Save"
+msgstr "ulhña'"
+
+msgid "Save a copy of the current project"
+msgstr "ulhña ma'n puchu'm na b+x aixim tu'm ua'ñixkam"
+
+msgid "Save As"
+msgstr "ulhna' ap ja'pnija'k"
+
+msgid "Save changes before quitting?"
+msgstr ""
+
+msgid "Save failed"
+msgstr "cham bhai' jum ulh"
+
+msgid "save picture of scripts"
+msgstr "ulhña'ap gui' na bhai'p+x jum maaxi'ñ nap bhaan tu juan"
+
+msgid "save picture of stage..."
+msgstr "ulñaßap na paiß joidham jix bhaß tum mamxißñ."
+
+msgid "Save Project"
+msgstr "ulhña'ap gu uanxim."
+
+msgid "Save Scripts Snapshot"
+msgstr "ulhña'ap gui' na bhai' p+x jum maaxi'ñ bhaan nap bhaan tu juan"
+
+msgid "Save Stage Shot"
+msgstr "ulhña'ap gui' na bhai'p+x jum maaxi'ñ nap bhaan tu juan"
+
+msgid "Save the current project"
+msgstr "ulhña'ap dhi' nap bhaan tu juaan xib"
+
+msgid "Save the current project?"
+msgstr "¿ulhña'ap a dhi' nap bhaan tu juaan xib?"
+
+msgid "Save this project"
+msgstr ""
+
+msgid "Scripts"
+msgstr "b+x na tu' bhax maat+'"
+
+msgid "select serial/USB port"
+msgstr "n+idhixkam ap kupio'kidha' na paja'k aagidha' dhi USB"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr ""
+"na pai'dh+r busaak na k+'n tum juaan(joi'ñdha',maakam duudñia' piam na ja'k "
+"bh+iya'bh+iya'"
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr "gaaga' ap nap jaxchu'm ñi'ok k+'n jix chu juaanam……….."
+
+msgid "Set rotation center"
+msgstr "gaaga' ap nap pai'dh+r xikolh bua'"
+
+msgid "Set Single Stepping"
+msgstr "xi n+n+iñdha'ap na jax mui' jim k++sa'….."
+
+msgid "set slider min and max"
+msgstr ""
+"dasa'ap na jaxchu'm jir +lhich gio na ge'  jup jum bua na pai' s+lh ua'ñix"
+
+msgid "Share"
+msgstr "¡mapga'n ich!"
+
+msgid "Share this project"
+msgstr ""
+
+msgid "Share This Project Online"
+msgstr "mapga'n ich dhi'ñi …."
+
+msgid "Show Motor Blocks"
+msgstr ""
+
+msgid "show ScratchBoard watcher"
+msgstr "maxdha'ap ScratchBoard"
+
+msgid "Shrink"
+msgstr "tlhichkada'ap"
+
+msgid "Shrink sprite"
+msgstr "Tlhichkada'ap dhi tu'"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Single-step speed?"
+msgstr ""
+
+msgid "slider"
+msgstr "ja'p xi bh+ichu'n"
+
+msgid "Slider range:"
+msgstr "gɇ' nam++k"
+
+msgid "Sound quality:"
+msgstr "jix bhai' kaidha':"
+
+msgid "Sound Recorder"
+msgstr "man na jax chu'm maakam ja'k kaiñcha'"
+
+msgid "Sounds"
+msgstr "kaidha'"
+
+msgid "Sounds compressed"
+msgstr "jix bhai' +lhichkadhixkam kaidha'"
+
+msgid "space"
+msgstr "na pai jax jix chu bhai'"
+
+msgid "Sprite"
+msgstr "tu' na p+x"
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr "ma'n na jax chu' bhaan ja'kolhiñ t+'k+b jim"
+
+msgid "Stage"
+msgstr "na pai' tum joojoiñ"
+
+msgid "Stage selected:"
+msgstr "na pai' tum joojoiñ n+idhixkam:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Daxkar (matg+lhchudajiap jᶤ'x gio ba' mui' bosga'"
+
+msgid "Start green flag scripts"
+msgstr "bhaan dhi bañdhir jix momdora' pui' duñidha' napich jax ja'k da'ñ………"
+
+msgid "Start Single Stepping"
+msgstr "xi ja t+gia'ap j+'d+lh"
+
+msgid "stop"
+msgstr "Xi kᶤᶤs"
+
+msgid "Stop everything"
+msgstr "b+x ap xi k++sa'"
+
+msgid "Stop Single Stepping"
+msgstr "k++sa' ap dhi' nap n+idhim na jax jum bua……………."
+
+msgid "Story"
+msgstr ""
+
+msgid "Support Site"
+msgstr ""
+
+msgid "Switch colors"
+msgstr "jax nap p+x chu' k+'n b+ndidha' dhi mamxi'ñkar"
+
+msgid "Switch to full stage"
+msgstr ""
+
+msgid "Switch to presentation mode"
+msgstr ""
+
+msgid "Switch to small stage"
+msgstr ""
+
+msgid "Tags:"
+msgstr "Bhaan jix maatᶤ'"
+
+msgid "Text tool (edit text layer)"
+msgstr "na pai'dh+r k+'n tum u'uan"
+
+msgid "That variable name is already in use"
+msgstr "dhi' nap jax dha'nsa jumai pui' ba t++'"
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "dhi' nap jix ch+tgan na pai' tum ulhs ba jaich.¿pui' ap jix ch+tgam?"
+
+msgid "thing"
+msgstr ""
+
+msgid "this way"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "true"
+msgstr "s+lhkam"
+
+msgid "Turbo speed"
+msgstr "io'm xi'"
+
+msgid "turn into new sprite"
+msgstr "jumai xibkamkada tu' na p+x"
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Undo"
+msgstr "kañio'ka'"
+
+msgid "up"
+msgstr "damd+r"
+
+msgid "up arrow"
+msgstr "u'uu damd+r"
+
+msgid "Updating thumbnails"
+msgstr "msgid \"Updating thumbnails\""
+
+msgid "Upload succeeded!"
+msgstr "ua'xim ba tu jooxxix!"
+
+msgid "Upload to Scratch Server"
+msgstr "joossa'ap na pai'dh+r gu Scratch"
+
+msgid "Uploading"
+msgstr "mu tu jossatu'"
+
+msgid "Variable name?"
+msgstr "Na jax chᶤ gui' na pᶤx ji busnia'"
+
+msgid "View on stage"
+msgstr "jum maxdha' na pich jax ja'k chia nam buada'"
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr "xiboolhik"
+
+msgid "world"
+msgstr ""
+
+msgid "Write Multiple Project Summaries"
+msgstr "jup duuñia' ap na pai' ua'nixkam mui' mix maat+'"
+
+msgid "Write Project Summary"
+msgstr "jup duñia'ap na pai'dh+r jix maat+' dhi ua'ñixkam"
+
+msgid "Yes"
+msgstr "jɇ'"
+
+msgid "Your project is now online at"
+msgstr "Dhi uañxim mu jup tu'i' Internet Ta'm"
+
+msgid "Your Scratch website login name:"
+msgstr "jaxch+' gui' na mi'x juaanam:"
+
+msgid "Zoom in"
+msgstr "miankada'ap"
+
+msgid "Zoom out"
+msgstr "m+kkada'ap"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "nansap+xkam sasbikar"
+
+msgid "Acoustic Bass"
+msgstr ""
+
+msgid "Acoustic Bass Drum"
+msgstr ""
+
+msgid "Acoustic Grand"
+msgstr ""
+
+msgid "Acoustic Snare"
+msgstr ""
+
+msgid "Agogo"
+msgstr "Agogó"
+
+msgid "Alto Sax"
+msgstr ""
+
+msgid "Applause"
+msgstr "kakpias"
+
+msgid "Bagpipe"
+msgstr ""
+
+msgid "Banjo"
+msgstr ""
+
+msgid "Baritone Sax"
+msgstr ""
+
+msgid "Bass Drum 1"
+msgstr ""
+
+msgid "Bassoon"
+msgstr ""
+
+msgid "Bird Tweet"
+msgstr ""
+
+msgid "Blown Bottle"
+msgstr "xu'ngi' jix kabaak buxchamxim"
+
+msgid "Brass Section"
+msgstr "na pai' jix maatᶤ' gu bapaiñum"
+
+msgid "Breath Noise"
+msgstr "kaidha' na iibhᶤ"
+
+msgid "Bright Acoustic"
+msgstr ""
+
+msgid "Cabasa"
+msgstr ""
+
+msgid "Celesta"
+msgstr ""
+
+msgid "Cello"
+msgstr ""
+
+msgid "Chinese Cymbal"
+msgstr ""
+
+msgid "Choir Aahs"
+msgstr "Coro de aahs"
+
+msgid "Church Organ"
+msgstr "saasab chiopkam"
+
+msgid "Clarinet"
+msgstr "t+b tirimiax"
+
+msgid "Claves"
+msgstr ""
+
+msgid "Clavinet"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr ""
+
+msgid "Contrabass"
+msgstr ""
+
+msgid "Cowbell"
+msgstr "samomdam sasoi' ja soso'm"
+
+msgid "Crash Cymbal 1"
+msgstr "jooxia' crash ma'n"
+
+msgid "Crash Cymbal 2"
+msgstr "jooxia' crash gok"
+
+msgid "Distortion Guitar"
+msgstr "kichaar tu'mpixim…………………."
+
+msgid "Drawbar Organ"
+msgstr "Órgano Hammond"
+
+msgid "Dulcimer"
+msgstr "Dulcémele"
+
+msgid "Electric Bass (finger)"
+msgstr "b+ta'n kichaar jum sasabdam(dedos)"
+
+msgid "Electric Bass (pick)"
+msgstr "b+ta'n kichaar jum sasabdam juut k++'n"
+
+msgid "Electric Clean Guitar"
+msgstr "kichaar jum sabdam"
+
+msgid "Electric Grand"
+msgstr ""
+
+msgid "Electric Jazz Guitar"
+msgstr "kichar "
+
+msgid "Electric Muted Guitar"
+msgstr "kichar "
+
+msgid "Electric Piano 1"
+msgstr ""
+
+msgid "Electric Piano 2"
+msgstr ""
+
+msgid "Electric Snare"
+msgstr ""
+
+msgid "English Horn"
+msgstr ""
+
+msgid "FX 1 (rain)"
+msgstr "Xi abhartuda'ap duk kᶤn "
+
+msgid "FX 2 (soundtrack)"
+msgstr "Xi abhartuda'ap gu tᶤroon kᶤ'n"
+
+msgid "FX 3 (crystal)"
+msgstr "Xi abhartuda'ap na kai'ñcha' "
+
+msgid "FX 4 (atmosphere)"
+msgstr "Xi abhartuda'ap ja'pna gampᶤx"
+
+msgid "FX 5 (brightness)"
+msgstr "Xi abhartuda'ap na am totbikda'"
+
+msgid "FX 6 (goblins)"
+msgstr "Xi abhartuda'ap ᶤ'lhich ja'tkam kᶤ'n"
+
+msgid "FX 7 (echoes)"
+msgstr "Xi abhartuda'ap kᶤ'n gu jix kaidha' bapai'"
+
+msgid "FX 8 (sci-fi)"
+msgstr "Xi abhartuda'ap na giilhim xim buada' nap champai' nᶤi'n"
+
+msgid "Fiddle"
+msgstr "laber "
+
+msgid "Flute"
+msgstr "tirimiax"
+
+msgid "French Horn"
+msgstr ""
+
+msgid "Fretless Bass"
+msgstr ""
+
+msgid "Glockenspiel"
+msgstr ""
+
+msgid "Guitar Fret Noise"
+msgstr ""
+
+msgid "Guitar Harmonics"
+msgstr ""
+
+msgid "Gunshot"
+msgstr "Xipun "
+
+msgid "Hand Clap"
+msgstr "Gᶤbxi'ñ "
+
+msgid "Harmonica"
+msgstr ""
+
+msgid "Harpsichord"
+msgstr ""
+
+msgid "Helicopter"
+msgstr ""
+
+msgid "Hi Bongo"
+msgstr ""
+
+msgid "Hi Wood Block"
+msgstr ""
+
+msgid "Hi-Mid Tom"
+msgstr ""
+
+msgid "High Agogo"
+msgstr ""
+
+msgid "High Floor Tom"
+msgstr ""
+
+msgid "High Timbale"
+msgstr ""
+
+msgid "High Tom"
+msgstr ""
+
+msgid "Honky-Tonk"
+msgstr ""
+
+msgid "Kalimba"
+msgstr ""
+
+msgid "Koto"
+msgstr ""
+
+msgid "Lead 1 (square)"
+msgstr "Dhi'pᶤk na jimm+ ja'pna suudai'"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Dhi'pᶤk nax mu'muk jimmᶤ"
+
+msgid "Lead 3 (calliope)"
+msgstr "Dhi'pᶤk saabkar dᶤ'nkam"
+
+msgid "Lead 4 (chiff)"
+msgstr "Dhi'pᶤk sabkar gai jimmᶤdam "
+
+msgid "Lead 5 (charang)"
+msgstr ""
+
+msgid "Lead 6 (voice)"
+msgstr "Dhi'pᶤk kartarga'n"
+
+msgid "Lead 7 (fifths)"
+msgstr "Dhi'pᶤx sabkar jix chamam gigiarkam "
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Dhi'pᶤk saasab na bᶤta'n"
+
+msgid "Long Guiro"
+msgstr ""
+
+msgid "Long Whistle"
+msgstr "tɇb kuichdha'kar"
+
+msgid "Low Agogo"
+msgstr ""
+
+msgid "Low Bongo"
+msgstr ""
+
+msgid "Low Conga"
+msgstr ""
+
+msgid "Low Floor Tom"
+msgstr ""
+
+msgid "Low Timbale"
+msgstr ""
+
+msgid "Low Tom"
+msgstr ""
+
+msgid "Low Wood Block"
+msgstr ""
+
+msgid "Low-Mid Tom"
+msgstr ""
+
+msgid "Maracas"
+msgstr ""
+
+msgid "Marimba"
+msgstr ""
+
+msgid "Melodic Tom"
+msgstr ""
+
+msgid "Music Box"
+msgstr ""
+
+msgid "Mute Cuica"
+msgstr ""
+
+msgid "Mute Hi Conga"
+msgstr ""
+
+msgid "Mute Triangle"
+msgstr ""
+
+msgid "Muted Trumpet"
+msgstr ""
+
+msgid "Nylon String Guitar"
+msgstr "Kichar"
+
+msgid "Oboe"
+msgstr ""
+
+msgid "Ocarina"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr ""
+
+msgid "Open Hi Conga"
+msgstr ""
+
+msgid "Open Hi-Hat"
+msgstr ""
+
+msgid "Open Triangle"
+msgstr ""
+
+msgid "Orchestra Hit"
+msgstr ""
+
+msgid "Orchestral Strings"
+msgstr ""
+
+msgid "Overdriven Guitar"
+msgstr "Kiichar jix buam p+x sab "
+
+msgid "Pad 1 (new age)"
+msgstr "tu'kab ma'n(xibkam"
+
+msgid "Pad 2 (warm)"
+msgstr "tu'kab gok(                 )"
+
+msgid "Pad 3 (polysynth)"
+msgstr "tu'kab baik (+lhichkandam)"
+
+msgid "Pad 4 (choir)"
+msgstr "tu'kab maakob(mui' kaidha')"
+
+msgid "Pad 5 (bowed)"
+msgstr "tukab chamam(na gaat)"
+
+msgid "Pad 6 (metallic)"
+msgstr "tukab xiumma'n(tobikdam)"
+
+msgid "Pad 7 (halo)"
+msgstr "tukab xiumgok(aureola)"
+
+msgid "Pad 8 (sweep)"
+msgstr "tukab xiummaakob(boxkixim)"
+
+msgid "Pan Flute"
+msgstr "tirimiax  "
+
+msgid "Pedal Hi-Hat"
+msgstr ""
+
+msgid "Percussive Organ"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Pizzicato Strings"
+msgstr ""
+
+msgid "Recorder"
+msgstr "tirimiax jix maikak"
+
+msgid "Reed Organ"
+msgstr ""
+
+msgid "Reverse Cymbal"
+msgstr "joxia' kuikxim"
+
+msgid "Ride Bell"
+msgstr "samuñkar joxia' añdhadam"
+
+msgid "Ride Cymbal 1"
+msgstr "joxia' a'ñdhadam ma'n"
+
+msgid "Ride Cymbal 2"
+msgstr "joxia' a'ñdhadam gok"
+
+msgid "Rock Organ"
+msgstr ""
+
+msgid "Seashore"
+msgstr "gɇ' suudai'"
+
+msgid "Shakuhachi"
+msgstr ""
+
+msgid "Shamisen"
+msgstr ""
+
+msgid "Shanai"
+msgstr ""
+
+msgid "Short Guiro"
+msgstr ""
+
+msgid "Short Whistle"
+msgstr "tupulhich kuichdha'kar"
+
+msgid "Side Stick"
+msgstr "s+lh ja'k g++g+b"
+
+msgid "Sitar"
+msgstr ""
+
+msgid "Slap Bass 1"
+msgstr "b+ta'n g+bix ma'n"
+
+msgid "Slap Bass 2"
+msgstr "b+ta'n g+bix gok"
+
+msgid "Soprano Sax"
+msgstr ""
+
+msgid "Splash Cymbal"
+msgstr "joxia' splash"
+
+msgid "Steel Drums"
+msgstr "bapaiñum tatambulh"
+
+msgid "Steel String Guitar"
+msgstr "kiichar "
+
+msgid "String Ensemble 1"
+msgstr "mui' t+ttropiñ sab ma'n"
+
+msgid "String Ensemble 2"
+msgstr "mui' t+ttropiñ sab gok"
+
+msgid "Synth Bass 1"
+msgstr "b+ta'n +lhichkadhix ma'n"
+
+msgid "Synth Bass 2"
+msgstr "b+ta'n +lhichkadhix gok"
+
+msgid "Synth Drum"
+msgstr ""
+
+msgid "Synth Voice"
+msgstr "tlhichkadix gu ñi'ok"
+
+msgid "SynthBrass 1"
+msgstr "t'lhichkadhixkam bapaiñum ma'n"
+
+msgid "SynthBrass 2"
+msgstr "t'lhichkadhixkam bapaiñum gok"
+
+msgid "SynthStrings 1"
+msgstr "t'rdich t+ttropiñ sasab ma'n"
+
+msgid "SynthStrings 2"
+msgstr "t'rdich t+ttropiñ sasab gok"
+
+msgid "Taiko Drum"
+msgstr "tambolh"
+
+msgid "Tambourine"
+msgstr ""
+
+msgid "Tango Accordion"
+msgstr ""
+
+msgid "Telephone Ring"
+msgstr ""
+
+msgid "Tenor Sax"
+msgstr ""
+
+msgid "Timpani"
+msgstr ""
+
+msgid "Tinkle Bell"
+msgstr "ᶤlhi'ch saamunkar"
+
+msgid "Tremolo Strings"
+msgstr ""
+
+msgid "Trombone"
+msgstr ""
+
+msgid "Trumpet"
+msgstr "Gɇ' kuixdhakar"
+
+msgid "Tuba"
+msgstr ""
+
+msgid "Tubular Bells"
+msgstr "samuñkar  d+'nkam"
+
+msgid "Vibraphone"
+msgstr ""
+
+msgid "Vibraslap"
+msgstr ""
+
+msgid "Viola"
+msgstr ""
+
+msgid "Violin"
+msgstr "laber "
+
+msgid "Voice Oohs"
+msgstr ""
+
+msgid "Whistle"
+msgstr "Kuichdha'kar "
+
+msgid "Woodblock"
+msgstr ""
+
+msgid "Xylophone"
+msgstr ""

@@ -1,0 +1,2009 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-02-24 08:59-0400\n"
+"Last-Translator: Sreeja Velayudhan <sree.arkays@gmail.com>\n"
+"Language-Team: \n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.1\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu&amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# &amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
+# (Required)
+msgid "Language-Name"
+msgstr "മലയാളം"
+
+# Directionality of language&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# LTR = Left to Right&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)<br />
+# <br />
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "2"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr ""
+
+msgid "%L contains %s"
+msgstr "%Lല്‍ %s ഉണ്ടോ"
+
+msgid "%a of %m"
+msgstr "%mന്റെ %a"
+
+msgid "%b and %b"
+msgstr "%b കൂടാതെ %b"
+
+msgid "%b or %b"
+msgstr "%b അഥവ %b"
+
+msgid "%f of %n"
+msgstr "%nന്റെ %f"
+
+msgid "%n mod %n"
+msgstr "%n ശിഷ്ടം %n"
+
+msgid "add %s to %L"
+msgstr "%sനോട് കൂടി %L കൂട്ടുക"
+
+msgid "answer"
+msgstr "ഉത്തരം"
+
+msgid "ask %s and wait"
+msgstr "%s ചോദിച്ചു കാത്തിരിക്കുക"
+
+# /പശ്ചാത്തലം
+msgid "background #"
+msgstr "രംഗം #"
+
+msgid "broadcast %e"
+msgstr "%e വിളംബരം ചെയ്യുക"
+
+msgid "broadcast %e and wait"
+msgstr "%e വിളംബരം ചെയ്തു കാത്തിരിക്കുക"
+
+msgid "change %g effect by %n"
+msgstr "%g %n കൊണ്ട് മാറ്റുക"
+
+msgid "change %v by %n"
+msgstr "%v,%n കൊണ്ട് മാറ്റുക"
+
+msgid "change pen color by %n"
+msgstr "പേനയുടെ നിറം %n കൊണ്ട് മാറ്റുക"
+
+msgid "change pen shade by %n"
+msgstr "പേനയുടെ ഷേഡ് %n കൊണ്ട് മാറ്റുക"
+
+msgid "change pen size by %n"
+msgstr "പേനയുടെ വലിപ്പം %n കൊണ്ട് മാറ്റുക"
+
+msgid "change size by %n"
+msgstr "വലിപ്പം %n കൊണ്ട് മാറ്റുക"
+
+msgid "change tempo by %n"
+msgstr "ടെംപോ %n കൊണ്ട് മാറ്റുക"
+
+msgid "change volume by %n"
+msgstr "ശബ്ദത്തെ %nകൊണ്ട് മാറ്റുക"
+
+msgid "change x by %n"
+msgstr "xനെ %n കൊണ്ട് മാറ്റുക"
+
+msgid "change y by %n"
+msgstr "yനെ %n കൊണ്ട് മാറ്റുക"
+
+msgid "clear"
+msgstr "മായ്ക്കുക"
+
+msgid "clear graphic effects"
+msgstr "ഗ്രാഫിക്‌ എഫ്ഫെക്ട്സ് മാറ്റുക"
+
+msgid "color %C is touching %C?"
+msgstr "%C കളര്‍ %Cനെ തൊടുന്നുണ്ടോ?"
+
+msgid "control"
+msgstr "നിയന്ത്രണം"
+
+msgid "costume #"
+msgstr "രൂപം #"
+
+msgid "delete %y of %L"
+msgstr "%Lന്റെ %y കളയുക"
+
+msgid "direction"
+msgstr "ദിശ"
+
+msgid "distance to %m"
+msgstr "%mലേക്കുള്ള ദൂരം"
+
+msgid "else"
+msgstr "അല്ലെങ്കില്‍"
+
+msgid "forever"
+msgstr "എല്ലായ്പ്പോഴും"
+
+msgid "forever if %b"
+msgstr "%b ആണെങ്കില്‍ എല്ലായ്പ്പോഴും"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n സെകന്റില്‍ x:%n,y:%nലേക്ക് നീങ്ങുക"
+
+msgid "go back %n layers"
+msgstr "%n പാളി അകത്തേക്ക് പോവുക"
+
+msgid "go to %m"
+msgstr "%m ലേക്ക് പോവുക"
+
+msgid "go to front"
+msgstr "ഉപരിതലത്തിലോട്ടു വരിക"
+
+msgid "go to x:%n y:%n"
+msgstr "x:%n,y:%nലേക്ക് പോവുക"
+
+# /അപ്രത്യക്ഷമാവുക
+msgid "hide"
+msgstr "ഒളിക്കുക"
+
+msgid "hide variable %v"
+msgstr "%vഎന്ന ചരത്തെ ഒളിപ്പിച്ചു വയ്ക്കുക"
+
+msgid "if %b"
+msgstr "%b ആണെങ്കില്‍"
+
+msgid "if on edge, bounce"
+msgstr "അറ്റത്താണെങ്കില്‍ തിരിച്ചു നടക്കുക"
+
+msgid "insert %s at %i of %L"
+msgstr "%Lന്റെ %iല്‍ %s ഉള്‍പ്പെടുത്തുക"
+
+msgid "item %i of %L"
+msgstr "%Lന്റെ %iമത്തെ ഐറ്റം"
+
+msgid "join %s %s"
+msgstr "%sഉം %sഉം യോജിപ്പിക്കുക"
+
+msgid "key %k pressed?"
+msgstr "%k എന്ന കീ അമര്‍ത്തിയോ?"
+
+msgid "length of %L"
+msgstr "%Lന്റെ നീളം"
+
+msgid "length of %s"
+msgstr "%sന്റെ നീളം"
+
+msgid "letter %n of %s"
+msgstr "%sന്റെ %nമത്തെ അക്ഷരം"
+
+msgid "list"
+msgstr "ലിസ്റ്റ്"
+
+msgid "looks"
+msgstr "കാഴ്ച"
+
+# /ഉറക്കെ
+msgid "loud?"
+msgstr "ഉച്ചത്തില്‍?"
+
+msgid "loudness"
+msgstr "ഉച്ചത"
+
+msgid "motion"
+msgstr "ചലനം"
+
+msgid "motor direction %W"
+msgstr "മോട്ടോറിന്റെ ദിശ %w"
+
+msgid "motor off"
+msgstr "മോട്ടോര്‍ ഓഫ്‌ ചെയ്യുക"
+
+msgid "motor on"
+msgstr "മോട്ടോര്‍ ഓണ്‍ ചെയ്യുക"
+
+msgid "motor on for %n secs"
+msgstr "%n സെകന്റ് സമയത്തേക്ക് മോട്ടോര്‍ ഓണ്‍ ചെയ്യുക"
+
+msgid "motor power %n"
+msgstr "മോട്ടോറിന്റെ പവര്‍ %n"
+
+msgid "mouse down?"
+msgstr "മൗസ് താഴെയാണോ?"
+
+msgid "mouse x"
+msgstr "മൗസിന്റെ x സ്ഥാനം"
+
+msgid "mouse y"
+msgstr "മൗസിന്റെ y സ്ഥാനം"
+
+msgid "move %n steps"
+msgstr "%n സ്റ്റെപ്സ് നീങ്ങുക"
+
+# /പശ്ചാത്തലം
+msgid "next background"
+msgstr "അടുത്ത രംഗം"
+
+# /വേഷം
+# 
+msgid "next costume"
+msgstr "അടുത്ത രൂപം"
+
+msgid "not %b"
+msgstr "%b അല്ല"
+
+msgid "operators"
+msgstr "ക്രിയകള്‍"
+
+msgid "pen"
+msgstr "പേന"
+
+msgid "pen down"
+msgstr "വരയ്ക്കാന്‍ തുടങ്ങുക"
+
+msgid "pen up"
+msgstr "വരയുന്നത് നിര്‍ത്തുക"
+
+msgid "pick random %n to %n"
+msgstr "%n മുതല്‍ %n വരെയുള്ള ഏതെങ്കിലും സംഖ്യ എടുക്കുക"
+
+msgid "play drum %D for %n beats"
+msgstr "%D ഡ്രം കൊണ്ടു %n ബീറ്റ്സ് അവതരിപ്പിക്കുക"
+
+# /നോട്ട്
+msgid "play note %N for %n beats"
+msgstr "%Nമത്തെ സ്വരം %n ബീറ്റ്സ് അവതരിപ്പിക്കുക"
+
+msgid "play sound %S"
+msgstr "%S ശബ്ദമുണ്ടാക്കുക"
+
+msgid "play sound %S until done"
+msgstr "തീരുന്നതു വരെ %S ശബ്ദമുണ്ടാക്കുക"
+
+msgid "point in direction %d"
+msgstr "%dലേക്ക് തിരിയുക"
+
+msgid "point towards %m"
+msgstr "%mലേക്ക് തിരിയുക"
+
+msgid "repeat %n"
+msgstr "%n തവണ ആവര്‍ത്തിക്കുക"
+
+msgid "repeat until %b"
+msgstr "%b ആവുന്നത് വരെ ആവര്‍ത്തിക്കുക"
+
+msgid "replace item %i of %L with %s"
+msgstr "%Lന്റെ %iമത്തെ ഐറ്റം %sകൊണ്ട് മാറ്റുക"
+
+msgid "reset timer"
+msgstr "ടൈമര്‍ വീണ്ടും തുടങ്ങുക"
+
+msgid "rest for %n beats"
+msgstr "%n ബീറ്റ് സമയം കാത്തിരിക്കുക"
+
+msgid "round %n"
+msgstr "%n റൗണ്ട് ചെയ്യുക"
+
+msgid "say %s"
+msgstr "%s പറയുക"
+
+msgid "say %s for %n secs"
+msgstr "%s %nസെകന്റ് പറയുക"
+
+# /ബോധം,മനസ്സിലാവുക
+msgid "sensing"
+msgstr "ഗ്രഹണം"
+
+msgid "sensor %h?"
+msgstr ""
+
+msgid "set %g effect to %n"
+msgstr "%gഎന്ന സ്പെഷല്‍ എഫെക്റ്റ് %nആക്കുക"
+
+msgid "set %v to %n"
+msgstr "%vനെ %n ആക്കി മാറ്റുക"
+
+msgid "set instrument to %I"
+msgstr "%Iമത്തെ സംഗീതോപകരണം"
+
+msgid "set pen color to %c"
+msgstr "പേന %c നിറം ആക്കുക"
+
+msgid "set pen color to %n"
+msgstr "പേനയുടെ നിറം %n ആക്കുക"
+
+msgid "set pen shade to %n"
+msgstr "പേനയുടെ ഷേഡ് %n ആക്കുക"
+
+msgid "set pen size to %n"
+msgstr "പേനയുടെ വലിപ്പം %n ആക്കുക"
+
+msgid "set size to %n%"
+msgstr "വലിപ്പം %n% ആക്കുക"
+
+msgid "set tempo to %n bpm"
+msgstr "ടെംപോ %n ബീറ്റ്സ്/മിനിറ്റ് ആക്കുക"
+
+msgid "set volume to %n%"
+msgstr "ശബ്ദത്തെ %n% ആക്കുക"
+
+msgid "set x to %n"
+msgstr "xനെ %n ആക്കുക"
+
+msgid "set y to %n"
+msgstr "yനെ %n ആക്കുക"
+
+msgid "show"
+msgstr "പ്രത്യക്ഷമാവുക"
+
+msgid "show variable %v"
+msgstr "%v എന്ന ചരം കാണിക്കുക"
+
+msgid "size"
+msgstr "വലിപ്പം"
+
+msgid "sound"
+msgstr "ശബ്ദം"
+
+# /പതിപ്പിക്കുക
+msgid "stamp"
+msgstr "ഒട്ടിക്കുക"
+
+msgid "stop all"
+msgstr "എല്ലാം നിര്‍ത്തുക"
+
+msgid "stop all sounds"
+msgstr "ശബ്ദം ഉണ്ടാക്കുന്നത്‌ നിര്‍ത്തുക"
+
+msgid "stop script"
+msgstr "പ്രോഗ്രാം നിര്‍ത്തുക"
+
+# /പശ്ചാത്തലം
+msgid "switch to background %l"
+msgstr "രംഗം %Iലേക്ക് മാറ്റുക"
+
+# /വേഷമാക്കുക
+msgid "switch to costume %l"
+msgstr "%Iമത്തെ രൂപമാക്കുക"
+
+msgid "tempo"
+msgstr "ടെംപോ"
+
+msgid "think %s"
+msgstr "%s ചിന്തിക്കുക"
+
+msgid "think %s for %n secs"
+msgstr "%n സെകന്റ് %s ചിന്തിക്കുക"
+
+msgid "timer"
+msgstr "ടൈമര്‍"
+
+msgid "touching %m?"
+msgstr "%m തൊടുന്നുണ്ടോ?"
+
+msgid "touching color %C?"
+msgstr "%C കളര്‍ തൊടുന്നുണ്ടോ?"
+
+msgid "turn %n degrees"
+msgstr "%n ഡിഗ്രി തിരിയുക"
+
+msgid "variables"
+msgstr "ചരങ്ങള്‍"
+
+msgid "volume"
+msgstr "ശബ്ദം"
+
+msgid "wait %n secs"
+msgstr "%n സെകന്റ് കാത്തിരിക്കുക"
+
+msgid "wait until %b"
+msgstr "%b ആവുന്നത് വരെ കാത്തിരിക്കുക"
+
+msgid "when %k key pressed"
+msgstr "%k കീ അമര്‍ത്തുമ്പോള്‍"
+
+msgid "when %m clicked"
+msgstr "%m ക്ലിക്ക് ചെയ്യുമ്പോള്‍"
+
+msgid "when I receive %e"
+msgstr "ഞാന്‍ %e സ്വീകരിക്കുമ്പോള്‍"
+
+msgid "x position"
+msgstr "xസ്ഥാനം"
+
+msgid "y position"
+msgstr "yസ്ഥാനം"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(ഒഴിഞ്ഞ)"
+
+msgid "1 script"
+msgstr "1കോഡ്"
+
+msgid "About Scratch"
+msgstr "സ്ക്രാച് നെ കുറിച്ച്"
+
+msgid "About this project:"
+msgstr "ഈ പ്രൊജക്റ്റ്‌ നെ കുറിച്ച്:"
+
+msgid "abs"
+msgstr "കേവല വില"
+
+# /വിമര്‍ശനം,അഭിപ്രായം ചേര്‍ക്കുക
+msgid "add comment"
+msgstr "കമന്റ്‌ ചേര്‍ക്കുക"
+
+# /അഭിപ്രായം,വിമര്‍ശനം
+msgid "add comment here"
+msgstr "കമന്റ്‌ ഇവിടെ ചേര്‍ക്കുക"
+
+msgid "all"
+msgstr "എല്ലാം"
+
+msgid "and"
+msgstr "കൂടാതെ"
+
+msgid "Animation"
+msgstr "ആനിമേഷന്‍"
+
+msgid "any"
+msgstr "ഏതെങ്കിലും"
+
+msgid "Art"
+msgstr "കല"
+
+# /പശ്ചാത്തലം
+msgid "background"
+msgstr "രംഗം"
+
+msgid "backgrounds"
+msgstr "രംഗങ്ങള്‍"
+
+msgid "Backgrounds"
+msgstr "രംഗങ്ങള്‍"
+
+msgid "brightness"
+msgstr "തെളിച്ചം"
+
+msgid "Brush size: "
+msgstr "ബ്രഷിന്റെ വലിപ്പം:"
+
+msgid "button"
+msgstr "ബട്ടണ്‍"
+
+msgid "button pressed"
+msgstr "ബട്ടണ്‍ അമര്‍ന്നു"
+
+msgid "Camera"
+msgstr "ക്യാമറ"
+
+msgid "can rotate"
+msgstr "തിരിയാന്‍ കഴിയും"
+
+# /വേണ്ടെന്നു വയ്ക്കുക
+msgid "cancel"
+msgstr "ക്യാന്‍സല്‍ ചെയ്യുക"
+
+# /വേണ്ടെന്നു വയ്ക്കുക
+msgid "Cancel"
+msgstr "ക്യാന്‍സല്‍ ചെയ്യുക"
+
+msgid "Choose a folder"
+msgstr "ഫോള്‍ഡര്‍ തിരഞ്ഞെടുക്കുക"
+
+msgid "Choose new sprite from file"
+msgstr "ഫയലില്‍ നിന്നും ഒരു പുതിയ സ്പ്രയ്റ്റ് തെരഞ്ഞെടുക്കുക"
+
+# വൃത്തിയാക്കുക&lt;span class="translation-space"&gt; &lt;/span&gt;
+msgid "clean up"
+msgstr "ക്ലീന്‍ ചെയ്യുക"
+
+msgid "Clear"
+msgstr "മായ്ക്കുക"
+
+msgid "Clear canvas"
+msgstr "ക്യാന്‍വാസ് വൃത്തിയാക്കുക"
+
+msgid "Close and continue"
+msgstr "ക്യാന്‍വാസ് വൃത്തിയാക്കുക"
+
+msgid "Close dialog?"
+msgstr "സംഭാഷണം അവസാനിപ്പിക്കണോ?"
+
+msgid "Close paint editor?"
+msgstr "പെയിന്റ് എഡിറ്റര്‍ ക്ലോസ് ചെയ്യണോ?"
+
+msgid "close port"
+msgstr ""
+
+msgid "Close sound recorder?"
+msgstr "സൗണ്ട് റെക്കോഡര്‍ ക്ലോസ് ചെയ്യണോ?"
+
+msgid "color"
+msgstr "നിറം"
+
+# /ഇമേജ്
+msgid "Compress Images"
+msgstr "ചിത്രങ്ങള്‍ ചുരുക്കുക"
+
+msgid "Compress Sounds"
+msgstr "ശബ്ദങ്ങള്‍ ചുരുക്കുക"
+
+msgid "Compress sounds and images"
+msgstr "ചിത്രങ്ങളും ശബ്ദങ്ങളും ചുരുക്കുക"
+
+msgid "Computer"
+msgstr "കമ്പ്യൂട്ടര്‍"
+
+msgid "connected"
+msgstr "ബന്ധിപ്പിക്കുക"
+
+msgid "Connecting to "
+msgstr "ലോട്ട് ബന്ധിപ്പിക്കുക"
+
+# /പകര്‍ത്തുക
+msgid "Copy"
+msgstr "കോപ്പി ചെയ്യുക"
+
+# /വേഷം
+msgid "costume"
+msgstr "രൂപം"
+
+# /വേഷങ്ങള്‍
+msgid "costumes"
+msgstr "രൂപങ്ങള്‍"
+
+# /വേഷങ്ങള്‍
+msgid "Costumes"
+msgstr "രൂപങ്ങള്‍"
+
+msgid "Could not read"
+msgstr "വായിക്കാന്‍ സാധ്യമല്ല"
+
+msgid "Could not read project; file may be damaged"
+msgstr "പ്രൊജക്റ്റ്‌ വായിക്കാന്‍ സാധ്യമല്ല; ഫയലിന് തകരാറ് സംഭവിച്ചിരിക്കാം"
+
+msgid "Could not write file"
+msgstr "ഫയല്‍ എഴുതാന്‍ സാധ്യമല്ല"
+
+msgid "Create account"
+msgstr "അക്കൗണ്ട്‌ തുടങ്ങുക"
+
+msgid "Create an empty project"
+msgstr "പുതിയ ഒരു പ്രോജെക്റ്റ്‌ തുടങ്ങുക"
+
+msgid "Data sent. Waiting for response..."
+msgstr "ഡാറ്റ അയച്ചു കഴിഞ്ഞിരിക്കുന്നു. പ്രതികരണത്തിനായി കാത്തിരിക്കുക..."
+
+# /മായ്ച്ചു കളയുക
+msgid "delete"
+msgstr "ഡിലീറ്റ് ചെയ്യുക"
+
+# /മായ്ച്ചു കളയുക
+msgid "Delete"
+msgstr "ഡിലീറ്റ് ചെയ്യുക"
+
+# /മായ്ച്ചു കളയുക,/ഉപേക്ഷിക്കുക
+msgid "Delete a list"
+msgstr "ഒരു ലിസ്റ്റ് ഡിലീറ്റ് ചെയ്യുക"
+
+# /ഉപേക്ഷിക്കുക
+msgid "Delete a variable"
+msgstr "ഒരു ചരം ഡിലീറ്റ് ചെയ്യുക"
+
+# /വേണ്ടെന്നു വയ്ക്കുക
+msgid "Delete this background"
+msgstr "ഈ രംഗം ഡിലീറ്റ് ചെയ്യുക"
+
+# /വേഷം,/വേണ്ടെന്നു വയ്ക്കുക
+msgid "Delete this costume"
+msgstr "ഈ രൂപം ഡിലീറ്റ് ചെയ്യുക"
+
+# /വേണ്ടെന്നു വയ്ക്കുക
+msgid "Delete this sound"
+msgstr "ഈ ശബ്ദം ഡിലീറ്റ് ചെയ്യുക"
+
+# വേണ്ടെന്നു വയ്ക്കുക
+msgid "Delete this sprite"
+msgstr "ഈ സ്പ്രയ്റ്റ് ഡിലീറ്റ് ചെയ്യുക"
+
+msgid "Desktop"
+msgstr "ഡെസ്ക്ടോപ്പ്"
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr "ദൂരം"
+
+msgid "Documents"
+msgstr "ഡോക്യുമെന്റ്സ്‌"
+
+msgid "don't rotate"
+msgstr "തിരിയാതിരിക്കുക"
+
+msgid "Don't Save"
+msgstr "സേവ് ചെയ്യാതിരിക്കുക"
+
+# /കഴിഞ്ഞു,മതി
+msgid "Done"
+msgstr "കഴിഞ്ഞിരിക്കുന്നു"
+
+#  /താഴെ
+msgid "down"
+msgstr "താഴേക്ക്"
+
+msgid "down arrow"
+msgstr "താഴേക്കുള്ള ആരോമാര്‍ക്ക്"
+
+msgid "drag to resize"
+msgstr "സൈസ് മാറ്റാന്‍ വലിക്കുക"
+
+msgid "drag to rotate"
+msgstr "തിരിയുന്നതിനായി വലിച്ചു നീക്കുക"
+
+msgid "draggable on website?"
+msgstr "വെബ്സൈറ്റ് ല്‍ വലിച്ചു നീക്കാന്‍ പറ്റിയതാണോ?"
+
+msgid "duplicate"
+msgstr "ഡ്യൂപ്ലിക്കേറ്റ്‌"
+
+msgid "Duplicate"
+msgstr "ഡ്യൂപ്ലിക്കേറ്റ്‌"
+
+# /വക്ക്
+msgid "edge"
+msgstr "അരിക്"
+
+msgid "Edit"
+msgstr "എഡിറ്റ്‌"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "എലിപ്സ് ടൂള്‍സ്(ഔട്ട്‌ലൈന്‍,എലിപ്സ്,വൃത്തം എന്നിവ വരയ്ക്കാന്‍)"
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr "പ്രസന്റേഷന്‍ മോഡ് തുടങ്ങുക"
+
+msgid "Eraser"
+msgstr "റബ്ബര്‍"
+
+msgid "Eraser size"
+msgstr "റബ്ബറിന്റെ വലിപ്പം"
+
+msgid "Error!"
+msgstr "തെറ്റ് !"
+
+msgid "Examples"
+msgstr "ഉദാഹരണങ്ങള്‍"
+
+msgid "Exit presentation"
+msgstr "പ്രസന്റേഷന്‍ അവസാനിപ്പിക്കുക"
+
+msgid "Exit presentation mode"
+msgstr "പ്രസന്റേഷന്‍ മോഡ് അവസാനിപ്പിക്കുക"
+
+msgid "export"
+msgstr "കൊടുത്തയയ്ക്കുക"
+
+msgid "Export Background"
+msgstr "രംഗം കൊടുത്തയയ്ക്കുക"
+
+# /വേഷം
+msgid "Export Costume"
+msgstr "രൂപം കൊടുത്തയയ്ക്കുക"
+
+msgid "Export failed"
+msgstr "കൊടുത്തയയ്ക്കല്‍ പരാജയപ്പെട്ടിരിക്കുന്നു"
+
+msgid "Export Sound"
+msgstr "ശബ്ദം-കൊടുത്തയയ്ക്കുക"
+
+msgid "Export Sprite"
+msgstr "സ്പ്രയ്റ്റ് കൊടുത്തയയ്ക്കുക"
+
+# /വേഷം
+msgid "export this costume"
+msgstr "ഈ രൂപം കൊടുത്തയയ്ക്കുക"
+
+msgid "export this sound"
+msgstr "ഈ ശബ്ദം-കൊടുത്തു വിടുക"
+
+msgid "export this sprite"
+msgstr "ഈ സ്പ്രയ്റ്റ് കൊടുത്തയയ്ക്കുക"
+
+msgid "Extras menu"
+msgstr "എക്സ്ട്രാസ് മെനു"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "ഇങ്ക് ഫില്ലെര്‍ (കളര്‍ തെരഞ്ഞെടുക്കുക)"
+
+msgid "Failed:"
+msgstr "പരാജയപ്പെട്ടു:"
+
+msgid "false"
+msgstr "തെറ്റ്"
+
+msgid "File"
+msgstr "ഫയല്‍"
+
+msgid "File not found"
+msgstr "ഫയല്‍ കാണുന്നില്ല"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "ഫില്‍ ടൂള്‍(കളര്‍,ഗ്രേഡിയെന്റ്)"
+
+# /ആദ്യം
+msgid "first"
+msgstr "ആദ്യത്തെ"
+
+msgid "fisheye"
+msgstr "ഉരുണ്ട പ്രതിബിംബം"
+
+msgid "Flash blocks (fast)"
+msgstr "ഫ്ലാഷ് ബ്ലോക്കുകള്‍(വേഗത്തിലാക്കുക...)"
+
+msgid "Flash blocks (slow)"
+msgstr "ഫ്ലാഷ് ബ്ലോക്കുകള്‍(പതുക്കെയാക്കുക....)"
+
+msgid "Flip horizontally"
+msgstr "ഇടതും വലതും ആയി മാറുക"
+
+msgid "Flip vertically"
+msgstr "മുകളിലും താഴെയുമായി മാറുക"
+
+msgid "For all sprites"
+msgstr "എല്ലാ സ്പ്രയ്റ്റിനും വേണ്ടി"
+
+msgid "For this sprite only"
+msgstr "ഈ സ്പ്രയ്റ്റിനു മാത്രം"
+
+# /കളികള്‍
+msgid "Game"
+msgstr "കളി"
+
+msgid "Get surprise sprite"
+msgstr "ഏതെങ്കിലും ഒരു സ്പ്രയ്റ്റ്"
+
+# /വേണ്ടെന്നു വയ്ക്കുക
+msgid "Get the last thing deleted"
+msgstr "അവസാനത്തെ ഐറ്റം ഡിലീറ്റ് ചെയ്യുക"
+
+msgid "Getting Started"
+msgstr "തുടങ്ങുക"
+
+msgid "ghost"
+msgstr "ഭൂതം"
+
+msgid "Go To Scratch Website"
+msgstr "സ്ക്രാച് വെബ്സൈറ്റ് ലോട്ട് പോവുക"
+
+msgid "grab screen region for new costume"
+msgstr "സ്ക്രീനിന്റെ ഭാഗമുപയോഗിച്ചു പുതിയ രൂപം ഉണ്ടാക്കുക"
+
+msgid "grab screen region for new sprite"
+msgstr "സ്ക്രീനിന്റെ ഭാഗമുപയോഗിച്ചു പുതിയ സ്പ്രയ്റ്റ് ഉണ്ടാക്കുക"
+
+# /വളരുക
+msgid "Grow"
+msgstr "വലുതാവുക"
+
+msgid "Grow sprite"
+msgstr "സ്പ്രയ്റ്റ് വളരുക"
+
+msgid "hello "
+msgstr "ഹലോ"
+
+msgid "Hello!"
+msgstr "ഹലോ !"
+
+msgid "help"
+msgstr "സഹായം"
+
+msgid "Help"
+msgstr "സഹായം"
+
+msgid "Help Page"
+msgstr "പേജ് സഹായം"
+
+msgid "Help Screens"
+msgstr "സ്ക്രീന്‍ സഹായം"
+
+msgid "Hide Motor Blocks"
+msgstr "മോട്ടോര്‍ ബ്ലോക്കുകളെ ഒളിപ്പിക്കുക"
+
+msgid "High (biggest)"
+msgstr "ഉയര്‍ന്നതായ (ഏറ്റവും വലുതായ )"
+
+msgid "Hmm..."
+msgstr ".....ഹ് മ് മും...."
+
+msgid "Home"
+msgstr "വീട്"
+
+# ഇമേജ് കളെ
+msgid "Images compressed"
+msgstr "ചിത്രങ്ങളെ ചുരുക്കുക"
+
+msgid "import"
+msgstr "കൊണ്ടുവരിക"
+
+msgid "Import"
+msgstr "കൊണ്ടുവരിക"
+
+# /ഇമേജ്
+msgid "Import an image on top of your current canvas"
+msgstr "പുതിയ ക്യാന്‍വാസ് നു മുകളിലേക്ക് ഒരു ചിത്രം കൊണ്ടുവരിക"
+
+# /പശ്ചാത്തലം
+msgid "Import Background"
+msgstr "പുതിയ രംഗം കൊണ്ടുവരിക"
+
+# /വേഷം
+msgid "Import Costume"
+msgstr "പുതിയ രൂപം കൊണ്ടുവരിക"
+
+# /ഇമേജ്
+msgid "Import Image"
+msgstr "ചിത്രം കൊണ്ടുവരിക"
+
+msgid "Import List"
+msgstr "ലിസ്റ്റ് കൊണ്ടുവരിക"
+
+msgid "Import Project"
+msgstr "പ്രൊജക്റ്റ്‌ കൊണ്ടുവരിക"
+
+msgid "import project"
+msgstr "പ്രൊജക്റ്റ്‌ കൊണ്ടുവരിക"
+
+msgid "Import Sound"
+msgstr "ശബ്ദം കൊണ്ടുവരിക"
+
+msgid "Incompatible Scratch file format"
+msgstr "അനുയോജ്യമല്ലാത്ത സ്ക്രാച് ഫയല്‍ ഫോര്‍മാറ്റ്‌"
+
+msgid "Is the folder read-only?"
+msgstr "വായിക്കാന്‍ മാത്രം പറ്റുന്ന ഫയല്‍ ആണോ?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "ജെ പെഗ് നിലവാരം(10-100)?"
+
+msgid "kbytes"
+msgstr "കിലോ ബൈറ്റ്സ്‌"
+
+msgid "Language"
+msgstr "ഭാഷ"
+
+msgid "large readout"
+msgstr "വലിയ അക്ഷരങ്ങള്‍"
+
+#  /അവസാനം
+msgid "last"
+msgstr "അവസാനത്തെ"
+
+# /ഇടത്തോട്ട്
+msgid "left"
+msgstr "ഇടത്"
+
+msgid "left arrow"
+msgstr "ഇടത്തോട്ടുള്ള ആരോമാര്‍ക്ക്‌"
+
+msgid "length"
+msgstr "നീളം"
+
+msgid "light"
+msgstr "പ്രകാശം"
+
+msgid "Line tool (draw lines)"
+msgstr "ലൈന്‍ ടൂള്‍(വരകള്‍)"
+
+msgid "List name?"
+msgstr "ലിസ്റ്റിന്റെ പേര്"
+
+msgid "Low"
+msgstr "കുറവ്"
+
+msgid "Lowest (smallest)"
+msgstr "ഏറ്റവും കുറഞ്ഞത്‌ (ഏറ്റവും ചെറുത്‌ )"
+
+msgid "Make a list"
+msgstr "ഒരു ലിസ്റ്റ് ഉണ്ടാക്കുക"
+
+msgid "Make a variable"
+msgstr "ഒരു ചരം ഉണ്ടാക്കുക"
+
+msgid "Max:"
+msgstr "ഏറ്റവും കൂടിയത്:"
+
+msgid "meow"
+msgstr "മ്യാവൂ"
+
+msgid "Message name:"
+msgstr "സന്ദേശത്തിന്റെ പേര്:"
+
+msgid "Min:"
+msgstr "ഏറ്റവും കുറഞ്ഞത്‌:"
+
+msgid "mod"
+msgstr "ശിഷ്ടം"
+
+msgid "more"
+msgstr "കൂടുതല്‍"
+
+msgid "More tags:"
+msgstr "കൂടുതല്‍ ടാഗ്കള്‍:"
+
+msgid "mosaic"
+msgstr ""
+
+msgid "mouse x:"
+msgstr "മൗസിന്റെ x സ്ഥാനം"
+
+msgid "mouse y:"
+msgstr "മൗസിന്റെ y സ്ഥാനം"
+
+msgid "mouse-pointer"
+msgstr "മൗസ്- പോയിന്റെര്‍"
+
+msgid "Move"
+msgstr "നീങ്ങുക"
+
+msgid "Music"
+msgstr "സംഗീതം"
+
+msgid "My Projects"
+msgstr "എന്റെ പ്രോജെക്റ്റുകള്‍"
+
+msgid "new"
+msgstr "പുതിയത്"
+
+msgid "New"
+msgstr "പുതിയ"
+
+# /പശ്ചാത്തലം
+msgid "New background:"
+msgstr "പുതിയ രംഗം:"
+
+# വേഷം
+msgid "New costume:"
+msgstr "പുതിയ രൂപം:"
+
+msgid "New file name?"
+msgstr "പുതിയ ഫയല്‍ ന്റെ പേര്?"
+
+msgid "New Filename:"
+msgstr "പുതിയ ഫയലിന്റെ പേര് :"
+
+msgid "New sound:"
+msgstr "പുതിയ ശബ്ദം :"
+
+msgid "New Sprite"
+msgstr "പുതിയ സ്പ്രയ്റ്റ്"
+
+msgid "New sprite:"
+msgstr "പുതിയ സ്പ്രയ്റ്റ്:"
+
+# /ഇല്ല
+msgid "No"
+msgstr "അല്ല"
+
+msgid "No MIDI ports currently available."
+msgstr "MIDI പോര്‍ട്ടുകള്‍ ഇല്ല"
+
+msgid "No motion blocks"
+msgstr "ചലനതടസ്സം ഇല്ല"
+
+# സ്ക്രിപ്റ്റ്
+msgid "no scripts"
+msgstr "സ്ക്രിപ്റ്റുകള്‍ ഇല്ല"
+
+msgid "No serial ports found"
+msgstr "സീരിയല്‍ പോര്‍ട്ടുകള്‍ ഇല്ല"
+
+msgid "No variables."
+msgstr "ചരങ്ങള്‍ ഇല്ല."
+
+# /ഗതി
+msgid "Normal"
+msgstr "സാധാരണ രീതി"
+
+msgid "normal readout"
+msgstr "സാധാരണ അക്ഷരങ്ങള്‍"
+
+msgid "Off"
+msgstr "ഓഫ്‌"
+
+msgid "OK"
+msgstr "ഓകേ"
+
+msgid "On"
+msgstr "ഓണ്‍"
+
+msgid "only face left-right"
+msgstr "ഇടത്തേക്കും വലത്തേക്കും മാത്രം തിരിയുക"
+
+# /തുറക്കുക
+msgid "Open"
+msgstr "ഓപ്പണ്‍ ചെയ്യുക"
+
+# /തുറക്കുക
+msgid "Open a Scratch project"
+msgstr "പുതിയൊരു സ്ക്രാച് പ്രൊജക്റ്റ്‌ ഓപ്പണ്‍ ചെയ്യുക"
+
+# /തുറക്കുക
+msgid "Open Project"
+msgstr "പ്രോജെക്റ്റ്‌ ഓപ്പണ്‍ ചെയ്യുക"
+
+# /അല്ലെങ്കില്‍
+msgid "or"
+msgstr "അഥവാ"
+
+msgid "Paint"
+msgstr "പെയിന്റ്"
+
+msgid "Paint Editor"
+msgstr "പെയിന്റ് എഡിറ്റര്‍"
+
+# /വേഷം
+msgid "Paint new sprite"
+msgstr "പുതിയൊരു രൂപം പെയിന്റ് ചെയ്യുക"
+
+msgid "Paintbrush"
+msgstr "പെയിന്റിംഗ് ബ്രഷ്"
+
+# /തിരിച്ചറിയല്‍പദം,/അടയാളവാക്ക്,/രഹസ്യ കോഡ്
+msgid "Password:"
+msgstr "പാസ്സ്‌വേര്‍ഡ്‌"
+
+msgid "Percent? (100 gives original size)"
+msgstr "നൂറുശതമാനം? (100 ശരിയായ വലിപ്പം തരുന്നു )"
+
+msgid "Pictures"
+msgstr "ചിത്രങ്ങള്‍"
+
+msgid "pixelate"
+msgstr "പിക്സല്‍ ആക്കുക"
+
+msgid "play"
+msgstr "തുടങ്ങുക"
+
+# നമ്പര്‍/
+msgid "Please enter a number"
+msgstr "ദയവായി ഒരു സംഖ്യ ടൈപ്പ് ചെയ്യുക"
+
+msgid "pop"
+msgstr "എടുക്കുക"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "കറങ്ങാനുള്ള മധ്യബിന്ദു തീരുമാനിക്കുക"
+
+msgid "Preparing project..."
+msgstr "പ്രോജെക്റ്റ്‌ തയ്യാറകുന്നു..."
+
+msgid "Project author:"
+msgstr "പ്രോജെക്റ്റിന്റെ കര്‍ത്താവ്:"
+
+msgid "Project name"
+msgstr "പ്രോജെക്റ്റിന്റെ പേര്"
+
+msgid "Project Notes"
+msgstr "പ്രോജെക്റ്റ്‌ കുറിപ്പുകള്‍"
+
+msgid "Project notes"
+msgstr "പ്രോജെക്റ്റ്‌ കുറിപ്പുകള്‍"
+
+msgid "Project uploaded."
+msgstr "പ്രോജെക്റ്റ്‌ അപ്‌ലോഡ്‌ ചെയ്തിരിക്കുന്നു"
+
+msgid "Projects"
+msgstr "പ്രോജെക്റ്റുകള്‍"
+
+# /അവസാനിപ്പിക്കുക
+msgid "Quit"
+msgstr "പുറത്തുകടക്കുക"
+
+# /അവസാനിപ്പിക്കുക
+msgid "Quit Scratch"
+msgstr "സ്ക്രാച് ഇല്‍ നിന്നും പുറത്തുകടക്കുക"
+
+# /വായിക്കുന്നു,വായന
+msgid "Reading"
+msgstr "വായിക്കുകയാണ്"
+
+# /രേഖപ്പെടുത്തുക
+msgid "record"
+msgstr "റെക്കോര്‍ഡ്‌ ചെയ്യുക"
+
+# /രേഖപ്പെടുത്തുക
+msgid "Record"
+msgstr "റെക്കോര്‍ഡ്‌ ചെയ്യുക"
+
+# /രേഖപ്പെടുത്തുന്നു
+msgid "recording"
+msgstr "റെക്കോര്‍ഡ്‌ ചെയ്യുന്നു"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "റെക്ടാങ്കില്‍ ടൂള്‍(ഔട്ട്‌ലൈന്‍,ചതുരം,സമചതുരം)"
+
+msgid "Redo"
+msgstr "വീണ്ടും ചെയ്യുക"
+
+msgid "Reference Guide"
+msgstr "റഫറന്‍സ് ഗൈഡ്"
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "സ്റ്റേജ് ല്‍ നിന്നും കാഴ്ചക്കാരനെ നീക്കം ചെയ്യുക"
+
+# /പ്രതിരോധം
+msgid "resistance"
+msgstr "തടസ്സം"
+
+msgid "resize this sprite"
+msgstr "ഈ സ്പ്രയ്റ്റ് ന്റെ വലിപ്പം മാറ്റുക"
+
+msgid "reverse"
+msgstr "തിരികെ"
+
+msgid "right"
+msgstr "വലത്"
+
+msgid "right arrow"
+msgstr "വലത്തോട്ടുള്ള ആരോമാര്‍ക്ക്"
+
+msgid "Rotate clock-wise"
+msgstr "ഘടികാര ദിശയില്‍ തിരിക്കുക"
+
+msgid "Rotate counter-clock-wise"
+msgstr "വിപരീത ഘടികാര ദിശയില്‍ തിരിക്കുക"
+
+msgid "rotate this sprite"
+msgstr "ഈ സ്പ്രയ്റ്റ് നെ തിരിക്കുക"
+
+msgid "Rotation degrees?"
+msgstr "കറങ്ങുന്നതിനുള്ള ഡിഗ്രി?"
+
+# /സൂക്ഷിച്ചു വയ്ക്കുക
+msgid "Save"
+msgstr "സേവ് ചെയ്യുക"
+
+# /പകര്‍പ്പ്,/സൂക്ഷിച്ചു വയ്ക്കുക
+msgid "Save a copy of the current project"
+msgstr "പുതിയ പ്രോജെക്റ്റ്‌ ന്റെ ഒരു കോപ്പി സേവ് ചെയ്യുക"
+
+msgid "Save As"
+msgstr "എന്ന് സേവ് ചെയ്യുക"
+
+# /അവസാനിപ്പിക്കുന്നതിന്
+msgid "Save changes before quitting?"
+msgstr "പുറത്തുകടക്കുന്നതിനു മുമ്പ് മാറ്റങ്ങള്‍ സേവ് ചെയ്യാമോ?"
+
+msgid "Save failed"
+msgstr "സേവ് ചെയ്യുന്നത് പരാജയപ്പെട്ടിരിക്കുന്നു"
+
+# പ്രോഗ്രാം ന്റെ ചിത്രങ്ങള്‍ സൂക്ഷിച്ചു വയ്ക്കുക
+msgid "save picture of scripts"
+msgstr "പ്രോഗ്രാം ന്റെ ചിത്രങ്ങള്‍ സേവ് ചെയ്യുക"
+
+msgid "save picture of stage..."
+msgstr "സ്റ്റേജ് ന്റെ ചിത്രം സേവ് ചെയ്യുക"
+
+msgid "Save Project"
+msgstr "പ്രോജെക്റ്റ്‌ സേവ് ചെയ്യുക"
+
+msgid "Save Scripts Snapshot"
+msgstr "സ്ക്രിപ്റ്റ് ന്റെ സ്നാപ്ഷോട്ട് സേവ് ചെയ്യുക"
+
+msgid "Save Stage Shot"
+msgstr "സ്റ്റേജ്ഷോട്ട് സേവ് ചെയ്യുക"
+
+msgid "Save the current project"
+msgstr "പുതിയ പ്രോജെക്റ്റ്‌ സേവ് ചെയ്യുക"
+
+msgid "Save the current project?"
+msgstr "പുതിയ പ്രോജെക്റ്റ്‌ സേവ് ചെയ്യുക?"
+
+msgid "Save this project"
+msgstr "ഈ പ്രോജെക്റ്റ്‌ സേവ് ചെയ്യുക"
+
+# സ്ക്രിപ്റ്റുകള്‍
+msgid "Scripts"
+msgstr "പ്രോഗ്രാം"
+
+msgid "select serial/USB port"
+msgstr "സീരിയല്‍/പോര്‍ട്ട്‌ സെലെക്റ്റ് ചെയ്യുക"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "സെലെക്ഷന്‍ ടൂള്‍(നീക്കുക,മാറ്റം വരുത്തുക,ഡിലീറ്റ്)"
+
+msgid "Set costume center"
+msgstr "രൂപത്തിന്റെ മധ്യബിന്ദു നിശ്ചയിക്കുക"
+
+msgid "Set language"
+msgstr "ഭാഷ തീരുമാനിക്കുക"
+
+msgid "Set rotation center"
+msgstr "സ്ല്യ്ഡര്‍ ന്റെ മിനിമവും മാക്സിമവും തീരുമാനിക്കുക"
+
+msgid "Set Single Stepping"
+msgstr "പ്രോഗ്രാംന്റെ വേഗത ഓരോ അടി വീതം ആക്കുക...."
+
+msgid "set slider min and max"
+msgstr "സ്ല്യ്ഡര്‍ ന്റെ മിനിമവും മാക്സിമവും തീരുമാനിക്കുക"
+
+# /പങ്കു വയ്ക്കുക
+msgid "Share"
+msgstr "ഷെയര്‍"
+
+# /പങ്കു വയ്ക്കുക
+msgid "Share this project"
+msgstr "ഈ പ്രോജെക്റ്റ്‌ ഷെയര്‍ ചെയ്യുക"
+
+# /പങ്കു വയ്ക്കുക
+msgid "Share This Project Online"
+msgstr "ഈ പ്രോജെക്റ്റ്‌ ഓണ്‍ലൈന്‍ ആയി ഷെയര്‍ ചെയ്യുക"
+
+msgid "Show Motor Blocks"
+msgstr "മോട്ടോര്‍ ബ്ലോക്കുകള്‍ കാണിക്കുക"
+
+msgid "show ScratchBoard watcher"
+msgstr ""
+
+msgid "Shrink"
+msgstr "ചെറുതാവുക"
+
+msgid "Shrink sprite"
+msgstr "സ്പ്രയ്റ്റ് ചെറുതാവുക"
+
+msgid "Simulation"
+msgstr "സിമുലേഷന്‍"
+
+# /സ്റ്റെപ്
+msgid "Single-step speed?"
+msgstr "ഒരടി സ്പീഡ്?"
+
+msgid "slider"
+msgstr "സ്ലൈഡര്‍"
+
+# /റേഞ്ച് 
+msgid "Slider range:"
+msgstr "സ്ലൈഡര്‍ പരിധി:"
+
+msgid "Sound quality:"
+msgstr "ശബ്ദനിലവാരം:"
+
+msgid "Sound Recorder"
+msgstr "സൗണ്ട് റെക്കോഡര്‍"
+
+msgid "Sounds"
+msgstr "ശബ്ദങ്ങള്‍"
+
+msgid "Sounds compressed"
+msgstr "സ്പ്രയ്റ്റ്"
+
+msgid "space"
+msgstr "സ്പേസ്"
+
+msgid "Sprite"
+msgstr "സ്പ്രയ്റ്റ്"
+
+msgid "Sprites"
+msgstr "സ്പ്രയ്റ്റുകള്‍"
+
+# /സ്ക്വയര്‍ റൂട്ട്
+msgid "sqrt"
+msgstr "വര്‍ഗ്ഗമൂലം"
+
+msgid "Stage"
+msgstr "സ്റ്റേജ്"
+
+msgid "Stage selected:"
+msgstr "സ്റ്റേജ് തെരഞ്ഞെടുക്കല്‍:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "സ്റ്റാംപ്‌ ടൂള്‍(ഏരിയ തെരഞ്ഞെടുക്കുക,ഏരിയ പതിപ്പിക്കുക)"
+
+#  /കോഡ്
+msgid "Start green flag scripts"
+msgstr "ഗ്രീന്‍ ഫ്ലാഗ് സ്ക്രിപ്റ്റ് തുടങ്ങുക"
+
+msgid "Start Single Stepping"
+msgstr "പ്രോഗ്രാം ഓരോ സ്റ്റെപ് വീതം ഓടിക്കുക"
+
+msgid "stop"
+msgstr "നിര്‍ത്തുക"
+
+msgid "Stop everything"
+msgstr "എല്ലാം നിര്‍ത്തുക"
+
+msgid "Stop Single Stepping"
+msgstr "പ്രോഗ്രാം സാധാരണ വേഗതയില്‍ ഓടിക്കുക"
+
+msgid "Story"
+msgstr "കഥ"
+
+msgid "Support Site"
+msgstr "സഹായ വെബ്സൈറ്റ്"
+
+msgid "Switch colors"
+msgstr "കളറുകള്‍ മാറ്റുക"
+
+msgid "Switch to full stage"
+msgstr "ഫുള്‍ സ്റ്റേജ് ലോട്ട് മാറ്റുക"
+
+msgid "Switch to presentation mode"
+msgstr "പ്രസന്റേഷന്‍ മോഡ് തുടങ്ങുക"
+
+msgid "Switch to small stage"
+msgstr "ചെറിയ സ്റ്റേജ് ലോട്ട് മാറ്റുക"
+
+msgid "Tags:"
+msgstr "ടാഗ്കള്‍:"
+
+msgid "Text tool (edit text layer)"
+msgstr "ടെക്സ്റ്റ്‌ ടൂള്‍(ടെക്സ്റ്റ്‌ ലെയര്‍ എഡിറ്റ്‌ ചെയ്യുക)"
+
+msgid "That variable name is already in use"
+msgstr "ആ ചരം ആദ്യം തന്നെ ഉപയോഗിച്ചിരിക്കുന്നു"
+
+# /അത്
+msgid "that way"
+msgstr "ആ വഴി"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "ഫയല്‍ ന്റെ പേര് ആദ്യം തന്നെ നിലവിലുണ്ട് ഓവര്‍ റൈറ്റ് ചെയ്യാമോ?"
+
+msgid "thing"
+msgstr "കാര്യം"
+
+# /ഇതു
+msgid "this way"
+msgstr "ഈ വഴി"
+
+# /ചെരിയുക
+msgid "tilt"
+msgstr "ചെരിക്കുക"
+
+# /സത്യം
+msgid "true"
+msgstr "ശരി"
+
+msgid "Turbo speed"
+msgstr "ടര്‍ബോ സ്പീഡ്"
+
+msgid "turn into new sprite"
+msgstr "പുതിയൊരു സ്പ്രയ്‌ററ് തുടങ്ങുക"
+
+msgid "Undelete"
+msgstr "കളയാതിരിക്കുക"
+
+msgid "Undo"
+msgstr ""
+
+# /മുകളില്‍
+msgid "up"
+msgstr "മുകളിലേക്ക്"
+
+msgid "up arrow"
+msgstr "മുകളിലേക്കുള്ള ആരോമാര്‍ക്ക്‌"
+
+msgid "Updating thumbnails"
+msgstr ""
+
+msgid "Upload succeeded!"
+msgstr "അപ്‌ലോഡ്‌ വിജയിച്ചിരിക്കുന്നു !"
+
+msgid "Upload to Scratch Server"
+msgstr "സ്ക്രാച് സെര്‍വര്‍ ല്‍ അപ്‌ലോഡ്‌ ചെയ്യുക"
+
+msgid "Uploading"
+msgstr "അപ്‌ലോഡ്‌ ചെയ്യുന്നു"
+
+msgid "Variable name?"
+msgstr "ചരത്തിന്റെ പേര്?"
+
+msgid "View on stage"
+msgstr "സ്റ്റേജ് ല്‍ കാണുക"
+
+msgid "What's your name?"
+msgstr "താങ്കളുടെ പേര് എന്താണ്?"
+
+msgid "whirl"
+msgstr "കറക്കുക"
+
+msgid "world"
+msgstr "ലോകം"
+
+# /ചുരുക്കം
+msgid "Write Multiple Project Summaries"
+msgstr "അനേകം പ്രോജെക്റ്റ്‌ കളുടെ സംഗ്രഹം എഴുതുക"
+
+# /ചുരുക്കം
+msgid "Write Project Summary"
+msgstr "പ്രോജെക്റ്റ്‌ ന്റെ സംഗ്രഹം എഴുതുക"
+
+msgid "Yes"
+msgstr "അതെ"
+
+msgid "Your project is now online at"
+msgstr "താങ്കളുടെ പ്രോജെക്റ്റ്‌ ഈ വെബ്സൈറ്റ് ല്‍ ലഭ്യമാണ്"
+
+msgid "Your Scratch website login name:"
+msgstr "താങ്കളുടെ സ്ക്രാച് വെബ്സൈറ്റ് ലോഗ്ഇന്‍ ചെയ്യുന്നതിനുള്ള പേര്:"
+
+msgid "Zoom in"
+msgstr "അകത്തേക്ക് സൂം ചെയ്യുക"
+
+msgid "Zoom out"
+msgstr "പുറത്തേക്ക് സൂം ചെയ്യുക"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "വാദ്യോപകരണങ്ങള്‍"
+
+msgid "Acoustic Bass"
+msgstr ""
+
+msgid "Acoustic Bass Drum"
+msgstr ""
+
+msgid "Acoustic Grand"
+msgstr ""
+
+msgid "Acoustic Snare"
+msgstr ""
+
+msgid "Agogo"
+msgstr ""
+
+msgid "Alto Sax"
+msgstr ""
+
+msgid "Applause"
+msgstr "കയ്യടി"
+
+msgid "Bagpipe"
+msgstr ""
+
+msgid "Banjo"
+msgstr ""
+
+msgid "Baritone Sax"
+msgstr ""
+
+msgid "Bass Drum 1"
+msgstr ""
+
+msgid "Bassoon"
+msgstr ""
+
+msgid "Bird Tweet"
+msgstr ""
+
+msgid "Blown Bottle"
+msgstr ""
+
+msgid "Brass Section"
+msgstr ""
+
+msgid "Breath Noise"
+msgstr ""
+
+msgid "Bright Acoustic"
+msgstr ""
+
+msgid "Cabasa"
+msgstr ""
+
+msgid "Celesta"
+msgstr ""
+
+msgid "Cello"
+msgstr ""
+
+msgid "Chinese Cymbal"
+msgstr ""
+
+msgid "Choir Aahs"
+msgstr ""
+
+msgid "Church Organ"
+msgstr ""
+
+msgid "Clarinet"
+msgstr ""
+
+msgid "Claves"
+msgstr ""
+
+msgid "Clavinet"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr ""
+
+msgid "Contrabass"
+msgstr ""
+
+msgid "Cowbell"
+msgstr ""
+
+msgid "Crash Cymbal 1"
+msgstr ""
+
+msgid "Crash Cymbal 2"
+msgstr ""
+
+msgid "Distortion Guitar"
+msgstr ""
+
+msgid "Drawbar Organ"
+msgstr ""
+
+msgid "Dulcimer"
+msgstr ""
+
+msgid "Electric Bass (finger)"
+msgstr ""
+
+msgid "Electric Bass (pick)"
+msgstr ""
+
+msgid "Electric Clean Guitar"
+msgstr ""
+
+msgid "Electric Grand"
+msgstr ""
+
+msgid "Electric Jazz Guitar"
+msgstr ""
+
+msgid "Electric Muted Guitar"
+msgstr ""
+
+msgid "Electric Piano 1"
+msgstr "വൈദ്യുത പിയാനോ 1"
+
+msgid "Electric Piano 2"
+msgstr "വൈദ്യുത പിയാനോ 2"
+
+msgid "Electric Snare"
+msgstr ""
+
+msgid "English Horn"
+msgstr ""
+
+msgid "FX 1 (rain)"
+msgstr ""
+
+msgid "FX 2 (soundtrack)"
+msgstr ""
+
+msgid "FX 3 (crystal)"
+msgstr ""
+
+msgid "FX 4 (atmosphere)"
+msgstr ""
+
+msgid "FX 5 (brightness)"
+msgstr ""
+
+msgid "FX 6 (goblins)"
+msgstr ""
+
+msgid "FX 7 (echoes)"
+msgstr ""
+
+msgid "FX 8 (sci-fi)"
+msgstr ""
+
+msgid "Fiddle"
+msgstr ""
+
+msgid "Flute"
+msgstr "പുല്ലാങ്കുഴല്‍"
+
+msgid "French Horn"
+msgstr ""
+
+msgid "Fretless Bass"
+msgstr ""
+
+msgid "Glockenspiel"
+msgstr ""
+
+msgid "Guitar Fret Noise"
+msgstr ""
+
+msgid "Guitar Harmonics"
+msgstr ""
+
+msgid "Gunshot"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr "കയ്യടി"
+
+msgid "Harmonica"
+msgstr ""
+
+msgid "Harpsichord"
+msgstr ""
+
+msgid "Helicopter"
+msgstr ""
+
+msgid "Hi Bongo"
+msgstr ""
+
+msgid "Hi Wood Block"
+msgstr ""
+
+msgid "Hi-Mid Tom"
+msgstr ""
+
+msgid "High Agogo"
+msgstr ""
+
+msgid "High Floor Tom"
+msgstr ""
+
+msgid "High Timbale"
+msgstr ""
+
+msgid "High Tom"
+msgstr ""
+
+msgid "Honky-Tonk"
+msgstr ""
+
+msgid "Kalimba"
+msgstr ""
+
+msgid "Koto"
+msgstr ""
+
+msgid "Lead 1 (square)"
+msgstr ""
+
+msgid "Lead 2 (sawtooth)"
+msgstr ""
+
+msgid "Lead 3 (calliope)"
+msgstr ""
+
+msgid "Lead 4 (chiff)"
+msgstr ""
+
+msgid "Lead 5 (charang)"
+msgstr ""
+
+msgid "Lead 6 (voice)"
+msgstr ""
+
+msgid "Lead 7 (fifths)"
+msgstr ""
+
+msgid "Lead 8 (bass+lead)"
+msgstr ""
+
+msgid "Long Guiro"
+msgstr ""
+
+msgid "Long Whistle"
+msgstr ""
+
+msgid "Low Agogo"
+msgstr ""
+
+msgid "Low Bongo"
+msgstr ""
+
+msgid "Low Conga"
+msgstr ""
+
+msgid "Low Floor Tom"
+msgstr ""
+
+msgid "Low Timbale"
+msgstr ""
+
+msgid "Low Tom"
+msgstr ""
+
+msgid "Low Wood Block"
+msgstr ""
+
+msgid "Low-Mid Tom"
+msgstr ""
+
+msgid "Maracas"
+msgstr ""
+
+msgid "Marimba"
+msgstr ""
+
+msgid "Melodic Tom"
+msgstr ""
+
+msgid "Music Box"
+msgstr ""
+
+msgid "Mute Cuica"
+msgstr ""
+
+msgid "Mute Hi Conga"
+msgstr ""
+
+msgid "Mute Triangle"
+msgstr ""
+
+msgid "Muted Trumpet"
+msgstr ""
+
+msgid "Nylon String Guitar"
+msgstr ""
+
+msgid "Oboe"
+msgstr ""
+
+msgid "Ocarina"
+msgstr "ഒക്കാരിന"
+
+msgid "Open Cuica"
+msgstr ""
+
+msgid "Open Hi Conga"
+msgstr ""
+
+msgid "Open Hi-Hat"
+msgstr ""
+
+msgid "Open Triangle"
+msgstr ""
+
+msgid "Orchestra Hit"
+msgstr ""
+
+msgid "Orchestral Strings"
+msgstr ""
+
+msgid "Overdriven Guitar"
+msgstr ""
+
+msgid "Pad 1 (new age)"
+msgstr ""
+
+msgid "Pad 2 (warm)"
+msgstr ""
+
+msgid "Pad 3 (polysynth)"
+msgstr ""
+
+msgid "Pad 4 (choir)"
+msgstr ""
+
+msgid "Pad 5 (bowed)"
+msgstr ""
+
+msgid "Pad 6 (metallic)"
+msgstr ""
+
+msgid "Pad 7 (halo)"
+msgstr ""
+
+msgid "Pad 8 (sweep)"
+msgstr ""
+
+msgid "Pan Flute"
+msgstr ""
+
+msgid "Pedal Hi-Hat"
+msgstr ""
+
+msgid "Percussive Organ"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Pizzicato Strings"
+msgstr ""
+
+msgid "Recorder"
+msgstr "റെക്കോര്‍ഡര്‍"
+
+msgid "Reed Organ"
+msgstr ""
+
+msgid "Reverse Cymbal"
+msgstr ""
+
+msgid "Ride Bell"
+msgstr ""
+
+msgid "Ride Cymbal 1"
+msgstr ""
+
+msgid "Ride Cymbal 2"
+msgstr ""
+
+msgid "Rock Organ"
+msgstr ""
+
+msgid "Seashore"
+msgstr "കടല്‍ത്തീരം"
+
+msgid "Shakuhachi"
+msgstr ""
+
+msgid "Shamisen"
+msgstr ""
+
+msgid "Shanai"
+msgstr "ഷഹനായി"
+
+msgid "Short Guiro"
+msgstr ""
+
+msgid "Short Whistle"
+msgstr ""
+
+msgid "Side Stick"
+msgstr ""
+
+msgid "Sitar"
+msgstr "സിത്താര്‍"
+
+msgid "Slap Bass 1"
+msgstr ""
+
+msgid "Slap Bass 2"
+msgstr ""
+
+msgid "Soprano Sax"
+msgstr ""
+
+msgid "Splash Cymbal"
+msgstr ""
+
+msgid "Steel Drums"
+msgstr ""
+
+msgid "Steel String Guitar"
+msgstr ""
+
+msgid "String Ensemble 1"
+msgstr ""
+
+msgid "String Ensemble 2"
+msgstr ""
+
+msgid "Synth Bass 1"
+msgstr ""
+
+msgid "Synth Bass 2"
+msgstr ""
+
+msgid "Synth Drum"
+msgstr ""
+
+msgid "Synth Voice"
+msgstr ""
+
+msgid "SynthBrass 1"
+msgstr ""
+
+msgid "SynthBrass 2"
+msgstr ""
+
+msgid "SynthStrings 1"
+msgstr ""
+
+msgid "SynthStrings 2"
+msgstr ""
+
+msgid "Taiko Drum"
+msgstr ""
+
+msgid "Tambourine"
+msgstr ""
+
+msgid "Tango Accordion"
+msgstr ""
+
+msgid "Telephone Ring"
+msgstr ""
+
+msgid "Tenor Sax"
+msgstr ""
+
+msgid "Timpani"
+msgstr ""
+
+msgid "Tinkle Bell"
+msgstr ""
+
+msgid "Tremolo Strings"
+msgstr ""
+
+msgid "Trombone"
+msgstr ""
+
+msgid "Trumpet"
+msgstr "കൊമ്പുവാദ്യം"
+
+msgid "Tuba"
+msgstr ""
+
+msgid "Tubular Bells"
+msgstr ""
+
+msgid "Vibraphone"
+msgstr ""
+
+msgid "Vibraslap"
+msgstr ""
+
+msgid "Viola"
+msgstr ""
+
+msgid "Violin"
+msgstr "വയലിന്‍"
+
+msgid "Voice Oohs"
+msgstr ""
+
+# /വിസില്‍
+msgid "Whistle"
+msgstr "ചൂളംവിളി"
+
+msgid "Woodblock"
+msgstr ""
+
+msgid "Xylophone"
+msgstr ""

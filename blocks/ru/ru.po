@@ -1,0 +1,444 @@
+msgid "Language-Name"
+msgstr "Русский"
+
+msgid "%b and %b"
+msgstr "%b и %b"
+
+msgid "%b or %b"
+msgstr "%b или %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute от %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list содержит %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp от %n"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor значение сенсора"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "добавить %s к %m.list"
+
+msgid "answer"
+msgstr "ответ"
+
+msgid "ask %s and wait"
+msgstr "спросить %s и ждать"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "фон #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "передать %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "передать %m.broadcast и ждать"
+
+msgid "change %m.effect effect by %n"
+msgstr "изменить %m.effect эффект на %n"
+
+msgid "change %m.var by %n"
+msgstr "изменить %m.var на %n"
+
+msgid "change pen color by %n"
+msgstr "изменить цвет пера на %n"
+
+msgid "change pen shade by %n"
+msgstr "изменить тень пера на&nbsp; %n"
+
+msgid "change pen size by %n"
+msgstr "изменить размер пера на %n"
+
+msgid "change size by %n"
+msgstr "изменить размер на %n"
+
+msgid "change tempo by %n"
+msgstr "изменить темп на %n"
+
+msgid "change volume by %n"
+msgstr "изменить громкость на %n"
+
+msgid "change x by %n"
+msgstr "изменить x на %n"
+
+msgid "change y by %n"
+msgstr "изменить y на %n"
+
+msgid "clear"
+msgstr "очистить"
+
+msgid "clear graphic effects"
+msgstr "убрать графические эффекты"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "цвет %c касается %c?"
+
+msgid "Control"
+msgstr "контроль"
+
+msgid "costume #"
+msgstr "костюм #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "удалить %d.listDeleteItem из %m.list"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "направление"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "расстояние до %m.spriteOrMouse"
+
+msgid "else"
+msgstr "иначе"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "всегда"
+
+msgid "forever if %b"
+msgstr "всегда, если  %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "плыть %n секунд в точку x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "перейти назад на  %n слоев"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "идти в  %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "перейти в верхний слой"
+
+msgid "go to x:%n y:%n"
+msgstr "идти в x:%n y:%n"
+
+msgid "hide"
+msgstr "спрятаться"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide monitor %m.varOrList"
+msgstr ""
+
+msgid "if %b"
+msgstr "если %b"
+
+msgid "if on edge, bounce"
+msgstr "если на краю, оттолкнуться"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "поставить %s в %d.listItem из %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "элемент %d.listItem из %m.list"
+
+msgid "join %s %s"
+msgstr "слить  %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "кнопка %s нажата?"
+
+msgid "length of %m.list"
+msgstr "длина списка %m.list"
+
+msgid "length of %s"
+msgstr "длина строки %s"
+
+msgid "letter %n of %s"
+msgstr "буква %n в %s"
+
+msgid "Looks"
+msgstr "внешность"
+
+msgid "loudness"
+msgstr "громкость"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "движение"
+
+msgid "motor direction %m.motorDirection"
+msgstr "мотор направлен %m.motorDirection"
+
+msgid "motor off"
+msgstr "мотор откл"
+
+msgid "motor on"
+msgstr "мотор вкл"
+
+msgid "motor on for %n secs"
+msgstr "включить мотор на %n сек"
+
+msgid "motor power %n"
+msgstr "мощность мотора %n"
+
+msgid "mouse down?"
+msgstr "мышка нажата?"
+
+msgid "mouse x"
+msgstr "мышка по x"
+
+msgid "mouse y"
+msgstr "мышка по y"
+
+msgid "move %n steps"
+msgstr "идти %n шагов"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "следующий фон"
+
+msgid "next costume"
+msgstr "следующий костюм"
+
+msgid "not %b"
+msgstr "не %b"
+
+msgid "Operators"
+msgstr "операторы"
+
+msgid "Pen"
+msgstr "перо"
+
+msgid "pen down"
+msgstr "опустить перо"
+
+msgid "pen up"
+msgstr "поднять перо"
+
+msgid "pick random %n to %n"
+msgstr "выдать случайное от %n до %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "барабану %d.drum играть %n тактов"
+
+msgid "play note %n for %n beats"
+msgstr "ноту %d.note играть %n тактов"
+
+msgid "play sound %m.sound"
+msgstr "играть звук %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "играть звук %m.sound до завершения"
+
+msgid "point in direction %d.direction"
+msgstr "повернуть в направлении %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "повернуться к %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "повторить %n"
+
+msgid "repeat until %b"
+msgstr "повторять пока не %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "заменить элемент %d.listItem в %m.list на %s"
+
+msgid "reset timer"
+msgstr "перезапустить таймер"
+
+msgid "rest for %n beats"
+msgstr "подождать %n тактов"
+
+msgid "round %n"
+msgstr "округлить %n"
+
+msgid "say %s"
+msgstr "сказать %s"
+
+msgid "say %s for %n secs"
+msgstr "говорить %s в течение %n секунд"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "сенсоры"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "сенсор %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "установить эффект %m.effect в значение %n"
+
+msgid "set %m.var to %s"
+msgstr "запомнить в %m.var значение %n"
+
+msgid "set instrument to %d.instrument"
+msgstr "выбрать инструмент %d.instrument"
+
+msgid "set pen color to %c"
+msgstr "установить цвет пера %c"
+
+msgid "set pen color to %n"
+msgstr "установить цвет пера %c"
+
+msgid "set pen shade to %n"
+msgstr "установить оттвенок пера %n"
+
+msgid "set pen size to %n"
+msgstr "установить размер пера %n"
+
+msgid "set size to %n%"
+msgstr "установить размер %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "установить темп %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "установить громкость %n%"
+
+msgid "set x to %n"
+msgstr "установить x в %n"
+
+msgid "set y to %n"
+msgstr "установить y в %n"
+
+msgid "show"
+msgstr "показаться"
+
+msgid "show monitor %m.varOrList"
+msgstr ""
+
+msgid "size"
+msgstr "размер"
+
+msgid "Sound"
+msgstr "звук"
+
+msgid "stamp"
+msgstr "печать"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "остановить все звуки"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "темп"
+
+msgid "think %s"
+msgstr "думать %s"
+
+msgid "think %s for %n secs"
+msgstr "думать %s  %n секунд"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "таймер"
+
+msgid "touching %m.touching?"
+msgstr "касается %m.touching?"
+
+msgid "touching color %c?"
+msgstr "касается цвета %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "громкость"
+
+msgid "wait %n secs"
+msgstr "ждать %n секунд"
+
+msgid "wait until %b"
+msgstr "ждать до %b"
+
+msgid "when %m.key key pressed"
+msgstr "когда клавиша %m.key нажата"
+
+msgid "when @greenFlag clicked"
+msgstr "когда щелкнут по @greenFlag"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when I am clicked"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "x position"
+msgstr "положение x"
+
+msgid "y position"
+msgstr "положение y"
+

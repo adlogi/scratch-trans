@@ -1,0 +1,444 @@
+msgid "Language-Name"
+msgstr "suomi"
+
+msgid "%b and %b"
+msgstr "%b ja %b"
+
+msgid "%b or %b"
+msgstr "%b tai %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "hahmon %m.attribute %m"
+
+msgid "%m.list contains %s"
+msgstr "lista %m.list sisältää %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp arvosta %n"
+
+msgid "%m.sensor sensor value"
+msgstr "sensorin %m.sensor arvo"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "lisää %s listaan %m.list"
+
+msgid "answer"
+msgstr "vastaus"
+
+msgid "ask %s and wait"
+msgstr "kysy %s ja odota"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "taustakuva #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "lähetä %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "lähetä %m.broadcast ja odota"
+
+msgid "change %m.effect effect by %n"
+msgstr "muuta %m.effect tehostetta %n askeleen verran"
+
+msgid "change %m.var by %n"
+msgstr "muuta %m.var:tä %n askeleella"
+
+msgid "change pen color by %n"
+msgstr "vaihda kynän väriä %n askeleella"
+
+msgid "change pen shade by %n"
+msgstr "vaihda kynään voimakkuutta %n askeleella"
+
+msgid "change pen size by %n"
+msgstr "vaihdan kynän kokoa %n askeleella"
+
+msgid "change size by %n"
+msgstr "muuta kokoa %n askeleen verran"
+
+msgid "change tempo by %n"
+msgstr "muuta tempoa %n"
+
+msgid "change volume by %n"
+msgstr "muuta äänenvoimakkuuttaa %n"
+
+msgid "change x by %n"
+msgstr "muuta x %n askeleella"
+
+msgid "change y by %n"
+msgstr "muuta y %n askeleella"
+
+msgid "clear"
+msgstr "pyyhi"
+
+msgid "clear graphic effects"
+msgstr "poista graafiset tehosteet"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "koskeeko väri %c väriä %c ?"
+
+msgid "Control"
+msgstr "ohjaus"
+
+msgid "costume #"
+msgstr "asuste #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "poista %d.listDeleteItem listasta %m.list"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "suunta"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "etäisyys %m.spriteOrMouse:stä"
+
+msgid "else"
+msgstr "muuten"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "ikuisesti"
+
+msgid "forever if %b"
+msgstr "ikuisesti jos %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "liu'u %n sekuntia kohtaan x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "mene %n tasoa taaksepäin"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "mene %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "mene etualalle"
+
+msgid "go to x:%n y:%n"
+msgstr "mene kohtaan x:%n y:%n"
+
+msgid "hide"
+msgstr "piilota"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide monitor %m.varOrList"
+msgstr ""
+
+msgid "if %b"
+msgstr "jos %b"
+
+msgid "if on edge, bounce"
+msgstr "pomppaa, jos reunan lähellä"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "listää %s listaan %d.listItem kohtaan %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "listan %d.listItem alkio %m.list"
+
+msgid "join %s %s"
+msgstr "yhdistä %s ja %s"
+
+msgid "key %m.key pressed?"
+msgstr "onko painike %m.key painettu?"
+
+msgid "length of %m.list"
+msgstr "listan %m.list pituus"
+
+msgid "length of %s"
+msgstr "sanan %s pituus"
+
+msgid "letter %n of %s"
+msgstr "%n. kirjain sanasta %s "
+
+msgid "Looks"
+msgstr "ulkonäkö"
+
+msgid "loudness"
+msgstr "äänentaso"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "liike"
+
+msgid "motor direction %m.motorDirection"
+msgstr "moottorinsuunta %m.motorDirection"
+
+msgid "motor off"
+msgstr "moottori pois"
+
+msgid "motor on"
+msgstr "moottori päälle"
+
+msgid "motor on for %n secs"
+msgstr "moottori päälle %n sekunniksi"
+
+msgid "motor power %n"
+msgstr "moottorin voima %n"
+
+msgid "mouse down?"
+msgstr "onko hiiren nappi painettu?"
+
+msgid "mouse x"
+msgstr "hiiren x-sijainti"
+
+msgid "mouse y"
+msgstr "hiiren y-sijainti"
+
+msgid "move %n steps"
+msgstr "liiku %n askelta"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "seuraava taustakuva"
+
+msgid "next costume"
+msgstr "seuraava asuste"
+
+msgid "not %b"
+msgstr "ei %b"
+
+msgid "Operators"
+msgstr "toiminnot"
+
+msgid "Pen"
+msgstr "kynä"
+
+msgid "pen down"
+msgstr "kynä alas"
+
+msgid "pen up"
+msgstr "kynä ylös"
+
+msgid "pick random %n to %n"
+msgstr "valitse satunnaisluku väliltä %n-%n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "soita rumpua %d.drum %n sekunnin ajan"
+
+msgid "play note %n for %n beats"
+msgstr "soita nuottia %d.note %n sekunnin ajan"
+
+msgid "play sound %m.sound"
+msgstr "soita ääni %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "soita ääni %m.sound ja odota"
+
+msgid "point in direction %d.direction"
+msgstr "osoita suuntaan %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "käänny %m.spriteOrMouse kohti"
+
+msgid "repeat %n"
+msgstr "toista %n kertaa"
+
+msgid "repeat until %b"
+msgstr "toista kunnes %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "vaihda listan %d.listItem alkio %m.list arvoksi %s"
+
+msgid "reset timer"
+msgstr "nollaa ajastin"
+
+msgid "rest for %n beats"
+msgstr "tauko %n nuottia"
+
+msgid "round %n"
+msgstr "pyöristä %n"
+
+msgid "say %s"
+msgstr "sano %s"
+
+msgid "say %s for %n secs"
+msgstr "sano %s %n sekunnin ajan"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "tuntoaisti"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "onko sensori %m.booleanSensor aktivoitu?"
+
+msgid "set %m.effect effect to %n"
+msgstr "aseta tehoste %m.effect kohteeseen %n"
+
+msgid "set %m.var to %s"
+msgstr "aseta %m.var arvoon %n"
+
+msgid "set instrument to %d.instrument"
+msgstr "aseta soittimeksi %d.instrument"
+
+msgid "set pen color to %c"
+msgstr "aseta kynälle väri %c"
+
+msgid "set pen color to %n"
+msgstr "aseta kynälle väri %c"
+
+msgid "set pen shade to %n"
+msgstr "aseta kynän sävyksi %n"
+
+msgid "set pen size to %n"
+msgstr "aseta kynälle koko %n"
+
+msgid "set size to %n%"
+msgstr "aseta koko arvoon %n"
+
+msgid "set tempo to %n bpm"
+msgstr "aseta tempo %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "aseta äänenvoimakkuus %n%"
+
+msgid "set x to %n"
+msgstr "aseta x:lle arvo %n"
+
+msgid "set y to %n"
+msgstr "aseta y:lle arvo %n"
+
+msgid "show"
+msgstr "näytä"
+
+msgid "show monitor %m.varOrList"
+msgstr ""
+
+msgid "size"
+msgstr "koko"
+
+msgid "Sound"
+msgstr "ääni"
+
+msgid "stamp"
+msgstr "leimaa"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "pysäytä kaikki äänet"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "ajattele %s"
+
+msgid "think %s for %n secs"
+msgstr "ajattele %s %n sekunnin ajan"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "ajastin"
+
+msgid "touching %m.touching?"
+msgstr "koskettaako %m.touching?"
+
+msgid "touching color %c?"
+msgstr "koskettaako väriä %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "äänenvoimakkuus"
+
+msgid "wait %n secs"
+msgstr "odota %n sekuntia"
+
+msgid "wait until %b"
+msgstr "odota kunnes %b"
+
+msgid "when %m.key key pressed"
+msgstr "kun painetaan %m.key"
+
+msgid "when @greenFlag clicked"
+msgstr "kun klikataan @greenFlag"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when I am clicked"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "x position"
+msgstr "x-sijainti"
+
+msgid "y position"
+msgstr "y-sijainti"
+

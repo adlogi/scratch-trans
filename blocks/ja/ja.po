@@ -1,0 +1,444 @@
+msgid "Language-Name"
+msgstr "日本語"
+
+msgid "%b and %b"
+msgstr "%b かつ %b"
+
+msgid "%b or %b"
+msgstr "%b または %b "
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.spriteOrStage の %m.attribute"
+
+msgid "%m.list contains %s"
+msgstr "%m.list に %s が含まれる"
+
+msgid "%m.mathOp of %n"
+msgstr "%n の %m.mathOp"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor センサーの値"
+
+msgid "%n mod %n"
+msgstr "%n を %n で割った余り"
+
+msgid "add %s to %m.list"
+msgstr "%s を %m.list に追加する"
+
+msgid "answer"
+msgstr "答え"
+
+msgid "ask %s and wait"
+msgstr "%s と聞いて待つ"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "背景の番号"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "%m.broadcast を送る"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "%m.broadcast を送って待つ"
+
+msgid "change %m.effect effect by %n"
+msgstr "%m.effect の効果を %n ずつ変える"
+
+msgid "change %m.var by %n"
+msgstr "%m.var を %n ずつ変える"
+
+msgid "change pen color by %n"
+msgstr "ペンの色を %n ずつ変える"
+
+msgid "change pen shade by %n"
+msgstr "ペンの濃さを %n ずつ変える"
+
+msgid "change pen size by %n"
+msgstr "ペンの太さを %n ずつ変える"
+
+msgid "change size by %n"
+msgstr "大きさを %n ずつ変える"
+
+msgid "change tempo by %n"
+msgstr "テンポを %n ずつ変える"
+
+msgid "change volume by %n"
+msgstr "音量を %n ずつ変える"
+
+msgid "change x by %n"
+msgstr "x座標を %n ずつ変える"
+
+msgid "change y by %n"
+msgstr "y座標を %n ずつ変える"
+
+msgid "clear"
+msgstr "消す"
+
+msgid "clear graphic effects"
+msgstr "画像効果をなくす"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "%c 色が %c 色に触れた"
+
+msgid "Control"
+msgstr "制御"
+
+msgid "costume #"
+msgstr "コスチュームの番号"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "%d.listDeleteItem 番目を %m.list から削除する"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "向き"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse までの距離"
+
+msgid "else"
+msgstr "でなければ"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "ずっと"
+
+msgid "forever if %b"
+msgstr "もし %b なら、ずっと"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n 秒でx座標を %n に、y座標を %n に変える"
+
+msgid "go back %n layers"
+msgstr "%n 層下げる"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse へ行く"
+
+msgid "go to front"
+msgstr "前に出す"
+
+msgid "go to x:%n y:%n"
+msgstr "x座標を %n 、y座標を %n にする"
+
+msgid "hide"
+msgstr "隠す"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide monitor %m.varOrList"
+msgstr ""
+
+msgid "if %b"
+msgstr "もし %b なら"
+
+msgid "if on edge, bounce"
+msgstr "もし端に着いたら、跳ね返る"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "%m.list の %d.listItem 番目に %s を挿入する"
+
+msgid "item %d.listItem of %m.list"
+msgstr "%m.list の %d.listItem 番目"
+
+msgid "join %s %s"
+msgstr "%s と %s"
+
+msgid "key %m.key pressed?"
+msgstr "%m.key キーが押された"
+
+msgid "length of %m.list"
+msgstr "%m.list の長さ"
+
+msgid "length of %s"
+msgstr "%s の長さ"
+
+msgid "letter %n of %s"
+msgstr "%s の %n 番目の文字"
+
+msgid "Looks"
+msgstr "見た目"
+
+msgid "loudness"
+msgstr "音量"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "動き"
+
+msgid "motor direction %m.motorDirection"
+msgstr "モーターの回転を %m.motorDirection にする"
+
+msgid "motor off"
+msgstr "モーターをオフにする"
+
+msgid "motor on"
+msgstr "モーターをオンにする"
+
+msgid "motor on for %n secs"
+msgstr "モーターを %n 秒オンにする"
+
+msgid "motor power %n"
+msgstr "モーターのパワーを %n にする"
+
+msgid "mouse down?"
+msgstr "マウスが押された"
+
+msgid "mouse x"
+msgstr "マウスのx座標"
+
+msgid "mouse y"
+msgstr "マウスのy座標"
+
+msgid "move %n steps"
+msgstr "%n 歩動かす"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "次の背景にする"
+
+msgid "next costume"
+msgstr "次のコスチュームにする"
+
+msgid "not %b"
+msgstr "%b ではない"
+
+msgid "Operators"
+msgstr "演算"
+
+msgid "Pen"
+msgstr "ペン"
+
+msgid "pen down"
+msgstr "ペンを下ろす"
+
+msgid "pen up"
+msgstr "ペンを上げる"
+
+msgid "pick random %n to %n"
+msgstr "%n から %n までの乱数"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "%d.drum のドラムを %n 拍鳴らす"
+
+msgid "play note %n for %n beats"
+msgstr "%d.note の音符を %n 拍鳴らす"
+
+msgid "play sound %m.sound"
+msgstr "%m.sound の音を鳴らす"
+
+msgid "play sound %m.sound until done"
+msgstr "終わるまで %m.sound の音を鳴らす"
+
+msgid "point in direction %d.direction"
+msgstr "%d.direction 度に向ける"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse へ向ける"
+
+msgid "repeat %n"
+msgstr "%n 回繰り返す"
+
+msgid "repeat until %b"
+msgstr "%b まで繰り返す"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "%m.list の %d.listItem 番目を %s で置き換える"
+
+msgid "reset timer"
+msgstr "タイマーをリセット"
+
+msgid "rest for %n beats"
+msgstr "%n 拍休む"
+
+msgid "round %n"
+msgstr "%n を丸める"
+
+msgid "say %s"
+msgstr "%s と言う"
+
+msgid "say %s for %n secs"
+msgstr "%s と %n 秒言う"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "調べる"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "%m.booleanSensor"
+
+msgid "set %m.effect effect to %n"
+msgstr "%m.effect の効果を %n にする"
+
+msgid "set %m.var to %s"
+msgstr "%m.var を %n にする"
+
+msgid "set instrument to %d.instrument"
+msgstr "楽器を %d.instrument にする"
+
+msgid "set pen color to %c"
+msgstr "ペンの色を %c にする"
+
+msgid "set pen color to %n"
+msgstr "ペンの色を %c にする"
+
+msgid "set pen shade to %n"
+msgstr "ペンの濃さを %n にする"
+
+msgid "set pen size to %n"
+msgstr "ペンの太さを %n にする"
+
+msgid "set size to %n%"
+msgstr "大きさを %n% にする"
+
+msgid "set tempo to %n bpm"
+msgstr "テンポを %n BPMにする"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "音量を %n% にする"
+
+msgid "set x to %n"
+msgstr "x座標を %n にする"
+
+msgid "set y to %n"
+msgstr "y座標を %n にする"
+
+msgid "show"
+msgstr "表示する"
+
+msgid "show monitor %m.varOrList"
+msgstr ""
+
+msgid "size"
+msgstr "大きさ"
+
+msgid "Sound"
+msgstr "音"
+
+msgid "stamp"
+msgstr "スタンプ"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "すべての音を止める"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "テンポ"
+
+msgid "think %s"
+msgstr "%s と考える"
+
+msgid "think %s for %n secs"
+msgstr "%s と %n 秒考える"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "タイマー"
+
+msgid "touching %m.touching?"
+msgstr "%m.touching に触れた"
+
+msgid "touching color %c?"
+msgstr "%c 色に触れた"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "音量"
+
+msgid "wait %n secs"
+msgstr "%n 秒待つ"
+
+msgid "wait until %b"
+msgstr "%b まで待つ"
+
+msgid "when %m.key key pressed"
+msgstr "%m.key キーが押されたとき"
+
+msgid "when @greenFlag clicked"
+msgstr "@greenFlag がクリックされたとき"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when I am clicked"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "x position"
+msgstr "x座標"
+
+msgid "y position"
+msgstr "y座標"
+

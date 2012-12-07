@@ -1,0 +1,1922 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-16 11:00-0400\n"
+"PO-Revision-Date: 2011-10-13 01:11-0400\n"
+"Last-Translator: Chris Leonard <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.2.1\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Bahasa Melayu"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
+
+# Set to 'true' or 'false'<br />
+# <br />
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "Halang Huruf Tebal"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "Font-Win"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "Font-Mac"
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "Font-Linux"
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "nilai sensor %H "
+
+msgid "%L contains %s"
+msgstr "%L mengandungi %s"
+
+msgid "%a of %m"
+msgstr "%a daripada %m"
+
+msgid "%b and %b"
+msgstr "%b dan %b"
+
+msgid "%b or %b"
+msgstr "%b atau %b"
+
+msgid "%f of %n"
+msgstr "%f daripada %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "tambah %s kepada %L"
+
+msgid "answer"
+msgstr "jawapan"
+
+msgid "ask %s and wait"
+msgstr "tanya %s dan tunggu"
+
+msgid "background #"
+msgstr "latar belakang #"
+
+msgid "broadcast %e"
+msgstr "siarkan %e"
+
+msgid "broadcast %e and wait"
+msgstr "siarkan %e dan tunggu"
+
+msgid "change %g effect by %n"
+msgstr "tukar %g kesan dengan %n"
+
+msgid "change %v by %n"
+msgstr "tukar %v dengan %n"
+
+msgid "change pen color by %n"
+msgstr "tukar warna pen dengan %n"
+
+msgid "change pen shade by %n"
+msgstr "tukar bayangan pen dengan %n"
+
+msgid "change pen size by %n"
+msgstr "tukar saiz pen dengan %n"
+
+msgid "change size by %n"
+msgstr "tukar saiz dengan %n"
+
+msgid "change tempo by %n"
+msgstr "tukar tempo dengan %n"
+
+msgid "change volume by %n"
+msgstr "tukar kekuatan bunyi dengan %n"
+
+msgid "change x by %n"
+msgstr "tukar x dengan %n"
+
+msgid "change y by %n"
+msgstr "tukar y dengan %n"
+
+msgid "clear"
+msgstr "bersihkan"
+
+msgid "clear graphic effects"
+msgstr "bersihkan kesan grafik"
+
+msgid "color %C is touching %C?"
+msgstr "warna %C menyentuh %C?"
+
+msgid "control"
+msgstr "kawal"
+
+msgid "costume #"
+msgstr "kostum #"
+
+msgid "delete %y of %L"
+msgstr "hapuskan %y daripada %L"
+
+msgid "direction"
+msgstr "arah"
+
+msgid "distance to %m"
+msgstr "jarak ke %m"
+
+msgid "else"
+msgstr "lain"
+
+msgid "forever"
+msgstr "selamanya"
+
+msgid "forever if %b"
+msgstr "jika selamanya %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "luncur %n saat ke x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "pergi belakang %n lapisan"
+
+msgid "go to %m"
+msgstr "pergi ke %m"
+
+msgid "go to front"
+msgstr "pergi ke hadapan"
+
+msgid "go to x:%n y:%n"
+msgstr "pergi ke x:%n y:%n"
+
+msgid "hide"
+msgstr "sembunyi"
+
+msgid "hide variable %v"
+msgstr "sembunyikan pemboleh ubah %v"
+
+msgid "if %b"
+msgstr "jika %b"
+
+msgid "if on edge, bounce"
+msgstr "jika di bucu, lantun"
+
+msgid "insert %s at %i of %L"
+msgstr "selit %s pada %i dari %L"
+
+msgid "item %i of %L"
+msgstr "item %i daripada %L"
+
+msgid "join %s %s"
+msgstr "sambung %s %s"
+
+msgid "key %k pressed?"
+msgstr "kekunci %k ditekan?"
+
+msgid "length of %L"
+msgstr "panjang %L"
+
+msgid "length of %s"
+msgstr "panjang %s"
+
+msgid "letter %n of %s"
+msgstr "huruf %n daripada %s"
+
+msgid "list"
+msgstr "senarai"
+
+msgid "looks"
+msgstr "rupa"
+
+msgid "loud?"
+msgstr "nyaring?"
+
+msgid "loudness"
+msgstr "kenyaringan"
+
+msgid "motion"
+msgstr "gerakan"
+
+msgid "motor direction %W"
+msgstr "arah motor %W"
+
+msgid "motor off"
+msgstr "motor mati"
+
+msgid "motor on"
+msgstr "motor hidup"
+
+msgid "motor on for %n secs"
+msgstr "motor hidup selama %n saat"
+
+msgid "motor power %n"
+msgstr "kuasa motor %n"
+
+msgid "mouse down?"
+msgstr "tetikus ditekan?"
+
+msgid "mouse x"
+msgstr "tetikus x"
+
+msgid "mouse y"
+msgstr "tetikus y"
+
+msgid "move %n steps"
+msgstr "gerak %n langkah"
+
+msgid "next background"
+msgstr "latar belakang berikutnya"
+
+msgid "next costume"
+msgstr "kostum berikutnya"
+
+msgid "not %b"
+msgstr "bukan %b"
+
+msgid "operators"
+msgstr "operator"
+
+msgid "pen"
+msgstr "pen"
+
+msgid "pen down"
+msgstr "pen diturunkan"
+
+msgid "pen up"
+msgstr "pen diangkat"
+
+msgid "pick random %n to %n"
+msgstr "pilih secara rawak %n hingga %n"
+
+msgid "play drum %D for %n beats"
+msgstr "mainkan drum %D sebanyak %n derap"
+
+msgid "play note %N for %n beats"
+msgstr "mainkan not %N sebanyak %n derap"
+
+msgid "play sound %S"
+msgstr "mainkan bunyi %S"
+
+msgid "play sound %S until done"
+msgstr "mainkan bunyi %S sampai selesai"
+
+msgid "point in direction %d"
+msgstr "hala ke arah %d"
+
+msgid "point towards %m"
+msgstr "hala kepada %m"
+
+msgid "repeat %n"
+msgstr "ulang %n"
+
+msgid "repeat until %b"
+msgstr "ulang sehingga %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "gantikan item %i dari %L dengan %s"
+
+msgid "reset timer"
+msgstr "reset pemasa"
+
+msgid "rest for %n beats"
+msgstr "rehat selama %n derap"
+
+msgid "round %n"
+msgstr "bulatkan %n"
+
+msgid "say %s"
+msgstr "bercakap %s"
+
+msgid "say %s for %n secs"
+msgstr "bercakap %s selama %n saat"
+
+msgid "sensing"
+msgstr "mengesan"
+
+msgid "sensor %h?"
+msgstr "sensor %h?"
+
+msgid "set %g effect to %n"
+msgstr "tetapkan %g kesan kepada %n"
+
+msgid "set %v to %n"
+msgstr "tetapkan %v kepada %n"
+
+msgid "set instrument to %I"
+msgstr "tetapkan instrumen kepada %I"
+
+msgid "set pen color to %c"
+msgstr "tetapkan warna pen kepada %c"
+
+msgid "set pen color to %n"
+msgstr "tetapkan warna pen kepada %n"
+
+msgid "set pen shade to %n"
+msgstr "tetapkan bayangan pen kepada %n"
+
+msgid "set pen size to %n"
+msgstr "tetapkan saiz pen kepada %n"
+
+msgid "set size to %n%"
+msgstr "tetapkan saiz kepada %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "tetapkan tempo kepada %n bpm"
+
+msgid "set volume to %n%"
+msgstr "tetapkan volum kepada"
+
+msgid "set x to %n"
+msgstr "tetapkan x ke %n"
+
+msgid "set y to %n"
+msgstr "tetapkan y ke %n"
+
+msgid "show"
+msgstr "papar"
+
+msgid "show variable %v"
+msgstr "papar pemboleh ubah %v"
+
+msgid "size"
+msgstr "saiz"
+
+msgid "sound"
+msgstr "bunyi"
+
+msgid "stamp"
+msgstr "hentakan"
+
+msgid "stop all"
+msgstr "hentikan semua"
+
+msgid "stop all sounds"
+msgstr "hentikan semua bunyi"
+
+msgid "stop script"
+msgstr "hentikan skrip"
+
+msgid "switch to background %l"
+msgstr "tukar ke latar belakang %l"
+
+msgid "switch to costume %l"
+msgstr "tukar ke kostum %l"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "fikirkan %s"
+
+msgid "think %s for %n secs"
+msgstr "fikirkan %s selama %n saat"
+
+msgid "timer"
+msgstr "pemasa"
+
+msgid "touching %m?"
+msgstr "menyentuh %m?"
+
+msgid "touching color %C?"
+msgstr "menyentuh warna %C?"
+
+msgid "turn %n degrees"
+msgstr "putar %n darjah"
+
+msgid "variables"
+msgstr "pemboleh ubah"
+
+msgid "volume"
+msgstr "volum"
+
+msgid "wait %n secs"
+msgstr "tunggu %n saat"
+
+msgid "wait until %b"
+msgstr "tunggu hingga %b"
+
+msgid "when %k key pressed"
+msgstr "bila kekunci %k ditekan "
+
+msgid "when %m clicked"
+msgstr "bila %m diklik"
+
+msgid "when I receive %e"
+msgstr "bila saya terima %e"
+
+msgid "x position"
+msgstr "kedudukan x"
+
+msgid "y position"
+msgstr "kedudukan y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(kosong)"
+
+msgid "1 script"
+msgstr "1 skrip"
+
+msgid "About Scratch"
+msgstr "Mengenai Scratch"
+
+msgid "About this project:"
+msgstr "Mengenai projek ini:"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "tambah komen"
+
+msgid "add comment here"
+msgstr "tambah komen di sini"
+
+msgid "all"
+msgstr "semua"
+
+msgid "and"
+msgstr "dan"
+
+msgid "Animation"
+msgstr "Animasi"
+
+msgid "any"
+msgstr "mana-mana"
+
+msgid "Art"
+msgstr "Seni"
+
+msgid "background"
+msgstr "latar"
+
+msgid "backgrounds"
+msgstr "latar-latar"
+
+msgid "Backgrounds"
+msgstr "Latar-latar"
+
+msgid "brightness"
+msgstr "kecerahan"
+
+msgid "Brush size: "
+msgstr "Saiz berus:"
+
+msgid "button"
+msgstr "butang"
+
+msgid "button pressed"
+msgstr "butang ditekan"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "can rotate"
+msgstr "boleh putar"
+
+msgid "cancel"
+msgstr "batal"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Choose a folder"
+msgstr "Pilih satu folder"
+
+msgid "Choose new sprite from file"
+msgstr "Pilih sprite baru daripada fail"
+
+msgid "clean up"
+msgstr "kosongkan"
+
+msgid "Clear"
+msgstr "Kosongkan"
+
+msgid "Clear canvas"
+msgstr "Kosongkan kanvas"
+
+msgid "Close and continue"
+msgstr "Tutup dan sambung"
+
+msgid "Close dialog?"
+msgstr "Tutup dailog?"
+
+msgid "Close paint editor?"
+msgstr "Tutup editor cat?"
+
+msgid "close port"
+msgstr "tutup port"
+
+msgid "Close sound recorder?"
+msgstr "Tutup perakam bunyi?"
+
+msgid "color"
+msgstr "warna"
+
+msgid "Compress Images"
+msgstr "Imej Mampatan"
+
+msgid "Compress Sounds"
+msgstr "Bunyi mampatan "
+
+msgid "Compress sounds and images"
+msgstr "Bunyi dan imej mampatan"
+
+msgid "Computer"
+msgstr "Komputer"
+
+msgid "connected"
+msgstr "disambungkan"
+
+msgid "Connecting to "
+msgstr "Disambungkan kepada"
+
+msgid "Copy"
+msgstr "Salin"
+
+msgid "costume"
+msgstr "kostum"
+
+msgid "costumes"
+msgstr "kostum-kostum"
+
+msgid "Costumes"
+msgstr "Kostum-kostum"
+
+msgid "Could not read"
+msgstr "Tidak boleh dibaca"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Tidak boleh dibaca; fail mungkin telah rosak"
+
+msgid "Could not write file"
+msgstr "Tidak boleh menulis fail"
+
+msgid "Create account"
+msgstr "Cipta akaun"
+
+msgid "Create an empty project"
+msgstr "Cipta projek kosong"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Data dihantar. Menunggu respons..."
+
+msgid "delete"
+msgstr "padam"
+
+msgid "Delete"
+msgstr "Padam"
+
+msgid "Delete a list"
+msgstr "Padam senarai"
+
+msgid "Delete a variable"
+msgstr "Padam pemboleh ubah"
+
+msgid "Delete this background"
+msgstr "Padam latar ini"
+
+msgid "Delete this costume"
+msgstr "Pada kostum ini"
+
+msgid "Delete this sound"
+msgstr "Padam bunyi ini"
+
+msgid "Delete this sprite"
+msgstr "Padam sprite ini"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "disable remote sensor connections"
+msgstr "Lumpuhkan sambungan sensor jauh"
+
+msgid "distance"
+msgstr "jarak"
+
+msgid "Documents"
+msgstr "Dokumen"
+
+msgid "don't rotate"
+msgstr "jangan pusing"
+
+msgid "Don't Save"
+msgstr "Jangan Simpan"
+
+msgid "Done"
+msgstr "Selesai"
+
+msgid "down"
+msgstr "bawah"
+
+msgid "down arrow"
+msgstr "anak panah bawah"
+
+msgid "drag to resize"
+msgstr "heret untuk ubah saiz"
+
+msgid "drag to rotate"
+msgstr "heret untuk putar"
+
+msgid "draggable on website?"
+msgstr "boleh diheret dalam laman web?"
+
+msgid "duplicate"
+msgstr "pendua"
+
+msgid "Duplicate"
+msgstr "Pendua"
+
+msgid "edge"
+msgstr "bucu"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Alatan elips (lukis sempadan atau elips atau bulatan)"
+
+msgid "enable remote sensor connections"
+msgstr "membolehkan sambungan sensor jauh"
+
+msgid "Enter presentation mode"
+msgstr "Masuk mode persembahan"
+
+msgid "Eraser"
+msgstr "Pemadam"
+
+msgid "Eraser size"
+msgstr "Saiz pemadam"
+
+msgid "Error!"
+msgstr "Ralat!"
+
+msgid "Examples"
+msgstr "Contoh-contoh"
+
+msgid "Exit presentation"
+msgstr "Keluar persembahan"
+
+msgid "Exit presentation mode"
+msgstr "Keluar mode persembahan"
+
+msgid "export"
+msgstr "eksport"
+
+msgid "Export Background"
+msgstr "Eksport Latar"
+
+msgid "Export Costume"
+msgstr "Eksport Kostum"
+
+msgid "Export failed"
+msgstr "Gagal eksport"
+
+msgid "Export Sound"
+msgstr "Eksport bunyi"
+
+msgid "Export Sprite"
+msgstr "Eksport sprite"
+
+msgid "export this costume"
+msgstr "eksport kostum ini"
+
+msgid "export this sound"
+msgstr "eksport bunyi ini"
+
+msgid "export this sprite"
+msgstr "eksport sprite ini"
+
+msgid "Extras menu"
+msgstr "Menu Ekstra"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Alatan penitis (pilih warna)"
+
+msgid "Failed:"
+msgstr "Gagal"
+
+msgid "false"
+msgstr "palsu"
+
+msgid "File"
+msgstr "Fail"
+
+msgid "File not found"
+msgstr "Fail tidak dijumpai"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Alatan isian (isi luas dengan warna atau gradien)"
+
+msgid "first"
+msgstr "pertama"
+
+msgid "fisheye"
+msgstr "mata ikan"
+
+msgid "Flash blocks (fast)"
+msgstr "Blok kilat (pantas)"
+
+msgid "Flash blocks (slow)"
+msgstr "Blok kilat (lambat)"
+
+msgid "Flip horizontally"
+msgstr "Flip mendatar"
+
+msgid "Flip vertically"
+msgstr "Flip menegak"
+
+msgid "For all sprites"
+msgstr "Untuk semua sprite"
+
+msgid "For this sprite only"
+msgstr "Untuk sprite ini sahaja"
+
+msgid "Game"
+msgstr "Permainan"
+
+msgid "Get surprise sprite"
+msgstr "Dapat sprite kejutan"
+
+msgid "Get the last thing deleted"
+msgstr "Dapatkan item yang terakhir dipadam "
+
+msgid "Getting Started"
+msgstr "Permulaan"
+
+msgid "ghost"
+msgstr "siluman"
+
+msgid "Go To Scratch Website"
+msgstr "Pergi ke Laman Web Scratch"
+
+msgid "grab screen region for new costume"
+msgstr "cekau kawasan skrin untuk kostum baharu"
+
+msgid "grab screen region for new sprite"
+msgstr "cekau kawasan skrin untuk sprite baharu"
+
+msgid "Grow"
+msgstr "Membesar"
+
+msgid "Grow sprite"
+msgstr "Besarkan sprite"
+
+msgid "hello "
+msgstr "helo"
+
+msgid "Hello!"
+msgstr "Helo!"
+
+msgid "help"
+msgstr "bantu"
+
+msgid "Help"
+msgstr "Bantu"
+
+msgid "Help Page"
+msgstr "Halaman Bantuan"
+
+msgid "Help Screens"
+msgstr "Skrin Bantuan"
+
+msgid "Hide Motor Blocks"
+msgstr "Sorok Blok-blok Motor"
+
+msgid "High (biggest)"
+msgstr "Tinggi (terbesar)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Rumah"
+
+msgid "Images compressed"
+msgstr "Imej dimampatkan"
+
+msgid "import"
+msgstr "import"
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Import imej di atas kanvas sedia ada"
+
+msgid "Import Background"
+msgstr "Import Latar"
+
+msgid "Import Costume"
+msgstr "Import Kostum"
+
+msgid "Import Image"
+msgstr "Import Imej"
+
+msgid "Import List"
+msgstr "Import Senarai"
+
+msgid "Import Project"
+msgstr "Import Projek"
+
+msgid "import project"
+msgstr "import projek"
+
+msgid "Import Sound"
+msgstr "Import Sound"
+
+msgid "Incompatible Scratch file format"
+msgstr "Fail format Scratch tidak serasi"
+
+msgid "Is the folder read-only?"
+msgstr "Adakah folder boleh dibaca sahaja?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "Kualiti JPEG (10-100)?"
+
+msgid "kbytes"
+msgstr "kbait"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "large readout"
+msgstr "bacaan besar"
+
+msgid "last"
+msgstr "akhir"
+
+msgid "left"
+msgstr "kiri"
+
+msgid "left arrow"
+msgstr "anak panah kiri"
+
+msgid "length"
+msgstr "panjang"
+
+msgid "light"
+msgstr "cahaya"
+
+msgid "Line tool (draw lines)"
+msgstr "Alatan garis (lukis garisan)"
+
+msgid "List name?"
+msgstr "Nama list?"
+
+msgid "Low"
+msgstr "Rendah"
+
+msgid "Lowest (smallest)"
+msgstr "Paling rendah"
+
+msgid "Make a list"
+msgstr "Buat satu senarai"
+
+msgid "Make a variable"
+msgstr "Buat satu pemboleh ubah"
+
+msgid "Max:"
+msgstr "Max:"
+
+msgid "meow"
+msgstr "meow"
+
+msgid "Message name:"
+msgstr "Nama mesej:"
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "mod"
+msgstr "mod"
+
+msgid "more"
+msgstr "lagi"
+
+msgid "More tags:"
+msgstr "Lagi tag:"
+
+msgid "mosaic"
+msgstr "mozek"
+
+msgid "mouse x:"
+msgstr "tetikus x:"
+
+msgid "mouse y:"
+msgstr "tetikus y:"
+
+msgid "mouse-pointer"
+msgstr "petunjuk tetikus"
+
+msgid "Move"
+msgstr "Gerak"
+
+msgid "Music"
+msgstr "Muzik"
+
+msgid "My Projects"
+msgstr "Projek Saya"
+
+msgid "new"
+msgstr "baharu"
+
+msgid "New"
+msgstr "Baharu"
+
+msgid "New background:"
+msgstr "Latar baharu:"
+
+msgid "New costume:"
+msgstr "Kostum baharu:"
+
+msgid "New file name?"
+msgstr "Nama fail baharu?"
+
+msgid "New Filename:"
+msgstr "Nama fail baharu:"
+
+msgid "New sound:"
+msgstr "Bunyi Baharu:"
+
+msgid "New Sprite"
+msgstr "Sprite Baharu "
+
+msgid "New sprite:"
+msgstr "Sprite baharu:"
+
+msgid "No"
+msgstr "Tidak"
+
+msgid "No MIDI ports currently available."
+msgstr "Tiada port MIDI"
+
+msgid "No motion blocks"
+msgstr "Tiada blok gerakan"
+
+msgid "no scripts"
+msgstr "tiada skrip"
+
+msgid "No serial ports found"
+msgstr "Tiada port serial dijumpai"
+
+msgid "No variables."
+msgstr "Tiada pemboleh ubah."
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "normal readout"
+msgstr "bacaan normal"
+
+msgid "Off"
+msgstr "Mati"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "On"
+msgstr "Hidup"
+
+msgid "only face left-right"
+msgstr "hanya wajah kiri-kanan"
+
+msgid "Open"
+msgstr "Buka"
+
+msgid "Open a Scratch project"
+msgstr "Buka projek Scratch"
+
+msgid "Open Project"
+msgstr "Buka Projek"
+
+msgid "or"
+msgstr "atau"
+
+msgid "Paint"
+msgstr "Cat"
+
+msgid "Paint Editor"
+msgstr "Editor Cat"
+
+msgid "Paint new sprite"
+msgstr "Cat sprite baharu"
+
+msgid "Paintbrush"
+msgstr "Berus cat"
+
+msgid "Password:"
+msgstr "Kata laluan:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Peratus? (100 ialah saiz asal)"
+
+msgid "Pictures"
+msgstr "Gambar-gambar"
+
+msgid "pixelate"
+msgstr "pixelate"
+
+msgid "play"
+msgstr "main"
+
+msgid "Please enter a number"
+msgstr "Sila masukkan satu nombor"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Letakkan kursor silang rerambut untuk tetapkan pusat putaran"
+
+msgid "Preparing project..."
+msgstr "Menyediakan projek..."
+
+msgid "Project author:"
+msgstr "Pengarang projek:"
+
+msgid "Project name"
+msgstr "Nama projek"
+
+msgid "Project Notes"
+msgstr "Nota-nota Projek"
+
+msgid "Project notes"
+msgstr "Nota-nota projek"
+
+msgid "Project uploaded."
+msgstr "Projek telah dimuat naik"
+
+msgid "Projects"
+msgstr "Projek-projek"
+
+msgid "Quit"
+msgstr "Berhenti"
+
+msgid "Quit Scratch"
+msgstr "Berhenti Scratch"
+
+msgid "Reading"
+msgstr "Membaca"
+
+msgid "record"
+msgstr "rakam"
+
+msgid "Record"
+msgstr "Rakam"
+
+msgid "recording"
+msgstr "merakam"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr ""
+"Alatan segiempat (lukis sempadan atau isi segiempat atau segiempat sama)"
+
+msgid "Redo"
+msgstr "Ulang semula"
+
+msgid "Reference Guide"
+msgstr "Rujukan Panduan"
+
+msgid "Remote sensor connections enabled"
+msgstr "Sambungan sensor jauh dihidupkan"
+
+msgid "Remove viewer from stage"
+msgstr "Alih alat lihat daripada pentas"
+
+msgid "resistance"
+msgstr "perintang"
+
+msgid "resize this sprite"
+msgstr "ubah saiz sprite ini"
+
+msgid "reverse"
+msgstr "songsang"
+
+msgid "right"
+msgstr "kanan"
+
+msgid "right arrow"
+msgstr "anak panah kanan"
+
+msgid "Rotate clock-wise"
+msgstr "Putar ikut arah jam"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Putar ikut arah lawan jam"
+
+msgid "rotate this sprite"
+msgstr "putar sprite ini"
+
+msgid "Rotation degrees?"
+msgstr "darjah putaran?"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "Save a copy of the current project"
+msgstr "Simpan satu salinan projek semasa"
+
+msgid "Save As"
+msgstr "Simpan sebagai"
+
+msgid "Save changes before quitting?"
+msgstr "Simpan perubahan sebelum berhenti?"
+
+msgid "Save failed"
+msgstr "Simpanan gagal"
+
+msgid "save picture of scripts"
+msgstr "simpan gambar skrip"
+
+msgid "save picture of stage..."
+msgstr "simpan gambar pentas"
+
+msgid "Save Project"
+msgstr "Simpan Projek"
+
+msgid "Save Scripts Snapshot"
+msgstr "Simpan Petikan Skrip"
+
+msgid "Save Stage Shot"
+msgstr "Simpan Petikan Pentas"
+
+msgid "Save the current project"
+msgstr "Simpan projek semasa"
+
+msgid "Save the current project?"
+msgstr "Simpan projek semasa?"
+
+msgid "Save this project"
+msgstr "Simpan projek ini"
+
+msgid "Scripts"
+msgstr "Skrip-skrip"
+
+msgid "select serial/USB port"
+msgstr "pilih port serial/USB"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Alatan pilih (gerak, ubahsuai, atau hapus pilihan)"
+
+msgid "Set costume center"
+msgstr "Tetapkan tengah kostum"
+
+msgid "Set language"
+msgstr "Tetapkan bahasa"
+
+msgid "Set rotation center"
+msgstr "Tetapkan pusat putaran"
+
+msgid "Set Single Stepping"
+msgstr "Tetapkan Injakan Tunggal"
+
+msgid "set slider min and max"
+msgstr "tetapkan lungsur min dan max"
+
+msgid "Share"
+msgstr "Kongsi"
+
+msgid "Share this project"
+msgstr "Kongsi projek ini"
+
+msgid "Share This Project Online"
+msgstr "Kongsi Projek Ini Secara Dalam Talian"
+
+msgid "Show Motor Blocks"
+msgstr "Papar Blok-blok Motor"
+
+msgid "show ScratchBoard watcher"
+msgstr "papar pengawas ScratchBoard"
+
+msgid "Shrink"
+msgstr "Susut"
+
+msgid "Shrink sprite"
+msgstr "Susut sprite"
+
+msgid "Simulation"
+msgstr "Simulasi"
+
+msgid "Single-step speed?"
+msgstr "Kelajuan langkah tunggal?"
+
+msgid "slider"
+msgstr "pelungsur"
+
+msgid "Slider range:"
+msgstr "Julat pelungsur:"
+
+msgid "Sound quality:"
+msgstr "Kualiti bunyi:"
+
+msgid "Sound Recorder"
+msgstr "Perakam Bunyi"
+
+msgid "Sounds"
+msgstr "Bunyi-bunyi"
+
+msgid "Sounds compressed"
+msgstr "Bunyi-bunyi dimampat"
+
+msgid "space"
+msgstr "space"
+
+msgid "Sprite"
+msgstr "Sprite"
+
+msgid "Sprites"
+msgstr "Sprite"
+
+msgid "sqrt"
+msgstr "sqrt"
+
+msgid "Stage"
+msgstr "Pentas"
+
+msgid "Stage selected:"
+msgstr "Pentas dipilih:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Alatan tera (pilih kawasan, kemudian tera salinannya)"
+
+msgid "Start green flag scripts"
+msgstr "Mulakan skrip bendera hijau"
+
+msgid "Start Single Stepping"
+msgstr "Mula Injak Tunggal"
+
+msgid "stop"
+msgstr "berhenti"
+
+msgid "Stop everything"
+msgstr "Hentikan semua"
+
+msgid "Stop Single Stepping"
+msgstr "Henti Injak Tunggal"
+
+msgid "Story"
+msgstr "Cerita"
+
+msgid "Support Site"
+msgstr "Tapak Sokongan"
+
+msgid "Switch colors"
+msgstr "Tukar warna"
+
+msgid "Switch to full stage"
+msgstr "Tukar kepada pentas penuh"
+
+msgid "Switch to presentation mode"
+msgstr "Tukar kepada mode persembahan"
+
+msgid "Switch to small stage"
+msgstr "Tukar kepada pentas kecil"
+
+msgid "Tags:"
+msgstr "Tag-tag:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Alatan teks (edit lapisan teks)"
+
+msgid "That variable name is already in use"
+msgstr "Nama pemboleh ubah sudah digunakan"
+
+msgid "that way"
+msgstr "arah sana"
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Nama fail telah wujud. Tulis ganti fail yang ada?"
+
+msgid "thing"
+msgstr "benda"
+
+msgid "this way"
+msgstr "arah sini"
+
+msgid "tilt"
+msgstr "condong"
+
+msgid "true"
+msgstr "benar"
+
+msgid "Turbo speed"
+msgstr "Kelajuan turbo"
+
+msgid "turn into new sprite"
+msgstr "tukar menjadi sprite baharu"
+
+msgid "Undelete"
+msgstr "Batal hapus"
+
+msgid "Undo"
+msgstr "Buat asal"
+
+msgid "up"
+msgstr "atas"
+
+msgid "up arrow"
+msgstr "anak panah atas"
+
+msgid "Updating thumbnails"
+msgstr "Kemas kini lakaran kenit"
+
+msgid "Upload succeeded!"
+msgstr "Muat naik berjaya!"
+
+msgid "Upload to Scratch Server"
+msgstr "Muat naik ke Pelayan Scratch"
+
+msgid "Uploading"
+msgstr "Memuat naik"
+
+msgid "Variable name?"
+msgstr "Nama pemboleh ubah?"
+
+msgid "View on stage"
+msgstr "Pandangan atas pentas"
+
+msgid "What's your name?"
+msgstr "Apa nama anda?"
+
+msgid "whirl"
+msgstr "pusar"
+
+msgid "world"
+msgstr "dunia"
+
+msgid "Write Multiple Project Summaries"
+msgstr "Tulis Ringkasan Projek Berbilang"
+
+msgid "Write Project Summary"
+msgstr "Tulis Ringkasan Projek"
+
+msgid "Yes"
+msgstr "Ya"
+
+msgid "Your project is now online at"
+msgstr "Projek anda sekarang dalam talian di"
+
+msgid "Your Scratch website login name:"
+msgstr "Nama login laman Scratch:"
+
+msgid "Zoom in"
+msgstr "Zum dekat"
+
+msgid "Zoom out"
+msgstr "Zum jauh"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Akordion"
+
+msgid "Acoustic Bass"
+msgstr "Bas Akordion"
+
+msgid "Acoustic Bass Drum"
+msgstr "Drum Akordion Akustik"
+
+msgid "Acoustic Grand"
+msgstr "Akustik Agung"
+
+msgid "Acoustic Snare"
+msgstr "Akustik Getar"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Alto Sax"
+
+msgid "Applause"
+msgstr "Tepukan"
+
+msgid "Bagpipe"
+msgstr "Begpaip"
+
+msgid "Banjo"
+msgstr "Banjo"
+
+msgid "Baritone Sax"
+msgstr "Bariton Sax"
+
+msgid "Bass Drum 1"
+msgstr "Drum Bas 1"
+
+msgid "Bassoon"
+msgstr "Basun"
+
+msgid "Bird Tweet"
+msgstr "Twit Burung"
+
+msgid "Blown Bottle"
+msgstr "Tiupan Botol"
+
+msgid "Brass Section"
+msgstr "Bahagian Bras"
+
+msgid "Breath Noise"
+msgstr "Bunyi Nafas"
+
+msgid "Bright Acoustic"
+msgstr "Akustik Terang"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Celesta"
+msgstr "Celesta"
+
+msgid "Cello"
+msgstr "Selo"
+
+msgid "Chinese Cymbal"
+msgstr "Simbal Cina"
+
+msgid "Choir Aahs"
+msgstr "Koir Aahs"
+
+msgid "Church Organ"
+msgstr "Organ Gereja"
+
+msgid "Clarinet"
+msgstr "Klarinet"
+
+msgid "Claves"
+msgstr "Klaves"
+
+msgid "Clavinet"
+msgstr "Klavinet"
+
+msgid "Closed Hi-Hat"
+msgstr "Simbal Hi-Hat Tertutup"
+
+msgid "Contrabass"
+msgstr "Baskontra"
+
+msgid "Cowbell"
+msgstr "Loceng lembu"
+
+msgid "Crash Cymbal 1"
+msgstr "Simbal Laga 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Simbal Laga 2"
+
+msgid "Distortion Guitar"
+msgstr "Gitar Herotan"
+
+msgid "Drawbar Organ"
+msgstr "Organ Batang Tarik"
+
+msgid "Dulcimer"
+msgstr "Dulsimer"
+
+msgid "Electric Bass (finger)"
+msgstr "Bas Elektrik (jari)"
+
+msgid "Electric Bass (pick)"
+msgstr "Bas Elektrik (petik)"
+
+msgid "Electric Clean Guitar"
+msgstr "Gitar Elektrik Bersih"
+
+msgid "Electric Grand"
+msgstr "Elektrik Agung"
+
+msgid "Electric Jazz Guitar"
+msgstr "Gitar Elektrik Jaz"
+
+msgid "Electric Muted Guitar"
+msgstr "Gitar Elektrik Termiut"
+
+msgid "Electric Piano 1"
+msgstr "Piano Elektrik 1"
+
+msgid "Electric Piano 2"
+msgstr "Piano Elektrik 2"
+
+msgid "Electric Snare"
+msgstr "Drum Getar Elektrik"
+
+msgid "English Horn"
+msgstr "Hon Inggeris"
+
+msgid "FX 1 (rain)"
+msgstr "FX 1 (hujan)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "FX 2 (trek bunyi)"
+
+msgid "FX 3 (crystal)"
+msgstr "FX 3 (kristal)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "FX 4 (atmosfera)"
+
+msgid "FX 5 (brightness)"
+msgstr "FX 5 (kecerahan)"
+
+msgid "FX 6 (goblins)"
+msgstr "FX6 (goblin)"
+
+msgid "FX 7 (echoes)"
+msgstr "FX 7 (gema)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "FX 8 (sci-fi)"
+
+msgid "Fiddle"
+msgstr "Biola"
+
+msgid "Flute"
+msgstr "Seruling"
+
+msgid "French Horn"
+msgstr "Hon Perancis"
+
+msgid "Fretless Bass"
+msgstr "Bas Tanpa Fret"
+
+msgid "Glockenspiel"
+msgstr "Glockenspiel"
+
+msgid "Guitar Fret Noise"
+msgstr "Gitar Fret Hingar"
+
+msgid "Guitar Harmonics"
+msgstr "Gitar Harmonik"
+
+msgid "Gunshot"
+msgstr "Tembakan"
+
+msgid "Hand Clap"
+msgstr "Tepuk Tangan"
+
+msgid "Harmonica"
+msgstr "Harmonika"
+
+msgid "Harpsichord"
+msgstr "Harpsikod"
+
+msgid "Helicopter"
+msgstr "Helikopter"
+
+msgid "Hi Bongo"
+msgstr "Hi Bongo"
+
+msgid "Hi Wood Block"
+msgstr "Blok Kayu Hi"
+
+msgid "Hi-Mid Tom"
+msgstr "Hi-Mid Tom"
+
+msgid "High Agogo"
+msgstr "Agogo Tinggi"
+
+msgid "High Floor Tom"
+msgstr "Tom Lantai Tinggi"
+
+msgid "High Timbale"
+msgstr "Timbale Tinggi"
+
+msgid "High Tom"
+msgstr "Tom Tinggi"
+
+msgid "Honky-Tonk"
+msgstr "Honky-Tonk"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Pemula 1 (segi empat)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Pemula 2 (gerigi)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Pemula 3 (caliope)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Pemula 4 (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "Pemula 5 (charang)"
+
+msgid "Lead 6 (voice)"
+msgstr "Pemula 6 (suara)"
+
+msgid "Lead 7 (fifths)"
+msgstr "Pemula 7 (perlima)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Pemula 8 (bas + utama)"
+
+msgid "Long Guiro"
+msgstr "Guiro Panjang"
+
+msgid "Long Whistle"
+msgstr "Wisel Panjang"
+
+msgid "Low Agogo"
+msgstr "Agogo Rendah"
+
+msgid "Low Bongo"
+msgstr "Bongo Rendah"
+
+msgid "Low Conga"
+msgstr "Conga Rendah"
+
+msgid "Low Floor Tom"
+msgstr "Tom Lantai Rendah"
+
+msgid "Low Timbale"
+msgstr "Timbale Rendah"
+
+msgid "Low Tom"
+msgstr "Tom Rendah"
+
+msgid "Low Wood Block"
+msgstr "Blok Kayu Rendah"
+
+msgid "Low-Mid Tom"
+msgstr "Tom Mid-Rendah"
+
+msgid "Maracas"
+msgstr "Marakas"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Tom Berirama"
+
+msgid "Music Box"
+msgstr "Kotak Muzik"
+
+msgid "Mute Cuica"
+msgstr "Cuica Senyap"
+
+msgid "Mute Hi Conga"
+msgstr "Hi Conga Senyap"
+
+msgid "Mute Triangle"
+msgstr "Segi Tiga Senyap"
+
+msgid "Muted Trumpet"
+msgstr "Trumpet Senyap"
+
+msgid "Nylon String Guitar"
+msgstr "Gitar Tali Nilon"
+
+msgid "Oboe"
+msgstr "Obo"
+
+msgid "Ocarina"
+msgstr "Okarina"
+
+msgid "Open Cuica"
+msgstr "Cuica Terbuka"
+
+msgid "Open Hi Conga"
+msgstr "Hi Conga Terbuka"
+
+msgid "Open Hi-Hat"
+msgstr "Hi-Hat Terbuka"
+
+msgid "Open Triangle"
+msgstr "Segi Tiga Terbuka"
+
+msgid "Orchestra Hit"
+msgstr "Hit Okestra"
+
+msgid "Orchestral Strings"
+msgstr "Tali Okestra"
+
+msgid "Overdriven Guitar"
+msgstr "Gitar Terpacu Lebih"
+
+msgid "Pad 1 (new age)"
+msgstr "Pad 1 (zaman baru)"
+
+msgid "Pad 2 (warm)"
+msgstr "Pad 2 (hangat)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Pad 3 (polisinth)"
+
+msgid "Pad 4 (choir)"
+msgstr "Pad 4 (koir)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Pad 5 (luan)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Pad 6 (metalik)"
+
+msgid "Pad 7 (halo)"
+msgstr "Pad 7 (halo)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Pad 8 (sapu)"
+
+msgid "Pan Flute"
+msgstr "Pad 9 (flut)"
+
+msgid "Pedal Hi-Hat"
+msgstr "Pedal Hi-Hat"
+
+msgid "Percussive Organ"
+msgstr "Organ Genderang"
+
+msgid "Piccolo"
+msgstr "Pikolo"
+
+msgid "Pizzicato Strings"
+msgstr "Tali Pizzicato"
+
+msgid "Recorder"
+msgstr "Rekoder"
+
+msgid "Reed Organ"
+msgstr "Organ Rid"
+
+msgid "Reverse Cymbal"
+msgstr "Simbal Songsang"
+
+msgid "Ride Bell"
+msgstr "Loceng Tunggang"
+
+msgid "Ride Cymbal 1"
+msgstr "Simbal Tunggang 1"
+
+msgid "Ride Cymbal 2"
+msgstr "Simbal Tunggang 2"
+
+msgid "Rock Organ"
+msgstr "Organ Rock"
+
+msgid "Seashore"
+msgstr "Tepi Pantai"
+
+msgid "Shakuhachi"
+msgstr "Shakuhachi"
+
+msgid "Shamisen"
+msgstr "Shamisen"
+
+msgid "Shanai"
+msgstr "Shanai"
+
+msgid "Short Guiro"
+msgstr "Guiro Pendek"
+
+msgid "Short Whistle"
+msgstr "Wisel Pendek"
+
+msgid "Side Stick"
+msgstr "Selak Baji"
+
+msgid "Sitar"
+msgstr "Sitar"
+
+msgid "Slap Bass 1"
+msgstr "Bas Tamparan 1"
+
+msgid "Slap Bass 2"
+msgstr "Bas Tamparan 2"
+
+msgid "Soprano Sax"
+msgstr "Soprano Sax"
+
+msgid "Splash Cymbal"
+msgstr "Simbal Percikan"
+
+msgid "Steel Drums"
+msgstr "Drum Keluli"
+
+msgid "Steel String Guitar"
+msgstr "Gitar Tali Keluli"
+
+msgid "String Ensemble 1"
+msgstr "Ensembel Talian 1"
+
+msgid "String Ensemble 2"
+msgstr "Ensembel Talian 2"
+
+msgid "Synth Bass 1"
+msgstr "Bas Sinth 1"
+
+msgid "Synth Bass 2"
+msgstr "Bas Sinth 2"
+
+msgid "Synth Drum"
+msgstr "Dram Sinth"
+
+msgid "Synth Voice"
+msgstr "Suara Sinth"
+
+msgid "SynthBrass 1"
+msgstr "Bassinth 1"
+
+msgid "SynthBrass 2"
+msgstr "Bassinth 2"
+
+msgid "SynthStrings 1"
+msgstr "Taliansinth 1"
+
+msgid "SynthStrings 2"
+msgstr "Taliansinth 2"
+
+msgid "Taiko Drum"
+msgstr "Dram Taiko"
+
+msgid "Tambourine"
+msgstr "Tamborin"
+
+msgid "Tango Accordion"
+msgstr "Akordion Tango"
+
+msgid "Telephone Ring"
+msgstr "Dering Telefon"
+
+msgid "Tenor Sax"
+msgstr "Tenor Sax"
+
+msgid "Timpani"
+msgstr "Timpani"
+
+msgid "Tinkle Bell"
+msgstr "Loceng Tinkel"
+
+msgid "Tremolo Strings"
+msgstr "Talian Tremolo"
+
+msgid "Trombone"
+msgstr "Trombon"
+
+msgid "Trumpet"
+msgstr "Trumpet"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "Loceng Tubular"
+
+msgid "Vibraphone"
+msgstr "Vibrafon"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "Viola"
+msgstr "Viola"
+
+msgid "Violin"
+msgstr "Biola"
+
+msgid "Voice Oohs"
+msgstr "Suara Oohs"
+
+msgid "Whistle"
+msgstr "Wisel"
+
+msgid "Woodblock"
+msgstr "Blok Kayu"
+
+msgid "Xylophone"
+msgstr "Xilofon"

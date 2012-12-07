@@ -1,0 +1,462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-06 17:34+0200\n"
+"PO-Revision-Date: 2012-12-06 17:28+0200\n"
+"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "Language-Name"
+msgstr "العربية أحلى"
+
+msgid "%b and %b"
+msgstr "%b و %b"
+
+msgid "%b or %b"
+msgstr "%b أو %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute للكائن %m.spriteOrStage"
+
+msgid "%m.listName contains %s"
+msgstr "%m.listName تحتوي %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp للقيمة %n"
+
+msgid "%m.sensor sensor value"
+msgstr "قيمة حساس %m.sensor"
+
+msgid "%n mod %n"
+msgstr "باقي قسمة %n1 على %n2"
+
+msgid "abs %n"
+msgstr ""
+
+msgid "add %s to %m.listName"
+msgstr "أضف %s إلى %m.listName"
+
+msgid "answer"
+msgstr "الإجابة"
+
+msgid "ask %s and wait"
+msgstr "اسأل %s وانتظر"
+
+msgid "broadcast %m.broadcast"
+msgstr "بث %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "بث %m.broadcast وانتظر"
+
+msgid "change %m.effect effect by %n"
+msgstr "غيِّر تأثير %m.effect بمقدار %n"
+
+msgid "change %m.varName by %n"
+msgstr "غيِّر %m.varName بمقدار %n"
+
+msgid "change pen color by %n"
+msgstr "غيِّر لون القلم بمقدار %n"
+
+msgid "change pen shade by %n"
+msgstr "غيِّر تظليل القلم بمقدار %n"
+
+msgid "change pen size by %n"
+msgstr "غيِّر حجم القلم بمقدار %n"
+
+msgid "change size by %n"
+msgstr "غيِّر الحجم بمقدار %n"
+
+msgid "change tempo by %n"
+msgstr "غيِّر سرعة الأداء بمقدار %n"
+
+msgid "change volume by %n"
+msgstr "غيِّر شدة الصوت بمقدار %n"
+
+msgid "change x by %n"
+msgstr "غيِّر الموضع س بمقدار %n"
+
+msgid "change y by %n"
+msgstr "غيِّر الموضع ص بمقدار %n"
+
+msgid "clear"
+msgstr "امسح"
+
+msgid "clear counter"
+msgstr ""
+
+msgid "clear graphic effects"
+msgstr "أزل التأثيرات الرسومية"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "اللون %c1 يلامس اللون %c2؟"
+
+msgid "Control"
+msgstr "التحكم"
+
+msgid "costume #"
+msgstr "رقم المظهر"
+
+msgid "counter"
+msgstr ""
+
+msgid "create clone of %m.spriteOnly"
+msgstr "أنشئ نسخة من %m.spriteOnly"
+
+msgid "Data"
+msgstr "البيانات"
+
+msgid "delete %d.listDeleteItem of %m.listName"
+msgstr "احذف %d.listDeleteItem من %m.listName"
+
+msgid "delete this clone"
+msgstr "احذف هذه النسخة"
+
+msgid "direction"
+msgstr "الاتجاه"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "المسافة إلى %m.spriteOrMouse"
+
+msgid "else"
+msgstr "وإلا"
+
+msgid "Events"
+msgstr "الأحداث"
+
+msgid "for each %m.varName in %s"
+msgstr ""
+
+msgid "forever"
+msgstr "كرر باستمرار"
+
+msgid "forever if %b"
+msgstr "اختبر باستمرار إذا %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "انزلق خلال %n1 ثانية إلى الموضع س: %n2 ص: %n3"
+
+msgid "go back %n layers"
+msgstr "انتقل %n طبقة إلى الخلف"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "اذهب إلى %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "انتقل إلى المقدمة"
+
+msgid "go to x:%n y:%n"
+msgstr "اذهب إلى الموضع س: %n1 ص: %n2"
+
+msgid "hide"
+msgstr "اختف"
+
+msgid "hide all sprites"
+msgstr "أخفِ جميع الكائنات"
+
+msgid "hide variable %m.varName"
+msgstr "أخفِ المتغير %m.varName"
+
+msgid "if %b"
+msgstr "إذا %b"
+
+msgid "if on edge, bounce"
+msgstr "ارتد إذا كنت عند الحافة"
+
+msgid "incr counter"
+msgstr ""
+
+msgid "insert %s at %d.listItem of %m.listName"
+msgstr "أدرج %s في الموقع %d.listItem من %m.listName"
+
+msgid "item %d.listItem of %m.listName"
+msgstr "العنصر %d.listItem من %m.listName"
+
+msgid "join %s %s"
+msgstr "اربط %s1 %s2"
+
+msgid "key %m.key pressed?"
+msgstr "مفتاح %m.key مضغوط؟"
+
+msgid "length of %m.listName"
+msgstr "طول %m.listName"
+
+msgid "length of %s"
+msgstr "طول %s"
+
+msgid "letter %n of %s"
+msgstr "الحرف %n من %s"
+
+msgid "Looks"
+msgstr "المظاهر"
+
+msgid "loud?"
+msgstr "الصوت مرتفع؟"
+
+msgid "loudness"
+msgstr "شدة الصوت"
+
+msgid "More Blocks"
+msgstr "لبنات إضافية"
+
+msgid "Motion"
+msgstr "الحركة"
+
+msgid "mouse down?"
+msgstr "زر الفأرة مضغوط؟"
+
+msgid "mouse x"
+msgstr "الموضع س للفأرة"
+
+msgid "mouse y"
+msgstr "الموضع ص للفأرة"
+
+msgid "move %n steps"
+msgstr "تحرك %n خطوة"
+
+msgid "next background"
+msgstr "الخلفية التالية"
+
+msgid "next costume"
+msgstr "المظهر التالي"
+
+msgid "noop"
+msgstr ""
+
+msgid "not %b"
+msgstr "ليس %b"
+
+msgid "Operators"
+msgstr "العمليات"
+
+msgid "Pen"
+msgstr "القلم"
+
+msgid "pen down"
+msgstr "أنزل القلم"
+
+msgid "pen up"
+msgstr "ارفع القلم"
+
+msgid "pick random %n to %n"
+msgstr "اختر عدداً عشوائياً بين %n1 و %n2"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "دقَّ الطبل %d.drum لمدة %n وحدة إيقاع"
+
+msgid "play note %n for %n beats"
+msgstr "اعزف النوتة %n1 لمدة %n2 وحدة إيقاع"
+
+msgid "play sound %m.sound"
+msgstr "شغل الصوت %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "شغل الصوت %m.sound وانتظر انتهاءه"
+
+msgid "point in direction %d.direction"
+msgstr "اتجه نحو الاتجاه %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "اتجه نحو %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "كرِّر %n مرة"
+
+msgid "repeat until %b"
+msgstr "كرِّر حتى %b"
+
+msgid "replace item %d.listItem of %m.listName with %s"
+msgstr "استبدل العنصر %s بـ %d.listItem من %m.listName"
+
+msgid "reset timer"
+msgstr "صفِّر المؤقت"
+
+msgid "rest for %n beats"
+msgstr "استرح لمدة %n وحدة إيقاع"
+
+msgid "round %n"
+msgstr "قرِّب %n"
+
+msgid "say %s"
+msgstr "قل %s"
+
+msgid "say %s for %n secs"
+msgstr "قل %s لمدة %n ثانية"
+
+msgid "scene #"
+msgstr "رقم المشهد"
+
+msgid "scene name"
+msgstr "اسم المشهد"
+
+msgid "scratch time %m.localTime"
+msgstr ""
+
+msgid "Sensing"
+msgstr "التحسس"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "حساس %m.booleanSensor؟"
+
+msgid "set %m.effect effect to %n"
+msgstr "اجعل تأثير %m.effect مساوياً %n"
+
+msgid "set %m.varName to %s"
+msgstr "اجعل %m.varName مساوياً %n"
+
+msgid "set instrument to %d.instrument"
+msgstr "اجعل الآلة هي %d.instrument"
+
+msgid "set pen color to %c"
+msgstr "اجعل لون القلم مساوياً %c"
+
+msgid "set pen color to %n"
+msgstr "اجعل لون القلم مساوياً %n"
+
+msgid "set pen shade to %n"
+msgstr "اجعل تظليل القلم مساوياً %n"
+
+msgid "set pen size to %n"
+msgstr "اجعل حجم القلم مساوياً %n"
+
+msgid "set size to %n%"
+msgstr "اجعل الحجم مساوياً %n %"
+
+msgid "set tempo to %n bpm"
+msgstr "اجعل سرعة الأداء مساويةً %n وحدة إيقاع في الدقيقة"
+
+msgid "set video transparency to %n%"
+msgstr "اجعل شفافية الفيديو مساويةً %n %"
+
+msgid "set volume to %n%"
+msgstr "اجعل شدة الصوت مساويةً %n %"
+
+msgid "set x to %n"
+msgstr "اجعل الموضع س مساوياً %n"
+
+msgid "set y to %n"
+msgstr "اجعل الموضع ص مساوياً %n"
+
+msgid "show"
+msgstr "اظهر"
+
+msgid "show variable %m.varName"
+msgstr "أظهر المتغير %m.varName"
+
+msgid "size"
+msgstr "الحجم"
+
+msgid "Sound"
+msgstr "الصوت"
+
+msgid "sqrt %n"
+msgstr ""
+
+msgid "stamp"
+msgstr "اطبع"
+
+msgid "start scene %m.scene"
+msgstr "ابدأ المشهد %m.scene"
+
+msgid "start scene %m.scene and wait"
+msgstr "ابدأ المشهد %m.scene وانتظر"
+
+msgid "stop %m.stop"
+msgstr "أوقف %m.stop"
+
+msgid "stop all"
+msgstr "أوقف كل شيء"
+
+msgid "stop all sounds"
+msgstr "أوقف كل الأصوات"
+
+msgid "stop script"
+msgstr "أوقف المقطع البرمجي"
+
+msgid "switch to background %m.costume"
+msgstr "انتقل إلى الخلفية %m.costume"
+
+msgid "switch to costume %m.costume"
+msgstr "انتقل إلى المظهر %m.costume"
+
+msgid "switch to scene %m.scene"
+msgstr "انتقل إلى المشهد %m.scene"
+
+msgid "tempo"
+msgstr "سرعة الأداء"
+
+msgid "think %s"
+msgstr "فكِّر %s"
+
+msgid "think %s for %n secs"
+msgstr "فكِّر %s لمدة %n ثانية"
+
+msgid "timer"
+msgstr "المؤقت"
+
+msgid "touching %m.touching?"
+msgstr "ملامس لـ %m.touching؟"
+
+msgid "touching color %c?"
+msgstr "ملامس للون %c؟"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "استدر @turnLeft %n درجة"
+
+msgid "turn @turnRight %n degrees"
+msgstr "استدر @turnRight %n درجة"
+
+msgid "turn video %m.videoState"
+msgstr "اجعل الفيديو %m.videoState"
+
+msgid "user id"
+msgstr "رقم المستخدم"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "%m.videoMotionType الفيديو على %m.stageOrThis"
+
+msgid "volume"
+msgstr "شدة الصوت"
+
+msgid "wait %n secs"
+msgstr "انتظر %n ثانية"
+
+msgid "wait until %b"
+msgstr "انتظر حتى %b"
+
+msgid "warp speed"
+msgstr ""
+
+msgid "when %m.key key pressed"
+msgstr "عند ضغط مفتاح %m.key"
+
+msgid "when @greenFlag clicked"
+msgstr "عند نقر @greenFlag"
+
+msgid "when I am clicked"
+msgstr "عندما أنقرك"
+
+msgid "when I receive %m.broadcast"
+msgstr "عندما تستقبل %m.broadcast"
+
+msgid "when scene %m.scene starts"
+msgstr "عندما يبدأ المشهد %m.scene"
+
+msgid "while %b"
+msgstr ""
+
+msgid "x position"
+msgstr "الموضع س"
+
+msgid "y position"
+msgstr "الموضع ص"

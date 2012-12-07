@@ -1,0 +1,1929 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-06-10 22:03-0400\n"
+"Last-Translator: ThePCKid Fgdhfgdhfgdh <jtcorpse@msn.com>\n"
+"Language-Team: \n"
+"Language: la\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 1.2.1\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu&lt;br /&gt;<br />
+# &lt;br /&gt;<br />
+# (Required)
+msgid "Language-Name"
+msgstr "Latina"
+
+# Directionality of language<br />
+# <br />
+# LTR = Left to Right<br />
+# <br />
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)<br />
+# <br />
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1"
+
+# Set to 'true' or 'false'<br />
+# <br />
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "True"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "Times New Roman"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "Times New Roman"
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "Times New Roman"
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H sensor pretium"
+
+msgid "%L contains %s"
+msgstr "%L habet %s"
+
+msgid "%a of %m"
+msgstr "%a de %m"
+
+msgid "%b and %b"
+msgstr "%b et %b"
+
+msgid "%b or %b"
+msgstr "%b aut %b"
+
+msgid "%f of %n"
+msgstr "%f de %n"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %L"
+msgstr "adde %s ad %L"
+
+# I made it a verb.  Let me know if it should be a noun.
+msgid "answer"
+msgstr "responde"
+
+msgid "ask %s and wait"
+msgstr "roga %s et exspecta"
+
+msgid "background #"
+msgstr "circumiectus #"
+
+msgid "broadcast %e"
+msgstr "dissipa %e"
+
+msgid "broadcast %e and wait"
+msgstr "dissipa %e et exspecta"
+
+msgid "change %g effect by %n"
+msgstr "muta %g effectum per %n"
+
+msgid "change %v by %n"
+msgstr "muta %v per %n"
+
+msgid "change pen color by %n"
+msgstr "muta colorem stili per %n"
+
+msgid "change pen shade by %n"
+msgstr "muta umbram stili per %n"
+
+msgid "change pen size by %n"
+msgstr "muta amplitudinem stili per %n"
+
+msgid "change size by %n"
+msgstr "muta amplitudinem per %n"
+
+msgid "change tempo by %n"
+msgstr "muta modum per %n"
+
+msgid "change volume by %n"
+msgstr "muta magnitudinem per %n"
+
+msgid "change x by %n"
+msgstr "muta x per %n"
+
+msgid "change y by %n"
+msgstr "muta y per %n"
+
+msgid "clear"
+msgstr "purga"
+
+msgid "clear graphic effects"
+msgstr "purga effectum expressum"
+
+msgid "color %C is touching %C?"
+msgstr "color %C tangit %C"
+
+# Translated as a verb.
+msgid "control"
+msgstr "cohibe"
+
+msgid "costume #"
+msgstr "vestitus #"
+
+msgid "delete %y of %L"
+msgstr "dele %y de %L"
+
+msgid "direction"
+msgstr "cursus"
+
+msgid "distance to %m"
+msgstr "spatium ad %m"
+
+# means otherwise
+msgid "else"
+msgstr "aliter"
+
+msgid "forever"
+msgstr "perpetuus"
+
+msgid "forever if %b"
+msgstr "perpetuus si %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "labere %n momenta ad x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "redi %n tabulatum"
+
+msgid "go to %m"
+msgstr "i ad %m"
+
+msgid "go to front"
+msgstr "i ad frontem"
+
+msgid "go to x:%n y:%n"
+msgstr "i ad x:%n y:%n"
+
+msgid "hide"
+msgstr "cela"
+
+msgid "hide variable %v"
+msgstr "cela varium %v"
+
+msgid "if %b"
+msgstr "si %b"
+
+msgid "if on edge, bounce"
+msgstr "si in margine resili"
+
+msgid "insert %s at %i of %L"
+msgstr "insere %s ad %i de %L"
+
+msgid "item %i of %L"
+msgstr "pars %i de %L"
+
+msgid "join %s %s"
+msgstr "coniunge %s %s"
+
+msgid "key %k pressed?"
+msgstr "clavisne %k pressa?"
+
+msgid "length of %L"
+msgstr "longitudo de %L"
+
+msgid "length of %s"
+msgstr "longitudo de %s"
+
+msgid "letter %n of %s"
+msgstr "littera %n de %s"
+
+msgid "list"
+msgstr "tabula"
+
+# Translated as a verb.
+msgid "looks"
+msgstr "videt"
+
+msgid "loud?"
+msgstr "clarusne?"
+
+msgid "loudness"
+msgstr "magnitudo sonitus"
+
+msgid "motion"
+msgstr "motio"
+
+msgid "motor direction %W"
+msgstr "cursus motri %W"
+
+msgid "motor off"
+msgstr "motrum prohibitum"
+
+msgid "motor on"
+msgstr "motrum currens"
+
+msgid "motor on for %n secs"
+msgstr "motrum currens pro %n momenta"
+
+msgid "motor power %n"
+msgstr "potestas motri %n"
+
+msgid "mouse down?"
+msgstr "musne deorsus?"
+
+msgid "mouse x"
+msgstr "mus x"
+
+msgid "mouse y"
+msgstr "mus y"
+
+msgid "move %n steps"
+msgstr "mova %n gradibus"
+
+msgid "next background"
+msgstr "proximum circumiectum"
+
+msgid "next costume"
+msgstr "proximus vestitus"
+
+msgid "not %b"
+msgstr "non %b"
+
+msgid "operators"
+msgstr "exercentes"
+
+msgid "pen"
+msgstr "stilus"
+
+msgid "pen down"
+msgstr "stilus deorsus"
+
+msgid "pen up"
+msgstr "stilus sursus"
+
+msgid "pick random %n to %n"
+msgstr "elige caecum %n ad %n"
+
+msgid "play drum %D for %n beats"
+msgstr "pulsa tympanum %D per %n ictus"
+
+msgid "play note %N for %n beats"
+msgstr "modulare sonum %N per %n ictus"
+
+msgid "play sound %S"
+msgstr "modulare sonitum %S"
+
+msgid "play sound %S until done"
+msgstr "modulare sonitum %S ad finem"
+
+msgid "point in direction %d"
+msgstr "monstra in cursum %d"
+
+msgid "point towards %m"
+msgstr "monstra ad %m"
+
+msgid "repeat %n"
+msgstr "itera %n"
+
+msgid "repeat until %b"
+msgstr "itera ad %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "repone rem %i de %L cum %s"
+
+msgid "reset timer"
+msgstr "repone horologium"
+
+msgid "rest for %n beats"
+msgstr "quiesce per %n ictus"
+
+msgid "round %n"
+msgstr "conclude %n"
+
+msgid "say %s"
+msgstr "dic %s"
+
+msgid "say %s for %n secs"
+msgstr "dic %s per %n momenta"
+
+msgid "sensing"
+msgstr "sentiens"
+
+msgid "sensor %h?"
+msgstr "sensorne %h?"
+
+msgid "set %g effect to %n"
+msgstr "siste %g effectum ad %n"
+
+msgid "set %v to %n"
+msgstr "siste %v ad %n"
+
+msgid "set instrument to %I"
+msgstr "siste instrumentum ad %I"
+
+msgid "set pen color to %c"
+msgstr "siste colorem stili ad %c"
+
+msgid "set pen color to %n"
+msgstr "siste colorem stili ad %n"
+
+msgid "set pen shade to %n"
+msgstr "siste umbram stili ad %n"
+
+msgid "set pen size to %n"
+msgstr "siste magnitudinem stili ad %n"
+
+msgid "set size to %n%"
+msgstr "siste magnitudinem ad %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "siste modum ad %n ipp"
+
+msgid "set volume to %n%"
+msgstr "siste amplitudinem ad %n%"
+
+msgid "set x to %n"
+msgstr "siste x ad %n"
+
+msgid "set y to %n"
+msgstr "siste y ad %n"
+
+msgid "show"
+msgstr "demonstra"
+
+msgid "show variable %v"
+msgstr "demonstra varium %v"
+
+msgid "size"
+msgstr "magnitudo"
+
+msgid "sound"
+msgstr "sonitus"
+
+msgid "stamp"
+msgstr "impressa"
+
+msgid "stop all"
+msgstr "prohibe omnes"
+
+msgid "stop all sounds"
+msgstr "prohibe omnes sonitus"
+
+msgid "stop script"
+msgstr "prohibe scriptum"
+
+msgid "switch to background %l"
+msgstr "muta ad circumiectum %l"
+
+msgid "switch to costume %l"
+msgstr "muta ad vestitum %l"
+
+msgid "tempo"
+msgstr "modus"
+
+msgid "think %s"
+msgstr "cogita %s"
+
+msgid "think %s for %n secs"
+msgstr "cogita %s per %n momenta"
+
+msgid "timer"
+msgstr "horologium"
+
+msgid "touching %m?"
+msgstr "tangitne %m?"
+
+msgid "touching color %C?"
+msgstr "tangitne colorem %C?"
+
+msgid "turn %n degrees"
+msgstr "verte %n gradu"
+
+msgid "variables"
+msgstr "varia"
+
+msgid "volume"
+msgstr "magnitudo"
+
+msgid "wait %n secs"
+msgstr "exspecta %n momenta"
+
+msgid "wait until %b"
+msgstr "exspecta donec %b"
+
+msgid "when %k key pressed"
+msgstr "ubi %k clavis pressa"
+
+msgid "when %m clicked"
+msgstr "ubi %m ellectus"
+
+msgid "when I receive %e"
+msgstr "ubi accipio %e"
+
+msgid "x position"
+msgstr "x situs"
+
+msgid "y position"
+msgstr "y situs"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(vacuus)"
+
+msgid "1 script"
+msgstr "1 scriptum"
+
+msgid "About Scratch"
+msgstr "De Scabe"
+
+msgid "About this project:"
+msgstr "de hoc consilio"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "adde adnotationem"
+
+msgid "add comment here"
+msgstr "adde adnotationem hic"
+
+msgid "all"
+msgstr "omnes"
+
+msgid "and"
+msgstr "et"
+
+msgid "Animation"
+msgstr "alacritas"
+
+msgid "any"
+msgstr "ullus"
+
+msgid "Art"
+msgstr "Ars"
+
+msgid "background"
+msgstr "circumiectum"
+
+msgid "backgrounds"
+msgstr "circumiecta"
+
+msgid "Backgrounds"
+msgstr "Circumiecta"
+
+msgid "brightness"
+msgstr "splendor"
+
+msgid "Brush size: "
+msgstr "magnitudo penicilli"
+
+msgid "button"
+msgstr "globulus"
+
+msgid "button pressed"
+msgstr "globulus pressus"
+
+msgid "Camera"
+msgstr "camera"
+
+msgid "can rotate"
+msgstr "potes rotare"
+
+msgid "cancel"
+msgstr "retexe"
+
+msgid "Cancel"
+msgstr "Retexe"
+
+msgid "Choose a folder"
+msgstr "Elilge copulatorem"
+
+msgid "Choose new sprite from file"
+msgstr "Elege novam nympham ab ordine"
+
+msgid "clean up"
+msgstr "purga"
+
+msgid "Clear"
+msgstr "Deterge"
+
+msgid "Clear canvas"
+msgstr "Deterge carbaseum"
+
+msgid "Close and continue"
+msgstr "Claude et permane"
+
+msgid "Close dialog?"
+msgstr "Claudene dialogum?"
+
+msgid "Close paint editor?"
+msgstr "Claudene pigmentum editor"
+
+msgid "close port"
+msgstr "claude portam"
+
+msgid "Close sound recorder?"
+msgstr "Claudene sonitum regignitorem?"
+
+msgid "color"
+msgstr "color"
+
+msgid "Compress Images"
+msgstr "Comprime imagines"
+
+msgid "Compress Sounds"
+msgstr "Comprime sonitus"
+
+msgid "Compress sounds and images"
+msgstr "Comprime sonitus et imagines"
+
+msgid "Computer"
+msgstr "Calculator"
+
+msgid "connected"
+msgstr "coniunctum"
+
+msgid "Connecting to "
+msgstr "Coniungens ad"
+
+msgid "Copy"
+msgstr "Imitare"
+
+msgid "costume"
+msgstr "vestitus"
+
+msgid "costumes"
+msgstr "vestitus"
+
+msgid "Costumes"
+msgstr "Vestitus"
+
+msgid "Could not read"
+msgstr "Non potest legere"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Non potest legere; fortasse ordo laeditur"
+
+msgid "Could not write file"
+msgstr "Non potest ordinem scribere"
+
+msgid "Create account"
+msgstr "Crea tabulam"
+
+msgid "Create an empty project"
+msgstr "Crea vacuum consilium"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Conlatio missum est.  Exspectans responsum . . ."
+
+msgid "delete"
+msgstr "dele"
+
+msgid "Delete"
+msgstr "Dele"
+
+msgid "Delete a list"
+msgstr "Dele tabulam"
+
+msgid "Delete a variable"
+msgstr "Dele varium"
+
+msgid "Delete this background"
+msgstr "Dele hunc circumiectum"
+
+msgid "Delete this costume"
+msgstr "Dele hunc vestitum"
+
+msgid "Delete this sound"
+msgstr "Dele hunc sonitum"
+
+msgid "Delete this sprite"
+msgstr "Dele hanc nypham"
+
+msgid "Desktop"
+msgstr "Mensa"
+
+msgid "disable remote sensor connections"
+msgstr "debilita remotam sensam coniunctionem"
+
+msgid "distance"
+msgstr "intervallum"
+
+msgid "Documents"
+msgstr "Litterae"
+
+msgid "don't rotate"
+msgstr "noli rotare"
+
+msgid "Don't Save"
+msgstr "noli servare"
+
+msgid "Done"
+msgstr "Perfectus"
+
+msgid "down"
+msgstr "deorsus"
+
+msgid "down arrow"
+msgstr "deorsa sagitta"
+
+msgid "drag to resize"
+msgstr "trahe ut magnitudinem mutes"
+
+msgid "drag to rotate"
+msgstr "trahe ut rotes"
+
+msgid "draggable on website?"
+msgstr ""
+
+msgid "duplicate"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "edge"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr ""
+
+msgid "enable remote sensor connections"
+msgstr ""
+
+msgid "Enter presentation mode"
+msgstr ""
+
+msgid "Eraser"
+msgstr ""
+
+msgid "Eraser size"
+msgstr ""
+
+msgid "Error!"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Exit presentation"
+msgstr ""
+
+msgid "Exit presentation mode"
+msgstr ""
+
+msgid "export"
+msgstr ""
+
+msgid "Export Background"
+msgstr ""
+
+msgid "Export Costume"
+msgstr ""
+
+msgid "Export failed"
+msgstr ""
+
+msgid "Export Sound"
+msgstr ""
+
+msgid "Export Sprite"
+msgstr ""
+
+msgid "export this costume"
+msgstr ""
+
+msgid "export this sound"
+msgstr ""
+
+msgid "export this sprite"
+msgstr ""
+
+msgid "Extras menu"
+msgstr ""
+
+msgid "Eyedropper tool (select a color)"
+msgstr ""
+
+msgid "Failed:"
+msgstr ""
+
+msgid "false"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File not found"
+msgstr ""
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr ""
+
+msgid "first"
+msgstr ""
+
+msgid "fisheye"
+msgstr ""
+
+msgid "Flash blocks (fast)"
+msgstr ""
+
+msgid "Flash blocks (slow)"
+msgstr ""
+
+msgid "Flip horizontally"
+msgstr ""
+
+msgid "Flip vertically"
+msgstr ""
+
+msgid "For all sprites"
+msgstr ""
+
+msgid "For this sprite only"
+msgstr ""
+
+msgid "Game"
+msgstr ""
+
+msgid "Get surprise sprite"
+msgstr ""
+
+msgid "Get the last thing deleted"
+msgstr ""
+
+msgid "Getting Started"
+msgstr ""
+
+msgid "ghost"
+msgstr ""
+
+msgid "Go To Scratch Website"
+msgstr ""
+
+msgid "grab screen region for new costume"
+msgstr ""
+
+msgid "grab screen region for new sprite"
+msgstr ""
+
+msgid "Grow"
+msgstr ""
+
+msgid "Grow sprite"
+msgstr ""
+
+msgid "hello "
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Help Page"
+msgstr ""
+
+msgid "Help Screens"
+msgstr ""
+
+msgid "Hide Motor Blocks"
+msgstr ""
+
+msgid "High (biggest)"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Images compressed"
+msgstr ""
+
+msgid "import"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import an image on top of your current canvas"
+msgstr ""
+
+msgid "Import Background"
+msgstr ""
+
+msgid "Import Costume"
+msgstr ""
+
+msgid "Import Image"
+msgstr ""
+
+msgid "Import List"
+msgstr ""
+
+msgid "Import Project"
+msgstr ""
+
+msgid "import project"
+msgstr ""
+
+msgid "Import Sound"
+msgstr ""
+
+msgid "Incompatible Scratch file format"
+msgstr ""
+
+msgid "Is the folder read-only?"
+msgstr ""
+
+msgid "JPEG Quality (10-100)?"
+msgstr ""
+
+msgid "kbytes"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "large readout"
+msgstr ""
+
+msgid "last"
+msgstr ""
+
+msgid "left"
+msgstr ""
+
+msgid "left arrow"
+msgstr ""
+
+msgid "length"
+msgstr ""
+
+msgid "light"
+msgstr ""
+
+msgid "Line tool (draw lines)"
+msgstr ""
+
+msgid "List name?"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Lowest (smallest)"
+msgstr ""
+
+msgid "Make a list"
+msgstr ""
+
+msgid "Make a variable"
+msgstr ""
+
+msgid "Max:"
+msgstr ""
+
+msgid "meow"
+msgstr ""
+
+msgid "Message name:"
+msgstr ""
+
+msgid "Min:"
+msgstr ""
+
+msgid "mod"
+msgstr ""
+
+msgid "more"
+msgstr ""
+
+msgid "More tags:"
+msgstr ""
+
+msgid "mosaic"
+msgstr ""
+
+msgid "mouse x:"
+msgstr ""
+
+msgid "mouse y:"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr ""
+
+msgid "Move"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "My Projects"
+msgstr ""
+
+msgid "new"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New background:"
+msgstr ""
+
+msgid "New costume:"
+msgstr ""
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr ""
+
+msgid "New sound:"
+msgstr ""
+
+msgid "New Sprite"
+msgstr ""
+
+msgid "New sprite:"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No MIDI ports currently available."
+msgstr ""
+
+msgid "No motion blocks"
+msgstr ""
+
+msgid "no scripts"
+msgstr ""
+
+msgid "No serial ports found"
+msgstr ""
+
+msgid "No variables."
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "normal readout"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "only face left-right"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open a Scratch project"
+msgstr ""
+
+msgid "Open Project"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "Paint"
+msgstr ""
+
+msgid "Paint Editor"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
+msgid "Paintbrush"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Percent? (100 gives original size)"
+msgstr ""
+
+msgid "Pictures"
+msgstr ""
+
+msgid "pixelate"
+msgstr ""
+
+msgid "play"
+msgstr ""
+
+msgid "Please enter a number"
+msgstr ""
+
+msgid "pop"
+msgstr ""
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr ""
+
+msgid "Preparing project..."
+msgstr ""
+
+msgid "Project author:"
+msgstr ""
+
+msgid "Project name"
+msgstr ""
+
+msgid "Project Notes"
+msgstr ""
+
+msgid "Project notes"
+msgstr ""
+
+msgid "Project uploaded."
+msgstr ""
+
+msgid "Projects"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Quit Scratch"
+msgstr ""
+
+msgid "Reading"
+msgstr ""
+
+msgid "record"
+msgstr ""
+
+msgid "Record"
+msgstr ""
+
+msgid "recording"
+msgstr ""
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr ""
+
+msgid "resistance"
+msgstr ""
+
+msgid "resize this sprite"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr ""
+
+msgid "right arrow"
+msgstr ""
+
+msgid "Rotate clock-wise"
+msgstr ""
+
+msgid "Rotate counter-clock-wise"
+msgstr ""
+
+msgid "rotate this sprite"
+msgstr ""
+
+msgid "Rotation degrees?"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save a copy of the current project"
+msgstr ""
+
+msgid "Save As"
+msgstr ""
+
+msgid "Save changes before quitting?"
+msgstr ""
+
+msgid "Save failed"
+msgstr ""
+
+msgid "save picture of scripts"
+msgstr ""
+
+msgid "save picture of stage..."
+msgstr ""
+
+msgid "Save Project"
+msgstr ""
+
+msgid "Save Scripts Snapshot"
+msgstr ""
+
+msgid "Save Stage Shot"
+msgstr ""
+
+msgid "Save the current project"
+msgstr ""
+
+msgid "Save the current project?"
+msgstr ""
+
+msgid "Save this project"
+msgstr ""
+
+msgid "Scripts"
+msgstr ""
+
+msgid "select serial/USB port"
+msgstr ""
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr ""
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr ""
+
+msgid "Set rotation center"
+msgstr ""
+
+msgid "Set Single Stepping"
+msgstr ""
+
+msgid "set slider min and max"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Share this project"
+msgstr ""
+
+msgid "Share This Project Online"
+msgstr ""
+
+msgid "Show Motor Blocks"
+msgstr ""
+
+msgid "show ScratchBoard watcher"
+msgstr ""
+
+msgid "Shrink"
+msgstr ""
+
+msgid "Shrink sprite"
+msgstr ""
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Single-step speed?"
+msgstr ""
+
+msgid "slider"
+msgstr ""
+
+msgid "Slider range:"
+msgstr ""
+
+msgid "Sound quality:"
+msgstr ""
+
+msgid "Sound Recorder"
+msgstr ""
+
+msgid "Sounds"
+msgstr ""
+
+msgid "Sounds compressed"
+msgstr ""
+
+msgid "space"
+msgstr ""
+
+msgid "Sprite"
+msgstr ""
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr ""
+
+msgid "Stage"
+msgstr ""
+
+msgid "Stage selected:"
+msgstr ""
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr ""
+
+msgid "Start green flag scripts"
+msgstr ""
+
+msgid "Start Single Stepping"
+msgstr ""
+
+msgid "stop"
+msgstr ""
+
+msgid "Stop everything"
+msgstr ""
+
+msgid "Stop Single Stepping"
+msgstr ""
+
+msgid "Story"
+msgstr ""
+
+msgid "Support Site"
+msgstr ""
+
+msgid "Switch colors"
+msgstr ""
+
+msgid "Switch to full stage"
+msgstr ""
+
+msgid "Switch to presentation mode"
+msgstr ""
+
+msgid "Switch to small stage"
+msgstr ""
+
+msgid "Tags:"
+msgstr ""
+
+msgid "Text tool (edit text layer)"
+msgstr ""
+
+msgid "That variable name is already in use"
+msgstr ""
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr ""
+
+msgid "thing"
+msgstr ""
+
+msgid "this way"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "true"
+msgstr ""
+
+msgid "Turbo speed"
+msgstr ""
+
+msgid "turn into new sprite"
+msgstr ""
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "up"
+msgstr ""
+
+msgid "up arrow"
+msgstr ""
+
+msgid "Updating thumbnails"
+msgstr ""
+
+msgid "Upload succeeded!"
+msgstr ""
+
+msgid "Upload to Scratch Server"
+msgstr ""
+
+msgid "Uploading"
+msgstr ""
+
+msgid "Variable name?"
+msgstr ""
+
+msgid "View on stage"
+msgstr ""
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr ""
+
+msgid "world"
+msgstr ""
+
+msgid "Write Multiple Project Summaries"
+msgstr ""
+
+msgid "Write Project Summary"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Your project is now online at"
+msgstr ""
+
+msgid "Your Scratch website login name:"
+msgstr ""
+
+msgid "Zoom in"
+msgstr ""
+
+msgid "Zoom out"
+msgstr ""
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr ""
+
+msgid "Acoustic Bass"
+msgstr ""
+
+msgid "Acoustic Bass Drum"
+msgstr ""
+
+msgid "Acoustic Grand"
+msgstr ""
+
+msgid "Acoustic Snare"
+msgstr ""
+
+msgid "Agogo"
+msgstr ""
+
+msgid "Alto Sax"
+msgstr ""
+
+msgid "Applause"
+msgstr ""
+
+msgid "Bagpipe"
+msgstr ""
+
+msgid "Banjo"
+msgstr ""
+
+msgid "Baritone Sax"
+msgstr ""
+
+msgid "Bass Drum 1"
+msgstr ""
+
+msgid "Bassoon"
+msgstr ""
+
+msgid "Bird Tweet"
+msgstr ""
+
+msgid "Blown Bottle"
+msgstr ""
+
+msgid "Brass Section"
+msgstr ""
+
+msgid "Breath Noise"
+msgstr ""
+
+msgid "Bright Acoustic"
+msgstr ""
+
+msgid "Cabasa"
+msgstr ""
+
+msgid "Celesta"
+msgstr ""
+
+msgid "Cello"
+msgstr ""
+
+msgid "Chinese Cymbal"
+msgstr ""
+
+msgid "Choir Aahs"
+msgstr ""
+
+msgid "Church Organ"
+msgstr ""
+
+msgid "Clarinet"
+msgstr ""
+
+msgid "Claves"
+msgstr ""
+
+msgid "Clavinet"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr ""
+
+msgid "Contrabass"
+msgstr ""
+
+msgid "Cowbell"
+msgstr ""
+
+msgid "Crash Cymbal 1"
+msgstr ""
+
+msgid "Crash Cymbal 2"
+msgstr ""
+
+msgid "Distortion Guitar"
+msgstr ""
+
+msgid "Drawbar Organ"
+msgstr ""
+
+msgid "Dulcimer"
+msgstr ""
+
+msgid "Electric Bass (finger)"
+msgstr ""
+
+msgid "Electric Bass (pick)"
+msgstr ""
+
+msgid "Electric Clean Guitar"
+msgstr ""
+
+msgid "Electric Grand"
+msgstr ""
+
+msgid "Electric Jazz Guitar"
+msgstr ""
+
+msgid "Electric Muted Guitar"
+msgstr ""
+
+msgid "Electric Piano 1"
+msgstr ""
+
+msgid "Electric Piano 2"
+msgstr ""
+
+msgid "Electric Snare"
+msgstr ""
+
+msgid "English Horn"
+msgstr ""
+
+msgid "FX 1 (rain)"
+msgstr ""
+
+msgid "FX 2 (soundtrack)"
+msgstr ""
+
+msgid "FX 3 (crystal)"
+msgstr ""
+
+msgid "FX 4 (atmosphere)"
+msgstr ""
+
+msgid "FX 5 (brightness)"
+msgstr ""
+
+msgid "FX 6 (goblins)"
+msgstr ""
+
+msgid "FX 7 (echoes)"
+msgstr ""
+
+msgid "FX 8 (sci-fi)"
+msgstr ""
+
+msgid "Fiddle"
+msgstr ""
+
+msgid "Flute"
+msgstr ""
+
+msgid "French Horn"
+msgstr ""
+
+msgid "Fretless Bass"
+msgstr ""
+
+msgid "Glockenspiel"
+msgstr ""
+
+msgid "Guitar Fret Noise"
+msgstr ""
+
+msgid "Guitar Harmonics"
+msgstr ""
+
+msgid "Gunshot"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr ""
+
+msgid "Harmonica"
+msgstr ""
+
+msgid "Harpsichord"
+msgstr ""
+
+msgid "Helicopter"
+msgstr ""
+
+msgid "Hi Bongo"
+msgstr ""
+
+msgid "Hi Wood Block"
+msgstr ""
+
+msgid "Hi-Mid Tom"
+msgstr ""
+
+msgid "High Agogo"
+msgstr ""
+
+msgid "High Floor Tom"
+msgstr ""
+
+msgid "High Timbale"
+msgstr ""
+
+msgid "High Tom"
+msgstr ""
+
+msgid "Honky-Tonk"
+msgstr ""
+
+msgid "Kalimba"
+msgstr ""
+
+msgid "Koto"
+msgstr ""
+
+msgid "Lead 1 (square)"
+msgstr ""
+
+msgid "Lead 2 (sawtooth)"
+msgstr ""
+
+msgid "Lead 3 (calliope)"
+msgstr ""
+
+msgid "Lead 4 (chiff)"
+msgstr ""
+
+msgid "Lead 5 (charang)"
+msgstr ""
+
+msgid "Lead 6 (voice)"
+msgstr ""
+
+msgid "Lead 7 (fifths)"
+msgstr ""
+
+msgid "Lead 8 (bass+lead)"
+msgstr ""
+
+msgid "Long Guiro"
+msgstr ""
+
+msgid "Long Whistle"
+msgstr ""
+
+msgid "Low Agogo"
+msgstr ""
+
+msgid "Low Bongo"
+msgstr ""
+
+msgid "Low Conga"
+msgstr ""
+
+msgid "Low Floor Tom"
+msgstr ""
+
+msgid "Low Timbale"
+msgstr ""
+
+msgid "Low Tom"
+msgstr ""
+
+msgid "Low Wood Block"
+msgstr ""
+
+msgid "Low-Mid Tom"
+msgstr ""
+
+msgid "Maracas"
+msgstr ""
+
+msgid "Marimba"
+msgstr ""
+
+msgid "Melodic Tom"
+msgstr ""
+
+msgid "Music Box"
+msgstr ""
+
+msgid "Mute Cuica"
+msgstr ""
+
+msgid "Mute Hi Conga"
+msgstr ""
+
+msgid "Mute Triangle"
+msgstr ""
+
+msgid "Muted Trumpet"
+msgstr ""
+
+msgid "Nylon String Guitar"
+msgstr ""
+
+msgid "Oboe"
+msgstr ""
+
+msgid "Ocarina"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr ""
+
+msgid "Open Hi Conga"
+msgstr ""
+
+msgid "Open Hi-Hat"
+msgstr ""
+
+msgid "Open Triangle"
+msgstr ""
+
+msgid "Orchestra Hit"
+msgstr ""
+
+msgid "Orchestral Strings"
+msgstr ""
+
+msgid "Overdriven Guitar"
+msgstr ""
+
+msgid "Pad 1 (new age)"
+msgstr ""
+
+msgid "Pad 2 (warm)"
+msgstr ""
+
+msgid "Pad 3 (polysynth)"
+msgstr ""
+
+msgid "Pad 4 (choir)"
+msgstr ""
+
+msgid "Pad 5 (bowed)"
+msgstr ""
+
+msgid "Pad 6 (metallic)"
+msgstr ""
+
+msgid "Pad 7 (halo)"
+msgstr ""
+
+msgid "Pad 8 (sweep)"
+msgstr ""
+
+msgid "Pan Flute"
+msgstr ""
+
+msgid "Pedal Hi-Hat"
+msgstr ""
+
+msgid "Percussive Organ"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Pizzicato Strings"
+msgstr ""
+
+msgid "Recorder"
+msgstr ""
+
+msgid "Reed Organ"
+msgstr ""
+
+msgid "Reverse Cymbal"
+msgstr ""
+
+msgid "Ride Bell"
+msgstr ""
+
+msgid "Ride Cymbal 1"
+msgstr ""
+
+msgid "Ride Cymbal 2"
+msgstr ""
+
+msgid "Rock Organ"
+msgstr ""
+
+msgid "Seashore"
+msgstr ""
+
+msgid "Shakuhachi"
+msgstr ""
+
+msgid "Shamisen"
+msgstr ""
+
+msgid "Shanai"
+msgstr ""
+
+msgid "Short Guiro"
+msgstr ""
+
+msgid "Short Whistle"
+msgstr ""
+
+msgid "Side Stick"
+msgstr ""
+
+msgid "Sitar"
+msgstr ""
+
+msgid "Slap Bass 1"
+msgstr ""
+
+msgid "Slap Bass 2"
+msgstr ""
+
+msgid "Soprano Sax"
+msgstr ""
+
+msgid "Splash Cymbal"
+msgstr ""
+
+msgid "Steel Drums"
+msgstr ""
+
+msgid "Steel String Guitar"
+msgstr ""
+
+msgid "String Ensemble 1"
+msgstr ""
+
+msgid "String Ensemble 2"
+msgstr ""
+
+msgid "Synth Bass 1"
+msgstr ""
+
+msgid "Synth Bass 2"
+msgstr ""
+
+msgid "Synth Drum"
+msgstr ""
+
+msgid "Synth Voice"
+msgstr ""
+
+msgid "SynthBrass 1"
+msgstr ""
+
+msgid "SynthBrass 2"
+msgstr ""
+
+msgid "SynthStrings 1"
+msgstr ""
+
+msgid "SynthStrings 2"
+msgstr ""
+
+msgid "Taiko Drum"
+msgstr ""
+
+msgid "Tambourine"
+msgstr ""
+
+msgid "Tango Accordion"
+msgstr ""
+
+msgid "Telephone Ring"
+msgstr ""
+
+msgid "Tenor Sax"
+msgstr ""
+
+msgid "Timpani"
+msgstr ""
+
+msgid "Tinkle Bell"
+msgstr ""
+
+msgid "Tremolo Strings"
+msgstr ""
+
+msgid "Trombone"
+msgstr ""
+
+msgid "Trumpet"
+msgstr ""
+
+msgid "Tuba"
+msgstr ""
+
+msgid "Tubular Bells"
+msgstr ""
+
+msgid "Vibraphone"
+msgstr ""
+
+msgid "Vibraslap"
+msgstr ""
+
+msgid "Viola"
+msgstr ""
+
+msgid "Violin"
+msgstr ""
+
+msgid "Voice Oohs"
+msgstr ""
+
+msgid "Whistle"
+msgstr ""
+
+msgid "Woodblock"
+msgstr ""
+
+msgid "Xylophone"
+msgstr ""

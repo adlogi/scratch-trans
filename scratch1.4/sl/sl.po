@@ -1,0 +1,1924 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-12-14 00:44-0400\n"
+"Last-Translator: Sasa Divjak <sasa.divjak@fri.uni-lj.si>\n"
+"Language-Team: \n"
+"Language: sl\n"
+"MIME-Version: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3);\n"
+"X-Generator: Pootle 1.2.1\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu<br />
+# <br />
+# (Required)
+msgid "Language-Name"
+msgstr "Slovenščina"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "Windows font"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "Mac font"
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "Linux font"
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "vrednost tipala %H"
+
+msgid "%L contains %s"
+msgstr "%L vsebuje %s"
+
+msgid "%a of %m"
+msgstr "%a od %m"
+
+msgid "%b and %b"
+msgstr "%b in %b"
+
+msgid "%b or %b"
+msgstr "%b ali %b"
+
+msgid "%f of %n"
+msgstr "%f od %n"
+
+msgid "%n mod %n"
+msgstr "ostanek %n z %n"
+
+# dodajamo podatek v seznam
+msgid "add %s to %L"
+msgstr "dodaj %s v %L"
+
+msgid "answer"
+msgstr "odgovor"
+
+msgid "ask %s and wait"
+msgstr "vprašaj %s in počakaj"
+
+msgid "background #"
+msgstr "ozadje #"
+
+msgid "broadcast %e"
+msgstr "objavi %e"
+
+msgid "broadcast %e and wait"
+msgstr "objavi %e in počakaj"
+
+msgid "change %g effect by %n"
+msgstr "spremeni učinek %g za %n"
+
+msgid "change %v by %n"
+msgstr "spremeni %v za %n"
+
+msgid "change pen color by %n"
+msgstr "spremeni barvo svinčnika v %n"
+
+msgid "change pen shade by %n"
+msgstr "spremeni senco svinčnika v %n"
+
+msgid "change pen size by %n"
+msgstr "spremeni velikost svinčnika na %n"
+
+msgid "change size by %n"
+msgstr "spremeni velikost na %n"
+
+msgid "change tempo by %n"
+msgstr "spremeni tempo za %n"
+
+msgid "change volume by %n"
+msgstr "spremeni nivo zvoka za %n"
+
+msgid "change x by %n"
+msgstr "spremeni x za %n"
+
+msgid "change y by %n"
+msgstr "spremeni y za %n"
+
+msgid "clear"
+msgstr "izbriši"
+
+msgid "clear graphic effects"
+msgstr "izbriši slikovne učinke"
+
+msgid "color %C is touching %C?"
+msgstr "barva %C se dotika %C?"
+
+msgid "control"
+msgstr "krmiljenje"
+
+msgid "costume #"
+msgstr "videz #"
+
+msgid "delete %y of %L"
+msgstr "odstrani %y iz %L"
+
+msgid "direction"
+msgstr "smer"
+
+msgid "distance to %m"
+msgstr "razdalja do %m"
+
+msgid "else"
+msgstr "sicer"
+
+msgid "forever"
+msgstr "ponavljaj"
+
+msgid "forever if %b"
+msgstr "ponavljaj, če %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "drsi %n sekund do x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "postavi za %n plasti nazaj"
+
+msgid "go to %m"
+msgstr "pojdi na mesto %m"
+
+msgid "go to front"
+msgstr "postavi v ospredje"
+
+msgid "go to x:%n y:%n"
+msgstr "pojdi na x:%n y:%n"
+
+msgid "hide"
+msgstr "skrij"
+
+msgid "hide variable %v"
+msgstr "skrij spremenljivko %v"
+
+msgid "if %b"
+msgstr "če %b"
+
+msgid "if on edge, bounce"
+msgstr "odbij se, če si na robu"
+
+msgid "insert %s at %i of %L"
+msgstr "vstavi %s pri %i v %L"
+
+msgid "item %i of %L"
+msgstr "%i -ti člen iz %L"
+
+msgid "join %s %s"
+msgstr "stakni %s %s"
+
+msgid "key %k pressed?"
+msgstr "ali je tipka %k pritisnjena?"
+
+msgid "length of %L"
+msgstr "dolžina %L"
+
+msgid "length of %s"
+msgstr "dolžina %s"
+
+msgid "letter %n of %s"
+msgstr "%n -ta črka v %s"
+
+msgid "list"
+msgstr "seznam"
+
+msgid "looks"
+msgstr "izgled"
+
+msgid "loud?"
+msgstr "glasno?"
+
+msgid "loudness"
+msgstr "glasnost"
+
+msgid "motion"
+msgstr "premikanje"
+
+msgid "motor direction %W"
+msgstr "smer motorja %W"
+
+msgid "motor off"
+msgstr "izključi motor"
+
+msgid "motor on"
+msgstr "vključi motor"
+
+msgid "motor on for %n secs"
+msgstr "vključi motor za %n sekund"
+
+msgid "motor power %n"
+msgstr "moč motorja %n"
+
+msgid "mouse down?"
+msgstr "miška pritisnjena?"
+
+msgid "mouse x"
+msgstr "miška x"
+
+msgid "mouse y"
+msgstr "miška y"
+
+msgid "move %n steps"
+msgstr "pojdi %n korakov"
+
+msgid "next background"
+msgstr "naslednje ozadje"
+
+msgid "next costume"
+msgstr "naslednji videz"
+
+msgid "not %b"
+msgstr "ne %b"
+
+msgid "operators"
+msgstr "operacije"
+
+msgid "pen"
+msgstr "svinčnik"
+
+msgid "pen down"
+msgstr "spusti svinčnik"
+
+msgid "pen up"
+msgstr "dvigni svinčnik"
+
+msgid "pick random %n to %n"
+msgstr "izberi naključno med %n in %n"
+
+msgid "play drum %D for %n beats"
+msgstr "po %D %n udarcev "
+
+msgid "play note %N for %n beats"
+msgstr "zaigraj noto %N  %n udarcev"
+
+msgid "play sound %S"
+msgstr "predvajaj zvok %S"
+
+msgid "play sound %S until done"
+msgstr "predvajaj zvok %S do konca"
+
+msgid "point in direction %d"
+msgstr "obrni se v smer %d"
+
+msgid "point towards %m"
+msgstr "obrni se proti %m"
+
+msgid "repeat %n"
+msgstr "ponovi %n"
+
+msgid "repeat until %b"
+msgstr "ponovljaj dokler %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "zamenjaj %i -ti člen v %L z %s"
+
+msgid "reset timer"
+msgstr "ponastavi štoparico"
+
+msgid "rest for %n beats"
+msgstr "počivaj %n udarcev"
+
+msgid "round %n"
+msgstr "zaokroži %n"
+
+msgid "say %s"
+msgstr "povej %s"
+
+msgid "say %s for %n secs"
+msgstr "povej %s za %n sekund"
+
+msgid "sensing"
+msgstr "zaznavanje"
+
+msgid "sensor %h?"
+msgstr "tipalo %h?"
+
+msgid "set %g effect to %n"
+msgstr "postavi učinek %g na %n"
+
+msgid "set %v to %n"
+msgstr "postavi %v na %n"
+
+msgid "set instrument to %I"
+msgstr "postavi glasbilo na %I"
+
+msgid "set pen color to %c"
+msgstr "postavi barvo svinčnika na %c"
+
+msgid "set pen color to %n"
+msgstr "postavi barvo svinčnika na %n"
+
+msgid "set pen shade to %n"
+msgstr "postavi senco svinčnika na %n"
+
+msgid "set pen size to %n"
+msgstr "postavi velikost svinčnika na %n"
+
+msgid "set size to %n%"
+msgstr "postavi velikost na %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "postavi tempo na %n udarcev na minuto"
+
+msgid "set volume to %n%"
+msgstr "postavi glasnost na %n%"
+
+msgid "set x to %n"
+msgstr "postavi x na %n"
+
+msgid "set y to %n"
+msgstr "postavi y na %n"
+
+msgid "show"
+msgstr "pokaži"
+
+msgid "show variable %v"
+msgstr "pokaži spremenljivko %v"
+
+msgid "size"
+msgstr "velikost"
+
+msgid "sound"
+msgstr "zvok"
+
+msgid "stamp"
+msgstr "žig"
+
+msgid "stop all"
+msgstr "končaj vse"
+
+msgid "stop all sounds"
+msgstr "prekini vse zvoke"
+
+msgid "stop script"
+msgstr "končaj izvajanje"
+
+msgid "switch to background %l"
+msgstr "prestavi na ozadje %l"
+
+msgid "switch to costume %l"
+msgstr "prestavi na videz %l"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "pomisli %s"
+
+msgid "think %s for %n secs"
+msgstr "pomisli %s za %n sekund"
+
+msgid "timer"
+msgstr "štoparica"
+
+msgid "touching %m?"
+msgstr "se dotika %m?"
+
+msgid "touching color %C?"
+msgstr "se dotika barve %C?"
+
+msgid "turn %n degrees"
+msgstr "obrni se za %n stopinj"
+
+msgid "variables"
+msgstr "spremenljivke"
+
+msgid "volume"
+msgstr "glasnost"
+
+msgid "wait %n secs"
+msgstr "počakaj %n sekund"
+
+msgid "wait until %b"
+msgstr "počakaj dokler %b"
+
+msgid "when %k key pressed"
+msgstr "ko je pritisnjena tipka %k"
+
+msgid "when %m clicked"
+msgstr "ko je kliknjena %m"
+
+msgid "when I receive %e"
+msgstr "ko prejmem %e"
+
+msgid "x position"
+msgstr "mesto x"
+
+msgid "y position"
+msgstr "mesto y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(prazno)"
+
+msgid "1 script"
+msgstr "1 navodila"
+
+msgid "About Scratch"
+msgstr "O Scratch-u"
+
+msgid "About this project:"
+msgstr "O tem projektu:"
+
+msgid "abs"
+msgstr "abs"
+
+msgid "add comment"
+msgstr "dodaj pojasnilo"
+
+msgid "add comment here"
+msgstr "tu dodaj pojasnilo"
+
+msgid "all"
+msgstr "vse"
+
+msgid "and"
+msgstr "in"
+
+msgid "Animation"
+msgstr "Animacija"
+
+msgid "any"
+msgstr "katerikoli"
+
+msgid "Art"
+msgstr "Umetnost"
+
+msgid "background"
+msgstr "ozadje"
+
+msgid "backgrounds"
+msgstr "ozadja"
+
+msgid "Backgrounds"
+msgstr "Ozadja"
+
+msgid "brightness"
+msgstr "svetlost"
+
+msgid "Brush size: "
+msgstr "Velikost čopiča:"
+
+msgid "button"
+msgstr "gumb"
+
+msgid "button pressed"
+msgstr "gumb je pritisnjen"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "can rotate"
+msgstr "se lahko vrti"
+
+msgid "cancel"
+msgstr "prekliči"
+
+msgid "Cancel"
+msgstr "Prekliči"
+
+msgid "Choose a folder"
+msgstr "Izberi mapo"
+
+msgid "Choose new sprite from file"
+msgstr "Izberi novo sličico iz datoteke"
+
+msgid "clean up"
+msgstr "počisti"
+
+msgid "Clear"
+msgstr "Počisti"
+
+msgid "Clear canvas"
+msgstr "Počisti platno"
+
+msgid "Close and continue"
+msgstr "Zapri in nadaljuj"
+
+msgid "Close dialog?"
+msgstr "Zaprem pogovorno okno?"
+
+msgid "Close paint editor?"
+msgstr "Zaprem urejevalnik slike?"
+
+msgid "close port"
+msgstr "zapri vrata"
+
+msgid "Close sound recorder?"
+msgstr "Zaprem snemalnik zvoka?"
+
+msgid "color"
+msgstr "barva"
+
+msgid "Compress Images"
+msgstr "Stisni slike"
+
+msgid "Compress Sounds"
+msgstr "Stisni zvoke"
+
+msgid "Compress sounds and images"
+msgstr "Stisni zvoke in slike"
+
+msgid "Computer"
+msgstr "Računalnik"
+
+msgid "connected"
+msgstr "povezan"
+
+msgid "Connecting to "
+msgstr "Povezujem se na"
+
+msgid "Copy"
+msgstr "Nov izvod"
+
+msgid "costume"
+msgstr "videz"
+
+msgid "costumes"
+msgstr "videzi"
+
+msgid "Costumes"
+msgstr "Videzi"
+
+msgid "Could not read"
+msgstr "Ne morem prebrati"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Ne morem prebrati projekta; morda je poškodovana datoteka"
+
+msgid "Could not write file"
+msgstr "Ne morem zapisati datoteke"
+
+msgid "Create account"
+msgstr "Ustvari račun"
+
+msgid "Create an empty project"
+msgstr "Ustvari prazen projekt"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Podatki poslani. Čakam na odgovor..."
+
+msgid "delete"
+msgstr "odstrani"
+
+msgid "Delete"
+msgstr "Odstrani"
+
+msgid "Delete a list"
+msgstr "Odstrani seznam"
+
+msgid "Delete a variable"
+msgstr "Odstrani spremenljivko"
+
+msgid "Delete this background"
+msgstr "Odstrani to ozadje"
+
+msgid "Delete this costume"
+msgstr "Odstrani ta videz"
+
+msgid "Delete this sound"
+msgstr "Odstrani ta zvok"
+
+msgid "Delete this sprite"
+msgstr "Odstrani to sličico"
+
+msgid "Desktop"
+msgstr "Namizje"
+
+msgid "disable remote sensor connections"
+msgstr "onemogoči oddaljene povezave tipal"
+
+msgid "distance"
+msgstr "razdalja"
+
+msgid "Documents"
+msgstr "Dokumenti"
+
+msgid "don't rotate"
+msgstr "ne vrti"
+
+msgid "Don't Save"
+msgstr "Ne shrani"
+
+msgid "Done"
+msgstr "Opravljeno"
+
+msgid "down"
+msgstr "dol"
+
+msgid "down arrow"
+msgstr "tipka dol"
+
+msgid "drag to resize"
+msgstr "za spremembo velikosti povleci"
+
+msgid "drag to rotate"
+msgstr "za zasuk povleci"
+
+msgid "draggable on website?"
+msgstr "mogoče povleči na spletno stran?"
+
+msgid "duplicate"
+msgstr "podvoji"
+
+msgid "Duplicate"
+msgstr "Podvoji"
+
+msgid "edge"
+msgstr "rob"
+
+msgid "Edit"
+msgstr "Uredi"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "Elipse in krogi (obrisi ali zapolnjene)"
+
+msgid "enable remote sensor connections"
+msgstr "omogoči oddaljeno povezavo tipal"
+
+msgid "Enter presentation mode"
+msgstr "Vstopi v predstavitveni način"
+
+msgid "Eraser"
+msgstr "Radirka"
+
+msgid "Eraser size"
+msgstr "Velikost radirke"
+
+msgid "Error!"
+msgstr "Napaka!"
+
+msgid "Examples"
+msgstr "Primeri"
+
+msgid "Exit presentation"
+msgstr "Izstopi iz predstavitve"
+
+msgid "Exit presentation mode"
+msgstr "Izstopi iz predstavitvenega načina"
+
+msgid "export"
+msgstr "izvozi"
+
+msgid "Export Background"
+msgstr "Izvozi Ozadje"
+
+msgid "Export Costume"
+msgstr "Izvozi Videz"
+
+msgid "Export failed"
+msgstr "Izvoz ni uspel"
+
+msgid "Export Sound"
+msgstr "Izvozi Zvok"
+
+msgid "Export Sprite"
+msgstr "Izvozi Sličico"
+
+msgid "export this costume"
+msgstr "izvozi ta videz"
+
+msgid "export this sound"
+msgstr "izvozi ta zvok"
+
+msgid "export this sprite"
+msgstr "izvozi to sličico"
+
+msgid "Extras menu"
+msgstr "Seznam dodatkov"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "Kapalka (izberi barvo)"
+
+msgid "Failed:"
+msgstr "Neuspelo:"
+
+msgid "false"
+msgstr "lažno"
+
+msgid "File"
+msgstr "Datoteka"
+
+msgid "File not found"
+msgstr "Nisem našel datoteke"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "Zapolni (zapolni območje z barvo ali prelivom)"
+
+msgid "first"
+msgstr "prvi"
+
+msgid "fisheye"
+msgstr "ribje oko"
+
+msgid "Flash blocks (fast)"
+msgstr "Utripaj sklope (hitro)"
+
+msgid "Flash blocks (slow)"
+msgstr "Utripaj sklope (počasi)"
+
+msgid "Flip horizontally"
+msgstr "Prečno prezrcali"
+
+msgid "Flip vertically"
+msgstr "Pokončno prezrcali"
+
+msgid "For all sprites"
+msgstr "Za vse sličice"
+
+msgid "For this sprite only"
+msgstr "Samo za to sličico"
+
+msgid "Game"
+msgstr "Igra"
+
+msgid "Get surprise sprite"
+msgstr "Pridobi sličico presenečenja"
+
+msgid "Get the last thing deleted"
+msgstr "Pridobi zadnjo odstranjeno stvar"
+
+msgid "Getting Started"
+msgstr "Začnimo"
+
+msgid "ghost"
+msgstr "duh"
+
+msgid "Go To Scratch Website"
+msgstr "Nadaljuj na spletišču Scratch"
+
+msgid "grab screen region for new costume"
+msgstr "zajemi del zaslona za nov videz"
+
+msgid "grab screen region for new sprite"
+msgstr "zajemi del zaslona za novo sličico"
+
+msgid "Grow"
+msgstr "Povečaj"
+
+msgid "Grow sprite"
+msgstr "Povečaj sličico"
+
+msgid "hello "
+msgstr "dolga"
+
+msgid "Hello!"
+msgstr "Dober dan!"
+
+msgid "help"
+msgstr "pomoč"
+
+msgid "Help"
+msgstr "Pomoč"
+
+msgid "Help Page"
+msgstr "Stran s pomočjo"
+
+msgid "Help Screens"
+msgstr "Zasloni s pomočjo"
+
+msgid "Hide Motor Blocks"
+msgstr "Skrij motorje"
+
+msgid "High (biggest)"
+msgstr "Visok(največji)"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Home"
+msgstr "Domov"
+
+msgid "Images compressed"
+msgstr "Slika je stisnjena"
+
+msgid "import"
+msgstr "uvozi"
+
+msgid "Import"
+msgstr "Uvozi"
+
+msgid "Import an image on top of your current canvas"
+msgstr "Uvozi sliko na vrh trenutnega platna"
+
+msgid "Import Background"
+msgstr "Uvozi Ozadje"
+
+msgid "Import Costume"
+msgstr "Uvozi Videz"
+
+msgid "Import Image"
+msgstr "Uvozi Sliko"
+
+msgid "Import List"
+msgstr "Uvozi Seznam"
+
+msgid "Import Project"
+msgstr "Uvozi Projekt"
+
+msgid "import project"
+msgstr "uvozi projekt"
+
+msgid "Import Sound"
+msgstr "Uvozi Zvok"
+
+msgid "Incompatible Scratch file format"
+msgstr "Nezdružljiva oblika zapisa Scratchove datoteke"
+
+msgid "Is the folder read-only?"
+msgstr "Ali je mapa samo za branje?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "Kakovost JPEG (10-100)"
+
+msgid "kbytes"
+msgstr "kB"
+
+msgid "Language"
+msgstr "Jezik"
+
+msgid "large readout"
+msgstr "veliki izpis"
+
+msgid "last"
+msgstr "zadnji"
+
+msgid "left"
+msgstr "levo"
+
+msgid "left arrow"
+msgstr "tipka levo"
+
+msgid "length"
+msgstr "dolžina"
+
+msgid "light"
+msgstr "nepovdarjeno"
+
+msgid "Line tool (draw lines)"
+msgstr "Črte"
+
+msgid "List name?"
+msgstr "Ime seznama?"
+
+msgid "Low"
+msgstr "Nizko"
+
+msgid "Lowest (smallest)"
+msgstr "Najnižje (najmanjše)"
+
+msgid "Make a list"
+msgstr "Ustvari seznam"
+
+msgid "Make a variable"
+msgstr "Ustvari spremenljivko"
+
+msgid "Max:"
+msgstr "Max:"
+
+msgid "meow"
+msgstr "mjav"
+
+# -
+msgid "Message name:"
+msgstr "Ime sporočila:"
+
+msgid "Min:"
+msgstr "Min:"
+
+msgid "mod"
+msgstr "modaliteta"
+
+msgid "more"
+msgstr "več"
+
+msgid "More tags:"
+msgstr "Več oznak:"
+
+msgid "mosaic"
+msgstr "mozaik"
+
+msgid "mouse x:"
+msgstr "miš x:"
+
+msgid "mouse y:"
+msgstr "miš y:"
+
+msgid "mouse-pointer"
+msgstr "kazalec miške"
+
+msgid "Move"
+msgstr "Premakni"
+
+msgid "Music"
+msgstr "Glasba"
+
+msgid "My Projects"
+msgstr "Moji projekti"
+
+msgid "new"
+msgstr "novo"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "New background:"
+msgstr "Novo ozadje:"
+
+msgid "New costume:"
+msgstr "Nov videz:"
+
+msgid "New file name?"
+msgstr "Novo ime datoteke?"
+
+msgid "New Filename:"
+msgstr "Novo ime datoteke:"
+
+msgid "New sound:"
+msgstr "Novi zvok:"
+
+msgid "New Sprite"
+msgstr "Nova sličica"
+
+msgid "New sprite:"
+msgstr "Nova sličica:"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No MIDI ports currently available."
+msgstr "Trenutno niso na voljo nobena vrata MIDI "
+
+msgid "No motion blocks"
+msgstr "Ni premičnih blokov"
+
+msgid "no scripts"
+msgstr "ni navodil"
+
+msgid "No serial ports found"
+msgstr "Ni zaporednih vrat"
+
+msgid "No variables."
+msgstr "Ni spremenljivk"
+
+msgid "Normal"
+msgstr "Navadno"
+
+msgid "normal readout"
+msgstr "navadni izpis"
+
+msgid "Off"
+msgstr "Izključeno"
+
+msgid "OK"
+msgstr "Vredu"
+
+msgid "On"
+msgstr "Vključeno"
+
+msgid "only face left-right"
+msgstr "samo obraz levo-desno"
+
+msgid "Open"
+msgstr "Odpri"
+
+msgid "Open a Scratch project"
+msgstr "Odpri Scratchev projekt"
+
+msgid "Open Project"
+msgstr "Odpri Projekt"
+
+msgid "or"
+msgstr "ali"
+
+msgid "Paint"
+msgstr "Risar"
+
+msgid "Paint Editor"
+msgstr "Urejevalnik slik"
+
+msgid "Paint new sprite"
+msgstr "Nariši novo sličico"
+
+msgid "Paintbrush"
+msgstr "Čopič"
+
+msgid "Password:"
+msgstr "Geslo:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "Odstotki? (100 predstavlja izvorno velikost)"
+
+msgid "Pictures"
+msgstr "Slike"
+
+msgid "pixelate"
+msgstr "potočkaj"
+
+msgid "play"
+msgstr "predvajaj"
+
+msgid "Please enter a number"
+msgstr "Prosim vnesi število"
+
+msgid "pop"
+msgstr "poberi s sklada"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Nastavi središče vrtenja"
+
+msgid "Preparing project..."
+msgstr "Pripravljam projekt ..."
+
+msgid "Project author:"
+msgstr "Avtor projekta:"
+
+msgid "Project name"
+msgstr "Ime projekta"
+
+msgid "Project Notes"
+msgstr "Projektni zapiski"
+
+msgid "Project notes"
+msgstr "Projektni zapiski"
+
+msgid "Project uploaded."
+msgstr "Projekt je naložen."
+
+msgid "Projects"
+msgstr "Projekti"
+
+msgid "Quit"
+msgstr "Zapusti"
+
+msgid "Quit Scratch"
+msgstr "Zapusti Scratch"
+
+msgid "Reading"
+msgstr "Branje"
+
+msgid "record"
+msgstr "snemaj"
+
+msgid "Record"
+msgstr "Snemaj"
+
+msgid "recording"
+msgstr "snemam"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "Pravokotniki in kvadrati (obrisi ali zapolnjeni)"
+
+msgid "Redo"
+msgstr "Obnovi"
+
+msgid "Reference Guide"
+msgstr "Pregledni priročnik "
+
+msgid "Remote sensor connections enabled"
+msgstr "Oddaljen dostop do tipal je omogočen"
+
+msgid "Remove viewer from stage"
+msgstr "Odstrani gledalca s prizorišča"
+
+msgid "resistance"
+msgstr "odpor"
+
+msgid "resize this sprite"
+msgstr "spremeni velikost sličice"
+
+msgid "reverse"
+msgstr "obrni"
+
+msgid "right"
+msgstr "desno"
+
+msgid "right arrow"
+msgstr "tipka desno"
+
+msgid "Rotate clock-wise"
+msgstr "Vrti v smeri urinega kazalca"
+
+msgid "Rotate counter-clock-wise"
+msgstr "Vrti v obratni smeri urinega kazalca"
+
+msgid "rotate this sprite"
+msgstr "vrti to sličico"
+
+msgid "Rotation degrees?"
+msgstr "Stopinje zasuka"
+
+msgid "Save"
+msgstr "Shrani"
+
+msgid "Save a copy of the current project"
+msgstr "Shrani izvod tekočega projekta"
+
+msgid "Save As"
+msgstr "Shrani kot"
+
+msgid "Save changes before quitting?"
+msgstr "Pred zaključkom shrani spremembe?"
+
+msgid "Save failed"
+msgstr "Shranjevanje ni uspelo"
+
+msgid "save picture of scripts"
+msgstr "shrani sliko navodil"
+
+msgid "save picture of stage..."
+msgstr "shrani sliko prizorišča ..."
+
+msgid "Save Project"
+msgstr "Shrani Projekt"
+
+msgid "Save Scripts Snapshot"
+msgstr "Shrani posnetke navodil"
+
+msgid "Save Stage Shot"
+msgstr "Shrani posnetek prizorišča"
+
+msgid "Save the current project"
+msgstr "Shrani tekoči projekt"
+
+msgid "Save the current project?"
+msgstr "Ali shranim tekoči projekt?"
+
+msgid "Save this project"
+msgstr "Shrani ta projekt"
+
+msgid "Scripts"
+msgstr "Navodila"
+
+msgid "select serial/USB port"
+msgstr "izberi zaporedna/USB vrata"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "Izberi (prestavi, spremeni, ali briši tekoči izbor)"
+
+msgid "Set costume center"
+msgstr "Določi središče videza"
+
+msgid "Set language"
+msgstr "Določi jezik"
+
+msgid "Set rotation center"
+msgstr "Določi središče vrtenja"
+
+msgid "Set Single Stepping"
+msgstr "Postavi pokoračno izvajanje"
+
+msgid "set slider min and max"
+msgstr "določi skrajni vrednosti drsnika"
+
+msgid "Share"
+msgstr "Ponudi"
+
+msgid "Share this project"
+msgstr "Ponudi ta projekt"
+
+msgid "Share This Project Online"
+msgstr "Ponudi ta projekt na spletu"
+
+msgid "Show Motor Blocks"
+msgstr "Prikazuj motorje"
+
+msgid "show ScratchBoard watcher"
+msgstr "pokaži opazovalca ScratchBoard"
+
+msgid "Shrink"
+msgstr "Skrči"
+
+msgid "Shrink sprite"
+msgstr "Skrči sličico"
+
+msgid "Simulation"
+msgstr "Posnemanje (simulacija)"
+
+msgid "Single-step speed?"
+msgstr "Pokoračna hitrost?"
+
+msgid "slider"
+msgstr "drsnik"
+
+msgid "Slider range:"
+msgstr "Obseg drsnika:"
+
+msgid "Sound quality:"
+msgstr "Kakovost zvoka:"
+
+msgid "Sound Recorder"
+msgstr "Snemalnik Zvoka"
+
+msgid "Sounds"
+msgstr "Zvoki"
+
+msgid "Sounds compressed"
+msgstr "Stisnjeni zvoki"
+
+msgid "space"
+msgstr "presledek"
+
+msgid "Sprite"
+msgstr "Sličica"
+
+msgid "Sprites"
+msgstr "Sličice"
+
+msgid "sqrt"
+msgstr "koren"
+
+msgid "Stage"
+msgstr "Prizorišče"
+
+msgid "Stage selected:"
+msgstr "Izbrano prizorišče:"
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Žig (izberi izrez, odtiskuj ga)"
+
+msgid "Start green flag scripts"
+msgstr "Poženi ukaze z zeleno zastavico"
+
+msgid "Start Single Stepping"
+msgstr "Začni pokoračno izvajanje"
+
+msgid "stop"
+msgstr "končaj"
+
+msgid "Stop everything"
+msgstr "Končaj vse"
+
+msgid "Stop Single Stepping"
+msgstr "Končaj pokoračno izvajanje"
+
+msgid "Story"
+msgstr "Zgodba"
+
+msgid "Support Site"
+msgstr "Podporna stran"
+
+msgid "Switch colors"
+msgstr "Zamenjaj barve"
+
+msgid "Switch to full stage"
+msgstr "Prehod na večje prizorišče"
+
+msgid "Switch to presentation mode"
+msgstr "Prehod na predstavitveni način"
+
+msgid "Switch to small stage"
+msgstr "Prehod na malo prizorišče"
+
+msgid "Tags:"
+msgstr "Oznake:"
+
+msgid "Text tool (edit text layer)"
+msgstr "Besedila"
+
+msgid "That variable name is already in use"
+msgstr "Ime spremenljivke je že zasedeno"
+
+msgid "that way"
+msgstr "proti urinem kazalcu "
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "Datoteka že obstaja. Naj jo povozim?"
+
+msgid "thing"
+msgstr "stvar"
+
+msgid "this way"
+msgstr "z urinim kazalcem"
+
+msgid "tilt"
+msgstr "nagib"
+
+msgid "true"
+msgstr "resnično"
+
+msgid "Turbo speed"
+msgstr "Zelo hitro"
+
+msgid "turn into new sprite"
+msgstr "pretvori v novo sličico"
+
+msgid "Undelete"
+msgstr "Povrni"
+
+msgid "Undo"
+msgstr "Prekliči ukaz"
+
+msgid "up"
+msgstr "gor"
+
+msgid "up arrow"
+msgstr "tipka gor"
+
+msgid "Updating thumbnails"
+msgstr "Posodobitev malih slik"
+
+msgid "Upload succeeded!"
+msgstr "Nalaganje uspešno!"
+
+msgid "Upload to Scratch Server"
+msgstr "Postavi na Scratchev strežnik"
+
+msgid "Uploading"
+msgstr "Nalaganje"
+
+msgid "Variable name?"
+msgstr "Ime spremenljivke?"
+
+msgid "View on stage"
+msgstr "Pogled na prizorišče"
+
+msgid "What's your name?"
+msgstr "Tvoje ime?"
+
+msgid "whirl"
+msgstr "vrtinec"
+
+msgid "world"
+msgstr "beseda"
+
+msgid "Write Multiple Project Summaries"
+msgstr "Pripravi povzetke projekta"
+
+msgid "Write Project Summary"
+msgstr "Pripravi povzetek projekta"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "Your project is now online at"
+msgstr "Tvoj projekt je sedaj na spletu na"
+
+msgid "Your Scratch website login name:"
+msgstr "Tvoje uporabniško ime na spletišču Scratch:"
+
+msgid "Zoom in"
+msgstr "Povečaj"
+
+msgid "Zoom out"
+msgstr "Pomanjšaj"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "Harmonika"
+
+msgid "Acoustic Bass"
+msgstr "Akustični bas"
+
+msgid "Acoustic Bass Drum"
+msgstr "Akustični bas boben"
+
+msgid "Acoustic Grand"
+msgstr "Klavir"
+
+msgid "Acoustic Snare"
+msgstr "Mali boben (snare)"
+
+msgid "Agogo"
+msgstr "Agogo"
+
+msgid "Alto Sax"
+msgstr "Alto saksofon"
+
+msgid "Applause"
+msgstr "Ploskanje"
+
+msgid "Bagpipe"
+msgstr "Dude"
+
+msgid "Banjo"
+msgstr "Bendžo"
+
+msgid "Baritone Sax"
+msgstr "Bariton saksofon"
+
+msgid "Bass Drum 1"
+msgstr "Bas boben 1"
+
+msgid "Bassoon"
+msgstr "Fagot"
+
+msgid "Bird Tweet"
+msgstr "Ptičje čivkanje"
+
+msgid "Blown Bottle"
+msgstr "Pihanje v steklenico"
+
+msgid "Brass Section"
+msgstr "Trobila"
+
+msgid "Breath Noise"
+msgstr "Dihanje"
+
+msgid "Bright Acoustic"
+msgstr "Klavir 2"
+
+msgid "Cabasa"
+msgstr "Ropotulja (cabasa)"
+
+msgid "Celesta"
+msgstr "Celesta"
+
+msgid "Cello"
+msgstr "Čelo"
+
+msgid "Chinese Cymbal"
+msgstr "Kitajska činela"
+
+msgid "Choir Aahs"
+msgstr "Zborovski aaah"
+
+msgid "Church Organ"
+msgstr "Cerkvene orgle"
+
+msgid "Clarinet"
+msgstr "Klarinet"
+
+msgid "Claves"
+msgstr "Palice (claves)"
+
+msgid "Clavinet"
+msgstr "Klavinet"
+
+msgid "Closed Hi-Hat"
+msgstr "Zaprta činela"
+
+msgid "Contrabass"
+msgstr "Kontrabas"
+
+msgid "Cowbell"
+msgstr "Kravji zvonec"
+
+msgid "Crash Cymbal 1"
+msgstr "Činela 1"
+
+msgid "Crash Cymbal 2"
+msgstr "Činela 2"
+
+msgid "Distortion Guitar"
+msgstr "Kitara z distorzijo"
+
+msgid "Drawbar Organ"
+msgstr "Orgle 1"
+
+msgid "Dulcimer"
+msgstr "Čimbale"
+
+msgid "Electric Bass (finger)"
+msgstr "Električni bas (prsti)"
+
+msgid "Electric Bass (pick)"
+msgstr "Električni bas"
+
+msgid "Electric Clean Guitar"
+msgstr "Električna kitara 1"
+
+msgid "Electric Grand"
+msgstr "Električni klavir"
+
+msgid "Electric Jazz Guitar"
+msgstr "Električna jazz kitara"
+
+msgid "Electric Muted Guitar"
+msgstr "Električna kitara 2"
+
+msgid "Electric Piano 1"
+msgstr "Električni klavir 1"
+
+msgid "Electric Piano 2"
+msgstr "Električni klavir 2"
+
+msgid "Electric Snare"
+msgstr "Električni boben (snare)"
+
+msgid "English Horn"
+msgstr "Angleški rog"
+
+msgid "FX 1 (rain)"
+msgstr "Učinek 1 (dež)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "Učinek 2 (ozadje)"
+
+msgid "FX 3 (crystal)"
+msgstr "Učinek 3 (kristal)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "Učinek 4 (atmosfera)"
+
+msgid "FX 5 (brightness)"
+msgstr "Učinek 5 (svetlost)"
+
+msgid "FX 6 (goblins)"
+msgstr "Učinek 6 (škrati)"
+
+msgid "FX 7 (echoes)"
+msgstr "Učinek 7 (odmevi)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "Učinek 8 (ZF)"
+
+msgid "Fiddle"
+msgstr "Ljudska violina"
+
+msgid "Flute"
+msgstr "Flavta"
+
+msgid "French Horn"
+msgstr "Francoski rog"
+
+msgid "Fretless Bass"
+msgstr "Bas brez prečk"
+
+msgid "Glockenspiel"
+msgstr "Zvončki"
+
+msgid "Guitar Fret Noise"
+msgstr "Šum prečke pri kitari"
+
+msgid "Guitar Harmonics"
+msgstr "Harmoniki kitare"
+
+msgid "Gunshot"
+msgstr "Strel"
+
+msgid "Hand Clap"
+msgstr "Plosk"
+
+msgid "Harmonica"
+msgstr "Orglice"
+
+msgid "Harpsichord"
+msgstr "Čembalo"
+
+msgid "Helicopter"
+msgstr "Helikopter"
+
+msgid "Hi Bongo"
+msgstr "Visoki Bongo"
+
+msgid "Hi Wood Block"
+msgstr "Visoki leseni kvader"
+
+msgid "Hi-Mid Tom"
+msgstr "Visoki-srednji Tom"
+
+msgid "High Agogo"
+msgstr "Visoki Agogo"
+
+msgid "High Floor Tom"
+msgstr "Visoki talni Tom"
+
+msgid "High Timbale"
+msgstr "Visok boben Timbale"
+
+msgid "High Tom"
+msgstr "Visoki Tom"
+
+msgid "Honky-Tonk"
+msgstr "Razglašen klavir"
+
+msgid "Kalimba"
+msgstr "Kalimba"
+
+msgid "Koto"
+msgstr "Koto"
+
+msgid "Lead 1 (square)"
+msgstr "Glas 1 (kvadratna krivulja)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "Glas 2 (žaga)"
+
+msgid "Lead 3 (calliope)"
+msgstr "Glas 3 (Parna piščal)"
+
+msgid "Lead 4 (chiff)"
+msgstr "Glas 4 (chiff)"
+
+msgid "Lead 5 (charang)"
+msgstr "Glas 5 (charang)"
+
+msgid "Lead 6 (voice)"
+msgstr "Glas 6"
+
+msgid "Lead 7 (fifths)"
+msgstr "Glas 7 (kvinte)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "Glas 8 (bas+glas)"
+
+msgid "Long Guiro"
+msgstr "Dolgi guiro"
+
+msgid "Long Whistle"
+msgstr "Dolga piščal"
+
+msgid "Low Agogo"
+msgstr "Nizki agogo"
+
+msgid "Low Bongo"
+msgstr "Nizki bongo"
+
+msgid "Low Conga"
+msgstr "Nizka konga"
+
+msgid "Low Floor Tom"
+msgstr "Nizki talni Tom"
+
+msgid "Low Timbale"
+msgstr "Nizek boben Timbale"
+
+msgid "Low Tom"
+msgstr "Nizki Tom"
+
+msgid "Low Wood Block"
+msgstr "Nizki leseni kvader"
+
+msgid "Low-Mid Tom"
+msgstr "Nizki-srednji tom"
+
+msgid "Maracas"
+msgstr "Marakas"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Melodic Tom"
+msgstr "Melodični Tom"
+
+msgid "Music Box"
+msgstr "Glasbena skrinjica"
+
+msgid "Mute Cuica"
+msgstr "Cuica"
+
+msgid "Mute Hi Conga"
+msgstr "Nema visoka konga"
+
+msgid "Mute Triangle"
+msgstr "Nemi triangel"
+
+msgid "Muted Trumpet"
+msgstr "Nema trobenta"
+
+msgid "Nylon String Guitar"
+msgstr "Kitara z najlon strunami"
+
+msgid "Oboe"
+msgstr "Oboa"
+
+msgid "Ocarina"
+msgstr "Okarina"
+
+msgid "Open Cuica"
+msgstr "Odprta Cuica"
+
+msgid "Open Hi Conga"
+msgstr "Odprta visoka Konga"
+
+msgid "Open Hi-Hat"
+msgstr "Odprta činela"
+
+msgid "Open Triangle"
+msgstr "Odprt Triangel"
+
+msgid "Orchestra Hit"
+msgstr "Orkester"
+
+msgid "Orchestral Strings"
+msgstr "Godala"
+
+msgid "Overdriven Guitar"
+msgstr "Preglasna kitara"
+
+msgid "Pad 1 (new age)"
+msgstr "Zvok 1 (new age)"
+
+msgid "Pad 2 (warm)"
+msgstr "Zvok 2 (topel)"
+
+msgid "Pad 3 (polysynth)"
+msgstr "Zvok 3 (polysynth)"
+
+msgid "Pad 4 (choir)"
+msgstr "Zvok 4 (zbor)"
+
+msgid "Pad 5 (bowed)"
+msgstr "Zvok 5 (z lokom)"
+
+msgid "Pad 6 (metallic)"
+msgstr "Zvok 6 (kovinski)"
+
+msgid "Pad 7 (halo)"
+msgstr "Zvok 7 (soj)"
+
+msgid "Pad 8 (sweep)"
+msgstr "Zvok 8 (prehod)"
+
+msgid "Pan Flute"
+msgstr "Perujske piščali"
+
+msgid "Pedal Hi-Hat"
+msgstr "Činele s pedalom"
+
+msgid "Percussive Organ"
+msgstr "Orgle 2"
+
+msgid "Piccolo"
+msgstr "Pikolo"
+
+msgid "Pizzicato Strings"
+msgstr "Godala picikato"
+
+msgid "Recorder"
+msgstr "Blok flavta"
+
+msgid "Reed Organ"
+msgstr "Orgle 3"
+
+msgid "Reverse Cymbal"
+msgstr "Obratna činela"
+
+msgid "Ride Bell"
+msgstr "Zvonec"
+
+msgid "Ride Cymbal 1"
+msgstr "Činela 3"
+
+msgid "Ride Cymbal 2"
+msgstr "Činela 4"
+
+msgid "Rock Organ"
+msgstr "Orgle 4"
+
+msgid "Seashore"
+msgstr "Obala"
+
+msgid "Shakuhachi"
+msgstr "Šakuhači"
+
+msgid "Shamisen"
+msgstr "Šamisen"
+
+msgid "Shanai"
+msgstr "Šanai"
+
+msgid "Short Guiro"
+msgstr "Kratek Guiro"
+
+msgid "Short Whistle"
+msgstr "Kratka piščal"
+
+msgid "Side Stick"
+msgstr "Palica ob strani"
+
+msgid "Sitar"
+msgstr "Sitar"
+
+msgid "Slap Bass 1"
+msgstr "Udarec na bas 1"
+
+msgid "Slap Bass 2"
+msgstr "Udarec na bas 2"
+
+msgid "Soprano Sax"
+msgstr "Soprano saksofon"
+
+msgid "Splash Cymbal"
+msgstr "Činela 5"
+
+msgid "Steel Drums"
+msgstr "Jekleni bobni"
+
+msgid "Steel String Guitar"
+msgstr "Kitara z jeklenimi strunami"
+
+msgid "String Ensemble 1"
+msgstr "Godala 1"
+
+msgid "String Ensemble 2"
+msgstr "Godala 2"
+
+msgid "Synth Bass 1"
+msgstr "Sintesajzer bas 1"
+
+msgid "Synth Bass 2"
+msgstr "Sintesajzer bas 2"
+
+msgid "Synth Drum"
+msgstr "Sintesajzer boben"
+
+msgid "Synth Voice"
+msgstr "Sintesajzer glas"
+
+msgid "SynthBrass 1"
+msgstr "Sintesajzer trobila 1"
+
+msgid "SynthBrass 2"
+msgstr "Sintesajzer trobila 2"
+
+msgid "SynthStrings 1"
+msgstr "Sintesajzer godala 1"
+
+msgid "SynthStrings 2"
+msgstr "Sintesajzer godala 2"
+
+msgid "Taiko Drum"
+msgstr "Bobni Taiko"
+
+msgid "Tambourine"
+msgstr "Tamburin"
+
+msgid "Tango Accordion"
+msgstr "Tango harmonika"
+
+msgid "Telephone Ring"
+msgstr "Zvonenje telefona"
+
+msgid "Tenor Sax"
+msgstr "Tenor saksofon"
+
+msgid "Timpani"
+msgstr "Pavke"
+
+msgid "Tinkle Bell"
+msgstr "Zvonček"
+
+msgid "Tremolo Strings"
+msgstr "Tremolo godala"
+
+msgid "Trombone"
+msgstr "Trombon"
+
+msgid "Trumpet"
+msgstr "Trobenta"
+
+msgid "Tuba"
+msgstr "Tuba"
+
+msgid "Tubular Bells"
+msgstr "Valjasti zvonovi"
+
+msgid "Vibraphone"
+msgstr "Vibrafon"
+
+msgid "Vibraslap"
+msgstr "Udarec na vibrafon"
+
+msgid "Viola"
+msgstr "Viola"
+
+msgid "Violin"
+msgstr "Violina"
+
+msgid "Voice Oohs"
+msgstr "Glas Ooh"
+
+msgid "Whistle"
+msgstr "Piščal"
+
+msgid "Woodblock"
+msgstr "Leseni kvader"
+
+msgid "Xylophone"
+msgstr "Ksilofon"

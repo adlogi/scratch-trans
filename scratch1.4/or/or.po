@@ -1,0 +1,1945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-05-22 13:39-0400\n"
+"Last-Translator: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"Language-Team: \n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.2.0\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Oriya"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "2"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "OR-TTSarala"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "OR-TTSarala"
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "OR-TTSarala"
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "%H Ã’j_Ã§jeÃ§ cÃ‹mÃ”"
+
+msgid "%L contains %s"
+msgstr ""
+
+msgid "%a of %m"
+msgstr "%a e %m"
+
+msgid "%b and %b"
+msgstr "%b HaÃ• %b"
+
+msgid "%b or %b"
+msgstr "%b LÃžcÃ©Ã %b"
+
+msgid "%f of %n"
+msgstr "%f e %n"
+
+msgid "%n mod %n"
+msgstr "%n cXÃ§ %n"
+
+msgid "add %s to %L"
+msgstr "Ã’e %s  cÃžhÃZ %L"
+
+msgid "answer"
+msgstr ""
+
+msgid "ask %s and wait"
+msgstr ""
+
+msgid "background #"
+msgstr "`Ã³ÂºÂ¡Ã‹cÃž #"
+
+msgid "broadcast %e"
+msgstr "`ÃjÃÃeZ %e"
+
+msgid "broadcast %e and wait"
+msgstr "`ÃjÃÃeZ Le %e HaÃ• @Ã’`lÃ Le"
+
+msgid "change %g effect by %n"
+msgstr "`ÃÂ¡Ãa `eÃžarÃ _ %g ]Ã©ÃeÃ Le %n"
+
+msgid "change %v by %n"
+msgstr "`eÃžarÃ _ %v ]Ã©ÃeÃ %n"
+
+msgid "change pen color by %n"
+msgstr "Lmc e=   ]Ã©ÃeÃ `eÃžarÃ _ LeÂ«ÃŠ %n"
+
+msgid "change pen shade by %n"
+msgstr "Lmc RÃÂ¯Ã ]Ã©ÃeÃ `eÃžarÃ _ LeÂ«ÃŠ %n"
+
+msgid "change pen size by %n"
+msgstr "Lmc ALÃe ]Ã©ÃeÃ `eÃžarÃ _ LeÂ«ÃŠ %n"
+
+msgid "change size by %n"
+msgstr "]Ã©ÃeÃ ALÃe a]fÃ@ %n"
+
+msgid "change tempo by %n"
+msgstr "]Ã©ÃeÃ N[Ãž `eÃžarÃ _ LeÂ«ÃŠ %n"
+
+msgid "change volume by %n"
+msgstr "Ãž]Ã©ÃeÃ ^Ã©_Ãž `eÃžarÃ _ LeÂ«ÃŠ %n"
+
+msgid "change x by %n"
+msgstr "HÂµ LÃŠ %n `eÃžarÃ _ LeÂ«ÃŠ "
+
+msgid "change y by %n"
+msgstr "JÃ©ÃB LÃŠ  %n `eÃžarÃ _ LeÂ«ÃŠ"
+
+msgid "clear"
+msgstr "Â¸Â½ Le"
+
+msgid "clear graphic effects"
+msgstr "NÃÃ$ÃžLÃ§ e `ÃÂ¡Ãa j$Ã Le"
+
+msgid "color %C is touching %C?"
+msgstr "e=  %C LÃŠ RÃŠÃœD @RÃž %C;"
+
+msgid "control"
+msgstr "_ÃžÂ¯Ã•[ÃZ"
+
+msgid "costume #"
+msgstr "Ã’`ÃiÃL #"
+
+msgid "delete %y of %L"
+msgstr "LÃŠ _Â½ %y e Ï„Î¿ %L"
+
+msgid "direction"
+msgstr "]ÃžN"
+
+msgid "distance to %m"
+msgstr "LÃŠ ]Ã‹e[Ã %m"
+
+msgid "else"
+msgstr "@_Ã”"
+
+msgid "forever"
+msgstr "jaÃ ]Ã"
+
+msgid "forever if %b"
+msgstr "jaÃŠ Ã’af `ÃBÃœ d]Ãž %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "NÃ¬ÃBX %n Ã’jÃ’LÂ¨jÃ§ LÃŠ  HÂµ %n JÃ©ÃB %n"
+
+msgid "go back %n layers"
+msgstr "`RLÃŠ dÃAÂ«ÃŠ %n Ã’mÂ¯ejÃ§ "
+
+msgid "go to %m"
+msgstr "LÃŠ dÃAÂ«ÃŠ %m"
+
+msgid "go to front"
+msgstr "ANLÃŠ dÃAÂ«ÃŠ"
+
+msgid "go to x:%n y:%n"
+msgstr "HÂµ LÃŠ dÃAÂ«ÃŠ %n JÃ©ÃB LÃŠ dÃAÂ«ÃŠ  %n"
+
+msgid "hide"
+msgstr "mÃŠQÃ@"
+
+msgid "hide variable %v"
+msgstr "Ã’Â¡eÃžHaÃŠmÃ§ LÃŠ mÃŠQÃ@%v"
+
+msgid "if %b"
+msgstr "d]Ãž %b"
+
+msgid "if on edge, bounce"
+msgstr "d]Ãž Ã’NÃVÃžH LX Ã’e @RÃž XÃžAÃœ"
+
+msgid "insert %s at %i of %L"
+msgstr "`Ã‹eZ   Le %s HWÃÃ’e  %i e %L"
+
+msgid "item %i of %L"
+msgstr "SÃž_Ãži %i e %L"
+
+msgid "join %s %s"
+msgstr ""
+
+msgid "key %k pressed?"
+msgstr "LÃžB %k ]Ã’aBm?"
+
+msgid "length of %L"
+msgstr "mcÃ©Ã e %L"
+
+msgid "length of %s"
+msgstr ""
+
+msgid "letter %n of %s"
+msgstr ""
+
+msgid "list"
+msgstr "[mÃžLÃ"
+
+msgid "looks"
+msgstr "eÃ‹`"
+
+msgid "loud?"
+msgstr "[ÃžaÃ^Ã©_Ãž?"
+
+msgid "loudness"
+msgstr "^Ã©_Ãž e [ÃžaÃ[Ã"
+
+msgid "motion"
+msgstr "N[Ãž"
+
+msgid "motor direction %W"
+msgstr ""
+
+msgid "motor off"
+msgstr ""
+
+msgid "motor on"
+msgstr ""
+
+msgid "motor on for %n secs"
+msgstr ""
+
+msgid "motor power %n"
+msgstr ""
+
+msgid "mouse down?"
+msgstr "cÃDjÃ§ [fLÃŠ?"
+
+msgid "mouse x"
+msgstr "cÃDjÃ§ HÂµ"
+
+msgid "mouse y"
+msgstr "cÃDjÃ§ JÃ©ÃB"
+
+msgid "move %n steps"
+msgstr "QÃmÃ§ %n `Ã]"
+
+msgid "next background"
+msgstr "`e `Ã³ÂºÂ¡Ã‹cÃž"
+
+msgid "next costume"
+msgstr "`e Ã’`ÃiÃL"
+
+msgid "not %b"
+msgstr "%b _ÃŠkÃœ"
+
+msgid "operators"
+msgstr ""
+
+msgid "pen"
+msgstr "Lmc"
+
+msgid "pen down"
+msgstr "Lmc RÃX"
+
+msgid "pen up"
+msgstr "Lmc ^e"
+
+msgid "pick random %n to %n"
+msgstr "ALjÃ§cÃžLÃ§ ^e %n eÃŠ %n"
+
+msgid "play drum %D for %n beats"
+msgstr "XÃc  aSÃ@ %D `ÃBÃœ  %n aÃžVÃ§jÃ§ "
+
+msgid "play note %N for %n beats"
+msgstr "Ã’_ÃV aSÃ@ %N  aÃžVÃ§jÃ§ %n `ÃBÃœ"
+
+msgid "play sound %S"
+msgstr "hv aSÃ@%S"
+
+msgid "play sound %S until done"
+msgstr "hv aSÃ@ %S _Ã’kaÃ dÃHÃœ "
+
+msgid "point in direction %d"
+msgstr "HkÃž ]ÃžN Ã’e ]hÃ Ã@ %d"
+
+msgid "point towards %m"
+msgstr "ANLÃŠ ]hÃ Ã@ %m"
+
+msgid "repeat %n"
+msgstr "`ÃŠZÃž ’e Le %n"
+
+msgid "repeat until %b"
+msgstr "`dÃ Ã”Â« Ã’]ÃkeÃ@ %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "SÃž_Ãži a]fÃ@ %i e  %L jÃžÃ’e %s"
+
+msgid "reset timer"
+msgstr "OXÃž eÃžÃ’jVÃ§ Le"
+
+msgid "rest for %n beats"
+msgstr "OXÃž eÃžÃ’jVÃ§ Le %n aÃžVÃ§jÃ§ `ÃBÃœ"
+
+msgid "round %n"
+msgstr "Ã’NÃm %n"
+
+msgid "say %s"
+msgstr "LÃŠk %s"
+
+msgid "say %s for %n secs"
+msgstr "LÃŠk %s `ÃBÃœ %n Ã’jÃ’LÂ¨j "
+
+msgid "sensing"
+msgstr "Ã’j_Ã§jÃž=Ã§"
+
+msgid "sensor %h?"
+msgstr "Ã’j_Ã§jeÃ§ %h;"
+
+msgid "set %g effect to %n"
+msgstr "Ã’jV %g `ÃÂ¡Ãa LÃŠ %n"
+
+msgid "set %v to %n"
+msgstr "Ã’jV Le %v LÃŠ %n"
+
+msgid "set instrument to %I"
+msgstr "D`LeZ LÃŠ Ã’jV Le %I"
+
+msgid "set pen color to %c"
+msgstr "Lmc e e= Ã’jV Le %c"
+
+msgid "set pen color to %n"
+msgstr "Lmc e e= Ã’jV Le %n"
+
+msgid "set pen shade to %n"
+msgstr "Lmc e RÃÂ¯Ã Ã’jV Le %n"
+
+msgid "set pen size to %n"
+msgstr "Lmc e ALe Ã’jV Le %n"
+
+msgid "set size to %n%"
+msgstr "ALÃe Ã’jV Le %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "N[Ãž Ã’jV Le %n aÃž`ÃžHcÃ§"
+
+msgid "set volume to %n%"
+msgstr "^Ã©_Ãž Ã’jV Le %n%"
+
+msgid "set x to %n"
+msgstr "HÂµÃ§ LÃŠ Ã’jV Le %n"
+
+msgid "set y to %n"
+msgstr "JÃ©ÃB LÃŠ Ã’jV Le %n"
+
+msgid "show"
+msgstr "Ã’]MÃ@"
+
+msgid "show variable %v"
+msgstr "Ã’Â¡eÃžHaÃŠmÃ§ Ã’]MÃ@ %v"
+
+msgid "size"
+msgstr "ALÃe"
+
+msgid "sound"
+msgstr "^Ã©_Ãž"
+
+msgid "stamp"
+msgstr "Â½ÃÂ­Â­cÃ§`"
+
+msgid "stop all"
+msgstr "jaÃŠ at Le"
+
+msgid "stop all sounds"
+msgstr "jcÂª ^Ã©_Ãž at Le"
+
+msgid "stop script"
+msgstr "Â²ÃÃž`Ã§V LÃŠ at Le"
+
+msgid "switch to background %l"
+msgstr "`Ã³ÂºÂ¡Ã‹cÃž a]fÃ@ %l"
+
+msgid "switch to costume %l"
+msgstr "Ã’`ÃiÃL a]fÃ@ %l"
+
+msgid "tempo"
+msgstr "N[Ãž"
+
+msgid "think %s"
+msgstr "aÃžQÃe Le %s"
+
+msgid "think %s for %n secs"
+msgstr "%s `ÃBÃœ aÃžQÃe Le %n Ã’jÃ’LÂ¨j "
+
+msgid "timer"
+msgstr "OXÃž"
+
+msgid "touching %m?"
+msgstr "RÃŠÃœD @RÃž %m;"
+
+msgid "touching color %C?"
+msgstr "RÃŠÃœA e= %C;"
+
+msgid "turn %n degrees"
+msgstr "aÃŠm %n XÃžNÃÃ‘"
+
+msgid "variables"
+msgstr "Ã’Â¡eÃžHaÃŠmjÃ§"
+
+msgid "volume"
+msgstr "^Ã©_Ãž"
+
+msgid "wait %n secs"
+msgstr "@Ã’`lÃ Le  %n Ã’jÃ’LÂ¨j"
+
+msgid "wait until %b"
+msgstr "@Ã’`lÃ Le Ã’dÃ’[Ã’af dÃH  %b"
+
+msgid "when %k key pressed"
+msgstr "Ã’dÃ’[Ã’aÃ’f %k Ï€Î±Ï„Î·Î¸ÎµÎ¯"
+
+msgid "when %m clicked"
+msgstr "Ã’dÃ’[Ã’aÃ’f %m LÃ¢ÃžLXÃ§"
+
+msgid "when I receive %e"
+msgstr "Ã’dÃ’[Ã’aÃ’f cÃ’[ `ÃÃÂ© kÃŠH %e"
+
+msgid "x position"
+msgstr "HÂµÃ§ e yÃž[Ãž"
+
+msgid "y position"
+msgstr "JÃ©ÃB e yÃž[Ãž"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(MÃmÃž)"
+
+msgid "1 script"
+msgstr "1 Â²ÃÃž`VÃ§"
+
+msgid "About Scratch"
+msgstr "Â²ÃÃQÃ§ aÃžiÂ¯ Ã’e"
+
+msgid "About this project:"
+msgstr "HkÃž Ã’`ÃÃÃ’SÂ aÃžiÂ¯ Ã’e"
+
+msgid "abs"
+msgstr "HaÃž@jÃ§"
+
+msgid "add comment"
+msgstr "VÃž`ZÃ‘ ]Ãž@"
+
+msgid "add comment here"
+msgstr "HWÃÃ’e VÃž`ZÃ‘ ]Ãž@"
+
+msgid "all"
+msgstr "jcÂª"
+
+msgid "and"
+msgstr "HaÃœ"
+
+msgid "Animation"
+msgstr ""
+
+msgid "any"
+msgstr "LÃžRÃž"
+
+msgid "Art"
+msgstr ""
+
+msgid "background"
+msgstr "`Ã³ÂºÂ¡Ã‹cÃž"
+
+msgid "backgrounds"
+msgstr "`Ã³ÂºÂ¡Ã‹cÃž"
+
+msgid "Backgrounds"
+msgstr "`Ã³ÂºÂ¡Ã‹cÃž"
+
+msgid "brightness"
+msgstr "hÃŠÂ¡Ã[Ã"
+
+msgid "Brush size: "
+msgstr "aÃjÃ§ e ALÃe "
+
+msgid "button"
+msgstr "aV_Ã§"
+
+msgid "button pressed"
+msgstr "aV_Ã§ ]aÃ Ã’kÃ’m"
+
+msgid "Camera"
+msgstr ""
+
+msgid "can rotate"
+msgstr "OÃŠeÃž `eÃža"
+
+msgid "cancel"
+msgstr "e~ Le"
+
+msgid "Cancel"
+msgstr "e~ Le"
+
+msgid "Choose a folder"
+msgstr "Ã’NÃVÃžH Ã’$ÃmXÃ§e QÂ¯_ Le"
+
+msgid "Choose new sprite from file"
+msgstr "Ã’NÃVÃžH _Ã‹A Â¸Ã ÃBVÃ§ $ÃBmÃ§ eÃŠ QÂ¯_ Le"
+
+msgid "clean up"
+msgstr "j$Ã LeÃž ]Ãž@"
+
+msgid "Clear"
+msgstr "Â¸Â½ Le"
+
+msgid "Clear canvas"
+msgstr "LÃ_Â¡ÃjÃ§ j$Ã Le"
+
+msgid "Close and continue"
+msgstr ""
+
+msgid "Close dialog?"
+msgstr "XÃHmNÃ§ at Le?"
+
+msgid "Close paint editor?"
+msgstr "e= jÃ•`Ã]L at Le?"
+
+msgid "close port"
+msgstr "Ã’`ÃVÃ  at Le"
+
+msgid "Close sound recorder?"
+msgstr "h~ Ã’eLXÃ  at Le?"
+
+msgid "color"
+msgstr "e= "
+
+msgid "Compress Images"
+msgstr "RaÃž NÃŠXÃžLÃŠ LÂ­cÃ§Ã’`Ãj Le"
+
+msgid "Compress Sounds"
+msgstr "h~  LÃŠ LÂ­cÃ§Ã’`Ãj Le"
+
+msgid "Compress sounds and images"
+msgstr "h~ HaÃ• RaÃž LÂ­cÃ§Ã’`Ãj Le"
+
+msgid "Computer"
+msgstr "LcÃ§`ÃŠVÃ§eÃ§"
+
+msgid "connected"
+msgstr "jÃ•dÃŠÂ¦"
+
+msgid "Connecting to "
+msgstr "LÃŠ  jÃ•Ã’dÃN "
+
+msgid "Copy"
+msgstr "L`Ãž"
+
+msgid "costume"
+msgstr "Ã’`ÃiÃL"
+
+msgid "costumes"
+msgstr ""
+
+msgid "Costumes"
+msgstr "Ã’`ÃiÃL"
+
+msgid "Could not read"
+msgstr "`YÃž Ã’kmÃ _ÃkÃžÃœ"
+
+msgid "Could not read project; file may be damaged"
+msgstr "Ã’`ÃÃÃ’SÂ LÃŠ `YÃž Ã’kmÃ _Ãk,ÃžÃœ $ÃBmÃ§ l[ÃžNÃÂª Ã’kÃBB `ÃÃ’e"
+
+msgid "Could not write file"
+msgstr "$ÃBmÃ§ Ã’mMÃž Ã’kmÃ _kÃžÃœ"
+
+msgid "Create account"
+msgstr "_Ã‹A MÃ[Ã a_Ã@"
+
+msgid "Create an empty project"
+msgstr "Ã’NÃVÃžH MÃmÃž Ã’`ÃÃÃ’SÂ a_Ã@"
+
+msgid "Data sent. Waiting for response..."
+msgstr "Ã’XVÃ `WÃ Ã’kmÃ , `Ã[ÃžLÃÃžÂ¯Ã e @Ã’`lÃ QÃmÃžRÃž..."
+
+msgid "delete"
+msgstr "_Â½ LeÃž ]Ãž@"
+
+msgid "Delete"
+msgstr "_Â½ LeÃž ]Ãž@"
+
+msgid "Delete a list"
+msgstr "[ÃmÃžLÃ LÃŠ _Â½ LeÃž ]Ãž@"
+
+msgid "Delete a variable"
+msgstr "Ã’NÃVÃžH Ã’Â¡eÃžHaÃŠm LÃŠ _Â½ LeÃž ]Ãž@"
+
+msgid "Delete this background"
+msgstr ""
+
+msgid "Delete this costume"
+msgstr "HkÃž Ã’`ÃiÃL LÃŠ _Â½ LeÃž ]Ãž@"
+
+msgid "Delete this sound"
+msgstr "HkÃž h~ LÃŠ _Â½ LeÃž ]Ãž@"
+
+msgid "Delete this sprite"
+msgstr ""
+
+msgid "Desktop"
+msgstr "Ã’XÂ²V`Ã§"
+
+msgid "disable remote sensor connections"
+msgstr ""
+
+msgid "distance"
+msgstr ""
+
+msgid "Documents"
+msgstr "]ÂªÃÃ’aSÃ§"
+
+msgid "don't rotate"
+msgstr "aÃŠm _ÃkÃžÃœ"
+
+msgid "Don't Save"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "down"
+msgstr "[fLÃŠ "
+
+msgid "down arrow"
+msgstr "[fLÃŠ [Ã‘e"
+
+msgid "drag to resize"
+msgstr ""
+
+msgid "drag to rotate"
+msgstr ""
+
+msgid "draggable on website?"
+msgstr "JÃ©HaÃ§jÃBVÃ§ Ã’e XÃÃÃ’NaÃŠmÃ§?"
+
+msgid "duplicate"
+msgstr "XÃŠ`Ã¢ÃžÃ’LVÃ§"
+
+msgid "Duplicate"
+msgstr "XÃŠ`Ã¢ÃžÃ’LVÃ§"
+
+msgid "edge"
+msgstr "LXÃ’e"
+
+msgid "Edit"
+msgstr "jÃ•`Ã]_Ã"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "HmÃžÂ¿ D`LeZ (akÃžÃ Ã’eMÃ LÃžcÃ©Ã @Â¨ÃLÃe, HmÃžÂ¿ LÃžcÃ© aÃ³[ @*_ Le)"
+
+msgid "enable remote sensor connections"
+msgstr "jÃŠ]Ã‹e jÃ•Ã’a]_ jÃ•Ã’SÃN LÃŠ jlc Le"
+
+msgid "Enter presentation mode"
+msgstr "Ã’`ÃÃ’SÃ’Ãƒj_Ã§ Ã’cÃXÃ§ Ã’e `ÃÃ’ah Le"
+
+msgid "Eraser"
+msgstr "eae"
+
+msgid "Eraser size"
+msgstr "eae ALÃe"
+
+msgid "Error!"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Exit presentation"
+msgstr ""
+
+msgid "Exit presentation mode"
+msgstr "Ã’`ÃÃ’SÃ’Ãƒj_Ã§ Ã’cÃXÃ§ eÃŠ aÃkÃeLÃŠ dÃ@"
+
+msgid "export"
+msgstr "_ÃžÂ¯ÃÃ [ Le"
+
+msgid "Export Background"
+msgstr "`Ã³ÂºÂ¡Ã‹cÃž _ÃžÂ¯ÃÃ [ Le"
+
+msgid "Export Costume"
+msgstr "Ã’`ÃiÃL _ÃžÂ¯ÃÃ [ Le"
+
+msgid "Export failed"
+msgstr "_ÃžÂ¯ÃÃ [ @j$f ekÃžmÃ"
+
+msgid "Export Sound"
+msgstr "h~ _ÃžÂ¯ÃÃ [ Le"
+
+msgid "Export Sprite"
+msgstr "Â¸Ã ÃBVÃ§ _ÃžÂ¯ÃÃ [ Le"
+
+msgid "export this costume"
+msgstr ""
+
+msgid "export this sound"
+msgstr ""
+
+msgid "export this sprite"
+msgstr "HkÃž Â¸Ã ÃBVÃ§ LÃŠ _ÃžÂ¯ÃÃ [ Le"
+
+msgid "Extras menu"
+msgstr "@[ÃžeÃžÂ¦ Ã’c_ÃŠ"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "@BXÃ`eÃ§ D`LeZ (e= QÂ¯_ Le)"
+
+msgid "Failed:"
+msgstr "@j$f ekÃžmÃ"
+
+msgid "false"
+msgstr "Â¡ÃŠm"
+
+msgid "File"
+msgstr ""
+
+msgid "File not found"
+msgstr "$ÃBm cÃžfÃžmÃ _ÃkÃžÃœ"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "`Ã‹eZ LeÃžaÃ D`LeZ (Ã’l[Ã NÃŠXÃžLÃŠ e= LÃžcÃ©Ã NÃÃXÃžHÃƒÃ§ ]Ã©ÃeÃ `Ã‹eZ Le)"
+
+msgid "first"
+msgstr "`Ã"
+
+msgid "fisheye"
+msgstr "$ÃžjÃ§ABÃ§"
+
+msgid "Flash blocks (fast)"
+msgstr "$Ã¬ÃjÃ§ aÃ¢LjÃ§ ([Ã‘aÃ)"
+
+msgid "Flash blocks (slow)"
+msgstr "$Ã¬ÃjÃ§ aÃ¢LjÃ§ (^ÃžÃ’e)"
+
+msgid "Flip horizontally"
+msgstr "keÃžSÃƒÃmÃ§ $Ã¢Ãž`"
+
+msgid "Flip vertically"
+msgstr "Â¡eÃ§VÃžLÃmÃ§ $Ã¢Ãž`"
+
+msgid "For all sprites"
+msgstr "jaÃŠ Â¸Ã ÃBVjÃ§ * `ÃBÃœ"
+
+msgid "For this sprite only"
+msgstr "Ã’Laf HkÃž Â¸Ã ÃBVÃ§  `ÃBÃœ"
+
+msgid "Game"
+msgstr ""
+
+msgid "Get surprise sprite"
+msgstr "je`ÃÃBSÃ§ Â¸Ã ÃBVÃ§  AZ"
+
+msgid "Get the last thing deleted"
+msgstr "Ã’hi SÃž_Ãži LÃŠ _Â½ LeÃž ]Ãž@"
+
+msgid "Getting Started"
+msgstr ""
+
+msgid "ghost"
+msgstr "Â¡Ã‹["
+
+msgid "Go To Scratch Website"
+msgstr ""
+
+msgid "grab screen region for new costume"
+msgstr "_ÃŠA Ã’`ÃiÃL `ÃBÃœ Â²ÃÃž_Ã§ Ã’e dÃNÃ _Ãž@"
+
+msgid "grab screen region for new sprite"
+msgstr "_ÃŠA Â¸Ã ÃBVÃ§ `ÃBÃœ Â²ÃÃž_Ã§ Ã’e dÃNÃ _Ãž@"
+
+msgid "Grow"
+msgstr "ANLÃŠ aY"
+
+msgid "Grow sprite"
+msgstr "Â¸Ã ÃBVÃ§ LÃŠ aYÃ"
+
+msgid "hello "
+msgstr ""
+
+msgid "Hello!"
+msgstr "kÃÃ’mÃ!"
+
+msgid "help"
+msgstr "jkÃÂ¯[Ã"
+
+msgid "Help"
+msgstr "jkÃÂ¯[Ã"
+
+msgid "Help Page"
+msgstr ""
+
+msgid "Help Screens"
+msgstr ""
+
+msgid "Hide Motor Blocks"
+msgstr ""
+
+msgid "High (biggest)"
+msgstr "DÃœQÃ (jaÃŠŠ aX)"
+
+msgid "Hmm..."
+msgstr "kÃœ..."
+
+msgid "Home"
+msgstr "Ã’kÃcÃ§"
+
+msgid "Images compressed"
+msgstr "RaÃž NÃŠXÃžL LcÃ§Ã’`ÃjXÃ§"
+
+msgid "import"
+msgstr "AÂ¯Ã["
+
+msgid "Import"
+msgstr "AÂ¯Ã["
+
+msgid "Import an image on top of your current canvas"
+msgstr "[ÃŠce arÃ cÃ_ LÃ_Â¡Ãj D`Ã’e Ã’NÃÃ’V RaÃž AÂ¯Ã[ Le"
+
+msgid "Import Background"
+msgstr "`Ã³ÂºÂ¡Ã‹cÃž AÂ¯Ã[ Le"
+
+msgid "Import Costume"
+msgstr "Ã’`ÃiÃL AÂ¯Ã[ Le"
+
+msgid "Import Image"
+msgstr "RaÃž AÂ¯Ã[ Le"
+
+msgid "Import List"
+msgstr "[ÃmÃžLÃ AÂ¯Ã[ Le"
+
+msgid "Import Project"
+msgstr "Ã’`ÃÃÃ’SÂ AÂ¯Ã[ Le"
+
+msgid "import project"
+msgstr "Ã’`ÃÃÃ’SÂ AÂ¯Ã[ Le"
+
+msgid "Import Sound"
+msgstr "h~ AÂ¯Ã[ Le"
+
+msgid "Incompatible Scratch file format"
+msgstr "@_Ã‹QÃ‘[Ã§ Â²ÃÃQÃ§ $ÃBmÃ§ jÃ©eÃ‹`"
+
+msgid "Is the folder read-only?"
+msgstr "HkÃž Ã’$ÃmÃ§XÃ§e Ã’Laf `YÃžaÃ `ÃBÃœ LÃž?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "Ã’S`ÃžBÃ’S LÃ©ÃmÃžVÃž (10-100)"
+
+msgid "kbytes"
+msgstr "LÃžÃ’mÃaÃBVÃ§j"
+
+msgid "Language"
+msgstr "Â¡ÃiÃ"
+
+msgid "large readout"
+msgstr "aX eÃžXÃ§AJVÃ§"
+
+msgid "last"
+msgstr "@Ã•[Ãžc"
+
+msgid "left"
+msgstr "aÃc"
+
+msgid "left arrow"
+msgstr "aÃc [Ã‘e"
+
+msgid "length"
+msgstr "mcÃ©Ã"
+
+msgid "light"
+msgstr "AÃ’mÃL"
+
+msgid "Line tool (draw lines)"
+msgstr "Ã’eMÃ @Ã•L_ D`LeZ (Ã’eMÃ @Ã•L_ Le)"
+
+msgid "List name?"
+msgstr "[ÃmÃžLÃ _Ãc L'Z?"
+
+msgid "Low"
+msgstr "_Ã‘QÃ"
+
+msgid "Lowest (smallest)"
+msgstr "jaÃŠWÃŠ LcÃ§ (jaÃŠWÃeÃŠ Ã’RÃV)"
+
+msgid "Make a list"
+msgstr "[ÃmÃžLÃ [ÃžAeÃž Le"
+
+msgid "Make a variable"
+msgstr "Ã’Â¡eÃžHaÃŠmÃ§ [ÃžAeÃž Le"
+
+msgid "Max:"
+msgstr "cÃÂµÃ§ "
+
+msgid "meow"
+msgstr "cÃžDÃ§"
+
+msgid "Message name:"
+msgstr "jÃ•Ã’]h e _Ãc"
+
+msgid "Min:"
+msgstr "cÃž_Ã§"
+
+msgid "mod"
+msgstr "cXÃ§"
+
+msgid "more"
+msgstr "@^ÃžL"
+
+msgid "More tags:"
+msgstr "@^ÃžL VÃ”ÃNÃ§j"
+
+msgid "mosaic"
+msgstr "Ã’cÃSÃBLÃ§"
+
+msgid "mouse x:"
+msgstr "cÃDjÃ§ HÂµÃ§ "
+
+msgid "mouse y:"
+msgstr "cÃDjÃ§ JÃ©ÃB"
+
+msgid "mouse-pointer"
+msgstr "cÃDjÃ§ `HÃƒeÃ§"
+
+msgid "Move"
+msgstr "yÃ_ `eÃžarÃ _ Le"
+
+msgid "Music"
+msgstr "jÃ•NÃ‘["
+
+msgid "My Projects"
+msgstr ""
+
+msgid "new"
+msgstr "_Ã‹A"
+
+msgid "New"
+msgstr "_Ã‹A"
+
+msgid "New background:"
+msgstr "_Ã‹A `Ã³ÂºÂ¡Ã‹cÃž"
+
+msgid "New costume:"
+msgstr "_Ã‹A Ã’`ÃiÃL"
+
+msgid "New file name?"
+msgstr ""
+
+msgid "New Filename:"
+msgstr "_Ã‹A $ÃBmÃ§e _Ãc"
+
+msgid "New sound:"
+msgstr "_Ã‹A ^Ã©_Ãž"
+
+msgid "New Sprite"
+msgstr "_Ã‹A Â¸ÃÃBVÃ§"
+
+msgid "New sprite:"
+msgstr ""
+
+msgid "No"
+msgstr "_ÃkÃžÃœ"
+
+msgid "No MIDI ports currently available."
+msgstr "arÃ cÃ_ cÃžXÃž Ã’`ÃVÃ  jÃŠmÂ¡ _ÃkÃžÃœ"
+
+msgid "No motion blocks"
+msgstr "aÃ¢ÂµÃ§ e N[Ãž _ÃkÃžÃœ"
+
+msgid "no scripts"
+msgstr "Â²ÃÃž`Ã§V _ÃkÃžÃœ"
+
+msgid "No serial ports found"
+msgstr "LÃžRÃž jÃžeÃžAmÃ§ Ã’`ÃVÃ  cÃžfÃžmÃ _ÃkÃžÃœ"
+
+msgid "No variables."
+msgstr "ÃœÃ’Â¡eÃžHaÃŠmÃ§jÃ§  _ÃkÃžÃœ"
+
+msgid "Normal"
+msgstr "jÃcÃ_Ã”"
+
+msgid "normal readout"
+msgstr "jÃcÃ_Ã” eÃžXÃ§ADVÃ§"
+
+msgid "Off"
+msgstr "at "
+
+msgid "OK"
+msgstr "WÃžL @RÃž"
+
+msgid "On"
+msgstr "D`Ã’e"
+
+msgid "only face left-right"
+msgstr "Ã’Laf aÃc-XÃkÃZ LÃŠ cÃŠkÃœ Le"
+
+msgid "Open"
+msgstr "Ã’MÃm"
+
+msgid "Open a Scratch project"
+msgstr "Ã’NÃVÃžH Â²ÃÃQ Ã’`ÃÃÃ’SÂ Ã’MÃm"
+
+msgid "Open Project"
+msgstr "Ã’`ÃÃÃ’SÂ Ã’MÃm"
+
+msgid "or"
+msgstr "LÃžcÃ©Ã"
+
+msgid "Paint"
+msgstr "e="
+
+msgid "Paint Editor"
+msgstr "e= jÃ•`Ã]L"
+
+msgid "Paint new sprite"
+msgstr "_Ã‹A Â¸ÃÃBVÃ§ LÃŠ e= Le"
+
+msgid "Paintbrush"
+msgstr "e= aÃj"
+
+msgid "Password:"
+msgstr "`ÃjÃ§JÃ©ÃXÃ§Ã "
+
+msgid "Percent? (100 gives original size)"
+msgstr "`Ã[Ãžh[ ?(100 cÃ‹f ALÃe ]ÃžH)"
+
+msgid "Pictures"
+msgstr "RaÃž"
+
+msgid "pixelate"
+msgstr "`ÃžÂµÃ§Ã’mVÃ§"
+
+msgid "play"
+msgstr "QmÃ@"
+
+msgid "Please enter a number"
+msgstr "]Â¯ÃLeÃž Ã’NÃÃ’V jÃ•MÃ”Ã ]Ãž@"
+
+msgid "pop"
+msgstr "``Ã§"
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "Ã’eÃÃ’Vj_Ã§ Ã’jÃƒeÃ§ Ã’jVÃ§ LeÃžaÃ `ÃBÃœ LÃjÃ§ LÃŠ Ã’`ÃSÃžjÃ§_ Ã’e eM"
+
+msgid "Preparing project..."
+msgstr "Ã’`ÃÃÃ’SÂ `ÃÂªÃŠ[ LeÃ dÃD @RÃž..."
+
+msgid "Project author:"
+msgstr "Ã’`ÃÃÃ’SÂ Ã’mML"
+
+msgid "Project name"
+msgstr "Ã’`ÃÃÃ’SÂ _Ãc"
+
+msgid "Project Notes"
+msgstr "Ã’`ÃÃÃ’SÂ Ã’_ÃVÃ§j"
+
+msgid "Project notes"
+msgstr "Ã’`ÃÃÃ’SÂ Ã’_ÃVÃ§j"
+
+msgid "Project uploaded."
+msgstr "Ã’`ÃÃÃ’SÂ @`Ã§Ã’mÃÃ’XXÃ§."
+
+msgid "Projects"
+msgstr "Ã’`ÃÃÃ’SÂjÃ§"
+
+msgid "Quit"
+msgstr "LÃŠBVÃ§"
+
+msgid "Quit Scratch"
+msgstr "LÃŠBVÃ§ Â²ÃÃQÃ§"
+
+msgid "Reading"
+msgstr ""
+
+msgid "record"
+msgstr "Ã’eLXÃ "
+
+msgid "Record"
+msgstr "Ã’eLXÃ "
+
+msgid "recording"
+msgstr "Ã’eLXÃžÃ ="
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "AÂ¯[Ã’l[Ã D`LeZ (akÃžÃ Ã’eMÃ LÃžcÃ©Ã `Ã‹ZÃ , AÂ¯[Ã’l[ LÃžcÃ©Ã aNÃ Ã’l[Ã @Ã•L_ Le)"
+
+msgid "Redo"
+msgstr "AD ’e Le"
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Remote sensor connections enabled"
+msgstr ""
+
+msgid "Remove viewer from stage"
+msgstr "H Ã’Â½SÃ§ eÃŠ ]hÃ L kVÃ@"
+
+msgid "resistance"
+msgstr "`Ã[ÃžÃ’eÃ^"
+
+msgid "resize this sprite"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "XÃkÃZ"
+
+msgid "right arrow"
+msgstr "XÃkÃZ [Ã‘e"
+
+msgid "Rotate clock-wise"
+msgstr "OXÃž @_ÃŠjÃÃ’e OÃŠeÃ@"
+
+msgid "Rotate counter-clock-wise"
+msgstr "OXÃž aÃž`eÃ‘[ OÃŠeÃ@"
+
+msgid "rotate this sprite"
+msgstr ""
+
+msgid "Rotation degrees?"
+msgstr "Ã’eÃÃ’Vj_Ã§ XÃžNÃÃ‘"
+
+msgid "Save"
+msgstr "Ã’jÂ¡Ã§"
+
+msgid "Save a copy of the current project"
+msgstr "arÃ cÃ_ Ã’`ÃÃÃ’SÂ e Ã’NÃVÃžH L`Ãž Ã’jÂ¡Ã§ Le"
+
+msgid "Save As"
+msgstr "Ã’jÂ¡Ã§  ASÃ§"
+
+msgid "Save changes before quitting?"
+msgstr ""
+
+msgid "Save failed"
+msgstr "Ã’jÂ¡Ã§  aÃž$f ekÃžmÃ"
+
+msgid "save picture of scripts"
+msgstr "Â²ÃÃž`Ã§VÃ§ cÃ_*e  RaÃž Ã’jÂ¡Ã§ Le"
+
+msgid "save picture of stage..."
+msgstr "Ã’Â½SÃ§ e RaÃž Ã’jÂ¡Ã§ Le..."
+
+msgid "Save Project"
+msgstr "Ã’`ÃÃÃ’SÂ Ã’jÂ¡Ã§ Le "
+
+msgid "Save Scripts Snapshot"
+msgstr "Â²ÃÃž`Ã§VÃ§ e jÃ°Ã`Ã§jVÃ§ Ã’jÂ¡Ã§ Le"
+
+msgid "Save Stage Shot"
+msgstr " Ã’Â½SÃ§ e jVÃ§ Ã’jÂ¡Ã§ Le"
+
+msgid "Save the current project"
+msgstr " arÃ cÃ_ Ã’`ÃÃÃ’SÂ  LÃŠ Ã’jÂ¡Ã§ Le"
+
+msgid "Save the current project?"
+msgstr "arÃ cÃ_ Ã’`ÃÃÃ’SÂ  LÃŠ Ã’jÂ¡Ã§ Le?"
+
+msgid "Save this project"
+msgstr ""
+
+msgid "Scripts"
+msgstr "Â²ÃÃž`Ã§VjÃ§"
+
+msgid "select serial/USB port"
+msgstr "jÃžeÃžAmÃ§/BDHjÃ§aÃž   Ã’`ÃVÃ  QÂ¯_ Le"
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr "ÃŠÃŠD`LeZ QÂ¯_ Le(QÃ’mBaÃ,jÃ•Ã’hÃ^_ LeÃžaÃ LÃžcÃ©Ã _Â½ LeÃžaÃ)"
+
+msgid "Set costume center"
+msgstr ""
+
+msgid "Set language"
+msgstr ""
+
+msgid "Set rotation center"
+msgstr "Ã’eÃÃ’VjÃ§_ Ã’jÃƒÃ§e Ã’jVÃ§ Le"
+
+msgid "Set Single Stepping"
+msgstr ""
+
+msgid "set slider min and max"
+msgstr "jÃ¢ÃBXÃ§e e cÃž_Ã§ HaÃ• cÃÂµ Ã’jV Le"
+
+msgid "Share"
+msgstr ""
+
+msgid "Share this project"
+msgstr ""
+
+msgid "Share This Project Online"
+msgstr ""
+
+msgid "Show Motor Blocks"
+msgstr ""
+
+msgid "show ScratchBoard watcher"
+msgstr "Â²ÃÃQÃ§Ã’aÃXÃ Ã§ JÃ©ÃQÃ§e Ã’]MÃ@"
+
+msgid "Shrink"
+msgstr "Ã’RÃV Le"
+
+msgid "Shrink sprite"
+msgstr "Â¸ÃÃBVÃ§ LÃŠ Ã’RÃV Le"
+
+msgid "Simulation"
+msgstr ""
+
+msgid "Single-step speed?"
+msgstr "Ã’NÃÃ’V-`Ã] N[Ãž"
+
+msgid "slider"
+msgstr "jÃ¢ÃBXÃ§e"
+
+msgid "Slider range:"
+msgstr "jÃ¢ÃBXÃ§e e jÃ‘cÃ"
+
+msgid "Sound quality:"
+msgstr "h~ e LÃ©ÃmÃžÃ§VÃž"
+
+msgid "Sound Recorder"
+msgstr "h~ Ã’eLXÃ e"
+
+msgid "Sounds"
+msgstr "h~"
+
+msgid "Sounds compressed"
+msgstr "h~ LcÃ§Ã’`ÃjÃ§X"
+
+msgid "space"
+msgstr "@Ã•[eÃf"
+
+msgid "Sprite"
+msgstr "Â¸ÃÃBVÃ§"
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr "aNÃ cÃ‹f"
+
+msgid "Stage"
+msgstr "Ã’Â½SÃ§"
+
+msgid "Stage selected:"
+msgstr "Ã’Â½SÃ§  e QÂ¯_ "
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr "Â½ÃcÃ§` D`LeZ(`Ã’c Ã’l[Ã QÂ¯_ Le ,`Ã’e HkÃe L`Ãž Ã’e  Â½ÃcÃ§`  Le)"
+
+msgid "Start green flag scripts"
+msgstr "keÃ e= e  $Ã¢ÃNÃ§ Â²ÃÃž`Ã§VÃ§ AecÃ§Â¡ LeÃžaÃ `ÃBÃœ"
+
+msgid "Start Single Stepping"
+msgstr "Ã’NÃÃ’V `Ã]ÃžA  AecÃ§Â¡ Le"
+
+msgid "stop"
+msgstr "at Le"
+
+msgid "Stop everything"
+msgstr "jaÃŠ LÃžRÃž at Le"
+
+msgid "Stop Single Stepping"
+msgstr "Ã’NÃÃ’V `Ã]ÃžA  at Le"
+
+msgid "Story"
+msgstr ""
+
+msgid "Support Site"
+msgstr ""
+
+msgid "Switch colors"
+msgstr "e= a]fÃ@"
+
+msgid "Switch to full stage"
+msgstr ""
+
+msgid "Switch to presentation mode"
+msgstr ""
+
+msgid "Switch to small stage"
+msgstr ""
+
+msgid "Tags:"
+msgstr "VÃ”ÃNjÃ§"
+
+msgid "Text tool (edit text layer)"
+msgstr "Ã’VÂµÃ§VÃ§ D`LeZ (Ã’VÂµÃ§VÃ§ jÃ•`Ã]_ Le)"
+
+msgid "That variable name is already in use"
+msgstr "Ã’jkÃž Ã’Â¡eÃžHaÃŠmÃ§ e _Ãc ANeÃŠ aÃ”akÃe Ã’kÃB jÃeÃžRÃž"
+
+msgid "that way"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr "$ÃBmÃ§ e _Ãc ANeÃŠ HNÃ§SÃžÂ½Ã§ LeÃŠRÃž ,Ã’j $ÃBm LÃŠ JÂ¡eeÃBVÃ§ LeÃžÃ’a LÃž?"
+
+msgid "thing"
+msgstr "SÃž_Ãži"
+
+msgid "this way"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "true"
+msgstr "WÃžLÃ§"
+
+msgid "Turbo speed"
+msgstr "VÃ Ã’aÃ N[Ãž"
+
+msgid "turn into new sprite"
+msgstr "_Ã‹A Â¸ÃÃBVÃ§ Ã’e a]fÃ@"
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Undo"
+msgstr "@_Ã§XÃŠ"
+
+msgid "up"
+msgstr "D`e"
+
+msgid "up arrow"
+msgstr "D`e [Ã‘e"
+
+msgid "Updating thumbnails"
+msgstr "@`Ã§Ã’XVÃž=Ã§ Ã©Ã§Ã’_m"
+
+msgid "Upload succeeded!"
+msgstr "@`Ã§Ã’mÃXÃ§ j$f ekÃžmÃ"
+
+msgid "Upload to Scratch Server"
+msgstr "Â²ÃÃQÃ§ e jeÃ§Â¡eÃ§ Ã’e @`Ã§Ã’mÃXÃ§ Le"
+
+msgid "Uploading"
+msgstr "@`Ã§Ã’mÃXÃžÃ§="
+
+msgid "Variable name?"
+msgstr "Ã’Â¡eÃžHaÃŠmÃ§ e _Ãc?"
+
+msgid "View on stage"
+msgstr "Ã’Â½SÃ§ Ã’e Ã’]MÃ@"
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr "QÂ£eÃ§"
+
+msgid "world"
+msgstr ""
+
+msgid "Write Multiple Project Summaries"
+msgstr "HLÃ^ÃžL Ã’`ÃÃÃ’SÂ  e jÃeÃhÃ• Ã’mM"
+
+msgid "Write Project Summary"
+msgstr "Ã’`ÃÃÃ’SÂ  e jÃeÃhÃ• Ã’mM"
+
+msgid "Yes"
+msgstr "kÃœ"
+
+msgid "Your project is now online at"
+msgstr "[ÃŠce Ã’`ÃÃÃ’SÂ HÃ’a @_Ã§mÃB_Ã§ Ã’e @RÃž "
+
+msgid "Your Scratch website login name:"
+msgstr "[ÃŠce Â²ÃÃQÃ§ JÃ©HaÃ§jÃBVÃ§ e mNÃ§B_Ã§ _Ãc"
+
+msgid "Zoom in"
+msgstr "SÃŠDcÃ§ B_Ã§"
+
+msgid "Zoom out"
+msgstr "SÃŠDcÃ§  ADVÃ§"
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr "ALXÃžÃ @_Ã§"
+
+msgid "Acoustic Bass"
+msgstr "ALÃ©ÃÂ½ÃžLÃ§ aÃjÃ§"
+
+msgid "Acoustic Bass Drum"
+msgstr "ALÃ©ÃÂ½ÃžLÃ§ aÃjÃ§ XÃcÃ§"
+
+msgid "Acoustic Grand"
+msgstr "ALÃ©ÃÂ½ÃžLÃ§ NÃÃÂ¨Ã§"
+
+msgid "Acoustic Snare"
+msgstr "ALÃ©ÃÂ½ÃžLÃ§ Ã’jÃ°Â¯eÃ§"
+
+msgid "Agogo"
+msgstr "HÃ’NÃÃ’NÃ"
+
+msgid "Alto Sax"
+msgstr "@mÃ§Ã’VÃÃ§ jÃÂµÃ§"
+
+msgid "Applause"
+msgstr "A`Ã¢ÃDSÃ§"
+
+# Î³ÎºÎ¬Î¹Î½Ï„Î±
+# 
+msgid "Bagpipe"
+msgstr "aÃ”ÃNÃ§`ÃB`Ã§"
+
+msgid "Banjo"
+msgstr "aÃ_Ã§Ã’SÃ"
+
+msgid "Baritone Sax"
+msgstr "aÃeÃžÃ’VÃ_Ã§  jÃÂµÃ§"
+
+msgid "Bass Drum 1"
+msgstr "aÃjÃ§ XÃcÃ§ 1"
+
+# Î’Î±ÏÏÎ±Ï…Î»Î¿Ï‚ (Ï€Î±Î»Î±Î¹ÏŒÏ„ÎµÏÎ· Î¿Î½Î¿Î¼Î±ÏƒÎ¯Î±)
+msgid "Bassoon"
+msgstr "aÃj@_Ã§"
+
+msgid "Bird Tweet"
+msgstr "aXÃ  VÃ©BVÃ§"
+
+msgid "Blown Bottle"
+msgstr "Ã’aÃÃ¢_Ã§ aVÃ§mÃ§"
+
+# Î¤Î¼Î®Î¼Î± Ï‡Î¬Î»ÎºÎ¹Î½Ï‰Î½ Ï€Î½ÎµÏ…ÏƒÏ„ÏŽÎ½
+# 
+msgid "Brass Section"
+msgstr "aÃÃjÃ§ Ã’jÂµ_Ã§"
+
+msgid "Breath Noise"
+msgstr "aÃÃž]Ã§ _HSÃ§"
+
+msgid "Bright Acoustic"
+msgstr "aÃÃBVÃ§ ALÃ©ÃÂ½ÃžLÃ§"
+
+msgid "Cabasa"
+msgstr "LÃaÃjÃ"
+
+msgid "Celesta"
+msgstr "Ã’jÃ’mÂ½Ã"
+
+msgid "Cello"
+msgstr "Ã’jÃ’mÃ"
+
+msgid "Chinese Cymbal"
+msgstr "QÃB_ÃžSÃ§ jÃžcÃ©ÃmÃ§"
+
+msgid "Choir Aahs"
+msgstr "Ã’RÃBeÃ§ AkjÃ§"
+
+msgid "Church Organ"
+msgstr "QnÃ  @eNÃ_Ã§"
+
+msgid "Clarinet"
+msgstr "LÃ¢ÃeÃžÃ’_VÃ§"
+
+# ÎžÏ…Î»Î¬ÎºÎ¹Î±
+# 
+msgid "Claves"
+msgstr "Ã’LÃ¢Â¡Ã§jÃ§"
+
+msgid "Clavinet"
+msgstr "Ã’LÃ¢Â¡ÃžÃ’_VÃ§"
+
+msgid "Closed Hi-Hat"
+msgstr "Ã’LÃÃ¢SÃ§XÃ§ kÃH-kÃVÃ§"
+
+msgid "Contrabass"
+msgstr "LÃƒÃÃaÃjÃ§"
+
+msgid "Cowbell"
+msgstr "LÃJÃ’amÃ§"
+
+msgid "Crash Cymbal 1"
+msgstr "LÃÃjÃ§ jÃžcÃ©ÃmÃ§ 1"
+
+msgid "Crash Cymbal 2"
+msgstr "LÃÃjÃ§ jÃžcÃ©ÃmÃ§ 2"
+
+msgid "Distortion Guitar"
+msgstr "XÃžÂ½Ã§ejÃ§_Ã§ NÃž[ÃeÃ§"
+
+msgid "Drawbar Organ"
+msgstr "XÃaÃeÃ§ @eNÃ_Ã§"
+
+msgid "Dulcimer"
+msgstr "XmÃ§jÃžcÃ§e"
+
+msgid "Electric Bass (finger)"
+msgstr "BÃ’mÂÃÃžLÃ§ aÃjÃ§($Ãž=eÃ§)"
+
+msgid "Electric Bass (pick)"
+msgstr "BÃ’mÂÃÃžLÃ§ aÃjÃ§(`ÃžLÃ§)"
+
+msgid "Electric Clean Guitar"
+msgstr "BÃ’mÂÃÃžLÃ§ LÃ¢Ãž_Ã§ NÃž[ÃeÃ§"
+
+msgid "Electric Grand"
+msgstr "BÃ’mÂÃÃžLÃ§ NÃÃÂ¨Ã§Ã§"
+
+msgid "Electric Jazz Guitar"
+msgstr "BÃ’mÂÃÃžLÃ§ SÃSÃ§ NÃž[Ãe"
+
+msgid "Electric Muted Guitar"
+msgstr "BÃ’mÂÃÃžLÃ§  cÃžDÃ’VXÃ§ NÃž[ÃeÃ§"
+
+msgid "Electric Piano 1"
+msgstr "BÃ’mÂÃÃžLÃ§  `ÃžAÃ’_Ã 1"
+
+msgid "Electric Piano 2"
+msgstr "BÃ’mÂÃÃžLÃ§  `ÃžAÃ’_Ã 2"
+
+msgid "Electric Snare"
+msgstr "BÃ’mÂÃÃžLÃ§  Ã’jÃ°Â¯Ã§e"
+
+# Î‘Î³Î³Î»Î¹ÎºÏŒ ÎšÏŒÏÎ½Î¿
+# 
+msgid "English Horn"
+msgstr "B=Ã§mÃžjÃ§ kZÃ Ã§"
+
+msgid "FX 1 (rain)"
+msgstr "H$Ã§HÂµÃ§ 1(Ã’e_Ã§)"
+
+msgid "FX 2 (soundtrack)"
+msgstr "H$Ã§HÂµÃ§ 2 (jÃDÂ¨VÃÃLÃ§)"
+
+msgid "FX 3 (crystal)"
+msgstr "H$Ã§HÂµÃ§ 3 (LÃÃžÂ½ÃmÃ§)"
+
+msgid "FX 4 (atmosphere)"
+msgstr "H$Ã§HÂµÃ§ 4(AVÃ’cÃÃ§Ã‰Ãž@eÃ§)"
+
+msgid "FX 5 (brightness)"
+msgstr "H$Ã§HÂµÃ§ 5 (aÃÃBVÃ§Ã’_jÃ§)"
+
+msgid "FX 6 (goblins)"
+msgstr "H$Ã§HÂµÃ§ 6 (Ã’NÃaÃ¢Ãž_jÃ§)"
+
+msgid "FX 7 (echoes)"
+msgstr "H$Ã§HÂµÃ§ 7 (BÃ’LÃSÃ§)"
+
+msgid "FX 8 (sci-fi)"
+msgstr "H$Ã§HÂµÃ§ 8 (jÃBÃ§-$ÃBÃ§)"
+
+msgid "Fiddle"
+msgstr "$ÃžXÃžÃ§mÃ§"
+
+msgid "Flute"
+msgstr "$Ã¢ÃŠVÃ§"
+
+# Î“Î±Î»Î»Î¹ÎºÏŒ ÎšÏŒÏÎ½Î¿
+# 
+msgid "French Horn"
+msgstr "Ã’$Ãq kZÃ Ã§"
+
+msgid "Fretless Bass"
+msgstr "Ã’$ÃVÃ§Ã’mjÃ§ aÃjÃ§"
+
+# ÎšÎ±Î¼Ï€Î±Î½ÏŒÏ†Ï‰Î½Î¿
+msgid "Glockenspiel"
+msgstr "NÃ¢Ã’L_Ã§jÃ§Â¸ÃHmÃ§"
+
+msgid "Guitar Fret Noise"
+msgstr "NÃž[ÃeÃ§ Ã’$ÃVÃ§ _HSÃ§"
+
+msgid "Guitar Harmonics"
+msgstr "NÃž[ÃeÃ§ kÃeÃ’cÃ_ÃžÂµÃ§"
+
+msgid "Gunshot"
+msgstr "N_Ã§jVÃ§"
+
+msgid "Hand Clap"
+msgstr "kÃÂ¨ LÃ¢Ã`Ã§"
+
+msgid "Harmonica"
+msgstr "kÃeÃ’cÃ_ÃžLÃÃ§"
+
+msgid "Harpsichord"
+msgstr "kÃ§eÂ¿ÃžLXÃ "
+
+msgid "Helicopter"
+msgstr "Ã’kmÃžL`Ã§VeÃ§"
+
+msgid "Hi Bongo"
+msgstr "kÃH Ã’aÃÃ’=Ã"
+
+# Î¥ÏˆÎ¯Ï†Ï‰Î½Î¿ Î“Î¿ÏÎ½Ï„Î¼Ï€Î»Î¿Îº
+# 
+msgid "Hi Wood Block"
+msgstr "kÃH DXÃ§ aÃ¢LÃ§"
+
+msgid "Hi-Mid Tom"
+msgstr "kÃH-cÃžXÃ§ VcÃ§"
+
+msgid "High Agogo"
+msgstr "kÃHH HÃ’NÃÃ’NÃ"
+
+msgid "High Floor Tom"
+msgstr "kÃHH Ã’$ÃÃ¢eÃ§ VcÃ§"
+
+msgid "High Timbale"
+msgstr "kÃHH VÃžÃ’cÃ©mÃ§"
+
+msgid "High Tom"
+msgstr "kÃHH VcÃ§"
+
+msgid "Honky-Tonk"
+msgstr "k*Ãž-V*Ã§"
+
+msgid "Kalimba"
+msgstr "LfÃžcÃ©ÃÃ§"
+
+msgid "Koto"
+msgstr "Ã’LÃÃ’VÃ"
+
+msgid "Lead 1 (square)"
+msgstr "mÃžBXÃ§ 1(Ã’Â²ÃÂ¯Ãe)"
+
+msgid "Lead 2 (sawtooth)"
+msgstr "mÃžBXÃ§ 2(j@VÃŠ§)"
+
+msgid "Lead 3 (calliope)"
+msgstr "mÃžBXÃ§ 3(LÃmÃžJ`Ã§)"
+
+msgid "Lead 4 (chiff)"
+msgstr "mÃžBXÃ§ 4(QÃž$Ã§)"
+
+msgid "Lead 5 (charang)"
+msgstr "mÃžBXÃ§ 5(Re=Ã§)"
+
+msgid "Lead 6 (voice)"
+msgstr "mÃžBXÃ§ 6(Â¡HjÃ§)"
+
+msgid "Lead 7 (fifths)"
+msgstr "mÃžBXÃ§ 7($Ãž$Ã§Ã§)"
+
+msgid "Lead 8 (bass+lead)"
+msgstr "mÃžBXÃ§ 8(aÃjÃ§ AD mBXÃ§)"
+
+msgid "Long Guiro"
+msgstr "m=Ã§ NÃŠBÃ’eÃ"
+
+msgid "Long Whistle"
+msgstr "m=Ã§ kÃžÃ©jÃžmÃ§"
+
+msgid "Low Agogo"
+msgstr "Ã’mÃ @Ã’NÃÃ’NÃ"
+
+msgid "Low Bongo"
+msgstr "Ã’mÃ Ã’aÃÃ’=Ã"
+
+msgid "Low Conga"
+msgstr "Ã’mÃ Ã’LÃÃ’=Ã"
+
+msgid "Low Floor Tom"
+msgstr "Ã’mÃ Ã’$ÃÃ¢e VcÃ§"
+
+msgid "Low Timbale"
+msgstr "Ã’mÃ VÃžÃ’cÃ©mÃ§"
+
+msgid "Low Tom"
+msgstr "Ã’mÃ VcÃ§"
+
+# Î’Î±ÏÏÏ†Ï‰Î½Î¿ Î“Î¿Ï…Î½Ï„Î¼Ï€Î»ÏŒÎº
+# 
+msgid "Low Wood Block"
+msgstr "Ã’mÃ DXÃ§ aÃ¢LÃ§"
+
+msgid "Low-Mid Tom"
+msgstr "Ã’mÃ cÃžXÃ§-VcÃ§"
+
+msgid "Maracas"
+msgstr "cÃeÃLÃjÃ§"
+
+msgid "Marimba"
+msgstr "ceÃžcÃ©Ã"
+
+msgid "Melodic Tom"
+msgstr "Ã’cÃ’mÃXÃžÃ§LÃ§ VcÃ§"
+
+msgid "Music Box"
+msgstr "cÃ”ÃŠSÃžLÃ§ aÂµÃ§"
+
+msgid "Mute Cuica"
+msgstr "cÃžDVÃ§ LÃŠBjÃÃ§"
+
+msgid "Mute Hi Conga"
+msgstr "cÃžDVÃ§ kÃH Ã’LÃ=Ã"
+
+msgid "Mute Triangle"
+msgstr "cÃžDVÃ§ VÃÃÃ’=mÃ§"
+
+# Î¦Î¹Î¼Ï‰Î¼Î­Î½Î· Ï„ÏÎ¿Î¼Ï€Î­Ï„Î±; !!!!!! <---- Î‘Ï…Ï„ÏŒ ÎµÎ¯Î½Î±Î¹ Ï„ÎµÎ»ÎµÎ¯Ï‰Ï‚ Î¬ÏƒÏ‡ÎµÏ„Î¿. Î£Ï…Î¼Ï†Ï‰Î½ÏŽ Î¼Îµ Ï„Î· ÏƒÎ¿Ï…ÏÎ½Ï„Î¯Î½Î± ÏŒÏ€Î¿Î¹Î¿Ï‚ Ï„Î¿ Î­Î³ÏÎ±ÏˆÎµ Î¾Î­ÏÎµÎ¹ Î±Ï€ÏŒ Î¼Î¿Ï…ÏƒÎ¹ÎºÎ®
+# 
+msgid "Muted Trumpet"
+msgstr "cÃžDVÃ§ VÃcÃ§Ã’`VÃ§"
+
+msgid "Nylon String Guitar"
+msgstr "_ÃBm_Ã§ Â½ÃÃž= NÃž[ÃeÃ§"
+
+msgid "Oboe"
+msgstr "JaH"
+
+msgid "Ocarina"
+msgstr "JLÃeÃž_Ã"
+
+msgid "Open Cuica"
+msgstr "JÃ’`_Ã§ LÃŠBjÃÃ§"
+
+msgid "Open Hi Conga"
+msgstr "JÃ’`_Ã§ kÃH Ã’LÃ=Ã"
+
+msgid "Open Hi-Hat"
+msgstr "JÃ’`_Ã§ kÃH-kÃVÃ§"
+
+msgid "Open Triangle"
+msgstr "JÃ’`_Ã§ VÃÃÃ’=mÃ§"
+
+msgid "Orchestra Hit"
+msgstr "@eÃ§Ã’LÂ½ÃÃ kÃžVÃ§"
+
+msgid "Orchestral Strings"
+msgstr "@eÃ§Ã’LÂ½ÃÃmÃ§ Ã§ Â½ÃÃž=jÃ§"
+
+msgid "Overdriven Guitar"
+msgstr "JÂ¡eXÃÃžÃ’Â¡_Ã° NÃž[ÃeÃ§"
+
+msgid "Pad 1 (new age)"
+msgstr "`Ã”ÃXÃ§ 1(_Ã”ÃŠ HSÃ§)"
+
+msgid "Pad 2 (warm)"
+msgstr "`Ã”ÃXÃ§ 2(JÃ©ÃcÃ )"
+
+msgid "Pad 3 (polysynth)"
+msgstr "`Ã”ÃXÃ§ 3(`mÃžjÃžxÃ§)"
+
+msgid "Pad 4 (choir)"
+msgstr "`Ã”ÃXÃ§ 4(LHeÃ§)"
+
+msgid "Pad 5 (bowed)"
+msgstr "`Ã”ÃXÃ§ 5(Ã’aÃXÃ§)"
+
+msgid "Pad 6 (metallic)"
+msgstr "`Ã”ÃXÃ§ 6(Ã’cVÃmÃžLÃ§)"
+
+msgid "Pad 7 (halo)"
+msgstr "`Ã”ÃXÃ§ 7(kÃÃ’mÃ)"
+
+msgid "Pad 8 (sweep)"
+msgstr "`Ã”ÃXÃ§ 8(jÃžÃ©`Ã§)"
+
+msgid "Pan Flute"
+msgstr "`Ã”Ã_Ã§ $Ã¢ÃŠVÃ§"
+
+msgid "Pedal Hi-Hat"
+msgstr "Ã’`XÃmÃ§ kÃH-kÃVÃ§"
+
+msgid "Percussive Organ"
+msgstr "Ã’`eLjÃžÂ¡Ã§ @eNÃ_Ã§"
+
+msgid "Piccolo"
+msgstr "`ÃžÂ£Ã’mÃ"
+
+msgid "Pizzicato Strings"
+msgstr "`ÃžSÃžLÃÃ’VÃÃ§ Ã§ Â½ÃÃž=jÃ§"
+
+msgid "Recorder"
+msgstr "Ã’eLXÃ e"
+
+# better keep untranslated for Greek
+# 
+msgid "Reed Organ"
+msgstr "eÃ‘XÃ§ @eNÃ_Ã§"
+
+msgid "Reverse Cymbal"
+msgstr "eÃžÂ¡Ã j jÃžcÃ©ÃmÃ§"
+
+msgid "Ride Bell"
+msgstr "eÃBXÃ§ Ã’amÃ§"
+
+msgid "Ride Cymbal 1"
+msgstr "eÃBXÃ§ jÃžcÃ©ÃmÃ§ 1"
+
+msgid "Ride Cymbal 2"
+msgstr "eÃBXÃ§ jÃžcÃ©ÃmÃ§ 2"
+
+msgid "Rock Organ"
+msgstr "eLÃ§ @eNÃ_Ã§"
+
+msgid "Seashore"
+msgstr "jÃž Ã’jÃeÃ§"
+
+msgid "Shakuhachi"
+msgstr "hLÃŠkÃRÃž"
+
+msgid "Shamisen"
+msgstr "hcÃžÃ’j_Ã§"
+
+# Shehnai
+msgid "Shanai"
+msgstr "h_ÃB"
+
+msgid "Short Guiro"
+msgstr "jÃ V NÃŠBÃ’eÃ"
+
+msgid "Short Whistle"
+msgstr "jÃ V kÃžÃ©jÃžmÃ§"
+
+msgid "Side Stick"
+msgstr "jÃBXÃ§ Â½ÃžLÃ§"
+
+msgid "Sitar"
+msgstr "jÃž[ÃeÃ§"
+
+msgid "Slap Bass 1"
+msgstr "jÃ¢Ã`Ã§ aÃjÃ§ 1"
+
+msgid "Slap Bass 2"
+msgstr "jÃ¢Ã`Ã§ aÃjÃ§ 2"
+
+msgid "Soprano Sax"
+msgstr "Ã’jÃ`ÃÃÃ’_Ã jÃÂµÃ§"
+
+msgid "Splash Cymbal"
+msgstr "jÃ©`Ã¢Ãj jÃžcÃ©mÃ§"
+
+msgid "Steel Drums"
+msgstr "Â½ÃžmÃ§ XÃcÃ§jÃ§"
+
+msgid "Steel String Guitar"
+msgstr "Â½ÃžmÃ§  Â½ÃÃž= NÃž[ÃeÃ§"
+
+msgid "String Ensemble 1"
+msgstr "Â½ÃÃž=  H_Ã’jcÃ©mÃ§ 1"
+
+msgid "String Ensemble 2"
+msgstr "Â½ÃÃž=  H_Ã’jcÃ©mÃ§ 2"
+
+msgid "Synth Bass 1"
+msgstr "jÃžx aÃjÃ§ 1"
+
+msgid "Synth Bass 2"
+msgstr "jÃžx aÃjÃ§ 2"
+
+msgid "Synth Drum"
+msgstr "jÃžx XÃcÃ§"
+
+msgid "Synth Voice"
+msgstr "jÃžx Â¡HjÃ§"
+
+msgid "SynthBrass 1"
+msgstr "jÃžx aÃÃjÃ§ 1"
+
+msgid "SynthBrass 2"
+msgstr "jÃžx aÃÃjÃ§ 2"
+
+msgid "SynthStrings 1"
+msgstr "jÃžxÂ½ÃÃž=Ã§j 1"
+
+msgid "SynthStrings 2"
+msgstr "jÃžxÂ½ÃÃž=Ã§j 2"
+
+msgid "Taiko Drum"
+msgstr "VÃBÃ’LÃ XÃcÃ§"
+
+msgid "Tambourine"
+msgstr "VÃcÃ§Ã’aÃeÃB_Ã§"
+
+msgid "Tango Accordion"
+msgstr "VÃÃ’=Ã ALXÃžÃ @_Ã§"
+
+msgid "Telephone Ring"
+msgstr "Ã’VmÃžÃ’$Ã_Ã§ eÃž=Ã§"
+
+msgid "Tenor Sax"
+msgstr "Ã’V_eÃ§ jÃÂµÃ§"
+
+# Î¤Î¹Î¼Ï€Î¬Î½Î¹Î±
+msgid "Timpani"
+msgstr "VÃžcÃ§`Ã_Ãž"
+
+msgid "Tinkle Bell"
+msgstr "VÃž*mÃ§ Ã’amÃ§"
+
+msgid "Tremolo Strings"
+msgstr "Ã’VÃÃ’cÃÃ’mÃ Â½ÃÃž=jÃ§"
+
+msgid "Trombone"
+msgstr "Ã’VÃÃÃ’cÃÃ©_Ã§"
+
+msgid "Trumpet"
+msgstr "VÃcÃ§Ã’`VÃ§"
+
+msgid "Tuba"
+msgstr "VÃŠaÃ"
+
+msgid "Tubular Bells"
+msgstr "VÃŠaÃŠmÃeÃ§ Ã’amÃ§jÃ§"
+
+msgid "Vibraphone"
+msgstr "Â¡ÃžaÃÃ Ã’$Ã_Ã§"
+
+# Î•Î¯Î½Î±Î¹ ÎºÏÎ¿Ï…ÏƒÏ„ÏŒ ÏŒÏÎ³Î±Î½Î¿ Î²Î». http://en.wikipedia.org/wiki/Vibraslap
+msgid "Vibraslap"
+msgstr "Â¡ÃžaÃÃ jÃ¢Ã`Ã§"
+
+msgid "Viola"
+msgstr "Â¡ÃJmÃ"
+
+msgid "Violin"
+msgstr "Â¡ÃJmÃž_Ã§"
+
+msgid "Voice Oohs"
+msgstr "Â¡HjÃ§ JÃ’kÃSÃ§"
+
+msgid "Whistle"
+msgstr "kÃžÃ©jÃžmÃ§"
+
+# Î“Î¿ÏÎ½Ï„Î¼Ï€Î»Î¿Îº
+# 
+msgid "Woodblock"
+msgstr "DXÃ§ aÃ¢LÃ§"
+
+msgid "Xylophone"
+msgstr "SÃBÃ’mÃÃ’$Ã_Ã§"
+
