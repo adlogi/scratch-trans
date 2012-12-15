@@ -55,9 +55,6 @@
         <source>backdrop name</source>
         <target state="translated"></target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="nehacelik">
-          <target>Arkaplan adı</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast">
         <source>broadcast %m.broadcast</source>
@@ -525,6 +522,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="tilt">
         <source>tilt</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nehacelik">
+          <target>eğim</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="timer">
         <source>timer</source>

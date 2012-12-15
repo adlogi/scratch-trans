@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-11-30 10:57+0200\n"
-"PO-Revision-Date: 2012-12-02 20:45+0200\n"
+"PO-Revision-Date: 2012-12-11 14:37+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -48,7 +48,7 @@ msgstr "pregunta %s i espera"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "fons #"
+msgstr "fons nr"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
@@ -98,7 +98,7 @@ msgstr "treu els efectes gràfics"
 
 # Aquest bloc s'executa al crear una copia d'un personatge, per tant cal deixar clar que és l'inici de les accions nomes realitzar la copia
 msgid "clone startup"
-msgstr "En crear còpia"
+msgstr "Quan creï la còpia"
 
 msgid "color %c is touching %c?"
 msgstr "color %c sobre %c?"
@@ -107,10 +107,10 @@ msgid "Control"
 msgstr "Control"
 
 msgid "costume #"
-msgstr "vestit #"
+msgstr "vestit nr"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "crea còpia de %m.spriteOnly"
+msgstr "crea una còpia de %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "%m.timeAndDate actual"
@@ -153,25 +153,25 @@ msgid "glide %n secs to x:%n y:%n"
 msgstr "llisca fins a x:%n y:%n en %n segons"
 
 msgid "go back %n layers"
-msgstr "envia darrera %n capes"
+msgstr "vés %n capes darrera"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "vés a %m.spriteOrMouse"
 
 msgid "go to front"
-msgstr "envia endavant"
+msgstr "vés al front"
 
 msgid "go to x:%n y:%n"
 msgstr "vés a x:%n y:%n"
 
 msgid "hide"
-msgstr "amaga"
+msgstr "amaga't"
 
 msgid "hide all sprites"
 msgstr "amaga tots els personatges"
 
 msgid "hide monitor %m.varOrList"
-msgstr "amaga el control %m.varOrList"
+msgstr "amaga la variable %m.varOrList"
 
 msgid "if %b"
 msgstr "si %b"
@@ -230,7 +230,7 @@ msgid "motor power %n"
 msgstr "potència del motor a %n"
 
 msgid "mouse down?"
-msgstr "ratolí premut?"
+msgstr "ratolí clicat?"
 
 msgid "mouse x"
 msgstr "ratolí x"
@@ -286,7 +286,7 @@ msgstr "apunta cap a %m.spriteOrMouse"
 
 # afegir vegades al final es redundant, crec que afegim masa info
 msgid "repeat %n"
-msgstr "repeteix %n"
+msgstr "repeteix %n vegades"
 
 msgid "repeat until %b"
 msgstr "repeteix fins %b"
@@ -352,16 +352,16 @@ msgid "set volume to %n%"
 msgstr "fixa el volum a %n"
 
 msgid "set x to %n"
-msgstr "fixa x a %n"
+msgstr "assigna el valor %n a x"
 
 msgid "set y to %n"
-msgstr "fixa y a %n"
+msgstr "assigna el valor %n a y"
 
 msgid "show"
-msgstr "mostra"
+msgstr "mostra't"
 
 msgid "show monitor %m.varOrList"
-msgstr "mostra el control %m.varOrList"
+msgstr "mostra la variable %m.varOrList"
 
 msgid "size"
 msgstr "mida"
@@ -380,11 +380,11 @@ msgstr "atura tots els sons"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "canvia fons a %m.backdrop"
+msgstr "canvia el fons a %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "canvia fons a %m.backdrop i espera"
+msgstr "canvia el fons a %m.backdrop i espera"
 
 msgid "switch costume to %m.costume"
 msgstr "canvia el vestit a %m.costume"
@@ -400,7 +400,7 @@ msgstr "pensa %s durant %n segons"
 
 # Aquesta cal revisar-la amb el funcionament real, no se si cal traduir-la com "falta" de les màquines de futboli
 msgid "tilt"
-msgstr "inclina"
+msgstr "inclinació"
 
 msgid "timer"
 msgstr "cronòmetre"
@@ -424,7 +424,7 @@ msgid "user id"
 msgstr "identificació d'usuari"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "vídeo %m.videoMotionType a %m.stageOrThis"
+msgstr "%m.videoMotionType de vídeo a %m.stageOrThis"
 
 msgid "volume"
 msgstr "volum"
@@ -436,20 +436,20 @@ msgid "wait until %b"
 msgstr "espera fins %b"
 
 msgid "when %m.key key pressed"
-msgstr "en prémer tecla %m.key"
+msgstr "quan la tecla %m.key es premi"
 
 msgid "when @greenFlag clicked"
-msgstr "en prémer @greenFlag"
+msgstr "quan la @greenFlag es premi"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "quan el fons canvia a %m.backdrop"
+msgstr "quan l'escenari canviï al fons %m.backdrop"
 
 msgid "when I am clicked"
-msgstr "en preme'l"
+msgstr "quan em cliquin"
 
 msgid "when I receive %m.broadcast"
-msgstr "en rebre %m.broadcast"
+msgstr "quan rebi %m.broadcast"
 
 msgid "x position"
 msgstr "posició x"

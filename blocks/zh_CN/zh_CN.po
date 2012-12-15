@@ -1,3 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-16 01:15+0200\n"
+"PO-Revision-Date: 2012-12-13 05:37+0200\n"
+"Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
 msgid "Language-Name"
 msgstr "简体中文"
 
@@ -32,14 +47,12 @@ msgid "ask %s and wait"
 msgstr "询问 %s 并等待"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "背景编号"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop name"
-msgstr ""
+msgstr "背景名称"
 
 msgid "broadcast %m.broadcast"
 msgstr "广播 %m.broadcast"
@@ -84,7 +97,7 @@ msgid "clear graphic effects"
 msgstr "清除所有图形特效"
 
 msgid "clone startup"
-msgstr ""
+msgstr "克隆设置"
 
 msgid "color %c is touching %c?"
 msgstr "颜色 %c 碰到了 颜色 %c?"
@@ -96,28 +109,28 @@ msgid "costume #"
 msgstr "造型编号"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "创建%m.spriteOnly的克隆"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "当前时间 %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "数据"
 
 msgid "define"
-msgstr ""
+msgstr "定义"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "删除链表%m.list的第 %d.listDeleteItem 项"
+msgstr "删除 %m.list 的 %d.listDeleteItem"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "删除这个克隆"
 
 msgid "direction"
 msgstr "方向"
 
 msgid "distance"
-msgstr ""
+msgstr "距离"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "到 %m.spriteOrMouse 的距离"
@@ -126,7 +139,7 @@ msgid "else"
 msgstr "否则"
 
 msgid "Events"
-msgstr ""
+msgstr "事件"
 
 msgid "forever"
 msgstr "重复执行"
@@ -153,10 +166,11 @@ msgid "hide"
 msgstr "隐藏"
 
 msgid "hide all sprites"
-msgstr ""
+msgstr "隐藏所有角色"
 
+#, fuzzy
 msgid "hide monitor %m.varOrList"
-msgstr ""
+msgstr "隐藏显示器 %m.varOrList"
 
 msgid "if %b"
 msgstr "如果 %b"
@@ -192,7 +206,7 @@ msgid "loudness"
 msgstr "音量值"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "更多模块"
 
 msgid "Motion"
 msgstr "动作"
@@ -225,7 +239,6 @@ msgid "move %n steps"
 msgstr "移动 %n 步"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "下一个背景"
 
@@ -292,8 +305,9 @@ msgstr "说 %s"
 msgid "say %s for %n secs"
 msgstr "说 %s %n 秒"
 
+#, fuzzy
 msgid "Scratch days"
-msgstr ""
+msgstr "Scratch天数"
 
 msgid "Sensing"
 msgstr "侦测"
@@ -329,7 +343,7 @@ msgid "set tempo to %n bpm"
 msgstr "将节奏设定为 %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "将视频透明度设置为 %n%"
 
 msgid "set volume to %n%"
 msgstr "将音量设定为 %n"
@@ -343,8 +357,9 @@ msgstr "将y坐标设定为 %n"
 msgid "show"
 msgstr "显示"
 
+#, fuzzy
 msgid "show monitor %m.varOrList"
-msgstr ""
+msgstr "显示显示器 %m.varOrList"
 
 msgid "size"
 msgstr "大小"
@@ -356,23 +371,21 @@ msgid "stamp"
 msgstr "图章"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "停止 %m.stop"
 
 msgid "stop all sounds"
 msgstr "停止所有声音"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "将背景转换成%m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "将背景转换成 %m.backdrop并等待"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "将造型转换成%m.costume"
 
 msgid "tempo"
 msgstr "节奏"
@@ -384,7 +397,7 @@ msgid "think %s for %n secs"
 msgstr "思考 %s %n 秒"
 
 msgid "tilt"
-msgstr ""
+msgstr "倾斜"
 
 msgid "timer"
 msgstr "计时器"
@@ -396,19 +409,20 @@ msgid "touching color %c?"
 msgstr "碰到颜色 %c"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "旋转 @turnLeft %n 度"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "旋转 @turnRight %n 度"
 
 msgid "turn video %m.videoState"
 msgstr ""
 
 msgid "user id"
-msgstr ""
+msgstr "用户名"
 
+#, fuzzy
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "录制 %m.videoMotionType 在 %m.stageOrThis"
 
 msgid "volume"
 msgstr "音量"
@@ -426,19 +440,17 @@ msgid "when @greenFlag clicked"
 msgstr "当 @greenFlag 被点击"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "当背景转换成  %m.backdrop"
 
 msgid "when I am clicked"
-msgstr ""
+msgstr "点击我时"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "当接收到 %m.broadcast"
 
 msgid "x position"
 msgstr "x座标"
 
 msgid "y position"
 msgstr "y座标"
-
