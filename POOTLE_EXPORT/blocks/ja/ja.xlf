@@ -46,18 +46,15 @@
         <source>ask %s and wait</source>
         <target state="translated">%s と聞いて待つ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="backdrop #">
+      <trans-unit xml:space="preserve" approved="yes" id="backdrop #">
         <source>backdrop #</source>
-        <target state="needs-translation">背景の番号</target>
+        <target state="translated">背景の番号</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop name">
         <source>backdrop name</source>
-        <target state="translated"></target>
+        <target state="translated">背景の名前</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="abee">
-          <target>背景の名前</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast">
         <source>broadcast %m.broadcast</source>
@@ -117,10 +114,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clone startup">
         <source>clone startup</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="abee">
-          <target>クローンを開始</target>
-        </alt-trans>
+        <target state="translated">クローンされたとき</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color %c is touching %c?">
         <source>color %c is touching %c?</source>
@@ -136,19 +130,19 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="create clone of %m.spriteOnly">
         <source>create clone of %m.spriteOnly</source>
-        <target state="translated"></target>
+        <target state="translated">%m.spriteOnly のクローンを作る</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="current %m.timeAndDate">
         <source>current %m.timeAndDate</source>
-        <target state="translated"></target>
+        <target state="translated">現在の %m.timeAndDate</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Data">
         <source>Data</source>
-        <target state="translated"></target>
+        <target state="translated">データ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="define">
         <source>define</source>
-        <target state="translated"></target>
+        <target state="translated">定義</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete %d.listDeleteItem of %m.list">
         <source>delete %d.listDeleteItem of %m.list</source>
@@ -156,7 +150,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete this clone">
         <source>delete this clone</source>
-        <target state="translated"></target>
+        <target state="translated">このクローンを削除</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="direction">
         <source>direction</source>
@@ -164,7 +158,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance">
         <source>distance</source>
-        <target state="translated"></target>
+        <target state="translated">距離</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance to %m.spriteOrMouse">
         <source>distance to %m.spriteOrMouse</source>
@@ -176,7 +170,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Events">
         <source>Events</source>
-        <target state="translated"></target>
+        <target state="translated">イベント</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="forever">
         <source>forever</source>
@@ -212,11 +206,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide all sprites">
         <source>hide all sprites</source>
-        <target state="translated"></target>
+        <target state="translated">すべてのスプライトを隠す</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide monitor %m.varOrList">
         <source>hide monitor %m.varOrList</source>
-        <target state="translated"></target>
+        <target state="translated">%m.varOrList のモニターを隠す</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if %b">
         <source>if %b</source>
@@ -264,10 +258,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="More Blocks">
         <source>More Blocks</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="abee">
-          <target>より多くのブロック</target>
-        </alt-trans>
+        <target state="translated">その他</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Motion">
         <source>Motion</source>
@@ -309,9 +300,9 @@
         <source>move %n steps</source>
         <target state="translated">%n 歩動かす</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="next backdrop">
+      <trans-unit xml:space="preserve" approved="yes" id="next backdrop">
         <source>next backdrop</source>
-        <target state="needs-translation">次の背景にする</target>
+        <target state="translated">次の背景にする</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="next costume">
@@ -400,7 +391,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Scratch days">
         <source>Scratch days</source>
-        <target state="translated"></target>
+        <target state="translated">スクラッチデー</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sensing">
         <source>Sensing</source>
@@ -448,7 +439,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set video transparency to %n%">
         <source>set video transparency to %n%</source>
-        <target state="translated"></target>
+        <target state="translated">ビデオの透明度を %n% にする</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
         <source>set volume to %n%</source>
@@ -468,7 +459,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show monitor %m.varOrList">
         <source>show monitor %m.varOrList</source>
-        <target state="translated"></target>
+        <target state="translated">%m.varOrList のモニターを表示する</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="size">
         <source>size</source>
@@ -484,7 +475,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop %m.stop">
         <source>stop %m.stop</source>
-        <target state="translated"></target>
+        <target state="translated">%m.stop を止める</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
         <source>stop all sounds</source>
@@ -492,17 +483,17 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop">
         <source>switch backdrop to %m.backdrop</source>
-        <target state="translated"></target>
+        <target state="translated">背景を %m.backdrop にする</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop and wait">
         <source>switch backdrop to %m.backdrop and wait</source>
-        <target state="translated"></target>
+        <target state="translated">背景を %m.backdrop にして待つ</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch costume to %m.costume">
         <source>switch costume to %m.costume</source>
-        <target state="translated"></target>
+        <target state="translated">コスチュームを %m.costume にする</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tempo">
         <source>tempo</source>
@@ -518,7 +509,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tilt">
         <source>tilt</source>
-        <target state="translated"></target>
+        <target state="translated">傾き</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="timer">
         <source>timer</source>
@@ -534,23 +525,23 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnLeft %n degrees">
         <source>turn @turnLeft %n degrees</source>
-        <target state="translated"></target>
+        <target state="translated">@turnLeft %n 度回す</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnRight %n degrees">
         <source>turn @turnRight %n degrees</source>
-        <target state="translated"></target>
+        <target state="translated">@turnRight %n 度回す</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn video %m.videoState">
         <source>turn video %m.videoState</source>
-        <target state="translated"></target>
+        <target state="translated">ビデオを %m.videoState にする</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="user id">
         <source>user id</source>
-        <target state="translated"></target>
+        <target state="translated">ユーザーid</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
         <source>video %m.videoMotionType on %m.stageOrThis</source>
-        <target state="translated"></target>
+        <target state="translated">%m.videoMotionType のビデオを %m.stageOrThis に表示する</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="volume">
         <source>volume</source>
@@ -574,16 +565,16 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when backdrop switches to %m.backdrop">
         <source>when backdrop switches to %m.backdrop</source>
-        <target state="translated"></target>
+        <target state="translated">背景が %m.backdrop になったとき</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I am clicked">
         <source>when I am clicked</source>
-        <target state="translated"></target>
+        <target state="translated">私がクリックされたとき</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I receive %m.broadcast">
         <source>when I receive %m.broadcast</source>
-        <target state="translated"></target>
+        <target state="translated">私が %m.broadcast を受け取ったとき</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="x position">
         <source>x position</source>

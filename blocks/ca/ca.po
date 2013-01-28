@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-11-30 10:57+0200\n"
-"PO-Revision-Date: 2012-12-11 14:37+0200\n"
+"PO-Revision-Date: 2012-12-29 14:58+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -98,7 +98,7 @@ msgstr "treu els efectes gràfics"
 
 # Aquest bloc s'executa al crear una copia d'un personatge, per tant cal deixar clar que és l'inici de les accions nomes realitzar la copia
 msgid "clone startup"
-msgstr "Quan creï la còpia"
+msgstr "quan es creï la còpia"
 
 msgid "color %c is touching %c?"
 msgstr "color %c sobre %c?"
@@ -270,7 +270,7 @@ msgid "play drum %d.drum for %n beats"
 msgstr "toca el tambor %d.drum durant %n pulsacions"
 
 msgid "play note %n for %n beats"
-msgstr "toca la nota %d.note durant %n pulsacions"
+msgstr "toca la nota %n durant %n pulsacions"
 
 msgid "play sound %m.sound"
 msgstr "toca el so %m.sound"
@@ -316,13 +316,13 @@ msgid "Sensing"
 msgstr "Sensors"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "sensor %m.booleanSensor activat?"
+msgstr "sensor %m.booleanSensor ?"
 
 msgid "set %m.effect effect to %n"
 msgstr "fixa l'efecte %m.effect a %n"
 
 msgid "set %m.var to %s"
-msgstr "assigna el valor %m.var a %n"
+msgstr "assigna el valor %n a %m.var"
 
 msgid "set instrument to %d.instrument"
 msgstr "fixa l'instrument a %d.instrument"
@@ -331,7 +331,7 @@ msgid "set pen color to %c"
 msgstr "fixa el color del llapis a %c"
 
 msgid "set pen color to %n"
-msgstr "fixa el color del llapis a %c"
+msgstr "fixa el color del llapis a %n"
 
 msgid "set pen shade to %n"
 msgstr "fixa la intensitat del llapis a %n"

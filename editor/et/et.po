@@ -1,23 +1,38 @@
-msgid "A connected"
+msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-28 15:56+0200\n"
+"PO-Revision-Date: 2013-01-28 16:58+0200\n"
+"Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "A connected"
+msgstr "A ühendatud"
 
 msgid "abs"
 msgstr "abs"
 
 msgid "acos"
-msgstr ""
+msgstr "acos"
 
 msgid "Add a boolean input:"
-msgstr ""
+msgstr "lisa loogikaparameeter"
 
 msgid "Add a number input:"
-msgstr ""
+msgstr "lisa arvparameeter"
 
 msgid "Add a string input:"
-msgstr ""
+msgstr "lisa stringparameeter"
 
 msgid "Add label text:"
-msgstr ""
+msgstr "lisa parameetri nimi"
 
 msgid "all"
 msgstr "kõik"
@@ -26,37 +41,37 @@ msgid "any"
 msgstr "mõni"
 
 msgid "asin"
-msgstr ""
+msgstr "asin"
 
 msgid "atan"
-msgstr ""
+msgstr "atan"
 
 msgid "B connected"
-msgstr ""
+msgstr "B on ühndatud"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "taust #"
 
 msgid "backdrop name"
-msgstr ""
+msgstr "tausta nimi"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "taust 1"
 
 msgid "Backpack"
-msgstr ""
+msgstr "seljakott"
 
 msgid "Bass"
-msgstr ""
+msgstr "Bass"
 
 msgid "Bassoon"
 msgstr "Fagott"
 
 msgid "bottom-left"
-msgstr ""
+msgstr "all vasakul"
 
 msgid "bottom-right"
-msgstr ""
+msgstr "all paremal"
 
 msgid "brightness"
 msgstr "heledus"
@@ -65,7 +80,7 @@ msgid "button pressed"
 msgstr "nupp vajutatud"
 
 msgid "C connected"
-msgstr ""
+msgstr "C ühendatud"
 
 msgid "Cabasa"
 msgstr "Cabasa"
@@ -74,16 +89,16 @@ msgid "Camera"
 msgstr "Kaamera"
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Ei saa kustutada"
 
 msgid "ceiling"
-msgstr ""
+msgstr "lagi"
 
 msgid "Cello"
 msgstr "Tšello"
 
 msgid "Choir"
-msgstr ""
+msgstr "koor"
 
 msgid "Clarinet"
 msgstr "Klarnet"
@@ -92,7 +107,7 @@ msgid "Claves"
 msgstr "Klaves"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "kusuta saatjad/saajad"
 
 msgid "Closed Hi-Hat"
 msgstr "Suletud Hi-Hat"
@@ -101,43 +116,43 @@ msgid "color"
 msgstr "värv"
 
 msgid "copy"
-msgstr "Kopeeri"
+msgstr "kopeeri"
 
 msgid "cos"
-msgstr ""
+msgstr "cos"
 
 msgid "costume #"
-msgstr ""
+msgstr "kostüüm #"
 
 msgid "costume name"
-msgstr ""
+msgstr "kostüümi nimi"
 
 msgid "costume1"
-msgstr ""
+msgstr "kostüüm 1"
 
 msgid "Cowbell"
 msgstr "Karjakell"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Crash Cymbal"
 
 msgid "cut"
-msgstr ""
+msgstr "lõika"
 
 msgid "D connected"
-msgstr ""
+msgstr "D ühendatud"
 
 msgid "date"
-msgstr ""
+msgstr "kuupäev"
 
 msgid "day of week"
-msgstr ""
+msgstr "nädalapäev"
 
 msgid "delete"
 msgstr "eemalda"
 
 msgid "direction"
-msgstr ""
+msgstr "suund"
 
 msgid "down"
 msgstr "alla"
@@ -152,40 +167,40 @@ msgid "Duplicate"
 msgstr "paljunda"
 
 msgid "e ^"
-msgstr ""
+msgstr "e ^"
 
 msgid "edge"
 msgstr "serv"
 
 msgid "edit"
-msgstr "Redigeeri"
+msgstr "redigeeri"
 
 msgid "Edit"
 msgstr "Redigeeri"
 
 msgid "Effects"
-msgstr ""
+msgstr "efektid"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "elektrikitarr"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "elektriklaver"
 
 msgid "fade in"
-msgstr ""
+msgstr "tuhmumine sisse"
 
 msgid "fade out"
-msgstr ""
+msgstr "tuhmuine välja"
 
 msgid "fisheye"
 msgstr "kalasilm"
 
 msgid "floor"
-msgstr ""
+msgstr "põrand"
 
 msgid "Floor Tom"
-msgstr ""
+msgstr "Floor Tom"
 
 msgid "Flute"
 msgstr "Flööt"
@@ -194,31 +209,31 @@ msgid "ghost"
 msgstr "kummitus"
 
 msgid "Guitar"
-msgstr ""
+msgstr "gitar"
 
 msgid "Hand Clap"
-msgstr "Käteplagin"
+msgstr "käteplagin"
 
 msgid "High Bongo"
-msgstr ""
+msgstr "High Bongo"
 
 msgid "High Tom"
 msgstr "High Tom"
 
 msgid "High Wood Block"
-msgstr ""
+msgstr "High Wood Block"
 
 msgid "hour"
-msgstr ""
+msgstr "tund"
 
 msgid "Import"
 msgstr "impordi"
 
 msgid "int"
-msgstr ""
+msgstr "int"
 
 msgid "Kick Drum"
-msgstr ""
+msgstr "Kick Drum"
 
 msgid "last"
 msgstr "viimane"
@@ -227,28 +242,28 @@ msgid "left"
 msgstr "vasak"
 
 msgid "left arrow"
-msgstr "vasak nool"
+msgstr "vasaknool"
 
 msgid "Library"
-msgstr ""
+msgstr "teek"
 
 msgid "light"
 msgstr "heledus"
 
 msgid "ln"
-msgstr ""
+msgstr "sees"
 
 msgid "log"
-msgstr ""
+msgstr "lop"
 
 msgid "login"
-msgstr ""
+msgstr "logi sisse"
 
 msgid "Long Guiro"
 msgstr "Long Guiro"
 
 msgid "louder"
-msgstr ""
+msgstr "valjemini"
 
 msgid "Low Bongo"
 msgstr "Low Bongo"
@@ -269,19 +284,19 @@ msgid "Marimba"
 msgstr "Marimba"
 
 msgid "message1"
-msgstr ""
+msgstr "teade 1"
 
 msgid "Mid Tom"
-msgstr ""
+msgstr "Mid Tom"
 
 msgid "middle"
-msgstr ""
+msgstr "keskpunkt"
 
 msgid "minute"
-msgstr ""
+msgstr "minut"
 
 msgid "month"
-msgstr ""
+msgstr "kuu"
 
 msgid "More"
 msgstr "rohkem"
@@ -290,7 +305,7 @@ msgid "mosaic"
 msgstr "mosaiik"
 
 msgid "motion"
-msgstr ""
+msgstr "liikumine"
 
 msgid "mouse-pointer"
 msgstr "hiire kursor"
@@ -299,40 +314,40 @@ msgid "Music Box"
 msgstr "Music Box"
 
 msgid "Mute High Conga"
-msgstr ""
+msgstr "Mute High Conga"
 
 msgid "Mute Triangle"
 msgstr "Sordiin triangel"
 
 msgid "name"
-msgstr ""
+msgstr "nimi"
 
 msgid "New"
 msgstr "uus"
 
 msgid "New backdrop"
-msgstr ""
+msgstr "uus taust"
 
 msgid "New costume"
-msgstr ""
+msgstr "uus kostüüm"
 
 msgid "new message..."
-msgstr ""
+msgstr "uus teade"
 
 msgid "New sound"
-msgstr ""
+msgstr "uus heli"
 
 msgid "New sprite:"
 msgstr "Uus sprait:"
 
 msgid "off"
-msgstr "Väljas"
+msgstr "väljas"
 
 msgid "on"
-msgstr "Sees"
+msgstr "sees"
 
 msgid "on-flipped"
-msgstr ""
+msgstr "pööratud"
 
 msgid "Open Cuica"
 msgstr "Open Cuica"
@@ -341,37 +356,37 @@ msgid "Open Hi-Hat"
 msgstr "Open Hi-Hat"
 
 msgid "Open High Conga"
-msgstr ""
+msgstr "Open High Conga"
 
 msgid "Open Triangle"
 msgstr "Avatud triangel"
 
 msgid "Organ"
-msgstr ""
+msgstr "orel"
 
 msgid "other scripts in stage"
-msgstr ""
+msgstr "teised skriptid tulekul"
 
 msgid "Paint"
 msgstr "Joonista"
 
 msgid "paste"
-msgstr ""
+msgstr "kleebi"
 
 msgid "Pedal Hi-Hat"
 msgstr "Pedal Hi-Hat"
 
 msgid "photo1"
-msgstr ""
+msgstr "foto 1"
 
 msgid "Piano"
-msgstr ""
+msgstr "klaver"
 
 msgid "pixelate"
 msgstr "pikselda"
 
 msgid "Pizzicato"
-msgstr ""
+msgstr "Pizzicato"
 
 msgid "pop"
 msgstr "pop"
@@ -380,25 +395,25 @@ msgid "Record"
 msgstr "lindista"
 
 msgid "recording1"
-msgstr ""
+msgstr "lindistus 1"
 
 msgid "redo"
-msgstr "Tee uuesti"
+msgstr "tee uuesti"
 
 msgid "Remix"
-msgstr ""
+msgstr "remiksi"
 
 msgid "resistance-A"
-msgstr ""
+msgstr "takistus-A"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "takistus-B"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "takistus-C"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "takistus-D"
 
 msgid "reverse"
 msgstr "muuda suunda"
@@ -407,58 +422,58 @@ msgid "right"
 msgstr "parem"
 
 msgid "right arrow"
-msgstr "parem nool"
+msgstr "paremnool"
 
 msgid "Saxophone"
-msgstr ""
+msgstr "saksafon"
 
 msgid "say"
-msgstr ""
+msgstr "ütle"
 
 msgid "second"
-msgstr ""
+msgstr "sekund"
 
 msgid "See project page"
-msgstr ""
+msgstr "Vaata projekt lehte"
 
 msgid "select all"
-msgstr ""
+msgstr "vali kõik"
 
 msgid "Short Guiro"
 msgstr "Short Guiro"
 
 msgid "shout"
-msgstr ""
+msgstr "karjuma"
 
 msgid "show receivers"
-msgstr ""
+msgstr "näita vastuvõtjaid"
 
 msgid "show senders"
-msgstr ""
+msgstr "näita saatjaid"
 
 msgid "Side Stick"
 msgstr "Side Stick"
 
 msgid "silence"
-msgstr ""
+msgstr "vaikus"
 
 msgid "sin"
-msgstr ""
+msgstr "sin"
 
 msgid "size"
-msgstr ""
+msgstr "surus"
 
 msgid "slider"
 msgstr "liugur"
 
 msgid "Snare Drum"
-msgstr ""
+msgstr "Snare Drum"
 
 msgid "softer"
-msgstr ""
+msgstr "pehmem"
 
 msgid "sound"
-msgstr ""
+msgstr "helind"
 
 msgid "space"
 msgstr "tühik"
@@ -473,49 +488,49 @@ msgid "Stage"
 msgstr "Lava"
 
 msgid "Steel Drum"
-msgstr ""
+msgstr "Steel Drum"
 
 msgid "Synth Lead"
-msgstr ""
+msgstr "Synth Lead"
 
 msgid "Synth Pad"
-msgstr ""
+msgstr "Synth Pad"
 
 msgid "Tambourine"
 msgstr "Tamburiin"
 
 msgid "tan"
-msgstr ""
+msgstr "tan"
 
 msgid "that way"
 msgstr "toda viisi"
 
 msgid "think"
-msgstr ""
+msgstr "mõtle"
 
 msgid "this script"
-msgstr ""
+msgstr "see skript"
 
 msgid "this way"
 msgstr "seda viisi"
 
 msgid "Tips"
-msgstr ""
+msgstr "Selgitused"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr ""
+msgstr "Enne ploki kirjelduse eemaldamist, eemalda kõik ploki kasutused"
 
 msgid "top-left"
-msgstr ""
+msgstr "üleval vasakul"
 
 msgid "top-right"
-msgstr ""
+msgstr "üleval paremal"
 
 msgid "Trombone"
 msgstr "Tromboon"
 
 msgid "undo"
-msgstr "Tagasivõtt"
+msgstr "tagasivõtt"
 
 msgid "up"
 msgstr "üles"
@@ -530,23 +545,22 @@ msgid "Vibraslap"
 msgstr "Põskvibrafon"
 
 msgid "volume"
-msgstr ""
+msgstr "maht"
 
 msgid "whirl"
 msgstr "keere"
 
 msgid "whisper"
-msgstr ""
+msgstr "sosin"
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Wooden Flute"
 
 msgid "x position"
-msgstr ""
+msgstr "x"
 
 msgid "y position"
-msgstr ""
+msgstr "y"
 
 msgid "year"
-msgstr ""
-
+msgstr "aasta"

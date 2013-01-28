@@ -1,23 +1,39 @@
-msgid "A connected"
+msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-28 17:31+0200\n"
+"PO-Revision-Date: 2012-12-31 15:30+0200\n"
+"Last-Translator: Marek <faramir@mat.umk.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "A connected"
+msgstr "A podłączone"
 
 msgid "abs"
 msgstr "wartość bezwzględna"
 
 msgid "acos"
-msgstr ""
+msgstr "arccos"
 
 msgid "Add a boolean input:"
-msgstr ""
+msgstr "Dodaj parametr logiczny:"
 
 msgid "Add a number input:"
-msgstr ""
+msgstr "Dodaj parametr liczbowy:"
 
 msgid "Add a string input:"
-msgstr ""
+msgstr "Dodaj parametr tekstowy:"
 
 msgid "Add label text:"
-msgstr ""
+msgstr "Dodaj etykietę tekstową:"
 
 msgid "all"
 msgstr "wszystko"
@@ -26,37 +42,37 @@ msgid "any"
 msgstr "dowolny"
 
 msgid "asin"
-msgstr ""
+msgstr "arcsin"
 
 msgid "atan"
-msgstr ""
+msgstr "arctan"
 
 msgid "B connected"
-msgstr ""
+msgstr "B podłączone"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "tło #"
 
 msgid "backdrop name"
-msgstr ""
+msgstr "nazwa tła"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "tło1"
 
 msgid "Backpack"
-msgstr ""
+msgstr "Plecak"
 
 msgid "Bass"
-msgstr ""
+msgstr "Bas"
 
 msgid "Bassoon"
 msgstr "Fagot"
 
 msgid "bottom-left"
-msgstr ""
+msgstr "lewy dolny"
 
 msgid "bottom-right"
-msgstr ""
+msgstr "prawy dolny"
 
 msgid "brightness"
 msgstr "jasność"
@@ -65,7 +81,7 @@ msgid "button pressed"
 msgstr "przycisk naciśnięty"
 
 msgid "C connected"
-msgstr ""
+msgstr "C podłączone"
 
 msgid "Cabasa"
 msgstr "Cabasa"
@@ -74,16 +90,16 @@ msgid "Camera"
 msgstr "Kamera"
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Nie można usunąć"
 
 msgid "ceiling"
-msgstr ""
+msgstr "sufit"
 
 msgid "Cello"
 msgstr "Wiolonczela"
 
 msgid "Choir"
-msgstr ""
+msgstr "Chór"
 
 msgid "Clarinet"
 msgstr "Klarnet"
@@ -92,7 +108,7 @@ msgid "Claves"
 msgstr "Claves (klucz)"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "wyczyść nadawców/odbiorców"
 
 msgid "Closed Hi-Hat"
 msgstr "Hi-hat (zamknięty)"
@@ -104,40 +120,40 @@ msgid "copy"
 msgstr "Kopiuj"
 
 msgid "cos"
-msgstr ""
+msgstr "cos"
 
 msgid "costume #"
-msgstr ""
+msgstr "kostium #"
 
 msgid "costume name"
-msgstr ""
+msgstr "nazwa kostiumu"
 
 msgid "costume1"
-msgstr ""
+msgstr "kostium1"
 
 msgid "Cowbell"
 msgstr "Krowi dzwonek"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Talerz"
 
 msgid "cut"
-msgstr ""
+msgstr "wytnij"
 
 msgid "D connected"
-msgstr ""
+msgstr "D podłączone"
 
 msgid "date"
-msgstr ""
+msgstr "data"
 
 msgid "day of week"
-msgstr ""
+msgstr "dzień tygodnia"
 
 msgid "delete"
 msgstr "usuń"
 
 msgid "direction"
-msgstr ""
+msgstr "kierunek"
 
 msgid "down"
 msgstr "dół"
@@ -152,7 +168,7 @@ msgid "Duplicate"
 msgstr "duplikuj"
 
 msgid "e ^"
-msgstr ""
+msgstr "e ^"
 
 msgid "edge"
 msgstr "krawędź"
@@ -164,28 +180,30 @@ msgid "Edit"
 msgstr "Edytuj"
 
 msgid "Effects"
-msgstr ""
+msgstr "Efekty"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Gitara elektryczna"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Pianino elektroniczne"
 
+#, fuzzy
 msgid "fade in"
-msgstr ""
+msgstr "wzmocnij"
 
+#, fuzzy
 msgid "fade out"
-msgstr ""
+msgstr "wycisz"
 
 msgid "fisheye"
 msgstr "rybie oko"
 
 msgid "floor"
-msgstr ""
+msgstr "podłoga"
 
 msgid "Floor Tom"
-msgstr ""
+msgstr "Kocioł"
 
 msgid "Flute"
 msgstr "Flet"
@@ -194,31 +212,32 @@ msgid "ghost"
 msgstr "duch"
 
 msgid "Guitar"
-msgstr ""
+msgstr "Gitara"
 
 msgid "Hand Clap"
 msgstr "Klaskanie"
 
 msgid "High Bongo"
-msgstr ""
+msgstr "Wysokie Bongo"
 
 msgid "High Tom"
 msgstr "Wysoki tom-tom"
 
+#, fuzzy
 msgid "High Wood Block"
-msgstr ""
+msgstr "Wysoki blok drewniany"
 
 msgid "hour"
-msgstr ""
+msgstr "godzina"
 
 msgid "Import"
 msgstr "importuj"
 
 msgid "int"
-msgstr ""
+msgstr "int"
 
 msgid "Kick Drum"
-msgstr ""
+msgstr "Stopa"
 
 msgid "last"
 msgstr "ostatni"
@@ -230,25 +249,27 @@ msgid "left arrow"
 msgstr "strzałka w lewo"
 
 msgid "Library"
-msgstr ""
+msgstr "Biblioteka"
 
 msgid "light"
 msgstr "światło"
 
+#, fuzzy
 msgid "ln"
-msgstr ""
+msgstr "ln"
 
+#, fuzzy
 msgid "log"
-msgstr ""
+msgstr "log"
 
 msgid "login"
-msgstr ""
+msgstr "login"
 
 msgid "Long Guiro"
 msgstr "Długie guiro"
 
 msgid "louder"
-msgstr ""
+msgstr "głośniej"
 
 msgid "Low Bongo"
 msgstr "Niskie bongo"
@@ -268,20 +289,23 @@ msgstr "Marakasy"
 msgid "Marimba"
 msgstr "Marimba"
 
+#, fuzzy
 msgid "message1"
-msgstr ""
+msgstr "komunikat1"
 
+#, fuzzy
 msgid "Mid Tom"
-msgstr ""
+msgstr "Średni tom-tom"
 
+#, fuzzy
 msgid "middle"
-msgstr ""
+msgstr "środkowy"
 
 msgid "minute"
-msgstr ""
+msgstr "minuta"
 
 msgid "month"
-msgstr ""
+msgstr "miesiąc"
 
 msgid "More"
 msgstr "więcej"
@@ -290,7 +314,7 @@ msgid "mosaic"
 msgstr "mozaika"
 
 msgid "motion"
-msgstr ""
+msgstr "ruch"
 
 msgid "mouse-pointer"
 msgstr "wskaźnik myszy"
@@ -298,29 +322,31 @@ msgstr "wskaźnik myszy"
 msgid "Music Box"
 msgstr "Pozytywka"
 
+#, fuzzy
 msgid "Mute High Conga"
-msgstr ""
+msgstr "Stłumione wysokie konga"
 
 msgid "Mute Triangle"
 msgstr "Stłumiony trójkąt"
 
 msgid "name"
-msgstr ""
+msgstr "nazwa"
 
 msgid "New"
 msgstr "nowy"
 
 msgid "New backdrop"
-msgstr ""
+msgstr "Nowe tło"
 
 msgid "New costume"
-msgstr ""
+msgstr "Nowy kostium"
 
+#, fuzzy
 msgid "new message..."
-msgstr ""
+msgstr "nowy komunikat..."
 
 msgid "New sound"
-msgstr ""
+msgstr "Nowy dźwięk"
 
 msgid "New sprite:"
 msgstr "Nowy duszek:"
@@ -331,8 +357,9 @@ msgstr "Wyłączony"
 msgid "on"
 msgstr "Włączony"
 
+#, fuzzy
 msgid "on-flipped"
-msgstr ""
+msgstr "na odwrót"
 
 msgid "Open Cuica"
 msgstr "Otwarta Cuíca"
@@ -340,38 +367,41 @@ msgstr "Otwarta Cuíca"
 msgid "Open Hi-Hat"
 msgstr "Hi-Hat (otwarty)"
 
+#, fuzzy
 msgid "Open High Conga"
-msgstr ""
+msgstr "Otwarte wysokie konga"
 
 msgid "Open Triangle"
 msgstr "Otwarty trójkąt"
 
 msgid "Organ"
-msgstr ""
+msgstr "Organy"
 
 msgid "other scripts in stage"
-msgstr ""
+msgstr "inne skrypty na scenie"
 
 msgid "Paint"
 msgstr "Rysuj"
 
+#, fuzzy
 msgid "paste"
-msgstr ""
+msgstr "wklej"
 
 msgid "Pedal Hi-Hat"
 msgstr "Hi-Hat (stopa)"
 
 msgid "photo1"
-msgstr ""
+msgstr "zdjęcie1"
 
 msgid "Piano"
-msgstr ""
+msgstr "Pianino"
 
 msgid "pixelate"
 msgstr "pikselizacja"
 
+#, fuzzy
 msgid "Pizzicato"
-msgstr ""
+msgstr "Pizzicato"
 
 msgid "pop"
 msgstr "pop"
@@ -380,25 +410,29 @@ msgid "Record"
 msgstr "nagraj"
 
 msgid "recording1"
-msgstr ""
+msgstr "nagranie1"
 
 msgid "redo"
 msgstr "Ponów"
 
 msgid "Remix"
-msgstr ""
+msgstr "Remix"
 
+#, fuzzy
 msgid "resistance-A"
-msgstr ""
+msgstr "opór-A"
 
+#, fuzzy
 msgid "resistance-B"
-msgstr ""
+msgstr "opór-B"
 
+#, fuzzy
 msgid "resistance-C"
-msgstr ""
+msgstr "opór-C"
 
+#, fuzzy
 msgid "resistance-D"
-msgstr ""
+msgstr "opór-D"
 
 msgid "reverse"
 msgstr "odwróć"
@@ -410,55 +444,56 @@ msgid "right arrow"
 msgstr "strzałka w prawo"
 
 msgid "Saxophone"
-msgstr ""
+msgstr "Saksofon"
 
 msgid "say"
-msgstr ""
+msgstr "powiedz"
 
 msgid "second"
-msgstr ""
+msgstr "sekunda"
 
 msgid "See project page"
-msgstr ""
+msgstr "Zobacz stronę projektu"
 
 msgid "select all"
-msgstr ""
+msgstr "zaznacz wszystko"
 
 msgid "Short Guiro"
 msgstr "Krótkie guiro"
 
 msgid "shout"
-msgstr ""
+msgstr "krzycz"
 
 msgid "show receivers"
-msgstr ""
+msgstr "pokaż odbiorców"
 
 msgid "show senders"
-msgstr ""
+msgstr "pokaż nadawców"
 
 msgid "Side Stick"
 msgstr "Rimshot"
 
 msgid "silence"
-msgstr ""
+msgstr "cisza"
 
 msgid "sin"
-msgstr ""
+msgstr "sin"
 
 msgid "size"
-msgstr ""
+msgstr "rozmiar"
 
 msgid "slider"
 msgstr "suwak"
 
+#, fuzzy
 msgid "Snare Drum"
-msgstr ""
+msgstr "Werbel"
 
 msgid "softer"
-msgstr ""
+msgstr "ciszej"
 
 msgid "sound"
-msgstr ""
+msgstr "dźwięk"
 
 msgid "space"
 msgstr "spacja"
@@ -472,44 +507,48 @@ msgstr "pierwiastek kwadratowy"
 msgid "Stage"
 msgstr "Scena"
 
+#, fuzzy
 msgid "Steel Drum"
-msgstr ""
+msgstr "Blaszany bęben"
 
+#, fuzzy
 msgid "Synth Lead"
-msgstr ""
+msgstr "Synth Lead"
 
+#, fuzzy
 msgid "Synth Pad"
-msgstr ""
+msgstr "Synth Pad"
 
 msgid "Tambourine"
 msgstr "Tamburyn"
 
 msgid "tan"
-msgstr ""
+msgstr "tan"
 
 msgid "that way"
 msgstr "w tamten sposób"
 
 msgid "think"
-msgstr ""
+msgstr "pomyśl"
 
 msgid "this script"
-msgstr ""
+msgstr "ten skrypt"
 
 msgid "this way"
 msgstr "w ten sposób"
 
 msgid "Tips"
-msgstr ""
+msgstr "Wskazówki"
 
+#, fuzzy
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr ""
+msgstr "Aby usunąć blok, najpierw usuń wszystkie jego użycia."
 
 msgid "top-left"
-msgstr ""
+msgstr "lewy górny"
 
 msgid "top-right"
-msgstr ""
+msgstr "prawy górny"
 
 msgid "Trombone"
 msgstr "Puzon"
@@ -530,23 +569,23 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "volume"
-msgstr ""
+msgstr "głośność"
 
 msgid "whirl"
 msgstr "wir"
 
+#, fuzzy
 msgid "whisper"
-msgstr ""
+msgstr "szept"
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Drewniany flet"
 
 msgid "x position"
-msgstr ""
+msgstr "pozycja x"
 
 msgid "y position"
-msgstr ""
+msgstr "pozycja y"
 
 msgid "year"
-msgstr ""
-
+msgstr "rok"

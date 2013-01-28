@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-06 17:35+0200\n"
-"PO-Revision-Date: 2012-12-03 02:03+0200\n"
-"Last-Translator: Piers Titus <pierstitus@gmail.com>\n"
+"PO-Revision-Date: 2013-01-24 19:58+0200\n"
+"Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -91,7 +91,7 @@ msgid "change y by %n"
 msgstr "verander y met %n"
 
 msgid "clear"
-msgstr "wis het scherm"
+msgstr "wis alles"
 
 msgid "clear graphic effects"
 msgstr "zet alle effecten uit"
@@ -138,7 +138,6 @@ msgstr "afstand tot %m.spriteOrMouse"
 msgid "else"
 msgstr "anders"
 
-#, fuzzy
 msgid "Events"
 msgstr "Gebeurtenissen"
 
@@ -149,7 +148,7 @@ msgid "forever if %b"
 msgstr "herhaal als %b"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "schuif in %n tellen naar x:%n y:%n"
+msgstr "schuif in %n sec. naar x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "ga %n lagen naar achteren"
@@ -176,10 +175,10 @@ msgid "if %b"
 msgstr "als %b"
 
 msgid "if on edge, bounce"
-msgstr "keer om als aan de rand"
+msgstr "keer om aan de rand"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "voeg %s in op %d.listItem van %m.list"
+msgstr "voeg %s toe op %d.listItem van %m.list"
 
 msgid "item %d.listItem of %m.list"
 msgstr "item %d.listItem van %m.list"
@@ -200,16 +199,16 @@ msgid "letter %n of %s"
 msgstr "letter %n van %s"
 
 msgid "Looks"
-msgstr "Uiterlijk"
+msgstr "Uiterlijken"
 
 msgid "loudness"
 msgstr "volume"
 
 msgid "More Blocks"
-msgstr "Meer Blokken"
+msgstr "Meer blokken"
 
 msgid "Motion"
-msgstr "Bewegen"
+msgstr "Beweging"
 
 msgid "motor direction %m.motorDirection"
 msgstr "motorrichting %m.motorDirection"
@@ -221,7 +220,7 @@ msgid "motor on"
 msgstr "motor aan"
 
 msgid "motor on for %n secs"
-msgstr "motor aan %n"
+msgstr "motor %n sec. aan"
 
 msgid "motor power %n"
 msgstr "motorvermogen %n"
@@ -243,7 +242,7 @@ msgid "next backdrop"
 msgstr "volgende achtergrond"
 
 msgid "next costume"
-msgstr "volgende uiterlijk"
+msgstr "volgend uiterlijk"
 
 msgid "not %b"
 msgstr "niet %b"
@@ -303,7 +302,7 @@ msgid "say %s"
 msgstr "zeg %s"
 
 msgid "say %s for %n secs"
-msgstr "zeg %n tellen %s"
+msgstr "zeg %n sec. %s"
 
 msgid "Scratch days"
 msgstr "Scratch dagen"
@@ -315,7 +314,7 @@ msgid "sensor %m.booleanSensor?"
 msgstr "sensor %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
-msgstr "zet %m.effect-effect op %n"
+msgstr "zet effect %m.effect op %n"
 
 msgid "set %m.var to %s"
 msgstr "maak %m.var %s"
@@ -345,7 +344,7 @@ msgid "set video transparency to %n%"
 msgstr "maak video doorzichtigheid %n%"
 
 msgid "set volume to %n%"
-msgstr "maak volume %n%"
+msgstr "zet volume op %n%"
 
 msgid "set x to %n"
 msgstr "maak x %n"
@@ -392,10 +391,10 @@ msgid "think %s"
 msgstr "denk %s"
 
 msgid "think %s for %n secs"
-msgstr "denk %n tellen %s"
+msgstr "denk %n sec. %s"
 
 msgid "tilt"
-msgstr ""
+msgstr "kantel"
 
 msgid "timer"
 msgstr "tijd"
@@ -412,22 +411,20 @@ msgstr "draai @turnLeft %n graden"
 msgid "turn @turnRight %n degrees"
 msgstr "draai @turnRight %n graden"
 
-#, fuzzy
 msgid "turn video %m.videoState"
 msgstr "zet video %m.videoState"
 
-#, fuzzy
 msgid "user id"
-msgstr "gebruikers ID"
+msgstr "gebruikersnaam"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "video %m.videoMotionType op %m.stageOrThis"
 
 msgid "volume"
 msgstr "volume"
 
 msgid "wait %n secs"
-msgstr "wacht %n tellen"
+msgstr "wacht %n sec."
 
 msgid "wait until %b"
 msgstr "wacht tot %b"

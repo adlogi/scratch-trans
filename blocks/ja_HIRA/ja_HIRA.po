@@ -23,7 +23,7 @@ msgid "%n mod %n"
 msgstr "%n を %n でわったあまり"
 
 msgid "add %s to %m.list"
-msgstr "%s を %m.list についか"
+msgstr "%s を %m.list についかする"
 
 msgid "answer"
 msgstr "こたえ"
@@ -32,14 +32,12 @@ msgid "ask %s and wait"
 msgstr "%s ときいてまつ"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "はいけいのばんごう"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop name"
-msgstr ""
+msgstr "はいけいのなまえ"
 
 msgid "broadcast %m.broadcast"
 msgstr "%m.broadcast をおくる"
@@ -84,7 +82,7 @@ msgid "clear graphic effects"
 msgstr "がぞうこうかをなくす"
 
 msgid "clone startup"
-msgstr ""
+msgstr "クローンされたとき"
 
 msgid "color %c is touching %c?"
 msgstr "%c いろが %c いろにふれた"
@@ -96,28 +94,28 @@ msgid "costume #"
 msgstr "コスチュームのばんごう"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "%m.spriteOnly のクローンをつくる"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "げんざいの %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "データ"
 
 msgid "define"
-msgstr ""
+msgstr "ていぎ"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "%d.listDeleteItem ばんめを %m.list からさくじょ"
+msgstr "%d.listDeleteItem ばんめを %m.list からさくじょする"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "このクローンをさくじょ"
 
 msgid "direction"
 msgstr "むき"
 
 msgid "distance"
-msgstr ""
+msgstr "きょり"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "%m.spriteOrMouse までのきょり"
@@ -126,7 +124,7 @@ msgid "else"
 msgstr "でなければ"
 
 msgid "Events"
-msgstr ""
+msgstr "イベント"
 
 msgid "forever"
 msgstr "ずっと"
@@ -153,10 +151,10 @@ msgid "hide"
 msgstr "かくす"
 
 msgid "hide all sprites"
-msgstr ""
+msgstr "すべてのスプライトをかくす"
 
 msgid "hide monitor %m.varOrList"
-msgstr ""
+msgstr "%m.varOrList のモニターをかくす"
 
 msgid "if %b"
 msgstr "もし %b なら"
@@ -192,7 +190,7 @@ msgid "loudness"
 msgstr "おんりょう"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "そのた"
 
 msgid "Motion"
 msgstr "うごき"
@@ -207,7 +205,7 @@ msgid "motor on"
 msgstr "モーターをオンにする"
 
 msgid "motor on for %n secs"
-msgstr "モーターを %n 秒オンにする"
+msgstr "モーターを %n びょうオンにする"
 
 msgid "motor power %n"
 msgstr "モーターのパワーを %n にする"
@@ -222,10 +220,9 @@ msgid "mouse y"
 msgstr "マウスのyざひょう"
 
 msgid "move %n steps"
-msgstr "%n ぽうごかす"
+msgstr "%n ほうごかす"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "つぎのはいけいにする"
 
@@ -293,7 +290,7 @@ msgid "say %s for %n secs"
 msgstr "%s と %n びょういう"
 
 msgid "Scratch days"
-msgstr ""
+msgstr "スクラッチデー"
 
 msgid "Sensing"
 msgstr "しらべる"
@@ -329,7 +326,7 @@ msgid "set tempo to %n bpm"
 msgstr "テンポを %n BPMにする"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "ビデオのとうめいどを %n% にする"
 
 msgid "set volume to %n%"
 msgstr "おんりょうを %n% にする"
@@ -344,7 +341,7 @@ msgid "show"
 msgstr "ひょうじする"
 
 msgid "show monitor %m.varOrList"
-msgstr ""
+msgstr "%m.varOrList のモニターをひょうじする"
 
 msgid "size"
 msgstr "おおきさ"
@@ -356,23 +353,21 @@ msgid "stamp"
 msgstr "スタンプ"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "%m.stop をとめる"
 
 msgid "stop all sounds"
 msgstr "すべてのおとをとめる"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "はいけいを %m.backdrop にする"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "はいけいを %m.backdrop にしてまつ"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "コスチュームを %m.costume にする"
 
 msgid "tempo"
 msgstr "テンポ"
@@ -384,7 +379,7 @@ msgid "think %s for %n secs"
 msgstr "%s と %n びょうかんがえる"
 
 msgid "tilt"
-msgstr ""
+msgstr "かたむき"
 
 msgid "timer"
 msgstr "タイマー"
@@ -396,19 +391,19 @@ msgid "touching color %c?"
 msgstr "%c いろにふれた"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "@turnLeft %n どまわす"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "@turnRight %n どまわす"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "ビデオを %m.videoState にする"
 
 msgid "user id"
-msgstr ""
+msgstr "ユーザーid"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "%m.videoMotionType のビデオを %m.stageOrThis にひょうじする"
 
 msgid "volume"
 msgstr "おんりょう"
@@ -426,19 +421,17 @@ msgid "when @greenFlag clicked"
 msgstr "@greenFlag がクリックされたとき"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "はいけいが %m.backdrop になったとき"
 
 msgid "when I am clicked"
-msgstr ""
+msgstr "わたしがクリックされたとき"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "わたしが %m.broadcast をうけとったとき"
 
 msgid "x position"
 msgstr "xざひょう"
 
 msgid "y position"
 msgstr "yざひょう"
-

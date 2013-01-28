@@ -46,18 +46,15 @@
         <source>ask %s and wait</source>
         <target state="translated">询问 %s 并等待</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="backdrop #">
+      <trans-unit xml:space="preserve" approved="yes" id="backdrop #">
         <source>backdrop #</source>
-        <target state="needs-translation">背景编号</target>
+        <target state="translated">背景编号</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop name">
         <source>backdrop name</source>
-        <target state="translated"></target>
+        <target state="translated">背景名称</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>背景名称</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast">
         <source>broadcast %m.broadcast</source>
@@ -117,10 +114,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clone startup">
         <source>clone startup</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>克隆设置</target>
-        </alt-trans>
+        <target state="translated">克隆设置</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color %c is touching %c?">
         <source>color %c is touching %c?</source>
@@ -136,30 +130,27 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="create clone of %m.spriteOnly">
         <source>create clone of %m.spriteOnly</source>
-        <target state="translated"></target>
+        <target state="translated">创建%m.spriteOnly的克隆</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="current %m.timeAndDate">
         <source>current %m.timeAndDate</source>
-        <target state="translated"></target>
+        <target state="translated">当前时间 %m.timeAndDate</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Data">
         <source>Data</source>
-        <target state="translated"></target>
+        <target state="translated">数据</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="define">
         <source>define</source>
-        <target state="translated"></target>
+        <target state="translated">定义</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete %d.listDeleteItem of %m.list">
         <source>delete %d.listDeleteItem of %m.list</source>
-        <target state="translated">删除链表%m.list的第 %d.listDeleteItem 项</target>
+        <target state="translated">删除 %m.list 的 %d.listDeleteItem</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete this clone">
         <source>delete this clone</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>删除这个克隆</target>
-        </alt-trans>
+        <target state="translated">删除这个克隆</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="direction">
         <source>direction</source>
@@ -167,10 +158,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance">
         <source>distance</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>距离</target>
-        </alt-trans>
+        <target state="translated">距离</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance to %m.spriteOrMouse">
         <source>distance to %m.spriteOrMouse</source>
@@ -182,10 +170,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Events">
         <source>Events</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>事件</target>
-        </alt-trans>
+        <target state="translated">事件</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="forever">
         <source>forever</source>
@@ -221,14 +206,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide all sprites">
         <source>hide all sprites</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>隐藏所有角色</target>
-        </alt-trans>
+        <target state="translated">隐藏所有角色</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide monitor %m.varOrList">
         <source>hide monitor %m.varOrList</source>
-        <target state="translated"></target>
+        <target state="translated">隐藏监视器 %m.varOrList</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if %b">
         <source>if %b</source>
@@ -276,7 +258,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="More Blocks">
         <source>More Blocks</source>
-        <target state="translated"></target>
+        <target state="translated">更多模块</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Motion">
         <source>Motion</source>
@@ -318,9 +300,9 @@
         <source>move %n steps</source>
         <target state="translated">移动 %n 步</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="next backdrop">
+      <trans-unit xml:space="preserve" approved="yes" id="next backdrop">
         <source>next backdrop</source>
-        <target state="needs-translation">下一个背景</target>
+        <target state="translated">下一个背景</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="next costume">
@@ -409,7 +391,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Scratch days">
         <source>Scratch days</source>
-        <target state="translated"></target>
+        <target state="translated">Scratch天数</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sensing">
         <source>Sensing</source>
@@ -457,7 +439,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set video transparency to %n%">
         <source>set video transparency to %n%</source>
-        <target state="translated"></target>
+        <target state="translated">将视频透明度设置为 %n%</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
         <source>set volume to %n%</source>
@@ -477,7 +459,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show monitor %m.varOrList">
         <source>show monitor %m.varOrList</source>
-        <target state="translated"></target>
+        <target state="translated">显示监视器 %m.varOrList</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="size">
         <source>size</source>
@@ -493,7 +475,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop %m.stop">
         <source>stop %m.stop</source>
-        <target state="translated"></target>
+        <target state="translated">停止 %m.stop</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
         <source>stop all sounds</source>
@@ -501,26 +483,17 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop">
         <source>switch backdrop to %m.backdrop</source>
-        <target state="translated"></target>
+        <target state="translated">将背景转换成%m.backdrop</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>将背景转换成%m.backdrop</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop and wait">
         <source>switch backdrop to %m.backdrop and wait</source>
-        <target state="translated"></target>
+        <target state="translated">将背景转换成 %m.backdrop并等待</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>将背景转换成%m.backdrop并等待</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch costume to %m.costume">
         <source>switch costume to %m.costume</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>将造型转换成%m.costume</target>
-        </alt-trans>
+        <target state="translated">将造型转换成%m.costume</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tempo">
         <source>tempo</source>
@@ -536,10 +509,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tilt">
         <source>tilt</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>倾斜</target>
-        </alt-trans>
+        <target state="translated">倾斜</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="timer">
         <source>timer</source>
@@ -555,32 +525,23 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnLeft %n degrees">
         <source>turn @turnLeft %n degrees</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>转动 @turnLeft %n 度</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>旋转 @turnLeft %n 度</target>
-        </alt-trans>
+        <target state="translated">旋转 @turnLeft %n 度</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnRight %n degrees">
         <source>turn @turnRight %n degrees</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="alanmao">
-          <target>旋转 @turnRight %n 度</target>
-        </alt-trans>
+        <target state="translated">旋转 @turnRight %n 度</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn video %m.videoState">
         <source>turn video %m.videoState</source>
-        <target state="translated"></target>
+        <target state="translated">将摄像头</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="user id">
         <source>user id</source>
-        <target state="translated"></target>
+        <target state="translated">用户名</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
         <source>video %m.videoMotionType on %m.stageOrThis</source>
-        <target state="translated"></target>
+        <target state="translated">录制 %m.stageOrThis 的 %m.videoMotionType </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="volume">
         <source>volume</source>
@@ -604,16 +565,16 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when backdrop switches to %m.backdrop">
         <source>when backdrop switches to %m.backdrop</source>
-        <target state="translated"></target>
+        <target state="translated">当背景转换成  %m.backdrop</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I am clicked">
         <source>when I am clicked</source>
-        <target state="translated"></target>
+        <target state="translated">点击我时</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I receive %m.broadcast">
         <source>when I receive %m.broadcast</source>
-        <target state="translated"></target>
+        <target state="translated">当接收到 %m.broadcast</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="x position">
         <source>x position</source>

@@ -1,23 +1,38 @@
-msgid "A connected"
+msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-30 19:49+0200\n"
+"PO-Revision-Date: 2013-01-24 20:45+0200\n"
+"Last-Translator: S.D. <internet@meijer-online.nl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "A connected"
+msgstr "A verbonden"
 
 msgid "abs"
 msgstr "absoluut"
 
 msgid "acos"
-msgstr ""
+msgstr "acos"
 
 msgid "Add a boolean input:"
-msgstr ""
+msgstr "Voeg boolean-veld toe:"
 
 msgid "Add a number input:"
-msgstr ""
+msgstr "Voeg getalveld toe:"
 
 msgid "Add a string input:"
-msgstr ""
+msgstr "Voeg tekstvak toe:"
 
 msgid "Add label text:"
-msgstr ""
+msgstr "Voeg label toe:"
 
 msgid "all"
 msgstr "alle"
@@ -26,37 +41,38 @@ msgid "any"
 msgstr "willekeurig"
 
 msgid "asin"
-msgstr ""
+msgstr "asin"
 
 msgid "atan"
-msgstr ""
+msgstr "atan"
 
 msgid "B connected"
-msgstr ""
+msgstr "B verbonden"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "achtergrond #"
 
 msgid "backdrop name"
-msgstr ""
+msgstr "achtergrondnaam"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "achtergrond1"
 
+#, fuzzy
 msgid "Backpack"
-msgstr ""
+msgstr "Rugzak"
 
 msgid "Bass"
-msgstr ""
+msgstr "Bas"
 
 msgid "Bassoon"
-msgstr "fagot"
+msgstr "Fagot"
 
 msgid "bottom-left"
-msgstr ""
+msgstr "linksonder"
 
 msgid "bottom-right"
-msgstr ""
+msgstr "rechtsonder"
 
 msgid "brightness"
 msgstr "helderheid"
@@ -65,79 +81,80 @@ msgid "button pressed"
 msgstr "knop ingedrukt"
 
 msgid "C connected"
-msgstr ""
+msgstr "C verbonden"
 
 msgid "Cabasa"
-msgstr "cabasa"
+msgstr "Kabassa"
 
 msgid "Camera"
 msgstr "Camera"
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Verwijderen niet mogelijk"
 
+# wikipedia suggests ceiling
 msgid "ceiling"
-msgstr ""
+msgstr "plafond"
 
 msgid "Cello"
-msgstr "cello"
+msgstr "Cello"
 
 msgid "Choir"
-msgstr ""
+msgstr "Koor"
 
 msgid "Clarinet"
-msgstr "klarinet"
+msgstr "Klarinet"
 
 msgid "Claves"
-msgstr "claves"
+msgstr "Claves"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "wis zenders/ontvangers"
 
 msgid "Closed Hi-Hat"
-msgstr "gesloten hi-hat"
+msgstr "Gesloten hi-hat"
 
 msgid "color"
 msgstr "kleur"
 
 msgid "copy"
-msgstr "Kopiëren"
+msgstr "kopiëren"
 
 msgid "cos"
-msgstr ""
+msgstr "cos"
 
 msgid "costume #"
-msgstr ""
+msgstr "uiterlijk #"
 
 msgid "costume name"
-msgstr ""
+msgstr "naam uiterlijk"
 
 msgid "costume1"
-msgstr ""
+msgstr "uiterlijk1"
 
 msgid "Cowbell"
-msgstr "koebel"
+msgstr "Koebel"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Crashbekken"
 
 msgid "cut"
-msgstr ""
+msgstr "knip"
 
 msgid "D connected"
-msgstr ""
+msgstr "D verbonden"
 
 msgid "date"
-msgstr ""
+msgstr "datum"
 
 msgid "day of week"
-msgstr ""
+msgstr "dag van de week"
 
 msgid "delete"
 msgstr "verwijderen"
 
 msgid "direction"
-msgstr ""
+msgstr "richting"
 
 msgid "down"
 msgstr "omlaag"
@@ -149,76 +166,76 @@ msgid "duplicate"
 msgstr "kopie maken"
 
 msgid "Duplicate"
-msgstr "kopie maken"
+msgstr "Kopie maken"
 
 msgid "e ^"
-msgstr ""
+msgstr "e ^"
 
 msgid "edge"
 msgstr "rand"
 
 msgid "edit"
-msgstr "Bewerken"
+msgstr "bewerken"
 
 msgid "Edit"
 msgstr "Bewerken"
 
 msgid "Effects"
-msgstr ""
+msgstr "Effecten"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Elektrische gitaar"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Elektrische piano"
 
 msgid "fade in"
-msgstr ""
+msgstr "fade in"
 
 msgid "fade out"
-msgstr ""
+msgstr "fade out"
 
 msgid "fisheye"
 msgstr "vissenoog"
 
 msgid "floor"
-msgstr ""
+msgstr "vloer"
 
 msgid "Floor Tom"
-msgstr ""
+msgstr "Floor tom"
 
 msgid "Flute"
-msgstr "dwarsfluit"
+msgstr "Dwarsfluit"
 
 msgid "ghost"
 msgstr "geest"
 
 msgid "Guitar"
-msgstr ""
+msgstr "Gitaar"
 
 msgid "Hand Clap"
-msgstr "handenklap"
+msgstr "Handenklap"
 
 msgid "High Bongo"
-msgstr ""
+msgstr "Hoge bongo"
 
 msgid "High Tom"
-msgstr "hoge tom"
+msgstr "Hoge tom"
 
 msgid "High Wood Block"
-msgstr ""
+msgstr "Hoge woodblock"
 
 msgid "hour"
-msgstr ""
+msgstr "uur"
 
 msgid "Import"
 msgstr "importeren"
 
 msgid "int"
-msgstr ""
+msgstr "int"
 
 msgid "Kick Drum"
-msgstr ""
+msgstr "grote trom"
 
 msgid "last"
 msgstr "laatste"
@@ -227,28 +244,28 @@ msgid "left"
 msgstr "links"
 
 msgid "left arrow"
-msgstr "pijltje naar links"
+msgstr "pijltje links"
 
 msgid "Library"
-msgstr ""
+msgstr "Bibliotheek"
 
 msgid "light"
 msgstr "licht"
 
 msgid "ln"
-msgstr ""
+msgstr "ln"
 
 msgid "log"
-msgstr ""
+msgstr "log"
 
 msgid "login"
-msgstr ""
+msgstr "inloggen"
 
 msgid "Long Guiro"
 msgstr "lange güiro"
 
 msgid "louder"
-msgstr ""
+msgstr "luider"
 
 msgid "Low Bongo"
 msgstr "lage bongo"
@@ -257,7 +274,7 @@ msgid "Low Conga"
 msgstr "lage conga"
 
 msgid "Low Tom"
-msgstr "lage tom"
+msgstr "Lage tom"
 
 msgid "Low Wood Block"
 msgstr "laag houtblok"
@@ -269,19 +286,19 @@ msgid "Marimba"
 msgstr "marimba"
 
 msgid "message1"
-msgstr ""
+msgstr "bericht1"
 
 msgid "Mid Tom"
-msgstr ""
+msgstr "Mid tom"
 
 msgid "middle"
-msgstr ""
+msgstr "midden"
 
 msgid "minute"
-msgstr ""
+msgstr "minuut"
 
 msgid "month"
-msgstr ""
+msgstr "maand"
 
 msgid "More"
 msgstr "meer"
@@ -290,7 +307,7 @@ msgid "mosaic"
 msgstr "mozaïek"
 
 msgid "motion"
-msgstr ""
+msgstr "beweging"
 
 msgid "mouse-pointer"
 msgstr "muisaanwijzer"
@@ -299,52 +316,52 @@ msgid "Music Box"
 msgstr "speeldoos"
 
 msgid "Mute High Conga"
-msgstr ""
+msgstr "Gedempte high conga"
 
 msgid "Mute Triangle"
-msgstr "gedempte triangel"
+msgstr "Gedempte triangel"
 
 msgid "name"
-msgstr ""
+msgstr "naam"
 
 msgid "New"
-msgstr "nieuw"
+msgstr "Nieuw"
 
 msgid "New backdrop"
-msgstr ""
+msgstr "Nieuwe achtergrond"
 
 msgid "New costume"
-msgstr ""
+msgstr "Nieuw uiterlijk"
 
 msgid "new message..."
-msgstr ""
+msgstr "nieuw bericht..."
 
 msgid "New sound"
-msgstr ""
+msgstr "Nieuw geluid"
 
 msgid "New sprite:"
 msgstr "Nieuwe sprite:"
 
 msgid "off"
-msgstr "Uit"
+msgstr "uit"
 
 msgid "on"
-msgstr "Aan"
+msgstr "aan"
 
 msgid "on-flipped"
-msgstr ""
+msgstr "aan-gespiegeld"
 
 msgid "Open Cuica"
 msgstr "cuíca"
 
-msgid "Open Hi-Hat"
-msgstr "open hi-hat"
+#~ msgid "Open Hi-Hat"
+#~ msgstr "open hi-hat"
 
 msgid "Open High Conga"
 msgstr ""
 
-msgid "Open Triangle"
-msgstr "triangel"
+#~ msgid "Open Triangle"
+#~ msgstr "triangel"
 
 msgid "Organ"
 msgstr ""
@@ -352,14 +369,14 @@ msgstr ""
 msgid "other scripts in stage"
 msgstr ""
 
-msgid "Paint"
-msgstr "Tekenen"
+#~ msgid "Paint"
+#~ msgstr "Tekenen"
 
 msgid "paste"
 msgstr ""
 
-msgid "Pedal Hi-Hat"
-msgstr "pedaal-hi-hat"
+#~ msgid "Pedal Hi-Hat"
+#~ msgstr "pedaal-hi-hat"
 
 msgid "photo1"
 msgstr ""
@@ -367,23 +384,23 @@ msgstr ""
 msgid "Piano"
 msgstr ""
 
-msgid "pixelate"
-msgstr "pixeleren"
+#~ msgid "pixelate"
+#~ msgstr "pixeleren"
 
 msgid "Pizzicato"
 msgstr ""
 
-msgid "pop"
-msgstr "plop"
+#~ msgid "pop"
+#~ msgstr "plop"
 
-msgid "Record"
-msgstr "opnemen"
+#~ msgid "Record"
+#~ msgstr "opnemen"
 
 msgid "recording1"
 msgstr ""
 
-msgid "redo"
-msgstr "Opnieuw"
+#~ msgid "redo"
+#~ msgstr "Opnieuw"
 
 msgid "Remix"
 msgstr ""
@@ -400,14 +417,14 @@ msgstr ""
 msgid "resistance-D"
 msgstr ""
 
-msgid "reverse"
-msgstr "omkeren"
+#~ msgid "reverse"
+#~ msgstr "omkeren"
 
-msgid "right"
-msgstr "rechts"
+#~ msgid "right"
+#~ msgstr "rechts"
 
-msgid "right arrow"
-msgstr "pijltje naar rechts"
+#~ msgid "right arrow"
+#~ msgstr "pijltje naar rechts"
 
 msgid "Saxophone"
 msgstr ""
@@ -424,8 +441,8 @@ msgstr ""
 msgid "select all"
 msgstr ""
 
-msgid "Short Guiro"
-msgstr "korte güiro"
+#~ msgid "Short Guiro"
+#~ msgstr "korte güiro"
 
 msgid "shout"
 msgstr ""
@@ -436,8 +453,8 @@ msgstr ""
 msgid "show senders"
 msgstr ""
 
-msgid "Side Stick"
-msgstr "randklap"
+#~ msgid "Side Stick"
+#~ msgstr "randklap"
 
 msgid "silence"
 msgstr ""
@@ -448,8 +465,8 @@ msgstr ""
 msgid "size"
 msgstr ""
 
-msgid "slider"
-msgstr "schuif"
+#~ msgid "slider"
+#~ msgstr "schuif"
 
 msgid "Snare Drum"
 msgstr ""
@@ -460,17 +477,17 @@ msgstr ""
 msgid "sound"
 msgstr ""
 
-msgid "space"
-msgstr "spatiebalk"
+#~ msgid "space"
+#~ msgstr "spatiebalk"
 
-msgid "Sprites"
-msgstr "Sprites"
+#~ msgid "Sprites"
+#~ msgstr "Sprites"
 
-msgid "sqrt"
-msgstr "wortel"
+#~ msgid "sqrt"
+#~ msgstr "wortel"
 
-msgid "Stage"
-msgstr "Scherm"
+#~ msgid "Stage"
+#~ msgstr "Scherm"
 
 msgid "Steel Drum"
 msgstr ""
@@ -481,14 +498,14 @@ msgstr ""
 msgid "Synth Pad"
 msgstr ""
 
-msgid "Tambourine"
-msgstr "tamboerijn"
+#~ msgid "Tambourine"
+#~ msgstr "tamboerijn"
 
 msgid "tan"
 msgstr ""
 
-msgid "that way"
-msgstr "daarheen"
+#~ msgid "that way"
+#~ msgstr "daarheen"
 
 msgid "think"
 msgstr ""
@@ -496,8 +513,8 @@ msgstr ""
 msgid "this script"
 msgstr ""
 
-msgid "this way"
-msgstr "hierheen"
+#~ msgid "this way"
+#~ msgstr "hierheen"
 
 msgid "Tips"
 msgstr ""
@@ -511,29 +528,29 @@ msgstr ""
 msgid "top-right"
 msgstr ""
 
-msgid "Trombone"
-msgstr "trombone"
+#~ msgid "Trombone"
+#~ msgstr "trombone"
 
-msgid "undo"
-msgstr "Ongedaan maken"
+#~ msgid "undo"
+#~ msgstr "Ongedaan maken"
 
-msgid "up"
-msgstr "omhoog"
+#~ msgid "up"
+#~ msgstr "omhoog"
 
-msgid "up arrow"
-msgstr "pijltje omhoog"
+#~ msgid "up arrow"
+#~ msgstr "pijltje omhoog"
 
-msgid "Vibraphone"
-msgstr "vibrafoon"
+#~ msgid "Vibraphone"
+#~ msgstr "vibrafoon"
 
-msgid "Vibraslap"
-msgstr "vibraslap"
+#~ msgid "Vibraslap"
+#~ msgstr "vibraslap"
 
 msgid "volume"
 msgstr ""
 
-msgid "whirl"
-msgstr "draaikolk"
+#~ msgid "whirl"
+#~ msgstr "draaikolk"
 
 msgid "whisper"
 msgstr ""
@@ -549,4 +566,3 @@ msgstr ""
 
 msgid "year"
 msgstr ""
-

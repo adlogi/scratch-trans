@@ -1,23 +1,40 @@
-msgid "A connected"
+msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-28 17:31+0200\n"
+"PO-Revision-Date: 2013-01-06 21:29+0200\n"
+"Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: no\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "A connected"
+msgstr "A tilkoblet"
 
 msgid "abs"
 msgstr "abs"
 
 msgid "acos"
-msgstr ""
+msgstr "acos"
 
+#, fuzzy
 msgid "Add a boolean input:"
-msgstr ""
+msgstr "Logisk verdi inn:"
 
+#, fuzzy
 msgid "Add a number input:"
-msgstr ""
+msgstr "Tallverdi inn:"
 
 msgid "Add a string input:"
-msgstr ""
+msgstr "Tekst inn:"
 
+#, fuzzy
 msgid "Add label text:"
-msgstr ""
+msgstr "Navn:"
 
 msgid "all"
 msgstr "alle"
@@ -26,37 +43,37 @@ msgid "any"
 msgstr "hvilken som helst"
 
 msgid "asin"
-msgstr ""
+msgstr "asin"
 
 msgid "atan"
-msgstr ""
+msgstr "atan"
 
 msgid "B connected"
-msgstr ""
+msgstr "B tilkoblet"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "bakgrunn nr."
 
 msgid "backdrop name"
-msgstr ""
+msgstr "bakgrunnsnavn"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "bakgrunn1"
 
 msgid "Backpack"
-msgstr ""
+msgstr "Koffert"
 
 msgid "Bass"
-msgstr ""
+msgstr "Bass"
 
 msgid "Bassoon"
 msgstr "Fagott"
 
 msgid "bottom-left"
-msgstr ""
+msgstr "nedre venstre"
 
 msgid "bottom-right"
-msgstr ""
+msgstr "nedre høyre"
 
 msgid "brightness"
 msgstr "lysstyrke"
@@ -65,7 +82,7 @@ msgid "button pressed"
 msgstr "knapp trykket"
 
 msgid "C connected"
-msgstr ""
+msgstr "C tilkoblet"
 
 msgid "Cabasa"
 msgstr "Cabasa"
@@ -74,16 +91,16 @@ msgid "Camera"
 msgstr "Kamera"
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Kan ikke slette"
 
 msgid "ceiling"
-msgstr ""
+msgstr "tak"
 
 msgid "Cello"
 msgstr "Cello"
 
 msgid "Choir"
-msgstr ""
+msgstr "Kor"
 
 msgid "Clarinet"
 msgstr "Klarinett"
@@ -92,7 +109,7 @@ msgid "Claves"
 msgstr "Pinner"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "tøm sendere/mottakere"
 
 msgid "Closed Hi-Hat"
 msgstr "Lukket high-hat"
@@ -104,40 +121,40 @@ msgid "copy"
 msgstr "Kopier"
 
 msgid "cos"
-msgstr ""
+msgstr "cos"
 
 msgid "costume #"
-msgstr ""
+msgstr "drakt nr."
 
 msgid "costume name"
-msgstr ""
+msgstr "draktnavn"
 
 msgid "costume1"
-msgstr ""
+msgstr "drakt1"
 
 msgid "Cowbell"
 msgstr "Kubjelle"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Bekken-kræsj"
 
 msgid "cut"
-msgstr ""
+msgstr "kutt"
 
 msgid "D connected"
-msgstr ""
+msgstr "D tilkoblet"
 
 msgid "date"
-msgstr ""
+msgstr "dato"
 
 msgid "day of week"
-msgstr ""
+msgstr "ukedag"
 
 msgid "delete"
 msgstr "slett"
 
 msgid "direction"
-msgstr ""
+msgstr "retning"
 
 msgid "down"
 msgstr "ned"
@@ -152,7 +169,7 @@ msgid "Duplicate"
 msgstr "lag kopi"
 
 msgid "e ^"
-msgstr ""
+msgstr "e ^"
 
 msgid "edge"
 msgstr "kant"
@@ -164,28 +181,28 @@ msgid "Edit"
 msgstr "Rediger"
 
 msgid "Effects"
-msgstr ""
+msgstr "Effekter"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Elektrisk Gitar"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Elektrisk Piano"
 
 msgid "fade in"
-msgstr ""
+msgstr "inntoning"
 
 msgid "fade out"
-msgstr ""
+msgstr "uttoning"
 
 msgid "fisheye"
 msgstr "fiskeøye"
 
 msgid "floor"
-msgstr ""
+msgstr "gulv"
 
 msgid "Floor Tom"
-msgstr ""
+msgstr "Gulv-Tom"
 
 msgid "Flute"
 msgstr "Fløyte"
@@ -194,31 +211,31 @@ msgid "ghost"
 msgstr "gjennomsiktig"
 
 msgid "Guitar"
-msgstr ""
+msgstr "Gitar"
 
 msgid "Hand Clap"
 msgstr "Håndklapp"
 
 msgid "High Bongo"
-msgstr ""
+msgstr "Høy Bongo"
 
 msgid "High Tom"
 msgstr "Høy tam"
 
 msgid "High Wood Block"
-msgstr ""
+msgstr "Høy Trekloss"
 
 msgid "hour"
-msgstr ""
+msgstr "time"
 
 msgid "Import"
 msgstr "importer"
 
 msgid "int"
-msgstr ""
+msgstr "int"
 
 msgid "Kick Drum"
-msgstr ""
+msgstr "Stortromme"
 
 msgid "last"
 msgstr "siste"
@@ -230,25 +247,25 @@ msgid "left arrow"
 msgstr "pil venstre"
 
 msgid "Library"
-msgstr ""
+msgstr "Bibliotek"
 
 msgid "light"
 msgstr "lys"
 
 msgid "ln"
-msgstr ""
+msgstr "ln"
 
 msgid "log"
-msgstr ""
+msgstr "log"
 
 msgid "login"
-msgstr ""
+msgstr "innlogging"
 
 msgid "Long Guiro"
 msgstr "Lang guiro"
 
 msgid "louder"
-msgstr ""
+msgstr "høyere"
 
 msgid "Low Bongo"
 msgstr "Lav bongo"
@@ -269,19 +286,19 @@ msgid "Marimba"
 msgstr "Marimba"
 
 msgid "message1"
-msgstr ""
+msgstr "melding1"
 
 msgid "Mid Tom"
-msgstr ""
+msgstr "Mid Tom"
 
 msgid "middle"
-msgstr ""
+msgstr "mellom"
 
 msgid "minute"
-msgstr ""
+msgstr "minutt"
 
 msgid "month"
-msgstr ""
+msgstr "måned"
 
 msgid "More"
 msgstr "flere"
@@ -290,7 +307,7 @@ msgid "mosaic"
 msgstr "mosaikk"
 
 msgid "motion"
-msgstr ""
+msgstr "bevegelse"
 
 msgid "mouse-pointer"
 msgstr "musepeker"
@@ -299,28 +316,28 @@ msgid "Music Box"
 msgstr "Spilledåse"
 
 msgid "Mute High Conga"
-msgstr ""
+msgstr "Dempet høy conga"
 
 msgid "Mute Triangle"
 msgstr "Dempet triangel"
 
 msgid "name"
-msgstr ""
+msgstr "navn"
 
 msgid "New"
 msgstr "ny"
 
 msgid "New backdrop"
-msgstr ""
+msgstr "Ny bakgrunn"
 
 msgid "New costume"
-msgstr ""
+msgstr "Ny drakt"
 
 msgid "new message..."
-msgstr ""
+msgstr "ny melding..."
 
 msgid "New sound"
-msgstr ""
+msgstr "Ny lyd"
 
 msgid "New sprite:"
 msgstr "Ny figur:"
@@ -332,7 +349,7 @@ msgid "on"
 msgstr "På"
 
 msgid "on-flipped"
-msgstr ""
+msgstr "på-speilvendt"
 
 msgid "Open Cuica"
 msgstr "Åpen cuica"
@@ -341,37 +358,37 @@ msgid "Open Hi-Hat"
 msgstr "Åpen hi-hat"
 
 msgid "Open High Conga"
-msgstr ""
+msgstr "Åpen høy conga"
 
 msgid "Open Triangle"
 msgstr "Åpen triangel"
 
 msgid "Organ"
-msgstr ""
+msgstr "Orgel"
 
 msgid "other scripts in stage"
-msgstr ""
+msgstr "andre skript på scenen"
 
 msgid "Paint"
 msgstr "Tegne"
 
 msgid "paste"
-msgstr ""
+msgstr "lim inn"
 
 msgid "Pedal Hi-Hat"
 msgstr "Pedal Hi-Hat"
 
 msgid "photo1"
-msgstr ""
+msgstr "bilde1"
 
 msgid "Piano"
-msgstr ""
+msgstr "Piano"
 
 msgid "pixelate"
 msgstr "piksler"
 
 msgid "Pizzicato"
-msgstr ""
+msgstr "Pizzicato"
 
 msgid "pop"
 msgstr "plopp"
@@ -380,25 +397,25 @@ msgid "Record"
 msgstr "opptak"
 
 msgid "recording1"
-msgstr ""
+msgstr "opptak1"
 
 msgid "redo"
 msgstr "Gjør om"
 
 msgid "Remix"
-msgstr ""
+msgstr "Remiks"
 
 msgid "resistance-A"
-msgstr ""
+msgstr "motstand-A"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "motstand-B"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "motstand-C"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "motstand-D"
 
 msgid "reverse"
 msgstr "snu"
@@ -410,55 +427,55 @@ msgid "right arrow"
 msgstr "pil høyre"
 
 msgid "Saxophone"
-msgstr ""
+msgstr "Saksofon"
 
 msgid "say"
-msgstr ""
+msgstr "si"
 
 msgid "second"
-msgstr ""
+msgstr "sekund"
 
 msgid "See project page"
-msgstr ""
+msgstr "Se prosjektsiden"
 
 msgid "select all"
-msgstr ""
+msgstr "velg alle"
 
 msgid "Short Guiro"
 msgstr "Kort Guiro"
 
 msgid "shout"
-msgstr ""
+msgstr "rop"
 
 msgid "show receivers"
-msgstr ""
+msgstr "vis mottakere"
 
 msgid "show senders"
-msgstr ""
+msgstr "vis sendere"
 
 msgid "Side Stick"
 msgstr "Kantslag"
 
 msgid "silence"
-msgstr ""
+msgstr "stille"
 
 msgid "sin"
-msgstr ""
+msgstr "sin"
 
 msgid "size"
-msgstr ""
+msgstr "størrelse"
 
 msgid "slider"
 msgstr "skyveknapp"
 
 msgid "Snare Drum"
-msgstr ""
+msgstr "Skarptromme"
 
 msgid "softer"
-msgstr ""
+msgstr "lavere"
 
 msgid "sound"
-msgstr ""
+msgstr "lyd"
 
 msgid "space"
 msgstr "mellomrom"
@@ -473,43 +490,44 @@ msgid "Stage"
 msgstr "Scene"
 
 msgid "Steel Drum"
-msgstr ""
+msgstr "Oljefat"
 
 msgid "Synth Lead"
-msgstr ""
+msgstr "Synt"
 
 msgid "Synth Pad"
-msgstr ""
+msgstr "Synth Pad"
 
 msgid "Tambourine"
 msgstr "Tamburin"
 
 msgid "tan"
-msgstr ""
+msgstr "tan"
 
 msgid "that way"
 msgstr "den veien"
 
 msgid "think"
-msgstr ""
+msgstr "tenk"
 
 msgid "this script"
-msgstr ""
+msgstr "dette skriptet"
 
 msgid "this way"
 msgstr "denne veien"
 
 msgid "Tips"
-msgstr ""
+msgstr "Tips"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
+"For å slette definisjonen av en kloss: Fjern først blokken i alle skript"
 
 msgid "top-left"
-msgstr ""
+msgstr "øvre venstre"
 
 msgid "top-right"
-msgstr ""
+msgstr "øvre høyre"
 
 msgid "Trombone"
 msgstr "Trombone"
@@ -530,23 +548,23 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "volume"
-msgstr ""
+msgstr "volum"
 
 msgid "whirl"
 msgstr "virvel"
 
+#, fuzzy
 msgid "whisper"
-msgstr ""
+msgstr "hvisk"
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Trefløyte"
 
 msgid "x position"
-msgstr ""
+msgstr "x-posisjon"
 
 msgid "y position"
-msgstr ""
+msgstr "y-posisjon"
 
 msgid "year"
-msgstr ""
-
+msgstr "år"

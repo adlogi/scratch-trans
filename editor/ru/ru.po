@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-28 17:31+0200\n"
+"PO-Revision-Date: 2012-12-24 11:20+0200\n"
+"Last-Translator: patarakin <patarakin@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
 msgid "A connected"
 msgstr ""
 
@@ -5,16 +21,16 @@ msgid "abs"
 msgstr "модуль"
 
 msgid "acos"
-msgstr ""
+msgstr "acos"
 
 msgid "Add a boolean input:"
-msgstr ""
+msgstr "Добавить логическое значение"
 
 msgid "Add a number input:"
-msgstr ""
+msgstr "Добавить числовое значение"
 
 msgid "Add a string input:"
-msgstr ""
+msgstr "Добавить строку"
 
 msgid "Add label text:"
 msgstr ""
@@ -26,22 +42,22 @@ msgid "any"
 msgstr "любой из"
 
 msgid "asin"
-msgstr ""
+msgstr "asin"
 
 msgid "atan"
-msgstr ""
+msgstr "atan"
 
 msgid "B connected"
-msgstr ""
+msgstr "B соединен"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "фон #"
 
 msgid "backdrop name"
-msgstr ""
+msgstr "имя фона"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "фон 1"
 
 msgid "Backpack"
 msgstr ""
@@ -53,10 +69,10 @@ msgid "Bassoon"
 msgstr "Фагот"
 
 msgid "bottom-left"
-msgstr ""
+msgstr "низ-лево"
 
 msgid "bottom-right"
-msgstr ""
+msgstr "низ-право"
 
 msgid "brightness"
 msgstr "яркость"
@@ -65,7 +81,7 @@ msgid "button pressed"
 msgstr "кнопка нажата"
 
 msgid "C connected"
-msgstr ""
+msgstr "C соединен"
 
 msgid "Cabasa"
 msgstr "Кабаса"
@@ -74,7 +90,7 @@ msgid "Camera"
 msgstr "Камера"
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Невозможно удалить"
 
 msgid "ceiling"
 msgstr ""
@@ -83,7 +99,7 @@ msgid "Cello"
 msgstr "Виолончель"
 
 msgid "Choir"
-msgstr ""
+msgstr "Хор"
 
 msgid "Clarinet"
 msgstr "Кларнет"
@@ -92,7 +108,7 @@ msgid "Claves"
 msgstr "Клавесин"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "очистить отправители/получатели"
 
 msgid "Closed Hi-Hat"
 msgstr "Closed Hi-Hat"
@@ -104,40 +120,40 @@ msgid "copy"
 msgstr "Копировать"
 
 msgid "cos"
-msgstr ""
+msgstr "cos"
 
 msgid "costume #"
-msgstr ""
+msgstr "костюм #"
 
 msgid "costume name"
-msgstr ""
+msgstr "имя костюма"
 
 msgid "costume1"
-msgstr ""
+msgstr "костюм1"
 
 msgid "Cowbell"
 msgstr "Колокольчик"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Удар Тарелок"
 
 msgid "cut"
-msgstr ""
+msgstr "вырезать"
 
 msgid "D connected"
-msgstr ""
+msgstr "D соединен"
 
 msgid "date"
-msgstr ""
+msgstr "дата"
 
 msgid "day of week"
-msgstr ""
+msgstr "день недели"
 
 msgid "delete"
 msgstr "удалить"
 
 msgid "direction"
-msgstr ""
+msgstr "направление"
 
 msgid "down"
 msgstr "вниз"
@@ -152,7 +168,7 @@ msgid "Duplicate"
 msgstr "дублировать"
 
 msgid "e ^"
-msgstr ""
+msgstr "e ^"
 
 msgid "edge"
 msgstr "край"
@@ -164,16 +180,16 @@ msgid "Edit"
 msgstr "Редактировать"
 
 msgid "Effects"
-msgstr ""
+msgstr "Эффекты"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Электрическая гитара"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Электрическое пианино"
 
 msgid "fade in"
-msgstr ""
+msgstr "увеличивать"
 
 msgid "fade out"
 msgstr ""
@@ -194,7 +210,7 @@ msgid "ghost"
 msgstr "призрак"
 
 msgid "Guitar"
-msgstr ""
+msgstr "Гитара"
 
 msgid "Hand Clap"
 msgstr "Хлопок ладоней"
@@ -209,13 +225,13 @@ msgid "High Wood Block"
 msgstr ""
 
 msgid "hour"
-msgstr ""
+msgstr "час"
 
 msgid "Import"
 msgstr "импорт"
 
 msgid "int"
-msgstr ""
+msgstr "int"
 
 msgid "Kick Drum"
 msgstr ""
@@ -230,7 +246,7 @@ msgid "left arrow"
 msgstr "стрелка влево"
 
 msgid "Library"
-msgstr ""
+msgstr "Библиотека"
 
 msgid "light"
 msgstr "свет"
@@ -239,7 +255,7 @@ msgid "ln"
 msgstr ""
 
 msgid "log"
-msgstr ""
+msgstr "log"
 
 msgid "login"
 msgstr ""
@@ -248,7 +264,7 @@ msgid "Long Guiro"
 msgstr "Длинное гуиро"
 
 msgid "louder"
-msgstr ""
+msgstr "громче"
 
 msgid "Low Bongo"
 msgstr "Низкий бонго"
@@ -269,19 +285,19 @@ msgid "Marimba"
 msgstr "Маримба"
 
 msgid "message1"
-msgstr ""
+msgstr "сообщение1"
 
 msgid "Mid Tom"
 msgstr ""
 
 msgid "middle"
-msgstr ""
+msgstr "средний"
 
 msgid "minute"
-msgstr ""
+msgstr "минута"
 
 msgid "month"
-msgstr ""
+msgstr "месяц"
 
 msgid "More"
 msgstr "больше"
@@ -290,7 +306,7 @@ msgid "mosaic"
 msgstr "мозаика"
 
 msgid "motion"
-msgstr ""
+msgstr "движение"
 
 msgid "mouse-pointer"
 msgstr "указатель мышки"
@@ -305,22 +321,22 @@ msgid "Mute Triangle"
 msgstr "Mute Triangle"
 
 msgid "name"
-msgstr ""
+msgstr "имя"
 
 msgid "New"
 msgstr "новый"
 
 msgid "New backdrop"
-msgstr ""
+msgstr "Новый фон"
 
 msgid "New costume"
-msgstr ""
+msgstr "Новый костюм"
 
 msgid "new message..."
-msgstr ""
+msgstr "новое сообщение"
 
 msgid "New sound"
-msgstr ""
+msgstr "Новый звук"
 
 msgid "New sprite:"
 msgstr "Новый объект"
@@ -347,7 +363,7 @@ msgid "Open Triangle"
 msgstr "Открытый треугольник "
 
 msgid "Organ"
-msgstr ""
+msgstr "Орган"
 
 msgid "other scripts in stage"
 msgstr ""
@@ -356,22 +372,22 @@ msgid "Paint"
 msgstr "Рисовать"
 
 msgid "paste"
-msgstr ""
+msgstr "вставить"
 
 msgid "Pedal Hi-Hat"
 msgstr "Хэт (педалью) "
 
 msgid "photo1"
-msgstr ""
+msgstr "фото1"
 
 msgid "Piano"
-msgstr ""
+msgstr "Тихо"
 
 msgid "pixelate"
 msgstr "укрупнение пикселей"
 
 msgid "Pizzicato"
-msgstr ""
+msgstr "Пиццикато"
 
 msgid "pop"
 msgstr "поп"
@@ -386,19 +402,19 @@ msgid "redo"
 msgstr "Отмена"
 
 msgid "Remix"
-msgstr ""
+msgstr "Ремикс"
 
 msgid "resistance-A"
-msgstr ""
+msgstr "сопротивление-A"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "сопротивление-B"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "сопротивление-C"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "сопротивление-D"
 
 msgid "reverse"
 msgstr "перевернуть"
@@ -410,43 +426,43 @@ msgid "right arrow"
 msgstr "стрелка направо"
 
 msgid "Saxophone"
-msgstr ""
+msgstr "Саксофон"
 
 msgid "say"
-msgstr ""
+msgstr "скажи"
 
 msgid "second"
-msgstr ""
+msgstr "второй"
 
 msgid "See project page"
-msgstr ""
+msgstr "Посмотреть страницу проекта"
 
 msgid "select all"
-msgstr ""
+msgstr "выбрать все"
 
 msgid "Short Guiro"
 msgstr "Короткое гуиро"
 
 msgid "shout"
-msgstr ""
+msgstr "кричать"
 
 msgid "show receivers"
-msgstr ""
+msgstr "показать получателей"
 
 msgid "show senders"
-msgstr ""
+msgstr "показать отправителей"
 
 msgid "Side Stick"
 msgstr "Side Stick"
 
 msgid "silence"
-msgstr ""
+msgstr "тишина"
 
 msgid "sin"
-msgstr ""
+msgstr "sin"
 
 msgid "size"
-msgstr ""
+msgstr "размер"
 
 msgid "slider"
 msgstr "Рычажок"
@@ -458,7 +474,7 @@ msgid "softer"
 msgstr ""
 
 msgid "sound"
-msgstr ""
+msgstr "звук"
 
 msgid "space"
 msgstr "пробел"
@@ -485,16 +501,16 @@ msgid "Tambourine"
 msgstr "Тамбурин"
 
 msgid "tan"
-msgstr ""
+msgstr "tan"
 
 msgid "that way"
 msgstr "туда"
 
 msgid "think"
-msgstr ""
+msgstr "думать"
 
 msgid "this script"
-msgstr ""
+msgstr "этот скрипт"
 
 msgid "this way"
 msgstr "сюда"
@@ -509,7 +525,7 @@ msgid "top-left"
 msgstr ""
 
 msgid "top-right"
-msgstr ""
+msgstr "верх-право"
 
 msgid "Trombone"
 msgstr "Тромбон"
@@ -530,7 +546,7 @@ msgid "Vibraslap"
 msgstr "Вибрирующий слэп"
 
 msgid "volume"
-msgstr ""
+msgstr "уровень"
 
 msgid "whirl"
 msgstr "завихрение"
@@ -539,14 +555,13 @@ msgid "whisper"
 msgstr ""
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Деревянная флейта"
 
 msgid "x position"
-msgstr ""
+msgstr "положение по оси x"
 
 msgid "y position"
-msgstr ""
+msgstr "положение по оси y"
 
 msgid "year"
-msgstr ""
-
+msgstr "год"

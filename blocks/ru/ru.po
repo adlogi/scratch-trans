@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-28 17:30+0200\n"
+"PO-Revision-Date: 2012-12-23 19:27+0200\n"
+"Last-Translator: patarakin <patarakin@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
 msgid "Language-Name"
 msgstr "Русский"
 
@@ -37,9 +53,8 @@ msgid "backdrop #"
 msgstr "фон #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop name"
-msgstr ""
+msgstr "Имя фона"
 
 msgid "broadcast %m.broadcast"
 msgstr "передать %m.broadcast"
@@ -96,13 +111,13 @@ msgid "costume #"
 msgstr "костюм #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "создать клон %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "текущие %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Данные"
 
 msgid "define"
 msgstr ""
@@ -111,13 +126,13 @@ msgid "delete %d.listDeleteItem of %m.list"
 msgstr "удалить %d.listDeleteItem из %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "удалить этот клон"
 
 msgid "direction"
 msgstr "направление"
 
 msgid "distance"
-msgstr ""
+msgstr "расстояние"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "расстояние до %m.spriteOrMouse"
@@ -126,7 +141,7 @@ msgid "else"
 msgstr "иначе"
 
 msgid "Events"
-msgstr ""
+msgstr "События"
 
 msgid "forever"
 msgstr "всегда"
@@ -153,10 +168,10 @@ msgid "hide"
 msgstr "спрятаться"
 
 msgid "hide all sprites"
-msgstr ""
+msgstr "скрыть все спрайты"
 
 msgid "hide monitor %m.varOrList"
-msgstr ""
+msgstr "скрыть монитор %m.varOrList"
 
 msgid "if %b"
 msgstr "если %b"
@@ -192,7 +207,7 @@ msgid "loudness"
 msgstr "громкость"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Дополнительные блоки"
 
 msgid "Motion"
 msgstr "движение"
@@ -293,7 +308,7 @@ msgid "say %s for %n secs"
 msgstr "говорить %s в течение %n секунд"
 
 msgid "Scratch days"
-msgstr ""
+msgstr "Дни Скретча"
 
 msgid "Sensing"
 msgstr "сенсоры"
@@ -329,7 +344,7 @@ msgid "set tempo to %n bpm"
 msgstr "установить темп %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "установить прозрачность видео %n%"
 
 msgid "set volume to %n%"
 msgstr "установить громкость %n%"
@@ -344,7 +359,7 @@ msgid "show"
 msgstr "показаться"
 
 msgid "show monitor %m.varOrList"
-msgstr ""
+msgstr "показать монитор %m.varOrList"
 
 msgid "size"
 msgstr "размер"
@@ -356,23 +371,21 @@ msgid "stamp"
 msgstr "печать"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "стоп %m.stop"
 
 msgid "stop all sounds"
 msgstr "остановить все звуки"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "сменить фон на %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "сменить фон на %m.backdrop и ждать"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "сменить костюм на %m.costume"
 
 msgid "tempo"
 msgstr "темп"
@@ -396,16 +409,16 @@ msgid "touching color %c?"
 msgstr "касается цвета %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "повернуть @turnLeft на %n градусов"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "повернуть @turnRight на %n градусов"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "повернуть видео на %m.videoState"
 
 msgid "user id"
-msgstr ""
+msgstr "ID участника"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr ""
@@ -426,19 +439,17 @@ msgid "when @greenFlag clicked"
 msgstr "когда щелкнут по @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "когда фон меняется на %m.backdrop"
 
 msgid "when I am clicked"
-msgstr ""
+msgstr "когда я щелкну "
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "когда я получу %m.broadcast"
 
 msgid "x position"
 msgstr "положение x"
 
 msgid "y position"
 msgstr "положение y"
-

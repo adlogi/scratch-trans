@@ -1,5 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-28 10:24+0200\n"
+"PO-Revision-Date: 2013-01-28 09:47+0200\n"
+"Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
 msgid "Language-Name"
-msgstr "svenska"
+msgstr "Svenska"
 
 msgid "%b and %b"
 msgstr "%b och %b"
@@ -17,7 +32,7 @@ msgid "%m.mathOp of %n"
 msgstr "%m.mathOp av %n"
 
 msgid "%m.sensor sensor value"
-msgstr "sensorns %m.sensor värde"
+msgstr "%m.sensor sensorns värde"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
@@ -32,20 +47,18 @@ msgid "ask %s and wait"
 msgstr "fråga %s och vänta"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "bakgrund #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop name"
-msgstr ""
+msgstr "bakgrund namn"
 
 msgid "broadcast %m.broadcast"
-msgstr "sända %m.broadcast"
+msgstr "sänd %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "sända %m.broadcast och vänta"
+msgstr "sänd %m.broadcast och vänta"
 
 msgid "change %m.effect effect by %n"
 msgstr "ändra %m.effect effekten med %n"
@@ -84,40 +97,40 @@ msgid "clear graphic effects"
 msgstr "ta bort grafisk effekt"
 
 msgid "clone startup"
-msgstr ""
+msgstr "klona start"
 
 msgid "color %c is touching %c?"
 msgstr "är färgen %c över %c?"
 
 msgid "Control"
-msgstr "kontroll"
+msgstr "Kontroll"
 
 msgid "costume #"
 msgstr "klädsel #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "skapa klon av %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "nuvarande %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 msgid "define"
-msgstr ""
+msgstr "definiera"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "ta bort %d.listDeleteItem i %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "radera klonen"
 
 msgid "direction"
 msgstr "riktning"
 
 msgid "distance"
-msgstr ""
+msgstr "distans"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "avstånd till %m.spriteOrMouse"
@@ -126,7 +139,7 @@ msgid "else"
 msgstr "annars"
 
 msgid "Events"
-msgstr ""
+msgstr "Händelser"
 
 msgid "forever"
 msgstr "för alltid"
@@ -153,22 +166,22 @@ msgid "hide"
 msgstr "göm"
 
 msgid "hide all sprites"
-msgstr ""
+msgstr "göm alla sprites"
 
 msgid "hide monitor %m.varOrList"
-msgstr ""
+msgstr "göm övervakare %m.varOrList"
 
 msgid "if %b"
 msgstr "om %b"
 
 msgid "if on edge, bounce"
-msgstr "studsa om vid kanten"
+msgstr "studsa, vid kanten"
 
 msgid "insert %s at %d.listItem of %m.list"
 msgstr "sätt in %s på %d.listItem i %m.list"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%d.listItem i %m.list"
+msgstr "objekt %d.listItem i %m.list"
 
 msgid "join %s %s"
 msgstr "förena %s %s"
@@ -186,16 +199,16 @@ msgid "letter %n of %s"
 msgstr "bokstav %n i %s"
 
 msgid "Looks"
-msgstr "utseende"
+msgstr "Utseende"
 
 msgid "loudness"
 msgstr "ljudnivå"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Fler Block"
 
 msgid "Motion"
-msgstr "rörelse"
+msgstr "Rörelse"
 
 msgid "motor direction %m.motorDirection"
 msgstr "motorriktning %m.motorDirection"
@@ -225,7 +238,6 @@ msgid "move %n steps"
 msgstr "gå %n steg"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "nästa bakgrund"
 
@@ -236,10 +248,10 @@ msgid "not %b"
 msgstr "inte %b"
 
 msgid "Operators"
-msgstr "operator"
+msgstr "Operatorer"
 
 msgid "Pen"
-msgstr "penna"
+msgstr "Penna"
 
 msgid "pen down"
 msgstr "penna ned"
@@ -254,7 +266,7 @@ msgid "play drum %d.drum for %n beats"
 msgstr "spela trumman %d.drum i %n taktslag"
 
 msgid "play note %n for %n beats"
-msgstr "spela tonen %d.note i %n taktslag"
+msgstr "spela noten %n i %n taktslag"
 
 msgid "play sound %m.sound"
 msgstr "spela ljudet %m.sound"
@@ -293,10 +305,10 @@ msgid "say %s for %n secs"
 msgstr "säg %s i %n sekunder"
 
 msgid "Scratch days"
-msgstr ""
+msgstr "Scratchdagar"
 
 msgid "Sensing"
-msgstr "känna av"
+msgstr "Känna av"
 
 msgid "sensor %m.booleanSensor?"
 msgstr "sensorn %m.booleanSensor?"
@@ -305,7 +317,7 @@ msgid "set %m.effect effect to %n"
 msgstr "sätt %m.effect effekten till %n"
 
 msgid "set %m.var to %s"
-msgstr "sätt %m.var till %n"
+msgstr "sätt %m.var till %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "sätt instrument till %d.instrument"
@@ -314,7 +326,7 @@ msgid "set pen color to %c"
 msgstr "sätt pennans färg till %c"
 
 msgid "set pen color to %n"
-msgstr "sätt pennans färg till %c"
+msgstr "sätt pennans färg till %n"
 
 msgid "set pen shade to %n"
 msgstr "sätt pennans nyans till %n"
@@ -329,7 +341,7 @@ msgid "set tempo to %n bpm"
 msgstr "sätt tempo till %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "sätt video genomskinlighet till %n%"
 
 msgid "set volume to %n%"
 msgstr "sätt volym till %n%"
@@ -344,35 +356,33 @@ msgid "show"
 msgstr "visa"
 
 msgid "show monitor %m.varOrList"
-msgstr ""
+msgstr "visa övervakare %m.varOrList"
 
 msgid "size"
 msgstr "storlek"
 
 msgid "Sound"
-msgstr "ljud"
+msgstr "Ljud"
 
 msgid "stamp"
 msgstr "stämpla"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "stopp %m.stop"
 
 msgid "stop all sounds"
 msgstr "stoppa all ljud"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "byt bakgrund till %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "byt bakgrund till %m.backdrop och vänta"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "byt klädsel till %m.costume"
 
 msgid "tempo"
 msgstr "tempo"
@@ -384,7 +394,7 @@ msgid "think %s for %n secs"
 msgstr "tänk %s i %n sekunder"
 
 msgid "tilt"
-msgstr ""
+msgstr "luta"
 
 msgid "timer"
 msgstr "timer"
@@ -396,19 +406,19 @@ msgid "touching color %c?"
 msgstr "rör färgen %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "vänd @turnLeft %n grader"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "vänd @turnRight %n grader"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "vänd video %m.videoState"
 
 msgid "user id"
-msgstr ""
+msgstr "användarnamn"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "video %m.videoMotionType på %m.stageOrThis"
 
 msgid "volume"
 msgstr "volym"
@@ -420,25 +430,23 @@ msgid "wait until %b"
 msgstr "vänta tills %b"
 
 msgid "when %m.key key pressed"
-msgstr "när %m.key trycks"
+msgstr "när %m.key trycks ned"
 
 msgid "when @greenFlag clicked"
 msgstr "när @greenFlag klickas på"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "när bakgrunden växlar till %m.backdrop"
 
 msgid "when I am clicked"
-msgstr ""
+msgstr "när jag klickas på"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "när jag tar emot %m.broadcast"
 
 msgid "x position"
 msgstr "x-läge"
 
 msgid "y position"
 msgstr "y-läge"
-

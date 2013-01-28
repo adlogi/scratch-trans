@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-16 01:15+0200\n"
-"PO-Revision-Date: 2012-12-13 05:37+0200\n"
+"PO-Revision-Date: 2012-12-27 08:06+0200\n"
 "Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -168,9 +168,8 @@ msgstr "隐藏"
 msgid "hide all sprites"
 msgstr "隐藏所有角色"
 
-#, fuzzy
 msgid "hide monitor %m.varOrList"
-msgstr "隐藏显示器 %m.varOrList"
+msgstr "隐藏监视器 %m.varOrList"
 
 msgid "if %b"
 msgstr "如果 %b"
@@ -305,7 +304,6 @@ msgstr "说 %s"
 msgid "say %s for %n secs"
 msgstr "说 %s %n 秒"
 
-#, fuzzy
 msgid "Scratch days"
 msgstr "Scratch天数"
 
@@ -357,9 +355,8 @@ msgstr "将y坐标设定为 %n"
 msgid "show"
 msgstr "显示"
 
-#, fuzzy
 msgid "show monitor %m.varOrList"
-msgstr "显示显示器 %m.varOrList"
+msgstr "显示监视器 %m.varOrList"
 
 msgid "size"
 msgstr "大小"
@@ -415,14 +412,13 @@ msgid "turn @turnRight %n degrees"
 msgstr "旋转 @turnRight %n 度"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "将摄像头"
 
 msgid "user id"
 msgstr "用户名"
 
-#, fuzzy
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "录制 %m.videoMotionType 在 %m.stageOrThis"
+msgstr "录制 %m.stageOrThis 的 %m.videoMotionType "
 
 msgid "volume"
 msgstr "音量"

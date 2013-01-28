@@ -4,53 +4,51 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="Language-Name">
         <source>Language-Name</source>
-        <target state="translated"></target>
-        <note from="translator">Language name as you'd like it to appear in the Languages menu
-(Required)</note>
+        <target state="translated">မြန်မာဘာသာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%b and %b">
         <source>%b and %b</source>
-        <target state="translated"></target>
+        <target state="translated">%b နဲ့ %b</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%b or %b">
         <source>%b or %b</source>
-        <target state="translated"></target>
+        <target state="translated">%b သို့မဟုတ် %b</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%m.attribute of %m.spriteOrStage">
         <source>%m.attribute of %m.spriteOrStage</source>
-        <target state="translated"></target>
+        <target state="translated">%m.spriteOrStage ရဲ့ %m.attribute</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%m.list contains %s">
         <source>%m.list contains %s</source>
-        <target state="translated"></target>
+        <target state="translated">%m.list မှာ %s က ပါဝင်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%m.mathOp of %n">
         <source>%m.mathOp of %n</source>
-        <target state="translated"></target>
+        <target state="translated">%n ရဲ့ %m.mathOp</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%m.sensor sensor value">
         <source>%m.sensor sensor value</source>
-        <target state="translated"></target>
+        <target state="translated">%m.sensor အာရုံခံကိရိယာ တန်ဖိုး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%n mod %n">
         <source>%n mod %n</source>
-        <target state="translated"></target>
+        <target state="translated">%n2 ကို %n1 နဲ့စားထားသောစားကြွင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="add %s to %m.list">
         <source>add %s to %m.list</source>
-        <target state="translated"></target>
+        <target state="translated">%s ကို %m.list နဲ့ပေါင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="answer">
         <source>answer</source>
-        <target state="translated"></target>
+        <target state="translated">အဖြေ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ask %s and wait">
         <source>ask %s and wait</source>
-        <target state="translated"></target>
+        <target state="translated">%s မေးပြီး စောင့်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="backdrop #">
+      <trans-unit xml:space="preserve" approved="no" id="backdrop #">
         <source>backdrop #</source>
-        <target state="translated"></target>
+        <target state="needs-translation">နောက်ခံ နံပါတ်</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop name">
@@ -60,59 +58,59 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast">
         <source>broadcast %m.broadcast</source>
-        <target state="translated"></target>
+        <target state="translated">%m.broadcast ကိုထုတ်လွှင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast and wait">
         <source>broadcast %m.broadcast and wait</source>
-        <target state="translated"></target>
+        <target state="translated">%m.broadcast ကိုထုတ်လွှင့်ပြီး စောင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change %m.effect effect by %n">
         <source>change %m.effect effect by %n</source>
-        <target state="translated"></target>
+        <target state="translated">%m.effect ရဲ့ သက်ရောက်မှု့ကို %n စီ ပြောင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change %m.var by %n">
         <source>change %m.var by %n</source>
-        <target state="translated"></target>
+        <target state="translated">%m.var ကို %n စီ ပြောင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change pen color by %n">
         <source>change pen color by %n</source>
-        <target state="translated"></target>
+        <target state="translated">စုတ်တံရဲ့ အရောင်ကို %n စီ ပြောင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change pen shade by %n">
         <source>change pen shade by %n</source>
-        <target state="translated"></target>
+        <target state="translated">စုတ်တံရဲ့ အရောင် အလင်း၊ အမှောင် ကို %n စီ ပြောင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change pen size by %n">
         <source>change pen size by %n</source>
-        <target state="translated"></target>
+        <target state="translated">စုတ်တံအရွယ်ကို %n စီ ပြောင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change size by %n">
         <source>change size by %n</source>
-        <target state="translated"></target>
+        <target state="translated">အရွယ်ကို %n စီ ပြောင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change tempo by %n">
         <source>change tempo by %n</source>
-        <target state="translated"></target>
+        <target state="translated">အသံရဲ့ မြန်နှုန်းကို %n စီ ပြောင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change volume by %n">
         <source>change volume by %n</source>
-        <target state="translated"></target>
+        <target state="translated">အသံ အတိုးအကျယ်ကို %n စီ ပြောင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change x by %n">
         <source>change x by %n</source>
-        <target state="translated"></target>
+        <target state="translated">x ဝင်ရိုးကို %n စီ ပြောင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change y by %n">
         <source>change y by %n</source>
-        <target state="translated"></target>
+        <target state="translated">y ဝင်ရိုးကို %n စီ ပြောင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clear">
         <source>clear</source>
-        <target state="translated"></target>
+        <target state="translated">ဖျက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clear graphic effects">
         <source>clear graphic effects</source>
-        <target state="translated"></target>
+        <target state="translated">ဂရက်ဖစ်ရဲ့ သက်ရောက်မှု့ကို ဖျက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clone startup">
         <source>clone startup</source>
@@ -120,15 +118,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color %c is touching %c?">
         <source>color %c is touching %c?</source>
-        <target state="translated"></target>
+        <target state="translated">%c အရောင်ကို %c အရောင်နဲ့ ရော</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Control">
         <source>Control</source>
-        <target state="translated"></target>
+        <target state="translated">ထိန်းချုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="costume #">
         <source>costume #</source>
-        <target state="translated"></target>
+        <target state="translated">အဝတ်အစား ရဲ့ နံပါတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="create clone of %m.spriteOnly">
         <source>create clone of %m.spriteOnly</source>
@@ -148,7 +146,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete %d.listDeleteItem of %m.list">
         <source>delete %d.listDeleteItem of %m.list</source>
-        <target state="translated"></target>
+        <target state="translated">%d.listDeleteItem ခုမြောက်ကို %m.list ကနေဖျက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete this clone">
         <source>delete this clone</source>
@@ -156,7 +154,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="direction">
         <source>direction</source>
-        <target state="translated"></target>
+        <target state="translated">ဦးတည်ရာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance">
         <source>distance</source>
@@ -164,11 +162,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance to %m.spriteOrMouse">
         <source>distance to %m.spriteOrMouse</source>
-        <target state="translated"></target>
+        <target state="translated">%m.spriteOrMouse အထိ ခွာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="else">
         <source>else</source>
-        <target state="translated"></target>
+        <target state="translated">မဟုတ်ရင်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Events">
         <source>Events</source>
@@ -176,35 +174,35 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="forever">
         <source>forever</source>
-        <target state="translated"></target>
+        <target state="translated">အမြဲတမ်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="forever if %b">
         <source>forever if %b</source>
-        <target state="translated"></target>
+        <target state="translated">အကယ်၍ %b ဆိုရင် အမြဲတမ်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
         <source>glide %n secs to x:%n y:%n</source>
-        <target state="translated"></target>
+        <target state="translated">%n စက္ကန့်မှာ x ဝင်ရိုးကို %n 、y ဝင်ရိုးကို%n အဖြစ် ပြောင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go back %n layers">
         <source>go back %n layers</source>
-        <target state="translated"></target>
+        <target state="translated">%n လွှာဆီ ပြန်ရွှေ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to %m.spriteOrMouse">
         <source>go to %m.spriteOrMouse</source>
-        <target state="translated"></target>
+        <target state="translated">%m.spriteOrMouse ဆီသွား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to front">
         <source>go to front</source>
-        <target state="translated"></target>
+        <target state="translated">ရှေ့ကိုထုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to x:%n y:%n">
         <source>go to x:%n y:%n</source>
-        <target state="translated"></target>
+        <target state="translated">xဝင်ရိုးကို %n 、yဝင်ရိုးကို %n အဖြစ်ထား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide">
         <source>hide</source>
-        <target state="translated"></target>
+        <target state="translated">ဖွက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide all sprites">
         <source>hide all sprites</source>
@@ -216,47 +214,47 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if %b">
         <source>if %b</source>
-        <target state="translated"></target>
+        <target state="translated">အကယ်၍ %b ဆိုရင်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if on edge, bounce">
         <source>if on edge, bounce</source>
-        <target state="translated"></target>
+        <target state="translated">အကယ်၍ ဘောင်နဲ့ထိရင် ပြန်ကန်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="insert %s at %d.listItem of %m.list">
         <source>insert %s at %d.listItem of %m.list</source>
-        <target state="translated"></target>
+        <target state="translated">%m.list ရဲ့ %d.listItem ခုမြောက်မှာ %s ကို ထည့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="item %d.listItem of %m.list">
         <source>item %d.listItem of %m.list</source>
-        <target state="translated"></target>
+        <target state="translated">%m.list ရဲ့ %d.listItem ကြိမ်မြောက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="join %s %s">
         <source>join %s %s</source>
-        <target state="translated"></target>
+        <target state="translated">%s နဲ့ %s ကိုဆက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="key %m.key pressed?">
         <source>key %m.key pressed?</source>
-        <target state="translated"></target>
+        <target state="translated">%m.key ကီးကိုနှိပ်ခဲ့လား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="length of %m.list">
         <source>length of %m.list</source>
-        <target state="translated"></target>
+        <target state="translated">%m.list ရဲ့အရှည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="length of %s">
         <source>length of %s</source>
-        <target state="translated"></target>
+        <target state="translated">%s ရဲ့အရှည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="letter %n of %s">
         <source>letter %n of %s</source>
-        <target state="translated"></target>
+        <target state="translated">%s ရဲ့ %n လုံးမြောက် စာလုံး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Looks">
         <source>Looks</source>
-        <target state="translated"></target>
+        <target state="translated">မြင်ရပုံ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="loudness">
         <source>loudness</source>
-        <target state="translated"></target>
+        <target state="translated">အသံ အတိုးအကျယ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="More Blocks">
         <source>More Blocks</source>
@@ -264,132 +262,132 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Motion">
         <source>Motion</source>
-        <target state="translated"></target>
+        <target state="translated">လှုပ်ရှားမှု့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motor direction %m.motorDirection">
         <source>motor direction %m.motorDirection</source>
-        <target state="translated"></target>
+        <target state="translated">မော်တာရဲ့ လည်ပတ်မှု့ကို %m.motorDirection အဖြစ်ထား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motor off">
         <source>motor off</source>
-        <target state="translated"></target>
+        <target state="translated">မော်တာကို ပိတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motor on">
         <source>motor on</source>
-        <target state="translated"></target>
+        <target state="translated">မော်တာကို ဖွင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motor on for %n secs">
         <source>motor on for %n secs</source>
-        <target state="translated"></target>
+        <target state="translated">မော်တာကို  %n စက္ကန့် ဖွင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motor power %n">
         <source>motor power %n</source>
-        <target state="translated"></target>
+        <target state="translated">မော်တာ ပါဝါကို  %n အဖြစ်ထား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse down?">
         <source>mouse down?</source>
-        <target state="translated"></target>
+        <target state="translated">မောက်စ်ကို နှိပ်ခဲ့လား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse x">
         <source>mouse x</source>
-        <target state="translated"></target>
+        <target state="translated">မောက်စ်ရဲ့ x ဝင်ရိုး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse y">
         <source>mouse y</source>
-        <target state="translated"></target>
+        <target state="translated">မောက်စ်ရဲ့ y ဝင်ရိုး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="move %n steps">
         <source>move %n steps</source>
-        <target state="translated"></target>
+        <target state="translated">%n လှမ်း ရွှေ့</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="next backdrop">
+      <trans-unit xml:space="preserve" approved="no" id="next backdrop">
         <source>next backdrop</source>
-        <target state="translated"></target>
+        <target state="needs-translation">နောက်ခံပုံ နောက်တခုအဖြစ်ပြောင်း</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="next costume">
         <source>next costume</source>
-        <target state="translated"></target>
+        <target state="translated">အဝတ်အစား နောက်တစုံလဲ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="not %b">
         <source>not %b</source>
-        <target state="translated"></target>
+        <target state="translated">%b မဟုတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Operators">
         <source>Operators</source>
-        <target state="translated"></target>
+        <target state="translated">လုပ်ကိုင်မှု့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pen">
         <source>Pen</source>
-        <target state="translated"></target>
+        <target state="translated">စုတ်တံ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pen down">
         <source>pen down</source>
-        <target state="translated"></target>
+        <target state="translated">စုတ်တံ ကိုပြန်ထား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pen up">
         <source>pen up</source>
-        <target state="translated"></target>
+        <target state="translated">စုတ်တံ ကိုယူ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pick random %n to %n">
         <source>pick random %n to %n</source>
-        <target state="translated"></target>
+        <target state="translated">%n ကနေ %n အထိ ကျပန်းရွေး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play drum %d.drum for %n beats">
         <source>play drum %d.drum for %n beats</source>
-        <target state="translated"></target>
+        <target state="translated">%d.drum ဒရမ်ကို %n စည်းချက်နဲ့ တီး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play note %n for %n beats">
         <source>play note %n for %n beats</source>
-        <target state="translated"></target>
+        <target state="translated">%d.note ဂီတသင်္ကေတတွေ ကို %n စည်းချက်နဲ့ တီးခတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play sound %m.sound">
         <source>play sound %m.sound</source>
-        <target state="translated"></target>
+        <target state="translated">%m.sound အသံကို ထုတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play sound %m.sound until done">
         <source>play sound %m.sound until done</source>
-        <target state="translated"></target>
+        <target state="translated">ပြီးတဲ့အထိ %m.sound ရဲ့ အသံကိုထုတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="point in direction %d.direction">
         <source>point in direction %d.direction</source>
-        <target state="translated"></target>
+        <target state="translated">%d.direction ဒီဂရီ ရွှေ့ (လှည့်)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="point towards %m.spriteOrMouse">
         <source>point towards %m.spriteOrMouse</source>
-        <target state="translated"></target>
+        <target state="translated">%m.spriteOrMouse ဆီ ဦးတည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="repeat %n">
         <source>repeat %n</source>
-        <target state="translated"></target>
+        <target state="translated">%n ခါ ထပ်လုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="repeat until %b">
         <source>repeat until %b</source>
-        <target state="translated"></target>
+        <target state="translated">%b ဖြစ်တဲ့အထိ ထပ်လုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="replace item %d.listItem of %m.list with %s">
         <source>replace item %d.listItem of %m.list with %s</source>
-        <target state="translated"></target>
+        <target state="translated">%m.list ရဲ့ %d.listItem ခုမြောက်ကို %s နဲ့ အစားထိုး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reset timer">
         <source>reset timer</source>
-        <target state="translated"></target>
+        <target state="translated">တိုင်မာအချိန်ကို ပြန်စ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="rest for %n beats">
         <source>rest for %n beats</source>
-        <target state="translated"></target>
+        <target state="translated">စည်းချက် %n ခါ အနားပေး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="round %n">
         <source>round %n</source>
-        <target state="translated"></target>
+        <target state="translated">%n ရဲ့အနီးဆုံးကိန်းပြည့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="say %s">
         <source>say %s</source>
-        <target state="translated"></target>
+        <target state="translated">%s လို့ပြော</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="say %s for %n secs">
         <source>say %s for %n secs</source>
-        <target state="translated"></target>
+        <target state="translated">%s လို့ %n စက္ကန့် ပြော</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Scratch days">
         <source>Scratch days</source>
@@ -397,47 +395,47 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sensing">
         <source>Sensing</source>
-        <target state="translated"></target>
+        <target state="translated">ရှာဖွေမှု့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sensor %m.booleanSensor?">
         <source>sensor %m.booleanSensor?</source>
-        <target state="translated"></target>
+        <target state="translated">အာရုံခံကိရိယာ %m.booleanSensor လား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set %m.effect effect to %n">
         <source>set %m.effect effect to %n</source>
-        <target state="translated"></target>
+        <target state="translated">%m.effect ရဲ့ သက်ရောက်မှု့ကို %n အဖြစ် သတ်မှတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set %m.var to %s">
         <source>set %m.var to %s</source>
-        <target state="translated"></target>
+        <target state="translated">%m.var ကို %n အဖြစ် သတ်မှတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set instrument to %d.instrument">
         <source>set instrument to %d.instrument</source>
-        <target state="translated"></target>
+        <target state="translated">တူရိယာ ကို %d.instrument အဖြစ် သတ်မှတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen color to %c">
         <source>set pen color to %c</source>
-        <target state="translated"></target>
+        <target state="translated">စုတ်တံရဲ့ အရောင်ကို %c အဖြစ် သတ်မှတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen color to %n">
         <source>set pen color to %n</source>
-        <target state="translated"></target>
+        <target state="translated">စုတ်တံရဲ့ အရောင်ကို %c အဖြစ် သတ်မှတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen shade to %n">
         <source>set pen shade to %n</source>
-        <target state="translated"></target>
+        <target state="translated">စုတ်တံရဲ့ အရောင် အလင်း၊ အမှောင် ကို %n အဖြစ် သတ်မှတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen size to %n">
         <source>set pen size to %n</source>
-        <target state="translated"></target>
+        <target state="translated">စုတ်တံအရွယ်ကို  %n အဖြစ် သတ်မှတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set size to %n%">
         <source>set size to %n%</source>
-        <target state="translated"></target>
+        <target state="translated">အရွယ်အစားကို %n% အဖြစ် သတ်မှတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set tempo to %n bpm">
         <source>set tempo to %n bpm</source>
-        <target state="translated"></target>
+        <target state="translated">အသံရဲ့ မြန်နှုန်းကို %n BPM အဖြစ် သတ်မှတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set video transparency to %n%">
         <source>set video transparency to %n%</source>
@@ -445,19 +443,19 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
         <source>set volume to %n%</source>
-        <target state="translated"></target>
+        <target state="translated">အသံ အတိုးအကျယ် ကို %n% အဖြစ် သတ်မှတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set x to %n">
         <source>set x to %n</source>
-        <target state="translated"></target>
+        <target state="translated">x ဝင်ရိုးကို %n အဖြစ် သတ်မှတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set y to %n">
         <source>set y to %n</source>
-        <target state="translated"></target>
+        <target state="translated">y ဝင်ရိုးကို %n အဖြစ် သတ်မှတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show">
         <source>show</source>
-        <target state="translated"></target>
+        <target state="translated">ပြမည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show monitor %m.varOrList">
         <source>show monitor %m.varOrList</source>
@@ -465,15 +463,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="size">
         <source>size</source>
-        <target state="translated"></target>
+        <target state="translated">အရွယ်အစား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sound">
         <source>Sound</source>
-        <target state="translated"></target>
+        <target state="translated">အသံ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stamp">
         <source>stamp</source>
-        <target state="translated"></target>
+        <target state="translated">တံဆိပ်တုံး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop %m.stop">
         <source>stop %m.stop</source>
@@ -481,7 +479,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
         <source>stop all sounds</source>
-        <target state="translated"></target>
+        <target state="translated">အသံအားလုံးကို ရပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop">
         <source>switch backdrop to %m.backdrop</source>
@@ -499,15 +497,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tempo">
         <source>tempo</source>
-        <target state="translated"></target>
+        <target state="translated">အသံရဲ့ မြန်နှုန်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="think %s">
         <source>think %s</source>
-        <target state="translated"></target>
+        <target state="translated">%s လို့ စဉ်းစား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="think %s for %n secs">
         <source>think %s for %n secs</source>
-        <target state="translated"></target>
+        <target state="translated">%s လို့ %n စက္ကန့် စဉ်းစား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tilt">
         <source>tilt</source>
@@ -515,15 +513,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="timer">
         <source>timer</source>
-        <target state="translated"></target>
+        <target state="translated">အချိန် တိုင်မာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="touching %m.touching?">
         <source>touching %m.touching?</source>
-        <target state="translated"></target>
+        <target state="translated">%m.touching ကို ထိခဲ့လား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="touching color %c?">
         <source>touching color %c?</source>
-        <target state="translated"></target>
+        <target state="translated">%c အရောင်နဲ့ ချယ်ခဲ့လား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnLeft %n degrees">
         <source>turn @turnLeft %n degrees</source>
@@ -547,23 +545,23 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="volume">
         <source>volume</source>
-        <target state="translated"></target>
+        <target state="translated">အသံ အတိုးအကျယ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wait %n secs">
         <source>wait %n secs</source>
-        <target state="translated"></target>
+        <target state="translated">%n စက္ကန့်စောင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wait until %b">
         <source>wait until %b</source>
-        <target state="translated"></target>
+        <target state="translated">%b အထိ စောင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %m.key key pressed">
         <source>when %m.key key pressed</source>
-        <target state="translated"></target>
+        <target state="translated">%m.key ကီးကိုနှိပ်ခဲ့ရင်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when @greenFlag clicked">
         <source>when @greenFlag clicked</source>
-        <target state="translated"></target>
+        <target state="translated">@greenFlag ကို ကလစ် နှိပ်ခဲ့ရင်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when backdrop switches to %m.backdrop">
         <source>when backdrop switches to %m.backdrop</source>
@@ -580,11 +578,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="x position">
         <source>x position</source>
-        <target state="translated"></target>
+        <target state="translated">xဝင်ရိုး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="y position">
         <source>y position</source>
-        <target state="translated"></target>
+        <target state="translated">yဝင်ရိုး</target>
       </trans-unit>
     </body>
   </file>
