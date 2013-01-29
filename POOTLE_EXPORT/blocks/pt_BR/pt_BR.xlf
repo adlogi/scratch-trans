@@ -17,6 +17,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="%m.attribute of %m.spriteOrStage">
         <source>%m.attribute of %m.spriteOrStage</source>
         <target state="translated">%m.attribute de %m.spriteOrStage</target>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>%m.attributo de %m.spriteOrStage</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%m.list contains %s">
         <source>%m.list contains %s</source>
@@ -29,10 +32,16 @@
       <trans-unit xml:space="preserve" approved="yes" id="%m.sensor sensor value">
         <source>%m.sensor sensor value</source>
         <target state="translated">valor do sensor %m.sensor</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>%m.sensor valor do sensor</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%n mod %n">
         <source>%n mod %n</source>
         <target state="translated">resto de %n por %n</target>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>resto da divisão %n por %n</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="add %s to %m.list">
         <source>add %s to %m.list</source>
@@ -50,7 +59,10 @@
         <source>backdrop #</source>
         <target state="needs-translation">cenário #</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="profjr">
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>palco #</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="Greenson">
           <target>fundo de tela #</target>
         </alt-trans>
       </trans-unit>
@@ -58,17 +70,29 @@
         <source>backdrop name</source>
         <target state="translated"></target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>nome do cenário</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>Nome do cenário</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>nome do fundo de tela</target>
+          <target>cenário</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast">
         <source>broadcast %m.broadcast</source>
         <target state="translated">anuncie %m.broadcast</target>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>Anuncie %m.broadcast</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast and wait">
         <source>broadcast %m.broadcast and wait</source>
         <target state="translated">anuncie %m.broadcast e espere</target>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>Anuncie %m.broadcast e espere</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change %m.effect effect by %n">
         <source>change %m.effect effect by %n</source>
@@ -113,6 +137,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="clear">
         <source>clear</source>
         <target state="translated">limpe </target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>limpe</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clear graphic effects">
         <source>clear graphic effects</source>
@@ -121,14 +148,26 @@
       <trans-unit xml:space="preserve" approved="yes" id="clone startup">
         <source>clone startup</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>inicializa clone</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>inicialização do clone</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color %c is touching %c?">
         <source>color %c is touching %c?</source>
         <target state="translated">cor %c está tocando a cor %c?</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>cor %c tocando na cor %c?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Control">
         <source>Control</source>
         <target state="translated">controle</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Controle</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="costume #">
         <source>costume #</source>
@@ -137,16 +176,28 @@
       <trans-unit xml:space="preserve" approved="yes" id="create clone of %m.spriteOnly">
         <source>create clone of %m.spriteOnly</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>criar clone de %m.spriteOnly</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="current %m.timeAndDate">
         <source>current %m.timeAndDate</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>atual %m.timeAndDate</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>data e hora atuais %m.timeAndDate</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>Hora e Dia %m.timeAndDate</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Data">
         <source>Data</source>
         <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="profjr">
-          <target>Informação</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Dados</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="define">
@@ -155,14 +206,23 @@
         <alt-trans xml:space="preserve" origin="profjr">
           <target>defina</target>
         </alt-trans>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>definir</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete %d.listDeleteItem of %m.list">
         <source>delete %d.listDeleteItem of %m.list</source>
         <target state="translated">apaga %d.listDeleteItem de %m.list</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>apague %d.listDeleteItem de %m.list</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete this clone">
         <source>delete this clone</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>destrua este clone</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="profjr">
           <target>apague este clone</target>
         </alt-trans>
@@ -181,6 +241,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="distance to %m.spriteOrMouse">
         <source>distance to %m.spriteOrMouse</source>
         <target state="translated">distância até %m.spriteOrMouse</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>distância de %m.spriteOrMouse</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="else">
         <source>else</source>
@@ -196,14 +259,23 @@
       <trans-unit xml:space="preserve" approved="yes" id="forever">
         <source>forever</source>
         <target state="translated">para sempre</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>sempre</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="forever if %b">
         <source>forever if %b</source>
         <target state="translated">para sempre se %b</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>sempre se %b</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
         <source>glide %n secs to x:%n y:%n</source>
         <target state="translated">deslize em %n s para x:%n y:%n</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>deslize em %n segundos para x:%n y:%n</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go back %n layers">
         <source>go back %n layers</source>
@@ -224,19 +296,31 @@
       <trans-unit xml:space="preserve" approved="yes" id="hide">
         <source>hide</source>
         <target state="translated">desapareça</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>esconda</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide all sprites">
         <source>hide all sprites</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>oculte todos os sprites</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="profjr">
           <target>esconda todos os sprites</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>esconda todas as sprites</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide monitor %m.varOrList">
         <source>hide monitor %m.varOrList</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>esconda monidor %m.varOrList</target>
+          <target>esconda monitor %m.varOrList</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>oculte monitor %m.varOrList</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if %b">
@@ -278,6 +362,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="Looks">
         <source>Looks</source>
         <target state="translated">aparência</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Aparência</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="loudness">
         <source>loudness</source>
@@ -293,6 +380,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="Motion">
         <source>Motion</source>
         <target state="translated">movimento</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Movimento</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motor direction %m.motorDirection">
         <source>motor direction %m.motorDirection</source>
@@ -309,22 +399,37 @@
       <trans-unit xml:space="preserve" approved="yes" id="motor on for %n secs">
         <source>motor on for %n secs</source>
         <target state="translated">liga motor por %n s</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>liga motor por %n segundos</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motor power %n">
         <source>motor power %n</source>
         <target state="translated">potência do motor %n</target>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>poder do motor %n</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse down?">
         <source>mouse down?</source>
         <target state="translated">mouse pressionado?</target>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>botão do mouse pressionado?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse x">
         <source>mouse x</source>
         <target state="translated">mouse x</target>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>X do rato</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse y">
         <source>mouse y</source>
         <target state="translated">mouse y</target>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>Y do rato</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="move %n steps">
         <source>move %n steps</source>
@@ -334,7 +439,7 @@
         <source>next backdrop</source>
         <target state="needs-translation">próximo cenário</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="profjr">
+        <alt-trans xml:space="preserve" origin="Greenson">
           <target>próximo fundo de tela</target>
         </alt-trans>
       </trans-unit>
@@ -349,10 +454,16 @@
       <trans-unit xml:space="preserve" approved="yes" id="Operators">
         <source>Operators</source>
         <target state="translated">operadores</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>Operadores</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pen">
         <source>Pen</source>
         <target state="translated">caneta</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>Caneta</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pen down">
         <source>pen down</source>
@@ -365,6 +476,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="pick random %n to %n">
         <source>pick random %n to %n</source>
         <target state="translated">sorteie número de %n a %n</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>sorteie um número entre %n e %n</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play drum %d.drum for %n beats">
         <source>play drum %d.drum for %n beats</source>
@@ -401,6 +515,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="replace item %d.listItem of %m.list with %s">
         <source>replace item %d.listItem of %m.list with %s</source>
         <target state="translated">substitui %d.listItem de %m.list por %s</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>substitua ítem %d.listItem de %m.list por %s</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reset timer">
         <source>reset timer</source>
@@ -421,17 +538,23 @@
       <trans-unit xml:space="preserve" approved="yes" id="say %s for %n secs">
         <source>say %s for %n secs</source>
         <target state="translated">diga %s por %n segundos</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>diga %s por %n s</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Scratch days">
         <source>Scratch days</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>Dia do Scratch</target>
+          <target>Dias de Scratch</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sensing">
         <source>Sensing</source>
         <target state="translated">sensores</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>Sensores</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sensor %m.booleanSensor?">
         <source>sensor %m.booleanSensor?</source>
@@ -477,7 +600,7 @@
         <source>set video transparency to %n%</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>mude transparência do vídeo para %n%</target>
+          <target>mude transparência da câmera para %n%</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
@@ -500,7 +623,7 @@
         <source>show monitor %m.varOrList</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>exiba monitor %m.varOrList</target>
+          <target>monitorar %m.varOrList</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="size">
@@ -510,6 +633,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="Sound">
         <source>Sound</source>
         <target state="translated">som</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>Som</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stamp">
         <source>stamp</source>
@@ -519,7 +645,7 @@
         <source>stop %m.stop</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>pare %m.pare</target>
+          <target>pare %m.stop</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
@@ -530,23 +656,29 @@
         <source>switch backdrop to %m.backdrop</source>
         <target state="translated"></target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude o cenário para %m.backdrop</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>mude fundo de tela para %m.fundo de tela</target>
+          <target>mude cenário para %m.backdrop</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop and wait">
         <source>switch backdrop to %m.backdrop and wait</source>
         <target state="translated"></target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude o cenário para %m.bakdrop e espere</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>mude fundo de tela pata %m.fundo de tela e espere</target>
+          <target>mude cenário para %m.backdrop e espere</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch costume to %m.costume">
         <source>switch costume to %m.costume</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>mude o traje para %m.traje</target>
+          <target>mude o traje para %m.costume</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tempo">
@@ -560,10 +692,19 @@
       <trans-unit xml:space="preserve" approved="yes" id="think %s for %n secs">
         <source>think %s for %n secs</source>
         <target state="translated">pense %s por %n s</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>pense %s por %n segundos</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tilt">
         <source>tilt</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>inclinação</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>incline</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="timer">
         <source>timer</source>
@@ -572,42 +713,54 @@
       <trans-unit xml:space="preserve" approved="yes" id="touching %m.touching?">
         <source>touching %m.touching?</source>
         <target state="translated">tocar em %m.touching?</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>tocando em %m.touching?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="touching color %c?">
         <source>touching color %c?</source>
         <target state="translated">tocou na cor %c?</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>tocando na cor %c?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnLeft %n degrees">
         <source>turn @turnLeft %n degrees</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>vire para esquerda @turnLeft %n graus</target>
+          <target>vire @turnLeft %n graus</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnRight %n degrees">
         <source>turn @turnRight %n degrees</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>vire para direita @turnRight %n graus</target>
+          <target>vire @turnRight %n graus</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn video %m.videoState">
         <source>turn video %m.videoState</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>altere o vídeo para %m.videoState</target>
+          <target>mude câmera para %m.videoState </target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="user id">
         <source>user id</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>identificação do usuário</target>
+          <target>usuário</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>Id do usuário</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
         <source>video %m.videoMotionType on %m.stageOrThis</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>vídeo %m.videoMotionType no %m.stageOrThis</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="volume">
         <source>volume</source>
@@ -616,34 +769,70 @@
       <trans-unit xml:space="preserve" approved="yes" id="wait %n secs">
         <source>wait %n secs</source>
         <target state="translated">espere %n s</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>espere %n segundos</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wait until %b">
         <source>wait until %b</source>
         <target state="translated">espere até %b</target>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>espere até que %b</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %m.key key pressed">
         <source>when %m.key key pressed</source>
         <target state="translated">quando pressionar tecla %m.key</target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>quando tecla %m.key pressionada</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>quando tecla %m.key for pressionada</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when @greenFlag clicked">
         <source>when @greenFlag clicked</source>
         <target state="translated">quando clicar em @greenFlag</target>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>Quando a @greenFlag for clickada</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when backdrop switches to %m.backdrop">
         <source>when backdrop switches to %m.backdrop</source>
         <target state="translated"></target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>ao trocar cenário para %m.backdrop</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="profjr">
-          <target>quando fundo de tela mudar para %m.backdrop</target>
+          <target>quando cenário mudar para %m.backdrop</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I am clicked">
         <source>when I am clicked</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>quando clico em</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>quando eu for clicado</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>Quando eu mesmo for clickado</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I receive %m.broadcast">
         <source>when I receive %m.broadcast</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="profjr">
+          <target>quando eu ouvir %m.broadcast</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>ao ouvir %m.broadcast</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="Greenson">
+          <target>Quando eu receber %m.broadcast</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="x position">
         <source>x position</source>

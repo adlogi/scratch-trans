@@ -50,11 +50,23 @@
         <source>backdrop #</source>
         <target state="needs-translation">Arkaplan #</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="cerencalici">
+          <target>arkaplan #</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop name">
         <source>backdrop name</source>
         <target state="translated"></target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>sahne arkası adı</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nehacelik">
+          <target>Arkaplan Adı</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="viioyun.com">
+          <target>arkaplan adı</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast">
         <source>broadcast %m.broadcast</source>
@@ -111,10 +123,16 @@
       <trans-unit xml:space="preserve" approved="yes" id="clear graphic effects">
         <source>clear graphic effects</source>
         <target state="translated">Grafik efektlerini temizleyin</target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>grafik efektlerini temizleyin</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clone startup">
         <source>clone startup</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>kopya başlangıcı</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color %c is touching %c?">
         <source>color %c is touching %c?</source>
@@ -131,18 +149,33 @@
       <trans-unit xml:space="preserve" approved="yes" id="create clone of %m.spriteOnly">
         <source>create clone of %m.spriteOnly</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>%m.spriteOnly kopya oluştur</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="current %m.timeAndDate">
         <source>current %m.timeAndDate</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>şuan ki %m.tımeAndDate</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Data">
         <source>Data</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>Verı</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="define">
         <source>define</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nehacelik">
+          <target>Tanımla</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>tanımla</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete %d.listDeleteItem of %m.list">
         <source>delete %d.listDeleteItem of %m.list</source>
@@ -151,6 +184,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="delete this clone">
         <source>delete this clone</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>bu kopyayı sil</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="nehacelik">
           <target>bu klonu silin</target>
         </alt-trans>
@@ -158,12 +194,15 @@
       <trans-unit xml:space="preserve" approved="yes" id="direction">
         <source>direction</source>
         <target state="translated">Yön</target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>yön</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance">
         <source>distance</source>
         <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nehacelik">
-          <target>mesafe</target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>uzaklık</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance to %m.spriteOrMouse">
@@ -177,6 +216,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="Events">
         <source>Events</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>Olaylar</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="nehacelik">
           <target>olaylar</target>
         </alt-trans>
@@ -216,10 +258,16 @@
       <trans-unit xml:space="preserve" approved="yes" id="hide all sprites">
         <source>hide all sprites</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>bütün karakterleri gizle</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide monitor %m.varOrList">
         <source>hide monitor %m.varOrList</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>%m.varOrLıst monitörü gizle</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if %b">
         <source>if %b</source>
@@ -268,6 +316,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="More Blocks">
         <source>More Blocks</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>Daha Fazla Blok</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Motion">
         <source>Motion</source>
@@ -401,6 +452,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="Scratch days">
         <source>Scratch days</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>Scratch günleri</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="nehacelik">
           <target>scratch günleri</target>
         </alt-trans>
@@ -452,6 +506,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="set video transparency to %n%">
         <source>set video transparency to %n%</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>video şeffaflığını %n% ayarla</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
         <source>set volume to %n%</source>
@@ -472,6 +529,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="show monitor %m.varOrList">
         <source>show monitor %m.varOrList</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>%m.varOrList monitörünü göster</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="size">
         <source>size</source>
@@ -488,6 +548,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="stop %m.stop">
         <source>stop %m.stop</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>%m.stop durdur</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
         <source>stop all sounds</source>
@@ -497,15 +560,24 @@
         <source>switch backdrop to %m.backdrop</source>
         <target state="translated"></target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>sahneyi %m.backdrop a değiştir</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop and wait">
         <source>switch backdrop to %m.backdrop and wait</source>
         <target state="translated"></target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>sahneyi %m.backdrop a değiştir ve bekle</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch costume to %m.costume">
         <source>switch costume to %m.costume</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>kostümü %m.costume e değiştir</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tempo">
         <source>tempo</source>
@@ -525,6 +597,9 @@
         <alt-trans xml:space="preserve" origin="nehacelik">
           <target>eğim</target>
         </alt-trans>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>eğdir</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="timer">
         <source>timer</source>
@@ -533,30 +608,51 @@
       <trans-unit xml:space="preserve" approved="yes" id="touching %m.touching?">
         <source>touching %m.touching?</source>
         <target state="translated">%m.touching yaklaşıyor mu?</target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>%m.touching dokunuyor mu?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="touching color %c?">
         <source>touching color %c?</source>
         <target state="translated">%c rengine yaklaşıyor mu?</target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>%c rengine dokunuyor mu?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnLeft %n degrees">
         <source>turn @turnLeft %n degrees</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>@turnLeft %n derecelerini döndür</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnRight %n degrees">
         <source>turn @turnRight %n degrees</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>@turnRight %n derecelerini döndür</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn video %m.videoState">
         <source>turn video %m.videoState</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>video %m.videoState e döndür</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="user id">
         <source>user id</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>kullanıcı adı</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
         <source>video %m.videoMotionType on %m.stageOrThis</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>%m.stageOrThis deki %m.videoMotionType video</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="volume">
         <source>volume</source>
@@ -582,10 +678,22 @@
         <source>when backdrop switches to %m.backdrop</source>
         <target state="translated"></target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="viioyun.com">
+          <target>Arkaplan &amp;m.backdrop 'a değiştirildiğinde</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>arka sahne %m.backdrop değiştiğinde</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I am clicked">
         <source>when I am clicked</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>tıkladığım zaman</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="viioyun.com">
+          <target>Tıkladığımda</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="nehacelik">
           <target>tıklandığımda</target>
         </alt-trans>
@@ -593,6 +701,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="when I receive %m.broadcast">
         <source>when I receive %m.broadcast</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="syalcin">
+          <target>%m.broadcast aldığımda</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="x position">
         <source>x position</source>

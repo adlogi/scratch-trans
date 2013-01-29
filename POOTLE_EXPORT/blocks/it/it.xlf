@@ -46,9 +46,9 @@
         <source>ask %s and wait</source>
         <target state="translated">chiedi %s e attendi</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="backdrop #">
+      <trans-unit xml:space="preserve" approved="yes" id="backdrop #">
         <source>backdrop #</source>
-        <target state="needs-translation">numero sfondo</target>
+        <target state="translated">numero dello sfondo</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>sfondo numero</target>
@@ -56,11 +56,8 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop name">
         <source>backdrop name</source>
-        <target state="translated"></target>
+        <target state="translated">nome dello sfondo</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="maurodiblasi">
-          <target>nome dello sfondo</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast">
         <source>broadcast %m.broadcast</source>
@@ -120,7 +117,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clone startup">
         <source>clone startup</source>
-        <target state="translated"></target>
+        <target state="translated">quando si crea un clone</target>
+        <alt-trans xml:space="preserve" origin="s_federici">
+          <target>avvio clone</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>attivazione clone</target>
         </alt-trans>
@@ -135,32 +135,29 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="costume #">
         <source>costume #</source>
-        <target state="translated">numero costume</target>
+        <target state="translated">numero del costume</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="create clone of %m.spriteOnly">
         <source>create clone of %m.spriteOnly</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="maurodiblasi">
-          <target>crea clone di %m.spriteOnly</target>
-        </alt-trans>
+        <target state="translated">crea clone di %m.spriteOnly</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="current %m.timeAndDate">
         <source>current %m.timeAndDate</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="maurodiblasi">
-          <target>%m.timeAndDate attuale</target>
-        </alt-trans>
+        <target state="translated">%m.timeAndDate attuale</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Data">
         <source>Data</source>
-        <target state="translated"></target>
+        <target state="translated">Variabili e Liste</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>Dati</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="s_federici">
+          <target>Variabili</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="define">
         <source>define</source>
-        <target state="translated"></target>
+        <target state="translated">definisci</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>definisci</target>
         </alt-trans>
@@ -171,7 +168,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete this clone">
         <source>delete this clone</source>
-        <target state="translated"></target>
+        <target state="translated">elimina questo clone</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>cancella questo clone</target>
         </alt-trans>
@@ -182,10 +179,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance">
         <source>distance</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="maurodiblasi">
-          <target>distanza</target>
-        </alt-trans>
+        <target state="translated">distanza</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance to %m.spriteOrMouse">
         <source>distance to %m.spriteOrMouse</source>
@@ -197,10 +191,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Events">
         <source>Events</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="maurodiblasi">
-          <target>Eventi</target>
-        </alt-trans>
+        <target state="translated">Situazioni</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="forever">
         <source>forever</source>
@@ -236,16 +227,16 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide all sprites">
         <source>hide all sprites</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="maurodiblasi">
-          <target>nascondi tutti gli sprite</target>
-        </alt-trans>
+        <target state="translated">nascondi tutti gli sprite</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide monitor %m.varOrList">
         <source>hide monitor %m.varOrList</source>
-        <target state="translated"></target>
+        <target state="translated">nascondi il monitor di %m.varOrList</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>nascondi monitor %m.varOrList</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="s_federici">
+          <target>nascondi monitor di %m.varOrList</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if %b">
@@ -294,10 +285,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="More Blocks">
         <source>More Blocks</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="maurodiblasi">
-          <target>Altri Blocchi</target>
-        </alt-trans>
+        <target state="translated">Altri Blocchi</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Motion">
         <source>Motion</source>
@@ -339,9 +327,9 @@
         <source>move %n steps</source>
         <target state="translated">fai %n passi</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="next backdrop">
+      <trans-unit xml:space="preserve" approved="yes" id="next backdrop">
         <source>next backdrop</source>
-        <target state="needs-translation">passa a sfondo seguente</target>
+        <target state="translated">passa allo sfondo seguente</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="next costume">
@@ -430,7 +418,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Scratch days">
         <source>Scratch days</source>
-        <target state="translated"></target>
+        <target state="translated">giorni dalla nascita di Scratch</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>Giorni di Scratch</target>
         </alt-trans>
@@ -481,7 +469,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set video transparency to %n%">
         <source>set video transparency to %n%</source>
-        <target state="translated"></target>
+        <target state="translated">porta la trasparenza della webcam a %n%</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>setta la trasparenza del video a %n%</target>
         </alt-trans>
@@ -504,7 +492,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show monitor %m.varOrList">
         <source>show monitor %m.varOrList</source>
-        <target state="translated"></target>
+        <target state="translated">mostra il monitor di %m.varOrList</target>
+        <alt-trans xml:space="preserve" origin="s_federici">
+          <target>mostra il monitor di %m.varOrList</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>mostra monitor %m.varOrList</target>
         </alt-trans>
@@ -523,7 +514,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop %m.stop">
         <source>stop %m.stop</source>
-        <target state="translated"></target>
+        <target state="translated">arresta %m.stop</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>stop %m.stop</target>
         </alt-trans>
@@ -534,15 +525,18 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop">
         <source>switch backdrop to %m.backdrop</source>
-        <target state="translated"></target>
+        <target state="translated">passa allo sfondo %m.backdrop</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>cambia sfondo con %m.backdrop</target>
         </alt-trans>
+        <alt-trans xml:space="preserve" origin="s_federici">
+          <target>passa allo sfondo %m.backdrop</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop and wait">
         <source>switch backdrop to %m.backdrop and wait</source>
-        <target state="translated"></target>
+        <target state="translated">passa allo sfondo %m.backdrop e attendi</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>cambia sfondo con %m.backgrop e attendi</target>
@@ -550,10 +544,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch costume to %m.costume">
         <source>switch costume to %m.costume</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="maurodiblasi">
-          <target>passa al costume %m.costume</target>
-        </alt-trans>
+        <target state="translated">passa al costume %m.costume</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tempo">
         <source>tempo</source>
@@ -569,7 +560,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tilt">
         <source>tilt</source>
-        <target state="translated"></target>
+        <target state="translated">inclinazione</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>orientamento</target>
         </alt-trans>
@@ -588,34 +579,37 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnLeft %n degrees">
         <source>turn @turnLeft %n degrees</source>
-        <target state="translated"></target>
+        <target state="translated">ruota di @turnLeft %n gradi</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>gira @sinistra %n gradi</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnRight %n degrees">
         <source>turn @turnRight %n degrees</source>
-        <target state="translated"></target>
+        <target state="translated">ruota di @turnRight %n gradi</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>gira @destra %n gradi</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn video %m.videoState">
         <source>turn video %m.videoState</source>
-        <target state="translated"></target>
+        <target state="translated">%m.videoState il video della webcam</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="user id">
         <source>user id</source>
-        <target state="translated"></target>
+        <target state="translated">id dell'utente</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>id utente</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
         <source>video %m.videoMotionType on %m.stageOrThis</source>
-        <target state="translated"></target>
+        <target state="translated">%m.videoMotionType del video della webcam rispetto a %m.stageOrThis</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>video %m.videoMotionType su %m.stageOrThis</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="s_federici">
+          <target>%m.videoMotionType della webcam su %m.stageOrThis</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="volume">
@@ -640,25 +634,19 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when backdrop switches to %m.backdrop">
         <source>when backdrop switches to %m.backdrop</source>
-        <target state="translated"></target>
+        <target state="translated">quando lo sfondo passa a %m.backdrop</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="maurodiblasi">
-          <target>quando lo sfondo passa a %m.backdrop</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I am clicked">
         <source>when I am clicked</source>
-        <target state="translated"></target>
+        <target state="translated">quando vengo cliccato</target>
         <alt-trans xml:space="preserve" origin="maurodiblasi">
           <target>quando ricevo un click</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I receive %m.broadcast">
         <source>when I receive %m.broadcast</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="maurodiblasi">
-          <target>quando ricevo %m.broadcast</target>
-        </alt-trans>
+        <target state="translated">quando ricevo %m.broadcast</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="x position">
         <source>x position</source>

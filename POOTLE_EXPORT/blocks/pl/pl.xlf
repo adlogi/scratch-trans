@@ -348,6 +348,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="play drum %d.drum for %n beats">
         <source>play drum %d.drum for %n beats</source>
         <target state="translated">zagraj bębenkiem %d.drum przez %n taktów</target>
+        <alt-trans xml:space="preserve" origin="ho-ho">
+          <target>zagraj na %d.drum przez %n taktów</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="play note %n for %n beats">
         <source>play note %n for %n beats</source>
@@ -528,9 +531,9 @@
         <source>think %s for %n secs</source>
         <target state="translated">pomyśl %s przez %n s</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="tilt">
+      <trans-unit xml:space="preserve" approved="yes" id="tilt">
         <source>tilt</source>
-        <target state="needs-translation">nachylenie</target>
+        <target state="translated">wychylenie</target>
         <alt-trans xml:space="preserve" origin="ho-ho">
           <target>przechył</target>
         </alt-trans>
@@ -585,7 +588,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="when @greenFlag clicked">
         <source>when @greenFlag clicked</source>
-        <target state="needs-translation">kiedy @greenFlag kliknięto</target>
+        <target state="needs-translation">kiedy @greenFlag</target>
+        <alt-trans xml:space="preserve" origin="ho-ho">
+          <target>kiedy kliknięto @greenFlag</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="when backdrop switches to %m.backdrop">
         <source>when backdrop switches to %m.backdrop</source>

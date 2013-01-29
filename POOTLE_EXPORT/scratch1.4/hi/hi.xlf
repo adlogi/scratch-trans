@@ -1,0 +1,4332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="hi.po" source-language="en-US" datatype="plaintext" target-language="hi">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Language-Name">
+        <source>Language-Name</source>
+        <target state="translated">हिन्दी</target>
+        <note from="translator">##########################################&#13;
+FORMATTING&#13;
+##########################################&#13;
+Language name as you'd like it to appear in the Languages menu&#13;
+(Required)&#13;</note>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हिन्दी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Language-Direction">
+        <source>Language-Direction</source>
+        <target state="translated">LTR</target>
+        <note from="translator">Directionality of language&#13;
+LTR = Left to Right&#13;
+RTL = Right to Left&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Font-Scale">
+        <source>Font-Scale</source>
+        <target state="translated">1.5</target>
+        <note from="translator">Scale to apply to font size (2 for twice as large)&#13;
+Use this if the font is too small for legibility on the Scratch interface&#13;</note>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>1.5</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Suppress-Bold">
+        <source>Suppress-Bold</source>
+        <target state="translated">true</target>
+        <note from="translator">Set to 'true' or 'false'&#13;
+Use this if you do not want any of the text to be bolded, for legibility&#13;</note>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>true</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Win-Font">
+        <source>Win-Font</source>
+        <target state="translated">विन-फ़ॉन्ट</target>
+        <note from="translator">Font to use on a Windows system&#13;
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mac-Font">
+        <source>Mac-Font</source>
+        <target state="translated">Devanagari-QWERTY</target>
+        <note from="translator">Font to use on a Mac system&#13;</note>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>Devanagari-QWERTY</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Linux-Font">
+        <source>Linux-Font</source>
+        <target state="translated">लिनक्स-फ़ॉन्ट</target>
+        <note from="translator">Font to use on a Linux system&#13;
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%H sensor value">
+        <source>%H sensor value</source>
+        <target state="translated">%H सेंसर का मूल्य</target>
+        <note from="translator">##########################################&#13;
+BLOCKS&#13;
+##########################################&#13;</note>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%H सेंसर का मूल्य</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%L contains %s">
+        <source>%L contains %s</source>
+        <target state="translated">%s में %L हैं।</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%s में %L हैं </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%a of %m">
+        <source>%a of %m</source>
+        <target state="translated">%m का %a</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%m का %a</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%b and %b">
+        <source>%b and %b</source>
+        <target state="translated">%b और %b</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%b और %b</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%b or %b">
+        <source>%b or %b</source>
+        <target state="translated">%b या %b</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%b या %b</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%f of %n">
+        <source>%f of %n</source>
+        <target state="translated">%n का %f</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n का %f</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%n mod %n">
+        <source>%n mod %n</source>
+        <target state="translated">%n मोड %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="add %s to %L">
+        <source>add %s to %L</source>
+        <target state="translated">%L से %s जोङें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%L से %s जोङें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="answer">
+        <source>answer</source>
+        <target state="translated">जवाब</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>जवाब</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ask %s and wait">
+        <source>ask %s and wait</source>
+        <target state="translated">%s जोङें अौरइंतजार करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%s जोङें अौरइंतजार करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="background #">
+        <source>background #</source>
+        <target state="translated">पृष्ठभूमि</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पृष्ठभूमि</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="broadcast %e">
+        <source>broadcast %e</source>
+        <target state="translated">%e प्रसारण करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%e ब्राडकास्ट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="broadcast %e and wait">
+        <source>broadcast %e and wait</source>
+        <target state="translated">%e प्रसारण करें अौर रुके</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%e ब्राडकास्ट करे अौर रुके</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change %g effect by %n">
+        <source>change %g effect by %n</source>
+        <target state="translated">%n से %g प्रभाव बदले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n से %g प्रभाव बदले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change %v by %n">
+        <source>change %v by %n</source>
+        <target state="translated">%n से %v बदले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n से %v बदले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen color by %n">
+        <source>change pen color by %n</source>
+        <target state="translated">%n से पेन का रंग बदले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n से पेन का रंग बदले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen shade by %n">
+        <source>change pen shade by %n</source>
+        <target state="translated">%n से पेन का शेड बदले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n से पेन का शेड बदले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen size by %n">
+        <source>change pen size by %n</source>
+        <target state="translated">पेन का अाकार %n से बदले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेन का अाकार %n से बदले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change size by %n">
+        <source>change size by %n</source>
+        <target state="translated">%n से अाकार बदले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n से अाकार बदले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change tempo by %n">
+        <source>change tempo by %n</source>
+        <target state="translated">%n से ताल बदले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n से ताल बदले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change volume by %n">
+        <source>change volume by %n</source>
+        <target state="translated">%n से अावाज बदले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n से अावाज बदले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change x by %n">
+        <source>change x by %n</source>
+        <target state="translated">%n से x बदले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n से x बदले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change y by %n">
+        <source>change y by %n</source>
+        <target state="translated">%n से y बदले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n से y बदले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clear">
+        <source>clear</source>
+        <target state="translated">मिटा दे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मिटा दे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clear graphic effects">
+        <source>clear graphic effects</source>
+        <target state="translated">ग्राफ़िक प्रभाव मिटा दे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ग्राफ़िक प्रभाव मिटा दे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="color %C is touching %C?">
+        <source>color %C is touching %C?</source>
+        <target state="translated">अगर %C1 रंग %C2 को छू रहा है?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अगर %C1 रंग %C2 को छू रहा है?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="control">
+        <source>control</source>
+        <target state="translated">कंट्रोल</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कंट्रोल</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="costume #">
+        <source>costume #</source>
+        <target state="translated">पोशाक #</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="delete %y of %L">
+        <source>delete %y of %L</source>
+        <target state="translated">%y का %L मिटा दे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%y का %L मिटा दे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="direction">
+        <source>direction</source>
+        <target state="translated">दिशा</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="distance to %m">
+        <source>distance to %m</source>
+        <target state="translated">%m तक दूरी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%m तक दूरी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="else">
+        <source>else</source>
+        <target state="translated">या</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>या</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="forever">
+        <source>forever</source>
+        <target state="translated">हमेशा के लिए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हमेशा के लिए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="forever if %b">
+        <source>forever if %b</source>
+        <target state="translated">हमेशा के लिए अगर %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
+        <source>glide %n secs to x:%n y:%n</source>
+        <target state="translated">%n सेकेंड से x:%n y:%n पर फिसले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n सेकेंड से x:%n y:%n पर फिसले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go back %n layers">
+        <source>go back %n layers</source>
+        <target state="translated">%n परतों के पिछे जाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n परतों के पिछे जाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to %m">
+        <source>go to %m</source>
+        <target state="translated">%m पर जाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%m पर जाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to front">
+        <source>go to front</source>
+        <target state="translated">अागे जाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अागे जाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to x:%n y:%n">
+        <source>go to x:%n y:%n</source>
+        <target state="translated">x:%n y:%n पर जाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>x:%n y:%n पर जाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide">
+        <source>hide</source>
+        <target state="translated">छुपाएँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>छुपाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide variable %v">
+        <source>hide variable %v</source>
+        <target state="translated">वेरिएबल %v को छुपाएँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वेरिएबल %v को छुपाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="if %b">
+        <source>if %b</source>
+        <target state="translated">अगर %b</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अगर %b</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="if on edge, bounce">
+        <source>if on edge, bounce</source>
+        <target state="translated">अगर किनारे पर है तो उछाले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अगर किनारे पर है तो उछाले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="insert %s at %i of %L">
+        <source>insert %s at %i of %L</source>
+        <target state="translated">%s %L का %i पर डाले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%s %L का %i पर डाले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="item %i of %L">
+        <source>item %i of %L</source>
+        <target state="translated">%L की %i चीज</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%L की %i चीज</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="join %s %s">
+        <source>join %s %s</source>
+        <target state="translated">%s %s जोड़े</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%s %s जोड़े</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="key %k pressed?">
+        <source>key %k pressed?</source>
+        <target state="translated">%k बटन दबाया है?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%k बटन दबाया है?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length of %L">
+        <source>length of %L</source>
+        <target state="translated">%L की लंबाई</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%L की लंबाई</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length of %s">
+        <source>length of %s</source>
+        <target state="translated">%s की लंबाई</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%s की लंबाई</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="letter %n of %s">
+        <source>letter %n of %s</source>
+        <target state="translated">%s का %n अक्षर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%s का %n अक्षर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="list">
+        <source>list</source>
+        <target state="translated">सूची</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="looks">
+        <source>looks</source>
+        <target state="translated">रूप</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रूप</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="loud?">
+        <source>loud?</source>
+        <target state="translated">जोर से?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>जोर से?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="loudness">
+        <source>loudness</source>
+        <target state="translated">आवाज़ की उंचाई</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>आवाज़ की उंचाई</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motion">
+        <source>motion</source>
+        <target state="translated">चाल</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>चाल</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor direction %W">
+        <source>motor direction %W</source>
+        <target state="translated">मोटर की %W दिशा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मोटर की %W दिशा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor off">
+        <source>motor off</source>
+        <target state="translated">मोटर बंद करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मोटर बंद करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor on">
+        <source>motor on</source>
+        <target state="translated">मोटर चालू करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मोटर चालू करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor on for %n secs">
+        <source>motor on for %n secs</source>
+        <target state="translated">%n सेकंड के लिए मोटर चालू करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n सेकंड के लिए मोटर चालू करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor power %n">
+        <source>motor power %n</source>
+        <target state="translated">मोटर की %n शक्ति</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मोटर की %n शक्ति</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse down?">
+        <source>mouse down?</source>
+        <target state="translated">माउस नीचे है?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>माउस नीचे है?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse x">
+        <source>mouse x</source>
+        <target state="translated">माउस x</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>माउस x</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse y">
+        <source>mouse y</source>
+        <target state="translated">माउस y</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>माउस y</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="move %n steps">
+        <source>move %n steps</source>
+        <target state="translated">%n कदम चले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n कदम चले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="next background">
+        <source>next background</source>
+        <target state="translated">अगली पृष्ठभूमि</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अगली पृष्ठभूमि</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="next costume">
+        <source>next costume</source>
+        <target state="translated">अगली पोशाक</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="not %b">
+        <source>not %b</source>
+        <target state="translated">%b नहीं ।</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%b नहीं ।</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="operators">
+        <source>operators</source>
+        <target state="translated">ऑपरेटर्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ऑपरेटर्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen">
+        <source>pen</source>
+        <target state="translated">पेन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen down">
+        <source>pen down</source>
+        <target state="translated">पेन नीचे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेन नीचे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen up">
+        <source>pen up</source>
+        <target state="translated">पेन ऊपर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेन ऊपर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pick random %n to %n">
+        <source>pick random %n to %n</source>
+        <target state="translated">%n से %n तक क्रमरहित चुनने</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n से %n तक क्रमरहित चुनने</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play drum %D for %n beats">
+        <source>play drum %D for %n beats</source>
+        <target state="translated">%D ढोल %n ताल तक बजाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%D ढोल %n ताल तक बजाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play note %N for %n beats">
+        <source>play note %N for %n beats</source>
+        <target state="translated">%N नोट %n ताल तक बजाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%N नोट %n ताल तक बजाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play sound %S">
+        <source>play sound %S</source>
+        <target state="translated">%S बजाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%S बजाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play sound %S until done">
+        <source>play sound %S until done</source>
+        <target state="translated">%S पुरा होने तक बजाते रहे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%S पुरा होने तक बजाते रहे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="point in direction %d">
+        <source>point in direction %d</source>
+        <target state="translated">%d की दिशा में देखे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%d की दिशा में देखे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="point towards %m">
+        <source>point towards %m</source>
+        <target state="translated">%m की तरफ देखे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%m की तरफ देखे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="repeat %n">
+        <source>repeat %n</source>
+        <target state="translated">%n बार दोहराएं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n बार दोहराएं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="repeat until %b">
+        <source>repeat until %b</source>
+        <target state="translated">%b तक दोहराते रहे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%b तक दोहराते रहे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="replace item %i of %L with %s">
+        <source>replace item %i of %L with %s</source>
+        <target state="translated">%L की %i चीज को %s से बदल दे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%L की %i चीज को %s से बदल दे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="reset timer">
+        <source>reset timer</source>
+        <target state="translated">घड़ी रीसेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>घड़ी रीसेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="rest for %n beats">
+        <source>rest for %n beats</source>
+        <target state="translated">%n ताल तक ठहरे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n ताल तक ठहरे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="round %n">
+        <source>round %n</source>
+        <target state="translated">%n को घेरे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n को घेरे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="say %s">
+        <source>say %s</source>
+        <target state="translated">%s बोले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%s बोले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="say %s for %n secs">
+        <source>say %s for %n secs</source>
+        <target state="translated">%n सेकंड तक %s बोले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n सेकंड तक %s बोले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sensing">
+        <source>sensing</source>
+        <target state="translated">महसूस</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>महसूस</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sensor %h?">
+        <source>sensor %h?</source>
+        <target state="translated">सेंसर %h?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सेंसर %h?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set %g effect to %n">
+        <source>set %g effect to %n</source>
+        <target state="translated">%g प्रभाव %n में सेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%g प्रभाव %n में सेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set %v to %n">
+        <source>set %v to %n</source>
+        <target state="translated">%n पर %v सेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n पर %v सेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set instrument to %I">
+        <source>set instrument to %I</source>
+        <target state="translated">%I पर साधन सेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%I पर साधन सेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen color to %c">
+        <source>set pen color to %c</source>
+        <target state="translated">पेन का रंग %c पर सेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेन का रंग %c पर सेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen color to %n">
+        <source>set pen color to %n</source>
+        <target state="translated">पेन का रंग %n पर सेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेन का रंग %n पर सेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen shade to %n">
+        <source>set pen shade to %n</source>
+        <target state="translated">पेन का शेड %n पर सेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेन का शेड %n पर सेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen size to %n">
+        <source>set pen size to %n</source>
+        <target state="translated">पेन का अाकार %n पर सेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेन का अाकार %n पर सेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set size to %n%">
+        <source>set size to %n%</source>
+        <target state="translated">अाकार %n% पर सेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अाकार %n% पर सेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set tempo to %n bpm">
+        <source>set tempo to %n bpm</source>
+        <target state="translated">टेम्पो %n bpm पर सेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>टेम्पो %n bpm पर सेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
+        <source>set volume to %n%</source>
+        <target state="translated">अावाज %n% पर सेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अावाज %n% पर सेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set x to %n">
+        <source>set x to %n</source>
+        <target state="translated">%n पर x सेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n पर x सेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set y to %n">
+        <source>set y to %n</source>
+        <target state="translated">%n पर y सेट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n पर y सेट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show">
+        <source>show</source>
+        <target state="translated">दिखाएं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>दिखाएं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show variable %v">
+        <source>show variable %v</source>
+        <target state="translated">वेरिएबल %v को दिखाएं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वेरिएबल %v को दिखाएं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="size">
+        <source>size</source>
+        <target state="translated">आकार</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sound">
+        <source>sound</source>
+        <target state="translated">अवाज</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अवाज</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stamp">
+        <source>stamp</source>
+        <target state="translated">ठप्पा लगाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ठप्पा लगाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop all">
+        <source>stop all</source>
+        <target state="translated">सब रोके</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सब रोके</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
+        <source>stop all sounds</source>
+        <target state="translated">सभी अावाजों को रोक दे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सभी अावाज रोके </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop script">
+        <source>stop script</source>
+        <target state="translated">स्क्रिप्ट रोके</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्क्रिप्ट रोके</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch to background %l">
+        <source>switch to background %l</source>
+        <target state="translated">पृष्ठभूमि बदल कर %l करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पृष्ठभूमि बदल कर %l करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch to costume %l">
+        <source>switch to costume %l</source>
+        <target state="translated">पोशाक बदल कर %l करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पोशाक बदल कर %l करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tempo">
+        <source>tempo</source>
+        <target state="translated">टेम्पो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>टेम्पो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="think %s">
+        <source>think %s</source>
+        <target state="translated">%s सोचे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%s सोचे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="think %s for %n secs">
+        <source>think %s for %n secs</source>
+        <target state="translated">%n सेकंड तक %s सोचे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n सेकंड तक %s सोचे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="timer">
+        <source>timer</source>
+        <target state="translated">घड़ी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>घड़ी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="touching %m?">
+        <source>touching %m?</source>
+        <target state="translated">%m को छू रहा है?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%m को छू रहा है?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="touching color %C?">
+        <source>touching color %C?</source>
+        <target state="translated">%C रंग को छू रहा है?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%C रंग को छू रहा है?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn %n degrees">
+        <source>turn %n degrees</source>
+        <target state="translated">%n डिग्री मुड़े</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n डिग्री मुड़े</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="variables">
+        <source>variables</source>
+        <target state="translated">वेरिएबल्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वेरिएबल्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="volume">
+        <source>volume</source>
+        <target state="translated">अावाज</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अावाज</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wait %n secs">
+        <source>wait %n secs</source>
+        <target state="translated">%n सेकेंड तक ठहरे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%n सेकेंड तक ठहरे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wait until %b">
+        <source>wait until %b</source>
+        <target state="translated">%b होने तक ठहरे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>%b होने तक ठहरे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %k key pressed">
+        <source>when %k key pressed</source>
+        <target state="translated">जब  %k बटन दबा हुआ है</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>जब  %k बटन दबा हुआ है</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %m clicked">
+        <source>when %m clicked</source>
+        <target state="translated">जब %m क्लिक किया गया हो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>जब %m क्लिक किया गया हो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when I receive %e">
+        <source>when I receive %e</source>
+        <target state="translated">जब मुझे %e मिले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>जब मुझे %e मिले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="x position">
+        <source>x position</source>
+        <target state="translated">x स्थिति</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="y position">
+        <source>y position</source>
+        <target state="translated">y स्थिति</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="(empty)">
+        <source>(empty)</source>
+        <target state="translated">(खाली)</target>
+        <note from="translator">##########################################&#13;
+USER INTERFACE&#13;
+##########################################&#13;</note>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>(खाली)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="1 script">
+        <source>1 script</source>
+        <target state="translated">१ स्क्रिप्ट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>१ स्क्रिप्ट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="About Scratch">
+        <source>About Scratch</source>
+        <target state="translated">स्क्रैच के बारे में</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="About this project:">
+        <source>About this project:</source>
+        <target state="translated">इस प्रोजेक्ट के बारे में:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इस प्रोजेक्ट के बारे में:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="abs">
+        <source>abs</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="add comment">
+        <source>add comment</source>
+        <target state="translated">कमेंट जोड़ें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कमेंट जोड़ें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="add comment here">
+        <source>add comment here</source>
+        <target state="translated">यहाँ कमेंट जोड़ें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>यहाँ कमेंट जोड़ें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="all">
+        <source>all</source>
+        <target state="translated">सब</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="and">
+        <source>and</source>
+        <target state="translated">और</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Animation">
+        <source>Animation</source>
+        <target state="translated">एनीमेशन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एनीमेशन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="any">
+        <source>any</source>
+        <target state="translated">कोई भी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कोई भी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Art">
+        <source>Art</source>
+        <target state="translated">कला</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="background">
+        <source>background</source>
+        <target state="translated">पृष्ठभूमि</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="backgrounds">
+        <source>backgrounds</source>
+        <target state="translated">पृष्ठभूमि</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Backgrounds">
+        <source>Backgrounds</source>
+        <target state="translated">पृष्ठभूमियाँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पृष्ठभूमियाँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="brightness">
+        <source>brightness</source>
+        <target state="translated">ब्राइटनेस</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ब्राइटनेस</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brush size: ">
+        <source>Brush size: </source>
+        <target state="translated">ब्रश का अाकार</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ब्रश का अाकार</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="button">
+        <source>button</source>
+        <target state="translated">बटन</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="button pressed">
+        <source>button pressed</source>
+        <target state="translated">बटन दबा हुआ है</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बटन दबा हुआ है</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Camera">
+        <source>Camera</source>
+        <target state="translated">कैमरा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कैमरा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="can rotate">
+        <source>can rotate</source>
+        <target state="translated">घूम सकता हैं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>घूम सकता हैं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cancel">
+        <source>cancel</source>
+        <target state="translated">रद्द करें</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cancel">
+        <source>Cancel</source>
+        <target state="translated">रद्द करें</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose a folder">
+        <source>Choose a folder</source>
+        <target state="translated">एक फ़ोल्डर चुनें</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose new sprite from file">
+        <source>Choose new sprite from file</source>
+        <target state="translated">फ़ाइल से न स्प्राईटया चुनें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>फ़ाइल से न स्प्राईटया चुनें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clean up">
+        <source>clean up</source>
+        <target state="translated">साफ करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>साफ करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear">
+        <source>Clear</source>
+        <target state="translated">मिटा दे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मिटा दे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear canvas">
+        <source>Clear canvas</source>
+        <target state="translated">कैनवास पर सब मिटा दे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कैनवास पर सब मिटा दे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close and continue">
+        <source>Close and continue</source>
+        <target state="translated">बंद करे और जारी रखें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बंद करे और जारी रखें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close dialog?">
+        <source>Close dialog?</source>
+        <target state="translated">संवाद बंद करें?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>संवाद बंद करें?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close paint editor?">
+        <source>Close paint editor?</source>
+        <target state="translated">पेंटएडीटर बंद करे?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेंटएडीटर बंद करे?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="close port">
+        <source>close port</source>
+        <target state="translated">पोर्ट बंद करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पोर्ट बंद करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close sound recorder?">
+        <source>Close sound recorder?</source>
+        <target state="translated">साउंड रिकॉर्डर बंद करें?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>साउंड रिकॉर्डर बंद करें?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="color">
+        <source>color</source>
+        <target state="translated">रंग</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Compress Images">
+        <source>Compress Images</source>
+        <target state="translated">चित्रों को संक्षिप्त करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>चित्रों को संक्षिप्त करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Compress Sounds">
+        <source>Compress Sounds</source>
+        <target state="translated">ध्वनियों को संक्षिप्त करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ध्वनियों को संक्षिप्त करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Compress sounds and images">
+        <source>Compress sounds and images</source>
+        <target state="translated">ध्वनियाँ अौर चित्रों को संक्षिप्त करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ध्वनियाँ अौर चित्रों को संक्षिप्त करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Computer">
+        <source>Computer</source>
+        <target state="translated">कम्प्यूटर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कम्प्यूटर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="connected">
+        <source>connected</source>
+        <target state="translated">कनेक्ट किया गया है</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कनेक्ट किया गया है</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Connecting to ">
+        <source>Connecting to </source>
+        <target state="translated">से कनेक्ट हो रहा है</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>से कनेक्ट हो रहा है</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy">
+        <source>Copy</source>
+        <target state="translated">कॉपी करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कॉपी करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="costume">
+        <source>costume</source>
+        <target state="translated">पोशाक </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पोशाक </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="costumes">
+        <source>costumes</source>
+        <target state="translated">पोशाक </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पोशाक </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Costumes">
+        <source>Costumes</source>
+        <target state="translated">पोशाक </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पोशाक </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Could not read">
+        <source>Could not read</source>
+        <target state="translated">पढ़ नहीं सके</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पढ़ नहीं सके</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Could not read project; file may be damaged">
+        <source>Could not read project; file may be damaged</source>
+        <target state="translated">रोजेक्ट पढ़ नहीं सके; फ़ाइल शायद बिगड़ गई है</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रोजेक्ट पढ़ नहीं सके; फ़ाइल शायद बिगड़ गई है</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Could not write file">
+        <source>Could not write file</source>
+        <target state="translated">फाइल लिख नहीं  सके</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>फाइल लिख नहीं  सके</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create account">
+        <source>Create account</source>
+        <target state="translated">नया ख़ाता बनाएँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नया ख़ाता बनाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create an empty project">
+        <source>Create an empty project</source>
+        <target state="translated">एक नया खाली प्रोजेक्ट बनाएं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एक नया खाली प्रोजेक्ट बनाएं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Data sent. Waiting for response...">
+        <source>Data sent. Waiting for response...</source>
+        <target state="translated">डेटा भेज दिया है।  प्रतिक्रिया के लिए प्रतीक्षा कर रहे है ...</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>डेटा भेज दिया है।  प्रतिक्रिया के लिए प्रतीक्षा कर रहे है ...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="delete">
+        <source>delete</source>
+        <target state="translated">डिलिट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>डिलिट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete">
+        <source>Delete</source>
+        <target state="translated">डिलिट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>डिलिट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete a list">
+        <source>Delete a list</source>
+        <target state="translated">सूची डिलिट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सूची डिलिट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete a variable">
+        <source>Delete a variable</source>
+        <target state="translated">वेरिएबल डिलिट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वेरिएबल डिलिट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete this background">
+        <source>Delete this background</source>
+        <target state="translated">यह पृष्ठभूमि डिलिट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>यह पृष्ठभूमि डिलिट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete this costume">
+        <source>Delete this costume</source>
+        <target state="translated">यह पोशाख डिलिट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>यह पोशाख डिलिट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete this sound">
+        <source>Delete this sound</source>
+        <target state="translated">यह पृोशाख डिलिट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>यह पृोशाख डिलिट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete this sprite">
+        <source>Delete this sprite</source>
+        <target state="translated">इस स्प्राईट डिलिट करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इस स्प्राईट डिलिट करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Desktop">
+        <source>Desktop</source>
+        <target state="translated">डेस्कटॉप</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>डेस्कटॉप</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="disable remote sensor connections">
+        <source>disable remote sensor connections</source>
+        <target state="translated">रिमोट सेंसर कनेक्शन बंद करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रिमोट सेंसर कनेक्शन बंद करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="distance">
+        <source>distance</source>
+        <target state="translated">दूरी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>दूरी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Documents">
+        <source>Documents</source>
+        <target state="translated">डॉक्युमेंट्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>डॉक्युमेंट्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="don't rotate">
+        <source>don't rotate</source>
+        <target state="translated">घुमाएँ नहीं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>घुमाएँ नहीं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Don't Save">
+        <source>Don't Save</source>
+        <target state="translated">सेव नहीं करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सेव नहीं करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Done">
+        <source>Done</source>
+        <target state="translated">हो गया</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हो गया</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="down">
+        <source>down</source>
+        <target state="translated">नीचे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नीचे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="down arrow">
+        <source>down arrow</source>
+        <target state="translated">नीचे की तीर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नीचे की तीर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="drag to resize">
+        <source>drag to resize</source>
+        <target state="translated">आकार बदलने के लिए खींचें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>आकार बदलने के लिए खींचें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="drag to rotate">
+        <source>drag to rotate</source>
+        <target state="translated">घुमाने के लिए खींचें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>घुमाने के लिए खींचें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="draggable on website?">
+        <source>draggable on website?</source>
+        <target state="translated">वेबसाइट पर खींचने के योग्य है?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वेबसाइट पर खींचने के योग्य है?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="duplicate">
+        <source>duplicate</source>
+        <target state="translated">नकल करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नकल करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate">
+        <source>Duplicate</source>
+        <target state="translated">नकल करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नकल करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="edge">
+        <source>edge</source>
+        <target state="translated">किनारा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>किनारा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Edit">
+        <source>Edit</source>
+        <target state="translated">एडिट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एडिट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ellipse tool (draw outlined or filled ellipse or circle)">
+        <source>Ellipse tool (draw outlined or filled ellipse or circle)</source>
+        <target state="translated">एलिप्स टुल (रेखांकितया भरा हुअा गोल या अंडाकार बनाए)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एलिप्स टुल (रेखांकितया भरा हुअा गोल या अंडाकार बनाए)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="enable remote sensor connections">
+        <source>enable remote sensor connections</source>
+        <target state="translated">रिमोट सेंसर कनेक्शन्स सक्षम करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रिमोट सेंसर कनेक्शन्स सक्षम करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enter presentation mode">
+        <source>Enter presentation mode</source>
+        <target state="translated">प्रेसेंटेशन मोड में प्रवेश करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>प्रेसेंटेशन मोड में प्रवेश करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Eraser">
+        <source>Eraser</source>
+        <target state="translated">मिटाने का रबर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मिटाने का रबर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Eraser size">
+        <source>Eraser size</source>
+        <target state="translated">रबर का अाकार</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रबर का अाकार</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Error!">
+        <source>Error!</source>
+        <target state="translated">गलती!</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>गलती!</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Examples">
+        <source>Examples</source>
+        <target state="translated">उदाहरण</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>उदाहरण</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Exit presentation">
+        <source>Exit presentation</source>
+        <target state="translated">रेज़ेन्टेशन से बाहर जाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रेज़ेन्टेशन से बाहर जाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Exit presentation mode">
+        <source>Exit presentation mode</source>
+        <target state="translated">प्रस्तुतीकरण मोड से बाहर जाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>प्रस्तुतीकरण मोड से बाहर जाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="export">
+        <source>export</source>
+        <target state="translated">निर्यात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>निर्यात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export Background">
+        <source>Export Background</source>
+        <target state="translated"> पृष्ठभूमि निर्यात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target> पृष्ठभूमि निर्यात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export Costume">
+        <source>Export Costume</source>
+        <target state="translated">पोशाख निर्यात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पोशाख निर्यात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export failed">
+        <source>Export failed</source>
+        <target state="translated">निर्यात असफल रहा।</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>निर्यात असफल रहा।</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export Sound">
+        <source>Export Sound</source>
+        <target state="translated">साउंड निर्यात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>साउंड निर्यात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export Sprite">
+        <source>Export Sprite</source>
+        <target state="translated"> स्प्राईट निर्यात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target> स्प्राईट निर्यात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="export this costume">
+        <source>export this costume</source>
+        <target state="translated">यह पोशाख निर्यात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>यह पोशाख निर्यात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="export this sound">
+        <source>export this sound</source>
+        <target state="translated">यह साउंड निर्यात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>यह साउंड निर्यात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="export this sprite">
+        <source>export this sprite</source>
+        <target state="translated">यह स्प्राईट निर्यात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>यह स्प्राईट निर्यात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extras menu">
+        <source>Extras menu</source>
+        <target state="translated">अतिरिक्त मेनू</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अतिरिक्त मेनू</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Eyedropper tool (select a color)">
+        <source>Eyedropper tool (select a color)</source>
+        <target state="translated">अाईड्रोपर टूल (एक रंग चूने)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अाईड्रोपर टूल (एक रंग चूने)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Failed:">
+        <source>Failed:</source>
+        <target state="translated">असफल रहा:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>असफल रहा:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="false">
+        <source>false</source>
+        <target state="translated">गलत</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>गलत</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File">
+        <source>File</source>
+        <target state="translated">फ़ाइल</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>फ़ाइल</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File not found">
+        <source>File not found</source>
+        <target state="translated">फ़ाइल नहीं मिली</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>फ़ाइल नहीं मिली</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill tool (fill areas with color or gradient)">
+        <source>Fill tool (fill areas with color or gradient)</source>
+        <target state="translated">फ़िल टूल (क्षेत्रों को रंग या ग्रेडिएंट से भरें)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>फ़िल टूल (क्षेत्रों को रंग या ग्रेडिएंट से भरें)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="first">
+        <source>first</source>
+        <target state="translated">पहला</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पहला</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="fisheye">
+        <source>fisheye</source>
+        <target state="translated">फ़िशअाई</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>फ़िशअाई</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flash blocks (fast)">
+        <source>Flash blocks (fast)</source>
+        <target state="translated">फ्लैश ब्लॉक्स (तेज़)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>फ्लैश ब्लॉक्स (तेज़)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flash blocks (slow)">
+        <source>Flash blocks (slow)</source>
+        <target state="translated">फ्लैश ब्लॉक्स (धीमा)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>फ्लैश ब्लॉक्स (धीमा)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flip horizontally">
+        <source>Flip horizontally</source>
+        <target state="translated">आड़ा पलटें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>आड़ा पलटें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flip vertically">
+        <source>Flip vertically</source>
+        <target state="translated">खड़ा पलटें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>खड़ा पलटें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="For all sprites">
+        <source>For all sprites</source>
+        <target state="translated">सभी स्प्राईट्स के लिए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सभी स्प्राईट्स के लिए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="For this sprite only">
+        <source>For this sprite only</source>
+        <target state="translated">केवल इस स्प्राईट के लिए </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>केवल इस स्प्राईट के लिए </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Game">
+        <source>Game</source>
+        <target state="translated">खेल</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>खेल</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Get surprise sprite">
+        <source>Get surprise sprite</source>
+        <target state="translated">सरप्राइज़ स्प्राईट ले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सरप्राइज़ स्प्राईट ले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Get the last thing deleted">
+        <source>Get the last thing deleted</source>
+        <target state="translated">पिछला काम डिलीट करवा दे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पिछला काम डिलीट करवा दे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Getting Started">
+        <source>Getting Started</source>
+        <target state="translated">शुरुवात करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>शुरुवात करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ghost">
+        <source>ghost</source>
+        <target state="translated">भूत</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>भूत</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Go To Scratch Website">
+        <source>Go To Scratch Website</source>
+        <target state="translated">स्क्रैच वेबसाइट पर जांए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्क्रैच वेबसाइट पर जांए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="grab screen region for new costume">
+        <source>grab screen region for new costume</source>
+        <target state="translated">नई पोशाक के लिए स्क्रीन क्षेत्र पकड़े</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नई पोशाक के लिए स्क्रीन क्षेत्र पकड़े</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="grab screen region for new sprite">
+        <source>grab screen region for new sprite</source>
+        <target state="translated">नए स्प्राईट के लिए स्क्रीन क्षेत्र पकड़े</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नए स्प्राईट के लिए स्क्रीन क्षेत्र पकड़े</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Grow">
+        <source>Grow</source>
+        <target state="translated">बडा करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बडा करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Grow sprite">
+        <source>Grow sprite</source>
+        <target state="translated">स्प्राईट को बडा करे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्प्राईट को बडा करे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hello ">
+        <source>hello </source>
+        <target state="translated">नमस्ते</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नमस्ते</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hello!">
+        <source>Hello!</source>
+        <target state="translated">नमस्ते!</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नमस्ते!</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="help">
+        <source>help</source>
+        <target state="translated">सहायता</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सहायता</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Help">
+        <source>Help</source>
+        <target state="translated">सहायता</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सहायता</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Help Page">
+        <source>Help Page</source>
+        <target state="translated">सहायता  पृष्ठ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सहायता  पृष्ठ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Help Screens">
+        <source>Help Screens</source>
+        <target state="translated">सहायता स्क्रीन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सहायता स्क्रीन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hide Motor Blocks">
+        <source>Hide Motor Blocks</source>
+        <target state="translated">मोटर ब्लॉक छिपाएँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मोटर ब्लॉक छिपाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High (biggest)">
+        <source>High (biggest)</source>
+        <target state="translated">उच्च(सबसे बड़ा)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>उच्च(सबसे बड़ा)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hmm...">
+        <source>Hmm...</source>
+        <target state="translated">अच्छा...</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अच्छा...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Home">
+        <source>Home</source>
+        <target state="translated">घर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>घर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Images compressed">
+        <source>Images compressed</source>
+        <target state="translated">छवियाँ संकुचित है</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>छवियाँ संकुचित है</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="import">
+        <source>import</source>
+        <target state="translated">आयात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>आयात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import">
+        <source>Import</source>
+        <target state="translated">अायात करें </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अायात करें </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import an image on top of your current canvas">
+        <source>Import an image on top of your current canvas</source>
+        <target state="translated">अपने कैनवास के शीर्ष पर एक चित्र आयात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अपने कैनवास के शीर्ष पर एक चित्र आयात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Background">
+        <source>Import Background</source>
+        <target state="translated"> पृष्ठभूमि अायात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target> पृष्ठभूमि अायात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Costume">
+        <source>Import Costume</source>
+        <target state="translated">पोशाख अायात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पोशाख अायात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Image">
+        <source>Import Image</source>
+        <target state="translated">फोटू आयात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>फोटू आयात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import List">
+        <source>Import List</source>
+        <target state="translated">सूची अायात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सूची अायात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Project">
+        <source>Import Project</source>
+        <target state="translated">प्रोज़ेक्ट अायात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>प्रोज़ेक्ट अायात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="import project">
+        <source>import project</source>
+        <target state="translated">प्रेज़ेक्ट अायात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>प्रेज़ेक्ट अायात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Sound">
+        <source>Import Sound</source>
+        <target state="translated">साउंड अायात करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>साउंड अायात करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Incompatible Scratch file format">
+        <source>Incompatible Scratch file format</source>
+        <target state="translated">स्क्रैच फ़ाइल फार्मेट अनुचितहैं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्क्रैच फ़ाइल फार्मेट अनुचितहैं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Is the folder read-only?">
+        <source>Is the folder read-only?</source>
+        <target state="translated">क्या यह फ़ोल्डर केवल पढ़ने के लिए है?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>क्या यह फ़ोल्डर केवल पढ़ने के लिए है?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="JPEG Quality (10-100)?">
+        <source>JPEG Quality (10-100)?</source>
+        <target state="translated">JPEG गुणवत्ता (१०-१00) है?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>JPEG गुणवत्ता (१०-१00) है?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="kbytes">
+        <source>kbytes</source>
+        <target state="translated">किलो बाइट्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>किलो बाइट्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Language">
+        <source>Language</source>
+        <target state="translated">भाषा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>भाषा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="large readout">
+        <source>large readout</source>
+        <target state="translated">बड़ा रेडअाउट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बड़ा रेडअाउट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="last">
+        <source>last</source>
+        <target state="translated">आखरी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>आखरी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="left">
+        <source>left</source>
+        <target state="translated">बायाँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बायाँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="left arrow">
+        <source>left arrow</source>
+        <target state="translated">बायाँ तीर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बायाँ तीर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length">
+        <source>length</source>
+        <target state="translated">लंबाई</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लंबाई</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="light">
+        <source>light</source>
+        <target state="translated">रोशनी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रोशनी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Line tool (draw lines)">
+        <source>Line tool (draw lines)</source>
+        <target state="translated">लाइन टूल (रेखें खींचे)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लाइन टूल (रेखें खींचे)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="List name?">
+        <source>List name?</source>
+        <target state="translated">सूची का नाम?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सूची का नाम?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low">
+        <source>Low</source>
+        <target state="translated">कम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lowest (smallest)">
+        <source>Lowest (smallest)</source>
+        <target state="translated">न्यूनतम (सबसे छोटा)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>न्यूनतम (सबसे छोटा)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make a list">
+        <source>Make a list</source>
+        <target state="translated">एक सूची बनाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एक सूची बनाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make a variable">
+        <source>Make a variable</source>
+        <target state="translated">एक वेरिएबल बनाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एक वेरिएबल बनाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Max:">
+        <source>Max:</source>
+        <target state="translated">अधिकतम:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अधिकतम:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="meow">
+        <source>meow</source>
+        <target state="translated">म्याउ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>म्याउ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Message name:">
+        <source>Message name:</source>
+        <target state="translated">संदेश का नाम:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>संदेश का नाम:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min:">
+        <source>Min:</source>
+        <target state="translated">न्यूनतम:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>न्यूनतम:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mod">
+        <source>mod</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="more">
+        <source>more</source>
+        <target state="translated">और अधिक</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>और अधिक</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="More tags:">
+        <source>More tags:</source>
+        <target state="translated">अधिक टैग:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अधिक टैग:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mosaic">
+        <source>mosaic</source>
+        <target state="translated">मोज़ेक</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मोज़ेक</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse x:">
+        <source>mouse x:</source>
+        <target state="translated">माउस x:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>माउस x:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse y:">
+        <source>mouse y:</source>
+        <target state="translated">माउस y:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>माउस y:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse-pointer">
+        <source>mouse-pointer</source>
+        <target state="translated">माउस पाइंटर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>माउस पाइंटर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Move">
+        <source>Move</source>
+        <target state="translated">चले</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>चले</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Music">
+        <source>Music</source>
+        <target state="translated">संगीत</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>संगीत</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="My Projects">
+        <source>My Projects</source>
+        <target state="translated">मेरे प्रोजेक्ट्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मेरे प्रोजेक्ट्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="new">
+        <source>new</source>
+        <target state="translated">नया</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नया</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New">
+        <source>New</source>
+        <target state="translated">नया</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नया</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New background:">
+        <source>New background:</source>
+        <target state="translated">नई पृष्ठभूमि:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नई पृष्ठभूमि:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New costume:">
+        <source>New costume:</source>
+        <target state="translated">नई पोशाख:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नई पोशाख:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New file name?">
+        <source>New file name?</source>
+        <target state="translated">नया फाइलनाम?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नया फाइलनाम?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New Filename:">
+        <source>New Filename:</source>
+        <target state="translated">नया फाइलनाम:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नया फाइलनाम:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New sound:">
+        <source>New sound:</source>
+        <target state="translated">नई अवाज:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नई अवाज:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New Sprite">
+        <source>New Sprite</source>
+        <target state="translated">नया स्प्राईट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नया स्प्राईट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New sprite:">
+        <source>New sprite:</source>
+        <target state="translated">नया स्प्राईट:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नया स्प्राईट:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No">
+        <source>No</source>
+        <target state="translated">नहीं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नहीं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No MIDI ports currently available.">
+        <source>No MIDI ports currently available.</source>
+        <target state="translated">अभी कोई MIDIपोर्ट उपलब्ध नहीं है।।</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अभी कोई MIDIपोर्ट उपलब्ध नहीं है।।</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No motion blocks">
+        <source>No motion blocks</source>
+        <target state="translated">कोई चाल ब्लॉक नहीं हैं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कोई चाल ब्लॉक नहीं हैं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="no scripts">
+        <source>no scripts</source>
+        <target state="translated">कोई स्क्रिप्ट नहीं हैं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कोई स्क्रिप्ट नहीं हैं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No serial ports found">
+        <source>No serial ports found</source>
+        <target state="translated">कोई सीरियल पोर्ट नहीं मिला</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कोई सीरियल पोर्ट नहीं मिला</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No variables.">
+        <source>No variables.</source>
+        <target state="translated">वेरिएबल्स नहीं हैं।</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वेरिएबल्स नहीं हैं।</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Normal">
+        <source>Normal</source>
+        <target state="translated">साधारण</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>साधारण</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="normal readout">
+        <source>normal readout</source>
+        <target state="translated">साधारण रेडअाउट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>साधारण रेडअाउट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Off">
+        <source>Off</source>
+        <target state="translated">बंद</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बंद</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="OK">
+        <source>OK</source>
+        <target state="translated">ठीक है</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ठीक है</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="On">
+        <source>On</source>
+        <target state="translated">चालू</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>चालू</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="only face left-right">
+        <source>only face left-right</source>
+        <target state="translated">केवल बायीं- दाहिनी ओर मुँह फेरें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>केवल बायीं- दाहिनी ओर मुँह फेरें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open">
+        <source>Open</source>
+        <target state="translated">खोलें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>खोलें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open a Scratch project">
+        <source>Open a Scratch project</source>
+        <target state="translated">एक स्क्रैच प्रोजेक्ट खोलें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एक स्क्रैच प्रोजेक्ट खोलें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Project">
+        <source>Open Project</source>
+        <target state="translated">रोजेक्ट खोलें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रोजेक्ट खोलें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="or">
+        <source>or</source>
+        <target state="translated">या</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>या</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paint">
+        <source>Paint</source>
+        <target state="translated">पेंट करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेंट करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paint Editor">
+        <source>Paint Editor</source>
+        <target state="translated">पेंट एडिटर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेंट एडिटर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paint new sprite">
+        <source>Paint new sprite</source>
+        <target state="translated">नया स्प्राईट पेंट करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नया स्प्राईट पेंट करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paintbrush">
+        <source>Paintbrush</source>
+        <target state="translated">पेंट ब्रश</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेंट ब्रश</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Password:">
+        <source>Password:</source>
+        <target state="translated">पासवर्ड:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पासवर्ड:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Percent? (100 gives original size)">
+        <source>Percent? (100 gives original size)</source>
+        <target state="translated">प्रतिशत? (१०० मूल आकार देता है)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>प्रतिशत? (१०० मूल आकार देता है)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pictures">
+        <source>Pictures</source>
+        <target state="translated">चित्र</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>चित्र</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pixelate">
+        <source>pixelate</source>
+        <target state="translated">पिक्सेलेट </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पिक्सेलेट </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play">
+        <source>play</source>
+        <target state="translated">बजाए</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बजाए</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Please enter a number">
+        <source>Please enter a number</source>
+        <target state="translated">क्रुपया एक नंबर दर्ज करें</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pop">
+        <source>pop</source>
+        <target state="translated">पॅाप</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पॅाप</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Position the cross-hair to set the rotation center">
+        <source>Position the cross-hair to set the rotation center</source>
+        <target state="translated">रोटेशन के सेंटर को सेट करने के लिए क्रॉस - हेयर स्थित करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रोटेशन के सेंटर को सेट करने के लिए क्रॉस - हेयर स्थित करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Preparing project...">
+        <source>Preparing project...</source>
+        <target state="translated"> प्रोजेक्ट बना रहे हैं...</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target> प्रोजेक्ट बना रहे हैं...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project author:">
+        <source>Project author:</source>
+        <target state="translated">प्रोजेक्ट के लेखक:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>प्रोजेक्ट के लेखक:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project name">
+        <source>Project name</source>
+        <target state="translated"> प्रोजेकट का नाम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target> प्रोजेकट का नाम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project Notes">
+        <source>Project Notes</source>
+        <target state="translated"> प्रोजेकट के नोट्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target> प्रोजेकट के नोट्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project notes">
+        <source>Project notes</source>
+        <target state="translated"> प्रोजेकट के नोट्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target> प्रोजेकट के नोट्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project uploaded.">
+        <source>Project uploaded.</source>
+        <target state="translated">प्रोजेक्ट अपलोड हो गया।</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>प्रोजेक्ट अपलोड हो गया।</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Projects">
+        <source>Projects</source>
+        <target state="translated"> प्रोजेक्ट्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target> प्रोजेक्ट्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Quit">
+        <source>Quit</source>
+        <target state="translated">बाहर जाएँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बाहर जाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Quit Scratch">
+        <source>Quit Scratch</source>
+        <target state="translated">स्क्रैच से बाहर निकलें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्क्रैच से बाहर निकलें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reading">
+        <source>Reading</source>
+        <target state="translated">पढ़ रहे हैं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पढ़ रहे हैं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="record">
+        <source>record</source>
+        <target state="translated">रिकॉर्ड</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रिकॉर्ड</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Record">
+        <source>Record</source>
+        <target state="translated">रिकॉर्ड</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रिकॉर्ड</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="recording">
+        <source>recording</source>
+        <target state="translated">रिकॉर्ड हो रहा हैं।</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रिकॉर्ड हो रहा हैं।</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rectangle tool (draw outlined or filled rectangle or square)">
+        <source>Rectangle tool (draw outlined or filled rectangle or square)</source>
+        <target state="translated">रेक्टेंगल टूल (उल्लिखित या भरा हुअा रेक्टेंगल या चौकोर बनाए)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रेक्टेंगल टूल (उल्लिखित या भरा हुअा रेक्टेंगल या चौकोर बनाए)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Redo">
+        <source>Redo</source>
+        <target state="translated">फिर से करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>फिर से करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reference Guide">
+        <source>Reference Guide</source>
+        <target state="translated">संदर्भ गाइड</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>संदर्भ गाइड</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Remote sensor connections enabled">
+        <source>Remote sensor connections enabled</source>
+        <target state="translated">रिमोट सेंसर कनेक्शन सक्षम है</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रिमोट सेंसर कनेक्शन सक्षम है</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Remove viewer from stage">
+        <source>Remove viewer from stage</source>
+        <target state="translated">स्टेज से व्यूवर निकालें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्टेज से व्यूवर निकालें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="resistance">
+        <source>resistance</source>
+        <target state="translated">बाधा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बाधा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="resize this sprite">
+        <source>resize this sprite</source>
+        <target state="translated">इस स्प्राईट का अाकार बदलें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इस स्प्राईट का अाकार बदलें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="reverse">
+        <source>reverse</source>
+        <target state="translated">उलटा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>उलटा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="right">
+        <source>right</source>
+        <target state="translated">दायाँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>दायाँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="right arrow">
+        <source>right arrow</source>
+        <target state="translated">दायाँ तीर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>दायाँ तीर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotate clock-wise">
+        <source>Rotate clock-wise</source>
+        <target state="translated">घड़ी की दिशा में घुमाएँ </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>घड़ी की दिशा में घुमाएँ </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotate counter-clock-wise">
+        <source>Rotate counter-clock-wise</source>
+        <target state="translated">इस स्प्राईट को घड़ी की विपरीत दिशा में घुमाएँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इस स्प्राईट को घड़ी की विपरीत दिशा में घुमाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="rotate this sprite">
+        <source>rotate this sprite</source>
+        <target state="translated">इस स्प्राईट को घुमाएँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इस स्प्राईट को घुमाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotation degrees?">
+        <source>Rotation degrees?</source>
+        <target state="translated">रोटेशन की डिग्री?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रोटेशन की डिग्री?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save">
+        <source>Save</source>
+        <target state="translated">सेव करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सेव करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save a copy of the current project">
+        <source>Save a copy of the current project</source>
+        <target state="translated">मौजूदा प्रोजेक्ट की कॉपी सेव करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मौजूदा प्रोजेक्ट की कॉपी सेव करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save As">
+        <source>Save As</source>
+        <target state="translated">इस रूप में सेव करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इस रूप में सेव करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save changes before quitting?">
+        <source>Save changes before quitting?</source>
+        <target state="translated">जाने से पहले बदलाव को सेव करें?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>जाने से पहले बदलाव को सेव करें?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save failed">
+        <source>Save failed</source>
+        <target state="translated">सेव करना असफल रहा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सेव करना असफल रहा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="save picture of scripts">
+        <source>save picture of scripts</source>
+        <target state="translated">रिप्ट्स का चित्र सेव करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रिप्ट्स का चित्र सेव करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="save picture of stage...">
+        <source>save picture of stage...</source>
+        <target state="translated">स्टेज का चित्र सेव करें...</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्टेज का चित्र सेव करें...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save Project">
+        <source>Save Project</source>
+        <target state="translated">प्रोजेक्ट सेव करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>प्रोजेक्ट सेव करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save Scripts Snapshot">
+        <source>Save Scripts Snapshot</source>
+        <target state="translated">रिप्ट्स के स्नैपशॉट को सेव करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रिप्ट्स के स्नैपशॉट को सेव करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save Stage Shot">
+        <source>Save Stage Shot</source>
+        <target state="translated">स्टेज शॉट को सेव करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्टेज शॉट को सेव करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save the current project">
+        <source>Save the current project</source>
+        <target state="translated">मौजूदा प्रोजेक्ट को सेव करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मौजूदा प्रोजेक्ट को सेव करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save the current project?">
+        <source>Save the current project?</source>
+        <target state="translated">क्या यह मौजूदा प्रोजेक्ट को सेव करें?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>क्या यह मौजूदा प्रोजेक्ट को सेव करें?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save this project">
+        <source>Save this project</source>
+        <target state="translated">इस प्रोजेक्ट को सेव करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इस प्रोजेक्ट को सेव करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scripts">
+        <source>Scripts</source>
+        <target state="translated">स्क्रिप्ट्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्क्रिप्ट्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="select serial/USB port">
+        <source>select serial/USB port</source>
+        <target state="translated">सीरियल / यूएसबी पोर्ट का चयन करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सीरियल / यूएसबी पोर्ट का चयन करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select tool (move, modify, or delete selection)">
+        <source>Select tool (move, modify, or delete selection)</source>
+        <target state="translated">सिलेक्ट टूल (चाल, संशोधित करें, या चयन हटाएँ)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिलेक्ट टूल (चाल, संशोधित करें, या चयन हटाएँ)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set costume center">
+        <source>Set costume center</source>
+        <target state="translated">पोशाक केन्द्र सेट करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पोशाक केन्द्र सेट करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set language">
+        <source>Set language</source>
+        <target state="translated">भाषा सेट करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>भाषा सेट करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set rotation center">
+        <source>Set rotation center</source>
+        <target state="translated">रोटेशन के केन्द्र को सेट करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रोटेशन के केन्द्र को सेट करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Single Stepping">
+        <source>Set Single Stepping</source>
+        <target state="translated">सिंगल कदम सेट करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिंगल कदम सेट करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set slider min and max">
+        <source>set slider min and max</source>
+        <target state="translated">स्लाइडर न्यूनतम और अधिकतम सेट करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्लाइडर न्यूनतम और अधिकतम सेट करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Share">
+        <source>Share</source>
+        <target state="translated">शेयर करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>शेयर करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Share this project">
+        <source>Share this project</source>
+        <target state="translated">इस प्रोजेक्ट को शेयर करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इस प्रोजेक्ट को शेयर करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Share This Project Online">
+        <source>Share This Project Online</source>
+        <target state="translated">इस प्रोजेक्ट को ऑनलाइन शेयर करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इस प्रोजेक्ट को ऑनलाइन शेयर करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Show Motor Blocks">
+        <source>Show Motor Blocks</source>
+        <target state="translated">मोटर ब्लॉक दिखाएँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मोटर ब्लॉक दिखाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show ScratchBoard watcher">
+        <source>show ScratchBoard watcher</source>
+        <target state="translated">स्क्रैच बोर्ड वॅाचर दिखाएँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्क्रैच बोर्ड वॅाचर दिखाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shrink">
+        <source>Shrink</source>
+        <target state="translated">सिकुड़ें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिकुड़ें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shrink sprite">
+        <source>Shrink sprite</source>
+        <target state="translated">स्प्राईट को सिकोड़ें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्प्राईट को सिकोड़ें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Simulation">
+        <source>Simulation</source>
+        <target state="translated">सिमुलेशन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिमुलेशन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Single-step speed?">
+        <source>Single-step speed?</source>
+        <target state="translated">सिंगल कदम की गति?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिंगल कदम की गति?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="slider">
+        <source>slider</source>
+        <target state="translated">स्लाइडर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्लाइडर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slider range:">
+        <source>Slider range:</source>
+        <target state="translated">स्लाइडर रेंज:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्लाइडर रेंज:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sound quality:">
+        <source>Sound quality:</source>
+        <target state="translated">ध्वनि की गुणवत्ता:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ध्वनि की गुणवत्ता:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sound Recorder">
+        <source>Sound Recorder</source>
+        <target state="translated">साउंड रिकार्डर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>साउंड रिकार्डर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sounds">
+        <source>Sounds</source>
+        <target state="translated">ध्वनियाँ </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ध्वनियाँ </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sounds compressed">
+        <source>Sounds compressed</source>
+        <target state="translated">ध्वनियाँ संकुचित है </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ध्वनियाँ संकुचित है </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="space">
+        <source>space</source>
+        <target state="translated">स्पेस</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्पेस</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sprite">
+        <source>Sprite</source>
+        <target state="translated">स्प्राईट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्प्राईट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sprites">
+        <source>Sprites</source>
+        <target state="translated">स्प्राईट्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्प्राईट्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sqrt">
+        <source>sqrt</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stage">
+        <source>Stage</source>
+        <target state="translated">स्टेज</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्टेज</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stage selected:">
+        <source>Stage selected:</source>
+        <target state="translated">स्टेज का चयन करें:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्टेज का चयन करें:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stamp tool (select area, then stamp copies of it)">
+        <source>Stamp tool (select area, then stamp copies of it)</source>
+        <target state="translated">स्टैम्प टूल (क्षेत्र का चयन करें, फिर उसकी प्रतियों की मोहर लगाए)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्टैम्प टूल (क्षेत्र का चयन करें, फिर उसकी प्रतियों की मोहर लगाए)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start green flag scripts">
+        <source>Start green flag scripts</source>
+        <target state="translated">हरे झंडे की स्क्रिप्ट्स शुरू करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हरे झंडे की स्क्रिप्ट्स शुरू करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start Single Stepping">
+        <source>Start Single Stepping</source>
+        <target state="translated">सिंगल कदम शुरू करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिंगल कदम शुरू करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop">
+        <source>stop</source>
+        <target state="translated">रोकें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रोकें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stop everything">
+        <source>Stop everything</source>
+        <target state="translated">सब कुछ रोकें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सब कुछ रोकें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stop Single Stepping">
+        <source>Stop Single Stepping</source>
+        <target state="translated">सिंगल कदम रोके</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिंगल कदम रोके</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Story">
+        <source>Story</source>
+        <target state="translated">कहानी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कहानी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Support Site">
+        <source>Support Site</source>
+        <target state="translated">साइट का समर्थन करें </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>साइट का समर्थन करें </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Switch colors">
+        <source>Switch colors</source>
+        <target state="translated">रंग बदल दें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रंग बदल दें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Switch to full stage">
+        <source>Switch to full stage</source>
+        <target state="translated">पूरे स्टेज पर जाएँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पूरे स्टेज पर जाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Switch to presentation mode">
+        <source>Switch to presentation mode</source>
+        <target state="translated">प्रेसेंटेशन मोड पर जाएँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>प्रेसेंटेशन मोड पर जाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Switch to small stage">
+        <source>Switch to small stage</source>
+        <target state="translated">छोटे स्टेज पर जाएँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>छोटे स्टेज पर जाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tags:">
+        <source>Tags:</source>
+        <target state="translated">टैग:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>टैग:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Text tool (edit text layer)">
+        <source>Text tool (edit text layer)</source>
+        <target state="translated">टेक्स्ट टूल (टेक्स्ट परत एडिट करें)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>टेक्स्ट टूल (टेक्स्ट परत एडिट करें)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="That variable name is already in use">
+        <source>That variable name is already in use</source>
+        <target state="translated">वह वैरिएबल नाम पहले से ही उपयोग में हैं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वह वैरिएबल नाम पहले से ही उपयोग में हैं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="that way">
+        <source>that way</source>
+        <target state="translated">उस तरह</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>उस तरह</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The file name already exists. Overwrite existing file?">
+        <source>The file name already exists. Overwrite existing file?</source>
+        <target state="translated">यह फ़ाइल नाम पहले से ही मौजूद है। क्या मौजूदा फाइल पर दुबारा नाम लिखें?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>यह फ़ाइल नाम पहले से ही मौजूद है। क्या मौजूदा फाइल पर दुबारा नाम लिखें?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="thing">
+        <source>thing</source>
+        <target state="translated">वस्तु</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वस्तु</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="this way">
+        <source>this way</source>
+        <target state="translated">इस तरह</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इस तरह</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tilt">
+        <source>tilt</source>
+        <target state="translated">झुकाव</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>झुकाव</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="true">
+        <source>true</source>
+        <target state="translated">सही</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सही</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Turbo speed">
+        <source>Turbo speed</source>
+        <target state="translated">टर्बो की गति</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>टर्बो की गति</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn into new sprite">
+        <source>turn into new sprite</source>
+        <target state="translated">नए स्प्राईट में बदल दे</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नए स्प्राईट में बदल दे</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Undelete">
+        <source>Undelete</source>
+        <target state="translated">अंडिलीट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अंडिलीट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Undo">
+        <source>Undo</source>
+        <target state="translated">अंडू</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अंडू</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="up">
+        <source>up</source>
+        <target state="translated">ऊपर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ऊपर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="up arrow">
+        <source>up arrow</source>
+        <target state="translated">ऊपर का तीर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ऊपर का तीर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Updating thumbnails">
+        <source>Updating thumbnails</source>
+        <target state="translated">थम्बनेल अपडेट हो रहे हैं</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>थम्बनेल अपडेट हो रहे हैं</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upload succeeded!">
+        <source>Upload succeeded!</source>
+        <target state="translated">अपलोड सफल रहा!</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अपलोड सफल रहा!</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upload to Scratch Server">
+        <source>Upload to Scratch Server</source>
+        <target state="translated">स्क्रैच सर्वर पर अपलोड करें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्क्रैच सर्वर पर अपलोड करें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Uploading">
+        <source>Uploading</source>
+        <target state="translated">अपलोड किया जा रहा है</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अपलोड किया जा रहा है</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Variable name?">
+        <source>Variable name?</source>
+        <target state="translated">वैरिएबल का नाम?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वैरिएबल का नाम?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="View on stage">
+        <source>View on stage</source>
+        <target state="translated">स्टेज पर देखें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्टेज पर देखें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What's your name?">
+        <source>What's your name?</source>
+        <target state="translated">आपका नाम क्या है?</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>आपका नाम क्या है?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="whirl">
+        <source>whirl</source>
+        <target state="translated">घुमाव</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>घुमाव</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="world">
+        <source>world</source>
+        <target state="translated">दुनिया</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>दुनिया</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Write Multiple Project Summaries">
+        <source>Write Multiple Project Summaries</source>
+        <target state="translated">एकाधिक प्रोजेक्ट के सारांश लिखें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एकाधिक प्रोजेक्ट के सारांश लिखें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Write Project Summary">
+        <source>Write Project Summary</source>
+        <target state="translated">प्रोजेक्ट का सारांश लिखें</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>प्रोजेक्ट का सारांश लिखें</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Yes">
+        <source>Yes</source>
+        <target state="translated">हाँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हाँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Your project is now online at">
+        <source>Your project is now online at</source>
+        <target state="translated">अापका प्रोजेक्ट अब यहाँ पर ऑनलाइन है</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अापका प्रोजेक्ट अब यहाँ पर ऑनलाइन है</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Your Scratch website login name:">
+        <source>Your Scratch website login name:</source>
+        <target state="translated">आपका स्क्रैच वेबसाइट लॉगिन नाम:</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>आपका स्क्रैच वेबसाइट लॉगिन नाम:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom in">
+        <source>Zoom in</source>
+        <target state="translated">ज़ूम इन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ज़ूम इन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom out">
+        <source>Zoom out</source>
+        <target state="translated">ज़ूम आउट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ज़ूम आउट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Accordion">
+        <source>Accordion</source>
+        <target state="translated">एकार्डियन</target>
+        <note from="translator">##########################################&#13;
+MIDI INSTRUMENTS&#13;
+##########################################&#13;</note>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एकार्डियन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Acoustic Bass">
+        <source>Acoustic Bass</source>
+        <target state="translated">अकॉस्टिक बास</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अकॉस्टिक बास</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Acoustic Bass Drum">
+        <source>Acoustic Bass Drum</source>
+        <target state="translated">अकॉस्टिक बास ड्रम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अकॉस्टिक बास ड्रम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Acoustic Grand">
+        <source>Acoustic Grand</source>
+        <target state="translated">अकॉस्टिक ग्रैंड</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अकॉस्टिक ग्रैंड</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Acoustic Snare">
+        <source>Acoustic Snare</source>
+        <target state="translated">अकॉस्टिक स्नैर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अकॉस्टिक स्नैर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Agogo">
+        <source>Agogo</source>
+        <target state="translated">अगोगो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अगोगो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Alto Sax">
+        <source>Alto Sax</source>
+        <target state="translated">ऑल्टो सैक्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ऑल्टो सैक्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Applause">
+        <source>Applause</source>
+        <target state="translated">तालियाँ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>तालियाँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bagpipe">
+        <source>Bagpipe</source>
+        <target state="translated">बैगपाइप</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बैगपाइप</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Banjo">
+        <source>Banjo</source>
+        <target state="translated">बैंजो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बैंजो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Baritone Sax">
+        <source>Baritone Sax</source>
+        <target state="translated">मध्यम आवाज़ सैक्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मध्यम आवाज़ सैक्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bass Drum 1">
+        <source>Bass Drum 1</source>
+        <target state="translated">बास ड्रम १</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बास ड्रम १</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bassoon">
+        <source>Bassoon</source>
+        <target state="translated">अलगोजा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अलगोजा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bird Tweet">
+        <source>Bird Tweet</source>
+        <target state="translated">पक्षी की अावाज</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पक्षी की अावाज</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Blown Bottle">
+        <source>Blown Bottle</source>
+        <target state="translated">उड़ा दि गई बोतल</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>उड़ा दि गई बोतल</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brass Section">
+        <source>Brass Section</source>
+        <target state="translated">ब्रास सेक्शन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ब्रास सेक्शन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Breath Noise">
+        <source>Breath Noise</source>
+        <target state="translated">साँस शोर
+साँस शोर
+साँस शोर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>साँस शोर
+साँस शोर
+साँस शोर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bright Acoustic">
+        <source>Bright Acoustic</source>
+        <target state="translated">ब्राइट अकॉस्टिक</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ब्राइट अकॉस्टिक</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cabasa">
+        <source>Cabasa</source>
+        <target state="translated">कबासा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कबासा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Celesta">
+        <source>Celesta</source>
+        <target state="translated">सिलैस्टा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिलैस्टा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cello">
+        <source>Cello</source>
+        <target state="translated">वायलनचेलो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वायलनचेलो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Chinese Cymbal">
+        <source>Chinese Cymbal</source>
+        <target state="translated">चीनी झांझ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>चीनी झांझ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choir Aahs">
+        <source>Choir Aahs</source>
+        <target state="translated">क्वायर अा अा अा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>क्वायर अा अा अा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Church Organ">
+        <source>Church Organ</source>
+        <target state="translated">चर्च ऑर्गन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>चर्च ऑर्गन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clarinet">
+        <source>Clarinet</source>
+        <target state="translated">शहनाई</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>शहनाई</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Claves">
+        <source>Claves</source>
+        <target state="translated">क्लेव्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>क्लेव्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clavinet">
+        <source>Clavinet</source>
+        <target state="translated">क्लेविनेट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>क्लेविनेट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Closed Hi-Hat">
+        <source>Closed Hi-Hat</source>
+        <target state="translated">बंद हाय - हैट </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बंद हाय - हैट </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Contrabass">
+        <source>Contrabass</source>
+        <target state="translated">कोंट्राबास</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कोंट्राबास</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cowbell">
+        <source>Cowbell</source>
+        <target state="translated">काऊबेल</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>काऊबेल</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Crash Cymbal 1">
+        <source>Crash Cymbal 1</source>
+        <target state="translated">क्रैश झांझ १</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>क्रैश झांझ १</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Crash Cymbal 2">
+        <source>Crash Cymbal 2</source>
+        <target state="translated">क्रैश झांझ २</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>क्रैश झांझ २</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Distortion Guitar">
+        <source>Distortion Guitar</source>
+        <target state="translated">डिस्टार्शन गिटार</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>डिस्टार्शन गिटार</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Drawbar Organ">
+        <source>Drawbar Organ</source>
+        <target state="translated">ड्राबार ऑर्गन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ड्राबार ऑर्गन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Dulcimer">
+        <source>Dulcimer</source>
+        <target state="translated">डलसाइमर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>डलसाइमर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Bass (finger)">
+        <source>Electric Bass (finger)</source>
+        <target state="translated">इलेक्ट्रिक बास (फिंगर)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इलेक्ट्रिक बास (फिंगर)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Bass (pick)">
+        <source>Electric Bass (pick)</source>
+        <target state="translated">इलेक्ट्रिक बास (पिक)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इलेक्ट्रिक बास (पिक)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Clean Guitar">
+        <source>Electric Clean Guitar</source>
+        <target state="translated">इलेक्ट्रिक क्लीन गिटार</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इलेक्ट्रिक क्लीन गिटार</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Grand">
+        <source>Electric Grand</source>
+        <target state="translated">इलेक्ट्रिक ग्रैंड</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इलेक्ट्रिक ग्रैंड</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Jazz Guitar">
+        <source>Electric Jazz Guitar</source>
+        <target state="translated">इलेक्ट्रिक जैज गिटार</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इलेक्ट्रिक जैज गिटार</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Muted Guitar">
+        <source>Electric Muted Guitar</source>
+        <target state="translated">इलेक्ट्रिक मौन गिटार</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इलेक्ट्रिक मौन गिटार</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Piano 1">
+        <source>Electric Piano 1</source>
+        <target state="translated">इलेक्ट्रिक पियानो १</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इलेक्ट्रिक पियानो १</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Piano 2">
+        <source>Electric Piano 2</source>
+        <target state="translated">इलेक्ट्रिक पियानो २</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>इलेक्ट्रिक पियानो २</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Snare">
+        <source>Electric Snare</source>
+        <target state="translated">बिजली का फन्दा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बिजली का फन्दा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="English Horn">
+        <source>English Horn</source>
+        <target state="translated">अंग्रेजी हॉर्न</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अंग्रेजी हॉर्न</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 1 (rain)">
+        <source>FX 1 (rain)</source>
+        <target state="translated">एफएक्स १ (बारिश)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एफएक्स १ (बारिश)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 2 (soundtrack)">
+        <source>FX 2 (soundtrack)</source>
+        <target state="translated">एफएक्स २ (साउंडट्रैक)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एफएक्स २ (साउंडट्रैक)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 3 (crystal)">
+        <source>FX 3 (crystal)</source>
+        <target state="translated">एफएक्स ३ (क्रिस्टल)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एफएक्स ३ (क्रिस्टल)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 4 (atmosphere)">
+        <source>FX 4 (atmosphere)</source>
+        <target state="translated">एफएक्स ४(वातावरण) </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एफएक्स ४(वातावरण) </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 5 (brightness)">
+        <source>FX 5 (brightness)</source>
+        <target state="translated">एफएक्स ५ (चमकीलापन) </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एफएक्स ५ (चमकीलापन) </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 6 (goblins)">
+        <source>FX 6 (goblins)</source>
+        <target state="translated">एफएक्स ६ (भूत)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एफएक्स ६ (भूत)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 7 (echoes)">
+        <source>FX 7 (echoes)</source>
+        <target state="translated">एफएक्स ७ (गूँज)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एफएक्स ७ (गूँज)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 8 (sci-fi)">
+        <source>FX 8 (sci-fi)</source>
+        <target state="translated">एफएक्स ८ (विज्ञान कथा)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>एफएक्स ८ (विज्ञान कथा)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fiddle">
+        <source>Fiddle</source>
+        <target state="translated">बेला</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बेला</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flute">
+        <source>Flute</source>
+        <target state="translated">बांसुरी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>बांसुरी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="French Horn">
+        <source>French Horn</source>
+        <target state="translated">फ्रेंच हॉर्न</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>फ्रेंच हॉर्न</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fretless Bass">
+        <source>Fretless Bass</source>
+        <target state="translated">झल्लाहट बिना बास </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>झल्लाहट बिना बास </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Glockenspiel">
+        <source>Glockenspiel</source>
+        <target state="translated">ग्लोकेनस्पिएल</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ग्लोकेनस्पिएल</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Guitar Fret Noise">
+        <source>Guitar Fret Noise</source>
+        <target state="translated">गिटार शोर झल्लाहट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>गिटार शोर झल्लाहट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Guitar Harmonics">
+        <source>Guitar Harmonics</source>
+        <target state="translated">गिटार हारमोनिक्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>गिटार हारमोनिक्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gunshot">
+        <source>Gunshot</source>
+        <target state="translated">गोलियों की आवाज</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>गोलियों की आवाज</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hand Clap">
+        <source>Hand Clap</source>
+        <target state="translated">हाथ ताली</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हाथ ताली</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Harmonica">
+        <source>Harmonica</source>
+        <target state="translated">हारमोनिका</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हारमोनिका</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Harpsichord">
+        <source>Harpsichord</source>
+        <target state="translated">हार्पसिकोर्ड</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हार्पसिकोर्ड</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Helicopter">
+        <source>Helicopter</source>
+        <target state="translated">हेलीकाप्टर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हेलीकाप्टर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hi Bongo">
+        <source>Hi Bongo</source>
+        <target state="translated">हाई बोंगो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हाई बोंगो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hi Wood Block">
+        <source>Hi Wood Block</source>
+        <target state="translated">हाई लकड़ीका ब्लॉक</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हाई लकड़ीका ब्लॉक</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hi-Mid Tom">
+        <source>Hi-Mid Tom</source>
+        <target state="translated">हाई -मिड टॉम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हाई -मिड टॉम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Agogo">
+        <source>High Agogo</source>
+        <target state="translated">हाई अगोगो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हाई अगोगो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Floor Tom">
+        <source>High Floor Tom</source>
+        <target state="translated">हाई फ्लोर टॉम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हाई फ्लोर टॉम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Timbale">
+        <source>High Timbale</source>
+        <target state="translated">हाई टिंबेल</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हाई टिंबेल</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Tom">
+        <source>High Tom</source>
+        <target state="translated">हाई टॉम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हाई टॉम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Honky-Tonk">
+        <source>Honky-Tonk</source>
+        <target state="translated">हॅाकि-टोंक</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>हॅाकि-टोंक</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Kalimba">
+        <source>Kalimba</source>
+        <target state="translated">कलिंबा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कलिंबा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Koto">
+        <source>Koto</source>
+        <target state="translated">कोटो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>कोटो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 1 (square)">
+        <source>Lead 1 (square)</source>
+        <target state="translated">लीड १ (चौकोर)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लीड १ (चौकोर)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 2 (sawtooth)">
+        <source>Lead 2 (sawtooth)</source>
+        <target state="translated">लीड २ (सॅाटूथ)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लीड २ (सॅाटूथ)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 3 (calliope)">
+        <source>Lead 3 (calliope)</source>
+        <target state="translated">लीड ३ (कैलियोप) </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लीड ३ (कैलियोप) </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 4 (chiff)">
+        <source>Lead 4 (chiff)</source>
+        <target state="translated">लीड ४ (चिफ)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लीड ४ (चिफ)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 5 (charang)">
+        <source>Lead 5 (charang)</source>
+        <target state="translated">लीड ५ (चारेंग)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लीड ५ (चारेंग)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 6 (voice)">
+        <source>Lead 6 (voice)</source>
+        <target state="translated">लीड ६ (आवाज)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लीड ६ (आवाज)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 7 (fifths)">
+        <source>Lead 7 (fifths)</source>
+        <target state="translated">लीड ७ (पाँचवे)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लीड ७ (पाँचवे)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 8 (bass+lead)">
+        <source>Lead 8 (bass+lead)</source>
+        <target state="translated">लीड ८ (बास + लीड)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लीड ८ (बास + लीड)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Long Guiro">
+        <source>Long Guiro</source>
+        <target state="translated">लंबा गायरो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लंबा गायरो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Long Whistle">
+        <source>Long Whistle</source>
+        <target state="translated">लंबी सीटी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लंबी सीटी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Agogo">
+        <source>Low Agogo</source>
+        <target state="translated">लो अगोगो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लो अगोगो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Bongo">
+        <source>Low Bongo</source>
+        <target state="translated">लो बोंगो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लो बोंगो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Conga">
+        <source>Low Conga</source>
+        <target state="translated">लो कोंगा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लो कोंगा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Floor Tom">
+        <source>Low Floor Tom</source>
+        <target state="translated">लो फ्लोर टॉम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लो फ्लोर टॉम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Timbale">
+        <source>Low Timbale</source>
+        <target state="translated">लो टिंबेल</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लो टिंबेल</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Tom">
+        <source>Low Tom</source>
+        <target state="translated">लो टॉम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लो टॉम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Wood Block">
+        <source>Low Wood Block</source>
+        <target state="translated">लो लकड़ीका ब्लॉक</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लो लकड़ीका ब्लॉक</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low-Mid Tom">
+        <source>Low-Mid Tom</source>
+        <target state="translated">लो - मिड टॉम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>लो - मिड टॉम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maracas">
+        <source>Maracas</source>
+        <target state="translated">माराकास</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>माराकास</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Marimba">
+        <source>Marimba</source>
+        <target state="translated">मरिंबा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मरिंबा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Melodic Tom">
+        <source>Melodic Tom</source>
+        <target state="translated">मधुर टॉम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मधुर टॉम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Music Box">
+        <source>Music Box</source>
+        <target state="translated">संगीत बॉक्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>संगीत बॉक्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mute Cuica">
+        <source>Mute Cuica</source>
+        <target state="translated">मौन क्युका</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मौन क्युका</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mute Hi Conga">
+        <source>Mute Hi Conga</source>
+        <target state="translated">मौन हाय कोंगा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मौन हाय कोंगा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mute Triangle">
+        <source>Mute Triangle</source>
+        <target state="translated">मौन त्रिकोण</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मौन त्रिकोण</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Muted Trumpet">
+        <source>Muted Trumpet</source>
+        <target state="translated">मौन तुरही</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>मौन तुरही</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Nylon String Guitar">
+        <source>Nylon String Guitar</source>
+        <target state="translated">नायलॉन स्ट्रिंग गिटार</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>नायलॉन स्ट्रिंग गिटार</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Oboe">
+        <source>Oboe</source>
+        <target state="translated">ओबो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ओबो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ocarina">
+        <source>Ocarina</source>
+        <target state="translated">ऑकारिना</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ऑकारिना</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Cuica">
+        <source>Open Cuica</source>
+        <target state="translated">ओपन क्युका</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ओपन क्युका</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Hi Conga">
+        <source>Open Hi Conga</source>
+        <target state="translated">ओपन हाय कोंगा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ओपन हाय कोंगा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Hi-Hat">
+        <source>Open Hi-Hat</source>
+        <target state="translated">ओपन हाय -हैट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ओपन हाय -हैट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Triangle">
+        <source>Open Triangle</source>
+        <target state="translated">ओपन त्रिकोण</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ओपन त्रिकोण</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Orchestra Hit">
+        <source>Orchestra Hit</source>
+        <target state="translated">आर्केस्ट्रा हिट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>आर्केस्ट्रा हिट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Orchestral Strings">
+        <source>Orchestral Strings</source>
+        <target state="translated">आर्केस्ट्रा के स्ट्रिंग्स </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>आर्केस्ट्रा के स्ट्रिंग्स </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Overdriven Guitar">
+        <source>Overdriven Guitar</source>
+        <target state="translated">अोवरड्रिवन गिटार</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>अोवरड्रिवन गिटार</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 1 (new age)">
+        <source>Pad 1 (new age)</source>
+        <target state="translated">पैड १ (न्यू एज)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पैड १ (न्यू एज)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 2 (warm)">
+        <source>Pad 2 (warm)</source>
+        <target state="translated">पैड २ (गर्म)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पैड २ (गर्म)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 3 (polysynth)">
+        <source>Pad 3 (polysynth)</source>
+        <target state="translated">पैड ३ (पोलिसिंथ)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पैड ३ (पोलिसिंथ)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Pad 4 (choir)">
+        <source>Pad 4 (choir)</source>
+        <target state="needs-translation">पैड ४ (गायक - मंडली)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 5 (bowed)">
+        <source>Pad 5 (bowed)</source>
+        <target state="translated">पैड ५ (बाउड)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पैड ५ (बाउड)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 6 (metallic)">
+        <source>Pad 6 (metallic)</source>
+        <target state="translated">पैड ६ (धात्विक)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पैड ६ (धात्विक)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 7 (halo)">
+        <source>Pad 7 (halo)</source>
+        <target state="translated">पैड ७ (प्रभामंडल)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पैड ७ (प्रभामंडल)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 8 (sweep)">
+        <source>Pad 8 (sweep)</source>
+        <target state="translated">पैड ८ (स्वीप)</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पैड ८ (स्वीप)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pan Flute">
+        <source>Pan Flute</source>
+        <target state="translated">पैन बांसुरी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पैन बांसुरी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pedal Hi-Hat">
+        <source>Pedal Hi-Hat</source>
+        <target state="translated">पेडल हाय -हैट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पेडल हाय -हैट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Percussive Organ">
+        <source>Percussive Organ</source>
+        <target state="translated">पर्कसिव ऑर्गन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पर्कसिव ऑर्गन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Piccolo">
+        <source>Piccolo</source>
+        <target state="translated">पिकॉलो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पिकॉलो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pizzicato Strings">
+        <source>Pizzicato Strings</source>
+        <target state="translated">पिज्जिकाडो स्ट्रिंग्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>पिज्जिकाडो स्ट्रिंग्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Recorder">
+        <source>Recorder</source>
+        <target state="translated">रिकॉर्डर</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रिकॉर्डर</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reed Organ">
+        <source>Reed Organ</source>
+        <target state="translated">रीड ऑर्गन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रीड ऑर्गन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reverse Cymbal">
+        <source>Reverse Cymbal</source>
+        <target state="translated">रिवर्स झांझ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रिवर्स झांझ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ride Bell">
+        <source>Ride Bell</source>
+        <target state="translated">राइड बेल</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>राइड बेल</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ride Cymbal 1">
+        <source>Ride Cymbal 1</source>
+        <target state="translated">राइड झांझ १</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>राइड झांझ १</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ride Cymbal 2">
+        <source>Ride Cymbal 2</source>
+        <target state="translated">राइड झांझ २</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>राइड झांझ २</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rock Organ">
+        <source>Rock Organ</source>
+        <target state="translated">रॉक ऑर्गन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रॉक ऑर्गन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Seashore">
+        <source>Seashore</source>
+        <target state="translated">समुंदर का किनारा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>समुंदर का किनारा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shakuhachi">
+        <source>Shakuhachi</source>
+        <target state="translated">शाकुहाची</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>शाकुहाची</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shamisen">
+        <source>Shamisen</source>
+        <target state="translated">शमिसेन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>शमिसेन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shanai">
+        <source>Shanai</source>
+        <target state="translated">शहनाई</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>शहनाई</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Short Guiro">
+        <source>Short Guiro</source>
+        <target state="translated">छोटा गायरो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>छोटा गायरो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Short Whistle">
+        <source>Short Whistle</source>
+        <target state="translated">छोटी सीटी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>छोटी सीटी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Side Stick">
+        <source>Side Stick</source>
+        <target state="translated">साइड छड़ी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>साइड छड़ी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sitar">
+        <source>Sitar</source>
+        <target state="translated">सितार</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सितार</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slap Bass 1">
+        <source>Slap Bass 1</source>
+        <target state="translated">स्लैप बा १</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्लैप बा १</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slap Bass 2">
+        <source>Slap Bass 2</source>
+        <target state="translated">स्लैप बास २</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्लैप बास २</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Soprano Sax">
+        <source>Soprano Sax</source>
+        <target state="translated">सोप्रानो सैक्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सोप्रानो सैक्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Splash Cymbal">
+        <source>Splash Cymbal</source>
+        <target state="translated">स्पलैश झांझ</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्पलैश झांझ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Steel Drums">
+        <source>Steel Drums</source>
+        <target state="translated">स्टील ड्रम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्टील ड्रम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Steel String Guitar">
+        <source>Steel String Guitar</source>
+        <target state="translated">स्टील स्ट्रिंग गिटार</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>स्टील स्ट्रिंग गिटार</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="String Ensemble 1">
+        <source>String Ensemble 1</source>
+        <target state="translated">रिंग एनसेंबल १</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रिंग एनसेंबल १</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="String Ensemble 2">
+        <source>String Ensemble 2</source>
+        <target state="translated">रिंग एनसेंबल २</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>रिंग एनसेंबल २</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Synth Bass 1">
+        <source>Synth Bass 1</source>
+        <target state="translated">सिंथ बास १</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिंथ बास १</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Synth Bass 2">
+        <source>Synth Bass 2</source>
+        <target state="translated">सिंथ बास २</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिंथ बास २</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Synth Drum">
+        <source>Synth Drum</source>
+        <target state="translated">सिंथ ड्रम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिंथ ड्रम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Synth Voice">
+        <source>Synth Voice</source>
+        <target state="translated">सिंथका आवाज</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिंथका आवाज</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SynthBrass 1">
+        <source>SynthBrass 1</source>
+        <target state="translated">सिंथब्रास १</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिंथब्रास १</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SynthBrass 2">
+        <source>SynthBrass 2</source>
+        <target state="translated">सिंथब्रास २</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिंथब्रास २</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SynthStrings 1">
+        <source>SynthStrings 1</source>
+        <target state="translated">सिंथस्ट्रिंग्स १</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिंथस्ट्रिंग्स १</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SynthStrings 2">
+        <source>SynthStrings 2</source>
+        <target state="translated">सिंथस्ट्रिंग्स २</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>सिंथस्ट्रिंग्स २</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Taiko Drum">
+        <source>Taiko Drum</source>
+        <target state="translated">टाइको ड्रम</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>टाइको ड्रम</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tambourine">
+        <source>Tambourine</source>
+        <target state="translated">खञ्जरी </target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>खञ्जरी </target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tango Accordion">
+        <source>Tango Accordion</source>
+        <target state="translated">टैंगो एकार्डियन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>टैंगो एकार्डियन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Telephone Ring">
+        <source>Telephone Ring</source>
+        <target state="translated">टेलीफोन रिंग</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>टेलीफोन रिंग</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tenor Sax">
+        <source>Tenor Sax</source>
+        <target state="translated">टेनर सैक्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>टेनर सैक्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Timpani">
+        <source>Timpani</source>
+        <target state="translated">टिंपनो</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>टिंपनो</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tinkle Bell">
+        <source>Tinkle Bell</source>
+        <target state="translated">टिंकल बेल</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>टिंकल बेल</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tremolo Strings">
+        <source>Tremolo Strings</source>
+        <target state="translated"> ट्रेमोलो स्ट्रिंग्स</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target> ट्रेमोलो स्ट्रिंग्स</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Trombone">
+        <source>Trombone</source>
+        <target state="translated">तुरही</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>तुरही</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Trumpet">
+        <source>Trumpet</source>
+        <target state="translated">ट्रम्पेट</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ट्रम्पेट</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tuba">
+        <source>Tuba</source>
+        <target state="translated">टुबा</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>टुबा</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tubular Bells">
+        <source>Tubular Bells</source>
+        <target state="translated">ट्यूब्यूलर घंटी</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ट्यूब्यूलर घंटी</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vibraphone">
+        <source>Vibraphone</source>
+        <target state="translated">वाइब्राफोन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वाइब्राफोन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vibraslap">
+        <source>Vibraslap</source>
+        <target state="translated">विब्रास्लैप</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>विब्रास्लैप</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Viola">
+        <source>Viola</source>
+        <target state="translated">वायोला</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वायोला</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Violin">
+        <source>Violin</source>
+        <target state="translated">वायोलिन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वायोलिन</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Voice Oohs">
+        <source>Voice Oohs</source>
+        <target state="translated">ऊह आवाज</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ऊह आवाज</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Whistle">
+        <source>Whistle</source>
+        <target state="translated">सीटी</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Woodblock">
+        <source>Woodblock</source>
+        <target state="translated">वुडब्लॉक</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>वुडब्लॉक</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Xylophone">
+        <source>Xylophone</source>
+        <target state="translated">ज़ायलोफोन</target>
+        <alt-trans xml:space="preserve" origin="a1987">
+          <target>ज़ायलोफोन</target>
+        </alt-trans>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
