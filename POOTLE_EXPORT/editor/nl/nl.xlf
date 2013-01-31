@@ -4,7 +4,7 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="A connected">
         <source>A connected</source>
-        <target state="translated"></target>
+        <target state="translated">A verbonden</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="abs">
         <source>abs</source>
@@ -12,23 +12,23 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="acos">
         <source>acos</source>
-        <target state="translated"></target>
+        <target state="translated">acos</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Add a boolean input:">
         <source>Add a boolean input:</source>
-        <target state="translated">Nieuwe boolean invoer:</target>
+        <target state="translated">Voeg boolean-veld toe:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Add a number input:">
         <source>Add a number input:</source>
-        <target state="translated">Nieuwe getal invoer:</target>
+        <target state="translated">Voeg getalveld toe:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Add a string input:">
+      <trans-unit xml:space="preserve" approved="yes" id="Add a string input:">
         <source>Add a string input:</source>
-        <target state="needs-translation">Nieuwe string invoer:</target>
+        <target state="translated">Voeg tekstvak toe:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Add label text:">
         <source>Add label text:</source>
-        <target state="translated">Nieuw tekstveld:</target>
+        <target state="translated">Voeg label toe:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="all">
         <source>all</source>
@@ -40,15 +40,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="asin">
         <source>asin</source>
-        <target state="translated"></target>
+        <target state="translated">asin</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="atan">
         <source>atan</source>
-        <target state="translated"></target>
+        <target state="translated">atan</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="B connected">
         <source>B connected</source>
-        <target state="translated"></target>
+        <target state="translated">B verbonden</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop #">
         <source>backdrop #</source>
@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop name">
         <source>backdrop name</source>
-        <target state="translated">achtergrond naam</target>
+        <target state="translated">achtergrondnaam</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop1">
         <source>backdrop1</source>
@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="C connected">
         <source>C connected</source>
-        <target state="translated"></target>
+        <target state="translated">C verbonden</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cabasa">
         <source>Cabasa</source>
@@ -104,11 +104,12 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cannot Delete">
         <source>Cannot Delete</source>
-        <target state="translated">Kan niet verwijderen</target>
+        <target state="translated">Verwijderen niet mogelijk</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="ceiling">
+      <trans-unit xml:space="preserve" approved="yes" id="ceiling">
         <source>ceiling</source>
-        <target state="needs-translation">plafond</target>
+        <target state="translated">plafond</target>
+        <note from="translator">wikipedia suggests ceiling</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cello">
         <source>Cello</source>
@@ -128,7 +129,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clear senders/receivers">
         <source>clear senders/receivers</source>
-        <target state="translated"></target>
+        <target state="translated">wis zenders/ontvangers</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Closed Hi-Hat">
         <source>Closed Hi-Hat</source>
@@ -144,7 +145,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cos">
         <source>cos</source>
-        <target state="translated"></target>
+        <target state="translated">cos</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="costume #">
         <source>costume #</source>
@@ -152,7 +153,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="costume name">
         <source>costume name</source>
-        <target state="translated">uiterlijk naam</target>
+        <target state="translated">naam uiterlijk</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="costume1">
         <source>costume1</source>
@@ -172,7 +173,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="D connected">
         <source>D connected</source>
-        <target state="translated"></target>
+        <target state="translated">D verbonden</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="date">
         <source>date</source>
@@ -236,11 +237,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fade in">
         <source>fade in</source>
-        <target state="translated"></target>
+        <target state="translated">fade in</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fade out">
         <source>fade out</source>
-        <target state="translated"></target>
+        <target state="translated">fade out</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fisheye">
         <source>fisheye</source>
@@ -248,11 +249,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="floor">
         <source>floor</source>
-        <target state="translated"></target>
+        <target state="translated">vloer</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Floor Tom">
         <source>Floor Tom</source>
-        <target state="translated"></target>
+        <target state="translated">Floor tom</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Flute">
         <source>Flute</source>
@@ -280,11 +281,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="High Wood Block">
         <source>High Wood Block</source>
-        <target state="translated"></target>
+        <target state="translated">Hoge woodblock</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hour">
         <source>hour</source>
-        <target state="translated"></target>
+        <target state="translated">uur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Import">
         <source>Import</source>
@@ -292,11 +293,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="int">
         <source>int</source>
-        <target state="translated"></target>
+        <target state="translated">int</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Kick Drum">
         <source>Kick Drum</source>
-        <target state="translated"></target>
+        <target state="translated">grote trom</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="last">
         <source>last</source>
@@ -308,11 +309,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="left arrow">
         <source>left arrow</source>
-        <target state="translated">pijltje naar links</target>
+        <target state="translated">pijltje links</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Library">
         <source>Library</source>
-        <target state="translated"></target>
+        <target state="translated">Bibliotheek</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="light">
         <source>light</source>
@@ -320,15 +321,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ln">
         <source>ln</source>
-        <target state="translated"></target>
+        <target state="translated">ln</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="log">
         <source>log</source>
-        <target state="translated"></target>
+        <target state="translated">log</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="login">
         <source>login</source>
-        <target state="translated"></target>
+        <target state="translated">inloggen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Long Guiro">
         <source>Long Guiro</source>
@@ -336,7 +337,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="louder">
         <source>louder</source>
-        <target state="translated"></target>
+        <target state="translated">luider</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Low Bongo">
         <source>Low Bongo</source>
@@ -348,7 +349,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Low Tom">
         <source>Low Tom</source>
-        <target state="translated"></target>
+        <target state="translated">Lage tom</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Low Wood Block">
         <source>Low Wood Block</source>
@@ -364,23 +365,23 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="message1">
         <source>message1</source>
-        <target state="translated"></target>
+        <target state="translated">bericht1</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Mid Tom">
         <source>Mid Tom</source>
-        <target state="translated"></target>
+        <target state="translated">Mid tom</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="middle">
         <source>middle</source>
-        <target state="translated"></target>
+        <target state="translated">midden</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="minute">
         <source>minute</source>
-        <target state="translated"></target>
+        <target state="translated">minuut</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="month">
         <source>month</source>
-        <target state="translated"></target>
+        <target state="translated">maand</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="More">
         <source>More</source>
@@ -392,7 +393,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motion">
         <source>motion</source>
-        <target state="translated"></target>
+        <target state="translated">beweging</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse-pointer">
         <source>mouse-pointer</source>
@@ -404,35 +405,35 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Mute High Conga">
         <source>Mute High Conga</source>
-        <target state="translated"></target>
+        <target state="translated">Gedempte high conga</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Mute Triangle">
         <source>Mute Triangle</source>
-        <target state="translated">gedempte triangel</target>
+        <target state="translated">Gedempte triangel</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="name">
         <source>name</source>
-        <target state="translated"></target>
+        <target state="translated">naam</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="New">
         <source>New</source>
-        <target state="translated">nieuw</target>
+        <target state="translated">Nieuw</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="New backdrop">
         <source>New backdrop</source>
-        <target state="translated"></target>
+        <target state="translated">Nieuwe achtergrond</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="New costume">
         <source>New costume</source>
-        <target state="translated"></target>
+        <target state="translated">Nieuw uiterlijk</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="new message...">
         <source>new message...</source>
-        <target state="translated"></target>
+        <target state="translated">nieuw bericht...</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="New sound">
         <source>New sound</source>
-        <target state="translated"></target>
+        <target state="translated">Nieuw geluid</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="New sprite:">
         <source>New sprite:</source>
@@ -448,7 +449,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="on-flipped">
         <source>on-flipped</source>
-        <target state="translated"></target>
+        <target state="translated">aan-gespiegeld</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Open Cuica">
         <source>Open Cuica</source>

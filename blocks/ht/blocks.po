@@ -1,0 +1,475 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ht\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Creole"
+
+msgid "%b and %b"
+msgstr "%b ak %b"
+
+msgid "%b or %b"
+msgstr "%b oubyen %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute nan %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr ""
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp sou %n"
+
+msgid "%m.sensor sensor value"
+msgstr ""
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "mete %s sou %m.list"
+
+msgid "answer"
+msgstr ""
+
+msgid "ask %s and wait"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "# fon ekran"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "voye bay tout moun %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "voye bay tout moun %m.broadcast epi tann"
+
+msgid "change %m.effect effect by %n"
+msgstr "mete %m.effect nan plas %n"
+
+msgid "change %m.var by %n"
+msgstr "mete %m.var nan plas %n"
+
+msgid "change pen color by %n"
+msgstr "ranplase koulè plim avek %n"
+
+msgid "change pen shade by %n"
+msgstr "ranplase entansite plim ak %n"
+
+msgid "change pen size by %n"
+msgstr "ranplase gwosè pwent plim nan avek %n"
+
+msgid "change size by %n"
+msgstr "ranplase gwosè a avek %n"
+
+msgid "change tempo by %n"
+msgstr "ranplase tempo ak %n"
+
+msgid "change volume by %n"
+msgstr "mete volim la sou %n"
+
+msgid "change x by %n"
+msgstr "mete %n nan plas x"
+
+msgid "change y by %n"
+msgstr "mete %n nan plas y"
+
+msgid "clear"
+msgstr "efase tout"
+
+msgid "clear graphic effects"
+msgstr "retire efè grafik yo"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "koulè %c touche %c"
+
+msgid "Control"
+msgstr "Kontwòl"
+
+msgid "costume #"
+msgstr "# kostim "
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "efase %d.listDeleteItem nan %m.list"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "direksyon"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "distans jiska %m.spriteOrMouse"
+
+msgid "else"
+msgstr "sinon"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "repete nèt ale"
+
+msgid "forever if %b"
+msgstr "repete nèt ale si %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "glise pandan %n segond ale nan pozisyon x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "retounen %n kouch"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "ale nan %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "ale sou devan"
+
+msgid "go to x:%n y:%n"
+msgstr "ale nan pozisyon x:%n y:%n"
+
+msgid "hide"
+msgstr "kache"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b"
+msgstr "si %b"
+
+msgid "if on edge, bounce"
+msgstr "mate si li rive sou bo a "
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "Mete %s nan pozisyon %d.listItem nan %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "eleman %d.listItem nan %m.list"
+
+msgid "join %s %s"
+msgstr ""
+
+msgid "key %m.key pressed?"
+msgstr "touch %m.key peze?"
+
+msgid "length of %m.list"
+msgstr "longè %m.list"
+
+msgid "length of %s"
+msgstr ""
+
+msgid "letter %n of %s"
+msgstr ""
+
+msgid "Looks"
+msgstr "aparans"
+
+msgid "loudness"
+msgstr "volim son"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "mouvman"
+
+msgid "mouse down?"
+msgstr ""
+
+msgid "mouse x"
+msgstr "souri x"
+
+msgid "mouse y"
+msgstr "souri y"
+
+msgid "move %n steps"
+msgstr "fè %n pa devan "
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "pwochen fon ekran"
+
+msgid "next costume"
+msgstr "pwochenn kostim"
+
+msgid "not %b"
+msgstr "non %b"
+
+msgid "Operators"
+msgstr ""
+
+msgid "Pen"
+msgstr "plim"
+
+msgid "pen down"
+msgstr "bese plim la"
+
+msgid "pen up"
+msgstr "leve plim la"
+
+msgid "pick random %n to %n"
+msgstr "chwazi yon chif pa aza ant %n ak %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr ""
+
+msgid "play note %d.note for %n beats"
+msgstr ""
+
+msgid "play sound %m.sound"
+msgstr "Jwe son %m.sound la"
+
+msgid "play sound %m.sound until done"
+msgstr "jwe son %m.sound la nèt"
+
+msgid "point in direction %d.direction"
+msgstr "vize nan direksyon %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "vize %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "repete %n fwa"
+
+msgid "repeat until %b"
+msgstr "repete jiska %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "Ranplase %d.listItem nan %m.list avek %s"
+
+msgid "reset timer"
+msgstr "rekòmanse Kronomèt la"
+
+msgid "rest for %n beats"
+msgstr ""
+
+msgid "round %n"
+msgstr "awondi %n"
+
+msgid "say %s"
+msgstr "di %s"
+
+msgid "say %s for %n secs"
+msgstr "di %s pandan %n segond"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr ""
+
+msgid "sensor %m.booleanSensor?"
+msgstr ""
+
+msgid "set %m.effect effect to %n"
+msgstr "mete efè %m.effect a sou %n"
+
+msgid "set %m.var to %s"
+msgstr "mete %m.var sou %n"
+
+msgid "set instrument to %d.instrument"
+msgstr ""
+
+msgid "set motor direction %m.motorDirection"
+msgstr ""
+
+msgid "set motor power %n"
+msgstr ""
+
+msgid "set pen color to %c"
+msgstr "mete koulè plim la sou %c"
+
+msgid "set pen color to %n"
+msgstr "mete koulè plim la sou %c"
+
+msgid "set pen shade to %n"
+msgstr "mete entansite plim nan sou %n"
+
+msgid "set pen size to %n"
+msgstr "mete gwosè plim la sou %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr "mete gwosè a sou %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "mete tempo a sou %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "mete volim la sou %n%"
+
+msgid "set x to %n"
+msgstr "mete x sou %n"
+
+msgid "set y to %n"
+msgstr "mete y sou %n"
+
+msgid "show"
+msgstr "montre"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "gwosè"
+
+msgid "Sound"
+msgstr "son"
+
+msgid "stamp"
+msgstr "mete so"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "koupe tout son"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "panse ak %s"
+
+msgid "think %s for %n secs"
+msgstr "panse ak %s pandan %n segond"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "kronomèt"
+
+msgid "touching %m.touching?"
+msgstr "ap manyen %m.touching?"
+
+msgid "touching color %c?"
+msgstr "ap manyen koulè %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+msgid "turn motor on for %n secs"
+msgstr ""
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "volim"
+
+msgid "wait %n secs"
+msgstr "tann %n segond"
+
+msgid "wait until %b"
+msgstr "tann jouk %b"
+
+msgid "when %m.booleanSensor"
+msgstr ""
+
+msgid "when %m.key key pressed"
+msgstr "lè yo peze touch %m.key a"
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr "lè yo klike @greenFlag"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+msgid "x position"
+msgstr "pozisyon x"
+
+msgid "y position"
+msgstr "pozisyon y"

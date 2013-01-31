@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-13 22:18+0200\n"
+"POT-Creation-Date: 2013-01-29 20:22+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,8 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.9.0\n"
 
-# Language name as you'd like it to appear in the Languages menu
-# (Required)
+# The language name as it will appear in the language menu
 msgid "Language-Name"
 msgstr ""
 
@@ -169,7 +168,10 @@ msgstr ""
 msgid "hide all sprites"
 msgstr ""
 
-msgid "hide monitor %m.varOrList"
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
 msgstr ""
 
 msgid "if %b"
@@ -209,21 +211,6 @@ msgid "More Blocks"
 msgstr ""
 
 msgid "Motion"
-msgstr ""
-
-msgid "motor direction %m.motorDirection"
-msgstr ""
-
-msgid "motor off"
-msgstr ""
-
-msgid "motor on"
-msgstr ""
-
-msgid "motor on for %n secs"
-msgstr ""
-
-msgid "motor power %n"
 msgstr ""
 
 msgid "mouse down?"
@@ -266,7 +253,7 @@ msgstr ""
 msgid "play drum %d.drum for %n beats"
 msgstr ""
 
-msgid "play note %n for %n beats"
+msgid "play note %d.note for %n beats"
 msgstr ""
 
 msgid "play sound %m.sound"
@@ -323,6 +310,12 @@ msgstr ""
 msgid "set instrument to %d.instrument"
 msgstr ""
 
+msgid "set motor direction %m.motorDirection"
+msgstr ""
+
+msgid "set motor power %n"
+msgstr ""
+
 msgid "set pen color to %c"
 msgstr ""
 
@@ -333,6 +326,9 @@ msgid "set pen shade to %n"
 msgstr ""
 
 msgid "set pen size to %n"
+msgstr ""
+
+msgid "set rotation style %m.rotationStyle"
 msgstr ""
 
 msgid "set size to %n%"
@@ -356,7 +352,10 @@ msgstr ""
 msgid "show"
 msgstr ""
 
-msgid "show monitor %m.varOrList"
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
 msgstr ""
 
 msgid "size"
@@ -412,6 +411,15 @@ msgstr ""
 msgid "turn @turnRight %n degrees"
 msgstr ""
 
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+msgid "turn motor on for %n secs"
+msgstr ""
+
 msgid "turn video %m.videoState"
 msgstr ""
 
@@ -430,7 +438,13 @@ msgstr ""
 msgid "wait until %b"
 msgstr ""
 
+msgid "when %m.booleanSensor"
+msgstr ""
+
 msgid "when %m.key key pressed"
+msgstr ""
+
+msgid "when %m.triggerSensor > %n"
 msgstr ""
 
 msgid "when @greenFlag clicked"
@@ -440,10 +454,16 @@ msgstr ""
 msgid "when backdrop switches to %m.backdrop"
 msgstr ""
 
-msgid "when I am clicked"
+msgid "when distance < %n"
 msgstr ""
 
 msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt = %n"
 msgstr ""
 
 msgid "x position"

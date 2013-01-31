@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 17:34+0200\n"
-"PO-Revision-Date: 2012-12-21 23:28+0200\n"
+"POT-Creation-Date: 2013-01-29 20:20+0200\n"
+"PO-Revision-Date: 2013-01-30 22:23+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
-msgstr "العربية 2.0"
+msgstr "العربية"
 
 msgid "%b and %b"
 msgstr "%b و %b"
@@ -99,7 +99,7 @@ msgid "clear graphic effects"
 msgstr "أزل التأثيرات الرسومية"
 
 msgid "clone startup"
-msgstr ""
+msgstr "عند بدء نسخة"
 
 msgid "color %c is touching %c?"
 msgstr "اللون %c1 يلامس اللون %c2؟"
@@ -150,7 +150,7 @@ msgid "forever if %b"
 msgstr "اختبر باستمرار إذا %b"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "انزلق خلال %n1 ثانية إلى الموضع س: %n2 ص: %n3"
+msgstr "انزلق خلال %n ثانية إلى الموضع س: %n ص: %n"
 
 msgid "go back %n layers"
 msgstr "انتقل %n طبقة إلى الخلف"
@@ -162,7 +162,7 @@ msgid "go to front"
 msgstr "انتقل إلى المقدمة"
 
 msgid "go to x:%n y:%n"
-msgstr "اذهب إلى الموضع س: %n1 ص: %n2"
+msgstr "اذهب إلى الموضع س: %n ص: %n"
 
 msgid "hide"
 msgstr "اختف"
@@ -171,10 +171,10 @@ msgid "hide all sprites"
 msgstr "أخفِ جميع الكائنات"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "أخفِ اللائحة %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "أخفِ المتغير %m.var"
 
 msgid "if %b"
 msgstr "إذا %b"
@@ -256,9 +256,8 @@ msgid "play drum %d.drum for %n beats"
 msgstr "دقَّ الطبل %d.drum لمدة %n وحدة إيقاع"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "اعزف النوتة %n1 لمدة %n2 وحدة إيقاع"
+msgstr "اعزف النوتة %d.note لمدة %n وحدة إيقاع"
 
 msgid "play sound %m.sound"
 msgstr "شغل الصوت %m.sound"
@@ -315,12 +314,10 @@ msgid "set instrument to %d.instrument"
 msgstr "اجعل الآلة هي %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "اجعل اتجاه المحرك %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
 msgstr "اجعل طاقة المحرك مساويةً %n"
 
@@ -337,7 +334,7 @@ msgid "set pen size to %n"
 msgstr "اجعل حجم القلم مساوياً %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "اجعل نمط الدوران %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "اجعل الحجم مساوياً %n %"
@@ -361,10 +358,10 @@ msgid "show"
 msgstr "اظهر"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "أظهر اللائحة %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "أظهر المتغير %m.var"
 
 msgid "size"
 msgstr "الحجم"
@@ -381,20 +378,19 @@ msgstr "أوقف %m.stop"
 msgid "stop all sounds"
 msgstr "أوقف كل الأصوات"
 
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 # 80%
-#, fuzzy
 msgid "switch backdrop to %m.backdrop"
-msgstr "انتقل إلى الخلفية %m.costume"
+msgstr "غيّر الخلفية إلى %m.backdrop"
 
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 # 84%
-#, fuzzy
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "انتقل إلى الخلفية %m.backdrop وانتظر"
+msgstr "غيّر الخلفية إلى %m.backdrop وانتظر"
 
 # 78%
-#, fuzzy
 msgid "switch costume to %m.costume"
-msgstr "انتقل إلى المظهر %m.costume"
+msgstr "غيّر المظهر إلى %m.costume"
 
 msgid "tempo"
 msgstr "سرعة الأداء"
@@ -406,7 +402,7 @@ msgid "think %s for %n secs"
 msgstr "فكِّر %s لمدة %n ثانية"
 
 msgid "tilt"
-msgstr ""
+msgstr "الميل"
 
 msgid "timer"
 msgstr "المؤقت"
@@ -424,15 +420,14 @@ msgid "turn @turnRight %n degrees"
 msgstr "استدر @turnRight %n درجة"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "أوقف المحرك"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "شغّل المحرك"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "شغِّل المحرك لمدة %n ثانية"
+msgstr "شغِّل المحرك لمدة %n ثانية"
 
 msgid "turn video %m.videoState"
 msgstr "اجعل الفيديو %m.videoState"
@@ -453,15 +448,14 @@ msgid "wait until %b"
 msgstr "انتظر حتى %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "حساس %m.booleanSensor؟"
+msgstr "عندما %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "عند ضغط مفتاح %m.key"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "عندما %m.triggerSensor < %n"
 
 msgid "when @greenFlag clicked"
 msgstr "عند نقر @greenFlag"
@@ -471,16 +465,16 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "عندما تتغير الخلفية إلى %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "عندما المسافة > %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "عندما تستقبل %m.broadcast"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "عند نقر هذا الكائن"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "عندما الميل = %n"
 
 msgid "x position"
 msgstr "الموضع س"

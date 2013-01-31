@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:20+0200\n"
+"PO-Revision-Date: 2013-01-30 12:39+0200\n"
+"Last-Translator: Karel <janda@ccs.cz>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Czech"
+
+msgid "%b and %b"
+msgstr "%b a %b"
+
+msgid "%b or %b"
+msgstr "%b nebo %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute z %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list obsahuje %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp z %n"
+
+msgid "%m.sensor sensor value"
+msgstr "hodnota senzoru %m.sensor"
+
+msgid "%n mod %n"
+msgstr "zbytek dělení %n číslem %n"
+
+msgid "add %s to %m.list"
+msgstr "přidej %s k %m.list"
+
+msgid "answer"
+msgstr "odpověď"
+
+msgid "ask %s and wait"
+msgstr "ptej se %s a čekej"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "číslo pozadí"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "název pozadí"
+
+msgid "broadcast %m.broadcast"
+msgstr "rozešli všem %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "rozešli všem %m.broadcast a čekej"
+
+msgid "change %m.effect effect by %n"
+msgstr "změň efekt %m.effect o %n"
+
+msgid "change %m.var by %n"
+msgstr "změň %m.var o %n"
+
+msgid "change pen color by %n"
+msgstr "změň barvu pera o %n"
+
+msgid "change pen shade by %n"
+msgstr "změň odstín pera o %n"
+
+msgid "change pen size by %n"
+msgstr "změň tloušťku pera o %n"
+
+msgid "change size by %n"
+msgstr "změň velikost o %n"
+
+msgid "change tempo by %n"
+msgstr "změň tempo o %n"
+
+msgid "change volume by %n"
+msgstr "změň hlasitost o %n"
+
+msgid "change x by %n"
+msgstr "změň x o %n"
+
+msgid "change y by %n"
+msgstr "změň y o %n"
+
+msgid "clear"
+msgstr "smaž"
+
+msgid "clear graphic effects"
+msgstr "zruš grafické efekty"
+
+msgid "clone startup"
+msgstr "start klonu"
+
+msgid "color %c is touching %c?"
+msgstr "barva %c je na barvě %c?"
+
+msgid "Control"
+msgstr "Ovládání"
+
+msgid "costume #"
+msgstr "číslo kostýmu"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "klonuj %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "aktuální %m.timeAndDate"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "define"
+msgstr "definuj"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "zruš %d.listDeleteItem z %m.list"
+
+msgid "delete this clone"
+msgstr "zruš tento klon"
+
+msgid "direction"
+msgstr "směr"
+
+msgid "distance"
+msgstr "vzdálenost"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "vzdálenost od %m.spriteOrMouse"
+
+msgid "else"
+msgstr "jinak"
+
+msgid "Events"
+msgstr "Události"
+
+msgid "forever"
+msgstr "opakuj dokola"
+
+msgid "forever if %b"
+msgstr "opakuj dokola když %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "klouzej %n sekund na x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "jdi do pozadí o %n urovní"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "jdi na %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "jdi do popředí"
+
+msgid "go to x:%n y:%n"
+msgstr "jdi na pozici x:%n y:%n"
+
+msgid "hide"
+msgstr "skryj se"
+
+msgid "hide all sprites"
+msgstr "skryj všechny postavy"
+
+msgid "hide list %m.list"
+msgstr "skryj seznam %m.list"
+
+msgid "hide variable %m.var"
+msgstr "skryj proměnnou %m.var"
+
+msgid "if %b"
+msgstr "když %b"
+
+msgid "if on edge, bounce"
+msgstr "když narazíš na okraj, odraž se"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "vlož %s na %d.listItem v %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "prvek %d.listItem z %m.list"
+
+msgid "join %s %s"
+msgstr "spoj %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "klávesa %m.key stisknuta?"
+
+msgid "length of %m.list"
+msgstr "délka %m.list"
+
+msgid "length of %s"
+msgstr "délka %s"
+
+msgid "letter %n of %s"
+msgstr "písmeno %n z %s"
+
+msgid "Looks"
+msgstr "Vzhled"
+
+msgid "loudness"
+msgstr "hlasitost"
+
+msgid "More Blocks"
+msgstr "Další bloky"
+
+msgid "Motion"
+msgstr "Pohyb"
+
+msgid "mouse down?"
+msgstr "myš stisknuta?"
+
+msgid "mouse x"
+msgstr "souřadnice myši x"
+
+msgid "mouse y"
+msgstr "souřadnice myši y"
+
+msgid "move %n steps"
+msgstr "posuň se o %n kroků"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "další pozadí"
+
+msgid "next costume"
+msgstr "další kostým"
+
+msgid "not %b"
+msgstr "není %b"
+
+msgid "Operators"
+msgstr "Operátory"
+
+msgid "Pen"
+msgstr "Pero"
+
+msgid "pen down"
+msgstr "pero dolů"
+
+msgid "pen up"
+msgstr "pero nahoru"
+
+msgid "pick random %n to %n"
+msgstr "zvol náhodné číslo od %n do %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "bubnuj %d.drum příštích %n taktů"
+
+# 83%
+# 100%
+msgid "play note %d.note for %n beats"
+msgstr "hraj notu %d.note příštích %n taktů"
+
+msgid "play sound %m.sound"
+msgstr "hraj zvuk %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "hraj zvuk %m.sound až do konce"
+
+msgid "point in direction %d.direction"
+msgstr "zamiř směrem %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "zamiř k %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "opakuj %n krát"
+
+msgid "repeat until %b"
+msgstr "opakuj dokud nenastane %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "nahraď prvek %d.listItem v %m.list s %s"
+
+msgid "reset timer"
+msgstr "vynuluj stopky"
+
+msgid "rest for %n beats"
+msgstr "pauza %n taktů"
+
+msgid "round %n"
+msgstr "zaokrouhli %n"
+
+msgid "say %s"
+msgstr "řekni %s"
+
+msgid "say %s for %n secs"
+msgstr "říkej %s příštích %n sekund"
+
+msgid "Scratch days"
+msgstr "Scratch dny"
+
+msgid "Sensing"
+msgstr "Vnímání"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "senzor %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "nastav efekt %m.effect na %n"
+
+msgid "set %m.var to %s"
+msgstr "nastav %m.var na %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "nastav nástroj %d.instrument"
+
+# 89%
+# 100%
+msgid "set motor direction %m.motorDirection"
+msgstr "nastav směr motoru %m.motorDirection"
+
+# 77%
+# 100%
+msgid "set motor power %n"
+msgstr "nastav sílu motoru %n"
+
+msgid "set pen color to %c"
+msgstr "nastav barvu pera na %c"
+
+msgid "set pen color to %n"
+msgstr "nastav barvu pera na %n"
+
+msgid "set pen shade to %n"
+msgstr "nastav odstín pera na %n"
+
+msgid "set pen size to %n"
+msgstr "nastav tloušťku pera na %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "nastav způsob otáčení na %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "nastav velikost na %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "nastav tempo na %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr "nastav průhlednost videa na %n%"
+
+msgid "set volume to %n%"
+msgstr "nastav hlasitost na %n%"
+
+msgid "set x to %n"
+msgstr "nastav x na %n"
+
+msgid "set y to %n"
+msgstr "nastav y na %n"
+
+msgid "show"
+msgstr "ukaž se"
+
+msgid "show list %m.list"
+msgstr "ukaž seznam %m.list"
+
+msgid "show variable %m.var"
+msgstr "ukaž proměnnou %m.var"
+
+msgid "size"
+msgstr "velikost"
+
+msgid "Sound"
+msgstr "Zvuk"
+
+msgid "stamp"
+msgstr "otiskni se"
+
+msgid "stop %m.stop"
+msgstr "zastav %m.stop"
+
+msgid "stop all sounds"
+msgstr "utiš všechny zvuky"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "změň pozadí na %m.backdrop"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "změň pozadí na %m.backdrop a čekej"
+
+msgid "switch costume to %m.costume"
+msgstr "změň kostým na %m.costume"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "mysli si %s"
+
+msgid "think %s for %n secs"
+msgstr "mysli si %s příštích %n sekund"
+
+msgid "tilt"
+msgstr "náklon"
+
+msgid "timer"
+msgstr "stopky"
+
+msgid "touching %m.touching?"
+msgstr "dotýká se %m.touching?"
+
+msgid "touching color %c?"
+msgstr "dotýká se barvy %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "otoč se o @turnLeft %n stupňů"
+
+msgid "turn @turnRight %n degrees"
+msgstr "otoč se o @turnRight %n stupňů"
+
+msgid "turn motor off"
+msgstr "vypni motor"
+
+msgid "turn motor on"
+msgstr "zapni motor"
+
+# 80%
+# 100%
+msgid "turn motor on for %n secs"
+msgstr "zapni motor na %n s"
+
+msgid "turn video %m.videoState"
+msgstr "přepni video do %m.videoState"
+
+msgid "user id"
+msgstr "číslo uživatele"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "video %m.videoMotionType na %m.stageOrThis"
+
+msgid "volume"
+msgstr "hlasitost"
+
+msgid "wait %n secs"
+msgstr "čekej %n sekund"
+
+msgid "wait until %b"
+msgstr "čekej dokud nenastane %b"
+
+# 75%
+# 100%
+msgid "when %m.booleanSensor"
+msgstr "když %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "po stisku klávesy %m.key"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "když %m.triggerSensor > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "po kliknutí na @greenFlag"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "po změně pozadí na %m.backdrop"
+
+msgid "when distance < %n"
+msgstr "když vzdálenost < %n"
+
+msgid "when I receive %m.broadcast"
+msgstr "po obdržení zprávy %m.broadcast"
+
+msgid "when this sprite clicked"
+msgstr "po kliknutí na mě"
+
+msgid "when tilt = %n"
+msgstr "když sklon = %n"
+
+msgid "x position"
+msgstr "pozice x"
+
+msgid "y position"
+msgstr "pozice y"
+
+#~ msgid "hide monitor %m.varOrList"
+#~ msgstr "skryj kontrolu %m.varOrList"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "směr motoru %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "vypni motor"
+
+#~ msgid "motor on"
+#~ msgstr "zapni motor"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "zapni motor na %n s"
+
+#~ msgid "motor power %n"
+#~ msgstr "síla motoru %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "hraj notu %n příštích %n taktů"
+
+#~ msgid "show monitor %m.varOrList"
+#~ msgstr "ukaž kontrolu %m.varOrList"
+
+#~ msgid "when I am clicked"
+#~ msgstr "po kliknutí na mě"

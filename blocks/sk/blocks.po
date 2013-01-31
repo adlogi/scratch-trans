@@ -1,0 +1,504 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"PO-Revision-Date: 2013-01-29 20:22+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Slovenčina"
+
+msgid "%b and %b"
+msgstr "%b a %b"
+
+msgid "%b or %b"
+msgstr "%b alebo %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute z %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list obsahuje %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp z %n"
+
+msgid "%m.sensor sensor value"
+msgstr "hodnota senzoru %m.sensor"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "pridaj %s k %m.list"
+
+msgid "answer"
+msgstr "odpovedz"
+
+msgid "ask %s and wait"
+msgstr "spýtaj sa %s a počkaj"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "číslo pozadia"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "pošli všetkým správu %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "pošli všetkým správu %m.broadcast a počkaj"
+
+msgid "change %m.effect effect by %n"
+msgstr "zmeň efekt %m.effect o %n"
+
+msgid "change %m.var by %n"
+msgstr "zmeň %m.var o %n"
+
+msgid "change pen color by %n"
+msgstr "zmeň farbu pera o %n"
+
+msgid "change pen shade by %n"
+msgstr "zmeň odtieň pera o %n"
+
+msgid "change pen size by %n"
+msgstr "zmeň hrúbku pera o %n"
+
+msgid "change size by %n"
+msgstr "zmeň veľkosť o %n"
+
+msgid "change tempo by %n"
+msgstr "zmeň tempo o %n"
+
+msgid "change volume by %n"
+msgstr "zmeň hlasitosť o %n"
+
+msgid "change x by %n"
+msgstr "zmeň x o %n"
+
+msgid "change y by %n"
+msgstr "zmeň y o %n"
+
+msgid "clear"
+msgstr "zmaž plochu"
+
+msgid "clear graphic effects"
+msgstr "zruš grafické efekty"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "farba %c je na farbe %c?"
+
+msgid "Control"
+msgstr "ovládanie"
+
+msgid "costume #"
+msgstr "číslo kostýmu"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "vymaž %d.listDeleteItem z %m.list"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "smer"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "vzdialenosť od %m.spriteOrMouse"
+
+msgid "else"
+msgstr "inak"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "stále opakuj"
+
+msgid "forever if %b"
+msgstr "stále opakuj, ak %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n sekúnd sa presúvaj na pozíciu x: %n  y: %n"
+
+msgid "go back %n layers"
+msgstr "späť o %n vrstiev"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "choď na %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "choď do popredia"
+
+msgid "go to x:%n y:%n"
+msgstr "choď na pozíciu x: %n  y: %n"
+
+msgid "hide"
+msgstr "skry sa"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b"
+msgstr "ak %b"
+
+msgid "if on edge, bounce"
+msgstr "ak narazíš na okraj, odraz sa"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "vlož %s na %d.listItem v %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "prvok %d.listItem z %m.list"
+
+msgid "join %s %s"
+msgstr "pridaj sa ku %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "je kláves %m.key stlačený?"
+
+msgid "length of %m.list"
+msgstr "dĺžka %m.list"
+
+msgid "length of %s"
+msgstr "dĺžka %s"
+
+msgid "letter %n of %s"
+msgstr "%n . písmeno z %s"
+
+msgid "Looks"
+msgstr "vzhľad"
+
+msgid "loudness"
+msgstr "hlasitosť"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "pohyb"
+
+msgid "mouse down?"
+msgstr "stlačené tlačidlo myši?"
+
+msgid "mouse x"
+msgstr "súradnica myši x"
+
+msgid "mouse y"
+msgstr "súradnica myši y"
+
+msgid "move %n steps"
+msgstr "posuň sa o %n krokov"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "nasledujúce pozadie"
+
+msgid "next costume"
+msgstr "nasledujúci kostým"
+
+msgid "not %b"
+msgstr "nie je %b"
+
+msgid "Operators"
+msgstr "operátory"
+
+msgid "Pen"
+msgstr "pero"
+
+msgid "pen down"
+msgstr "pero dolu"
+
+msgid "pen up"
+msgstr "pero hore"
+
+msgid "pick random %n to %n"
+msgstr "vyber náhodné číslo od %n do %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "zabubnuj %d.drum %n dôb"
+
+# 83%
+#, fuzzy
+msgid "play note %d.note for %n beats"
+msgstr "hraj tón %d.note %n dôb "
+
+msgid "play sound %m.sound"
+msgstr "zahraj zvuk %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "zahraj zvuk %m.sound a počkaj"
+
+msgid "point in direction %d.direction"
+msgstr "natoč sa do smeru %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "natoč sa ku %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "opakuj %n krát"
+
+msgid "repeat until %b"
+msgstr "opakuj pokiaľ nenastane %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "nahraď %d.listItem v %m.list prvkom %s"
+
+msgid "reset timer"
+msgstr "vynuluj časovač"
+
+msgid "rest for %n beats"
+msgstr "%n dôb nehraj"
+
+msgid "round %n"
+msgstr "zaokrúhli %n"
+
+msgid "say %s"
+msgstr "povedz %s"
+
+msgid "say %s for %n secs"
+msgstr "hovor %s ďalších %n sekúnd"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "vnímanie"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "senzor %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "nastav efekt %m.effect na %n"
+
+msgid "set %m.var to %s"
+msgstr "nastav %m.var na %n"
+
+msgid "set instrument to %d.instrument"
+msgstr "nastav nástroj na %d.instrument"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "smer motora %m.motorDirection"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "sila motora %n"
+
+msgid "set pen color to %c"
+msgstr "nastav farbu pera na %c"
+
+msgid "set pen color to %n"
+msgstr "nastav farbu pera na %c"
+
+msgid "set pen shade to %n"
+msgstr "nastav odtieň pera na %n"
+
+msgid "set pen size to %n"
+msgstr "nastav hrúbku pera na %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr "nastav veľkosť na %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "nastav tempo na %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "nastav hlasitosť na %n%"
+
+msgid "set x to %n"
+msgstr "nastav x na %n"
+
+msgid "set y to %n"
+msgstr "nastav y na %n"
+
+msgid "show"
+msgstr "ukáž sa"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "veľkosť"
+
+msgid "Sound"
+msgstr "zvuk"
+
+msgid "stamp"
+msgstr "opečiatkuj sa"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "zastav všetky zvuky"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "pomysli si %s"
+
+msgid "think %s for %n secs"
+msgstr "mysli si %s ďalších %n sekúnd"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "časovač"
+
+msgid "touching %m.touching?"
+msgstr "dotýka sa %m.touching?"
+
+msgid "touching color %c?"
+msgstr "dotýka sa farby %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "zapni motor na %n sekúnd"
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "hlasitosť"
+
+msgid "wait %n secs"
+msgstr "počkaj %n sekúnd"
+
+msgid "wait until %b"
+msgstr "počkaj kým nenastane %b"
+
+# 75%
+#, fuzzy
+msgid "when %m.booleanSensor"
+msgstr "senzor %m.booleanSensor?"
+
+msgid "when %m.key key pressed"
+msgstr "po stlačení klávesu %m.key"
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr "po kliknutí na @greenFlag"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+msgid "x position"
+msgstr "pozícia x"
+
+msgid "y position"
+msgstr "pozícia y"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "smer motora %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "vypni motor"
+
+#~ msgid "motor on"
+#~ msgstr "zapni motor"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "zapni motor na %n sekúnd"
+
+#~ msgid "motor power %n"
+#~ msgstr "sila motora %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "hraj tón %d.note %n dôb "

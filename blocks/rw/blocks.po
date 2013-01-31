@@ -1,0 +1,503 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"PO-Revision-Date: 2013-01-29 20:22+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: rw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Kinyarwanda"
+
+msgid "%b and %b"
+msgstr "%b na %b"
+
+msgid "%b or %b"
+msgstr "%b cyangwa %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute ya %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list irimo %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp ya %n"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor agaciro k'icyumvirizo"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "ongera %s ku %m.list"
+
+msgid "answer"
+msgstr "igisubizo"
+
+msgid "ask %s and wait"
+msgstr "baza %s hanyuma utegereze"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "Ahakorerwa ibikorwa #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "rangurura %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "rangurura %m.broadcast kandi utegereze"
+
+msgid "change %m.effect effect by %n"
+msgstr "hindura %m.effect ingaruka ya %n"
+
+msgid "change %m.var by %n"
+msgstr "hindura %m.var ya %n"
+
+msgid "change pen color by %n"
+msgstr "hindura ibara ry`ikaramu  %n"
+
+msgid "change pen shade by %n"
+msgstr "hindura ikaramu isiga irangi %n"
+
+msgid "change pen size by %n"
+msgstr "hindura ingano y`ikaramuya ya %n"
+
+msgid "change size by %n"
+msgstr "hindura ingano ya %n"
+
+msgid "change tempo by %n"
+msgstr "hindura tempo ya %n"
+
+msgid "change volume by %n"
+msgstr "hindura ubunini bwa %n"
+
+msgid "change x by %n"
+msgstr "hindura x kuri %n"
+
+msgid "change y by %n"
+msgstr "hindura y ya %n"
+
+msgid "clear"
+msgstr "tunganya"
+
+msgid "clear graphic effects"
+msgstr "tunganya ingaruka z`igishushanyo"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "irangi %c rirafata %c?"
+
+msgid "Control"
+msgstr "imicungire"
+
+msgid "costume #"
+msgstr "umwambaro #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "siba %d.listDeleteItem ya %m.list"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "ikerekezo"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "intera ku %m.spriteOrMouse"
+
+msgid "else"
+msgstr "cyangwa"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "burundu"
+
+msgid "forever if %b"
+msgstr "burundu niba %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "kunyereza %n amasegonda ku  x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "subira inyuma %n kushe"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "jya ku %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "jya imbere"
+
+msgid "go to x:%n y:%n"
+msgstr "jya ku x:%n y:%n"
+
+msgid "hide"
+msgstr "hisha"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b"
+msgstr "niba %b"
+
+msgid "if on edge, bounce"
+msgstr "niba ku musozo, dunda"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "injiza %s kuri %d.listItem ya %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "igikoresho %d.listItem cya %m.list"
+
+msgid "join %s %s"
+msgstr "sanga %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "ibuto %m.key yakanzwe?"
+
+msgid "length of %m.list"
+msgstr "uburebure bwa %m.list"
+
+msgid "length of %s"
+msgstr "uburebure bwa %s"
+
+msgid "letter %n of %s"
+msgstr "inyuguti %n ya %s"
+
+msgid "Looks"
+msgstr "reba/kugaragara"
+
+msgid "loudness"
+msgstr "urusaku"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "gihindagurika"
+
+msgid "mouse down?"
+msgstr "imbeba hasi?"
+
+msgid "mouse x"
+msgstr "imbeba x"
+
+msgid "mouse y"
+msgstr "imbeba y"
+
+msgid "move %n steps"
+msgstr "genda %n intambwe"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "ahakorerwa ibikorwa hakurikira"
+
+msgid "next costume"
+msgstr "umwambaro ukurikira"
+
+msgid "not %b"
+msgstr "nta %b"
+
+msgid "Operators"
+msgstr "operators"
+
+msgid "Pen"
+msgstr "ikaramu"
+
+msgid "pen down"
+msgstr "ikaramu  hasi"
+
+msgid "pen up"
+msgstr "ikaramu hejuru"
+
+msgid "pick random %n to %n"
+msgstr "fata kimwe muri byinshi %n nku %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "tera ingoma %d.drum ku %n injyana"
+
+# 83%
+#, fuzzy
+msgid "play note %d.note for %n beats"
+msgstr "kina inota %d.note ku %n injyana"
+
+msgid "play sound %m.sound"
+msgstr "tera ijwi %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "tera ijwi %m.sound kugeza urangije"
+
+msgid "point in direction %d.direction"
+msgstr "tunga mu kerekezo %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "tunga werekeje/uganisha imbere %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "subiramo %n"
+
+msgid "repeat until %b"
+msgstr "subiramo kugeza %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "simbuza ikintu %d.listItem cya %m.list hamwe na %s"
+
+msgid "reset timer"
+msgstr "ongera utangize igipimisho cy`igihe"
+
+msgid "rest for %n beats"
+msgstr "ruhuka ku %n injyana"
+
+msgid "round %n"
+msgstr "inshuro %n"
+
+msgid "say %s"
+msgstr "vuga %s"
+
+msgid "say %s for %n secs"
+msgstr "vuga %s ku %n masegonda"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "kwiyumvira"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "icyumvirizo %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "shyira %m.effect ingaruka ku %n"
+
+msgid "set %m.var to %s"
+msgstr "shyira %m.var ku %n"
+
+msgid "set instrument to %d.instrument"
+msgstr "shyira igikoresho ku %d.instrument"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "icyerekezo %m.motorDirection cy'ikinyabiziga"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "motor power %n"
+
+msgid "set pen color to %c"
+msgstr "shyiramo ikaramu y`irange ku %c"
+
+msgid "set pen color to %n"
+msgstr "shyiramo ikaramu y`irange ku %c"
+
+msgid "set pen shade to %n"
+msgstr "shyira ikaramu isiga ku %n"
+
+msgid "set pen size to %n"
+msgstr " shyira ingano y`ikaramu ku %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr "shyira ingano ku %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "shyira  tempo ku %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "shyira ubunini ku %n%"
+
+msgid "set x to %n"
+msgstr "shyira x to %n"
+
+msgid "set y to %n"
+msgstr "shyira y ku %n"
+
+msgid "show"
+msgstr "erekana"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "ingano"
+
+msgid "Sound"
+msgstr "ijwi"
+
+msgid "stamp"
+msgstr "kashi"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "hagarika amajwi yose"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "tekereza %s"
+
+msgid "think %s for %n secs"
+msgstr "tekereza %s ku %n amasegonda"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "igipima igihe"
+
+msgid "touching %m.touching?"
+msgstr "gufata %m.touching?"
+
+msgid "touching color %c?"
+msgstr "gufata irange %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "ikinyabiziga cyakijwe amasegonda %n"
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "Ubunini"
+
+msgid "wait %n secs"
+msgstr "tegereza %n amasegonda"
+
+msgid "wait until %b"
+msgstr "tegereza kugeza %b"
+
+# 75%
+#, fuzzy
+msgid "when %m.booleanSensor"
+msgstr "icyumvirizo %m.booleanSensor?"
+
+msgid "when %m.key key pressed"
+msgstr "igihe%m.key ibuto ikanzwe"
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr "igihe @greenFlag ikanzwe"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+msgid "x position"
+msgstr "x umwwanya"
+
+msgid "y position"
+msgstr "y umwanya"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "icyerekezo %m.motorDirection cy'ikinyabiziga"
+
+#~ msgid "motor off"
+#~ msgstr "ikinyabiziga kizimijwe"
+
+#~ msgid "motor on"
+#~ msgstr "ikinyabiziga cyakijwe"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "ikinyabiziga cyakijwe amasegonda %n"
+
+#~ msgid "motor power %n"
+#~ msgstr "motor power %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "kina inota %d.note ku %n injyana"

@@ -1,0 +1,504 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"PO-Revision-Date: 2013-01-29 20:21+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Magyar"
+
+msgid "%b and %b"
+msgstr "%b és %b"
+
+msgid "%b or %b"
+msgstr "%b vagy %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.spriteOrStage %a értéke"
+
+msgid "%m.list contains %s"
+msgstr "%m.list tartalmazza: %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp%n"
+
+msgid "%m.sensor sensor value"
+msgstr "szenzor %m.sensor értéke"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "add %m.list listához: %s"
+
+msgid "answer"
+msgstr "válasz"
+
+msgid "ask %s and wait"
+msgstr "kérdezd meg: %s és várj"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "háttér"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "küldj üzenetet: %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "küldj üzenetet: %m.broadcast és várj"
+
+msgid "change %m.effect effect by %n"
+msgstr "%m.effect hatás változzon %n"
+
+msgid "change %m.var by %n"
+msgstr "%m.var változzon %n"
+
+msgid "change pen color by %n"
+msgstr "tollszín változzon %n"
+
+msgid "change pen shade by %n"
+msgstr "tollárnyalat változzon %n"
+
+msgid "change pen size by %n"
+msgstr "tollméret változzon %n"
+
+msgid "change size by %n"
+msgstr "méret változzon %n"
+
+msgid "change tempo by %n"
+msgstr "tempó változzon %n"
+
+msgid "change volume by %n"
+msgstr "hangerő változzon %n"
+
+msgid "change x by %n"
+msgstr "x változzon %n"
+
+msgid "change y by %n"
+msgstr "y változzon %n"
+
+msgid "clear"
+msgstr "töröld a rajzokat"
+
+msgid "clear graphic effects"
+msgstr "töröld a hatásokat"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "%c érint %c színt?"
+
+msgid "Control"
+msgstr "vezérlés"
+
+msgid "costume #"
+msgstr "jelmez"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "töröld %m.list %y elemét"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "irány"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "távolság: %m.spriteOrMouse"
+
+msgid "else"
+msgstr "különben"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "mindig"
+
+msgid "forever if %b"
+msgstr "mindig ha %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "csússz %n mp-ig x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "kerülj %n szinttel hátrébb"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "ugorj %m.spriteOrMouse helyére"
+
+msgid "go to front"
+msgstr "kerülj legelőre"
+
+msgid "go to x:%n y:%n"
+msgstr "ugorj x:%n y:%n"
+
+msgid "hide"
+msgstr "tűnj el"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b"
+msgstr "ha %b"
+
+msgid "if on edge, bounce"
+msgstr "ha szélen vagy, pattanj vissza"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "szúrd be %m.list %i helyére: %s"
+
+msgid "item %d.listItem of %m.list"
+msgstr "%m.list %i eleme"
+
+msgid "join %s %s"
+msgstr "csatlakozik %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "%m.key lenyomva?"
+
+msgid "length of %m.list"
+msgstr "%m.list hossza"
+
+msgid "length of %s"
+msgstr "%s hossza"
+
+msgid "letter %n of %s"
+msgstr "%s %n betűje"
+
+msgid "Looks"
+msgstr "kinézet"
+
+msgid "loudness"
+msgstr "hangerő"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "mozgás"
+
+msgid "mouse down?"
+msgstr "egér lenyomva?"
+
+msgid "mouse x"
+msgstr "egér x"
+
+msgid "mouse y"
+msgstr "egér y"
+
+msgid "move %n steps"
+msgstr "menj %n lépést"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "válts hátteret"
+
+msgid "next costume"
+msgstr "válts jelmezt"
+
+msgid "not %b"
+msgstr "nem %b"
+
+msgid "Operators"
+msgstr "műveletek"
+
+msgid "Pen"
+msgstr "toll"
+
+msgid "pen down"
+msgstr "tollat tedd le"
+
+msgid "pen up"
+msgstr "tollat emeld fel"
+
+msgid "pick random %n to %n"
+msgstr "véletlen %n és %n között"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "dobolj %d.drum%n ütemig"
+
+# 83%
+#, fuzzy
+msgid "play note %d.note for %n beats"
+msgstr "szóljon %d.note%n ütemig"
+
+msgid "play sound %m.sound"
+msgstr "játszd le: %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "játszd le: %m.sound és várd meg"
+
+msgid "point in direction %d.direction"
+msgstr "nézz %d.direction fokos irányba"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "nézz %m.spriteOrMouse irányába"
+
+msgid "repeat %n"
+msgstr "ismételd %n"
+
+msgid "repeat until %b"
+msgstr "ismételd eddig: %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "cseréld le %m.list %i elemét: %s"
+
+msgid "reset timer"
+msgstr "nullázd az órát"
+
+msgid "rest for %n beats"
+msgstr "szünetelj %n ütemig"
+
+msgid "round %n"
+msgstr "kerekítve %n"
+
+msgid "say %s"
+msgstr "mondd: %s"
+
+msgid "say %s for %n secs"
+msgstr "mondd: %s%n mp-ig"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "Érzékelés"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "szenzoron %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "%m.effect hatás legyen %n"
+
+msgid "set %m.var to %s"
+msgstr "%m.var legyen %n"
+
+msgid "set instrument to %d.instrument"
+msgstr "hangszer legyen %d.instrument"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "motort irányba %m.motorDirection"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "motor teljesítmény %n"
+
+msgid "set pen color to %c"
+msgstr "tollszín legyen %c"
+
+msgid "set pen color to %n"
+msgstr "tollszín legyen %c"
+
+msgid "set pen shade to %n"
+msgstr "tollárnyalat legyen %n"
+
+msgid "set pen size to %n"
+msgstr "tollméret legyen %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr "méret legyen %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "tempó legyen %n ütem/perc"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "hangerő legyen %n%"
+
+msgid "set x to %n"
+msgstr "x legyen %n"
+
+msgid "set y to %n"
+msgstr "y legyen %n"
+
+msgid "show"
+msgstr "jelenj meg"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "méret"
+
+msgid "Sound"
+msgstr "hang"
+
+msgid "stamp"
+msgstr "készíts lenyomatot"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "minden hangot állíts le"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "tempó"
+
+msgid "think %s"
+msgstr "gondold: %s"
+
+msgid "think %s for %n secs"
+msgstr "gondold: %s%n mp-ig"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "óra"
+
+msgid "touching %m.touching?"
+msgstr "érinted: %m.touching?"
+
+msgid "touching color %c?"
+msgstr "érintesz %c színt?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "motor be %n mp-ig"
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "hangerő"
+
+msgid "wait %n secs"
+msgstr "várj %n mp-et"
+
+msgid "wait until %b"
+msgstr "várj eddig: %b"
+
+# 75%
+#, fuzzy
+msgid "when %m.booleanSensor"
+msgstr "szenzoron %m.booleanSensor?"
+
+msgid "when %m.key key pressed"
+msgstr "%m.key lenyomásakor"
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr "@greenFlag kattintásakor"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+msgid "x position"
+msgstr "x hely"
+
+msgid "y position"
+msgstr "y hely"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "motort irányba %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "motor ki"
+
+#~ msgid "motor on"
+#~ msgstr "motor be"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "motor be %n mp-ig"
+
+#~ msgid "motor power %n"
+#~ msgstr "motor teljesítmény %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "szóljon %d.note%n ütemig"
