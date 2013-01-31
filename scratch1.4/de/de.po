@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2008-02-18 03:58-0400\n"
-"PO-Revision-Date: 2013-01-29 23:25+0200\n"
+"PO-Revision-Date: 2013-01-31 20:40+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: Mtw <martin.wollenweber@gmx.de>\n"
 "Language: de\n"
@@ -290,13 +290,17 @@ msgstr "Malstift"
 # (Jens) Tut mir leid, aber mit "senke Stift ab" und "hebe Stift an" werde mich wohl niemals anfreunden können.
 # (Markus S.) war 'Stift runter', das aber bitte nicht. Darüber gab es bei uns an der Schule längere Diskussionen; aus Konsistenzgründen bitte immer Imperative auf den Kacheln.
 # (Jens) Tut mir leid, aber mit "senke Stift ab" und "hebe Stift an" werde mich wohl niemals anfreunden können.
+# (Markus S.) war 'setze Stift auf'
+# 
 msgid "pen down"
-msgstr "setze Stift auf"
+msgstr "zeichne Spur"
 
 # (Markus S.) war 'Stift hoch', das aber bitte nicht. Darüber gab es bei uns an der Schule längere Diskussionen; aus Konsistenzgründen bitte immer Imperative auf den Kacheln.
 # (Markus S.) war 'Stift hoch', das aber bitte nicht. Darüber gab es bei uns an der Schule längere Diskussionen; aus Konsistenzgründen bitte immer Imperative auf den Kacheln.
+# (Markus S.) war 'hebe Stift an'
+# 
 msgid "pen up"
-msgstr "hebe Stift an"
+msgstr "zeichne nicht"
 
 msgid "pick random %n to %n"
 msgstr "wähle zufällig aus %n bis %n"
