@@ -1,0 +1,1112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"PO-Revision-Date: 2013-01-31 11:33+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "فارسی"
+
+msgid "%b and %b"
+msgstr "%b و %b"
+
+msgid "%b or %b"
+msgstr "%b یا %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.spriteOrStage از %m.attribute"
+
+msgid "%m.list contains %s"
+msgstr ""
+
+msgid "%m.mathOp of %n"
+msgstr "%n از %m.mathOp"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor مقدار سنسور"
+
+msgid "%n mod %n"
+msgstr "%n2 به پیمانه‌ی %n1"
+
+msgid "add %s to %m.list"
+msgstr "%m.list را به %s اضافه کن"
+
+msgid "answer"
+msgstr "پاسخ"
+
+msgid "ask %s and wait"
+msgstr "و صبر کن %s بپرس"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "پس‌زمینه"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "%m.broadcast را انتشار بده"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "%m.broadcast را انتشار بده و صبر ‌کن"
+
+msgid "change %m.effect effect by %n"
+msgstr "اثر %n را %m.effect تغییر بده"
+
+msgid "change %m.var by %n"
+msgstr "%n را %m.var تغییر بده"
+
+msgid "change pen color by %n"
+msgstr "رنگ قلم را %n تغییر بده"
+
+msgid "change pen shade by %n"
+msgstr "سایه‌ی رنگ قلم را %n تغییر بده"
+
+msgid "change pen size by %n"
+msgstr "اندازه‌ی قلم را %n تغییر بده"
+
+msgid "change size by %n"
+msgstr "کن %n اندازه  را"
+
+msgid "change tempo by %n"
+msgstr "کن %n سرعت  را"
+
+msgid "change volume by %n"
+msgstr "کن %n بلندى صدا را"
+
+msgid "change x by %n"
+msgstr "عوض کن %n ایکس را با"
+
+msgid "change y by %n"
+msgstr "عوض کن %n وای را با"
+
+msgid "clear"
+msgstr "پاک کن"
+
+msgid "clear graphic effects"
+msgstr "افکت های گرافیکی را پاک کن"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "تماس دارد؟ %c2 با رنگ %c1 رنگ"
+
+msgid "Control"
+msgstr "اداره"
+
+msgid "costume #"
+msgstr "شماره لباس"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr ""
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "جهت"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse فاصله تا"
+
+msgid "else"
+msgstr "واگر نه"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "برای همیشه تکرار کن"
+
+msgid "forever if %b"
+msgstr "%b برای همیشه اگر"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "n% ثانیه آهسته برو به ایکس:%n وای:%n"
+
+msgid "go back %n layers"
+msgstr "لایه به عقب %n برو"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse برو به"
+
+msgid "go to front"
+msgstr "برو به جلو"
+
+msgid "go to x:%n y:%n"
+msgstr "%n2 :وای %n1 :برو به مکان ایکس"
+
+msgid "hide"
+msgstr "پنهان کن"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b"
+msgstr "%b اگر"
+
+msgid "if on edge, bounce"
+msgstr "اگر روی خط هستی، بپر"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr ""
+
+msgid "item %d.listItem of %m.list"
+msgstr ""
+
+msgid "join %s %s"
+msgstr "%s و %s اجتماع"
+
+msgid "key %m.key pressed?"
+msgstr "فشرده شده؟ %m.key آیا کلید"
+
+msgid "length of %m.list"
+msgstr "%m.list طول"
+
+msgid "length of %s"
+msgstr "%s طول"
+
+msgid "letter %n of %s"
+msgstr "%s از %n حرف"
+
+msgid "Looks"
+msgstr "ظاهر"
+
+msgid "loudness"
+msgstr "بلندی صدا"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "حرکت"
+
+msgid "mouse down?"
+msgstr "فشار دادن دکمه ماوس؟"
+
+msgid "mouse x"
+msgstr "مکان ایکس ماوس"
+
+msgid "mouse y"
+msgstr "مکان وای ماوس"
+
+msgid "move %n steps"
+msgstr "گام حرکت کن %n"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "پشت زمینه بعدی"
+
+msgid "next costume"
+msgstr "لباس بعدی"
+
+msgid "not %b"
+msgstr "%b نقیض"
+
+msgid "Operators"
+msgstr "عملگرها"
+
+msgid "Pen"
+msgstr "قلم"
+
+msgid "pen down"
+msgstr "قلم پایین"
+
+msgid "pen up"
+msgstr "قلم بالا"
+
+msgid "pick random %n to %n"
+msgstr "یک عدد حدث بزن %n2 و %n1 بين"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "ضربه بزن %n را %d.drum طبل*"
+
+# 83%
+#, fuzzy
+msgid "play note %d.note for %n beats"
+msgstr "ضربه بزن %n را برای %d.note نوت"
+
+msgid "play sound %m.sound"
+msgstr "%m.sound اجرای صدای"
+
+msgid "play sound %m.sound until done"
+msgstr "تا وقتی تمام شود %m.sound اجرای صدای"
+
+msgid "point in direction %d.direction"
+msgstr "%d.direction برو به جهت"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse بچرخ به سمت"
+
+msgid "repeat %n"
+msgstr "بار تکرار کن %n"
+
+msgid "repeat until %b"
+msgstr "%b تکرار کن تا وقتی که"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr ""
+
+msgid "reset timer"
+msgstr "تایمر از اول"
+
+msgid "rest for %n beats"
+msgstr "استراحت کن برای %n ضرب"
+
+msgid "round %n"
+msgstr "%n گرد شده ی"
+
+msgid "say %s"
+msgstr "%s بگو"
+
+msgid "say %s for %n secs"
+msgstr "ثانيه %n برای %s بگو"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "مشاهده"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "؟%m.booleanSensor حسگر"
+
+msgid "set %m.effect effect to %n"
+msgstr "کن %n را %m.effect تأثير"
+
+msgid "set %m.var to %s"
+msgstr "کن %n را %m.var"
+
+msgid "set instrument to %d.instrument"
+msgstr "کن %d.instrument دستگاه را"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "%m.motorDirection راستای حرکت موتور به"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "%n :قدرت موتور"
+
+msgid "set pen color to %c"
+msgstr "کن %c رنگ  مداد را"
+
+msgid "set pen color to %n"
+msgstr "کن %c رنگ  مداد را"
+
+msgid "set pen shade to %n"
+msgstr "درجه زیاد کن %n تیرگی قلم را"
+
+msgid "set pen size to %n"
+msgstr "کن %n اندازه  مداد را"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr "کن % %n اندازه را"
+
+msgid "set tempo to %n bpm"
+msgstr "سرعت را %n ضربه در دقیقه کن"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "کن % %n بلندی صدا را"
+
+msgid "set x to %n"
+msgstr "کن %n مکان ایکس را"
+
+msgid "set y to %n"
+msgstr "کن %n مکان وای را"
+
+msgid "show"
+msgstr "نشان بده"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "اندازه"
+
+msgid "Sound"
+msgstr "صدا"
+
+msgid "stamp"
+msgstr "مهر"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "همه صدا ها را متوقف کن"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "میزان سرعت"
+
+msgid "think %s"
+msgstr "%s فکر کن"
+
+msgid "think %s for %n secs"
+msgstr "ثانيه %n برای %s فکر کن"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "زمان سنج"
+
+msgid "touching %m.touching?"
+msgstr "برخورد می کند؟ %m.touching به"
+
+msgid "touching color %c?"
+msgstr "تماس دارد؟ %c با رنگ"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "ثانیه روشن کن %n موتور را برای"
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "بلندی صدا"
+
+msgid "wait %n secs"
+msgstr "ثانيه صبر کن %n"
+
+msgid "wait until %b"
+msgstr "%b صبر کن تا"
+
+# 75%
+#, fuzzy
+msgid "when %m.booleanSensor"
+msgstr "؟%m.booleanSensor حسگر"
+
+msgid "when %m.key key pressed"
+msgstr "وقتی کلید %m.key فشرده شد"
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr "وقتی @greenFlag کلیک شد"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+msgid "x position"
+msgstr "موقعیت ایکس"
+
+msgid "y position"
+msgstr "موقعیت وای"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "%m.motorDirection راستای حرکت موتور به"
+
+#~ msgid "motor off"
+#~ msgstr "موتور خاموش"
+
+#~ msgid "motor on"
+#~ msgstr "موتور روشن"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "ثانیه روشن کن %n موتور را برای"
+
+#~ msgid "motor power %n"
+#~ msgstr "%n :قدرت موتور"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "ضربه بزن %n را برای %d.note نوت"
+
+#User Interface
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:51+0200\n"
+"PO-Revision-Date: 2013-01-29 20:51+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "#"
+msgstr ""
+
+msgid "10 ^"
+msgstr ""
+
+msgid "A connected"
+msgstr ""
+
+msgid "abs"
+msgstr "قدرمطلق"
+
+msgid "acos"
+msgstr ""
+
+msgid "Add a boolean input:"
+msgstr ""
+
+msgid "Add a number input:"
+msgstr ""
+
+msgid "Add a string input:"
+msgstr ""
+
+msgid "add comment"
+msgstr ""
+
+msgid "Add label text:"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "all around"
+msgstr ""
+
+msgid "asin"
+msgstr ""
+
+msgid "atan"
+msgstr ""
+
+msgid "B connected"
+msgstr ""
+
+msgid "backdrop #"
+msgstr ""
+
+msgid "backdrop name"
+msgstr ""
+
+msgid "backdrop1"
+msgstr ""
+
+msgid "Backpack"
+msgstr ""
+
+msgid "Bass"
+msgstr ""
+
+msgid "Bass Drum"
+msgstr ""
+
+msgid "Bassoon"
+msgstr "Bassoon"
+
+msgid "Bongo"
+msgstr ""
+
+msgid "bottom-left"
+msgstr ""
+
+msgid "bottom-right"
+msgstr ""
+
+msgid "brightness"
+msgstr "شدت نور"
+
+msgid "button pressed"
+msgstr "دکمه فشرده شده"
+
+msgid "C connected"
+msgstr ""
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Camera"
+msgstr ""
+
+msgid "Cannot Delete"
+msgstr ""
+
+msgid "ceiling"
+msgstr ""
+
+msgid "Cello"
+msgstr "Cello"
+
+msgid "Choir"
+msgstr ""
+
+msgid "Clarinet"
+msgstr "Clarinet"
+
+msgid "Claves"
+msgstr "Claves"
+
+msgid "clear senders/receivers"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr "Closed Hi-Hat"
+
+msgid "color"
+msgstr "رنگ"
+
+msgid "Conga"
+msgstr ""
+
+msgid "copy"
+msgstr "کپی"
+
+msgid "cos"
+msgstr ""
+
+msgid "costume #"
+msgstr ""
+
+msgid "costume name"
+msgstr ""
+
+msgid "costume1"
+msgstr ""
+
+msgid "costume2"
+msgstr ""
+
+msgid "Cowbell"
+msgstr "Cowbell"
+
+msgid "Crash Cymbal"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "D connected"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "day of week"
+msgstr ""
+
+msgid "delete"
+msgstr "حذف"
+
+msgid "direction"
+msgstr ""
+
+msgid "don't rotate"
+msgstr ""
+
+msgid "down"
+msgstr "نکن"
+
+msgid "down arrow"
+msgstr "کلید پایین"
+
+msgid "Duplicate"
+msgstr "کپی کردن"
+
+msgid "duplicate"
+msgstr "کپی کردن"
+
+msgid "e ^"
+msgstr ""
+
+msgid "edge"
+msgstr "لبه"
+
+msgid "edit"
+msgstr "ویرایش"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Effects"
+msgstr ""
+
+msgid "Electric Guitar"
+msgstr ""
+
+msgid "Electric Piano"
+msgstr ""
+
+msgid "fade in"
+msgstr ""
+
+msgid "fade out"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "fisheye"
+msgstr "fisheye"
+
+msgid "floor"
+msgstr ""
+
+msgid "Flute"
+msgstr "Flute"
+
+msgid "ghost"
+msgstr "شبح"
+
+msgid "Guiro"
+msgstr ""
+
+msgid "Guitar"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr "Hand Clap"
+
+msgid "hour"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "last"
+msgstr ""
+
+msgid "left"
+msgstr "چپ"
+
+msgid "left arrow"
+msgstr "کلید چپ"
+
+msgid "left-right"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "light"
+msgstr "نور"
+
+msgid "ln"
+msgstr ""
+
+msgid "log"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "louder"
+msgstr ""
+
+msgid "loudness"
+msgstr ""
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "message1"
+msgstr ""
+
+msgid "middle"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "mosaic"
+msgstr "موزاييک"
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr "نوک ماوس"
+
+msgid "Music Box"
+msgstr "Music Box"
+
+msgid "myself"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+#, fuzzy
+msgid "New"
+msgstr "Nouveau"
+
+msgid "New backdrop"
+msgstr ""
+
+msgid "New costume"
+msgstr ""
+
+msgid "new message..."
+msgstr ""
+
+msgid "New sound"
+msgstr ""
+
+msgid "New sprite:"
+msgstr ""
+
+msgid "off"
+msgstr "خاموش"
+
+msgid "on"
+msgstr "روشن"
+
+msgid "on-flipped"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr "Open Cuica"
+
+msgid "Open Hi-Hat"
+msgstr "Open Hi-Hat"
+
+msgid "Organ"
+msgstr ""
+
+msgid "other scripts in sprite"
+msgstr ""
+
+msgid "Paint"
+msgstr "رنگ کردن"
+
+msgid "paste"
+msgstr ""
+
+msgid "photo1"
+msgstr ""
+
+msgid "Piano"
+msgstr ""
+
+msgid "pixelate"
+msgstr "pixelate"
+
+msgid "Pizzicato"
+msgstr ""
+
+msgid "pop"
+msgstr "pop"
+
+msgid "random"
+msgstr ""
+
+msgid "Record"
+msgstr "ضبط"
+
+msgid "recording1"
+msgstr ""
+
+msgid "redo"
+msgstr "دوباره انجام بده"
+
+msgid "Remix"
+msgstr ""
+
+msgid "resistance-A"
+msgstr ""
+
+msgid "resistance-B"
+msgstr ""
+
+msgid "resistance-C"
+msgstr ""
+
+msgid "resistance-D"
+msgstr ""
+
+msgid "reverse"
+msgstr "پشت"
+
+msgid "right"
+msgstr "راست"
+
+msgid "right arrow"
+msgstr "کلید راست"
+
+msgid "Saxophone"
+msgstr ""
+
+msgid "say"
+msgstr ""
+
+msgid "Scratch Cat"
+msgstr ""
+
+msgid "second"
+msgstr ""
+
+msgid "See project page"
+msgstr ""
+
+msgid "select all"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "shout"
+msgstr ""
+
+msgid "show receivers"
+msgstr ""
+
+msgid "show senders"
+msgstr ""
+
+msgid "Side Stick"
+msgstr "Side Stick"
+
+msgid "silence"
+msgstr ""
+
+msgid "sin"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "slider"
+msgstr "لغزنده"
+
+msgid "Snare Drum"
+msgstr ""
+
+msgid "softer"
+msgstr ""
+
+msgid "sound"
+msgstr ""
+
+msgid "space"
+msgstr "space"
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr "جذر"
+
+msgid "Stage"
+msgstr "مرحله"
+
+msgid "Steel Drum"
+msgstr ""
+
+msgid "Synth Lead"
+msgstr ""
+
+msgid "Synth Pad"
+msgstr ""
+
+msgid "Tambourine"
+msgstr "Tambourine"
+
+msgid "tan"
+msgstr ""
+
+msgid "that way"
+msgstr "اون طرف"
+
+msgid "think"
+msgstr ""
+
+msgid "this script"
+msgstr ""
+
+msgid "this sprite"
+msgstr ""
+
+msgid "this way"
+msgstr "این طرف"
+
+msgid "timer"
+msgstr ""
+
+msgid "Tips"
+msgstr ""
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+
+msgid "top-left"
+msgstr ""
+
+msgid "top-right"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "Trombone"
+msgstr "Trombone"
+
+msgid "undo"
+msgstr "بازگشت"
+
+msgid "up"
+msgstr "بالا"
+
+msgid "up arrow"
+msgstr "کلید بالا"
+
+msgid "Vibraphone"
+msgstr "Vibraphone"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "video motion"
+msgstr ""
+
+msgid "volume"
+msgstr ""
+
+msgid "whirl"
+msgstr "چرخانیدن"
+
+msgid "whisper"
+msgstr ""
+
+msgid "Wood Block"
+msgstr ""
+
+msgid "Wooden Flute"
+msgstr ""
+
+msgid "x position"
+msgstr ""
+
+msgid "y position"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+#~ msgid "High Tom"
+#~ msgstr "High Tom"
+
+#~ msgid "Long Guiro"
+#~ msgstr "Long Guiro"
+
+#~ msgid "Low Bongo"
+#~ msgstr "Low Bongo"
+
+#~ msgid "Low Conga"
+#~ msgstr "Low Conga"
+
+#~ msgid "Low Tom"
+#~ msgstr "Low Tom"
+
+#~ msgid "Low Wood Block"
+#~ msgstr "Low Wood Block"
+
+#~ msgid "Maracas"
+#~ msgstr "Maracas"
+
+#~ msgid "More"
+#~ msgstr "بیشتر"
+
+#~ msgid "Mute Triangle"
+#~ msgstr "Mute Triangle"
+
+#~ msgid "Open Triangle"
+#~ msgstr "Open Triangle"
+
+#~ msgid "Pedal Hi-Hat"
+#~ msgstr "Pedal Hi-Hat"
+
+#~ msgid "Short Guiro"
+#~ msgstr "Short Guiro"

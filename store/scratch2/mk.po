@@ -1,0 +1,1115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"PO-Revision-Date: 2013-01-29 20:21+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Македонски"
+
+msgid "%b and %b"
+msgstr "%b и %b"
+
+msgid "%b or %b"
+msgstr "%b или %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute од %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr ""
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp од %n"
+
+msgid "%m.sensor sensor value"
+msgstr "вредност на сензорот %m.sensor"
+
+msgid "%n mod %n"
+msgstr "%n модул %n"
+
+msgid "add %s to %m.list"
+msgstr "додавај %s на %m.list"
+
+msgid "answer"
+msgstr "одговор"
+
+msgid "ask %s and wait"
+msgstr "прашај %s и чекај"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "позадина бр."
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "емитувај %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "емитувај %m.broadcast и чекај"
+
+msgid "change %m.effect effect by %n"
+msgstr "смени ефект %m.effect за %n"
+
+msgid "change %m.var by %n"
+msgstr "смени %m.var за %n"
+
+msgid "change pen color by %n"
+msgstr "смени боја на моливот %n"
+
+msgid "change pen shade by %n"
+msgstr "смени сенка на моливот %n"
+
+msgid "change pen size by %n"
+msgstr "смени големина на моливот за %n"
+
+msgid "change size by %n"
+msgstr "смени големина %n"
+
+msgid "change tempo by %n"
+msgstr "смени темпо за %n"
+
+msgid "change volume by %n"
+msgstr "смени глас за %n"
+
+msgid "change x by %n"
+msgstr "смени x за %n"
+
+msgid "change y by %n"
+msgstr "смени y за %n"
+
+msgid "clear"
+msgstr "расчисти"
+
+msgid "clear graphic effects"
+msgstr "расчисти ги графичките ефекти"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "бојата %c допира со %c?"
+
+msgid "Control"
+msgstr "Контрола"
+
+msgid "costume #"
+msgstr "маска бр."
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "избриши %d.listDeleteItem од %m.list"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "насока"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "растојание до %m.spriteOrMouse"
+
+msgid "else"
+msgstr "или"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "постојано"
+
+msgid "forever if %b"
+msgstr "постојано ако %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "лизгај %n секунди до x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "оди назад %n нивоа"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "оди до %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "оди напред"
+
+msgid "go to x:%n y:%n"
+msgstr "оди до x:%n y:%n"
+
+msgid "hide"
+msgstr "скриј"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b"
+msgstr "ако %b"
+
+msgid "if on edge, bounce"
+msgstr "ако на работ, врати се назад"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "внеси %s кај %d.listItem од %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "објект %d.listItem од %m.list"
+
+msgid "join %s %s"
+msgstr "спој %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "копчето %m.key е притиснато?"
+
+msgid "length of %m.list"
+msgstr "должината на %m.list"
+
+msgid "length of %s"
+msgstr "должината на %s"
+
+msgid "letter %n of %s"
+msgstr "буквата %n од %s"
+
+msgid "Looks"
+msgstr "Погледи"
+
+msgid "loudness"
+msgstr "гласнност"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "Движења"
+
+msgid "mouse down?"
+msgstr "глувчето долу"
+
+msgid "mouse x"
+msgstr "глувче x"
+
+msgid "mouse y"
+msgstr "глувче y"
+
+msgid "move %n steps"
+msgstr "помести %n чекори"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "следна позадина"
+
+msgid "next costume"
+msgstr "следна маска"
+
+msgid "not %b"
+msgstr "не %b"
+
+msgid "Operators"
+msgstr "оператори"
+
+msgid "Pen"
+msgstr "Молив"
+
+msgid "pen down"
+msgstr "моливот долу"
+
+msgid "pen up"
+msgstr "моливот горе"
+
+msgid "pick random %n to %n"
+msgstr "избери случаен од %n до %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "свири тапани %d.drum за %n удари"
+
+# 83%
+#, fuzzy
+msgid "play note %d.note for %n beats"
+msgstr "свири нота %d.note за %n удари"
+
+msgid "play sound %m.sound"
+msgstr "свири звук %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "свири звук %m.sound до крај"
+
+msgid "point in direction %d.direction"
+msgstr "сврти во смерот %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "оди кон %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "повтори %n пати"
+
+msgid "repeat until %b"
+msgstr "повторувај додека %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "замени %d.listItem од %m.list со %s"
+
+msgid "reset timer"
+msgstr "ресетирај го тајмерот"
+
+msgid "rest for %n beats"
+msgstr "одмори за %n удари"
+
+msgid "round %n"
+msgstr "заокружи %n"
+
+msgid "say %s"
+msgstr "кажи %s"
+
+msgid "say %s for %n secs"
+msgstr "кажи %s за %n секунди"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "Распознавање"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "сензорот %m.booleanSensor е активен?"
+
+msgid "set %m.effect effect to %n"
+msgstr "намести го ефектот %m.effect на %n"
+
+msgid "set %m.var to %s"
+msgstr "намести %m.var на %n"
+
+msgid "set instrument to %d.instrument"
+msgstr "намести го инструментот %d.instrument"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "смер на моторот %m.motorDirection"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "мотор снага %n"
+
+msgid "set pen color to %c"
+msgstr "боја на моливот %c"
+
+msgid "set pen color to %n"
+msgstr "боја на моливот %c"
+
+msgid "set pen shade to %n"
+msgstr "намести сенка на моливот на %n"
+
+msgid "set pen size to %n"
+msgstr "намести големина на моливот на %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr "намести големина на %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "намести темпо на %n удари/мин"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "намести глас на %n%"
+
+msgid "set x to %n"
+msgstr "намести x на %n"
+
+msgid "set y to %n"
+msgstr "намести y на %n"
+
+msgid "show"
+msgstr "покажи"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "големина"
+
+msgid "Sound"
+msgstr "Звук"
+
+msgid "stamp"
+msgstr "печат"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "стопирај ги сите звуци"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "темпо"
+
+msgid "think %s"
+msgstr "размислувај %s"
+
+msgid "think %s for %n secs"
+msgstr "размислувај %s за %n сек."
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "тајмер"
+
+msgid "touching %m.touching?"
+msgstr "%m.touching е допрена?"
+
+msgid "touching color %c?"
+msgstr "бојата %c е допрена?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "мотор уклучи за %n секунди"
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "глас"
+
+msgid "wait %n secs"
+msgstr "чекај %n сек."
+
+msgid "wait until %b"
+msgstr "чекај додека %b"
+
+# 75%
+#, fuzzy
+msgid "when %m.booleanSensor"
+msgstr "сензорот %m.booleanSensor е активен?"
+
+msgid "when %m.key key pressed"
+msgstr "кога копчето %m.key е притиснато"
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr "кога @greenFlag е кликнато"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+msgid "x position"
+msgstr "х позиција "
+
+msgid "y position"
+msgstr "у позиција"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "смер на моторот %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "мотор исклучи"
+
+#~ msgid "motor on"
+#~ msgstr "мотор уклучи"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "мотор уклучи за %n секунди"
+
+#~ msgid "motor power %n"
+#~ msgstr "мотор снага %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "свири нота %d.note за %n удари"
+
+#User Interface
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:52+0200\n"
+"PO-Revision-Date: 2013-01-29 20:52+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "#"
+msgstr ""
+
+msgid "10 ^"
+msgstr ""
+
+msgid "A connected"
+msgstr ""
+
+msgid "abs"
+msgstr "апс"
+
+msgid "acos"
+msgstr ""
+
+msgid "Add a boolean input:"
+msgstr ""
+
+msgid "Add a number input:"
+msgstr ""
+
+msgid "Add a string input:"
+msgstr ""
+
+msgid "add comment"
+msgstr ""
+
+msgid "Add label text:"
+msgstr ""
+
+msgid "all"
+msgstr "сите"
+
+msgid "all around"
+msgstr ""
+
+msgid "asin"
+msgstr ""
+
+msgid "atan"
+msgstr ""
+
+msgid "B connected"
+msgstr ""
+
+msgid "backdrop #"
+msgstr ""
+
+msgid "backdrop name"
+msgstr ""
+
+msgid "backdrop1"
+msgstr ""
+
+msgid "Backpack"
+msgstr ""
+
+msgid "Bass"
+msgstr ""
+
+msgid "Bass Drum"
+msgstr ""
+
+msgid "Bassoon"
+msgstr "Фагот-71"
+
+msgid "Bongo"
+msgstr ""
+
+msgid "bottom-left"
+msgstr ""
+
+msgid "bottom-right"
+msgstr ""
+
+msgid "brightness"
+msgstr "светлост"
+
+msgid "button pressed"
+msgstr "копчето е притиснато"
+
+msgid "C connected"
+msgstr ""
+
+msgid "Cabasa"
+msgstr "Кабаса-69п"
+
+msgid "Camera"
+msgstr "Камера"
+
+msgid "Cannot Delete"
+msgstr ""
+
+msgid "ceiling"
+msgstr ""
+
+msgid "Cello"
+msgstr "Чело-43"
+
+msgid "Choir"
+msgstr ""
+
+msgid "Clarinet"
+msgstr "Кларинет-72"
+
+msgid "Claves"
+msgstr "Клавесин-75п"
+
+msgid "clear senders/receivers"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr "Затворен хај-хет чинел-42п"
+
+msgid "color"
+msgstr "боја"
+
+msgid "Conga"
+msgstr ""
+
+msgid "copy"
+msgstr "Копирај"
+
+msgid "cos"
+msgstr ""
+
+msgid "costume #"
+msgstr ""
+
+msgid "costume name"
+msgstr ""
+
+msgid "costume1"
+msgstr ""
+
+msgid "costume2"
+msgstr ""
+
+msgid "Cowbell"
+msgstr "Клопотарец-56п"
+
+msgid "Crash Cymbal"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "D connected"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "day of week"
+msgstr ""
+
+msgid "delete"
+msgstr "избриши"
+
+msgid "direction"
+msgstr ""
+
+msgid "don't rotate"
+msgstr ""
+
+msgid "down"
+msgstr "надолу"
+
+msgid "down arrow"
+msgstr "стрелка надолу"
+
+msgid "Duplicate"
+msgstr "дуплирај"
+
+msgid "duplicate"
+msgstr "дуплирај"
+
+msgid "e ^"
+msgstr ""
+
+msgid "edge"
+msgstr "раб"
+
+msgid "edit"
+msgstr "Уреди"
+
+msgid "Edit"
+msgstr "Уреди"
+
+msgid "Effects"
+msgstr ""
+
+msgid "Electric Guitar"
+msgstr ""
+
+msgid "Electric Piano"
+msgstr ""
+
+msgid "fade in"
+msgstr ""
+
+msgid "fade out"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "fisheye"
+msgstr "рибино око"
+
+msgid "floor"
+msgstr ""
+
+msgid "Flute"
+msgstr "Флејта-74"
+
+msgid "ghost"
+msgstr "дух"
+
+msgid "Guiro"
+msgstr ""
+
+msgid "Guitar"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr "Ракоплескање-39п"
+
+msgid "hour"
+msgstr ""
+
+msgid "Import"
+msgstr "внеси"
+
+msgid "last"
+msgstr "последно"
+
+msgid "left"
+msgstr "налево"
+
+msgid "left arrow"
+msgstr "стрелка налево"
+
+msgid "left-right"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "light"
+msgstr "светло"
+
+msgid "ln"
+msgstr ""
+
+msgid "log"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "louder"
+msgstr ""
+
+msgid "loudness"
+msgstr ""
+
+msgid "Marimba"
+msgstr "Маримба-13"
+
+msgid "message1"
+msgstr ""
+
+msgid "middle"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "mosaic"
+msgstr "мозаик"
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr "глушец-показател"
+
+msgid "Music Box"
+msgstr "Музичка кутија-11"
+
+msgid "myself"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+#, fuzzy
+msgid "New"
+msgstr "Nouveau"
+
+msgid "New backdrop"
+msgstr ""
+
+msgid "New costume"
+msgstr ""
+
+msgid "new message..."
+msgstr ""
+
+msgid "New sound"
+msgstr ""
+
+msgid "New sprite:"
+msgstr ""
+
+msgid "off"
+msgstr "Исклучено"
+
+msgid "on"
+msgstr "Вклучено"
+
+msgid "on-flipped"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr "Отворена квика-79п"
+
+msgid "Open Hi-Hat"
+msgstr "Отворен хај-хет-46п"
+
+msgid "Organ"
+msgstr ""
+
+msgid "other scripts in sprite"
+msgstr ""
+
+msgid "Paint"
+msgstr "Боење"
+
+msgid "paste"
+msgstr ""
+
+msgid "photo1"
+msgstr ""
+
+msgid "Piano"
+msgstr ""
+
+msgid "pixelate"
+msgstr "поместување на пикселите"
+
+msgid "Pizzicato"
+msgstr ""
+
+msgid "pop"
+msgstr "пап"
+
+msgid "random"
+msgstr ""
+
+msgid "Record"
+msgstr "снимај"
+
+msgid "recording1"
+msgstr ""
+
+msgid "redo"
+msgstr "Повтори"
+
+msgid "Remix"
+msgstr ""
+
+msgid "resistance-A"
+msgstr ""
+
+msgid "resistance-B"
+msgstr ""
+
+msgid "resistance-C"
+msgstr ""
+
+msgid "resistance-D"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "надесно"
+
+msgid "right arrow"
+msgstr "стрелка надесно"
+
+msgid "Saxophone"
+msgstr ""
+
+msgid "say"
+msgstr ""
+
+msgid "Scratch Cat"
+msgstr ""
+
+msgid "second"
+msgstr ""
+
+msgid "See project page"
+msgstr ""
+
+msgid "select all"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "shout"
+msgstr ""
+
+msgid "show receivers"
+msgstr ""
+
+msgid "show senders"
+msgstr ""
+
+msgid "Side Stick"
+msgstr "Странично стапче-37п"
+
+msgid "silence"
+msgstr ""
+
+msgid "sin"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "slider"
+msgstr "лизгач"
+
+msgid "Snare Drum"
+msgstr ""
+
+msgid "softer"
+msgstr ""
+
+msgid "sound"
+msgstr ""
+
+msgid "space"
+msgstr "празно место"
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr "sqrt"
+
+msgid "Stage"
+msgstr "Етапа"
+
+msgid "Steel Drum"
+msgstr ""
+
+msgid "Synth Lead"
+msgstr ""
+
+msgid "Synth Pad"
+msgstr ""
+
+msgid "Tambourine"
+msgstr "Дајре-54п"
+
+msgid "tan"
+msgstr ""
+
+msgid "that way"
+msgstr ""
+
+msgid "think"
+msgstr ""
+
+msgid "this script"
+msgstr ""
+
+msgid "this sprite"
+msgstr ""
+
+msgid "this way"
+msgstr ""
+
+msgid "timer"
+msgstr ""
+
+msgid "Tips"
+msgstr ""
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+
+msgid "top-left"
+msgstr ""
+
+msgid "top-right"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "Trombone"
+msgstr "Тромбон-58"
+
+msgid "undo"
+msgstr "Поништи"
+
+msgid "up"
+msgstr "нагоре"
+
+msgid "up arrow"
+msgstr "стрелка нагоре"
+
+msgid "Vibraphone"
+msgstr "Вибрафон-12"
+
+msgid "Vibraslap"
+msgstr "Самар-58п"
+
+msgid "video motion"
+msgstr ""
+
+msgid "volume"
+msgstr ""
+
+msgid "whirl"
+msgstr "врти"
+
+msgid "whisper"
+msgstr ""
+
+msgid "Wood Block"
+msgstr ""
+
+msgid "Wooden Flute"
+msgstr ""
+
+msgid "x position"
+msgstr ""
+
+msgid "y position"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+#~ msgid "any"
+#~ msgstr "било кој/а"
+
+#~ msgid "High Tom"
+#~ msgstr "Висок том-50п"
+
+#~ msgid "Long Guiro"
+#~ msgstr "Долго виро-74п"
+
+#~ msgid "Low Bongo"
+#~ msgstr "Ниско бонго-61п"
+
+#~ msgid "Low Conga"
+#~ msgstr "Ниска конга-64п"
+
+#~ msgid "Low Tom"
+#~ msgstr "Низок том-45п"
+
+#~ msgid "Low Wood Block"
+#~ msgstr "Ниско дрвено блокче-77п"
+
+#~ msgid "Maracas"
+#~ msgstr "Маракас-70п"
+
+#~ msgid "More"
+#~ msgstr "повеќе"
+
+#~ msgid "Mute Triangle"
+#~ msgstr "Пригушен триаголник-80п"
+
+#~ msgid "Open Triangle"
+#~ msgstr "Отворен триаголник-81п"
+
+#~ msgid "Pedal Hi-Hat"
+#~ msgstr "Педален хај-хет-44п"
+
+#~ msgid "Short Guiro"
+#~ msgstr "Кратко виро-73п"

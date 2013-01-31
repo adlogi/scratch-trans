@@ -1,0 +1,1115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:20+0200\n"
+"PO-Revision-Date: 2013-01-29 20:20+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Ελληνικά"
+
+msgid "%b and %b"
+msgstr "%b και %b"
+
+msgid "%b or %b"
+msgstr "%b ή %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute από %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list περιέχει %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp από %n"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor τιμή αισθητήρα"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "πρόσθεσε %s στο %m.list"
+
+msgid "answer"
+msgstr "απάντηση"
+
+msgid "ask %s and wait"
+msgstr "ρώτησε %s και περίμενε"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "υπόβαθρο #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "μετάδωσε %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "μετάδωσε %m.broadcast και περίμενε"
+
+msgid "change %m.effect effect by %n"
+msgstr "άλλαξε %m.effect εφέ κατά %n"
+
+msgid "change %m.var by %n"
+msgstr "άλλαξε %m.var κατά %n"
+
+msgid "change pen color by %n"
+msgstr "άλλαξε χρώμα πένας κατά %n"
+
+msgid "change pen shade by %n"
+msgstr "άλλαξε σκιά πένας κατά %n"
+
+msgid "change pen size by %n"
+msgstr "άλλαξε μέγεθος πένας κατά %n"
+
+msgid "change size by %n"
+msgstr "άλλαξε μέγεθος κατά %n"
+
+msgid "change tempo by %n"
+msgstr "άλλαξε ρυθμό κατά %n"
+
+msgid "change volume by %n"
+msgstr "άλλαξε ένταση κατά %n"
+
+msgid "change x by %n"
+msgstr "άλλαξε x κατά %n"
+
+msgid "change y by %n"
+msgstr "άλλαξε y κατά %n"
+
+msgid "clear"
+msgstr "καθάρισε"
+
+msgid "clear graphic effects"
+msgstr "καθάρισε τα γραφικά εφέ"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "το χρώμα %c αγγίζει το %c;"
+
+msgid "Control"
+msgstr "Έλεγχος"
+
+msgid "costume #"
+msgstr "ενδυμασία #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "διέγραψε %d.listDeleteItem από το %m.list"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "κατεύθυνση"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "απόσταση έως %m.spriteOrMouse"
+
+msgid "else"
+msgstr "αλλιώς"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "για πάντα"
+
+msgid "forever if %b"
+msgstr "για πάντα εάν %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "κινήσου ομαλά %n δεύτ. στο x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "πήγαινε πίσω %n επίπεδα"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "πήγαινε στο %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "πήγαινε σε πρώτο πλάνο"
+
+msgid "go to x:%n y:%n"
+msgstr "πήγαινε στο x:%n y:%n"
+
+msgid "hide"
+msgstr "απόκρυψη"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b"
+msgstr "εάν %b"
+
+msgid "if on edge, bounce"
+msgstr "εάν στα όρια, αναπήδησε"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "παρέμβαλε το %s στη θέση %d.listItem του %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "στοιχείο %d.listItem του %m.list"
+
+msgid "join %s %s"
+msgstr "ένωσε %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "πατήθηκε πλήκτρο %m.key;"
+
+msgid "length of %m.list"
+msgstr "μήκος του %m.list"
+
+msgid "length of %s"
+msgstr "μήκος του %s"
+
+msgid "letter %n of %s"
+msgstr "γράμμα %n του %s"
+
+msgid "Looks"
+msgstr "Όψεις"
+
+msgid "loudness"
+msgstr "ένταση"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "Κίνηση"
+
+msgid "mouse down?"
+msgstr "πατήθηκε το ποντίκι;"
+
+msgid "mouse x"
+msgstr "ποντίκι x"
+
+msgid "mouse y"
+msgstr "ποντίκι y"
+
+msgid "move %n steps"
+msgstr "κινήσου %n βήματα"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "επόμενο υπόβαθρο"
+
+msgid "next costume"
+msgstr "επόμενη ενδυμασία"
+
+msgid "not %b"
+msgstr "όχι %b"
+
+msgid "Operators"
+msgstr "Τελεστές"
+
+msgid "Pen"
+msgstr "Πένα"
+
+msgid "pen down"
+msgstr "κατέβασε πένα"
+
+msgid "pen up"
+msgstr "σήκωσε πένα"
+
+msgid "pick random %n to %n"
+msgstr "τυχαία επιλογή από %n μέχρι %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "παίξε τύμπανο %d.drum για %n χρόνους"
+
+# 83%
+#, fuzzy
+msgid "play note %d.note for %n beats"
+msgstr "παίξε νότα %d.note για %n χρόνους"
+
+msgid "play sound %m.sound"
+msgstr "παίξε ήχο %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "παίξε ήχο %m.sound μέχρι τέλους"
+
+msgid "point in direction %d.direction"
+msgstr "δείξε στην κατεύθυνση %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "δείξε στο %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "επανάλαβε %n"
+
+msgid "repeat until %b"
+msgstr "επανάλαβε ώσπου %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "αντικατέστησε στοιχείο %d.listItem του %m.list με %s"
+
+msgid "reset timer"
+msgstr "μηδένισε το χρονόμετρο"
+
+msgid "rest for %n beats"
+msgstr "περίμενε για %n χρόνους"
+
+msgid "round %n"
+msgstr "στρογγυλοποίησε το %n"
+
+msgid "say %s"
+msgstr "πες %s"
+
+msgid "say %s for %n secs"
+msgstr "πες %s για %n δευτερόλεπτα"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "Αισθητήρες"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "αισθητήρας %m.booleanSensor;"
+
+msgid "set %m.effect effect to %n"
+msgstr "όρισε το εφέ %m.effect σε %n"
+
+msgid "set %m.var to %s"
+msgstr "όρισε το %m.var σε %n"
+
+msgid "set instrument to %d.instrument"
+msgstr "όρισε το όργανο σε %d.instrument"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "κατεύθυνση κίνησης %m.motorDirection"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "ισχύς κινητήρα %n"
+
+msgid "set pen color to %c"
+msgstr "όρισε το χρώμα πένας σε %c"
+
+msgid "set pen color to %n"
+msgstr "όρισε το χρώμα πένας σε %c"
+
+msgid "set pen shade to %n"
+msgstr "όρισε τη σκιά πένας σε %n"
+
+msgid "set pen size to %n"
+msgstr "όρισε το μέγεθος πένας σε %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr "όρισε το μέγεθος σε %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "όρισε ρυθμό σε %n χτύπους το λεπτό"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "όρισε την ένταση σε %n%"
+
+msgid "set x to %n"
+msgstr "θέσε το x ίσο με %n"
+
+msgid "set y to %n"
+msgstr "θέσε το y ίσο με %n"
+
+msgid "show"
+msgstr "εμφάνισε"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "μέγεθος"
+
+msgid "Sound"
+msgstr "Ήχος"
+
+msgid "stamp"
+msgstr "σφραγίδα"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "σταμάτησε όλους τους ήχους"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "ρυθμός"
+
+msgid "think %s"
+msgstr "σκέψου το %s"
+
+msgid "think %s for %n secs"
+msgstr "σκέψου το %s για %n δευτερόλεπτα"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "χρονόμετρο"
+
+msgid "touching %m.touching?"
+msgstr "αγγίζει το %m.touching;"
+
+msgid "touching color %c?"
+msgstr "αγγίζει το χρώμα %c;"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "κινητήρας ενεργός για %n δευτερόλεπτα"
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "ένταση"
+
+msgid "wait %n secs"
+msgstr "περίμενε %n δευτερόλεπτα"
+
+msgid "wait until %b"
+msgstr "περίμενε ώσπου %b"
+
+# 75%
+#, fuzzy
+msgid "when %m.booleanSensor"
+msgstr "αισθητήρας %m.booleanSensor;"
+
+msgid "when %m.key key pressed"
+msgstr "όταν το πλήκτρο %m.key πατηθεί"
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr "όταν στο @greenFlag γίνει κλίκ"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+msgid "x position"
+msgstr "θέση x"
+
+msgid "y position"
+msgstr "θέση y"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "κατεύθυνση κίνησης %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "κινητήρας ανενεργός"
+
+#~ msgid "motor on"
+#~ msgstr "κινητήρας ενεργός"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "κινητήρας ενεργός για %n δευτερόλεπτα"
+
+#~ msgid "motor power %n"
+#~ msgstr "ισχύς κινητήρα %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "παίξε νότα %d.note για %n χρόνους"
+
+#User Interface
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:51+0200\n"
+"PO-Revision-Date: 2013-01-29 20:51+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "#"
+msgstr ""
+
+msgid "10 ^"
+msgstr ""
+
+msgid "A connected"
+msgstr ""
+
+msgid "abs"
+msgstr "ΑπόλυτηΤιμή"
+
+msgid "acos"
+msgstr ""
+
+msgid "Add a boolean input:"
+msgstr ""
+
+msgid "Add a number input:"
+msgstr ""
+
+msgid "Add a string input:"
+msgstr ""
+
+msgid "add comment"
+msgstr ""
+
+msgid "Add label text:"
+msgstr ""
+
+msgid "all"
+msgstr "όλα"
+
+msgid "all around"
+msgstr ""
+
+msgid "asin"
+msgstr ""
+
+msgid "atan"
+msgstr ""
+
+msgid "B connected"
+msgstr ""
+
+msgid "backdrop #"
+msgstr ""
+
+msgid "backdrop name"
+msgstr ""
+
+msgid "backdrop1"
+msgstr ""
+
+msgid "Backpack"
+msgstr ""
+
+msgid "Bass"
+msgstr ""
+
+msgid "Bass Drum"
+msgstr ""
+
+msgid "Bassoon"
+msgstr "Φαγκότο"
+
+msgid "Bongo"
+msgstr ""
+
+msgid "bottom-left"
+msgstr ""
+
+msgid "bottom-right"
+msgstr ""
+
+msgid "brightness"
+msgstr "φωτεινότητα"
+
+msgid "button pressed"
+msgstr "πατήθηκε κουμπί"
+
+msgid "C connected"
+msgstr ""
+
+msgid "Cabasa"
+msgstr "Καμπάσα"
+
+msgid "Camera"
+msgstr "Κάμερα"
+
+msgid "Cannot Delete"
+msgstr ""
+
+msgid "ceiling"
+msgstr ""
+
+msgid "Cello"
+msgstr "Τσέλο"
+
+msgid "Choir"
+msgstr ""
+
+msgid "Clarinet"
+msgstr "Κλαρινέτο"
+
+msgid "Claves"
+msgstr "Ξυλάκια"
+
+msgid "clear senders/receivers"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr "Κλειστό Χάϊ-χατ"
+
+msgid "color"
+msgstr "χρώμα"
+
+msgid "Conga"
+msgstr ""
+
+msgid "copy"
+msgstr "Αντιγραφή"
+
+msgid "cos"
+msgstr ""
+
+msgid "costume #"
+msgstr ""
+
+msgid "costume name"
+msgstr ""
+
+msgid "costume1"
+msgstr ""
+
+msgid "costume2"
+msgstr ""
+
+msgid "Cowbell"
+msgstr "Κουδούνα αγελάδας"
+
+msgid "Crash Cymbal"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "D connected"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "day of week"
+msgstr ""
+
+msgid "delete"
+msgstr "διαγραφή"
+
+msgid "direction"
+msgstr ""
+
+msgid "don't rotate"
+msgstr ""
+
+msgid "down"
+msgstr "κάτω"
+
+msgid "down arrow"
+msgstr "κάτω βέλος"
+
+msgid "Duplicate"
+msgstr "διπλασίασε"
+
+msgid "duplicate"
+msgstr "διπλασίασε"
+
+msgid "e ^"
+msgstr ""
+
+msgid "edge"
+msgstr "όρια"
+
+msgid "edit"
+msgstr "Επεξεργασία"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Effects"
+msgstr ""
+
+msgid "Electric Guitar"
+msgstr ""
+
+msgid "Electric Piano"
+msgstr ""
+
+msgid "fade in"
+msgstr ""
+
+msgid "fade out"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "fisheye"
+msgstr "μάτι ψαριού"
+
+msgid "floor"
+msgstr ""
+
+msgid "Flute"
+msgstr "Φλάουτο"
+
+msgid "ghost"
+msgstr "φάντασμα"
+
+msgid "Guiro"
+msgstr ""
+
+msgid "Guitar"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr "Χειροκρότημα"
+
+msgid "hour"
+msgstr ""
+
+msgid "Import"
+msgstr "εισαγωγή"
+
+msgid "last"
+msgstr "τελευταίο"
+
+msgid "left"
+msgstr "αριστερά"
+
+msgid "left arrow"
+msgstr "αριστερό βέλος"
+
+msgid "left-right"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "light"
+msgstr "φώς"
+
+msgid "ln"
+msgstr ""
+
+msgid "log"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "louder"
+msgstr ""
+
+msgid "loudness"
+msgstr ""
+
+msgid "Marimba"
+msgstr "Μαρίμπα"
+
+msgid "message1"
+msgstr ""
+
+msgid "middle"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "mosaic"
+msgstr "ψηφιδωτό"
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr "δείκτης ποντικιού"
+
+msgid "Music Box"
+msgstr "Μουσικό Κουτί"
+
+msgid "myself"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+#, fuzzy
+msgid "New"
+msgstr "Nouveau"
+
+msgid "New backdrop"
+msgstr ""
+
+msgid "New costume"
+msgstr ""
+
+msgid "new message..."
+msgstr ""
+
+msgid "New sound"
+msgstr ""
+
+msgid "New sprite:"
+msgstr "Νέα μορφή:"
+
+msgid "off"
+msgstr "Κλειστό"
+
+msgid "on"
+msgstr "Ανοικτό"
+
+msgid "on-flipped"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr "Ανοιχτή Κουίκα"
+
+msgid "Open Hi-Hat"
+msgstr "Ανοιχτό Χάϊ-Χατ"
+
+msgid "Organ"
+msgstr ""
+
+msgid "other scripts in sprite"
+msgstr ""
+
+msgid "Paint"
+msgstr "Ζωγραφική"
+
+msgid "paste"
+msgstr ""
+
+msgid "photo1"
+msgstr ""
+
+msgid "Piano"
+msgstr ""
+
+msgid "pixelate"
+msgstr "εικονοστοιχειοποίηση"
+
+msgid "Pizzicato"
+msgstr ""
+
+msgid "pop"
+msgstr "ανασύρω"
+
+msgid "random"
+msgstr ""
+
+msgid "Record"
+msgstr "ηχογράφηση"
+
+msgid "recording1"
+msgstr ""
+
+msgid "redo"
+msgstr "Ακύρωση αναίρεσης"
+
+msgid "Remix"
+msgstr ""
+
+msgid "resistance-A"
+msgstr ""
+
+msgid "resistance-B"
+msgstr ""
+
+msgid "resistance-C"
+msgstr ""
+
+msgid "resistance-D"
+msgstr ""
+
+msgid "reverse"
+msgstr "ανάστρεψε"
+
+msgid "right"
+msgstr "δεξιά"
+
+msgid "right arrow"
+msgstr "δεξί βέλος"
+
+msgid "Saxophone"
+msgstr ""
+
+msgid "say"
+msgstr ""
+
+msgid "Scratch Cat"
+msgstr ""
+
+msgid "second"
+msgstr ""
+
+msgid "See project page"
+msgstr ""
+
+msgid "select all"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "shout"
+msgstr ""
+
+msgid "show receivers"
+msgstr ""
+
+msgid "show senders"
+msgstr ""
+
+msgid "Side Stick"
+msgstr "Πλευρικό Χτύπημα"
+
+msgid "silence"
+msgstr ""
+
+msgid "sin"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "slider"
+msgstr "γραμμή κύλισης"
+
+msgid "Snare Drum"
+msgstr ""
+
+msgid "softer"
+msgstr ""
+
+msgid "sound"
+msgstr ""
+
+msgid "space"
+msgstr "κενό"
+
+msgid "Sprites"
+msgstr "Μορφές"
+
+msgid "sqrt"
+msgstr "ΤετΡίζα"
+
+msgid "Stage"
+msgstr "Σκηνικό"
+
+msgid "Steel Drum"
+msgstr ""
+
+msgid "Synth Lead"
+msgstr ""
+
+msgid "Synth Pad"
+msgstr ""
+
+msgid "Tambourine"
+msgstr "Ντέφι"
+
+msgid "tan"
+msgstr ""
+
+msgid "that way"
+msgstr "με αυτόν τον τρόπο"
+
+msgid "think"
+msgstr ""
+
+msgid "this script"
+msgstr ""
+
+msgid "this sprite"
+msgstr ""
+
+msgid "this way"
+msgstr "με αυτόν τον τρόπο"
+
+msgid "timer"
+msgstr ""
+
+msgid "Tips"
+msgstr ""
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+
+msgid "top-left"
+msgstr ""
+
+msgid "top-right"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "Trombone"
+msgstr "Τρομπόνι"
+
+msgid "undo"
+msgstr "Αναίρεση"
+
+msgid "up"
+msgstr "πάνω"
+
+msgid "up arrow"
+msgstr "πάνω βέλος"
+
+msgid "Vibraphone"
+msgstr "Μεταλλόφωνο"
+
+msgid "Vibraslap"
+msgstr "Σιαγόνα"
+
+msgid "video motion"
+msgstr ""
+
+msgid "volume"
+msgstr ""
+
+msgid "whirl"
+msgstr "στροβίλισε"
+
+msgid "whisper"
+msgstr ""
+
+msgid "Wood Block"
+msgstr ""
+
+msgid "Wooden Flute"
+msgstr ""
+
+msgid "x position"
+msgstr ""
+
+msgid "y position"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+#~ msgid "any"
+#~ msgstr "οποιοδήποτε"
+
+#~ msgid "High Tom"
+#~ msgstr "Υψίφωνο Τομ"
+
+#~ msgid "Long Guiro"
+#~ msgstr "Μακρύχρονο Γκουίρο"
+
+#~ msgid "Low Bongo"
+#~ msgstr "Βαθύφωνο Μπόγκο"
+
+#~ msgid "Low Conga"
+#~ msgstr "Βαθύφωνη Κόγκα"
+
+#~ msgid "Low Tom"
+#~ msgstr "Βαθύφωνο Τομ"
+
+#~ msgid "Low Wood Block"
+#~ msgstr "Βαθύφωνο Κυβόφωνο"
+
+#~ msgid "Maracas"
+#~ msgstr "Μαράκες"
+
+#~ msgid "More"
+#~ msgstr "περισσότερα"
+
+#~ msgid "Mute Triangle"
+#~ msgstr "Φιμωμένο Τρίγωνο"
+
+#~ msgid "Open Triangle"
+#~ msgstr "Ανοιχτό Τρίγωνο"
+
+#~ msgid "Pedal Hi-Hat"
+#~ msgstr "Χάϊ Χατ με πεντάλ"
+
+#~ msgid "Short Guiro"
+#~ msgstr "Βραχύχρονο Γκουίρο"

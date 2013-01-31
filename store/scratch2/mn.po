@@ -1,0 +1,1115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"PO-Revision-Date: 2013-01-29 20:21+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Монгол хэл"
+
+msgid "%b and %b"
+msgstr "%b ба %b"
+
+msgid "%b or %b"
+msgstr "%b буюу %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute -н %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%s нь %m.list -г агуулдаг"
+
+msgid "%m.mathOp of %n"
+msgstr "%n-н %m.mathOp"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor мэдрэгчийн утга"
+
+msgid "%n mod %n"
+msgstr "үлдэгдэл(%n / %n)"
+
+msgid "add %s to %m.list"
+msgstr "%m.list нэмэх нь %s"
+
+msgid "answer"
+msgstr "Хариулт"
+
+msgid "ask %s and wait"
+msgstr "%s-г асуугаад хүлээ"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "# дэвсгэр"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "%m.broadcast -г дууд"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "%m.broadcast -г дуудаад хүлээ"
+
+msgid "change %m.effect effect by %n"
+msgstr "%m.effect нөлөөг %n -р өөрчил"
+
+msgid "change %m.var by %n"
+msgstr "%m.var -г %n -р өөрчил"
+
+msgid "change pen color by %n"
+msgstr "зурах өнгийг %n -р өөрчил"
+
+msgid "change pen shade by %n"
+msgstr "сүүдрийг %n -р өөрчил"
+
+msgid "change pen size by %n"
+msgstr "зурах хэмжээг %n -р өөрчил"
+
+msgid "change size by %n"
+msgstr "хэмжээг %n -р өөрчил"
+
+msgid "change tempo by %n"
+msgstr "хэмнэлийг %n -р өөрчил"
+
+msgid "change volume by %n"
+msgstr "дууны эрчийг %n-р өөрчил"
+
+msgid "change x by %n"
+msgstr "x утгыг %n -р өөрчил"
+
+msgid "change y by %n"
+msgstr "y утгыг %n -р өөрчил"
+
+msgid "clear"
+msgstr "арилга"
+
+msgid "clear graphic effects"
+msgstr "дүрсний нөлөөг арилга"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "%c өнгө %c өнгөнд хүрсэн"
+
+msgid "Control"
+msgstr "Хянахуй"
+
+msgid "costume #"
+msgstr "өмсгөл #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "%m.list-н %d.listDeleteItem-г устга "
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "чиглэл"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse хүрэх зай"
+
+msgid "else"
+msgstr "эсвэл"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "Үргэлж"
+
+msgid "forever if %b"
+msgstr "%b нь үнэн бол үргэлж"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n секундэд x:%n y:%n цэг рүү гулс"
+
+msgid "go back %n layers"
+msgstr "%n давхаргын цаана ор"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse-руу оч"
+
+msgid "go to front"
+msgstr "Эхний давхарга болго"
+
+msgid "go to x:%n y:%n"
+msgstr "x:%n y:%n цэгт оч"
+
+msgid "hide"
+msgstr "нуугд"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b"
+msgstr "хэрэв %b үнэн бол"
+
+msgid "if on edge, bounce"
+msgstr "Ирмэг бол ой"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "%m.list-н %d.listItem-с %s-г оруул"
+
+msgid "item %d.listItem of %m.list"
+msgstr "%m.list-н %d.listItem юмс"
+
+msgid "join %s %s"
+msgstr "%s-г %s-т залга "
+
+msgid "key %m.key pressed?"
+msgstr "%m.key товч уу?"
+
+msgid "length of %m.list"
+msgstr "%m.list-н урт"
+
+msgid "length of %s"
+msgstr "%s-н урт"
+
+msgid "letter %n of %s"
+msgstr "%s-н %n-р үсэг"
+
+msgid "Looks"
+msgstr "Үзэгдэхүй"
+
+msgid "loudness"
+msgstr "Дуу чангаруулвал"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "Хөдлөхүй"
+
+msgid "mouse down?"
+msgstr "хулгана дарагдсан"
+
+msgid "mouse x"
+msgstr "хулганы x -р"
+
+msgid "mouse y"
+msgstr "хулганы y -р"
+
+msgid "move %n steps"
+msgstr "%n алхам яв"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "дараах дэвсгэр"
+
+msgid "next costume"
+msgstr "дараах өмсгөл"
+
+msgid "not %b"
+msgstr "%b биш бол"
+
+msgid "Operators"
+msgstr "Тоолохуй"
+
+msgid "Pen"
+msgstr "Үзэг"
+
+msgid "pen down"
+msgstr "зур"
+
+msgid "pen up"
+msgstr "зурахаа боль"
+
+msgid "pick random %n to %n"
+msgstr "%n-с %n-н хооронд санамсаргүй тоо ав"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "%n хэмээр %d.drum бөмбөрийг цохь"
+
+# 83%
+#, fuzzy
+msgid "play note %d.note for %n beats"
+msgstr "%n хэмээр %d.note нот тогло"
+
+msgid "play sound %m.sound"
+msgstr "%m.sound дууг гарга"
+
+msgid "play sound %m.sound until done"
+msgstr "%m.sound-г дуустал дуугарга"
+
+msgid "point in direction %d.direction"
+msgstr "чигийг %d.direction-р эргүүл"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse руу эргэ"
+
+msgid "repeat %n"
+msgstr "%n удаа давта"
+
+msgid "repeat until %b"
+msgstr "%b болтол давта"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "%s-тай %m.list-н %d.listItem-г соль"
+
+msgid "reset timer"
+msgstr "тоолуурыг 0 болго"
+
+msgid "rest for %n beats"
+msgstr "%n хэмтэй үлдээ"
+
+msgid "round %n"
+msgstr "%n-р тоймло"
+
+msgid "say %s"
+msgstr "%s-г хэл"
+
+msgid "say %s for %n secs"
+msgstr "%s-г %n секундэд хэл"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "Мэдрэхүй"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "%m.booleanSensor мэдэр?"
+
+msgid "set %m.effect effect to %n"
+msgstr "%m.effect нөлөөг %n болго"
+
+msgid "set %m.var to %s"
+msgstr "%m.var -г %n болго"
+
+msgid "set instrument to %d.instrument"
+msgstr "%d.instrument хөгжим сонго"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "%m.motorDirection хөдөлгүүрийн чиг"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "хөдөлгүүр %n чадалтай"
+
+msgid "set pen color to %c"
+msgstr "зурах өнгийг %c болго"
+
+msgid "set pen color to %n"
+msgstr "зурах өнгийг %c болго"
+
+msgid "set pen shade to %n"
+msgstr "сүүдрийг %n болго"
+
+msgid "set pen size to %n"
+msgstr "зурах хэмжээг %n болго"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr "хэмжээг %n% болго"
+
+msgid "set tempo to %n bpm"
+msgstr "хэмийг %n цохилт/мин болго"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "дууны хүчийг %n% болго"
+
+msgid "set x to %n"
+msgstr "x тэнхлэг %n"
+
+msgid "set y to %n"
+msgstr "у тэнхлэг %n"
+
+msgid "show"
+msgstr "харагд"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "хэмжээ"
+
+msgid "Sound"
+msgstr "Сонсогдохуй"
+
+msgid "stamp"
+msgstr "дардас"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "чимээгүй бол"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "хэм"
+
+msgid "think %s"
+msgstr "%s -г бод"
+
+msgid "think %s for %n secs"
+msgstr "%s секундэд %n -г бод"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "тоолуур"
+
+msgid "touching %m.touching?"
+msgstr "%m.touching -д хүрсэн"
+
+msgid "touching color %c?"
+msgstr "%c өнгөнд хүрсэн"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "%n секунд хөдөлгүүр асаах"
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "дууны эрч"
+
+msgid "wait %n secs"
+msgstr "%n секунд хүлээ"
+
+msgid "wait until %b"
+msgstr "%b болтол хүлээ"
+
+# 75%
+#, fuzzy
+msgid "when %m.booleanSensor"
+msgstr "%m.booleanSensor мэдэр?"
+
+msgid "when %m.key key pressed"
+msgstr "хэзээ %m.key дарагдсан"
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr "хэзээ @greenFlag дарагдвал"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+msgid "x position"
+msgstr "x - утга"
+
+msgid "y position"
+msgstr "y - утга"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "%m.motorDirection хөдөлгүүрийн чиг"
+
+#~ msgid "motor off"
+#~ msgstr "хөдөлгүүр унтраах"
+
+#~ msgid "motor on"
+#~ msgstr "хөдөлгүүр асаах"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "%n секунд хөдөлгүүр асаах"
+
+#~ msgid "motor power %n"
+#~ msgstr "хөдөлгүүр %n чадалтай"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "%n хэмээр %d.note нот тогло"
+
+#User Interface
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:52+0200\n"
+"PO-Revision-Date: 2013-01-29 20:52+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "#"
+msgstr ""
+
+msgid "10 ^"
+msgstr ""
+
+msgid "A connected"
+msgstr ""
+
+msgid "abs"
+msgstr "abs"
+
+msgid "acos"
+msgstr ""
+
+msgid "Add a boolean input:"
+msgstr ""
+
+msgid "Add a number input:"
+msgstr ""
+
+msgid "Add a string input:"
+msgstr ""
+
+msgid "add comment"
+msgstr ""
+
+msgid "Add label text:"
+msgstr ""
+
+msgid "all"
+msgstr "бүгд"
+
+msgid "all around"
+msgstr ""
+
+msgid "asin"
+msgstr ""
+
+msgid "atan"
+msgstr ""
+
+msgid "B connected"
+msgstr ""
+
+msgid "backdrop #"
+msgstr ""
+
+msgid "backdrop name"
+msgstr ""
+
+msgid "backdrop1"
+msgstr ""
+
+msgid "Backpack"
+msgstr ""
+
+msgid "Bass"
+msgstr ""
+
+msgid "Bass Drum"
+msgstr ""
+
+msgid "Bassoon"
+msgstr "Бишгүүр"
+
+msgid "Bongo"
+msgstr ""
+
+msgid "bottom-left"
+msgstr ""
+
+msgid "bottom-right"
+msgstr ""
+
+msgid "brightness"
+msgstr "гэрэлтэлт"
+
+msgid "button pressed"
+msgstr "товчлуур дарагдсан"
+
+msgid "C connected"
+msgstr ""
+
+msgid "Cabasa"
+msgstr "Кабаса"
+
+msgid "Camera"
+msgstr "Камер"
+
+msgid "Cannot Delete"
+msgstr ""
+
+msgid "ceiling"
+msgstr ""
+
+msgid "Cello"
+msgstr "Морин хуур"
+
+msgid "Choir"
+msgstr ""
+
+msgid "Clarinet"
+msgstr "Кларнет"
+
+msgid "Claves"
+msgstr "Клавесин"
+
+msgid "clear senders/receivers"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr "Closed Hi-Hat"
+
+msgid "color"
+msgstr "өнгө"
+
+msgid "Conga"
+msgstr ""
+
+msgid "copy"
+msgstr "Хувилах"
+
+msgid "cos"
+msgstr ""
+
+msgid "costume #"
+msgstr ""
+
+msgid "costume name"
+msgstr ""
+
+msgid "costume1"
+msgstr ""
+
+msgid "costume2"
+msgstr ""
+
+msgid "Cowbell"
+msgstr "Хонх"
+
+msgid "Crash Cymbal"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "D connected"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "day of week"
+msgstr ""
+
+msgid "delete"
+msgstr "устга"
+
+msgid "direction"
+msgstr ""
+
+msgid "don't rotate"
+msgstr ""
+
+msgid "down"
+msgstr "доошоо"
+
+msgid "down arrow"
+msgstr "доошоо сум"
+
+msgid "Duplicate"
+msgstr "хувил"
+
+msgid "duplicate"
+msgstr "хувил"
+
+msgid "e ^"
+msgstr ""
+
+msgid "edge"
+msgstr "ирмэг"
+
+msgid "edit"
+msgstr "Засах"
+
+msgid "Edit"
+msgstr "Засах"
+
+msgid "Effects"
+msgstr ""
+
+msgid "Electric Guitar"
+msgstr ""
+
+msgid "Electric Piano"
+msgstr ""
+
+msgid "fade in"
+msgstr ""
+
+msgid "fade out"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "fisheye"
+msgstr "загасан нүд"
+
+msgid "floor"
+msgstr ""
+
+msgid "Flute"
+msgstr "Лимбэ"
+
+msgid "ghost"
+msgstr "сүнс"
+
+msgid "Guiro"
+msgstr ""
+
+msgid "Guitar"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr "Алга ташилтын дуу"
+
+msgid "hour"
+msgstr ""
+
+msgid "Import"
+msgstr "оруулагч"
+
+msgid "last"
+msgstr "сүүлчийн"
+
+msgid "left"
+msgstr "зүүн"
+
+msgid "left arrow"
+msgstr "зүүн сум"
+
+msgid "left-right"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "light"
+msgstr "гэрэл"
+
+msgid "ln"
+msgstr ""
+
+msgid "log"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "louder"
+msgstr ""
+
+msgid "loudness"
+msgstr ""
+
+msgid "Marimba"
+msgstr "Маримба"
+
+msgid "message1"
+msgstr ""
+
+msgid "middle"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "mosaic"
+msgstr "хээ"
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr "хулганы заагч"
+
+msgid "Music Box"
+msgstr "Хөгжмийн хайрцаг"
+
+msgid "myself"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+#, fuzzy
+msgid "New"
+msgstr "Nouveau"
+
+msgid "New backdrop"
+msgstr ""
+
+msgid "New costume"
+msgstr ""
+
+msgid "new message..."
+msgstr ""
+
+msgid "New sound"
+msgstr ""
+
+msgid "New sprite:"
+msgstr "шинэ дүрс"
+
+msgid "off"
+msgstr "Салга"
+
+msgid "on"
+msgstr "Залга"
+
+msgid "on-flipped"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr "Нээлттэй куика"
+
+msgid "Open Hi-Hat"
+msgstr "Open Hi-Hat"
+
+msgid "Organ"
+msgstr ""
+
+msgid "other scripts in sprite"
+msgstr ""
+
+msgid "Paint"
+msgstr "Будах"
+
+msgid "paste"
+msgstr ""
+
+msgid "photo1"
+msgstr ""
+
+msgid "Piano"
+msgstr ""
+
+msgid "pixelate"
+msgstr "Цэгийг томсгох"
+
+msgid "Pizzicato"
+msgstr ""
+
+msgid "pop"
+msgstr "поп"
+
+msgid "random"
+msgstr ""
+
+msgid "Record"
+msgstr "бичлэг"
+
+msgid "recording1"
+msgstr ""
+
+msgid "redo"
+msgstr "Цуцлах"
+
+msgid "Remix"
+msgstr ""
+
+msgid "resistance-A"
+msgstr ""
+
+msgid "resistance-B"
+msgstr ""
+
+msgid "resistance-C"
+msgstr ""
+
+msgid "resistance-D"
+msgstr ""
+
+msgid "reverse"
+msgstr "гэдрэг"
+
+msgid "right"
+msgstr "баруун"
+
+msgid "right arrow"
+msgstr "баруун сум"
+
+msgid "Saxophone"
+msgstr ""
+
+msgid "say"
+msgstr ""
+
+msgid "Scratch Cat"
+msgstr ""
+
+msgid "second"
+msgstr ""
+
+msgid "See project page"
+msgstr ""
+
+msgid "select all"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "shout"
+msgstr ""
+
+msgid "show receivers"
+msgstr ""
+
+msgid "show senders"
+msgstr ""
+
+msgid "Side Stick"
+msgstr "Side Stick"
+
+msgid "silence"
+msgstr ""
+
+msgid "sin"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "slider"
+msgstr "Хөшүүрэг"
+
+msgid "Snare Drum"
+msgstr ""
+
+msgid "softer"
+msgstr ""
+
+msgid "sound"
+msgstr ""
+
+msgid "space"
+msgstr "спейс"
+
+msgid "Sprites"
+msgstr "Дүрснүүд"
+
+msgid "sqrt"
+msgstr "квадрат язгуур"
+
+msgid "Stage"
+msgstr "Тайз"
+
+msgid "Steel Drum"
+msgstr ""
+
+msgid "Synth Lead"
+msgstr ""
+
+msgid "Synth Pad"
+msgstr ""
+
+msgid "Tambourine"
+msgstr "Тамбурин"
+
+msgid "tan"
+msgstr ""
+
+msgid "that way"
+msgstr "тэрүүгээр"
+
+msgid "think"
+msgstr ""
+
+msgid "this script"
+msgstr ""
+
+msgid "this sprite"
+msgstr ""
+
+msgid "this way"
+msgstr "тэр зам"
+
+msgid "timer"
+msgstr ""
+
+msgid "Tips"
+msgstr ""
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+
+msgid "top-left"
+msgstr ""
+
+msgid "top-right"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "Trombone"
+msgstr "Тромбон"
+
+msgid "undo"
+msgstr "Сэргээх"
+
+msgid "up"
+msgstr "дээш"
+
+msgid "up arrow"
+msgstr "дээш сум"
+
+msgid "Vibraphone"
+msgstr "Вибрафон"
+
+msgid "Vibraslap"
+msgstr "Вибро слэп"
+
+msgid "video motion"
+msgstr ""
+
+msgid "volume"
+msgstr ""
+
+msgid "whirl"
+msgstr "мушгих"
+
+msgid "whisper"
+msgstr ""
+
+msgid "Wood Block"
+msgstr ""
+
+msgid "Wooden Flute"
+msgstr ""
+
+msgid "x position"
+msgstr ""
+
+msgid "y position"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+#~ msgid "any"
+#~ msgstr "аливаа"
+
+#~ msgid "High Tom"
+#~ msgstr "Өндөр Том"
+
+#~ msgid "Long Guiro"
+#~ msgstr "Урт гуиро"
+
+#~ msgid "Low Bongo"
+#~ msgstr "Нам бонго"
+
+#~ msgid "Low Conga"
+#~ msgstr "Нам конга "
+
+#~ msgid "Low Tom"
+#~ msgstr "Нам томтом"
+
+#~ msgid "Low Wood Block"
+#~ msgstr "Low Wood Block"
+
+#~ msgid "Maracas"
+#~ msgstr "Маракас"
+
+#~ msgid "More"
+#~ msgstr "үргэлжлэл"
+
+#~ msgid "Mute Triangle"
+#~ msgstr "Mute Triangle"
+
+#~ msgid "Open Triangle"
+#~ msgstr "Задгай гурвалжин"
+
+#~ msgid "Pedal Hi-Hat"
+#~ msgstr "Хэт (гишгүүрт) "
+
+#~ msgid "Short Guiro"
+#~ msgstr "Богино гуиро"
