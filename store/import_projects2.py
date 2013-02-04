@@ -1,7 +1,9 @@
 """
-this script copies .po files from their prospective language directories in
-translation projects, and creates a list of language names (lang_list.txt).
-Merge the blocks and editor files into one.
+this script merges po files from their language directories (blocks, editor) in
+translation projects.
+It imports po files from 'django' directory and arranges them in a proper
+directory tree for django.
+It creates a list of language names (lang_list.txt).
 
 --adlogi@media
 """
@@ -9,7 +11,7 @@ Merge the blocks and editor files into one.
 import os, os.path
 import shutil
 
-def importProject():
+def importProject_editor():
 	if not os.path.exists('scratch2'):
 		os.makedirs('scratch2')
 	blocksPath = os.path.join(os.getcwd(), '..', 'blocks')
@@ -22,13 +24,32 @@ def importProject():
 			print dname
 			for fname in os.listdir(subpath):
 				if fname.endswith(".po"):
-					f1name = os.path.join(subpath, fname)
-					f2name = os.path.join(editorPath, dname, fname)
+					f1name = os.path.join(subpath, 'blocks.po')
+					f2name = os.path.join(editorPath, dname, 'editor.po')
 					print f1name
 					print f2name
-					content = open(f1name).read() + '\n#User Interface\n' + open(f2name).read()
-					open(os.path.join('scratch2', fname),'wb').write(content)
+					uiHeader = '\n##################\n# User Interface #\n##################\n'
+					content = open(f1name).read() + uiHeader + open(f2name).read()
+					langCode = dname + '.po'
+					open(os.path.join('scratch2', langCode),'wb').write(content)
 					#shutil.copy2(fname, projectName)
+
+def importProject_django():
+	localeDir = 'locale'
+	#if not os.path.exists(localeDir):
+	#	os.makedirs(localeDir)
+	djangoPath = os.path.join(os.getcwd(), '..', 'django')
+	shutil.copytree(djangoPath, localeDir)
+	dirList = os.listdir(localeDir)
+	for dname in dirList:
+		subpath = os.path.join(localeDir, dname)
+		if os.path.isdir(subpath):
+			os.makedirs(os.path.join(subpath, 'LC_MESSAGES'))
+			#print dname
+			for fname in os.listdir(subpath):
+				if fname.endswith(".po"):
+					f1name = os.path.join(subpath, fname)
+					shutil.move(f1name, os.path.join(subpath, 'LC_MESSAGES'))
 
 def generateLanguagesList():
 	print 'Generating language list'
