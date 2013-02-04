@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2012-12-31 11:41+0200\n"
+"PO-Revision-Date: 2013-01-31 22:59+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -13,11 +13,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
 
+#, fuzzy
 msgid "#"
-msgstr ""
+msgstr "Nummer"
 
 msgid "10 ^"
-msgstr ""
+msgstr "10^"
 
 # sensor board
 msgid "A connected"
@@ -39,7 +40,7 @@ msgid "Add a string input:"
 msgstr "Füge Texteingabefeld hinzu:"
 
 msgid "add comment"
-msgstr ""
+msgstr "Kommentar hinzufügen"
 
 msgid "Add label text:"
 msgstr "Füge Beschriftungstext hinzu:"
@@ -47,8 +48,9 @@ msgstr "Füge Beschriftungstext hinzu:"
 msgid "all"
 msgstr "alles"
 
+# Drehtyp
 msgid "all around"
-msgstr ""
+msgstr "rundherum"
 
 msgid "asin"
 msgstr "asin"
@@ -77,13 +79,13 @@ msgid "Bass"
 msgstr "Bass"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Basstrommel"
 
 msgid "Bassoon"
 msgstr "Fagott"
 
 msgid "Bongo"
-msgstr ""
+msgstr "Bongo"
 
 msgid "bottom-left"
 msgstr "links unten"
@@ -137,7 +139,7 @@ msgid "color"
 msgstr "Farbe"
 
 msgid "Conga"
-msgstr ""
+msgstr "Conga"
 
 msgid "copy"
 msgstr "Kopieren"
@@ -155,9 +157,8 @@ msgid "costume1"
 msgstr "Kostüm1"
 
 # 87%
-#, fuzzy
 msgid "costume2"
-msgstr "Kostüm1"
+msgstr "Kostüm2"
 
 msgid "Cowbell"
 msgstr "Kuhglocke"
@@ -184,8 +185,9 @@ msgstr "Löschen"
 msgid "direction"
 msgstr "Richtung"
 
+# Drehtyp
 msgid "don't rotate"
-msgstr ""
+msgstr "nicht drehen"
 
 msgid "down"
 msgstr "unten"
@@ -228,8 +230,9 @@ msgstr "einblenden"
 msgid "fade out"
 msgstr "ausblenden"
 
+#, fuzzy
 msgid "File"
-msgstr ""
+msgstr "Datei"
 
 msgid "fisheye"
 msgstr "Fischauge"
@@ -244,7 +247,7 @@ msgid "ghost"
 msgstr "Durchsichtigkeit"
 
 msgid "Guiro"
-msgstr ""
+msgstr "Guiro"
 
 msgid "Guitar"
 msgstr "Gitarre"
@@ -267,15 +270,16 @@ msgstr "links"
 msgid "left arrow"
 msgstr "Pfeil nach links"
 
+# Drehtyp
 msgid "left-right"
-msgstr ""
+msgstr "links-rechts"
 
 msgid "Library"
 msgstr "Bibliothek"
 
-#, fuzzy
+# Sensor
 msgid "light"
-msgstr "Licht"
+msgstr "Helligkeit"
 
 msgid "ln"
 msgstr "ln"
@@ -291,7 +295,7 @@ msgid "louder"
 msgstr "lauter"
 
 msgid "loudness"
-msgstr ""
+msgstr "Lautstärke"
 
 msgid "Marimba"
 msgstr "Marimba"
@@ -320,15 +324,15 @@ msgstr "Mauszeiger"
 msgid "Music Box"
 msgstr "Musikbox"
 
+#, fuzzy
 msgid "myself"
-msgstr ""
+msgstr "ich selbst"
 
 msgid "name"
 msgstr "Name"
 
-#, fuzzy
 msgid "New"
-msgstr "Nouveau"
+msgstr "Neu"
 
 msgid "New backdrop"
 msgstr "Neues Bühnenbild"
@@ -368,9 +372,8 @@ msgid "Organ"
 msgstr "Orgel"
 
 # 82%
-#, fuzzy
 msgid "other scripts in sprite"
-msgstr "andere Skripte der Bühne"
+msgstr "andere Skripte der Figur"
 
 msgid "Paint"
 msgstr "Malen"
@@ -393,8 +396,9 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "Plopp"
 
+#, fuzzy
 msgid "random"
-msgstr ""
+msgstr "Zufall"
 
 msgid "Record"
 msgstr "Aufnehmen"
@@ -422,7 +426,7 @@ msgid "resistance-D"
 msgstr "Widerstand-D"
 
 msgid "reverse"
-msgstr "umkehren"
+msgstr "umgekehrt"
 
 msgid "right"
 msgstr "rechts"
@@ -437,7 +441,7 @@ msgid "say"
 msgstr "sage"
 
 msgid "Scratch Cat"
-msgstr ""
+msgstr "Scratch-Katze"
 
 msgid "second"
 msgstr "Sekunde"
@@ -449,7 +453,7 @@ msgid "select all"
 msgstr "Alles auswählen"
 
 msgid "Share"
-msgstr ""
+msgstr "Veröffentlichen"
 
 #, fuzzy
 msgid "shout"
@@ -515,8 +519,9 @@ msgstr "Tamburin"
 msgid "tan"
 msgstr "tan"
 
+# Motordrehsinn
 msgid "that way"
-msgstr "in jene Richtung"
+msgstr "andersherum"
 
 msgid "think"
 msgstr "denke"
@@ -525,13 +530,14 @@ msgid "this script"
 msgstr "dieses Skript"
 
 msgid "this sprite"
-msgstr ""
+msgstr "diese Figur"
 
+# Motordrehsinn
 msgid "this way"
-msgstr "in diese Richtung"
+msgstr "soherum"
 
 msgid "timer"
-msgstr ""
+msgstr "Stoppuhr"
 
 msgid "Tips"
 msgstr "Tipps"
@@ -548,7 +554,7 @@ msgid "top-right"
 msgstr "rechts oben"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Posaune"
@@ -582,7 +588,7 @@ msgid "whisper"
 msgstr "flüstern"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Holzblock"
 
 msgid "Wooden Flute"
 msgstr "Blockflöte"

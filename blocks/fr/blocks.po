@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:21+0200\n"
-"PO-Revision-Date: 2013-01-29 19:42+0200\n"
+"PO-Revision-Date: 2013-02-01 17:23+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -24,7 +24,7 @@ msgid "%b or %b"
 msgstr "%b ou %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribut de %m.spriteOrStage"
+msgstr "%m.attribute de %m.spriteOrStage"
 
 msgid "%m.list contains %s"
 msgstr "%m.list contient %s"
@@ -36,7 +36,7 @@ msgid "%m.sensor sensor value"
 msgstr "valeur du capteur %m.sensor"
 
 msgid "%n mod %n"
-msgstr "%n mod %n"
+msgstr "%n modulo %n"
 
 msgid "add %s to %m.list"
 msgstr "ajouter %s à %m.list"
@@ -62,10 +62,10 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "envoyer à tous %m.broadcast et attendre"
 
 msgid "change %m.effect effect by %n"
-msgstr "ajouter %n à l’effet %m.effect"
+msgstr "ajouter à l'effet %m.effect %n"
 
 msgid "change %m.var by %n"
-msgstr "ajouter %n à %m.var "
+msgstr "ajouter à %m.var %n"
 
 msgid "change pen color by %n"
 msgstr "ajouter %n à couleur du stylo"
@@ -170,10 +170,10 @@ msgid "hide all sprites"
 msgstr "cacher tous les lutins"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "cacher la liste %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "cacher la variable %m.var"
 
 msgid "if %b"
 msgstr "si %b"
@@ -255,7 +255,6 @@ msgid "play drum %d.drum for %n beats"
 msgstr "jouer du tambour %d.drum pendant %n temps"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "jouer la note %d.note pendant %n temps"
 
@@ -308,18 +307,16 @@ msgid "set %m.effect effect to %n"
 msgstr "mettre l'effet %m.effect à %n"
 
 msgid "set %m.var to %s"
-msgstr "%m.var prend la valeur %n"
+msgstr "mettre %m.var à %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "choisir l'instrument n° %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "choisir la direction du moteur %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
 msgstr "mettre la puissance du moteur à %n"
 
@@ -327,7 +324,7 @@ msgid "set pen color to %c"
 msgstr "choisir la couleur %c pour le stylo"
 
 msgid "set pen color to %n"
-msgstr "choisir la couleur %c pour le stylo"
+msgstr "mettre la couleur du stylo à %n"
 
 msgid "set pen shade to %n"
 msgstr "choisir l'intensité %n pour le stylo"
@@ -336,7 +333,7 @@ msgid "set pen size to %n"
 msgstr "choisir la taille %n pour le stylo"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "choisir le style de rotation %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "mettre à %n % de la taille initiale"
@@ -360,10 +357,10 @@ msgid "show"
 msgstr "montrer"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "montrer la liste %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "montrer la variable %m.var"
 
 msgid "size"
 msgstr "taille"
@@ -413,19 +410,18 @@ msgid "touching color %c?"
 msgstr "couleur %c touchée?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "tourner de %n degrés @turnLeft"
+msgstr "tourner @turnLeft de %n degrés"
 
 msgid "turn @turnRight %n degrees"
-msgstr "tourner de %n degrés @turnRight"
+msgstr "tourner @turnRight de %n degrés"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "arrêter le moteur"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "lancer le moteur"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "lancer le moteur pour %n secs"
 
@@ -448,15 +444,14 @@ msgid "wait until %b"
 msgstr "attendre jusqu’à %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "capteur %m.booleanSensor activé?"
+msgstr "quand %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "quand %m.key est pressé"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "quand %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "quand @greenFlag pressé"
@@ -466,16 +461,16 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "quand l'arrière-plan bascule sur %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "quand la distance < %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "quand je reçois %m.broadcast"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "quand ce lutin est cliqué"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "quand inclinaison = %n"
 
 msgid "x position"
 msgstr "position x"

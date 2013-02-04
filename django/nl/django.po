@@ -3,86 +3,86 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 23:09+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-02-01 22:25+0200\n"
+"Last-Translator: Piers Titus <pierstitus@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
 
 #: templates/account_settings.html:6
 msgid "Account Settings -  Scratch"
-msgstr ""
+msgstr "Accountinstellingen -  Scratch"
 
 #: templates/account_settings.html:12
 #: templates/explore/explore_new_version_coming.html:12
 msgid "Coming Soon..."
-msgstr ""
+msgstr "Komt binnenkort..."
 
 #: templates/base.html:136
 msgid "Create"
-msgstr ""
+msgstr "Maak"
 
 #: templates/base.html:137 templates/explore/explore2.html:40
 msgid "Explore"
-msgstr ""
+msgstr "Ontdek"
 
 #: templates/base.html:138
 msgid "Discuss"
-msgstr ""
+msgstr "Overleg"
 
 #: templates/base.html:139
 msgid "Help"
-msgstr ""
+msgstr "Hulp"
 
 #: templates/base.html:170
 msgid "Profile"
-msgstr ""
+msgstr "Profiel"
 
 #: templates/base.html:171 templates/studio/base.html:21
 msgid "My Stuff"
-msgstr ""
+msgstr "Mijn dingen"
 
 #: templates/base.html:172
 msgid "Account settings"
-msgstr ""
+msgstr "Accountinstellingen"
 
 #: templates/base.html:173
 msgid "Sign out"
-msgstr ""
+msgstr "Afmelden"
 
 #: templates/base.html:179 templates/base.html.py:187
 #: templates/modal-login.html:10
 msgid "Login"
-msgstr ""
+msgstr "Aanmelden"
 
 #: templates/base.html:183 templates/modal-login.html:14
 msgid "Username"
-msgstr ""
+msgstr "Gebruikersnaam"
 
 #: templates/base.html:185 templates/modal-login.html:21
 msgid "Password"
-msgstr ""
+msgstr "Wachtwoord"
 
 #: templates/base.html:234
 msgid "About"
-msgstr ""
+msgstr "Info"
 
 #: templates/base.html:235
 msgid "Educators"
-msgstr ""
+msgstr "Onderwijzers"
 
 #: templates/base.html:236
 msgid "Parents"
-msgstr ""
+msgstr "Ouders"
 
 #: templates/base.html:237
 msgid "Community Guidelines"
@@ -90,30 +90,32 @@ msgstr ""
 
 #: templates/base.html:238
 msgid "Contact us"
-msgstr ""
+msgstr "Neem contact met ons op"
 
 #: templates/base.html:240
 msgid ""
 "Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab"
 msgstr ""
+"Scratch is een project van de Lifelong Kindergarten Group van het MIT Media "
+"Lab"
 
 #: templates/modal-login.html:31
 msgid "Sign in"
-msgstr ""
+msgstr "Aanmelden"
 
 #: templates/password_required_login.html:31
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 #: templates/carousel/carousel.html:10 templates/carousel/carousel.html:12
 #: templates/carousel/carousel.html:14 templates/carousel/carousel.html:16
 #: templates/carousel/carousel.html:18
 msgid "View all"
-msgstr ""
+msgstr "Alles weergeven"
 
 #: templates/carousel/carousel.html:52
 msgid "No items"
-msgstr ""
+msgstr "Geen elementen"
 
 #: templates/carousel/includes/project-thumb.html:12
 #: templates/explore/explore2.html:54
@@ -127,51 +129,51 @@ msgstr ""
 #: templates/projects/base.html:48 templates/projects/base.html.py:194
 #: templates/projects/includes/project_list.html:11
 msgid "by"
-msgstr ""
+msgstr "door"
 
 #: templates/comments/comment_module.html:10
 msgid "Leave a comment"
-msgstr ""
+msgstr "Opmerking plaatsen"
 
 #: templates/comments/comment_module.html:29
 #: templates/comments/includes/comment.html:11
 #: templates/includes/backbone-templates.html:106
 msgid "Reply"
-msgstr ""
+msgstr "Beantwoorden"
 
 #: templates/comments/comment_module.html:34
 msgid "0 minutes ago"
-msgstr ""
+msgstr "0 minuten geleden"
 
 #: templates/comments/comment_module.html:42
 #: templates/comments/includes/comment.html:7
 msgid "Report comment as inappropriate"
-msgstr ""
+msgstr "Markeer opmerking als ongepast"
 
 #: templates/comments/comment_module.html:64
 msgid "Post"
-msgstr ""
+msgstr "Verstuur"
 
 #: templates/comments/comment_module.html:67
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 #: templates/comments/list.html:20
 msgid "View previous comments"
-msgstr ""
+msgstr "Bekijk eerdere opmerkingen"
 
 #: templates/comments/includes/comment.html:26
 msgid "ago"
-msgstr ""
+msgstr "geleden"
 
 #: templates/explore/explore2.html:6
 #: templates/explore/explore_new_version_coming.html:6
 msgid "Explore -  Scratch"
-msgstr ""
+msgstr "Ontdek -  Scratch"
 
 #: templates/explore/explore2.html:42
 msgid "Jump"
-msgstr ""
+msgstr "Springen"
 
 #: templates/explore/explore2.html:45
 msgid "Shuffle"
@@ -179,128 +181,130 @@ msgstr ""
 
 #: templates/explore/includes/related_projects.html:62
 msgid "Sudio:"
-msgstr ""
+msgstr "Studio:"
 
 #: templates/galleries/base.html:30
 msgid "Studio description"
-msgstr ""
+msgstr "Studio beschrijving"
 
 #: templates/galleries/gallery.html:21
 #, python-format
 msgid "created %(tDate)s"
-msgstr ""
+msgstr "gemaakt %(tDate)s"
 
 #: templates/galleries/gallery.html:25
 msgid "Read more &raquo;"
-msgstr ""
+msgstr "Lees meer &raquo;"
 
 #: templates/galleries/gallery.html:51
 #, python-format
 msgid "Projects ( <span data-count=\"projects\">%(tCount)s</span> )"
-msgstr ""
+msgstr "Projecten ( <span data-count=\"projects\">%(tCount)s</span> )"
 
 #: templates/galleries/gallery.html:54
 #, python-format
 msgid "Comments ( <span data-count=\"comments\">%(tCount)s</span> )"
-msgstr ""
+msgstr "Opmerkingen ( <span data-count=\"comments\">%(tCount)s</span> )"
 
 #: templates/galleries/gallery.html:57
 #, python-format
 msgid "Curators ( <span data-count=\"curators\">%(tCount)s</span> )"
-msgstr ""
+msgstr "Beheerders ( <span data-count=\"curators\">%(tCount)s</span> )"
 
 #: templates/galleries/gallery.html:60
 msgid "More info"
-msgstr ""
+msgstr "Meer info"
 
 #: templates/galleries/gallery_list.html:4
 #, python-format
 msgid "%(username)s Studio (%(galleries.count)s)"
-msgstr ""
+msgstr "%(username)s Studio (%(galleries.count)s)"
 
 #: templates/galleries/gallery_list.html:8
 #: templates/studio/includes/galleries_action_bar.html:11
 #: templates/studio/includes/galleries_action_bar.html:16
 msgid "Newest"
-msgstr ""
+msgstr "Nieuwste"
 
 #: templates/galleries/gallery_list.html:9
 msgid "Oldest"
-msgstr ""
+msgstr "Oudste"
 
 #: templates/galleries/gallery_list.html:10
 #: templates/studio/includes/project_action_bar.html:28
 msgid "Most viewed"
-msgstr ""
+msgstr "Meest bekeken"
 
 #: templates/galleries/gallery_list.html:11
 #: templates/studio/includes/project_action_bar.html:29
 msgid "Most loved"
-msgstr ""
+msgstr "Meest geliefd"
 
 #: templates/galleries/gallery_list.html:12
 #: templates/studio/includes/project_action_bar.html:30
 msgid "Most favorited"
-msgstr ""
+msgstr "Meest favoriet"
 
 #: templates/galleries/gallery_list.html:13
 #: templates/studio/includes/project_action_bar.html:31
 msgid "Most remixed"
-msgstr ""
+msgstr "Meest remixed"
 
 #: templates/galleries/includes/project_action_bar.html:11
 msgid "Add projects"
-msgstr ""
+msgstr "Voeg projecten toe"
 
 #: templates/homepage/index.html:24
 msgid "Featured Projects"
-msgstr ""
+msgstr "Aanbevolen Projecten"
 
 #: templates/homepage/index.html:25
 msgid "Featured Studios"
-msgstr ""
+msgstr "Aanbevolen Studios"
 
 #: templates/homepage/index.html:32
 msgid "What's Happening?"
-msgstr ""
+msgstr "Wat gebeurt er?"
 
 #: templates/homepage/index.html:47
 msgid "Scratch News"
-msgstr ""
+msgstr "Scratch Nieuws"
 
 #: templates/homepage/index.html:55
 msgid "Welcome, Scratchers!"
-msgstr ""
+msgstr "Welkom, Scratchers!"
 
 #: templates/homepage/index.html:56
 msgid ""
 "Thanks for helping us find and fix glitches in Scratch 2.0! Found a bug? Let "
 "us know!"
 msgstr ""
+"Bedankt voor het helpen om fouten te verbeteren in Scratch 2.0! Heb je een "
+"fout gevonden? Laat het ons weten!"
 
 #: templates/homepage/index.html:57
 msgid "Report bugs here &raquo;"
-msgstr ""
+msgstr "Rapporteer fouten hier &raquo;"
 
 #: templates/homepage/index.html:64
 msgid "Try out new features"
-msgstr ""
+msgstr "Probeer nieuwe mogelijkheden"
 
 #: templates/homepage/index.html:65
 msgid "Here’s a description of what’s new in Scratch 2.0."
-msgstr ""
+msgstr "Hier is een beschrijving over wat nieuw is in Scratch 2.0."
 
 #: templates/homepage/index.html:66
 msgid "Check it out! &raquo;"
-msgstr ""
+msgstr "Neem een kijkje! &raquo;"
 
 #: templates/homepage/index.html:81
 msgid "Scratch 2.0 Beta"
-msgstr ""
+msgstr "Scratch 2.0 Beta"
 
 #: templates/homepage/index.html:83
 msgid "Welcome to the Scratch 2.0 Beta website!"
-msgstr ""
+msgstr "Welkom op de Scratch 2.0 Beta website!"
 
 #: templates/homepage/index.html:86
 msgid ""
@@ -308,12 +312,17 @@ msgid ""
 "Check out the <b>Featured Projects</b> and <b>Featured Studios</b> below.  "
 "Click <a href=\"/help\">Help</a> to learn more."
 msgstr ""
+"Ontdek en experimenteer met deze beta versie van de nieuwe Scratch. Bekijk "
+"de <b>Aanbevolen Projecten</b> en <b>Aanbevolen Studios</b> hieronder. Klik "
+"op <a href=\"/help\">Hulp</a> voor meer informatie."
 
 #: templates/homepage/index.html:89
 msgid ""
 "The Scratch 2.0 Beta is open to everyone. But you can only log in if you "
 "created your Scratch account before January 26th."
 msgstr ""
+"De Scratch 2.0 Beta is door iedereen te bekijken. Je kan je aanmelden als je "
+"je Scratch account voor 26 januari gemaakt hebt."
 
 #: templates/homepage/index.html:92
 msgid ""
@@ -322,60 +331,64 @@ msgid ""
 "sooner we find and fix them, the sooner we can officially release Scratch "
 "2.0."
 msgstr ""
+"We hebben nog een paar functies om toe te voegen, en heel veel fouten te "
+"verbeteren! Je kan ons helpen door <a href=\"/forums/3/\">fouten te "
+"vermelden</a>. Hoe eerder we ze kunnen verbeteren, hoe eerder we de "
+"officiële versie van Scratch 2.0 kunnen lanceren. "
 
 #: templates/homepage/index.html:95
 msgid "Find out more about"
-msgstr ""
+msgstr "Meer informatie over"
 
 #: templates/homepage/index.html:95
 msgid "the move to Scratch 2.0"
-msgstr ""
+msgstr "de overgang naar Scratch 2.0"
 
 #: templates/homepage/index.html:151
 msgid "What the Community is Sharing"
-msgstr ""
+msgstr "Wat de gemeenschap deelt"
 
 #: templates/homepage/index.html:158
 msgid "What the Community is Remixing"
-msgstr ""
+msgstr "Wat de gemeenschap remixed"
 
 #: templates/homepage/index.html:161
 msgid "What the Community is Loving"
-msgstr ""
+msgstr "Wat bij de gemeenschap geliefd is"
 
 #: templates/profiles/profile_detail.html:51
 #: templates/scratch_admin/admin_profile_view.html:41
 #, python-format
 msgid "Joined %(tDate)s ago / "
-msgstr ""
+msgstr "Werd %t(tDate) dagen geleden lid /"
 
 #: templates/profiles/profile_detail.html:69
 msgid "About me"
-msgstr ""
+msgstr "Info over mij"
 
 #: templates/profiles/profile_detail.html:86
 msgid "What I'm working on"
-msgstr ""
+msgstr "Waar ik mee bezig ben"
 
 #: templates/profiles/profile_detail.html:121
 msgid "What I've been doing"
-msgstr ""
+msgstr "Wat ik heb gedaan"
 
 #: templates/profiles/profile_detail.html:129
 msgid "Report this user"
-msgstr ""
+msgstr "Meld deze gebruiker"
 
 #: templates/profiles/profile_detail.html:136
 msgid "Shared Projects"
-msgstr ""
+msgstr "Gedeelde Projecten"
 
 #: templates/profiles/profile_detail.html:138
 msgid "Favorite Projects"
-msgstr ""
+msgstr "Favoriete Projecten"
 
 #: templates/profiles/profile_detail.html:140 templates/projects/base.html:208
 msgid "Studios"
-msgstr ""
+msgstr "Studios"
 
 #: templates/profiles/profile_detail.html:179
 msgid "Following"
@@ -387,7 +400,7 @@ msgstr ""
 
 #: templates/profiles/profile_detail.html:189 templates/projects/base.html:171
 msgid "Comments"
-msgstr ""
+msgstr "Opmerkingen"
 
 #: templates/projects/base.html:4
 msgid "on Scratch"
@@ -399,36 +412,36 @@ msgstr ""
 
 #: templates/projects/base.html:55
 msgid "See inside"
-msgstr ""
+msgstr "Bekijk van binnen"
 
 #: templates/projects/base.html:115
 msgid "not shared"
-msgstr ""
+msgstr "niet gedeeld"
 
 #: templates/projects/base.html:117
 #: templates/studio/includes/project_list.html:19
 msgid "Last modified:"
-msgstr ""
+msgstr "Laatst gewijzigd:"
 
 #: templates/projects/base.html:128
 msgid "Favorite this project"
-msgstr ""
+msgstr "Favoriet project"
 
 #: templates/projects/base.html:135
 msgid "Love this project"
-msgstr ""
+msgstr "Hou van dit project"
 
 #: templates/projects/base.html:144
 msgid "Total views"
-msgstr ""
+msgstr "Aantal keer bekeken"
 
 #: templates/projects/base.html:148
 msgid "Total remixes"
-msgstr ""
+msgstr "Aantal remixes"
 
 #: templates/projects/base.html:183
 msgid "Remixes"
-msgstr ""
+msgstr "Remixes"
 
 #: templates/projects/base.html:195
 msgid "views"
@@ -437,20 +450,20 @@ msgstr ""
 #: templates/projects/shared-other.html:66
 #: templates/projects/shared-owner.html:30
 msgid "Shared on:"
-msgstr ""
+msgstr "Gedeeld op:"
 
 #: templates/projects/unshared-owner.html:59
 msgid "Unshared"
-msgstr ""
+msgstr "Niet gedeeld"
 
 #: templates/projects/includes/project_list.html:10
 #, python-format
 msgid "%(tDate)s ago"
-msgstr ""
+msgstr "%(tDate)s geleden"
 
 #: templates/projects/includes/shared/shared-project-actions.html:3
 msgid "Share project on other websites"
-msgstr ""
+msgstr "Deel project op andere websites"
 
 #: templates/projects/includes/shared/shared-project-actions.html:4
 msgid "Share to"
@@ -508,11 +521,11 @@ msgstr ""
 
 #: templates/studio/studio.html:18
 msgid "New Project"
-msgstr ""
+msgstr "Nieuw project"
 
 #: templates/studio/studio.html:21
 msgid "New Studio"
-msgstr ""
+msgstr "Nieuwe Studio"
 
 #: templates/studio/includes/galleries_action_bar.html:8
 msgid "View:"
@@ -541,25 +554,25 @@ msgstr ""
 
 #: templates/studio/includes/project_action_bar.html:14
 msgid "All"
-msgstr ""
+msgstr "Alles"
 
 #: templates/studio/includes/project_action_bar.html:15
 msgid "Shared"
-msgstr ""
+msgstr "Gedeeld"
 
 #: templates/studio/includes/project_action_bar.html:16
 msgid "Not shared"
-msgstr ""
+msgstr "Niet gedeeld"
 
 #: templates/studio/includes/project_action_bar.html:22
 #: templates/studio/includes/project_action_bar.html:27
 msgid "Last modified"
-msgstr ""
+msgstr "Laatste wijziging"
 
 #: templates/studio/includes/project_action_bar.html:37
 msgid "+ New Project"
-msgstr ""
+msgstr "+ Nieuw project"
 
 #: templates/studio/includes/project_list.html:20
 msgid "Created:"
-msgstr ""
+msgstr "Gemaakt:"

@@ -1,3 +1,6 @@
+# Prevod blokova za Scrach 2.0
+# Milan Cajić <milan.cajic@open.telekom.rs>, 2013.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -5,7 +8,7 @@ msgstr ""
 "POT-Creation-Date: 2013-01-29 20:22+0200\n"
 "PO-Revision-Date: 2013-01-31 03:22+0200\n"
 "Last-Translator: Milan <milan.cajic@open.telekom.rs>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: српски <>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,14 +35,12 @@ msgstr "%m.attribute од %m.spriteOrStage"
 msgid "%m.list contains %s"
 msgstr "%m.list садржи %s"
 
-#, qt-format
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp од %n"
 
 msgid "%m.sensor sensor value"
 msgstr "вредност сензора %m.sensor"
 
-#, qt-format
 msgid "%n mod %n"
 msgstr "%n мод %n"
 
@@ -66,43 +67,33 @@ msgstr "разгласи %m.broadcast"
 msgid "broadcast %m.broadcast and wait"
 msgstr "разгласи %m.broadcast и чекај"
 
-#, qt-format
 msgid "change %m.effect effect by %n"
 msgstr "промени ефекат %m.effect за %n"
 
-#, qt-format
 msgid "change %m.var by %n"
 msgstr "промени %m.var за %n"
 
-#, qt-format
 msgid "change pen color by %n"
 msgstr "промени боју оловке за %n"
 
-#, qt-format
 msgid "change pen shade by %n"
 msgstr "промени сенку оловке за %n"
 
-#, qt-format
 msgid "change pen size by %n"
 msgstr "промени дебљину оловке за %n"
 
-#, qt-format
 msgid "change size by %n"
 msgstr "промени величину за %n"
 
-#, qt-format
 msgid "change tempo by %n"
 msgstr "промени темпо за %n"
 
-#, qt-format
 msgid "change volume by %n"
 msgstr "промени јачину звука за %n"
 
-#, qt-format
 msgid "change x by %n"
 msgstr "промени x за %n"
 
-#, qt-format
 msgid "change y by %n"
 msgstr "промени y за %n"
 
@@ -163,11 +154,9 @@ msgstr "понављај"
 msgid "forever if %b"
 msgstr "понављај ако %b"
 
-#, qt-format
 msgid "glide %n secs to x:%n y:%n"
 msgstr "клизи %n секунду до x:%n y:%n"
 
-#, qt-format
 msgid "go back %n layers"
 msgstr "иди иза %n слој"
 
@@ -177,7 +166,6 @@ msgstr "иди до %m.spriteOrMouse"
 msgid "go to front"
 msgstr "пређи сасвим напред"
 
-#, qt-format
 msgid "go to x:%n y:%n"
 msgstr "иди на x:%n y:%n"
 
@@ -217,7 +205,6 @@ msgstr "величина %m.list"
 msgid "length of %s"
 msgstr "дужина %s"
 
-#, qt-format
 msgid "letter %n of %s"
 msgstr "слово %n од %s"
 
@@ -242,7 +229,6 @@ msgstr "миш x"
 msgid "mouse y"
 msgstr "миш y"
 
-#, qt-format
 msgid "move %n steps"
 msgstr "иди %n корака"
 
@@ -268,15 +254,12 @@ msgstr "спусти оловку"
 msgid "pen up"
 msgstr "подигни оловку"
 
-#, qt-format
 msgid "pick random %n to %n"
 msgstr "случајан број од %n до %n"
 
-#, qt-format
 msgid "play drum %d.drum for %n beats"
 msgstr "удараљка %d.drum током %n откуцаја"
 
-#, qt-format
 msgid "play note %d.note for %n beats"
 msgstr "свирај ноту %d.note током %n откуцаја"
 
@@ -292,7 +275,6 @@ msgstr "усмери се ка %d.direction"
 msgid "point towards %m.spriteOrMouse"
 msgstr "усмери се ка %m.spriteOrMouse"
 
-#, qt-format
 msgid "repeat %n"
 msgstr "понови %n"
 
@@ -305,18 +287,15 @@ msgstr "замени елеменат %d.listItem у %m.list са %s"
 msgid "reset timer"
 msgstr "постави тајмер на 0"
 
-#, qt-format
 msgid "rest for %n beats"
 msgstr "пауза %n откуцаја"
 
-#, qt-format
 msgid "round %n"
 msgstr "заокружи %n"
 
 msgid "say %s"
 msgstr "изговори %s"
 
-#, qt-format
 msgid "say %s for %n secs"
 msgstr "изговори %s током %n секунде"
 
@@ -329,7 +308,6 @@ msgstr "Осећаји"
 msgid "sensor %m.booleanSensor?"
 msgstr "сензор %m.booleanSensor?"
 
-#, qt-format
 msgid "set %m.effect effect to %n"
 msgstr "нека ефекат %m.effect буде %n"
 
@@ -342,49 +320,39 @@ msgstr "нека инструмент буде %d.instrument"
 msgid "set motor direction %m.motorDirection"
 msgstr "нека смер мотора буде %m.motorDirection"
 
-#, qt-format
 msgid "set motor power %n"
 msgstr "нека снага мотора буде %n"
 
 msgid "set pen color to %c"
 msgstr "нека боја оловке буде %c"
 
-#, qt-format
 msgid "set pen color to %n"
 msgstr "нека боја оловке буде %c"
 
-#, qt-format
 msgid "set pen shade to %n"
 msgstr "нека сенка олобке буде %n"
 
-#, qt-format
 msgid "set pen size to %n"
 msgstr "нека дебљина оловке буде %n"
 
 msgid "set rotation style %m.rotationStyle"
 msgstr "нека начин окретања буде %m.rotationStyle"
 
-#, qt-format
 msgid "set size to %n%"
 msgstr "нека величина буде %n%"
 
-#, qt-format
 msgid "set tempo to %n bpm"
 msgstr "нека темпо буде %n откуцаја у минуту"
 
-#, qt-format
 msgid "set video transparency to %n%"
 msgstr "нека провидност видеа буде  %n%"
 
-#, qt-format
 msgid "set volume to %n%"
 msgstr "нека јачина збука буде %n%"
 
-#, qt-format
 msgid "set x to %n"
 msgstr "нека x буде %n"
 
-#, qt-format
 msgid "set y to %n"
 msgstr "нека y буде %n"
 
@@ -429,7 +397,6 @@ msgstr "темпо"
 msgid "think %s"
 msgstr "замисли %s"
 
-#, qt-format
 msgid "think %s for %n secs"
 msgstr "замисли %s током %n секунде"
 
@@ -445,11 +412,9 @@ msgstr "додирује %m.touching?"
 msgid "touching color %c?"
 msgstr "додирује боју %c?"
 
-#, qt-format
 msgid "turn @turnLeft %n degrees"
 msgstr "окрет @turnLeft за %n сетпени"
 
-#, qt-format
 msgid "turn @turnRight %n degrees"
 msgstr "окрет @turnRight за %n степени"
 
@@ -459,7 +424,6 @@ msgstr "искључи мотор"
 msgid "turn motor on"
 msgstr "укључи мотор"
 
-#, qt-format
 msgid "turn motor on for %n secs"
 msgstr "покрени мотор током %n секунди"
 
@@ -475,7 +439,6 @@ msgstr "видео %m.videoMotionType на %m.stageOrThis"
 msgid "volume"
 msgstr "јачина звука"
 
-#, qt-format
 msgid "wait %n secs"
 msgstr "чекај %n секунду"
 
@@ -488,7 +451,6 @@ msgstr "када је %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "када је дирка %m.key притиснута"
 
-#, qt-format
 msgid "when %m.triggerSensor > %n"
 msgstr "када је %m.triggerSensor > %n"
 
@@ -499,7 +461,6 @@ msgstr "када је кликнуто на @greenFlag"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "када се позадина промени у %m.backdrop"
 
-#, qt-format
 msgid "when distance < %n"
 msgstr "када је растојање < %n"
 
@@ -509,7 +470,6 @@ msgstr "када примим %m.broadcast"
 msgid "when this sprite clicked"
 msgstr "када је кликнуто на овај лик"
 
-#, qt-format
 msgid "when tilt = %n"
 msgstr "када је нагиб = %n"
 
@@ -531,15 +491,12 @@ msgstr "место y"
 #~ msgid "motor on"
 #~ msgstr "упали мотор"
 
-#, qt-format
 #~ msgid "motor on for %n secs"
 #~ msgstr "покрећи мотор током %n секунде"
 
-#, qt-format
 #~ msgid "motor power %n"
 #~ msgstr "снага мотора %n"
 
-#, qt-format
 #~ msgid "play note %n for %n beats"
 #~ msgstr "сивирај ноту %d.note током %n откуцаја"
 

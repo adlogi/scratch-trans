@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:20+0200\n"
-"PO-Revision-Date: 2013-01-30 22:23+0200\n"
+"PO-Revision-Date: 2013-01-31 23:51+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -37,7 +37,7 @@ msgid "%m.sensor sensor value"
 msgstr "قيمة حساس %m.sensor"
 
 msgid "%n mod %n"
-msgstr "باقي قسمة %n1 على %n2"
+msgstr "باقي قسمة %n على %n"
 
 msgid "add %s to %m.list"
 msgstr "أضف %s إلى %m.list"
@@ -102,7 +102,7 @@ msgid "clone startup"
 msgstr "عند بدء نسخة"
 
 msgid "color %c is touching %c?"
-msgstr "اللون %c1 يلامس اللون %c2؟"
+msgstr "اللون %c يلامس اللون %c ؟"
 
 msgid "Control"
 msgstr "التحكم"
@@ -114,7 +114,7 @@ msgid "create clone of %m.spriteOnly"
 msgstr "أنشئ نسخة من %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr "%m.timeAndDate"
+msgstr "%m.timeAndDate في هذه اللحظة"
 
 msgid "Data"
 msgstr "البيانات"
@@ -189,7 +189,7 @@ msgid "item %d.listItem of %m.list"
 msgstr "العنصر %d.listItem من %m.list"
 
 msgid "join %s %s"
-msgstr "اربط %s1 %s2"
+msgstr "اربط %s %s"
 
 msgid "key %m.key pressed?"
 msgstr "مفتاح %m.key مضغوط؟"
@@ -250,7 +250,7 @@ msgid "pen up"
 msgstr "ارفع القلم"
 
 msgid "pick random %n to %n"
-msgstr "اختر عدداً عشوائياً بين %n1 و %n2"
+msgstr "اختر عدداً عشوائياً بين %n و %n"
 
 msgid "play drum %d.drum for %n beats"
 msgstr "دقَّ الطبل %d.drum لمدة %n وحدة إيقاع"
@@ -278,7 +278,7 @@ msgid "repeat until %b"
 msgstr "كرِّر حتى %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "استبدل العنصر %s بـ %d.listItem من %m.list"
+msgstr "استبدل بالعنصر %d.listItem من %m.list %s"
 
 msgid "reset timer"
 msgstr "صفِّر المؤقت"
@@ -302,13 +302,13 @@ msgid "Sensing"
 msgstr "التحسس"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "حساس %m.booleanSensor؟"
+msgstr "حساس %m.booleanSensor ؟"
 
 msgid "set %m.effect effect to %n"
 msgstr "اجعل تأثير %m.effect مساوياً %n"
 
 msgid "set %m.var to %s"
-msgstr "اجعل %m.var مساوياً %n"
+msgstr "اجعل %m.var مساوياً %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "اجعل الآلة هي %d.instrument"
@@ -408,10 +408,10 @@ msgid "timer"
 msgstr "المؤقت"
 
 msgid "touching %m.touching?"
-msgstr "ملامس لـ %m.touching؟"
+msgstr "ملامس لـ %m.touching ؟"
 
 msgid "touching color %c?"
-msgstr "ملامس للون %c؟"
+msgstr "ملامس للون %c ؟"
 
 msgid "turn @turnLeft %n degrees"
 msgstr "استدر @turnLeft %n درجة"

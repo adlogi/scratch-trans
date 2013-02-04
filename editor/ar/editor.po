@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2012-12-16 01:09+0200\n"
+"PO-Revision-Date: 2013-02-01 00:16+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -15,10 +15,10 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 
 msgid "#"
-msgstr ""
+msgstr "#"
 
 msgid "10 ^"
-msgstr ""
+msgstr "^ 10"
 
 msgid "A connected"
 msgstr "A موصول"
@@ -27,39 +27,38 @@ msgid "abs"
 msgstr "القيمة المطلقة"
 
 msgid "acos"
-msgstr ""
+msgstr "جيب التمام العكسي"
 
 msgid "Add a boolean input:"
-msgstr ""
+msgstr "إضافة حقل منطقي:"
 
 msgid "Add a number input:"
-msgstr ""
+msgstr "إضافة حقل رقمي:"
 
 msgid "Add a string input:"
-msgstr ""
+msgstr "إضافة حقل نصي:"
 
 msgid "add comment"
-msgstr ""
+msgstr "إضافة تعليق"
 
 msgid "Add label text:"
-msgstr ""
+msgstr "إضافة نص:"
 
 msgid "all"
 msgstr "الكل"
 
 msgid "all around"
-msgstr ""
+msgstr "في جميع الاتجاهات"
 
 msgid "asin"
-msgstr ""
+msgstr "الجيب العكسي"
 
 msgid "atan"
-msgstr ""
+msgstr "الظل العكسي"
 
 # 90%
-#, fuzzy
 msgid "B connected"
-msgstr "A موصول"
+msgstr "B موصول"
 
 msgid "backdrop #"
 msgstr "رقم الخلفية"
@@ -73,17 +72,20 @@ msgstr "الخلفية١"
 msgid "Backpack"
 msgstr "الحقيبة"
 
+#, fuzzy
 msgid "Bass"
-msgstr ""
+msgstr "Bass"
 
+#, fuzzy
 msgid "Bass Drum"
-msgstr ""
+msgstr "Bass Drum"
 
 msgid "Bassoon"
 msgstr "Bassoon"
 
+#, fuzzy
 msgid "Bongo"
-msgstr ""
+msgstr "Bongo"
 
 msgid "bottom-left"
 msgstr ""
@@ -98,9 +100,8 @@ msgid "button pressed"
 msgstr "الزر مضغوط"
 
 # 90%
-#, fuzzy
 msgid "C connected"
-msgstr "A موصول"
+msgstr "C موصول"
 
 msgid "Cabasa"
 msgstr "Cabasa"
@@ -109,16 +110,17 @@ msgid "Camera"
 msgstr "آلة التصوير"
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "لا يمكن الحذف"
 
 msgid "ceiling"
-msgstr ""
+msgstr "السقف"
 
 msgid "Cello"
 msgstr "تشيلو"
 
+#, fuzzy
 msgid "Choir"
-msgstr ""
+msgstr "Choir"
 
 msgid "Clarinet"
 msgstr "كلارينيت"
@@ -135,55 +137,56 @@ msgstr "Closed Hi-Hat"
 msgid "color"
 msgstr "اللون"
 
+#, fuzzy
 msgid "Conga"
-msgstr ""
+msgstr "Conga"
 
 msgid "copy"
 msgstr "نسخ"
 
 msgid "cos"
-msgstr ""
+msgstr "جيب التمام"
 
 msgid "costume #"
-msgstr ""
+msgstr "رقم المظهر"
 
 msgid "costume name"
-msgstr ""
+msgstr "اسم المظهر"
 
 msgid "costume1"
-msgstr ""
+msgstr "المظهر ١"
 
 msgid "costume2"
-msgstr ""
+msgstr "المظهر ٢"
 
 msgid "Cowbell"
 msgstr "Cowbell"
 
+#, fuzzy
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Crash Cymbal"
 
 msgid "cut"
-msgstr ""
+msgstr "قص"
 
 # 90%
-#, fuzzy
 msgid "D connected"
-msgstr "A موصول"
+msgstr "D موصول"
 
 msgid "date"
-msgstr ""
+msgstr "تاريخ اليوم"
 
 msgid "day of week"
-msgstr ""
+msgstr "يوم الأسبوع"
 
 msgid "delete"
 msgstr "حذف"
 
 msgid "direction"
-msgstr ""
+msgstr "اتجاه"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "لا دوران"
 
 msgid "down"
 msgstr "الأسفل"
@@ -198,7 +201,7 @@ msgid "duplicate"
 msgstr "مضاعفة"
 
 msgid "e ^"
-msgstr ""
+msgstr "^ e"
 
 msgid "edge"
 msgstr "الحافة"
@@ -210,28 +213,30 @@ msgid "Edit"
 msgstr "تحرير"
 
 msgid "Effects"
-msgstr ""
+msgstr "المؤثرات"
 
+#, fuzzy
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Electric Guitar"
 
+#, fuzzy
 msgid "Electric Piano"
-msgstr ""
+msgstr "Electric Piano"
 
 msgid "fade in"
-msgstr ""
+msgstr "تلاشي في البداية"
 
 msgid "fade out"
-msgstr ""
+msgstr "تلاشي في النهاية"
 
 msgid "File"
-msgstr ""
+msgstr "ملف"
 
 msgid "fisheye"
 msgstr "عين السمكة"
 
 msgid "floor"
-msgstr ""
+msgstr "الجزء الصحيح"
 
 msgid "Flute"
 msgstr "فلوت"
@@ -239,17 +244,18 @@ msgstr "فلوت"
 msgid "ghost"
 msgstr "الشبح"
 
+#, fuzzy
 msgid "Guiro"
-msgstr ""
+msgstr "Guiro"
 
 msgid "Guitar"
-msgstr ""
+msgstr "غيتار"
 
 msgid "Hand Clap"
 msgstr "صفقة"
 
 msgid "hour"
-msgstr ""
+msgstr "الساعة"
 
 msgid "Import"
 msgstr "استيراد"
@@ -264,49 +270,49 @@ msgid "left arrow"
 msgstr "السهم الأيسر"
 
 msgid "left-right"
-msgstr ""
+msgstr "يمين - يسار"
 
 msgid "Library"
-msgstr ""
+msgstr "المكتبة"
 
 msgid "light"
 msgstr "الضوء"
 
 msgid "ln"
-msgstr ""
+msgstr "اللوغارتم الطبيعي"
 
 msgid "log"
-msgstr ""
+msgstr "اللوغارتم العشري"
 
 msgid "login"
-msgstr ""
+msgstr "تسجيل الدخول"
 
 msgid "louder"
 msgstr ""
 
 msgid "loudness"
-msgstr ""
+msgstr "شدة الصوت"
 
 msgid "Marimba"
 msgstr "Marimba"
 
 msgid "message1"
-msgstr ""
+msgstr "الرسالة ١"
 
 msgid "middle"
 msgstr ""
 
 msgid "minute"
-msgstr ""
+msgstr "الدقيقة"
 
 msgid "month"
-msgstr ""
+msgstr "الشهر"
 
 msgid "mosaic"
 msgstr "الموزاييك"
 
 msgid "motion"
-msgstr ""
+msgstr "حركة"
 
 msgid "mouse-pointer"
 msgstr "مؤشر الفأرة"
@@ -318,23 +324,22 @@ msgid "myself"
 msgstr ""
 
 msgid "name"
-msgstr ""
+msgstr "الاسم"
 
-#, fuzzy
 msgid "New"
-msgstr "Nouveau"
+msgstr "جديد"
 
 msgid "New backdrop"
-msgstr ""
+msgstr "خلفية جديدة"
 
 msgid "New costume"
-msgstr ""
+msgstr "مظهر جديد"
 
 msgid "new message..."
-msgstr ""
+msgstr "رسالة جديدة..."
 
 msgid "New sound"
-msgstr ""
+msgstr "صوت جديد"
 
 msgid "New sprite:"
 msgstr "كائن جديد:"
@@ -355,40 +360,41 @@ msgid "Open Hi-Hat"
 msgstr "Open Hi-Hat"
 
 msgid "Organ"
-msgstr ""
+msgstr "أورغن"
 
 msgid "other scripts in sprite"
-msgstr ""
+msgstr "المقاطع الأخرى في الكائن"
 
 msgid "Paint"
 msgstr "رسم"
 
 msgid "paste"
-msgstr ""
+msgstr "لصق"
 
 msgid "photo1"
-msgstr ""
+msgstr "الصورة ١"
 
 msgid "Piano"
-msgstr ""
+msgstr "بيانو"
 
 msgid "pixelate"
 msgstr "البكسلة"
 
+#, fuzzy
 msgid "Pizzicato"
-msgstr ""
+msgstr "Pizzicato"
 
 msgid "pop"
 msgstr "بُب"
 
 msgid "random"
-msgstr ""
+msgstr "عشوائي"
 
 msgid "Record"
 msgstr "تسجيل"
 
 msgid "recording1"
-msgstr ""
+msgstr "التسجيل ١"
 
 msgid "redo"
 msgstr "إعادة"
@@ -397,16 +403,16 @@ msgid "Remix"
 msgstr ""
 
 msgid "resistance-A"
-msgstr ""
+msgstr "المقاومة - A"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "المقاومة - B"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "المقاومة - C"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "المقاومة - D"
 
 msgid "reverse"
 msgstr "المعاكس"
@@ -418,25 +424,25 @@ msgid "right arrow"
 msgstr "السهم الأيمن"
 
 msgid "Saxophone"
-msgstr ""
+msgstr "ساكسفون"
 
 msgid "say"
 msgstr ""
 
 msgid "Scratch Cat"
-msgstr ""
+msgstr "هرة سكراتش"
 
 msgid "second"
-msgstr ""
+msgstr "الثانية"
 
 msgid "See project page"
-msgstr ""
+msgstr "عرض صفحة المشروع"
 
 msgid "select all"
-msgstr ""
+msgstr "تحديد الكل"
 
 msgid "Share"
-msgstr ""
+msgstr "مشاركة"
 
 msgid "shout"
 msgstr ""
@@ -451,25 +457,26 @@ msgid "Side Stick"
 msgstr "Side Stick"
 
 msgid "silence"
-msgstr ""
+msgstr "صمت"
 
 msgid "sin"
-msgstr ""
+msgstr "الجيب"
 
 msgid "size"
-msgstr ""
+msgstr "الحجم"
 
 msgid "slider"
 msgstr "المنزلقة"
 
+#, fuzzy
 msgid "Snare Drum"
-msgstr ""
+msgstr "Snare Drum"
 
 msgid "softer"
-msgstr ""
+msgstr "أخفض"
 
 msgid "sound"
-msgstr ""
+msgstr "الصوت"
 
 msgid "space"
 msgstr "المسافة"
@@ -483,20 +490,23 @@ msgstr "الجذر التربيعي"
 msgid "Stage"
 msgstr "المنصة"
 
+#, fuzzy
 msgid "Steel Drum"
-msgstr ""
+msgstr "Steel Drum"
 
+#, fuzzy
 msgid "Synth Lead"
-msgstr ""
+msgstr "Synth Lead"
 
+#, fuzzy
 msgid "Synth Pad"
-msgstr ""
+msgstr "Synth Pad"
 
 msgid "Tambourine"
 msgstr "Tambourine"
 
 msgid "tan"
-msgstr ""
+msgstr "الظل"
 
 msgid "that way"
 msgstr "ذاك الاتجاه"
@@ -505,22 +515,22 @@ msgid "think"
 msgstr ""
 
 msgid "this script"
-msgstr ""
+msgstr "المقطع البرمجي الحالي"
 
 msgid "this sprite"
-msgstr ""
+msgstr "الكائن الحالي"
 
 msgid "this way"
 msgstr "هذا الاتجاه"
 
 msgid "timer"
-msgstr ""
+msgstr "المؤقت"
 
 msgid "Tips"
 msgstr ""
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr ""
+msgstr "لحذف تعريف لبنة، عليك إزالتها من جميع الأماكن المستخدمة فيها."
 
 msgid "top-left"
 msgstr ""
@@ -529,7 +539,7 @@ msgid "top-right"
 msgstr ""
 
 msgid "Triangle"
-msgstr ""
+msgstr "مثلث"
 
 msgid "Trombone"
 msgstr "Trombone"
@@ -553,7 +563,7 @@ msgid "video motion"
 msgstr ""
 
 msgid "volume"
-msgstr ""
+msgstr "شدة الصوت"
 
 msgid "whirl"
 msgstr "الدوامة"
@@ -561,20 +571,22 @@ msgstr "الدوامة"
 msgid "whisper"
 msgstr ""
 
+#, fuzzy
 msgid "Wood Block"
-msgstr ""
+msgstr "Wood Block"
 
+#, fuzzy
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Wooden Flute"
 
 msgid "x position"
-msgstr ""
+msgstr "الموضع س"
 
 msgid "y position"
-msgstr ""
+msgstr "الموضع ص"
 
 msgid "year"
-msgstr ""
+msgstr "السنة"
 
 #~ msgid "any"
 #~ msgstr "(موقع ما)"

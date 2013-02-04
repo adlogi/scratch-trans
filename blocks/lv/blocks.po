@@ -1,0 +1,475 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-02 17:06+0200\n"
+"PO-Revision-Date: 2013-02-02 22:24+0200\n"
+"Last-Translator: craftsmaster <pornieks@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Latviešu"
+
+msgid "%b and %b"
+msgstr "%b un %b"
+
+msgid "%b or %b"
+msgstr "%b vai %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute no %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list satur %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp no %n"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor sensora vērtība"
+
+msgid "%n mod %n"
+msgstr "%n atlikums dalot ar %n"
+
+msgid "add %s to %m.list"
+msgstr "pievienot %s pie %m.list"
+
+msgid "answer"
+msgstr "atbilde"
+
+msgid "ask %s and wait"
+msgstr "pajautāt %s un gaidīt"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "fons #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "fona nosaukums"
+
+msgid "broadcast %m.broadcast"
+msgstr "pārraidīt %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "pārraidīt %m.broadcast un gaidīt"
+
+msgid "change %m.effect effect by %n"
+msgstr "mainīt %m.effect efektu pa %n "
+
+msgid "change %m.var by %n"
+msgstr "mainīt %m.var pa %n"
+
+msgid "change pen color by %n"
+msgstr "mainīt zīmuļa krāsu pa %n"
+
+msgid "change pen shade by %n"
+msgstr "mainīt zīmuļa tumšumu pa %n"
+
+msgid "change pen size by %n"
+msgstr "mainīt zīmuļa izmēru pa %n"
+
+msgid "change size by %n"
+msgstr "mainīt izmēru pa %n"
+
+msgid "change tempo by %n"
+msgstr "mainīt tempu pa %n"
+
+msgid "change volume by %n"
+msgstr "mainīt skaļumu pa %n"
+
+msgid "change x by %n"
+msgstr "mainīt x pa %n"
+
+msgid "change y by %n"
+msgstr "mainīt y pa %n"
+
+msgid "clear"
+msgstr "notīrīt"
+
+msgid "clear graphic effects"
+msgstr "notīrīt grafiskos efektus"
+
+msgid "clone startup"
+msgstr "dublēt sākumu"
+
+msgid "color %c is touching %c?"
+msgstr "krāsa %c pieskaras %c"
+
+msgid "Control"
+msgstr "Vadība"
+
+msgid "costume #"
+msgstr "tērps #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "izveidot dublikātu %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "pašreizējā %m.timeAndDate"
+
+msgid "Data"
+msgstr "Dati"
+
+msgid "define"
+msgstr "definēt"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "dzēst %d.listDeleteItem no %m.list"
+
+msgid "delete this clone"
+msgstr "dzēst šo dublikātu"
+
+msgid "direction"
+msgstr "virziens"
+
+msgid "distance"
+msgstr "attālums"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "attālums no %m.spriteOrMouse"
+
+msgid "else"
+msgstr "citādi"
+
+msgid "Events"
+msgstr "Notikumi"
+
+msgid "forever"
+msgstr "nepārtraukti"
+
+msgid "forever if %b"
+msgstr "nepārtraukti ja %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "slīdēt %n sekundes uz x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "iet %n slāņus atpakaļ"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "iet uz %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "iet uz priekšpusi"
+
+msgid "go to x:%n y:%n"
+msgstr "iet uz x:%n y:%n"
+
+msgid "hide"
+msgstr "slēpt"
+
+msgid "hide all sprites"
+msgstr "slēpt visus gariņus"
+
+msgid "hide list %m.list"
+msgstr "slēpt sarakstu %m.list"
+
+msgid "hide variable %m.var"
+msgstr "slēpt mainīgo %m.var"
+
+msgid "if %b"
+msgstr "ja %b"
+
+msgid "if on edge, bounce"
+msgstr "ja uz malas, tad atlēkt"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "iespraust %s pie %d.listItem sarakstā %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "vienums %d.listItem no %m.list"
+
+msgid "join %s %s"
+msgstr "apvienot %s un %s"
+
+msgid "key %m.key pressed?"
+msgstr "nospiests taustiņš %m.key ?"
+
+msgid "length of %m.list"
+msgstr "%m.list garums"
+
+msgid "length of %s"
+msgstr "%s garums"
+
+msgid "letter %n of %s"
+msgstr "burts %n no %s"
+
+msgid "Looks"
+msgstr "Izskats"
+
+msgid "loudness"
+msgstr "skaļums"
+
+msgid "More Blocks"
+msgstr "Pārējie bloki"
+
+msgid "Motion"
+msgstr "Kustība"
+
+msgid "mouse down?"
+msgstr "peles taustiņš nospiests?"
+
+msgid "mouse x"
+msgstr "peles x"
+
+msgid "mouse y"
+msgstr "peles y"
+
+msgid "move %n steps"
+msgstr "pārvietot %n soļus"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "nākamais fons"
+
+msgid "next costume"
+msgstr "nākamais tērps"
+
+msgid "not %b"
+msgstr "nav %b"
+
+msgid "Operators"
+msgstr "Operatori"
+
+msgid "Pen"
+msgstr "Zīmulis"
+
+msgid "pen down"
+msgstr "zīmulis piespiests"
+
+msgid "pen up"
+msgstr "zīmulis pacelts"
+
+msgid "pick random %n to %n"
+msgstr "nejauši izvēlēties no %n līdz %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "%n sitienus spēlēd bungas %d.drum"
+
+msgid "play note %d.note for %n beats"
+msgstr "%n sitienus spēlēt noti %d.note"
+
+msgid "play sound %m.sound"
+msgstr "spēlēt skaņu %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "spēlēt skaņu %m.sound līdz galam"
+
+msgid "point in direction %d.direction"
+msgstr "pagriezt virzienā %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "pagriezt uz %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "atkārtot %n reizes"
+
+msgid "repeat until %b"
+msgstr "atkārtot līdz %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "aizvietot vienumu %d.listItem no %m.list ar %s"
+
+msgid "reset timer"
+msgstr "atiestatīt taimeri"
+
+msgid "rest for %n beats"
+msgstr "pauze %n sitienus"
+
+msgid "round %n"
+msgstr "noapaļot %n"
+
+msgid "say %s"
+msgstr "teikt %s"
+
+msgid "say %s for %n secs"
+msgstr "%n sekundes teikt %s "
+
+msgid "Scratch days"
+msgstr "Scratch dienas"
+
+msgid "Sensing"
+msgstr "Novērošana"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "sensors %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "iestatīt %m.effect efektu uz %n"
+
+msgid "set %m.var to %s"
+msgstr "iestatīt %m.var uz %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "iestatīt instrumentu uz %d.instrument"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "iestatīt motora virzienu uz %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "iestatīt motora jaudu %n"
+
+msgid "set pen color to %c"
+msgstr "iestatīt zīmuļa krāsu uz %c"
+
+msgid "set pen color to %n"
+msgstr "uestatīt zīmuļa krāsu uz %n"
+
+msgid "set pen shade to %n"
+msgstr "iestatīt zīmuļa tumšumu uz %n"
+
+msgid "set pen size to %n"
+msgstr "iestatīt zīmuļa izmēru uz %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "iestatīt rotācijas stilu %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "iestatīt izmēru uz %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "iestatīt tempu uz %n sitieni minūtē"
+
+msgid "set video transparency to %n%"
+msgstr "iestatīt video caurspīdīgumu uz %n%"
+
+msgid "set volume to %n%"
+msgstr "iestatīt skaļumu uz %n%"
+
+msgid "set x to %n"
+msgstr "iestatīt x uz %n"
+
+msgid "set y to %n"
+msgstr "iestatīt y uz %n"
+
+msgid "show"
+msgstr "parādīt"
+
+msgid "show list %m.list"
+msgstr "parādīt sarakstu %m.list"
+
+msgid "show variable %m.var"
+msgstr "parādīt mainīgo %m.var"
+
+msgid "size"
+msgstr "izmērs"
+
+msgid "Sound"
+msgstr "Skaņa"
+
+msgid "stamp"
+msgstr "spiedogs"
+
+msgid "stop %m.stop"
+msgstr "apturēt %m.stop"
+
+msgid "stop all sounds"
+msgstr "apturēt visas skaņas"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "nomainīt fonu uz %m.backdrop"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "nomainīt fonu uz %m.backdrop un gaidīt"
+
+msgid "switch costume to %m.costume"
+msgstr "nomainīt tērpu uz %m.costume"
+
+msgid "tempo"
+msgstr "temps"
+
+msgid "think %s"
+msgstr "domāt %s"
+
+msgid "think %s for %n secs"
+msgstr "%n sekundes domāt %s"
+
+msgid "tilt"
+msgstr "noliekt"
+
+msgid "timer"
+msgstr "taimeris"
+
+msgid "touching %m.touching?"
+msgstr "pieskaras %m.touching?"
+
+msgid "touching color %c?"
+msgstr "pieskaras krāsai %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "pagriezties @turnLeft pa %n grādiem"
+
+msgid "turn @turnRight %n degrees"
+msgstr "pagriezties @turnRigth pa %n grādiem"
+
+msgid "turn motor off"
+msgstr "izslēgt motoru"
+
+msgid "turn motor on"
+msgstr "ieslēgt motoru"
+
+msgid "turn motor on for %n secs"
+msgstr "iezlēgt motoru uz %n sekundēm"
+
+msgid "turn video %m.videoState"
+msgstr "pārslēgt video uz %m.videoState"
+
+msgid "user id"
+msgstr "lietotāja id"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "video %m.videoMotionType uz %m.stageOrThis"
+
+msgid "volume"
+msgstr "skaļums"
+
+msgid "wait %n secs"
+msgstr "gaidīt %n sekundes"
+
+msgid "wait until %b"
+msgstr "gaidīt līdz %b"
+
+msgid "when %m.booleanSensor"
+msgstr "kad %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "kad piespiests taustiņš %m.key"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "kad %m.triggerSensor > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "kad nospiests @greenFlag"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "kad fons nomainās uz %m.backdrop"
+
+msgid "when distance < %n"
+msgstr "kad attālums < %n"
+
+msgid "when I receive %m.broadcast"
+msgstr "kad es saņemu %m.broadcast"
+
+msgid "when this sprite clicked"
+msgstr "kad uzklikšķināts uz šī gariņa"
+
+msgid "when tilt = %n"
+msgstr "kad noliekts = %n"
+
+msgid "x position"
+msgstr "x pozīcija"
+
+msgid "y position"
+msgstr "y pozīcija"
