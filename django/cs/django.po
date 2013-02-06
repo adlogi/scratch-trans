@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 23:09+0000\n"
-"PO-Revision-Date: 2013-02-01 15:52+0200\n"
+"PO-Revision-Date: 2013-02-05 17:05+0200\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -152,7 +152,7 @@ msgstr "Ohlásit komentář jako nepatřičný"
 
 #: templates/comments/comment_module.html:64
 msgid "Post"
-msgstr ""
+msgstr "Odeslat"
 
 #: templates/comments/comment_module.html:67
 msgid "Cancel"
@@ -218,7 +218,7 @@ msgstr "Více informací"
 #: templates/galleries/gallery_list.html:4
 #, python-format
 msgid "%(username)s Studio (%(galleries.count)s)"
-msgstr "%(username) - Studio (%(galleries.count)s)"
+msgstr "%(username)s - Studio (%(galleries.count)s)"
 
 #: templates/galleries/gallery_list.html:8
 #: templates/studio/includes/galleries_action_bar.html:11
@@ -279,8 +279,8 @@ msgid ""
 "Thanks for helping us find and fix glitches in Scratch 2.0! Found a bug? Let "
 "us know!"
 msgstr ""
-"Děkujeme, že nám pomáháš opravit problémy ve Scratch 2.0. Víš o chybě? Dej "
-"nám vědět."
+"Děkujeme za pomoc při hledání a odstraňování závad ve Scratch 2.0. Nalezl "
+"jsi chybu? Dej nám vědět!"
 
 #: templates/homepage/index.html:57
 msgid "Report bugs here &raquo;"
@@ -312,7 +312,7 @@ msgid ""
 "Check out the <b>Featured Projects</b> and <b>Featured Studios</b> below.  "
 "Click <a href=\"/help\">Help</a> to learn more."
 msgstr ""
-"Prosím poynávej a zkoušej s touto předběžnou verzí nového Scratch. Vyzkoušej "
+"Prosím poznávej a zkoušej s touto předběžnou verzí nového Scratch. Vyzkoušej "
 "<b>Vybrané projekty</b> a <b>Vybraná studia</b> níže.  Klikni na <a "
 "href=\"/help\">Pomoc</a> pro další poučení."
 
@@ -321,8 +321,8 @@ msgid ""
 "The Scratch 2.0 Beta is open to everyone. But you can only log in if you "
 "created your Scratch account before January 26th."
 msgstr ""
-"Scratch 2.0 Beta je přístupný kazdému. Ale přihlásit se můžeš jen pokud jsi "
-"vytvořil(a) svůj účet před 26 lednem. "
+"Scratch 2.0 Beta je přístupný každému. Ale přihlásit se můžeš jen pokud jsi "
+"vytvořil(a) svůj účet před 26 lednem."
 
 #: templates/homepage/index.html:92
 msgid ""
@@ -332,9 +332,8 @@ msgid ""
 "2.0."
 msgstr ""
 "Stále ještě musíme přidat nové funkce a odladit mnoho chyb! Můžeš nám pomoci "
-"tím, že budeš <a href=\"/forums/3/\"> hlásit chyby a závady </a>. Čím dříve "
-"je najdeme a opravíme, tím dříve budeme moci Scratch 2.0 oficiálně "
-"zveřejnit."
+"tím, že budeš <a href=\"/forums/3/\">hlásit chyby a závady</a>. Čím dříve je "
+"najdeme a opravíme, tím dříve budeme moci Scratch 2.0 oficiálně zveřejnit."
 
 #: templates/homepage/index.html:95
 msgid "Find out more about"
@@ -360,7 +359,7 @@ msgstr "Co má komunita ráda"
 #: templates/scratch_admin/admin_profile_view.html:41
 #, python-format
 msgid "Joined %(tDate)s ago / "
-msgstr "Připojen před %(tDate) /"
+msgstr "Připojen před %(tDate)s / "
 
 #: templates/profiles/profile_detail.html:69
 msgid "About me"
@@ -433,41 +432,42 @@ msgstr "Mám rád tento projekt"
 
 #: templates/projects/base.html:144
 msgid "Total views"
-msgstr ""
+msgstr "Celkem přístupů"
 
 #: templates/projects/base.html:148
 msgid "Total remixes"
-msgstr ""
+msgstr "Celkem odvozených"
 
 #: templates/projects/base.html:183
 msgid "Remixes"
-msgstr ""
+msgstr "Odvozené"
 
 #: templates/projects/base.html:195
 msgid "views"
-msgstr ""
+msgstr "přístupy"
 
+# nasleduje datum
 #: templates/projects/shared-other.html:66
 #: templates/projects/shared-owner.html:30
 msgid "Shared on:"
-msgstr ""
+msgstr "Sdíleno od:"
 
 #: templates/projects/unshared-owner.html:59
 msgid "Unshared"
-msgstr ""
+msgstr "Nesdíleno"
 
 #: templates/projects/includes/project_list.html:10
 #, python-format
 msgid "%(tDate)s ago"
-msgstr ""
+msgstr "%(tDate)s staré"
 
 #: templates/projects/includes/shared/shared-project-actions.html:3
 msgid "Share project on other websites"
-msgstr ""
+msgstr "Sdílet projekt na jiných webserverech"
 
 #: templates/projects/includes/shared/shared-project-actions.html:4
 msgid "Share to"
-msgstr ""
+msgstr "Sdílet na"
 
 #: templates/projects/includes/shared/shared-project-actions.html:9
 msgid "Add project to gallery"
@@ -487,7 +487,7 @@ msgstr "Ohlas toto"
 
 #: templates/studio/base.html:29
 msgid "Example tab"
-msgstr ""
+msgstr "Karta s příkladem"
 
 #: templates/studio/studio.html:6
 #, python-format
@@ -535,11 +535,11 @@ msgstr "Nové studio"
 
 #: templates/studio/includes/galleries_action_bar.html:8
 msgid "View:"
-msgstr ""
+msgstr "Přístup:"
 
 #: templates/studio/includes/galleries_action_bar.html:17
 msgid "Most Projects"
-msgstr ""
+msgstr "Většina projektů"
 
 #: templates/studio/includes/galleries_action_bar.html:18
 msgid "Last updated"
@@ -577,7 +577,7 @@ msgstr "Naposledy změněno"
 
 #: templates/studio/includes/project_action_bar.html:37
 msgid "+ New Project"
-msgstr ""
+msgstr "+ Nový projekt"
 
 #: templates/studio/includes/project_list.html:20
 msgid "Created:"

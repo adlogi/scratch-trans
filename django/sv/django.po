@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 23:09+0000\n"
-"PO-Revision-Date: 2013-02-03 19:02+0200\n"
+"PO-Revision-Date: 2013-02-05 21:39+0200\n"
 "Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
@@ -85,9 +85,8 @@ msgid "Parents"
 msgstr "Föräldrar"
 
 #: templates/base.html:237
-#, fuzzy
 msgid "Community Guidelines"
-msgstr "Riktlinjer för Community"
+msgstr "Riktlinjer för Nätgemenskapen"
 
 #: templates/base.html:238
 msgid "Contact us"
@@ -105,9 +104,8 @@ msgstr "Logga in"
 
 # Lite luddigt. I vilket sammanhang
 #: templates/password_required_login.html:31
-#, fuzzy
 msgid "Enter"
-msgstr "Gå med"
+msgstr "Kliv in"
 
 #: templates/carousel/carousel.html:10 templates/carousel/carousel.html:12
 #: templates/carousel/carousel.html:14 templates/carousel/carousel.html:16
@@ -211,7 +209,7 @@ msgstr "Kommentarer ( <span data-count=\"comments\">%(tCount)s</span> )"
 #: templates/galleries/gallery.html:57
 #, python-format
 msgid "Curators ( <span data-count=\"curators\">%(tCount)s</span> )"
-msgstr "Gallerister ( <span data-count=\"curators\">%(tCount)s</span> )"
+msgstr "Administratörer ( <span data-count=\"curators\">%(tCount)s</span> )"
 
 #: templates/galleries/gallery.html:60
 msgid "More info"
@@ -348,21 +346,21 @@ msgstr "övergången till Scratch 2.0"
 
 #: templates/homepage/index.html:151
 msgid "What the Community is Sharing"
-msgstr ""
+msgstr "Vad Nätgemenskapen delar"
 
 #: templates/homepage/index.html:158
 msgid "What the Community is Remixing"
-msgstr ""
+msgstr "Vad Nätgemenskapen remixar"
 
 #: templates/homepage/index.html:161
 msgid "What the Community is Loving"
-msgstr ""
+msgstr "Vad Nätgemenskapen gillar"
 
 #: templates/profiles/profile_detail.html:51
 #: templates/scratch_admin/admin_profile_view.html:41
 #, python-format
 msgid "Joined %(tDate)s ago / "
-msgstr ""
+msgstr "Gick med %(tDate)s sedan / "
 
 #: templates/profiles/profile_detail.html:69
 msgid "About me"
@@ -426,7 +424,6 @@ msgid "Last modified:"
 msgstr "Senast ändrad:"
 
 #: templates/projects/base.html:128
-#, fuzzy
 msgid "Favorite this project"
 msgstr "Favoritmarkera projektet"
 
@@ -439,9 +436,8 @@ msgid "Total views"
 msgstr "Antal visningar"
 
 #: templates/projects/base.html:148
-#, fuzzy
 msgid "Total remixes"
-msgstr "Antal remix"
+msgstr "Antal remixar"
 
 #: templates/projects/base.html:183
 msgid "Remixes"

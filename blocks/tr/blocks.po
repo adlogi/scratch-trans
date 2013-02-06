@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:22+0200\n"
-"PO-Revision-Date: 2013-02-04 00:02+0200\n"
+"PO-Revision-Date: 2013-02-05 08:05+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -39,7 +39,7 @@ msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr "%m.list'e %s'i ekle"
+msgstr "%s i %m.list e ekle"
 
 msgid "answer"
 msgstr "yanıt"
@@ -48,13 +48,12 @@ msgid "ask %s and wait"
 msgstr "%s diye sor ve bekle"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "sahne #"
+msgstr "arka perde #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "sahne adı"
+msgstr "arka perdenin adı"
 
 msgid "broadcast %m.broadcast"
 msgstr "%m.broadcast haberini sal"
@@ -63,34 +62,34 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "%m.broadcast haberini sal ve bekle"
 
 msgid "change %m.effect effect by %n"
-msgstr "%m.effect etkisini %n kadar değiştir"
+msgstr "%m.effect etkisini %n arttır"
 
 msgid "change %m.var by %n"
-msgstr "%m.var'ı %n kadar değiştir"
+msgstr "%m.var ı %n arttır"
 
 msgid "change pen color by %n"
-msgstr "kalem rengini %n kadar değiştir"
+msgstr "kalem rengini %n arttır"
 
 msgid "change pen shade by %n"
-msgstr "kalem tonunu %n kadar değiştir"
+msgstr "kalem tonunu %n arttır"
 
 msgid "change pen size by %n"
-msgstr "kalem kalınlığını %n kadar değiştir"
+msgstr "kalem kalınlığını %n arttır"
 
 msgid "change size by %n"
-msgstr "büyüklüğü %n kadar değiştir"
+msgstr "%n birim büyüt"
 
 msgid "change tempo by %n"
-msgstr "tempoyu %n kadar değiştir"
+msgstr "tempoyu %n arttır"
 
 msgid "change volume by %n"
-msgstr "ses şiddetini %n kadar değiştir"
+msgstr "sesi %n birim yükselt"
 
 msgid "change x by %n"
-msgstr "x'i %n kadar değiştir"
+msgstr "x'i %n arttır"
 
 msgid "change y by %n"
-msgstr "y'yi %n kadar değiştir"
+msgstr "y'yi %n arttır"
 
 msgid "clear"
 msgstr "temizle"
@@ -123,7 +122,7 @@ msgid "define"
 msgstr "tanımla"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "%m.list'in %d.listDeleteItem'ini sil"
+msgstr "sil %d.listDeleteItem ini %m.list in"
 
 msgid "delete this clone"
 msgstr "bu ikizi sil"
@@ -150,7 +149,7 @@ msgid "forever if %b"
 msgstr "%b ise sürekli"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n saniyede x:%n y:%n konumuna git"
+msgstr "%n saniyede x:%n y:%n a git"
 
 msgid "go back %n layers"
 msgstr "%n katman geriye git"
@@ -180,16 +179,16 @@ msgid "if %b"
 msgstr "eğer %b ise"
 
 msgid "if on edge, bounce"
-msgstr "kenara gelince sek"
+msgstr "kenara geldiysen sek"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "%s'i, %m.list'in %d.listItem. sırasına koy"
+msgstr "koy %s i , %d.listItem . sırasına %m.list in"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list'in %d.listItem. sırasındaki"
+msgstr "%d.listItem . sırasındaki %m.list in"
 
 msgid "join %s %s"
-msgstr "%s ile %s'i birleştir"
+msgstr "%s ile %s i birleştir"
 
 msgid "key %m.key pressed?"
 msgstr "%m.key tuşu basılı mı?"
@@ -201,7 +200,7 @@ msgid "length of %s"
 msgstr "%s'in uzunluğu"
 
 msgid "letter %n of %s"
-msgstr "%s'nin %n. harfi"
+msgstr "%n . harfi %s 'nin"
 
 msgid "Looks"
 msgstr "Görünüm"
@@ -228,9 +227,8 @@ msgid "move %n steps"
 msgstr "%n adım git"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
-msgstr "sonraki sahne"
+msgstr "sonraki arka perde"
 
 msgid "next costume"
 msgstr "sonraki kılık"
@@ -280,7 +278,7 @@ msgid "repeat until %b"
 msgstr "%b olana kadar tekrarla"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "%m.list'in %d.listItem sırasındakini %s ile değiştir"
+msgstr "değiştir %d.listItem ini %m.list in %s ile"
 
 msgid "reset timer"
 msgstr "süre ölçeri sıfırla"
@@ -295,7 +293,7 @@ msgid "say %s"
 msgstr "%s de"
 
 msgid "say %s for %n secs"
-msgstr "%n saniye %s de"
+msgstr "%s de %n saniye"
 
 msgid "Scratch days"
 msgstr "Scratch günleri"
@@ -310,7 +308,7 @@ msgid "set %m.effect effect to %n"
 msgstr "%m.effect etkisini %n yap"
 
 msgid "set %m.var to %s"
-msgstr "%m.var'i %n yap"
+msgstr "%m.var i %s yap"
 
 msgid "set instrument to %d.instrument"
 msgstr "çalgıyı %d.instrument yap"
@@ -384,11 +382,11 @@ msgstr "tüm sesleri durdur"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "%m.backdrop sahnesine geç"
+msgstr "%m.backdrop arka perdesine geç"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "%m.backdrop sahnesine geç ve bekle"
+msgstr "%m.backdrop arka perdesine geç ve bekle"
 
 msgid "switch costume to %m.costume"
 msgstr "%m.costume kılığına geç"
@@ -400,7 +398,7 @@ msgid "think %s"
 msgstr "%s diye düşün"
 
 msgid "think %s for %n secs"
-msgstr "%n saniye %s diye düşün"
+msgstr "%s diye düşün %n saniye"
 
 msgid "tilt"
 msgstr "yana eğil"
@@ -415,10 +413,10 @@ msgid "touching color %c?"
 msgstr "%c rengine değdi mi?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "%n derece @turnLeft dön"
+msgstr "dön @turnLeft %n derece"
 
 msgid "turn @turnRight %n degrees"
-msgstr "%n derece @turnRight dön"
+msgstr "dön @turnRight %n derece"
 
 msgid "turn motor off"
 msgstr "motoru kapat"
@@ -461,11 +459,11 @@ msgid "when %m.triggerSensor > %n"
 msgstr "%m.triggerSensor, %n'den büyük olduğunda"
 
 msgid "when @greenFlag clicked"
-msgstr "@greenFlag tıklandığında"
+msgstr "@greenFlag tıklanınca"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "sahne %m.backdrop olduğunda"
+msgstr "arka perde %m.backdrop olduğunda"
 
 msgid "when distance < %n"
 msgstr "mesafe %n'den küçük olduğunda"
@@ -474,7 +472,7 @@ msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast haberi gelince"
 
 msgid "when this sprite clicked"
-msgstr "bu kukla tıklandığında"
+msgstr "bu kukla tıklanınca"
 
 msgid "when tilt = %n"
 msgstr "eğiklik %n olunca"

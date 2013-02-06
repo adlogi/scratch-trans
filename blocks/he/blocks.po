@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Scratch Hebrew Version 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:21+0200\n"
-"PO-Revision-Date: 2013-01-23 14:35+0200\n"
-"Last-Translator: oradwe <orad@scratch.org.il>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2013-02-06 14:33+0200\n"
+"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"Language-Team: Scratch Hebrew Translators <moti.ben.ari@gmail.com>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,22 +24,22 @@ msgid "%b or %b"
 msgstr "%b או %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.spriteOrStage של %m.attribute"
+msgstr "%m.attribute של %m.spriteOrStage"
 
 msgid "%m.list contains %s"
-msgstr "%m.list מכיל %s"
+msgstr "%m.list מכיל %s ?"
 
 msgid "%m.mathOp of %n"
-msgstr "%n של %m.mathOp"
+msgstr "%m.mathOp של %n"
 
 msgid "%m.sensor sensor value"
-msgstr "%m.sensor ערך חישן"
+msgstr "ערך חישן %m.sensor"
 
 msgid "%n mod %n"
-msgstr "%n2 שארית %n1"
+msgstr "%n שארית %n"
 
 msgid "add %s to %m.list"
-msgstr " %m.list ל- %s  הוסף"
+msgstr "הוסף %s ל %m.list"
 
 msgid "answer"
 msgstr "תשובה"
@@ -49,47 +49,47 @@ msgstr "שאל %s והמתן"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "רקע #"
+msgstr "# רקע"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "שם הרקע"
+msgstr "רקע"
 
 msgid "broadcast %m.broadcast"
-msgstr "%m.broadcast שדר מסר"
+msgstr "שדר מסר %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "וחכה %m.broadcast שדר מסר"
+msgstr "שדר מסר %m.broadcast וחכה"
 
 msgid "change %m.effect effect by %n"
-msgstr "%n -ב %m.effect שנה אפקט"
+msgstr "שנה אפקט %m.effect ב %n"
 
 msgid "change %m.var by %n"
-msgstr "%n ב- %m.var שנה ערך"
+msgstr "שנה ערך %m.var ב %n"
 
 msgid "change pen color by %n"
-msgstr "%n שנה צבע עט ב"
+msgstr "שנה צבע עט ב %n"
 
 msgid "change pen shade by %n"
-msgstr "%n שנה צבע צל ב"
+msgstr "שנה הצללת עט ב %n"
 
 msgid "change pen size by %n"
-msgstr "%n שנה גודל עט"
+msgstr "שנה גודל עט ב %n"
 
 msgid "change size by %n"
-msgstr "%n שנה גודל ב"
+msgstr "שנה גודל ב %n"
 
 msgid "change tempo by %n"
-msgstr "%n שנה קצב"
+msgstr "שנה קצב ב %n"
 
 msgid "change volume by %n"
-msgstr "%n שנה עוצמה"
+msgstr "שנה עוצמת קול ב %n"
 
 msgid "change x by %n"
-msgstr "%n ב x שנה ערך "
+msgstr "שנה ערך x ב %n"
 
 msgid "change y by %n"
-msgstr "%n ב y שנה ערך"
+msgstr "שנה ערך y ב %n"
 
 msgid "clear"
 msgstr "נקה"
@@ -98,10 +98,10 @@ msgid "clear graphic effects"
 msgstr "נקה אפקטים"
 
 msgid "clone startup"
-msgstr "כפיל פועל"
+msgstr "הפעל כפיל"
 
 msgid "color %c is touching %c?"
-msgstr "%c2 מעל צבע %c1 צבע"
+msgstr "צבע %c נוגע בצבע %c ?"
 
 msgid "Control"
 msgstr "בקרה"
@@ -110,7 +110,7 @@ msgid "costume #"
 msgstr "תלבושת"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "צור כפיל מדמות %m בלבד"
+msgstr "צור כפיל של %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "%m.timeAndDate נוכחי"
@@ -122,7 +122,7 @@ msgid "define"
 msgstr "הגדר"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr " %m.list מתוך %d.listDeleteItem מחק"
+msgstr "מחק פריט %d.listDeleteItem מתוך %m.list"
 
 msgid "delete this clone"
 msgstr "מחק כפיל זה"
@@ -134,7 +134,7 @@ msgid "distance"
 msgstr "מרחק"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse המרחק אל"
+msgstr "המרחק אל %m.spriteOrMouse"
 
 msgid "else"
 msgstr "ואם לא"
@@ -146,61 +146,61 @@ msgid "forever"
 msgstr "לעולמים"
 
 msgid "forever if %b"
-msgstr "%b לעולמים אם"
+msgstr "לעולמים אם %b"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n3 :y %n2 :x-שניות ל %n1 גלוש"
+msgstr "גלוש %n שניות ל :x %n :y %n"
 
 msgid "go back %n layers"
-msgstr "לאחור %n העבר שכבה"
+msgstr "העבר שיכבה %n לאחור"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse קפוץ אל"
+msgstr "קפוץ אל %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "העבר לשיכבה הקדמית"
 
 msgid "go to x:%n y:%n"
-msgstr "%n2 :y %n1 :x-קפוץ אל"
+msgstr " קפוץ אל :x %n :y %n"
 
 msgid "hide"
 msgstr "הסתר"
 
 msgid "hide all sprites"
-msgstr "הסתר את כל הדמויות"
+msgstr "הדמויות כל את הסתר"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "הסתר רשימה %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "הסתר משתנה %m.var"
 
 msgid "if %b"
-msgstr "%b אם"
+msgstr "אם %b"
 
 msgid "if on edge, bounce"
 msgstr "בנגיעה במסגרת הפוך כיוון"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr " %m.list של %d.listItem ב- %s הכנס"
+msgstr "הכנס %s במקום %d.listItem של %m.list"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list של %d.listItemפריט"
+msgstr "פריט %d.listItem של %m.list"
 
 msgid "join %s %s"
 msgstr "חבר %s %s"
 
 msgid "key %m.key pressed?"
-msgstr " ?נלחץ %m.key  מקש "
+msgstr "מקש %m.key נלחץ ?"
 
 msgid "length of %m.list"
-msgstr " של %m.list אורך"
+msgstr "אורך של %m.list"
 
 msgid "length of %s"
 msgstr "אורך של %s"
 
 msgid "letter %n of %s"
-msgstr "עות %n של %s"
+msgstr "אות %n של %s"
 
 msgid "Looks"
 msgstr "מראה"
@@ -209,33 +209,32 @@ msgid "loudness"
 msgstr "עוצמת המיקרופון"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "לבנים נוספות"
 
 msgid "Motion"
 msgstr "תנועה"
 
 msgid "mouse down?"
-msgstr "?עכבר נלחץ"
+msgstr "עכבר נלחץ ?"
 
 msgid "mouse x"
-msgstr "x ערך עכבר בציר"
+msgstr "ערך עכבר בציר x"
 
 msgid "mouse y"
-msgstr "y ערך עכבר בציר"
+msgstr "ערך עכבר בציר y"
 
 msgid "move %n steps"
-msgstr "צעדים %n זוז"
+msgstr "זוז %n צעדים"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
-msgstr "הרקע הבא"
+msgstr "הבאה הרקע"
 
 msgid "next costume"
 msgstr "התלבושת הבאה"
 
 msgid "not %b"
-msgstr "%b לא"
+msgstr "לא %b"
 
 msgid "Operators"
 msgstr "מפעילים"
@@ -250,121 +249,115 @@ msgid "pen up"
 msgstr "עט מעלה"
 
 msgid "pick random %n to %n"
-msgstr "%n2 -ל %n1 בחר מספר אקראי בין"
+msgstr "בחר מספר אקראי בין %n ל %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "beats %n למשך %d.drum נגן בתוף"
+msgstr "נגן בתוף %d.drum למשך %n פעימות"
 
-# 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "beats %n למשך %d.note נגן תו"
+msgstr "נגן תו %d.note במשך %n פעימות"
 
 msgid "play sound %m.sound"
-msgstr "%m.sound נגן צליל"
+msgstr "נגן צליל %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr "עד לסיום %m.sound נגן צליל"
+msgstr "נגן צליל %m.sound עד לסיום"
 
 msgid "point in direction %d.direction"
-msgstr "%d.direction פנה לכיוון"
+msgstr "פנה לכיוון %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse פנה לכיוונו של"
+msgstr "פנה לכיוון של %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr "פעמים %n חזור"
+msgstr "חזור %n פעמים"
 
 msgid "repeat until %b"
-msgstr "%b ...חזור עד ש "
+msgstr "חזור עד ש %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr " %s של %m.list עם %d.listItem החלף"
+msgstr "קבע פריט %d.listItem של %m.list ל %s"
 
 msgid "reset timer"
 msgstr "אפס מונה"
 
 msgid "rest for %n beats"
-msgstr "ביטים %n אפס למשך"
+msgstr "נח למשך %n פעימות"
 
 msgid "round %n"
-msgstr "%n עגל"
+msgstr "עגל %n"
 
 msgid "say %s"
-msgstr "%s אמור"
+msgstr "אמור %s"
 
 msgid "say %s for %n secs"
-msgstr "שניות %n למשך %s אמור"
+msgstr "אמור %s למשך %n שניות"
 
 msgid "Scratch days"
-msgstr ""
+msgstr "ימי Scratch"
 
 msgid "Sensing"
 msgstr "חיישנים"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "؟%m.booleanSensor חישן"
+msgstr "חישן %m.booleanSensor ?"
 
 msgid "set %m.effect effect to %n"
-msgstr "%n ל- %m.effect קבע אפקט"
+msgstr "קבע אפקט %m.effect ל %n"
 
 msgid "set %m.var to %s"
-msgstr "%n -ל %m.var קבע"
+msgstr "קבע %m.var ל %s"
 
 msgid "set instrument to %d.instrument"
-msgstr "%d.instrument קבע כלי נגינה"
+msgstr "קבע כלי נגינה %d.instrument"
 
-# 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "כוון מנוע %m.motorDirection"
+msgstr "קבע כיוון מנוע ל %m.motorDirection"
 
-# 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "עוצמת מנוע %n"
+msgstr "קבע עוצמת מנוע ל %n"
 
 msgid "set pen color to %c"
-msgstr "%c קבע צבע עט"
+msgstr "קבע צבע עט ל %c"
 
 msgid "set pen color to %n"
-msgstr "%c קבע צבע עט"
+msgstr "קבע צבע עט ל %n"
 
 msgid "set pen shade to %n"
-msgstr "%n-קבע צל ל"
+msgstr "קבע הצללת עט ל %n"
 
 msgid "set pen size to %n"
-msgstr "%n -קבע גודל עט ל"
+msgstr "קבע גודל עט ל %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "קבע אופן סיבוב %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr "% %n -קבע גודל ל"
+msgstr "קבע גודל ל %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "bpm %n -קבע קצב ל"
+msgstr "קבע קצב ל %n פעימות לדקה"
 
 msgid "set video transparency to %n%"
-msgstr "קבע שקיפות וידאו ל%n%"
+msgstr "% %n ל ווידיאו שקיפות קבע"
 
 msgid "set volume to %n%"
-msgstr "% %n קבע עוצמת קול"
+msgstr "קבע עוצמת קול ל %n%"
 
 msgid "set x to %n"
-msgstr "%n-ל x קבע ערך"
+msgstr "קבע ערך x ל %n"
 
 msgid "set y to %n"
-msgstr "%n -ל y קבע ערך"
+msgstr "קבע ערך y ל %n"
 
 msgid "show"
 msgstr "הצג"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "הצג רשימה %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "הצג משתנה %m.var"
 
 msgid "size"
 msgstr "גודל"
@@ -373,116 +366,112 @@ msgid "Sound"
 msgstr "צלילים"
 
 msgid "stamp"
-msgstr "חותמת"
+msgstr "החתם"
 
 msgid "stop %m.stop"
-msgstr "עצור m.stop%"
+msgstr "עצור %m.stop"
 
 msgid "stop all sounds"
 msgstr "הפסק את כל הצלילים"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "החלף רקע ל m.backdrop%"
+msgstr "קבע רקע ל %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "החלף רקע ל m.backdrop% וחכה"
+msgstr "קבע רקע ל %m.backdrop וחכה"
 
 msgid "switch costume to %m.costume"
-msgstr "החלף תלבושת ל m.costume%"
+msgstr "קבע תלבושת ל %m.costume"
 
 msgid "tempo"
 msgstr "קצב"
 
 msgid "think %s"
-msgstr "%s חשוב"
+msgstr "חשוב %s"
 
 msgid "think %s for %n secs"
-msgstr "שניות %n למשך %s  חשוב"
+msgstr "חשוב %s למשך %n שניות"
 
 msgid "tilt"
-msgstr "הטה"
+msgstr "הטיה"
 
 msgid "timer"
 msgstr "מונה"
 
 msgid "touching %m.touching?"
-msgstr "?%m.touching נוגע"
+msgstr "נוגע ב %m.touching?"
 
 msgid "touching color %c?"
-msgstr "?%c נוגע בצבע"
+msgstr "נוגע בצבע %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "הסתובב @הסתובבשמאל %n מעלות"
+msgstr "הסתובב @turnLeft %n מעלות"
 
 msgid "turn @turnRight %n degrees"
-msgstr "הסתובב @הסתובבימינה %n מעלות"
+msgstr "הסתובב @turnRight %n מעלות"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "כבה מנוע"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "הפעל מנוע"
 
-# 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "מנוע דלוק %n שניות"
+msgstr "הפעל מנוע ל %n שניות"
 
 msgid "turn video %m.videoState"
-msgstr "סובב וידאו m.videoState%"
+msgstr "%m.videoState ל ווידיאו מצב שנה"
 
 msgid "user id"
-msgstr "זיהוי משתמש"
+msgstr "שם משתמש"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "וודיאו %m.videoMotionType ב %m.stageOrThis"
 
 msgid "volume"
 msgstr "עוצמת קול"
 
 msgid "wait %n secs"
-msgstr "שניות %n חכה"
+msgstr "חכה %n שניות"
 
 msgid "wait until %b"
-msgstr "%b ...חכה עד ש"
+msgstr "חכה עד ש %b"
 
-# 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "؟%m.booleanSensor חישן"
+msgstr "כאשר %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "כאשר נלחץ מקש %m.key "
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "כאשר %m.triggerSensor < %n"
 
 msgid "when @greenFlag clicked"
 msgstr "כאשר לוחצים על  @greenFlag  "
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "כאשר הרקע משתנה ל m.backdrop%"
+msgstr "כאשר הרקע משתנה ל %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "כאשר מרחק > %n"
 
 msgid "when I receive %m.broadcast"
-msgstr "כאשר אני מקבל %m.מסר"
+msgstr "כשמתקבל מסר %m.broadcast"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "כאשר לוחצים על דמות זו"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "כאשר הטיה = %n"
 
 msgid "x position"
-msgstr " x מיקום על ציר"
+msgstr "מיקום על ציר x"
 
 msgid "y position"
-msgstr "y מיקום על ציר"
+msgstr "מיקום על ציר y"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "כוון מנוע %m.motorDirection"
