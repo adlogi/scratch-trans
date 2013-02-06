@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:20+0200\n"
-"PO-Revision-Date: 2013-01-30 12:39+0200\n"
+"PO-Revision-Date: 2013-01-31 21:33+0200\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -13,9 +13,9 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.1.6\n"
 
-# The language name as it will appear in the language menu
+# The language name as it will appear in the language menu. "Č" v 1.4 je na konci abecedy!  
 msgid "Language-Name"
-msgstr "Czech"
+msgstr "Česky"
 
 msgid "%b and %b"
 msgstr "%b a %b"
@@ -118,8 +118,9 @@ msgstr "aktuální %m.timeAndDate"
 msgid "Data"
 msgstr "Data"
 
+# deti pry nerozumi definuj
 msgid "define"
-msgstr "definuj"
+msgstr "blok"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "zruš %d.listDeleteItem z %m.list"
@@ -208,8 +209,9 @@ msgstr "Vzhled"
 msgid "loudness"
 msgstr "hlasitost"
 
+# moje, senzory a WeDo
 msgid "More Blocks"
-msgstr "Další bloky"
+msgstr "Bloky"
 
 msgid "Motion"
 msgstr "Pohyb"
@@ -510,13 +512,15 @@ msgstr "pozice y"
 #~ msgid "when I am clicked"
 #~ msgstr "po kliknutí na mě"
 
-#User Interface
+##################
+# User Interface #
+##################
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2013-01-30 14:08+0200\n"
+"PO-Revision-Date: 2013-01-31 21:12+0200\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -542,19 +546,19 @@ msgid "acos"
 msgstr "arccos"
 
 msgid "Add a boolean input:"
-msgstr "Vlož logickou hodnotu:"
+msgstr "Přidat logický parametr:"
 
 msgid "Add a number input:"
-msgstr "Vlož číslo:"
+msgstr "Přidat číselný parametr:"
 
 msgid "Add a string input:"
-msgstr "Vlož textový řetězec:"
+msgstr "Přidat textový parametr:"
 
 msgid "add comment"
 msgstr "přidat komentář"
 
 msgid "Add label text:"
-msgstr "Vlož název:"
+msgstr "Přidat nápis:"
 
 msgid "all"
 msgstr "všechno"

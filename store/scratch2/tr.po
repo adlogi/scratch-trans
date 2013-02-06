@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:22+0200\n"
-"PO-Revision-Date: 2012-12-10 08:20+0200\n"
-"Last-Translator: syalcin <sedat.yalcin@gmail.com>\n"
+"PO-Revision-Date: 2013-02-04 00:02+0200\n"
+"Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -27,278 +27,278 @@ msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage'in %m.attribute'sı"
 
 msgid "%m.list contains %s"
-msgstr "%m.list, %s içermektedir"
+msgstr "%m.list de %s var"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp da %n"
 
 msgid "%m.sensor sensor value"
-msgstr "Sensör değeri %m.sensor"
+msgstr "sensör değeri %m.sensor"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr "%s'e %m.list ekleyin"
+msgstr "%m.list'e %s'i ekle"
 
 msgid "answer"
 msgstr "yanıt"
 
 msgid "ask %s and wait"
-msgstr "%s sor ve bekle"
+msgstr "%s diye sor ve bekle"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #, fuzzy
 msgid "backdrop #"
-msgstr "Arkaplan #"
+msgstr "sahne #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "sahne adı"
 
 msgid "broadcast %m.broadcast"
-msgstr "%m.broadcast yayınlayın"
+msgstr "%m.broadcast haberini sal"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "%m.broadcast yayınlayın ve bekleyin"
+msgstr "%m.broadcast haberini sal ve bekle"
 
 msgid "change %m.effect effect by %n"
-msgstr "%m.effect efektini %n ile değiştirin"
+msgstr "%m.effect etkisini %n kadar değiştir"
 
 msgid "change %m.var by %n"
-msgstr "%m.var %n kadar değiştirin"
+msgstr "%m.var'ı %n kadar değiştir"
 
 msgid "change pen color by %n"
-msgstr "Kalem rengini %n değiştirin"
+msgstr "kalem rengini %n kadar değiştir"
 
 msgid "change pen shade by %n"
-msgstr "Kalem gölgesini %n değiştirin"
+msgstr "kalem tonunu %n kadar değiştir"
 
 msgid "change pen size by %n"
-msgstr "Kalem boyunu %n değiştirin"
+msgstr "kalem kalınlığını %n kadar değiştir"
 
 msgid "change size by %n"
-msgstr "Boyu %n değiştirin"
+msgstr "büyüklüğü %n kadar değiştir"
 
 msgid "change tempo by %n"
-msgstr "Tempoyu %n değiştirin"
+msgstr "tempoyu %n kadar değiştir"
 
 msgid "change volume by %n"
-msgstr "Sesi %n değiştirin"
+msgstr "ses şiddetini %n kadar değiştir"
 
 msgid "change x by %n"
-msgstr "x'i %n değiştirin"
+msgstr "x'i %n kadar değiştir"
 
 msgid "change y by %n"
-msgstr "y'yi %n değiştirin"
+msgstr "y'yi %n kadar değiştir"
 
 msgid "clear"
-msgstr "Temizleyin"
+msgstr "temizle"
 
 msgid "clear graphic effects"
-msgstr "Grafik efektlerini temizleyin"
+msgstr "görsel etkileri temizle"
 
 msgid "clone startup"
-msgstr ""
+msgstr "ikiz başlangıcı"
 
 msgid "color %c is touching %c?"
-msgstr "%c renk %c renge yaklaşıyor mu?"
+msgstr "%c rengi %c rengine değdi mi?"
 
 msgid "Control"
 msgstr "Kontrol"
 
 msgid "costume #"
-msgstr "Kostüm #"
+msgstr "kılık #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "%m.spriteOnly'in ikizini yarat"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "şimdiki %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Veri"
 
 msgid "define"
-msgstr ""
+msgstr "tanımla"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "%d.listDeleteItem'in %m.list'sini silin"
+msgstr "%m.list'in %d.listDeleteItem'ini sil"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "bu ikizi sil"
 
 msgid "direction"
-msgstr "Yön"
+msgstr "yön"
 
 msgid "distance"
-msgstr ""
+msgstr "mesafe"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse uzaklığı"
+msgstr "%m.spriteOrMouse'a mesafe"
 
 msgid "else"
-msgstr "Başka"
+msgstr "değilse"
 
 msgid "Events"
-msgstr ""
+msgstr "Olaylar"
 
 msgid "forever"
-msgstr "Sürekli"
+msgstr "sürekli"
 
 msgid "forever if %b"
 msgstr "%b ise sürekli"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n saniyede x:%n y:%n konumuna gidin"
+msgstr "%n saniyede x:%n y:%n konumuna git"
 
 msgid "go back %n layers"
-msgstr "%n katman geriye gidin"
+msgstr "%n katman geriye git"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse'e gidin"
+msgstr "%m.spriteOrMouse'e git"
 
 msgid "go to front"
-msgstr "Öne gidin"
+msgstr "öne git"
 
 msgid "go to x:%n y:%n"
-msgstr "x:%n y:%n konumuna gidin"
+msgstr "x:%n y:%n konumuna git"
 
 msgid "hide"
-msgstr "Gizleyin"
+msgstr "gizle"
 
 msgid "hide all sprites"
-msgstr ""
+msgstr "tüm kuklaları gizle"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "%m.list listesini gizle"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "%m.var değişkenini gizle"
 
 msgid "if %b"
-msgstr "Eğer %b ise"
+msgstr "eğer %b ise"
 
 msgid "if on edge, bounce"
-msgstr "Kenarda ise, zıplatın"
+msgstr "kenara gelince sek"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "%s'in %d.listItem'sine %m.list'i ekleyin"
+msgstr "%s'i, %m.list'in %d.listItem. sırasına koy"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%d.listItem'in %m.list parçası"
+msgstr "%m.list'in %d.listItem. sırasındaki"
 
 msgid "join %s %s"
-msgstr "%s %s dahil ol"
+msgstr "%s ile %s'i birleştir"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key tuşu basılı?"
+msgstr "%m.key tuşu basılı mı?"
 
 msgid "length of %m.list"
 msgstr "%m.list'in uzunluğu"
 
 msgid "length of %s"
-msgstr "%s uzunluğu"
+msgstr "%s'in uzunluğu"
 
 msgid "letter %n of %s"
-msgstr "%s'nin %n harfi"
+msgstr "%s'nin %n. harfi"
 
 msgid "Looks"
 msgstr "Görünüm"
 
 msgid "loudness"
-msgstr "Ses yüksekliği"
+msgstr "ses şiddeti"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Diğer Bloklar"
 
 msgid "Motion"
 msgstr "Hareket"
 
 msgid "mouse down?"
-msgstr "Mouse basılı?"
+msgstr "fareye basılı mı?"
 
 msgid "mouse x"
-msgstr "Mouse x"
+msgstr "farenin x'i"
 
 msgid "mouse y"
-msgstr "Mouse y"
+msgstr "farenin y'si"
 
 msgid "move %n steps"
-msgstr "%n adım gidin"
+msgstr "%n adım git"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #, fuzzy
 msgid "next backdrop"
-msgstr "Sonraki arka plan"
+msgstr "sonraki sahne"
 
 msgid "next costume"
-msgstr "Sonraki karakter"
+msgstr "sonraki kılık"
 
 msgid "not %b"
 msgstr "%b değil"
 
 msgid "Operators"
-msgstr "operatörler"
+msgstr "İşlemler"
 
 msgid "Pen"
 msgstr "Kalem"
 
 msgid "pen down"
-msgstr "Kalemi bastırın"
+msgstr "kalemi bastır"
 
 msgid "pen up"
-msgstr "Kalemi kaldırın"
+msgstr "kalemi kaldır"
 
 msgid "pick random %n to %n"
-msgstr "%n ile %n arası rastgele seçin"
+msgstr "%n ile %n arasında bir sayı seç"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "%d.drum bateriyi %n defa çalın"
+msgstr "%d.drum davulunu %n vuruş çal"
 
 # 83%
 #, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "%d.note notasını %n defa çalın"
+msgstr "%d.note notasını %n vuruş çal"
 
 msgid "play sound %m.sound"
-msgstr "%m.sound sesini çalın"
+msgstr "%m.sound sesini çal"
 
 msgid "play sound %m.sound until done"
-msgstr "%m.sound sesini bitene kadar çalın"
+msgstr "%m.sound sesini bitene kadar çal"
 
 msgid "point in direction %d.direction"
-msgstr "%d.direction yönüne dönün"
+msgstr "%d.direction yönüne dön"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse doğru dönün"
+msgstr "%m.spriteOrMouse'a doğru dön"
 
 msgid "repeat %n"
-msgstr "%n defa tekrarlayın"
+msgstr "%n defa tekrarla"
 
 msgid "repeat until %b"
-msgstr "%b olana kadar tekrarlayın"
+msgstr "%b olana kadar tekrarla"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "%d.listItem'in %m.list'sini %s olarak değiştirin"
+msgstr "%m.list'in %d.listItem sırasındakini %s ile değiştir"
 
 msgid "reset timer"
-msgstr "sayacı sıfırlayın"
+msgstr "süre ölçeri sıfırla"
 
 msgid "rest for %n beats"
-msgstr "%n vuruşunu bekleyin"
+msgstr "%n vuruş sus"
 
 msgid "round %n"
-msgstr "%n yuvarlayın"
+msgstr "%n'i yuvarla"
 
 msgid "say %s"
-msgstr "söyleyin:%s"
+msgstr "%s de"
 
 msgid "say %s for %n secs"
-msgstr "Söyle:%s süre:%n saniye"
+msgstr "%n saniye %s de"
 
 msgid "Scratch days"
-msgstr ""
+msgstr "Scratch günleri"
 
 msgid "Sensing"
 msgstr "Algılama"
@@ -307,177 +307,177 @@ msgid "sensor %m.booleanSensor?"
 msgstr "Sensör %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
-msgstr "%m.effect efektini %n yapın"
+msgstr "%m.effect etkisini %n yap"
 
 msgid "set %m.var to %s"
-msgstr "%m.var'i %n yapın"
+msgstr "%m.var'i %n yap"
 
 msgid "set instrument to %d.instrument"
-msgstr "Enstrümanı %d.instrument yapın"
+msgstr "çalgıyı %d.instrument yap"
 
 # 89%
 #, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "%m.motorDirection motor yönü"
+msgstr "motor yönünü %m.motorDirection yap"
 
 # 77%
 #, fuzzy
 msgid "set motor power %n"
-msgstr "motor gücü %n"
+msgstr "motor gücünü %n yap"
 
 msgid "set pen color to %c"
-msgstr "Kalem rengini %c yapın"
+msgstr "kalem rengini %c yap"
 
 msgid "set pen color to %n"
-msgstr "Kalem rengini %c yapın"
+msgstr "kalem rengini %n yap"
 
 msgid "set pen shade to %n"
-msgstr "Kalem gölgesini %n yapın"
+msgstr "kalem tonunu %n yap"
 
 msgid "set pen size to %n"
-msgstr "Kalem boyunu %n yapın"
+msgstr "kalem kalınlığını %n yap"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "dönüş tarzını %m.rotationStyle yap"
 
 msgid "set size to %n%"
-msgstr "Boyu %n% yapın"
+msgstr "boyu %n% yap"
 
 msgid "set tempo to %n bpm"
-msgstr "Tempoyu %n bpm yapın"
+msgstr "tempoyu %n vuruş/dk yap"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "video saydamlığını %n% yap"
 
 msgid "set volume to %n%"
-msgstr "Ses yüksekliğini %n% yapın"
+msgstr "ses şiddetini %n% yap"
 
 msgid "set x to %n"
-msgstr "x'i %n yapın"
+msgstr "x'i %n yap"
 
 msgid "set y to %n"
-msgstr "y'yi %n yapın"
+msgstr "y'yi %n yap"
 
 msgid "show"
-msgstr "Göster"
+msgstr "göster"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "%m.list listesini göster"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "%m.var değişkenini göster"
 
 msgid "size"
-msgstr "Ebat"
+msgstr "boyut"
 
 msgid "Sound"
 msgstr "Ses"
 
 msgid "stamp"
-msgstr "Damga"
+msgstr "damga"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "%m.stop'u durdur"
 
 msgid "stop all sounds"
-msgstr "Tüm sesleri durdurun"
+msgstr "tüm sesleri durdur"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "%m.backdrop sahnesine geç"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "%m.backdrop sahnesine geç ve bekle"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "%m.costume kılığına geç"
 
 msgid "tempo"
-msgstr "Tempo"
+msgstr "tempo"
 
 msgid "think %s"
-msgstr "%s'i düşünün"
+msgstr "%s diye düşün"
 
 msgid "think %s for %n secs"
-msgstr "%s süre %n saniye düşünün"
+msgstr "%n saniye %s diye düşün"
 
 msgid "tilt"
-msgstr ""
+msgstr "yana eğil"
 
 msgid "timer"
-msgstr "Zamanlayıcı"
+msgstr "süre ölçer"
 
 msgid "touching %m.touching?"
-msgstr "%m.touching yaklaşıyor mu?"
+msgstr "%m.touching değdi mi?"
 
 msgid "touching color %c?"
-msgstr "%c rengine yaklaşıyor mu?"
+msgstr "%c rengine değdi mi?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "%n derece @turnLeft dön"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "%n derece @turnRight dön"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "motoru kapat"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "motoru çalıştır"
 
 # 80%
 #, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "%n saniye için motor açık"
+msgstr "%n saniye motoru çalıştır"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "videoyu %m.videoState"
 
 msgid "user id"
-msgstr ""
+msgstr "kullanıcı kimliği"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr ""
 
 msgid "volume"
-msgstr "Ses"
+msgstr "ses şiddeti"
 
 msgid "wait %n secs"
-msgstr "%n saniye bekleyin"
+msgstr "%n saniye bekle"
 
 msgid "wait until %b"
-msgstr "%b olana kadar bekleyin"
+msgstr "%b olana kadar bekle"
 
 # 75%
 #, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "Sensör %m.booleanSensor?"
+msgstr "%m.booleanSensor olduğunda"
 
 msgid "when %m.key key pressed"
 msgstr "%m.key tuşu basıldığında"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "%m.triggerSensor, %n'den büyük olduğunda"
 
 msgid "when @greenFlag clicked"
 msgstr "@greenFlag tıklandığında"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "sahne %m.backdrop olduğunda"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "mesafe %n'den küçük olduğunda"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "%m.broadcast haberi gelince"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "bu kukla tıklandığında"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "eğiklik %n olunca"
 
 msgid "x position"
 msgstr "x konumu"
@@ -503,14 +503,16 @@ msgstr "y konumu"
 #~ msgid "play note %n for %n beats"
 #~ msgstr "%d.note notasını %n defa çalın"
 
-#User Interface
+##################
+# User Interface #
+##################
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:53+0200\n"
-"PO-Revision-Date: 2013-01-30 23:47+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-02-04 08:08+0200\n"
+"Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -619,13 +621,13 @@ msgid "Cello"
 msgstr "Viyolonsel"
 
 msgid "Choir"
-msgstr ""
+msgstr "Koro"
 
 msgid "Clarinet"
 msgstr "Klarnet"
 
 msgid "Claves"
-msgstr "Claves"
+msgstr "Tahta çubuk"
 
 msgid "clear senders/receivers"
 msgstr ""
@@ -637,7 +639,7 @@ msgid "color"
 msgstr "renk"
 
 msgid "Conga"
-msgstr ""
+msgstr "Tumba"
 
 msgid "copy"
 msgstr "Kopya"
@@ -646,55 +648,55 @@ msgid "cos"
 msgstr ""
 
 msgid "costume #"
-msgstr ""
+msgstr "kılık #"
 
 msgid "costume name"
-msgstr ""
+msgstr "kılığın adı"
 
 msgid "costume1"
-msgstr ""
+msgstr "kılık1"
 
 msgid "costume2"
-msgstr ""
+msgstr "kılık2"
 
 msgid "Cowbell"
 msgstr "İnek Çanı"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Büyük Zil"
 
 msgid "cut"
-msgstr ""
+msgstr "kes"
 
 msgid "D connected"
 msgstr ""
 
 msgid "date"
-msgstr ""
+msgstr "tarih"
 
 msgid "day of week"
-msgstr ""
+msgstr "haftanın günü"
 
 msgid "delete"
-msgstr "silin"
+msgstr "sil"
 
 msgid "direction"
-msgstr ""
+msgstr "yön"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "çevirme"
 
 msgid "down"
 msgstr "aşağı"
 
 msgid "down arrow"
-msgstr "aşağı oku"
+msgstr "aşağı ok"
 
 msgid "Duplicate"
-msgstr "çoğaltın"
+msgstr "eşini yarat"
 
 msgid "duplicate"
-msgstr "çoğaltın"
+msgstr "eşini yarat"
 
 msgid "e ^"
 msgstr ""
@@ -703,34 +705,34 @@ msgid "edge"
 msgstr "kenar"
 
 msgid "edit"
-msgstr "Düzenle"
+msgstr "düzenle"
 
 msgid "Edit"
 msgstr "Düzenle"
 
 msgid "Effects"
-msgstr ""
+msgstr "Etkiler"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Elektro Gitar"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Elektro Piano"
 
 msgid "fade in"
-msgstr ""
+msgstr "yoğunlaş"
 
 msgid "fade out"
-msgstr ""
+msgstr "buharlaş"
 
 msgid "File"
-msgstr ""
+msgstr "Dosya"
 
 msgid "fisheye"
 msgstr "balık gözü"
 
 msgid "floor"
-msgstr ""
+msgstr "zemin"
 
 msgid "Flute"
 msgstr "Flüt"
@@ -742,13 +744,13 @@ msgid "Guiro"
 msgstr ""
 
 msgid "Guitar"
-msgstr ""
+msgstr "Gitar"
 
 msgid "Hand Clap"
-msgstr "Alkışlama"
+msgstr "El Çırpma"
 
 msgid "hour"
-msgstr ""
+msgstr "saat"
 
 msgid "Import"
 msgstr "içeri aktarın"
@@ -763,16 +765,16 @@ msgid "left arrow"
 msgstr "sol ok"
 
 msgid "left-right"
-msgstr ""
+msgstr "sol-sağ"
 
 msgid "Library"
-msgstr ""
+msgstr "Kütüphane"
 
 msgid "light"
 msgstr "ışık"
 
 msgid "ln"
-msgstr ""
+msgstr "İçeri"
 
 msgid "log"
 msgstr ""
@@ -784,53 +786,53 @@ msgid "louder"
 msgstr ""
 
 msgid "loudness"
-msgstr ""
+msgstr "ses şiddeti"
 
 msgid "Marimba"
 msgstr "Marimba"
 
 msgid "message1"
-msgstr ""
+msgstr "mesaj1"
 
 msgid "middle"
-msgstr ""
+msgstr "orta"
 
 msgid "minute"
-msgstr ""
+msgstr "dakika"
 
 msgid "month"
-msgstr ""
+msgstr "ay"
 
 msgid "mosaic"
 msgstr "mozaik"
 
 msgid "motion"
-msgstr ""
+msgstr "hareket"
 
 msgid "mouse-pointer"
-msgstr "mouse işaretçisi"
+msgstr "fare işaretçisi"
 
 msgid "Music Box"
 msgstr "Müzik Kutusu"
 
 msgid "myself"
-msgstr ""
+msgstr "kendim"
 
 msgid "name"
-msgstr ""
+msgstr "isim"
 
 #, fuzzy
 msgid "New"
-msgstr "Nouveau"
+msgstr "Yeni"
 
 msgid "New backdrop"
-msgstr ""
+msgstr "Yeni sahne"
 
 msgid "New costume"
-msgstr ""
+msgstr "Yeni kılık"
 
 msgid "new message..."
-msgstr ""
+msgstr "yeni mesaj..."
 
 msgid "New sound"
 msgstr ""

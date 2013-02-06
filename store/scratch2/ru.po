@@ -506,13 +506,15 @@ msgstr "положение y"
 #~ msgid "when I am clicked"
 #~ msgstr "когда я щелкну "
 
-#User Interface
+##################
+# User Interface #
+##################
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:53+0200\n"
-"PO-Revision-Date: 2012-12-24 11:20+0200\n"
+"PO-Revision-Date: 2013-02-02 15:27+0200\n"
 "Last-Translator: patarakin <patarakin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
@@ -524,15 +526,14 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 
 msgid "#"
-msgstr ""
+msgstr "#"
 
 msgid "10 ^"
-msgstr ""
+msgstr "10 ^"
 
 # 90%
-#, fuzzy
 msgid "A connected"
-msgstr "B соединен"
+msgstr "A соединен"
 
 msgid "abs"
 msgstr "модуль"
@@ -550,10 +551,10 @@ msgid "Add a string input:"
 msgstr "Добавить строку"
 
 msgid "add comment"
-msgstr ""
+msgstr "добавить комментарий"
 
 msgid "Add label text:"
-msgstr ""
+msgstr "Добавить текст ярлыка"
 
 msgid "all"
 msgstr "все"
@@ -580,7 +581,7 @@ msgid "backdrop1"
 msgstr "фон 1"
 
 msgid "Backpack"
-msgstr ""
+msgstr "Рюкзак"
 
 msgid "Bass"
 msgstr ""
@@ -661,9 +662,8 @@ msgid "costume1"
 msgstr "костюм1"
 
 # 87%
-#, fuzzy
 msgid "costume2"
-msgstr "костюм1"
+msgstr "костюм2"
 
 msgid "Cowbell"
 msgstr "Колокольчик"
@@ -690,7 +690,7 @@ msgid "direction"
 msgstr "направление"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "не вращать"
 
 msgid "down"
 msgstr "вниз"
@@ -729,16 +729,16 @@ msgid "fade in"
 msgstr "увеличивать"
 
 msgid "fade out"
-msgstr ""
+msgstr "исчезать"
 
 msgid "File"
-msgstr ""
+msgstr "Файл"
 
 msgid "fisheye"
 msgstr "рыбий глаз"
 
 msgid "floor"
-msgstr ""
+msgstr "пол"
 
 msgid "Flute"
 msgstr "Флейта"

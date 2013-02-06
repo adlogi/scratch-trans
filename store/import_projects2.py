@@ -68,5 +68,6 @@ def generateLanguagesList():
 					break
 
 
-importProject()
+#importProject_editor()
+importProject_django()
 #generateLanguagesList()

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:20+0200\n"
-"PO-Revision-Date: 2013-01-29 20:20+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-02-03 16:32+0200\n"
+"Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -33,13 +33,13 @@ msgid "%m.mathOp of %n"
 msgstr "%m.mathOp από %n"
 
 msgid "%m.sensor sensor value"
-msgstr "%m.sensor τιμή αισθητήρα"
+msgstr "τιμή αισθητήρα %m.sensor"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr "πρόσθεσε %s στο %m.list"
+msgstr "πρόσθεσε το %s στο %m.list"
 
 msgid "answer"
 msgstr "απάντηση"
@@ -48,13 +48,12 @@ msgid "ask %s and wait"
 msgstr "ρώτησε %s και περίμενε"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "υπόβαθρο #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "όνομα υποβάθρου"
 
 msgid "broadcast %m.broadcast"
 msgstr "μετάδωσε %m.broadcast"
@@ -63,34 +62,34 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "μετάδωσε %m.broadcast και περίμενε"
 
 msgid "change %m.effect effect by %n"
-msgstr "άλλαξε %m.effect εφέ κατά %n"
+msgstr "άλλαξε το εφέ %m.effect κατά %n"
 
 msgid "change %m.var by %n"
-msgstr "άλλαξε %m.var κατά %n"
+msgstr "άλλαξε το %m.var κατά %n"
 
 msgid "change pen color by %n"
-msgstr "άλλαξε χρώμα πένας κατά %n"
+msgstr "άλλαξε το χρώμα της πένας κατά %n"
 
 msgid "change pen shade by %n"
-msgstr "άλλαξε σκιά πένας κατά %n"
+msgstr "άλλαξε τη σκιά της πένας κατά %n"
 
 msgid "change pen size by %n"
-msgstr "άλλαξε μέγεθος πένας κατά %n"
+msgstr "άλλαξε το μέγεθος της πένας κατά %n"
 
 msgid "change size by %n"
-msgstr "άλλαξε μέγεθος κατά %n"
+msgstr "άλλαξε το μέγεθος κατά %n"
 
 msgid "change tempo by %n"
-msgstr "άλλαξε ρυθμό κατά %n"
+msgstr "άλλαξε το ρυθμό κατά %n"
 
 msgid "change volume by %n"
-msgstr "άλλαξε ένταση κατά %n"
+msgstr "άλλαξε την ένταση κατά %n"
 
 msgid "change x by %n"
-msgstr "άλλαξε x κατά %n"
+msgstr "άλλαξε το x κατά %n"
 
 msgid "change y by %n"
-msgstr "άλλαξε y κατά %n"
+msgstr "άλλαξε το y κατά %n"
 
 msgid "clear"
 msgstr "καθάρισε"
@@ -99,10 +98,10 @@ msgid "clear graphic effects"
 msgstr "καθάρισε τα γραφικά εφέ"
 
 msgid "clone startup"
-msgstr ""
+msgstr "έναρξη δημιουργίας κλώνου"
 
 msgid "color %c is touching %c?"
-msgstr "το χρώμα %c αγγίζει το %c;"
+msgstr "το χρώμα %c αγγίζει το %c ;"
 
 msgid "Control"
 msgstr "Έλεγχος"
@@ -111,37 +110,37 @@ msgid "costume #"
 msgstr "ενδυμασία #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "δημιούργησε κλώνο του %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "τρέχων %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Δεδομένα"
 
 msgid "define"
-msgstr ""
+msgstr "ορισμός του"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "διέγραψε %d.listDeleteItem από το %m.list"
+msgstr "διάγραψε το %d.listDeleteItem από το %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "διάγραψε αυτόν τον κλώνο"
 
 msgid "direction"
 msgstr "κατεύθυνση"
 
 msgid "distance"
-msgstr ""
+msgstr "απόσταση"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "απόσταση έως %m.spriteOrMouse"
+msgstr "απόσταση έως το %m.spriteOrMouse"
 
 msgid "else"
 msgstr "αλλιώς"
 
 msgid "Events"
-msgstr ""
+msgstr "Συμβάντα"
 
 msgid "forever"
 msgstr "για πάντα"
@@ -150,7 +149,7 @@ msgid "forever if %b"
 msgstr "για πάντα εάν %b"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "κινήσου ομαλά %n δεύτ. στο x:%n y:%n"
+msgstr "κινήσου ομαλά για %n δευτ. στο x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "πήγαινε πίσω %n επίπεδα"
@@ -165,16 +164,16 @@ msgid "go to x:%n y:%n"
 msgstr "πήγαινε στο x:%n y:%n"
 
 msgid "hide"
-msgstr "απόκρυψη"
+msgstr "κρύψου"
 
 msgid "hide all sprites"
-msgstr ""
+msgstr "απόκρυψε όλες τις μορφές"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "απόκρυψε τη λίστα %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "απόκρυψε τη μεταβλητή %m.var"
 
 msgid "if %b"
 msgstr "εάν %b"
@@ -183,16 +182,16 @@ msgid "if on edge, bounce"
 msgstr "εάν στα όρια, αναπήδησε"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "παρέμβαλε το %s στη θέση %d.listItem του %m.list"
+msgstr "βάλε το %s στη θέση %d.listItem του %m.list"
 
 msgid "item %d.listItem of %m.list"
 msgstr "στοιχείο %d.listItem του %m.list"
 
 msgid "join %s %s"
-msgstr "ένωσε %s %s"
+msgstr "ένωσε το %s με το %s"
 
 msgid "key %m.key pressed?"
-msgstr "πατήθηκε πλήκτρο %m.key;"
+msgstr "πατήθηκε πλήκτρο %m.key"
 
 msgid "length of %m.list"
 msgstr "μήκος του %m.list"
@@ -210,13 +209,13 @@ msgid "loudness"
 msgstr "ένταση"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Περισσότερα Μπλοκ"
 
 msgid "Motion"
 msgstr "Κίνηση"
 
 msgid "mouse down?"
-msgstr "πατήθηκε το ποντίκι;"
+msgstr "πατήθηκε το ποντίκι"
 
 msgid "mouse x"
 msgstr "ποντίκι x"
@@ -228,7 +227,6 @@ msgid "move %n steps"
 msgstr "κινήσου %n βήματα"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "επόμενο υπόβαθρο"
 
@@ -251,13 +249,12 @@ msgid "pen up"
 msgstr "σήκωσε πένα"
 
 msgid "pick random %n to %n"
-msgstr "τυχαία επιλογή από %n μέχρι %n"
+msgstr "επίλεξε τυχαίο αριθμό από το %n μέχρι το %n"
 
 msgid "play drum %d.drum for %n beats"
 msgstr "παίξε τύμπανο %d.drum για %n χρόνους"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "παίξε νότα %d.note για %n χρόνους"
 
@@ -298,38 +295,36 @@ msgid "say %s for %n secs"
 msgstr "πες %s για %n δευτερόλεπτα"
 
 msgid "Scratch days"
-msgstr ""
+msgstr "Ημέρες από την δημιουργία του Scratch"
 
 msgid "Sensing"
 msgstr "Αισθητήρες"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "αισθητήρας %m.booleanSensor;"
+msgstr "αισθητήρας %m.booleanSensor"
 
 msgid "set %m.effect effect to %n"
 msgstr "όρισε το εφέ %m.effect σε %n"
 
 msgid "set %m.var to %s"
-msgstr "όρισε το %m.var σε %n"
+msgstr "όρισε το %m.var σε %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "όρισε το όργανο σε %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "κατεύθυνση κίνησης %m.motorDirection"
+msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "ισχύς κινητήρα %n"
+msgstr "όρισε την ισχύ κινητήρα %n"
 
 msgid "set pen color to %c"
 msgstr "όρισε το χρώμα πένας σε %c"
 
 msgid "set pen color to %n"
-msgstr "όρισε το χρώμα πένας σε %c"
+msgstr "όρισε το χρώμα πένας σε %n"
 
 msgid "set pen shade to %n"
 msgstr "όρισε τη σκιά πένας σε %n"
@@ -338,7 +333,7 @@ msgid "set pen size to %n"
 msgstr "όρισε το μέγεθος πένας σε %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "όρισε το στυλ περιστροφής σε %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "όρισε το μέγεθος σε %n%"
@@ -347,25 +342,25 @@ msgid "set tempo to %n bpm"
 msgstr "όρισε ρυθμό σε %n χτύπους το λεπτό"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "όρισε τη διαφάνεια του βίντεο σε %n%"
 
 msgid "set volume to %n%"
 msgstr "όρισε την ένταση σε %n%"
 
 msgid "set x to %n"
-msgstr "θέσε το x ίσο με %n"
+msgstr "όρισε το x ίσο με %n"
 
 msgid "set y to %n"
-msgstr "θέσε το y ίσο με %n"
+msgstr "όρισε το y ίσο με %n"
 
 msgid "show"
-msgstr "εμφάνισε"
+msgstr "εμφανίσου"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "εμφάνισε λίστα %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "εμφάνισε μεταβλητή %m.var"
 
 msgid "size"
 msgstr "μέγεθος"
@@ -374,71 +369,70 @@ msgid "Sound"
 msgstr "Ήχος"
 
 msgid "stamp"
-msgstr "σφραγίδα"
+msgstr "κάνε στάμπα"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "σταμάτησε %m.stop"
 
 msgid "stop all sounds"
 msgstr "σταμάτησε όλους τους ήχους"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "άλλαξε το υπόβαθρο σε %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "άλλαξε το υπόβαθρο σε %m.backdrop και περίμενε"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "άλλαξε ενδυμασία σε %m.costume"
 
 msgid "tempo"
 msgstr "ρυθμός"
 
 msgid "think %s"
-msgstr "σκέψου το %s"
+msgstr "σκέψου %s"
 
 msgid "think %s for %n secs"
-msgstr "σκέψου το %s για %n δευτερόλεπτα"
+msgstr "σκέψου %s για %n δευτερόλεπτα"
 
 msgid "tilt"
-msgstr ""
+msgstr "κλίση"
 
 msgid "timer"
 msgstr "χρονόμετρο"
 
 msgid "touching %m.touching?"
-msgstr "αγγίζει το %m.touching;"
+msgstr "αγγίζει το %m.touching ;"
 
 msgid "touching color %c?"
-msgstr "αγγίζει το χρώμα %c;"
+msgstr "αγγίζει το χρώμα %c ;"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "στρίψε @turnLeft %n μοίρες"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "στρίψε @turnRight %n μοίρες"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "σβήσε τον κινητήρα"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "άναψε τον κινητήρα"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "κινητήρας ενεργός για %n δευτερόλεπτα"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "όρισε το βίντεο %m.videoState"
 
 msgid "user id"
-msgstr ""
+msgstr "ταυτότητα χρήστη"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "η %m.videoMotionType του βίντεο σε %m.stageOrThis"
 
 msgid "volume"
 msgstr "ένταση"
@@ -450,34 +444,33 @@ msgid "wait until %b"
 msgstr "περίμενε ώσπου %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "αισθητήρας %m.booleanSensor;"
+msgstr "όταν %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "όταν το πλήκτρο %m.key πατηθεί"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "όταν %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "όταν στο @greenFlag γίνει κλίκ"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "όταν το υπόβαθρο αλλάξει σε %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "όταν η απόσταση < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "όταν λάβω το %m.broadcast"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "όταν σε αυτή την μορφή γίνει κλικ"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "όταν η κλίση = %n"
 
 msgid "x position"
 msgstr "θέση x"
@@ -486,31 +479,33 @@ msgid "y position"
 msgstr "θέση y"
 
 #~ msgid "motor direction %m.motorDirection"
-#~ msgstr "κατεύθυνση κίνησης %m.motorDirection"
+#~ msgstr "Κατεύθυνση κίνησης %m.motorDirection"
 
 #~ msgid "motor off"
-#~ msgstr "κινητήρας ανενεργός"
+#~ msgstr "Κινητήρας ανενεργός"
 
 #~ msgid "motor on"
-#~ msgstr "κινητήρας ενεργός"
+#~ msgstr "Κινητήρας ενεργός"
 
 #~ msgid "motor on for %n secs"
-#~ msgstr "κινητήρας ενεργός για %n δευτερόλεπτα"
+#~ msgstr "Κινητήρας ενεργός για %n δευτερόλεπτα"
 
 #~ msgid "motor power %n"
-#~ msgstr "ισχύς κινητήρα %n"
+#~ msgstr "Ισχύς κινητήρα %n"
 
 #~ msgid "play note %n for %n beats"
-#~ msgstr "παίξε νότα %d.note για %n χρόνους"
+#~ msgstr "Παίξε νότα %d.note για %n χρόνους"
 
-#User Interface
+##################
+# User Interface #
+##################
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2013-01-29 20:51+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-02-03 17:32+0200\n"
+"Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -520,88 +515,88 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 
 msgid "#"
-msgstr ""
+msgstr "#"
 
 msgid "10 ^"
-msgstr ""
+msgstr "10 ^"
 
 msgid "A connected"
-msgstr ""
+msgstr "το Α είναι συνδεδεμένο"
 
 msgid "abs"
 msgstr "ΑπόλυτηΤιμή"
 
 msgid "acos"
-msgstr ""
+msgstr "acos"
 
 msgid "Add a boolean input:"
-msgstr ""
+msgstr "Προσθέστε μια τιμή boolean:"
 
 msgid "Add a number input:"
-msgstr ""
+msgstr "Προσθέστε αριθμητική τιμή:"
 
 msgid "Add a string input:"
-msgstr ""
+msgstr "Προσθέστε τιμή σειράς λέξεων:"
 
 msgid "add comment"
-msgstr ""
+msgstr "Προσθήκη σχόλιου"
 
 msgid "Add label text:"
-msgstr ""
+msgstr "Προσθήκη κειμένου:"
 
 msgid "all"
 msgstr "όλα"
 
 msgid "all around"
-msgstr ""
+msgstr "ολόγυρα"
 
 msgid "asin"
-msgstr ""
+msgstr "asin"
 
 msgid "atan"
-msgstr ""
+msgstr "atan"
 
 msgid "B connected"
-msgstr ""
+msgstr "το B είναι συνδεδεμένο"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "υπόβαθρο #"
 
 msgid "backdrop name"
-msgstr ""
+msgstr "όνομα υπόβαθρου"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "υπόβαθρο1"
 
 msgid "Backpack"
-msgstr ""
+msgstr "Σακίδιο"
 
 msgid "Bass"
-msgstr ""
+msgstr "Μπάσσο"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Κρουστό Μπάσσο"
 
 msgid "Bassoon"
 msgstr "Φαγκότο"
 
 msgid "Bongo"
-msgstr ""
+msgstr "Μπόγκο"
 
 msgid "bottom-left"
-msgstr ""
+msgstr "κάτω-αριστερά"
 
 msgid "bottom-right"
-msgstr ""
+msgstr "κάτω-δεξιά"
 
 msgid "brightness"
 msgstr "φωτεινότητα"
 
 msgid "button pressed"
-msgstr "πατήθηκε κουμπί"
+msgstr "πατήθηκε το κουμπί"
 
 msgid "C connected"
-msgstr ""
+msgstr "το C είναι συνδεδεμένο"
 
 msgid "Cabasa"
 msgstr "Καμπάσα"
@@ -610,16 +605,16 @@ msgid "Camera"
 msgstr "Κάμερα"
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Αδύνατη η διαγραφή"
 
 msgid "ceiling"
-msgstr ""
+msgstr "ceiling"
 
 msgid "Cello"
 msgstr "Τσέλο"
 
 msgid "Choir"
-msgstr ""
+msgstr "Χορωδία "
 
 msgid "Clarinet"
 msgstr "Κλαρινέτο"
@@ -628,7 +623,7 @@ msgid "Claves"
 msgstr "Ξυλάκια"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "Εκκαθάριση των αποστολέων/παραληπτών"
 
 msgid "Closed Hi-Hat"
 msgstr "Κλειστό Χάϊ-χατ"
@@ -637,52 +632,52 @@ msgid "color"
 msgstr "χρώμα"
 
 msgid "Conga"
-msgstr ""
+msgstr "Κόγκα"
 
 msgid "copy"
 msgstr "Αντιγραφή"
 
 msgid "cos"
-msgstr ""
+msgstr "cos"
 
 msgid "costume #"
-msgstr ""
+msgstr "ενδυμασία #"
 
 msgid "costume name"
-msgstr ""
+msgstr "Όνομα ενδυμασίας"
 
 msgid "costume1"
-msgstr ""
+msgstr "ενδυμασία1"
 
 msgid "costume2"
-msgstr ""
+msgstr "ενδυμασία2"
 
 msgid "Cowbell"
 msgstr "Κουδούνα αγελάδας"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Κύμβαλο Crash"
 
 msgid "cut"
-msgstr ""
+msgstr "Αποκοπή"
 
 msgid "D connected"
-msgstr ""
+msgstr "το D είναι συνδεδεμένο"
 
 msgid "date"
-msgstr ""
+msgstr "ημερομηνία"
 
 msgid "day of week"
-msgstr ""
+msgstr "μέρα της εβδομάδας"
 
 msgid "delete"
 msgstr "διαγραφή"
 
 msgid "direction"
-msgstr ""
+msgstr "κατεύθυνση"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "να μην περιστραφεί"
 
 msgid "down"
 msgstr "κάτω"
@@ -691,67 +686,67 @@ msgid "down arrow"
 msgstr "κάτω βέλος"
 
 msgid "Duplicate"
-msgstr "διπλασίασε"
+msgstr "Διπλασίασε"
 
 msgid "duplicate"
 msgstr "διπλασίασε"
 
 msgid "e ^"
-msgstr ""
+msgstr "e ^"
 
 msgid "edge"
 msgstr "όρια"
 
 msgid "edit"
-msgstr "Επεξεργασία"
+msgstr "επεξεργασία"
 
 msgid "Edit"
 msgstr "Επεξεργασία"
 
 msgid "Effects"
-msgstr ""
+msgstr "Εφέ"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Ηλεκτρική κιθάρα"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Αρμόνιο"
 
 msgid "fade in"
-msgstr ""
+msgstr "εμφανίσου σιγά-σιγά"
 
 msgid "fade out"
-msgstr ""
+msgstr "εξαφανίσου σιγά-σιγά"
 
 msgid "File"
-msgstr ""
+msgstr "Αρχείο"
 
 msgid "fisheye"
 msgstr "μάτι ψαριού"
 
 msgid "floor"
-msgstr ""
+msgstr "floor"
 
 msgid "Flute"
 msgstr "Φλάουτο"
 
 msgid "ghost"
-msgstr "φάντασμα"
+msgstr "εξαφάνιση"
 
 msgid "Guiro"
-msgstr ""
+msgstr "Γκουίρο"
 
 msgid "Guitar"
-msgstr ""
+msgstr "Κιθάρα"
 
 msgid "Hand Clap"
 msgstr "Χειροκρότημα"
 
 msgid "hour"
-msgstr ""
+msgstr "ώρα"
 
 msgid "Import"
-msgstr "εισαγωγή"
+msgstr "Εισαγωγή"
 
 msgid "last"
 msgstr "τελευταίο"
@@ -763,77 +758,76 @@ msgid "left arrow"
 msgstr "αριστερό βέλος"
 
 msgid "left-right"
-msgstr ""
+msgstr "αριστερά-δεξιά"
 
 msgid "Library"
-msgstr ""
+msgstr "Βιβλιοθήκη"
 
 msgid "light"
-msgstr "φώς"
+msgstr "φως"
 
 msgid "ln"
-msgstr ""
+msgstr "ln"
 
 msgid "log"
-msgstr ""
+msgstr "log"
 
 msgid "login"
-msgstr ""
+msgstr "Σύνδεση"
 
 msgid "louder"
-msgstr ""
+msgstr "πιο δυνατά"
 
 msgid "loudness"
-msgstr ""
+msgstr "ένταση"
 
 msgid "Marimba"
 msgstr "Μαρίμπα"
 
 msgid "message1"
-msgstr ""
+msgstr "μήνυμα1"
 
 msgid "middle"
-msgstr ""
+msgstr "μεσσαίο"
 
 msgid "minute"
-msgstr ""
+msgstr "λεπτό"
 
 msgid "month"
-msgstr ""
+msgstr "μήνας"
 
 msgid "mosaic"
 msgstr "ψηφιδωτό"
 
 msgid "motion"
-msgstr ""
+msgstr "κίνηση"
 
 msgid "mouse-pointer"
-msgstr "δείκτης ποντικιού"
+msgstr "δείκτη του ποντικιού"
 
 msgid "Music Box"
 msgstr "Μουσικό Κουτί"
 
 msgid "myself"
-msgstr ""
+msgstr "του εαυτού μου"
 
 msgid "name"
-msgstr ""
+msgstr "όνομα"
 
-#, fuzzy
 msgid "New"
-msgstr "Nouveau"
+msgstr "Νέο"
 
 msgid "New backdrop"
-msgstr ""
+msgstr "Νέο υπόβαθρο"
 
 msgid "New costume"
-msgstr ""
+msgstr "Νέα ενδυμασία"
 
 msgid "new message..."
-msgstr ""
+msgstr "Νέο μήνυμα..."
 
 msgid "New sound"
-msgstr ""
+msgstr "Νέος ήχος"
 
 msgid "New sprite:"
 msgstr "Νέα μορφή:"
@@ -845,67 +839,67 @@ msgid "on"
 msgstr "Ανοικτό"
 
 msgid "on-flipped"
-msgstr ""
+msgstr "καθρεφτισμένο"
 
 msgid "Open Cuica"
-msgstr "Ανοιχτή Κουίκα"
+msgstr "Ανοιχτό Κουίκα"
 
 msgid "Open Hi-Hat"
 msgstr "Ανοιχτό Χάϊ-Χατ"
 
 msgid "Organ"
-msgstr ""
+msgstr "Μουσικό όργανο"
 
 msgid "other scripts in sprite"
-msgstr ""
+msgstr "Άλλα σενάρια στο στοιχείο"
 
 msgid "Paint"
 msgstr "Ζωγραφική"
 
 msgid "paste"
-msgstr ""
+msgstr "Επικόλληση"
 
 msgid "photo1"
-msgstr ""
+msgstr "φωτογραφία1"
 
 msgid "Piano"
-msgstr ""
+msgstr "Πιάνο"
 
 msgid "pixelate"
 msgstr "εικονοστοιχειοποίηση"
 
 msgid "Pizzicato"
-msgstr ""
+msgstr "Πιτσικάτο"
 
 msgid "pop"
 msgstr "ανασύρω"
 
 msgid "random"
-msgstr ""
+msgstr "τυχαίο"
 
 msgid "Record"
-msgstr "ηχογράφηση"
+msgstr "Ηχογράφηση"
 
 msgid "recording1"
-msgstr ""
+msgstr "ηχογράφηση1"
 
 msgid "redo"
 msgstr "Ακύρωση αναίρεσης"
 
 msgid "Remix"
-msgstr ""
+msgstr "Ρεμίξ"
 
 msgid "resistance-A"
-msgstr ""
+msgstr "Αντίσταση-Α"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "Αντίσταση-Β"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "Αντίσταση-C"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "Αντίσταση-D"
 
 msgid "reverse"
 msgstr "ανάστρεψε"
@@ -917,61 +911,61 @@ msgid "right arrow"
 msgstr "δεξί βέλος"
 
 msgid "Saxophone"
-msgstr ""
+msgstr "Σαξόφωνο"
 
 msgid "say"
-msgstr ""
+msgstr "πες"
 
 msgid "Scratch Cat"
-msgstr ""
+msgstr "Γάτα του Scratch"
 
 msgid "second"
-msgstr ""
+msgstr "δευτερόλεπτο"
 
 msgid "See project page"
-msgstr ""
+msgstr "Δείτε την σελίδα του έργου"
 
 msgid "select all"
-msgstr ""
+msgstr "Επιλογή όλων"
 
 msgid "Share"
-msgstr ""
+msgstr "Μοιραστείτε το έργο"
 
 msgid "shout"
-msgstr ""
+msgstr "φώναξε"
 
 msgid "show receivers"
-msgstr ""
+msgstr "Εμφάνιση παραληπτών"
 
 msgid "show senders"
-msgstr ""
+msgstr "Εμφάνιση αποστολέων"
 
 msgid "Side Stick"
 msgstr "Πλευρικό Χτύπημα"
 
 msgid "silence"
-msgstr ""
+msgstr "ησυχία"
 
 msgid "sin"
-msgstr ""
+msgstr "sin"
 
 msgid "size"
-msgstr ""
+msgstr "μέγεθος"
 
 msgid "slider"
-msgstr "γραμμή κύλισης"
+msgstr "Γραμμή κύλισης"
 
 msgid "Snare Drum"
-msgstr ""
+msgstr "Ταμπούρο"
 
 msgid "softer"
-msgstr ""
+msgstr "πιο μαλακό"
 
 msgid "sound"
-msgstr ""
+msgstr "Ήχος"
 
 msgid "space"
-msgstr "κενό"
+msgstr "Κενό"
 
 msgid "Sprites"
 msgstr "Μορφές"
@@ -983,52 +977,54 @@ msgid "Stage"
 msgstr "Σκηνικό"
 
 msgid "Steel Drum"
-msgstr ""
+msgstr "Ατσαλένιο τύμπανο"
 
 msgid "Synth Lead"
-msgstr ""
+msgstr "Lead-συνθεσάιζερ"
 
 msgid "Synth Pad"
-msgstr ""
+msgstr "Pad-συνθεσάιζερ"
 
 msgid "Tambourine"
 msgstr "Ντέφι"
 
 msgid "tan"
-msgstr ""
+msgstr "tan"
 
 msgid "that way"
-msgstr "με αυτόν τον τρόπο"
+msgstr "προς εκείνη την κατεύθυνση"
 
 msgid "think"
-msgstr ""
+msgstr "σκέψου"
 
 msgid "this script"
-msgstr ""
+msgstr "αυτό το σενάριο"
 
 msgid "this sprite"
-msgstr ""
+msgstr "αυτό το στοιχείο"
 
 msgid "this way"
-msgstr "με αυτόν τον τρόπο"
+msgstr "προς αυτήν την κατεύθυνση"
 
 msgid "timer"
-msgstr ""
+msgstr "χρονομέτρηση"
 
 msgid "Tips"
-msgstr ""
+msgstr "Συμβουλές"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
+"Για να διαγράψετε τον ορισμό ενός μπλοκ, θα πρέπει πρώτα να το διαγράψετε "
+"από όπου χρησιμοποιείται."
 
 msgid "top-left"
-msgstr ""
+msgstr "πάνω-αριστερά"
 
 msgid "top-right"
-msgstr ""
+msgstr "πάνω-δεξιά"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Τρίγωνο"
 
 msgid "Trombone"
 msgstr "Τρομπόνι"
@@ -1037,43 +1033,43 @@ msgid "undo"
 msgstr "Αναίρεση"
 
 msgid "up"
-msgstr "πάνω"
+msgstr "Πάνω"
 
 msgid "up arrow"
-msgstr "πάνω βέλος"
+msgstr "Πάνω βέλος"
 
 msgid "Vibraphone"
 msgstr "Μεταλλόφωνο"
 
 msgid "Vibraslap"
-msgstr "Σιαγόνα"
+msgstr "Βίμπρα-σλαπ"
 
 msgid "video motion"
-msgstr ""
+msgstr "κίνηση στο βίντεο"
 
 msgid "volume"
-msgstr ""
+msgstr "Ένταση"
 
 msgid "whirl"
-msgstr "στροβίλισε"
+msgstr "στροβίλισμα"
 
 msgid "whisper"
-msgstr ""
+msgstr "ψίθυρος"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Τουβλάκι από ξύλο"
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Ξύλινο φλάουτο"
 
 msgid "x position"
-msgstr ""
+msgstr "Θέση x"
 
 msgid "y position"
-msgstr ""
+msgstr "Θέση y"
 
 msgid "year"
-msgstr ""
+msgstr "χρόνος"
 
 #~ msgid "any"
 #~ msgstr "οποιοδήποτε"

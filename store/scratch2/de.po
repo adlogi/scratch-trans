@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:20+0200\n"
-"PO-Revision-Date: 2013-01-31 17:01+0200\n"
-"Last-Translator: Laternenpfahl <johannes_n@me.com>\n"
+"PO-Revision-Date: 2013-01-31 22:38+0200\n"
+"Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -174,10 +174,10 @@ msgid "hide all sprites"
 msgstr "verstecke alle Figuren"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "verstecke Liste %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "verstecke Variable %m.var"
 
 msgid "if %b"
 msgstr "falls %b"
@@ -246,11 +246,13 @@ msgstr "Operatoren"
 msgid "Pen"
 msgstr "Malstift"
 
+# (Markus S.) war 'setze Stift auf'
 msgid "pen down"
-msgstr "setze Stift auf"
+msgstr "zeichne Spur"
 
+# (Markus S.) war 'hebe Stift an'
 msgid "pen up"
-msgstr "hebe Stift an"
+msgstr "zeichne nicht"
 
 msgid "pick random %n to %n"
 msgstr "wähle zufällig aus %n bis %n"
@@ -259,9 +261,8 @@ msgid "play drum %d.drum for %n beats"
 msgstr "spiele Schlagzeug %d.drum für %n Schläge"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "spiele Note %d.note für %n Schläge"
+msgstr "spiele Ton %d.note für %n Schläge"
 
 msgid "play sound %m.sound"
 msgstr "spiele Klang %m.sound"
@@ -299,7 +300,6 @@ msgstr "sage %s"
 msgid "say %s for %n secs"
 msgstr "sage %s für %n Sek."
 
-#, fuzzy
 msgid "Scratch days"
 msgstr "Scratch-Tage"
 
@@ -319,20 +319,18 @@ msgid "set instrument to %d.instrument"
 msgstr "setze Instrument auf %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "setze Motorrichtung auf %m.motorDirection"
+msgstr "setze Motordrehung %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "setze Motorkraft auf %n"
+msgstr "setze Motorstärke %n"
 
 msgid "set pen color to %c"
 msgstr "setze Stiftfarbe auf %c"
 
 msgid "set pen color to %n"
-msgstr "setze Stiftfarbe auf %c"
+msgstr "setze Stiftfarbe auf %n"
 
 msgid "set pen shade to %n"
 msgstr "setze Farbstärke auf %n"
@@ -341,7 +339,7 @@ msgid "set pen size to %n"
 msgstr "setze Stiftdicke auf %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "setze Drehtyp %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "setze Größe auf %n%"
@@ -365,10 +363,10 @@ msgid "show"
 msgstr "zeige dich"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "zeige Liste %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "zeige Variable %m.var"
 
 msgid "size"
 msgstr "Größe"
@@ -425,13 +423,12 @@ msgid "turn @turnRight %n degrees"
 msgstr "drehe dich @turnRight %n Grad"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "schalte Motor aus"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "schalte Motor an"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "schalte Motor für %n Sekunden an"
 
@@ -455,34 +452,33 @@ msgid "wait until %b"
 msgstr "warte bis %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "Sensor %m.booleanSensor?"
+msgstr "Wenn %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "Wenn Taste %m.key gedrückt"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "Wenn %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "Wenn @greenFlag angeklickt"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "wenn das Bühnenbild zu %m.backdrop wechselt"
+msgstr "Wenn das Bühnenbild zu %m.backdrop wechselt"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "Wenn Abstand < %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "Wenn ich %m.broadcast empfange"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "Wenn Ich angeklickt werde"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "Wenn Neigung = %n"
 
 msgid "x position"
 msgstr "x-Position"
@@ -517,13 +513,15 @@ msgstr "y-Position"
 #~ msgid "when I am clicked"
 #~ msgstr "Wenn ich angeklickt werde"
 
-#User Interface
+##################
+# User Interface #
+##################
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2012-12-31 11:41+0200\n"
+"PO-Revision-Date: 2013-01-31 22:59+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -533,11 +531,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
 
+#, fuzzy
 msgid "#"
-msgstr ""
+msgstr "Nummer"
 
 msgid "10 ^"
-msgstr ""
+msgstr "10^"
 
 # sensor board
 msgid "A connected"
@@ -559,7 +558,7 @@ msgid "Add a string input:"
 msgstr "Füge Texteingabefeld hinzu:"
 
 msgid "add comment"
-msgstr ""
+msgstr "Kommentar hinzufügen"
 
 msgid "Add label text:"
 msgstr "Füge Beschriftungstext hinzu:"
@@ -567,8 +566,9 @@ msgstr "Füge Beschriftungstext hinzu:"
 msgid "all"
 msgstr "alles"
 
+# Drehtyp
 msgid "all around"
-msgstr ""
+msgstr "rundherum"
 
 msgid "asin"
 msgstr "asin"
@@ -597,13 +597,13 @@ msgid "Bass"
 msgstr "Bass"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Basstrommel"
 
 msgid "Bassoon"
 msgstr "Fagott"
 
 msgid "Bongo"
-msgstr ""
+msgstr "Bongo"
 
 msgid "bottom-left"
 msgstr "links unten"
@@ -657,7 +657,7 @@ msgid "color"
 msgstr "Farbe"
 
 msgid "Conga"
-msgstr ""
+msgstr "Conga"
 
 msgid "copy"
 msgstr "Kopieren"
@@ -675,9 +675,8 @@ msgid "costume1"
 msgstr "Kostüm1"
 
 # 87%
-#, fuzzy
 msgid "costume2"
-msgstr "Kostüm1"
+msgstr "Kostüm2"
 
 msgid "Cowbell"
 msgstr "Kuhglocke"
@@ -704,8 +703,9 @@ msgstr "Löschen"
 msgid "direction"
 msgstr "Richtung"
 
+# Drehtyp
 msgid "don't rotate"
-msgstr ""
+msgstr "nicht drehen"
 
 msgid "down"
 msgstr "unten"
@@ -748,8 +748,9 @@ msgstr "einblenden"
 msgid "fade out"
 msgstr "ausblenden"
 
+#, fuzzy
 msgid "File"
-msgstr ""
+msgstr "Datei"
 
 msgid "fisheye"
 msgstr "Fischauge"
@@ -764,7 +765,7 @@ msgid "ghost"
 msgstr "Durchsichtigkeit"
 
 msgid "Guiro"
-msgstr ""
+msgstr "Guiro"
 
 msgid "Guitar"
 msgstr "Gitarre"
@@ -787,15 +788,16 @@ msgstr "links"
 msgid "left arrow"
 msgstr "Pfeil nach links"
 
+# Drehtyp
 msgid "left-right"
-msgstr ""
+msgstr "links-rechts"
 
 msgid "Library"
 msgstr "Bibliothek"
 
-#, fuzzy
+# Sensor
 msgid "light"
-msgstr "Licht"
+msgstr "Helligkeit"
 
 msgid "ln"
 msgstr "ln"
@@ -811,7 +813,7 @@ msgid "louder"
 msgstr "lauter"
 
 msgid "loudness"
-msgstr ""
+msgstr "Lautstärke"
 
 msgid "Marimba"
 msgstr "Marimba"
@@ -840,15 +842,15 @@ msgstr "Mauszeiger"
 msgid "Music Box"
 msgstr "Musikbox"
 
+#, fuzzy
 msgid "myself"
-msgstr ""
+msgstr "ich selbst"
 
 msgid "name"
 msgstr "Name"
 
-#, fuzzy
 msgid "New"
-msgstr "Nouveau"
+msgstr "Neu"
 
 msgid "New backdrop"
 msgstr "Neues Bühnenbild"
@@ -888,9 +890,8 @@ msgid "Organ"
 msgstr "Orgel"
 
 # 82%
-#, fuzzy
 msgid "other scripts in sprite"
-msgstr "andere Skripte der Bühne"
+msgstr "andere Skripte der Figur"
 
 msgid "Paint"
 msgstr "Malen"
@@ -913,8 +914,9 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "Plopp"
 
+#, fuzzy
 msgid "random"
-msgstr ""
+msgstr "Zufall"
 
 msgid "Record"
 msgstr "Aufnehmen"
@@ -942,7 +944,7 @@ msgid "resistance-D"
 msgstr "Widerstand-D"
 
 msgid "reverse"
-msgstr "umkehren"
+msgstr "umgekehrt"
 
 msgid "right"
 msgstr "rechts"
@@ -957,7 +959,7 @@ msgid "say"
 msgstr "sage"
 
 msgid "Scratch Cat"
-msgstr ""
+msgstr "Scratch-Katze"
 
 msgid "second"
 msgstr "Sekunde"
@@ -969,7 +971,7 @@ msgid "select all"
 msgstr "Alles auswählen"
 
 msgid "Share"
-msgstr ""
+msgstr "Veröffentlichen"
 
 #, fuzzy
 msgid "shout"
@@ -1035,8 +1037,9 @@ msgstr "Tamburin"
 msgid "tan"
 msgstr "tan"
 
+# Motordrehsinn
 msgid "that way"
-msgstr "in jene Richtung"
+msgstr "andersherum"
 
 msgid "think"
 msgstr "denke"
@@ -1045,13 +1048,14 @@ msgid "this script"
 msgstr "dieses Skript"
 
 msgid "this sprite"
-msgstr ""
+msgstr "diese Figur"
 
+# Motordrehsinn
 msgid "this way"
-msgstr "in diese Richtung"
+msgstr "soherum"
 
 msgid "timer"
-msgstr ""
+msgstr "Stoppuhr"
 
 msgid "Tips"
 msgstr "Tipps"
@@ -1068,7 +1072,7 @@ msgid "top-right"
 msgstr "rechts oben"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Posaune"
@@ -1102,7 +1106,7 @@ msgid "whisper"
 msgstr "flüstern"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Holzblock"
 
 msgid "Wooden Flute"
 msgstr "Blockflöte"

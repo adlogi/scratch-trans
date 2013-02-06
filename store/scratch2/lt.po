@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:21+0200\n"
-"PO-Revision-Date: 2013-01-29 20:21+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-02-03 21:23+0200\n"
+"Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
@@ -25,22 +25,22 @@ msgid "%b or %b"
 msgstr "%b arba %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "veikėjo %m.spriteOrStage %a"
+msgstr "veikėjo %m.spriteOrStage %m.attribute"
 
 msgid "%m.list contains %s"
 msgstr "sąraše %m.list yra %s?"
 
 msgid "%m.mathOp of %n"
-msgstr "%m.mathOp(%n)"
+msgstr "%m.mathOp ( %n )"
 
 msgid "%m.sensor sensor value"
 msgstr "%m.sensor"
 
 msgid "%n mod %n"
-msgstr "%n iš %n dalybos liekana"
+msgstr "%n / %n liekana"
 
 msgid "add %s to %m.list"
-msgstr "į sąrašą %m.list pridėk %s "
+msgstr "į %m.list pridėk %s"
 
 msgid "answer"
 msgstr "atsakymas"
@@ -49,19 +49,18 @@ msgid "ask %s and wait"
 msgstr "paklausk %s"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "fono nr."
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "fono pavadinimas"
 
 msgid "broadcast %m.broadcast"
 msgstr "skelbk žinią %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "skelbk žinią %m.broadcast ir lauk"
+msgstr "skelbk žinią %m.broadcast ir palauk"
 
 msgid "change %m.effect effect by %n"
 msgstr "efektą %m.effect padidink %n"
@@ -73,13 +72,13 @@ msgid "change pen color by %n"
 msgstr "pieštuko spalvą padidink %n"
 
 msgid "change pen shade by %n"
-msgstr "pieštuko šešėlį padidink %n"
+msgstr "spalvos šviesumą padidink %n"
 
 msgid "change pen size by %n"
 msgstr "pieštuko storį padidink %n"
 
 msgid "change size by %n"
-msgstr "padidėk %n taškų"
+msgstr "padidėk %n% (originalaus dydžio)"
 
 msgid "change tempo by %n"
 msgstr "tempą padidink %n"
@@ -94,46 +93,47 @@ msgid "change y by %n"
 msgstr "prie y pridėk %n"
 
 msgid "clear"
-msgstr "išvalyk paišymus"
+msgstr "išvalyk ekraną"
 
 msgid "clear graphic effects"
 msgstr "panaikink grafinius efektus"
 
+# buvo: klono paruošimas
 msgid "clone startup"
-msgstr ""
+msgstr "Naujam klonui pritaikyk :"
 
 msgid "color %c is touching %c?"
 msgstr "spalva %c liečia %c?"
 
 msgid "Control"
-msgstr "veikimo logika"
+msgstr "Veikimo logika"
 
 msgid "costume #"
 msgstr "kaukės nr."
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "klonuok  %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "dabarties %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Duomenys"
 
 msgid "define"
-msgstr ""
+msgstr "komanda"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "iš %m.list ištrink nr. %d.listDeleteItem "
+msgstr "iš %m.list ištrink nr. %d.listDeleteItem"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "išnyk (jei esi klonas)"
 
 msgid "direction"
 msgstr "kryptis"
 
 msgid "distance"
-msgstr ""
+msgstr "atstumas"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "atstumas iki %m.spriteOrMouse"
@@ -142,13 +142,13 @@ msgid "else"
 msgstr "o jeigu ne:"
 
 msgid "Events"
-msgstr ""
+msgstr "Įvykiai"
 
 msgid "forever"
 msgstr "visada :"
 
 msgid "forever if %b"
-msgstr "visada, kai %b:"
+msgstr "visada, kai %b :"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr "slink %n sek. į tašką x:%n y:%n"
@@ -159,8 +159,9 @@ msgstr "pasitrauk atgal per %n sloksnį(-ius)"
 msgid "go to %m.spriteOrMouse"
 msgstr "eik ten, kur %m.spriteOrMouse"
 
+# pasirodyk pirmam plane?
 msgid "go to front"
-msgstr "atsirask priekyje"
+msgstr "atsirask vaizdo priekyje"
 
 msgid "go to x:%n y:%n"
 msgstr "eik į tašką x:%n y:%n"
@@ -169,16 +170,16 @@ msgid "hide"
 msgstr "pasislėpk"
 
 msgid "hide all sprites"
-msgstr ""
+msgstr "paslėpk visus veikėjus"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "slėpk %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "slėpk %m.var"
 
 msgid "if %b"
-msgstr "jeigu %b:"
+msgstr "jeigu %b :"
 
 msgid "if on edge, bounce"
 msgstr "jeigu priėjai kraštą, atšok"
@@ -186,11 +187,13 @@ msgstr "jeigu priėjai kraštą, atšok"
 msgid "insert %s at %d.listItem of %m.list"
 msgstr "į %m.list vietą %d.listItem įterpk %s"
 
+# alternative: "elementas nr. %d.listItem iš %m.list"
+# or: %m.list [ %d.listItem ]
 msgid "item %d.listItem of %m.list"
-msgstr "sąrašo %m.list nr. %d.listItem"
+msgstr "%m.list nr. %d.listItem"
 
 msgid "join %s %s"
-msgstr "sujunk %s ir %s"
+msgstr "sujunk tekstus %s ir %s"
 
 msgid "key %m.key pressed?"
 msgstr "paspausta %m.key ?"
@@ -199,37 +202,36 @@ msgid "length of %m.list"
 msgstr "sąrašo %m.list ilgis"
 
 msgid "length of %s"
-msgstr "%s ilgis"
+msgstr "teksto %s ilgis"
 
 msgid "letter %n of %s"
-msgstr "%s %n-oji raidė"
+msgstr "teksto %s %n raidė"
 
 msgid "Looks"
-msgstr "išvaizda"
+msgstr "Išvaizda"
 
 msgid "loudness"
 msgstr "garsumas"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Mano komandos"
 
 msgid "Motion"
-msgstr "judėjimas"
+msgstr "Judėjimas"
 
 msgid "mouse down?"
 msgstr "pelė paspausta?"
 
 msgid "mouse x"
-msgstr "pelės x "
+msgstr "pelės x"
 
 msgid "mouse y"
-msgstr "pelės y "
+msgstr "pelės y"
 
 msgid "move %n steps"
-msgstr "eik %n žingsnius(-ių)"
+msgstr "eik %n"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "kitas  fonas"
 
@@ -239,28 +241,31 @@ msgstr "kita kaukė"
 msgid "not %b"
 msgstr "ne %b"
 
+# bet yra ir tekstas, tad gal: "Duomenų veiksmai" | Veiksmai su duomenimis
 msgid "Operators"
-msgstr "matematika"
+msgstr "Matematika"
 
 msgid "Pen"
-msgstr "pieštukas"
+msgstr "Piešimas"
 
+# o gal "aktyvuok/įjunk" piešimą/-tuką ?
 msgid "pen down"
 msgstr "nuleisk pieštuką"
 
 msgid "pen up"
 msgstr "pakelk pieštuką"
 
+# gal "atsitiktinis sk"
 msgid "pick random %n to %n"
 msgstr "bet kuris sk. nuo %n iki %n"
 
+# nelabai veikia
 msgid "play drum %d.drum for %n beats"
-msgstr "būgną %d.drum mušk %n taktus"
+msgstr "būgną %d.drum mušk %n takto/us"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "natą %d.note grok %n taktų/us"
+msgstr "natą %d.note grok %n takto/us"
 
 msgid "play sound %m.sound"
 msgstr "grok %m.sound"
@@ -275,13 +280,13 @@ msgid "point towards %m.spriteOrMouse"
 msgstr "žiūrėk į %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr "kartok %n:"
+msgstr "kartok %n :"
 
 msgid "repeat until %b"
-msgstr "kartok, kol atsitiks %b:"
+msgstr "kartok, kol atsitiks %b :"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "pakeisk %m.list nr. %d.listItem į %s"
+msgstr " %m.list nr. %d.listItem = %s"
 
 msgid "reset timer"
 msgstr "iš naujo paleisk laikmatį"
@@ -290,7 +295,7 @@ msgid "rest for %n beats"
 msgstr "palauk %n taktų/us"
 
 msgid "round %n"
-msgstr "apvalinti %n"
+msgstr "apvalink %n"
 
 msgid "say %s"
 msgstr "sakyk %s"
@@ -299,59 +304,58 @@ msgid "say %s for %n secs"
 msgstr "sakyk %s  %n sek."
 
 msgid "Scratch days"
-msgstr ""
+msgstr "Scratch dienos"
 
 msgid "Sensing"
-msgstr "aplinka"
+msgstr "Aplinka"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "jutiklis %m.booleanSensor?"
+msgstr "ar %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
 msgstr "efekto %m.effect dydis = %n"
 
 msgid "set %m.var to %s"
-msgstr "%m.var =   %n"
+msgstr "%m.var =  %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "instrumentas = %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "variklinių kryptimi %m.motorDirection"
+msgstr "variklio kryptis = %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "Variklio %n"
+msgstr "variklio galia = %n"
 
+# pakeistas c į n kitoje eilutėje
 msgid "set pen color to %c"
 msgstr "pieštuko spalva = %c"
 
 msgid "set pen color to %n"
-msgstr "pieštuko spalva = %c"
+msgstr "pieštuko spalva = %n"
 
 msgid "set pen shade to %n"
-msgstr "pieštuko  šešėlis = %n"
+msgstr "spalvos šviesumas = %n"
 
 msgid "set pen size to %n"
-msgstr "pieštuko dydis = %n"
+msgstr "pieštuko storis = %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "sukimosi būdas = %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "veikėjo dydis = %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "tempas = %n (taktai per minutę)"
+msgstr "tempas = %n (taktai per min.)"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "filmuojamo vaizdo permatomumas = %n%"
 
 msgid "set volume to %n%"
-msgstr "garsumas = %n%"
+msgstr "garsumas = %n"
 
 msgid "set x to %n"
 msgstr "x = %n"
@@ -363,36 +367,36 @@ msgid "show"
 msgstr "pasirodyk"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "rodyk %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "rodyk %m.var"
 
 msgid "size"
-msgstr "dydis"
+msgstr "dydis (%)"
 
 msgid "Sound"
-msgstr "garsas"
+msgstr "Garsas"
 
 msgid "stamp"
 msgstr "palik savo vaizdą (štampą)"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "sustabdyk %m.stop"
 
 msgid "stop all sounds"
-msgstr "sustabdyti visus garsus"
+msgstr "sustabdyk visus garsus"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "keisk foną į %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "keisk foną į %m.backdrop ir palauk"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "kaukė = %m.costume"
 
 msgid "tempo"
 msgstr "tempas"
@@ -404,7 +408,7 @@ msgid "think %s for %n secs"
 msgstr "galvok %s  %n sek."
 
 msgid "tilt"
-msgstr ""
+msgstr "pasvirimas"
 
 msgid "timer"
 msgstr "laikmatis"
@@ -416,30 +420,29 @@ msgid "touching color %c?"
 msgstr "lieti spalvą %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "pasisuk @turnLeft %n °"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "pasisuk @turnRight %n °"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "išjunk variklį"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "įjunk variklį"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "dėl motorinių už %n secs"
+msgstr "įjunk variklį %n sekundėms"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "vaizdo sekimas = %m.videoState"
 
 msgid "user id"
-msgstr ""
+msgstr "naudotojo ID"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "sekamo vaizdo %m.videoMotionType virš %m.stageOrThis"
 
 msgid "volume"
 msgstr "garsumas"
@@ -451,34 +454,33 @@ msgid "wait until %b"
 msgstr "lauk, kol atsitiks %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "jutiklis %m.booleanSensor?"
+msgstr "kai %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr "kai paspausta %m.key "
+msgstr "Kai paspausta %m.key"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "Kai %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "kai paspausta @greenFlag"
+msgstr "Kai paspausta @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "Kai fonas keičiasi į %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "Kai atstumas < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "Kai gausi žinią %m.broadcast"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "Kai spusteli veikėją"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "Kai pasvirimas = %n"
 
 msgid "x position"
 msgstr "x koordinatė"
@@ -486,25 +488,9 @@ msgstr "x koordinatė"
 msgid "y position"
 msgstr "y koordinatė"
 
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "variklinių kryptimi %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "variklio išjungimo"
-
-#~ msgid "motor on"
-#~ msgstr "dėl motorinių"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "dėl motorinių už %n secs"
-
-#~ msgid "motor power %n"
-#~ msgstr "Variklio %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "natą %d.note grok %n taktų/us"
-
-#User Interface
+##################
+# User Interface #
+##################
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
