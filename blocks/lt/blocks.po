@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-02-03 21:23+0200\n"
 "Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,10 +98,6 @@ msgstr "išvalyk ekraną"
 msgid "clear graphic effects"
 msgstr "panaikink grafinius efektus"
 
-# buvo: klono paruošimas
-msgid "clone startup"
-msgstr "Naujam klonui pritaikyk :"
-
 msgid "color %c is touching %c?"
 msgstr "spalva %c liečia %c?"
 
@@ -119,6 +115,9 @@ msgstr "dabarties %m.timeAndDate"
 
 msgid "Data"
 msgstr "Duomenys"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "komanda"
@@ -147,9 +146,6 @@ msgstr "Įvykiai"
 msgid "forever"
 msgstr "visada :"
 
-msgid "forever if %b"
-msgstr "visada, kai %b :"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "slink %n sek. į tašką x:%n y:%n"
 
@@ -169,17 +165,14 @@ msgstr "eik į tašką x:%n y:%n"
 msgid "hide"
 msgstr "pasislėpk"
 
-msgid "hide all sprites"
-msgstr "paslėpk visus veikėjus"
-
 msgid "hide list %m.list"
 msgstr "slėpk %m.list"
 
 msgid "hide variable %m.var"
 msgstr "slėpk %m.var"
 
-msgid "if %b"
-msgstr "jeigu %b :"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "jeigu priėjai kraštą, atšok"
@@ -302,9 +295,6 @@ msgstr "sakyk %s"
 
 msgid "say %s for %n secs"
 msgstr "sakyk %s  %n sek."
-
-msgid "Scratch days"
-msgstr "Scratch dienos"
 
 msgid "Sensing"
 msgstr "Aplinka"
@@ -476,6 +466,9 @@ msgstr "Kai atstumas < %n"
 msgid "when I receive %m.broadcast"
 msgstr "Kai gausi žinią %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "Kai spusteli veikėją"
 
@@ -487,3 +480,19 @@ msgstr "x koordinatė"
 
 msgid "y position"
 msgstr "y koordinatė"
+
+# buvo: klono paruošimas
+#~ msgid "clone startup"
+#~ msgstr "Naujam klonui pritaikyk :"
+
+#~ msgid "forever if %b"
+#~ msgstr "visada, kai %b :"
+
+#~ msgid "hide all sprites"
+#~ msgstr "paslėpk visus veikėjus"
+
+#~ msgid "if %b"
+#~ msgstr "jeigu %b :"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch dienos"

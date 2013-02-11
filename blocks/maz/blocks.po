@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-29 20:21+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,9 +97,6 @@ msgstr "chj£ns'i"
 msgid "clear graphic effects"
 msgstr "tsjŠŠ yo jyaxŠ"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "tsiji %c k'o tis'i a xes'e %c?"
 
@@ -116,6 +113,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -145,9 +145,6 @@ msgstr ""
 msgid "forever"
 msgstr "texe yo paa"
 
-msgid "forever if %b"
-msgstr "jýý texe yo paa %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "ts'indajme %n ri kuexe kjanu x%n y%n"
 
@@ -166,17 +163,14 @@ msgstr "ri maa a x%n y%n"
 msgid "hide"
 msgstr "tsj%nt'Š"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "jýý %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "ra nzhogŠ nu mayaxŠ ma ra chj¢bi"
@@ -291,9 +285,6 @@ msgid "say %s"
 msgstr ""
 
 msgid "say %s for %n secs"
-msgstr ""
-
-msgid "Scratch days"
 msgstr ""
 
 msgid "Sensing"
@@ -467,6 +458,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -478,6 +472,12 @@ msgstr ""
 
 msgid "y position"
 msgstr ""
+
+#~ msgid "forever if %b"
+#~ msgstr "jýý texe yo paa %b"
+
+#~ msgid "if %b"
+#~ msgstr "jýý %b"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "jýý ni ma nuu mb‡‡ %m.motorDirection"

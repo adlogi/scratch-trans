@@ -82,9 +82,6 @@ msgstr ""
 msgid "clear graphic effects"
 msgstr ""
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr ""
 
@@ -101,6 +98,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -130,9 +130,6 @@ msgstr ""
 msgid "forever"
 msgstr ""
 
-msgid "forever if %b"
-msgstr ""
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr ""
 
@@ -151,16 +148,13 @@ msgstr ""
 msgid "hide"
 msgstr ""
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
+msgid "if %b then"
 msgstr ""
 
 msgid "if on edge, bounce"
@@ -276,9 +270,6 @@ msgid "say %s"
 msgstr ""
 
 msgid "say %s for %n secs"
-msgstr ""
-
-msgid "Scratch days"
 msgstr ""
 
 msgid "Sensing"
@@ -444,6 +435,9 @@ msgid "when distance < %n"
 msgstr ""
 
 msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when I start as a clone"
 msgstr ""
 
 msgid "when this sprite clicked"

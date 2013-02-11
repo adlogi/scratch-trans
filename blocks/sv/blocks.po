@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-30 17:10+0200\n"
 "Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,9 +97,6 @@ msgstr "radera"
 msgid "clear graphic effects"
 msgstr "ta bort grafisk effekt"
 
-msgid "clone startup"
-msgstr "starta upp kloning"
-
 msgid "color %c is touching %c?"
 msgstr "rör färgen %c vid %c?"
 
@@ -117,6 +114,9 @@ msgstr "aktuell %m.timeAndDate"
 
 msgid "Data"
 msgstr "Data"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "definiera"
@@ -145,9 +145,6 @@ msgstr "Händelser"
 msgid "forever"
 msgstr "för alltid"
 
-msgid "forever if %b"
-msgstr "för alltid om %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "glid %n sek till x:%n y:%n"
 
@@ -166,17 +163,14 @@ msgstr "gå till x:%n y:%n"
 msgid "hide"
 msgstr "göm"
 
-msgid "hide all sprites"
-msgstr "göm alla sprites"
-
 msgid "hide list %m.list"
 msgstr "göm listan %m.list"
 
 msgid "hide variable %m.var"
 msgstr "göm variabeln %m.var"
 
-msgid "if %b"
-msgstr "om %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "studsa, vid kanten"
@@ -293,9 +287,6 @@ msgstr "säg %s"
 
 msgid "say %s for %n secs"
 msgstr "säg %s i %n sekunder"
-
-msgid "Scratch days"
-msgstr "Scratchdagar"
 
 msgid "Sensing"
 msgstr "Känna av"
@@ -466,6 +457,9 @@ msgstr "när avståndet är < %n"
 msgid "when I receive %m.broadcast"
 msgstr "när jag tar emot %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "när denna sprite klickas på"
 
@@ -477,6 +471,21 @@ msgstr "x-läge"
 
 msgid "y position"
 msgstr "y-läge"
+
+#~ msgid "clone startup"
+#~ msgstr "starta upp kloning"
+
+#~ msgid "forever if %b"
+#~ msgstr "för alltid om %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "göm alla sprites"
+
+#~ msgid "if %b"
+#~ msgstr "om %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratchdagar"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "göm övervakare %m.varOrList"

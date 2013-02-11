@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-29 20:21+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,9 +97,6 @@ msgstr "ဖျက်"
 msgid "clear graphic effects"
 msgstr "ဂရက်ဖစ်ရဲ့ သက်ရောက်မှု့ကို ဖျက်"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "%c အရောင်ကို %c အရောင်နဲ့ ရော"
 
@@ -116,6 +113,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -145,9 +145,6 @@ msgstr ""
 msgid "forever"
 msgstr "အမြဲတမ်း"
 
-msgid "forever if %b"
-msgstr "အကယ်၍ %b ဆိုရင် အမြဲတမ်း"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "%n စက္ကန့်မှာ x ဝင်ရိုးကို %n 、y ဝင်ရိုးကို%n အဖြစ် ပြောင်း"
 
@@ -166,17 +163,14 @@ msgstr "xဝင်ရိုးကို %n 、yဝင်ရိုးကို %n
 msgid "hide"
 msgstr "ဖွက်"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "အကယ်၍ %b ဆိုရင်"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "အကယ်၍ ဘောင်နဲ့ထိရင် ပြန်ကန်"
@@ -295,9 +289,6 @@ msgstr "%s လို့ပြော"
 
 msgid "say %s for %n secs"
 msgstr "%s လို့ %n စက္ကန့် ပြော"
-
-msgid "Scratch days"
-msgstr ""
 
 msgid "Sensing"
 msgstr "ရှာဖွေမှု့"
@@ -472,6 +463,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -483,6 +477,12 @@ msgstr "xဝင်ရိုး"
 
 msgid "y position"
 msgstr "yဝင်ရိုး"
+
+#~ msgid "forever if %b"
+#~ msgstr "အကယ်၍ %b ဆိုရင် အမြဲတမ်း"
+
+#~ msgid "if %b"
+#~ msgstr "အကယ်၍ %b ဆိုရင်"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "မော်တာရဲ့ လည်ပတ်မှု့ကို %m.motorDirection အဖြစ်ထား"

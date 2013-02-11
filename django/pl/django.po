@@ -3,117 +3,120 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 23:09+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-02-08 00:54+0200\n"
+"Last-Translator: Marek <faramir@mat.umk.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
 
 #: templates/account_settings.html:6
 msgid "Account Settings -  Scratch"
-msgstr ""
+msgstr "Ustawienia konta -  Scratch"
 
 #: templates/account_settings.html:12
 #: templates/explore/explore_new_version_coming.html:12
 msgid "Coming Soon..."
-msgstr ""
+msgstr "Wkrótce..."
 
 #: templates/base.html:136
 msgid "Create"
-msgstr ""
+msgstr "Stwórz"
 
 #: templates/base.html:137 templates/explore/explore2.html:40
 msgid "Explore"
-msgstr ""
+msgstr "Przeglądaj"
 
 #: templates/base.html:138
 msgid "Discuss"
-msgstr ""
+msgstr "Rozmawiaj"
 
 #: templates/base.html:139
 msgid "Help"
-msgstr ""
+msgstr "Pomoc"
 
 #: templates/base.html:170
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: templates/base.html:171 templates/studio/base.html:21
 msgid "My Stuff"
-msgstr ""
+msgstr "Moje rzeczy"
 
 #: templates/base.html:172
 msgid "Account settings"
-msgstr ""
+msgstr "Ustawienia konta"
 
 #: templates/base.html:173
 msgid "Sign out"
-msgstr ""
+msgstr "Wyloguj się"
 
 #: templates/base.html:179 templates/base.html.py:187
 #: templates/modal-login.html:10
 msgid "Login"
-msgstr ""
+msgstr "Zaloguj"
 
 #: templates/base.html:183 templates/modal-login.html:14
 msgid "Username"
-msgstr ""
+msgstr "Użytkownik"
 
 #: templates/base.html:185 templates/modal-login.html:21
 msgid "Password"
-msgstr ""
+msgstr "Hasło"
 
 #: templates/base.html:234
 msgid "About"
-msgstr ""
+msgstr "O..."
 
 #: templates/base.html:235
+#, fuzzy
 msgid "Educators"
-msgstr ""
+msgstr "Nauczyciele"
 
 #: templates/base.html:236
 msgid "Parents"
-msgstr ""
+msgstr "Rodzice"
 
 #: templates/base.html:237
+#, fuzzy
 msgid "Community Guidelines"
-msgstr ""
+msgstr "Kodeks postępowania"
 
 #: templates/base.html:238
 msgid "Contact us"
-msgstr ""
+msgstr "Kontakt"
 
 #: templates/base.html:240
 msgid ""
 "Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab"
-msgstr ""
+msgstr "Scratch jest projektem Lifelong Kindergarten Group z MIT Media Lab"
 
 #: templates/modal-login.html:31
 msgid "Sign in"
-msgstr ""
+msgstr "Zaloguj się"
 
 #: templates/password_required_login.html:31
 msgid "Enter"
-msgstr ""
+msgstr "Wejdź"
 
 #: templates/carousel/carousel.html:10 templates/carousel/carousel.html:12
 #: templates/carousel/carousel.html:14 templates/carousel/carousel.html:16
 #: templates/carousel/carousel.html:18
 msgid "View all"
-msgstr ""
+msgstr "Zobacz wszystko"
 
 #: templates/carousel/carousel.html:52
 msgid "No items"
-msgstr ""
+msgstr "Brak pozycji"
 
 #: templates/carousel/includes/project-thumb.html:12
 #: templates/explore/explore2.html:54
@@ -127,366 +130,405 @@ msgstr ""
 #: templates/projects/base.html:48 templates/projects/base.html.py:194
 #: templates/projects/includes/project_list.html:11
 msgid "by"
-msgstr ""
+msgstr "przez"
 
 #: templates/comments/comment_module.html:10
 msgid "Leave a comment"
-msgstr ""
+msgstr "Pozostaw komentarz"
 
 #: templates/comments/comment_module.html:29
 #: templates/comments/includes/comment.html:11
 #: templates/includes/backbone-templates.html:106
 msgid "Reply"
-msgstr ""
+msgstr "Odpowiedz"
 
 #: templates/comments/comment_module.html:34
 msgid "0 minutes ago"
-msgstr ""
+msgstr "0 minut temu"
 
 #: templates/comments/comment_module.html:42
 #: templates/comments/includes/comment.html:7
 msgid "Report comment as inappropriate"
-msgstr ""
+msgstr "Zgłoś komentarz jako nieodpowiedni"
 
 #: templates/comments/comment_module.html:64
 msgid "Post"
-msgstr ""
+msgstr "Wyślij"
 
 #: templates/comments/comment_module.html:67
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 #: templates/comments/list.html:20
 msgid "View previous comments"
-msgstr ""
+msgstr "Zobacz poprzednie komentarze"
 
 #: templates/comments/includes/comment.html:26
 msgid "ago"
-msgstr ""
+msgstr "temu"
 
 #: templates/explore/explore2.html:6
 #: templates/explore/explore_new_version_coming.html:6
 msgid "Explore -  Scratch"
-msgstr ""
+msgstr "Przeglądaj -  Scratch"
 
 #: templates/explore/explore2.html:42
 msgid "Jump"
-msgstr ""
+msgstr "Skocz"
 
 #: templates/explore/explore2.html:45
+#, fuzzy
 msgid "Shuffle"
-msgstr ""
+msgstr "Przetasuj"
 
 #: templates/explore/includes/related_projects.html:62
+#, fuzzy
 msgid "Sudio:"
-msgstr ""
+msgstr "Studio:"
 
 #: templates/galleries/base.html:30
+#, fuzzy
 msgid "Studio description"
-msgstr ""
+msgstr "Opis studia"
 
 #: templates/galleries/gallery.html:21
 #, python-format
 msgid "created %(tDate)s"
-msgstr ""
+msgstr "stworzono %(tDate)s"
 
 #: templates/galleries/gallery.html:25
 msgid "Read more &raquo;"
-msgstr ""
+msgstr "Czytaj więcej &raquo;"
 
 #: templates/galleries/gallery.html:51
 #, python-format
 msgid "Projects ( <span data-count=\"projects\">%(tCount)s</span> )"
-msgstr ""
+msgstr "Projekty ( <span data-count=\"projects\">%(tCount)s</span> )"
 
 #: templates/galleries/gallery.html:54
 #, python-format
 msgid "Comments ( <span data-count=\"comments\">%(tCount)s</span> )"
-msgstr ""
+msgstr "Komentarze ( <span data-count=\"comments\">%(tCount)s</span> )"
 
 #: templates/galleries/gallery.html:57
 #, python-format
 msgid "Curators ( <span data-count=\"curators\">%(tCount)s</span> )"
-msgstr ""
+msgstr "Kuratorzy ( <span data-count=\"curators\">%(tCount)s</span> )"
 
 #: templates/galleries/gallery.html:60
 msgid "More info"
-msgstr ""
+msgstr "Więcej informacji"
 
 #: templates/galleries/gallery_list.html:4
 #, python-format
 msgid "%(username)s Studio (%(galleries.count)s)"
-msgstr ""
+msgstr "Studio %(username)s (%(galleries.count)s)"
 
 #: templates/galleries/gallery_list.html:8
 #: templates/studio/includes/galleries_action_bar.html:11
 #: templates/studio/includes/galleries_action_bar.html:16
 msgid "Newest"
-msgstr ""
+msgstr "Najnowsze"
 
 #: templates/galleries/gallery_list.html:9
 msgid "Oldest"
-msgstr ""
+msgstr "Najstarsze"
 
 #: templates/galleries/gallery_list.html:10
 #: templates/studio/includes/project_action_bar.html:28
 msgid "Most viewed"
-msgstr ""
+msgstr "Najczęściej oglądane"
 
 #: templates/galleries/gallery_list.html:11
 #: templates/studio/includes/project_action_bar.html:29
+#, fuzzy
 msgid "Most loved"
-msgstr ""
+msgstr "Najbardziej kochane"
 
 #: templates/galleries/gallery_list.html:12
 #: templates/studio/includes/project_action_bar.html:30
 msgid "Most favorited"
-msgstr ""
+msgstr "Najbardziej lubione"
 
 #: templates/galleries/gallery_list.html:13
 #: templates/studio/includes/project_action_bar.html:31
 msgid "Most remixed"
-msgstr ""
+msgstr "Najwięcej remiksowane"
 
 #: templates/galleries/includes/project_action_bar.html:11
 msgid "Add projects"
-msgstr ""
+msgstr "Dodaj projekty"
 
 #: templates/homepage/index.html:24
+#, fuzzy
 msgid "Featured Projects"
-msgstr ""
+msgstr "Główne projekty"
 
 #: templates/homepage/index.html:25
+#, fuzzy
 msgid "Featured Studios"
-msgstr ""
+msgstr "Główne Studia"
 
 #: templates/homepage/index.html:32
 msgid "What's Happening?"
-msgstr ""
+msgstr "Co się dzieje?"
 
 #: templates/homepage/index.html:47
+#, fuzzy
 msgid "Scratch News"
-msgstr ""
+msgstr "Wiadomości Scratcha"
 
 #: templates/homepage/index.html:55
+#, fuzzy
 msgid "Welcome, Scratchers!"
-msgstr ""
+msgstr "Witajcie, Scratchersi!"
 
 #: templates/homepage/index.html:56
+#, fuzzy
 msgid ""
 "Thanks for helping us find and fix glitches in Scratch 2.0! Found a bug? Let "
 "us know!"
 msgstr ""
+"Dziękujemy za pomoc w znajdowaniu i naprawianiu niedoróbek w Scratch 2.0! "
+"Znalazłeś błąd? Daj nam znać!"
 
 #: templates/homepage/index.html:57
 msgid "Report bugs here &raquo;"
-msgstr ""
+msgstr "Zgłoś błędy tu &raquo;"
 
 #: templates/homepage/index.html:64
+#, fuzzy
 msgid "Try out new features"
-msgstr ""
+msgstr "Spróbuj nowych możliwości"
 
 #: templates/homepage/index.html:65
 msgid "Here’s a description of what’s new in Scratch 2.0."
-msgstr ""
+msgstr "Tu przedstawiamy co nowego jest w Scratchu 2.0."
 
 #: templates/homepage/index.html:66
 msgid "Check it out! &raquo;"
-msgstr ""
+msgstr "Sprawdź to! &raquo;"
 
 #: templates/homepage/index.html:81
 msgid "Scratch 2.0 Beta"
-msgstr ""
+msgstr "Scratch 2.0 Beta"
 
 #: templates/homepage/index.html:83
 msgid "Welcome to the Scratch 2.0 Beta website!"
-msgstr ""
+msgstr "Witaj na stronie Scratch 2.0 Beta!"
 
 #: templates/homepage/index.html:86
+#, fuzzy
 msgid ""
 "Please explore and experiment with this preview version of the new Scratch. "
 "Check out the <b>Featured Projects</b> and <b>Featured Studios</b> below.  "
 "Click <a href=\"/help\">Help</a> to learn more."
 msgstr ""
+"Przeglądaj i eksperymentuj używając tej wersji poglądowej nowego Scratcha. "
+"Spójrz poniżzej na <b>Główne projekty</b> i <b>Główne Studia</b>.  Kliknij "
+"<a href=\"/help\">Pomoc</a> aby nauczyć się więcej."
 
 #: templates/homepage/index.html:89
 msgid ""
 "The Scratch 2.0 Beta is open to everyone. But you can only log in if you "
 "created your Scratch account before January 26th."
 msgstr ""
+"Scratch 2.0 Beta jest otwarty dla wszystkich, lecz możesz się logować, "
+"jedynie jeśli stworzyłeś swoje konto Scratcha przed 26 stycznia."
 
 #: templates/homepage/index.html:92
+#, fuzzy
 msgid ""
 "We still have a few features to add, and lots of glitches to fix! You can "
 "help us by <a href=\"/forums/3/\">reporting bugs and glitches</a>. The "
 "sooner we find and fix them, the sooner we can officially release Scratch "
 "2.0."
 msgstr ""
+"Mamy ciągle jeszcze kilka właściwości do dodania i dużo niedoróbek do "
+"naprawienia! Możesz nam pomóc przez <a href=\"/forums/3/\">zgłąszanie błędów i "
+"niedoróbek</a>. Im wcześniej znajdziemy i naprawimy je, tym szybciej "
+"będziemy mogli oficjalnie wydać Scratch 2.0."
 
 #: templates/homepage/index.html:95
 msgid "Find out more about"
-msgstr ""
+msgstr "Dowiedz się więcej o"
 
 #: templates/homepage/index.html:95
+#, fuzzy
 msgid "the move to Scratch 2.0"
-msgstr ""
+msgstr "migracji do Scratch 2.0"
 
 #: templates/homepage/index.html:151
 msgid "What the Community is Sharing"
-msgstr ""
+msgstr "Co Społeczność udostępnia"
 
 #: templates/homepage/index.html:158
 msgid "What the Community is Remixing"
-msgstr ""
+msgstr "Co Społeczność remiksuje"
 
 #: templates/homepage/index.html:161
 msgid "What the Community is Loving"
-msgstr ""
+msgstr "Co Społeczność kocha"
 
 #: templates/profiles/profile_detail.html:51
 #: templates/scratch_admin/admin_profile_view.html:41
 #, python-format
 msgid "Joined %(tDate)s ago / "
-msgstr ""
+msgstr "Dołączył %(tDate)s temu / "
 
 #: templates/profiles/profile_detail.html:69
 msgid "About me"
-msgstr ""
+msgstr "O mnie"
 
 #: templates/profiles/profile_detail.html:86
 msgid "What I'm working on"
-msgstr ""
+msgstr "Nad czym pracuję"
 
 #: templates/profiles/profile_detail.html:121
 msgid "What I've been doing"
-msgstr ""
+msgstr "Co robiłem"
 
 #: templates/profiles/profile_detail.html:129
 msgid "Report this user"
-msgstr ""
+msgstr "Zgłoś użytkownika"
 
 #: templates/profiles/profile_detail.html:136
+#, fuzzy
 msgid "Shared Projects"
-msgstr ""
+msgstr "Udostępnione projekty"
 
 #: templates/profiles/profile_detail.html:138
+#, fuzzy
 msgid "Favorite Projects"
-msgstr ""
+msgstr "Ulubione projekty"
 
 #: templates/profiles/profile_detail.html:140 templates/projects/base.html:208
 msgid "Studios"
-msgstr ""
+msgstr "Studia"
 
 #: templates/profiles/profile_detail.html:179
+#, fuzzy
 msgid "Following"
-msgstr ""
+msgstr "Podążam"
 
+# Zwolennicy
 #: templates/profiles/profile_detail.html:183
+#, fuzzy
 msgid "Followers"
-msgstr ""
+msgstr "Podążają"
 
 #: templates/profiles/profile_detail.html:189 templates/projects/base.html:171
 msgid "Comments"
-msgstr ""
+msgstr "Komentarze"
 
 #: templates/projects/base.html:4
+#, fuzzy
 msgid "on Scratch"
-msgstr ""
+msgstr "w Scratch"
 
 #: templates/projects/base.html:48
+#, fuzzy
 msgid "remixed"
-msgstr ""
+msgstr "remiksowany"
 
 #: templates/projects/base.html:55
+#, fuzzy
 msgid "See inside"
-msgstr ""
+msgstr "Zobacz środek"
 
 #: templates/projects/base.html:115
 msgid "not shared"
-msgstr ""
+msgstr "nie udostępniony"
 
 #: templates/projects/base.html:117
 #: templates/studio/includes/project_list.html:19
 msgid "Last modified:"
-msgstr ""
+msgstr "Ostatino zmodyfikowany:"
 
 #: templates/projects/base.html:128
 msgid "Favorite this project"
-msgstr ""
+msgstr "Polub ten projekt"
 
 #: templates/projects/base.html:135
 msgid "Love this project"
-msgstr ""
+msgstr "Ukochaj ten projekt"
 
 #: templates/projects/base.html:144
 msgid "Total views"
-msgstr ""
+msgstr "Wszystkich wyświetleń"
 
 #: templates/projects/base.html:148
 msgid "Total remixes"
-msgstr ""
+msgstr "Wszystkich remiksów"
 
 #: templates/projects/base.html:183
 msgid "Remixes"
-msgstr ""
+msgstr "Remiksy"
 
 #: templates/projects/base.html:195
 msgid "views"
-msgstr ""
+msgstr "wyświetleń"
 
 #: templates/projects/shared-other.html:66
 #: templates/projects/shared-owner.html:30
+#, fuzzy
 msgid "Shared on:"
-msgstr ""
+msgstr "Udostępnione w:"
 
 #: templates/projects/unshared-owner.html:59
 msgid "Unshared"
-msgstr ""
+msgstr "Nieudostępnione"
 
 #: templates/projects/includes/project_list.html:10
 #, python-format
 msgid "%(tDate)s ago"
-msgstr ""
+msgstr "%(tDate)s temu"
 
 #: templates/projects/includes/shared/shared-project-actions.html:3
 msgid "Share project on other websites"
-msgstr ""
+msgstr "Udostępnij projekt na innej stronie"
 
 #: templates/projects/includes/shared/shared-project-actions.html:4
 msgid "Share to"
-msgstr ""
+msgstr "Udostępnij do"
 
 #: templates/projects/includes/shared/shared-project-actions.html:9
 msgid "Add project to gallery"
-msgstr ""
+msgstr "Dodaj projekt do galerii"
 
 #: templates/projects/includes/shared/shared-project-actions.html:10
 msgid "Add to"
-msgstr ""
+msgstr "Dodaj do"
 
 #: templates/projects/includes/shared/shared-project-actions.html:14
 msgid "Report project as inappropriate"
-msgstr ""
+msgstr "Zgłoś projekt jako nieodpowiedni"
 
 #: templates/projects/includes/shared/shared-project-actions.html:15
+#, fuzzy
 msgid "Report this"
-msgstr ""
+msgstr "Zgłoś"
 
 #: templates/studio/base.html:29
+#, fuzzy
 msgid "Example tab"
-msgstr ""
+msgstr "Przykładowa zakładka"
 
 #: templates/studio/studio.html:6
 #, python-format
 msgid ""
 "All Projects (<span data-content=\"project-count\">%(projects_count)s</span>)"
 msgstr ""
+"Wszystkie projekty (<span data-content=\"project-count\">%"
+"(projects_count)s</span>)"
 
 #: templates/studio/studio.html:7
 #, python-format
 msgid ""
 "Shared Projects (<span data-content=\"shared-count\">%(shared_count)s</span>)"
 msgstr ""
+"Udostępnione projekty (<span data-content=\"shared-count\">%"
+"(shared_count)s</span>)"
 
 #: templates/studio/studio.html:8
 #, python-format
@@ -494,72 +536,77 @@ msgid ""
 "Unshared Projects (<span data-content=\"unshared-count\">"
 "%(notshared_count)s</span>)"
 msgstr ""
+"Nieudostępnione projekty (<span data-content=\"unshared-count\">%"
+"(notshared_count)s</span>)"
 
 #: templates/studio/studio.html:9
 #, python-format
 msgid ""
 "My Studios (<span data-content=\"gallery-count\">%(gallery_count)s</span>)"
 msgstr ""
+"Moje studia (<span data-content=\"gallery-count\">%(gallery_count)s</span>)"
 
 #: templates/studio/studio.html:10
 #, python-format
 msgid "Trash (<span data-content=\"trash-count\">%(deleted_count)s</span>)"
-msgstr ""
+msgstr "Kosz (<span data-content=\"trash-count\">%(deleted_count)s</span>)"
 
 #: templates/studio/studio.html:18
 msgid "New Project"
-msgstr ""
+msgstr "Nowy projekt"
 
 #: templates/studio/studio.html:21
 msgid "New Studio"
-msgstr ""
+msgstr "Nowe studio"
 
 #: templates/studio/includes/galleries_action_bar.html:8
 msgid "View:"
-msgstr ""
+msgstr "Zobacz:"
 
 #: templates/studio/includes/galleries_action_bar.html:17
 msgid "Most Projects"
-msgstr ""
+msgstr "Najwięcej projektów"
 
 #: templates/studio/includes/galleries_action_bar.html:18
 msgid "Last updated"
-msgstr ""
+msgstr "Ostatnio uaktualniony"
 
 #: templates/studio/includes/galleries_list.html:26
+#, fuzzy
 msgid "You do not own any galleries. <a href=>Create one!</a>"
-msgstr ""
+msgstr "Nie posiadasz żadnej galerii. <a href=>Stwórz ją!</a>"
 
 #: templates/studio/includes/gallery_list.html:19
-#, python-format
+#, fuzzy, python-format
 msgid "Created: %(gallery.datetime_created|date:\"F d Y fa\")s"
-msgstr ""
+msgstr "Stworzona: %(gallery.datetime_created|date:\"F d Y fa\")s"
 
 #: templates/studio/includes/gallery_list.html:37
 msgid "You do not have any galleries"
-msgstr ""
+msgstr "Nie masz żadnych galerii"
 
 #: templates/studio/includes/project_action_bar.html:14
 msgid "All"
-msgstr ""
+msgstr "Wszystko"
 
 #: templates/studio/includes/project_action_bar.html:15
 msgid "Shared"
-msgstr ""
+msgstr "Udostępnione"
 
 #: templates/studio/includes/project_action_bar.html:16
 msgid "Not shared"
-msgstr ""
+msgstr "Nieudostępnione"
 
 #: templates/studio/includes/project_action_bar.html:22
 #: templates/studio/includes/project_action_bar.html:27
 msgid "Last modified"
-msgstr ""
+msgstr "Ostatnio zmodyfikowane"
 
 #: templates/studio/includes/project_action_bar.html:37
 msgid "+ New Project"
-msgstr ""
+msgstr "+ Nowy projekt"
 
 #: templates/studio/includes/project_list.html:20
+#, fuzzy
 msgid "Created:"
-msgstr ""
+msgstr "Stworzony:"

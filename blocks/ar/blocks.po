@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:20+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-01-31 23:51+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "امسح"
 msgid "clear graphic effects"
 msgstr "أزل التأثيرات الرسومية"
 
-msgid "clone startup"
-msgstr "عند بدء نسخة"
-
 msgid "color %c is touching %c?"
 msgstr "اللون %c يلامس اللون %c ؟"
 
@@ -118,6 +115,9 @@ msgstr "%m.timeAndDate في هذه اللحظة"
 
 msgid "Data"
 msgstr "البيانات"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "تعريف"
@@ -146,9 +146,6 @@ msgstr "الأحداث"
 msgid "forever"
 msgstr "كرر باستمرار"
 
-msgid "forever if %b"
-msgstr "اختبر باستمرار إذا %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "انزلق خلال %n ثانية إلى الموضع س: %n ص: %n"
 
@@ -167,17 +164,14 @@ msgstr "اذهب إلى الموضع س: %n ص: %n"
 msgid "hide"
 msgstr "اختف"
 
-msgid "hide all sprites"
-msgstr "أخفِ جميع الكائنات"
-
 msgid "hide list %m.list"
 msgstr "أخفِ اللائحة %m.list"
 
 msgid "hide variable %m.var"
 msgstr "أخفِ المتغير %m.var"
 
-msgid "if %b"
-msgstr "إذا %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "ارتد إذا كنت عند الحافة"
@@ -294,9 +288,6 @@ msgstr "قل %s"
 
 msgid "say %s for %n secs"
 msgstr "قل %s لمدة %n ثانية"
-
-msgid "Scratch days"
-msgstr "أيام سكراتش"
 
 msgid "Sensing"
 msgstr "التحسس"
@@ -470,6 +461,9 @@ msgstr "عندما المسافة > %n"
 msgid "when I receive %m.broadcast"
 msgstr "عندما تستقبل %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "عند نقر هذا الكائن"
 
@@ -481,6 +475,21 @@ msgstr "الموضع س"
 
 msgid "y position"
 msgstr "الموضع ص"
+
+#~ msgid "clone startup"
+#~ msgstr "عند بدء نسخة"
+
+#~ msgid "forever if %b"
+#~ msgstr "اختبر باستمرار إذا %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "أخفِ جميع الكائنات"
+
+#~ msgid "if %b"
+#~ msgstr "إذا %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "أيام سكراتش"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "أخفِ %m.varOrList"

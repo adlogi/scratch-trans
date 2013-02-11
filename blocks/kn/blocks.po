@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-01-29 20:21+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "ಅಳಿಸು"
 msgid "clear graphic effects"
 msgstr "ಎಲ್ಲಾ ಪರಿಣಾಮಗಳನ್ನು ಅಳಿಸು"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "%c ಬಣ್ಣ %c ಅನ್ನು ಮುಟ್ಟಿದಾಗ"
 
@@ -117,6 +114,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -146,9 +146,6 @@ msgstr ""
 msgid "forever"
 msgstr "ಯವಾಗಲು"
 
-msgid "forever if %b"
-msgstr "ಒಂದುವೇಳೆ %b ಯವಾಗಲು"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "%n ಸೆಕೆಂಡಿನಲ್ಲಿ x:%n y:%n ರಷ್ಟು ಸರಿ"
 
@@ -167,17 +164,14 @@ msgstr "x:%n y:%n ಗೆ ಹೋಗು"
 msgid "hide"
 msgstr "ಬಚ್ಚಿಡು"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "ಒಂದುವೇಳೆ %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "ಒಂದುವೇಳೆ ಕೊನೆಗೆ ಹೋದಾಗ ಜಿಗಿ"
@@ -296,9 +290,6 @@ msgstr "%s ಎಂದು ಹೇಳು"
 
 msgid "say %s for %n secs"
 msgstr "%s ಎಂದು %n ಸೆಕೆಂಡಿನಲ್ಲಿ ಹೇಳು"
-
-msgid "Scratch days"
-msgstr ""
 
 msgid "Sensing"
 msgstr "ಗ್ರಹಿಸುವುದು"
@@ -467,6 +458,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -478,6 +472,12 @@ msgstr "x ಸ್ಥಾನ"
 
 msgid "y position"
 msgstr "y ಸ್ಥಾನ"
+
+#~ msgid "forever if %b"
+#~ msgstr "ಒಂದುವೇಳೆ %b ಯವಾಗಲು"
+
+#~ msgid "if %b"
+#~ msgstr "ಒಂದುವೇಳೆ %b"
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "%d.note ಲಯದಲ್ಲಿ %n ಸಂಗಿತದಸ್ವರ ಕೇಳಿಸು"

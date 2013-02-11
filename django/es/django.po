@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 23:09+0000\n"
-"PO-Revision-Date: 2013-02-06 03:13+0200\n"
+"PO-Revision-Date: 2013-02-08 18:58+0200\n"
 "Last-Translator: Bastián <technoguyx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -93,11 +93,12 @@ msgstr "Reglas de la Comunidad"
 msgid "Contact us"
 msgstr "Contáctenos"
 
+# The group's name is "Lifelong Kindergarten", not "L.K. Group"
 #: templates/base.html:240
 msgid ""
 "Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab"
 msgstr ""
-"Scratch es un proyecto del Lifelong Kindergarten Group en el MIT Media Lab"
+"Scratch es un proyecto del grupo Lifelong Kindergarten en el MIT Media Lab"
 
 #: templates/modal-login.html:31
 msgid "Sign in"
@@ -162,7 +163,7 @@ msgstr "Cancelar"
 msgid "View previous comments"
 msgstr "Ver comentarios anteriores"
 
-# I don't think this is necessary, given Spanish's grammar. "HACE 5 minutos".
+# This ISN'T necessary, due to the Spanish language's grammar. "HACE 5 minutos", not "5 minutos [ago]". The "hace" is already covered in some other string.
 # 
 # Translation of this has caused odd bugs in the 1.x website.
 #: templates/comments/includes/comment.html:26
@@ -193,7 +194,7 @@ msgstr "Descripción del Estudio"
 #: templates/galleries/gallery.html:21
 #, python-format
 msgid "created %(tDate)s"
-msgstr "creado en %(tDate)s"
+msgstr "creado hace %(tDate)s"
 
 #: templates/galleries/gallery.html:25
 msgid "Read more &raquo;"
@@ -543,7 +544,7 @@ msgstr "Ver:"
 
 #: templates/studio/includes/galleries_action_bar.html:17
 msgid "Most Projects"
-msgstr "Mas Proyectos"
+msgstr "Más Proyectos"
 
 #: templates/studio/includes/galleries_action_bar.html:18
 msgid "Last updated"

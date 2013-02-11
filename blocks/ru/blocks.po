@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-30 08:51+0200\n"
 "Last-Translator: patarakin <patarakin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "очистить"
 msgid "clear graphic effects"
 msgstr "убрать графические эффекты"
 
-msgid "clone startup"
-msgstr "клонировать старт"
-
 msgid "color %c is touching %c?"
 msgstr "цвет %c касается %c?"
 
@@ -118,6 +115,9 @@ msgstr "текущие %m.timeAndDate"
 
 msgid "Data"
 msgstr "Данные"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "определить"
@@ -146,9 +146,6 @@ msgstr "События"
 msgid "forever"
 msgstr "всегда"
 
-msgid "forever if %b"
-msgstr "всегда, если  %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "плыть %n секунд в точку x:%n y:%n"
 
@@ -167,17 +164,14 @@ msgstr "перейти в x:%n y:%n"
 msgid "hide"
 msgstr "спрятаться"
 
-msgid "hide all sprites"
-msgstr "скрыть все спрайты"
-
 msgid "hide list %m.list"
 msgstr "скрыть список %m.list"
 
 msgid "hide variable %m.var"
 msgstr "скрыть переменную  %m.var"
 
-msgid "if %b"
-msgstr "если %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "если на краю, оттолкнуться"
@@ -294,9 +288,6 @@ msgstr "сказать %s"
 
 msgid "say %s for %n secs"
 msgstr "говорить %s в течение %n секунд"
-
-msgid "Scratch days"
-msgstr "Дни Скретча"
 
 msgid "Sensing"
 msgstr "сенсоры"
@@ -467,6 +458,9 @@ msgstr "когда расстояние < %n"
 msgid "when I receive %m.broadcast"
 msgstr "когда я получу %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "когда спрайт нажат"
 
@@ -478,6 +472,21 @@ msgstr "положение x"
 
 msgid "y position"
 msgstr "положение y"
+
+#~ msgid "clone startup"
+#~ msgstr "клонировать старт"
+
+#~ msgid "forever if %b"
+#~ msgstr "всегда, если  %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "скрыть все спрайты"
+
+#~ msgid "if %b"
+#~ msgstr "если %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Дни Скретча"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "скрыть монитор %m.varOrList"

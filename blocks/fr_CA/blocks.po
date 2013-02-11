@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2012-12-06 23:36+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "effacer tout"
 msgid "clear graphic effects"
 msgstr "annuler les effets graphiques"
 
-msgid "clone startup"
-msgstr "cloner le démarrage"
-
 msgid "color %c is touching %c?"
 msgstr "couleur %c touche %c?"
 
@@ -118,6 +115,9 @@ msgstr "courant %m.timeAndDate"
 
 msgid "Data"
 msgstr "Données"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "définir"
@@ -146,9 +146,6 @@ msgstr "Événements"
 msgid "forever"
 msgstr "répéter indéfiniment"
 
-msgid "forever if %b"
-msgstr "répéter indéfiniment si %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "glisser en %n secondes à x:%n y:%n"
 
@@ -167,17 +164,14 @@ msgstr "aller vers x:%n y:%n"
 msgid "hide"
 msgstr "cacher"
 
-msgid "hide all sprites"
-msgstr "cacher tous les lutins"
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "si %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "rebondir si le bord est atteint"
@@ -296,9 +290,6 @@ msgstr "dire %s"
 
 msgid "say %s for %n secs"
 msgstr "dire %s pendant %n secondes"
-
-msgid "Scratch days"
-msgstr "Journée Scratch"
 
 msgid "Sensing"
 msgstr "Capteurs"
@@ -476,6 +467,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr "quand je reçois %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -487,6 +481,21 @@ msgstr "position x"
 
 msgid "y position"
 msgstr "position y"
+
+#~ msgid "clone startup"
+#~ msgstr "cloner le démarrage"
+
+#~ msgid "forever if %b"
+#~ msgstr "répéter indéfiniment si %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "cacher tous les lutins"
+
+#~ msgid "if %b"
+#~ msgstr "si %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Journée Scratch"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "cacher le moniteur %m.varOrList"

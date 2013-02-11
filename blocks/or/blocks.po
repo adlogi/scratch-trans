@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-29 20:22+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "Â¸Â½ Le"
 msgid "clear graphic effects"
 msgstr "NÃÃ$ÃžLÃ§ e `ÃÂ¡Ãa j$Ã Le"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "e=  %c LÃŠ RÃŠÃœD @RÃž %c;"
 
@@ -117,6 +114,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -146,9 +146,6 @@ msgstr ""
 msgid "forever"
 msgstr "jaÃ ]Ã"
 
-msgid "forever if %b"
-msgstr "jaÃŠ Ã’af `ÃBÃœ d]Ãž %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "NÃ¬ÃBX %n Ã’jÃ’LÂ¨jÃ§ LÃŠ  HÂµ %n JÃ©ÃB %n"
 
@@ -167,17 +164,14 @@ msgstr "HÂµ LÃŠ dÃAÂ«ÃŠ %n JÃ©ÃB LÃŠ dÃAÂ«ÃŠ  %n"
 msgid "hide"
 msgstr "mÃŠQÃ@"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "d]Ãž %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "d]Ãž Ã’NÃVÃžH LX Ã’e @RÃž XÃžAÃœ"
@@ -296,9 +290,6 @@ msgstr "LÃŠk %s"
 
 msgid "say %s for %n secs"
 msgstr "LÃŠk %s `ÃBÃœ %n Ã’jÃ’LÂ¨j "
-
-msgid "Scratch days"
-msgstr ""
 
 msgid "Sensing"
 msgstr "Ã’j_Ã§jÃž=Ã§"
@@ -467,6 +458,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -478,6 +472,12 @@ msgstr "HÂµÃ§ e yÃž[Ãž"
 
 msgid "y position"
 msgstr "JÃ©ÃB e yÃž[Ãž"
+
+#~ msgid "forever if %b"
+#~ msgstr "jaÃŠ Ã’af `ÃBÃœ d]Ãž %b"
+
+#~ msgid "if %b"
+#~ msgstr "d]Ãž %b"
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "Ã’_ÃV aSÃ@ %d.note  aÃžVÃ§jÃ§ %n `ÃBÃœ"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-02 17:06+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-02-02 22:24+0200\n"
 "Last-Translator: craftsmaster <pornieks@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "notīrīt"
 msgid "clear graphic effects"
 msgstr "notīrīt grafiskos efektus"
 
-msgid "clone startup"
-msgstr "dublēt sākumu"
-
 msgid "color %c is touching %c?"
 msgstr "krāsa %c pieskaras %c"
 
@@ -118,6 +115,9 @@ msgstr "pašreizējā %m.timeAndDate"
 
 msgid "Data"
 msgstr "Dati"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "definēt"
@@ -146,9 +146,6 @@ msgstr "Notikumi"
 msgid "forever"
 msgstr "nepārtraukti"
 
-msgid "forever if %b"
-msgstr "nepārtraukti ja %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "slīdēt %n sekundes uz x:%n y:%n"
 
@@ -167,17 +164,14 @@ msgstr "iet uz x:%n y:%n"
 msgid "hide"
 msgstr "slēpt"
 
-msgid "hide all sprites"
-msgstr "slēpt visus gariņus"
-
 msgid "hide list %m.list"
 msgstr "slēpt sarakstu %m.list"
 
 msgid "hide variable %m.var"
 msgstr "slēpt mainīgo %m.var"
 
-msgid "if %b"
-msgstr "ja %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "ja uz malas, tad atlēkt"
@@ -293,9 +287,6 @@ msgstr "teikt %s"
 
 msgid "say %s for %n secs"
 msgstr "%n sekundes teikt %s "
-
-msgid "Scratch days"
-msgstr "Scratch dienas"
 
 msgid "Sensing"
 msgstr "Novērošana"
@@ -462,6 +453,9 @@ msgstr "kad attālums < %n"
 msgid "when I receive %m.broadcast"
 msgstr "kad es saņemu %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "kad uzklikšķināts uz šī gariņa"
 
@@ -473,3 +467,18 @@ msgstr "x pozīcija"
 
 msgid "y position"
 msgstr "y pozīcija"
+
+#~ msgid "clone startup"
+#~ msgstr "dublēt sākumu"
+
+#~ msgid "forever if %b"
+#~ msgstr "nepārtraukti ja %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "slēpt visus gariņus"
+
+#~ msgid "if %b"
+#~ msgstr "ja %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch dienas"

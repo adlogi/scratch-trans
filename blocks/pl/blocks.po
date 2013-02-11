@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
-"PO-Revision-Date: 2013-01-30 00:00+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
+"PO-Revision-Date: 2013-02-08 13:15+0200\n"
 "Last-Translator: Marek <faramir@mat.umk.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -98,9 +98,6 @@ msgstr "wyczyść"
 msgid "clear graphic effects"
 msgstr "wyczyść efekty graficzne"
 
-msgid "clone startup"
-msgstr "start klona"
-
 msgid "color %c is touching %c?"
 msgstr "czy kolor %c dotyka %c?"
 
@@ -118,6 +115,9 @@ msgstr "aktualny %m.timeAndDate"
 
 msgid "Data"
 msgstr "Dane"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "definiuj"
@@ -146,9 +146,6 @@ msgstr "Zdarzenia"
 msgid "forever"
 msgstr "zawsze"
 
-msgid "forever if %b"
-msgstr "zawsze, jeżeli %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "leć przez %n s do x:%n y:%n"
 
@@ -167,17 +164,14 @@ msgstr "idź do x:%n y:%n"
 msgid "hide"
 msgstr "ukryj"
 
-msgid "hide all sprites"
-msgstr "ukryj wszystkie duszki"
-
 msgid "hide list %m.list"
 msgstr "ukryj listę %m.list"
 
 msgid "hide variable %m.var"
 msgstr "ukryj zmienną %m.var"
 
-msgid "if %b"
-msgstr "jeżeli %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "jeżeli na brzegu, odbij się"
@@ -295,9 +289,6 @@ msgstr "powiedz %s"
 
 msgid "say %s for %n secs"
 msgstr "powiedz %s przez %n s"
-
-msgid "Scratch days"
-msgstr "Ilość dni Scratcha"
 
 msgid "Sensing"
 msgstr "Czujniki"
@@ -458,7 +449,7 @@ msgid "when %m.triggerSensor > %n"
 msgstr "kiedy %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "kiedy @greenFlag"
+msgstr "kiedy kliknięto @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
@@ -469,6 +460,9 @@ msgstr "kiedy odległość < %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "kiedy otrzymam %m.broadcast"
+
+msgid "when I start as a clone"
+msgstr ""
 
 # "kiedy *ten* duszek kliknięty"?
 msgid "when this sprite clicked"
@@ -482,6 +476,21 @@ msgstr "współrzędna x"
 
 msgid "y position"
 msgstr "współrzędna y"
+
+#~ msgid "clone startup"
+#~ msgstr "start klona"
+
+#~ msgid "forever if %b"
+#~ msgstr "zawsze, jeżeli %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "ukryj wszystkie duszki"
+
+#~ msgid "if %b"
+#~ msgstr "jeżeli %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Ilość dni Scratcha"
 
 #, fuzzy
 #~ msgid "hide monitor %m.varOrList"

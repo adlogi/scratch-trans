@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-29 20:22+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "تازىلاش"
 msgid "clear graphic effects"
 msgstr "رەسىم ئۈنۈمىنى تازىلاش"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr ""
 
@@ -117,6 +114,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -146,9 +146,6 @@ msgstr ""
 msgid "forever"
 msgstr "مەڭگۈ"
 
-msgid "forever if %b"
-msgstr ""
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr ""
 
@@ -167,17 +164,14 @@ msgstr ""
 msgid "hide"
 msgstr "يوشۇرۇش"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "ئەگەر %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr ""
@@ -292,9 +286,6 @@ msgid "say %s"
 msgstr ""
 
 msgid "say %s for %n secs"
-msgstr ""
-
-msgid "Scratch days"
 msgstr ""
 
 msgid "Sensing"
@@ -462,6 +453,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -473,6 +467,9 @@ msgstr ""
 
 msgid "y position"
 msgstr ""
+
+#~ msgid "if %b"
+#~ msgstr "ئەگەر %b"
 
 #~ msgid "motor off"
 #~ msgstr "موتورنى ئىتىش"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-02-02 14:41+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -99,9 +99,6 @@ msgstr "izbriši"
 msgid "clear graphic effects"
 msgstr "izbriši slikovne učinke"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "barva %c se dotika %c?"
 
@@ -118,6 +115,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -147,9 +147,6 @@ msgstr ""
 msgid "forever"
 msgstr "ponavljaj"
 
-msgid "forever if %b"
-msgstr "ponavljaj, če %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "drsi %n sekund do x:%n y:%n"
 
@@ -168,17 +165,14 @@ msgstr "pojdi na x:%n y:%n"
 msgid "hide"
 msgstr "skrij"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "če %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "odbij se, če si na robu"
@@ -297,9 +291,6 @@ msgstr "povej %s"
 
 msgid "say %s for %n secs"
 msgstr "povej %s za %n sekund"
-
-msgid "Scratch days"
-msgstr ""
 
 msgid "Sensing"
 msgstr "zaznavanje"
@@ -474,6 +465,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -485,6 +479,12 @@ msgstr "mesto x"
 
 msgid "y position"
 msgstr "mesto y"
+
+#~ msgid "forever if %b"
+#~ msgstr "ponavljaj, če %b"
+
+#~ msgid "if %b"
+#~ msgstr "če %b"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "smer motorja %m.motorDirection"

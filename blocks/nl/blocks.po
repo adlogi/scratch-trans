@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
-"PO-Revision-Date: 2013-01-30 02:30+0200\n"
-"Last-Translator: Piers Titus <pierstitus@gmail.com>\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
+"PO-Revision-Date: 2013-02-09 13:06+0200\n"
+"Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -97,9 +97,6 @@ msgstr "wis alles"
 msgid "clear graphic effects"
 msgstr "zet alle effecten uit"
 
-msgid "clone startup"
-msgstr "nieuwe kloon"
-
 msgid "color %c is touching %c?"
 msgstr "kleur %c raakt %c?"
 
@@ -117,6 +114,9 @@ msgstr "huidige %m.timeAndDate"
 
 msgid "Data"
 msgstr "Data"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "definieer"
@@ -145,9 +145,6 @@ msgstr "Gebeurtenissen"
 msgid "forever"
 msgstr "herhaal"
 
-msgid "forever if %b"
-msgstr "herhaal als %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "schuif in %n sec. naar x:%n y:%n"
 
@@ -166,17 +163,14 @@ msgstr "ga naar x:%n y:%n"
 msgid "hide"
 msgstr "verberg"
 
-msgid "hide all sprites"
-msgstr "verberg alle sprites"
-
 msgid "hide list %m.list"
 msgstr "verberg lijst %m.list"
 
 msgid "hide variable %m.var"
 msgstr "verberg variabele %m.var"
 
-msgid "if %b"
-msgstr "als %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "keer om aan de rand"
@@ -293,9 +287,6 @@ msgstr "zeg %s"
 msgid "say %s for %n secs"
 msgstr "zeg %s %n sec."
 
-msgid "Scratch days"
-msgstr "Scratch dagen"
-
 msgid "Sensing"
 msgstr "Waarnemen"
 
@@ -312,14 +303,12 @@ msgid "set instrument to %d.instrument"
 msgstr "gebruik instrument %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "motorrichting %m.motorDirection"
+msgstr "zet motorrichting op %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "motorvermogen %n"
+msgstr "zet motorvermogen op %n"
 
 msgid "set pen color to %c"
 msgstr "maak penkleur %c"
@@ -467,18 +456,35 @@ msgstr "wanneer afstand < %n"
 msgid "when I receive %m.broadcast"
 msgstr "wanneer ik signaal %m.broadcast ontvang"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "wanneer op deze sprite wordt geklikt"
 
-#, fuzzy
 msgid "when tilt = %n"
-msgstr "wanneer tilt = %n"
+msgstr "wanneer gekanteld = %n"
 
 msgid "x position"
 msgstr "x-positie"
 
 msgid "y position"
 msgstr "y-positie"
+
+#~ msgid "clone startup"
+#~ msgstr "nieuwe kloon"
+
+#~ msgid "forever if %b"
+#~ msgstr "herhaal als %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "verberg alle sprites"
+
+#~ msgid "if %b"
+#~ msgstr "als %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch dagen"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "verberg weergave %m.varOrList"

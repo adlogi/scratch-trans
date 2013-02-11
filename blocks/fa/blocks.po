@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-01-31 11:33+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "پاک کن"
 msgid "clear graphic effects"
 msgstr "افکت های گرافیکی را پاک کن"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "تماس دارد؟ %c2 با رنگ %c1 رنگ"
 
@@ -117,6 +114,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -146,9 +146,6 @@ msgstr ""
 msgid "forever"
 msgstr "برای همیشه تکرار کن"
 
-msgid "forever if %b"
-msgstr "%b برای همیشه اگر"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "n% ثانیه آهسته برو به ایکس:%n وای:%n"
 
@@ -167,17 +164,14 @@ msgstr "%n2 :وای %n1 :برو به مکان ایکس"
 msgid "hide"
 msgstr "پنهان کن"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "%b اگر"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "اگر روی خط هستی، بپر"
@@ -296,9 +290,6 @@ msgstr "%s بگو"
 
 msgid "say %s for %n secs"
 msgstr "ثانيه %n برای %s بگو"
-
-msgid "Scratch days"
-msgstr ""
 
 msgid "Sensing"
 msgstr "مشاهده"
@@ -473,6 +464,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -484,6 +478,12 @@ msgstr "موقعیت ایکس"
 
 msgid "y position"
 msgstr "موقعیت وای"
+
+#~ msgid "forever if %b"
+#~ msgstr "%b برای همیشه اگر"
+
+#~ msgid "if %b"
+#~ msgstr "%b اگر"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "%m.motorDirection راستای حرکت موتور به"

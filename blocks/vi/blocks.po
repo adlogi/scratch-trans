@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-29 20:22+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "xóa"
 msgid "clear graphic effects"
 msgstr "bỏ hiệu ứng đồ họa"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "màu %c chạm vào màu %c"
 
@@ -117,6 +114,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -146,9 +146,6 @@ msgstr ""
 msgid "forever"
 msgstr "lặp mãi mãi"
 
-msgid "forever if %b"
-msgstr "lặp mãi mãi nếu %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "lướt tới x:%n2 y:%n3 trong %n1 giây"
 
@@ -167,17 +164,14 @@ msgstr "nhảy tới x: %n y:%n"
 msgid "hide"
 msgstr "ẩn"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "nếu %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "nếu chạm biên, bật lại"
@@ -296,9 +290,6 @@ msgstr "nói %s"
 
 msgid "say %s for %n secs"
 msgstr "nói %s trong %n giây"
-
-msgid "Scratch days"
-msgstr ""
 
 msgid "Sensing"
 msgstr "giác quan"
@@ -473,6 +464,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -484,6 +478,12 @@ msgstr "vị trí x"
 
 msgid "y position"
 msgstr "vị trí y"
+
+#~ msgid "forever if %b"
+#~ msgstr "lặp mãi mãi nếu %b"
+
+#~ msgid "if %b"
+#~ msgstr "nếu %b"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "chiều quay động cơ %m.motorDirection"

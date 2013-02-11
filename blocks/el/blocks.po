@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:20+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-02-04 20:16+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,9 +97,6 @@ msgstr "καθάρισε"
 msgid "clear graphic effects"
 msgstr "καθάρισε τα γραφικά εφέ"
 
-msgid "clone startup"
-msgstr "έναρξη δημιουργίας κλώνου"
-
 msgid "color %c is touching %c?"
 msgstr "το χρώμα %c αγγίζει το %c"
 
@@ -117,6 +114,9 @@ msgstr "τρέχων %m.timeAndDate"
 
 msgid "Data"
 msgstr "Δεδομένα"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "ορισμός του"
@@ -145,9 +145,6 @@ msgstr "Συμβάντα"
 msgid "forever"
 msgstr "για πάντα"
 
-msgid "forever if %b"
-msgstr "για πάντα εάν %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "κινήσου ομαλά για %n δευτ. στο x:%n y:%n"
 
@@ -166,17 +163,14 @@ msgstr "πήγαινε στη θέση x:%n y:%n"
 msgid "hide"
 msgstr "κρύψου"
 
-msgid "hide all sprites"
-msgstr "απόκρυψε όλες τις μορφές"
-
 msgid "hide list %m.list"
 msgstr "απόκρυψε τη λίστα %m.list"
 
 msgid "hide variable %m.var"
 msgstr "απόκρυψε τη μεταβλητή %m.var"
 
-msgid "if %b"
-msgstr "εάν %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "εάν στα όρια, αναπήδησε"
@@ -293,9 +287,6 @@ msgstr "πες %s"
 
 msgid "say %s for %n secs"
 msgstr "πες %s για %n δευτερόλεπτα"
-
-msgid "Scratch days"
-msgstr "Ημέρες από την δημιουργία του Scratch"
 
 msgid "Sensing"
 msgstr "Αισθητήρες"
@@ -466,6 +457,9 @@ msgstr "όταν η απόσταση < %n"
 msgid "when I receive %m.broadcast"
 msgstr "όταν λάβω το %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "όταν σε αυτή την μορφή γίνει κλικ"
 
@@ -477,6 +471,21 @@ msgstr "θέση x"
 
 msgid "y position"
 msgstr "θέση y"
+
+#~ msgid "clone startup"
+#~ msgstr "έναρξη δημιουργίας κλώνου"
+
+#~ msgid "forever if %b"
+#~ msgstr "για πάντα εάν %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "απόκρυψε όλες τις μορφές"
+
+#~ msgid "if %b"
+#~ msgstr "εάν %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Ημέρες από την δημιουργία του Scratch"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "Κατεύθυνση κίνησης %m.motorDirection"

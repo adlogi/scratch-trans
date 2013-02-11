@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,9 +97,6 @@ msgstr "മായ്ക്കുക"
 msgid "clear graphic effects"
 msgstr "ഗ്രാഫിക്‌ എഫ്ഫെക്ട്സ് മാറ്റുക"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "%c കളര്‍ %cനെ തൊടുന്നുണ്ടോ?"
 
@@ -116,6 +113,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -145,9 +145,6 @@ msgstr ""
 msgid "forever"
 msgstr "എല്ലായ്പ്പോഴും"
 
-msgid "forever if %b"
-msgstr "%b ആണെങ്കില്‍ എല്ലായ്പ്പോഴും"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "%n സെകന്റില്‍ x:%n,y:%nലേക്ക് നീങ്ങുക"
 
@@ -166,17 +163,14 @@ msgstr "x:%n,y:%nലേക്ക് പോവുക"
 msgid "hide"
 msgstr "ഒളിക്കുക"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "%b ആണെങ്കില്‍"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "അറ്റത്താണെങ്കില്‍ തിരിച്ചു നടക്കുക"
@@ -291,9 +285,6 @@ msgid "say %s"
 msgstr ""
 
 msgid "say %s for %n secs"
-msgstr ""
-
-msgid "Scratch days"
 msgstr ""
 
 msgid "Sensing"
@@ -461,6 +452,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -472,3 +466,9 @@ msgstr ""
 
 msgid "y position"
 msgstr ""
+
+#~ msgid "forever if %b"
+#~ msgstr "%b ആണെങ്കില്‍ എല്ലായ്പ്പോഴും"
+
+#~ msgid "if %b"
+#~ msgstr "%b ആണെങ്കില്‍"

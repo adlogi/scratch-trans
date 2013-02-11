@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-01-29 17:43+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "մաքրել"
 msgid "clear graphic effects"
 msgstr "մաքրել գրաֆիկական էֆեկտները"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "%c գույնը վերաբերու՞մ է %c ին"
 
@@ -117,6 +114,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -146,9 +146,6 @@ msgstr ""
 msgid "forever"
 msgstr "միշտ"
 
-msgid "forever if %b"
-msgstr "միշտ, եթե %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "սահել %n վայրկյան դեպի x:%n y:%n"
 
@@ -167,17 +164,14 @@ msgstr "գնալ դեպի x:%n y:%n"
 msgid "hide"
 msgstr "թաքցնել"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "եթե %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "եթե եզր է, հրվել"
@@ -296,9 +290,6 @@ msgstr "ասել %s"
 
 msgid "say %s for %n secs"
 msgstr "ասել %s %n վայրկյանում"
-
-msgid "Scratch days"
-msgstr ""
 
 msgid "Sensing"
 msgstr "ընկալում"
@@ -473,6 +464,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -484,6 +478,12 @@ msgstr "x ի դիրքը"
 
 msgid "y position"
 msgstr "y ի դիրքը"
+
+#~ msgid "forever if %b"
+#~ msgstr "միշտ, եթե %b"
+
+#~ msgid "if %b"
+#~ msgstr "եթե %b"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "շարժիչի ուղղությունը %m.motorDirection"

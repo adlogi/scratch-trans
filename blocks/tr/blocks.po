@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
-"PO-Revision-Date: 2013-02-05 08:05+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
+"PO-Revision-Date: 2013-02-09 14:43+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -24,13 +24,13 @@ msgid "%b or %b"
 msgstr "%b veya %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.spriteOrStage'in %m.attribute'sı"
+msgstr "%m.attribute sı %m.spriteOrStage in"
 
 msgid "%m.list contains %s"
 msgstr "%m.list de %s var"
 
 msgid "%m.mathOp of %n"
-msgstr "%m.mathOp da %n"
+msgstr "%m.mathOp si %n in"
 
 msgid "%m.sensor sensor value"
 msgstr "sensör değeri %m.sensor"
@@ -65,7 +65,7 @@ msgid "change %m.effect effect by %n"
 msgstr "%m.effect etkisini %n arttır"
 
 msgid "change %m.var by %n"
-msgstr "%m.var ı %n arttır"
+msgstr "%m.var i %n arttır"
 
 msgid "change pen color by %n"
 msgstr "kalem rengini %n arttır"
@@ -97,9 +97,6 @@ msgstr "temizle"
 msgid "clear graphic effects"
 msgstr "görsel etkileri temizle"
 
-msgid "clone startup"
-msgstr "ikiz başlangıcı"
-
 msgid "color %c is touching %c?"
 msgstr "%c rengi %c rengine değdi mi?"
 
@@ -110,13 +107,16 @@ msgid "costume #"
 msgstr "kılık #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "%m.spriteOnly'in ikizini yarat"
+msgstr "%m.spriteOnly in ikizini yarat"
 
 msgid "current %m.timeAndDate"
 msgstr "şimdiki %m.timeAndDate"
 
 msgid "Data"
 msgstr "Veri"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "tanımla"
@@ -134,7 +134,7 @@ msgid "distance"
 msgstr "mesafe"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse'a mesafe"
+msgstr "%m.spriteOrMouse a mesafe"
 
 msgid "else"
 msgstr "değilse"
@@ -145,9 +145,6 @@ msgstr "Olaylar"
 msgid "forever"
 msgstr "sürekli"
 
-msgid "forever if %b"
-msgstr "%b ise sürekli"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "%n saniyede x:%n y:%n a git"
 
@@ -155,19 +152,16 @@ msgid "go back %n layers"
 msgstr "%n katman geriye git"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse'e git"
+msgstr "%m.spriteOrMouse a git"
 
 msgid "go to front"
 msgstr "öne git"
 
 msgid "go to x:%n y:%n"
-msgstr "x:%n y:%n konumuna git"
+msgstr "x:%n y:%n a git"
 
 msgid "hide"
-msgstr "gizle"
-
-msgid "hide all sprites"
-msgstr "tüm kuklaları gizle"
+msgstr "gizlen"
 
 msgid "hide list %m.list"
 msgstr "%m.list listesini gizle"
@@ -175,8 +169,8 @@ msgstr "%m.list listesini gizle"
 msgid "hide variable %m.var"
 msgstr "%m.var değişkenini gizle"
 
-msgid "if %b"
-msgstr "eğer %b ise"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "kenara geldiysen sek"
@@ -194,13 +188,13 @@ msgid "key %m.key pressed?"
 msgstr "%m.key tuşu basılı mı?"
 
 msgid "length of %m.list"
-msgstr "%m.list'in uzunluğu"
+msgstr "%m.list in uzunluğu"
 
 msgid "length of %s"
-msgstr "%s'in uzunluğu"
+msgstr "%s in uzunluğu"
 
 msgid "letter %n of %s"
-msgstr "%n . harfi %s 'nin"
+msgstr "%n . harfi %s nin"
 
 msgid "Looks"
 msgstr "Görünüm"
@@ -249,13 +243,12 @@ msgid "pen up"
 msgstr "kalemi kaldır"
 
 msgid "pick random %n to %n"
-msgstr "%n ile %n arasında bir sayı seç"
+msgstr "%n ile %n arasında bir sayı tut"
 
 msgid "play drum %d.drum for %n beats"
 msgstr "%d.drum davulunu %n vuruş çal"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "%d.note notasını %n vuruş çal"
 
@@ -269,7 +262,7 @@ msgid "point in direction %d.direction"
 msgstr "%d.direction yönüne dön"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse'a doğru dön"
+msgstr "%m.spriteOrMouse a doğru dön"
 
 msgid "repeat %n"
 msgstr "%n defa tekrarla"
@@ -287,7 +280,7 @@ msgid "rest for %n beats"
 msgstr "%n vuruş sus"
 
 msgid "round %n"
-msgstr "%n'i yuvarla"
+msgstr "%n i yuvarla"
 
 msgid "say %s"
 msgstr "%s de"
@@ -295,14 +288,11 @@ msgstr "%s de"
 msgid "say %s for %n secs"
 msgstr "%s de %n saniye"
 
-msgid "Scratch days"
-msgstr "Scratch günleri"
-
 msgid "Sensing"
 msgstr "Algılama"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "Sensör %m.booleanSensor?"
+msgstr "almaç %m.booleanSensor ?"
 
 msgid "set %m.effect effect to %n"
 msgstr "%m.effect etkisini %n yap"
@@ -314,12 +304,10 @@ msgid "set instrument to %d.instrument"
 msgstr "çalgıyı %d.instrument yap"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "motor yönünü %m.motorDirection yap"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
 msgstr "motor gücünü %n yap"
 
@@ -339,7 +327,7 @@ msgid "set rotation style %m.rotationStyle"
 msgstr "dönüş tarzını %m.rotationStyle yap"
 
 msgid "set size to %n%"
-msgstr "boyu %n% yap"
+msgstr "büyüklüğü % %n yap"
 
 msgid "set tempo to %n bpm"
 msgstr "tempoyu %n vuruş/dk yap"
@@ -357,7 +345,7 @@ msgid "set y to %n"
 msgstr "y'yi %n yap"
 
 msgid "show"
-msgstr "göster"
+msgstr "görün"
 
 msgid "show list %m.list"
 msgstr "%m.list listesini göster"
@@ -366,7 +354,7 @@ msgid "show variable %m.var"
 msgstr "%m.var değişkenini göster"
 
 msgid "size"
-msgstr "boyut"
+msgstr "büyüklük"
 
 msgid "Sound"
 msgstr "Ses"
@@ -375,7 +363,7 @@ msgid "stamp"
 msgstr "damga"
 
 msgid "stop %m.stop"
-msgstr "%m.stop'u durdur"
+msgstr "%m.stop ni durdur"
 
 msgid "stop all sounds"
 msgstr "tüm sesleri durdur"
@@ -407,16 +395,16 @@ msgid "timer"
 msgstr "süre ölçer"
 
 msgid "touching %m.touching?"
-msgstr "%m.touching değdi mi?"
+msgstr "%m.touching a değdi mi?"
 
 msgid "touching color %c?"
 msgstr "%c rengine değdi mi?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "dön @turnLeft %n derece"
+msgstr "@turnLeft %n derece dön"
 
 msgid "turn @turnRight %n degrees"
-msgstr "dön @turnRight %n derece"
+msgstr "@turnRight %n derece dön"
 
 msgid "turn motor off"
 msgstr "motoru kapat"
@@ -425,7 +413,6 @@ msgid "turn motor on"
 msgstr "motoru çalıştır"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "%n saniye motoru çalıştır"
 
@@ -436,7 +423,7 @@ msgid "user id"
 msgstr "kullanıcı kimliği"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "video %m.videoMotionType, %m.stageOrThis üzerindeki"
 
 msgid "volume"
 msgstr "ses şiddeti"
@@ -448,7 +435,6 @@ msgid "wait until %b"
 msgstr "%b olana kadar bekle"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
 msgstr "%m.booleanSensor olduğunda"
 
@@ -456,7 +442,7 @@ msgid "when %m.key key pressed"
 msgstr "%m.key tuşu basıldığında"
 
 msgid "when %m.triggerSensor > %n"
-msgstr "%m.triggerSensor, %n'den büyük olduğunda"
+msgstr "%m.triggerSensor > %n olduğunda"
 
 msgid "when @greenFlag clicked"
 msgstr "@greenFlag tıklanınca"
@@ -471,6 +457,9 @@ msgstr "mesafe %n'den küçük olduğunda"
 msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast haberi gelince"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "bu kukla tıklanınca"
 
@@ -482,6 +471,21 @@ msgstr "x konumu"
 
 msgid "y position"
 msgstr "y konumu"
+
+#~ msgid "clone startup"
+#~ msgstr "ikiz başlangıcı"
+
+#~ msgid "forever if %b"
+#~ msgstr "%b ise sürekli"
+
+#~ msgid "hide all sprites"
+#~ msgstr "tüm kuklaları gizle"
+
+#~ msgid "if %b"
+#~ msgstr "eğer %b ise"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch günleri"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "%m.motorDirection motor yönü"

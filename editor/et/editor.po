@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2013-01-30 20:23+0200\n"
+"PO-Revision-Date: 2013-02-06 17:54+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -14,10 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 
 msgid "#"
-msgstr ""
+msgstr "#"
 
 msgid "10 ^"
-msgstr ""
+msgstr "10 ^"
 
 msgid "A connected"
 msgstr "A ühendatud"
@@ -35,19 +35,19 @@ msgid "Add a number input:"
 msgstr "Lisa arvparameeter:"
 
 msgid "Add a string input:"
-msgstr "Lisa stringparameeter:"
+msgstr "Lisa tekstparameeter:"
 
 msgid "add comment"
-msgstr ""
+msgstr "lisa kommentaar"
 
 msgid "Add label text:"
-msgstr "Lisa parameetri nimi:"
+msgstr "Lisa märgend:"
 
 msgid "all"
 msgstr "kõik"
 
 msgid "all around"
-msgstr ""
+msgstr "saab pöörelda"
 
 msgid "asin"
 msgstr "asin"
@@ -56,7 +56,7 @@ msgid "atan"
 msgstr "atan"
 
 msgid "B connected"
-msgstr "B on ühndatud"
+msgstr "B on ühendatud"
 
 msgid "backdrop #"
 msgstr "taust #"
@@ -65,7 +65,7 @@ msgid "backdrop name"
 msgstr "tausta nimi"
 
 msgid "backdrop1"
-msgstr "taust 1"
+msgstr "taust1"
 
 msgid "Backpack"
 msgstr "Seljakott"
@@ -74,13 +74,13 @@ msgid "Bass"
 msgstr "Bass"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "basstrumm"
 
 msgid "Bassoon"
 msgstr "Fagott"
 
 msgid "Bongo"
-msgstr ""
+msgstr "bongo"
 
 msgid "bottom-left"
 msgstr "all vasakul"
@@ -107,7 +107,7 @@ msgid "Cannot Delete"
 msgstr "Ei saa kustutada"
 
 msgid "ceiling"
-msgstr "lagi"
+msgstr "ceiling"
 
 msgid "Cello"
 msgstr "Tšello"
@@ -122,7 +122,7 @@ msgid "Claves"
 msgstr "Klaves"
 
 msgid "clear senders/receivers"
-msgstr "kusuta saatjad/saajad"
+msgstr "kustuta saatjad/saajad"
 
 msgid "Closed Hi-Hat"
 msgstr "Suletud Hi-Hat"
@@ -146,7 +146,7 @@ msgid "costume name"
 msgstr "kostüümi nimi"
 
 msgid "costume1"
-msgstr "kostüüm 1"
+msgstr "kostüüm1"
 
 # 87%
 msgid "costume2"
@@ -177,7 +177,7 @@ msgid "direction"
 msgstr "suund"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "ei pöördu"
 
 msgid "down"
 msgstr "alla"
@@ -207,7 +207,7 @@ msgid "Effects"
 msgstr "Efektid"
 
 msgid "Electric Guitar"
-msgstr "Elektrigitarr"
+msgstr "Elektrikitarr"
 
 msgid "Electric Piano"
 msgstr "Elektriklaver"
@@ -216,7 +216,7 @@ msgid "fade in"
 msgstr "tuhmumine sisse"
 
 msgid "fade out"
-msgstr "tuhmuine välja"
+msgstr "tuhmumine välja"
 
 msgid "File"
 msgstr ""
@@ -258,7 +258,7 @@ msgid "left arrow"
 msgstr "vasaknool"
 
 msgid "left-right"
-msgstr ""
+msgstr "vasak-parem"
 
 msgid "Library"
 msgstr "Teek"
@@ -270,7 +270,7 @@ msgid "ln"
 msgstr "sees"
 
 msgid "log"
-msgstr "lop"
+msgstr "log"
 
 msgid "login"
 msgstr "logi sisse"
@@ -279,16 +279,17 @@ msgid "louder"
 msgstr "valjemini"
 
 msgid "loudness"
-msgstr ""
+msgstr "valjus"
 
 msgid "Marimba"
 msgstr "Marimba"
 
 msgid "message1"
-msgstr "teade 1"
+msgstr "teade1"
 
+#, fuzzy
 msgid "middle"
-msgstr "keskpunkt"
+msgstr "keskel"
 
 msgid "minute"
 msgstr "minut"
@@ -303,20 +304,20 @@ msgid "motion"
 msgstr "liikumine"
 
 msgid "mouse-pointer"
-msgstr "hiire kursor"
+msgstr "hiirekursor"
 
 msgid "Music Box"
 msgstr "Music Box"
 
+#, fuzzy
 msgid "myself"
-msgstr ""
+msgstr "mina"
 
 msgid "name"
 msgstr "nimi"
 
-#, fuzzy
 msgid "New"
-msgstr "Nouveau"
+msgstr "Uus"
 
 msgid "New backdrop"
 msgstr "Uus taust"
@@ -352,9 +353,8 @@ msgid "Organ"
 msgstr "Orel"
 
 # 82%
-#, fuzzy
 msgid "other scripts in sprite"
-msgstr "teised skriptid tulekul"
+msgstr "teised spraidi skriptid"
 
 msgid "Paint"
 msgstr "Joonista"
@@ -363,7 +363,7 @@ msgid "paste"
 msgstr "kleebi"
 
 msgid "photo1"
-msgstr "foto 1"
+msgstr "foto1"
 
 msgid "Piano"
 msgstr "Klaver"
@@ -378,13 +378,13 @@ msgid "pop"
 msgstr "pop"
 
 msgid "random"
-msgstr ""
+msgstr "juhuslik"
 
 msgid "Record"
 msgstr "Lindista"
 
 msgid "recording1"
-msgstr "lindistus 1"
+msgstr "lindistus1"
 
 msgid "redo"
 msgstr "tee uuesti"
@@ -404,6 +404,7 @@ msgstr "takistus-C"
 msgid "resistance-D"
 msgstr "takistus-D"
 
+#, fuzzy
 msgid "reverse"
 msgstr "muuda suunda"
 
@@ -420,22 +421,23 @@ msgid "say"
 msgstr "ütle"
 
 msgid "Scratch Cat"
-msgstr ""
+msgstr "Kraps"
 
 msgid "second"
 msgstr "sekund"
 
 msgid "See project page"
-msgstr "Vaata projekt lehte"
+msgstr "Vaata projekti"
 
 msgid "select all"
 msgstr "vali kõik"
 
 msgid "Share"
-msgstr ""
+msgstr "Jaga"
 
+#, fuzzy
 msgid "shout"
-msgstr "karjuma"
+msgstr "hüüa"
 
 msgid "show receivers"
 msgstr "näita vastuvõtjaid"
@@ -453,7 +455,7 @@ msgid "sin"
 msgstr "sin"
 
 msgid "size"
-msgstr "surus"
+msgstr "suurus"
 
 msgid "slider"
 msgstr "liugur"
@@ -495,7 +497,7 @@ msgid "tan"
 msgstr "tan"
 
 msgid "that way"
-msgstr "toda viisi"
+msgstr "nii"
 
 msgid "think"
 msgstr "mõtle"
@@ -504,13 +506,13 @@ msgid "this script"
 msgstr "see skript"
 
 msgid "this sprite"
-msgstr ""
+msgstr "see sprait"
 
 msgid "this way"
-msgstr "seda viisi"
+msgstr "sedaviisi"
 
 msgid "timer"
-msgstr ""
+msgstr "taimer"
 
 msgid "Tips"
 msgstr "Selgitused"
@@ -519,13 +521,13 @@ msgid "To delete a block definition, first remove all uses of the block."
 msgstr "Enne ploki kirjelduse eemaldamist, eemalda kõik ploki kasutused."
 
 msgid "top-left"
-msgstr "üleval vasakul"
+msgstr "ülal vasakul"
 
 msgid "top-right"
-msgstr "üleval paremal"
+msgstr "ülal paremal"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Tromboon"
@@ -549,7 +551,7 @@ msgid "video motion"
 msgstr ""
 
 msgid "volume"
-msgstr "maht"
+msgstr "helitugevus"
 
 msgid "whirl"
 msgstr "keere"

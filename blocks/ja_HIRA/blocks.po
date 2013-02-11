@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-01-24 10:23+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,9 +96,6 @@ msgstr "けす"
 msgid "clear graphic effects"
 msgstr "がぞうこうかをなくす"
 
-msgid "clone startup"
-msgstr "クローンされたとき"
-
 msgid "color %c is touching %c?"
 msgstr "%c いろが %c いろにふれた"
 
@@ -116,6 +113,9 @@ msgstr "げんざいの %m.timeAndDate"
 
 msgid "Data"
 msgstr "データ"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "ていぎ"
@@ -144,9 +144,6 @@ msgstr "イベント"
 msgid "forever"
 msgstr "ずっと"
 
-msgid "forever if %b"
-msgstr "もし %b なら、ずっと"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "%n びょうでxざひょうを %n に、yざひょうを %n にかえる"
 
@@ -165,17 +162,14 @@ msgstr "xざひょうを %n 、yざひょうを %n にする"
 msgid "hide"
 msgstr "かくす"
 
-msgid "hide all sprites"
-msgstr "すべてのスプライトをかくす"
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "もし %b なら"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "もしはしについたら、はねかえる"
@@ -293,9 +287,6 @@ msgstr "%s という"
 
 msgid "say %s for %n secs"
 msgstr "%s と %n びょういう"
-
-msgid "Scratch days"
-msgstr "スクラッチデー"
 
 msgid "Sensing"
 msgstr "しらべる"
@@ -470,6 +461,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr "わたしが %m.broadcast をうけとったとき"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -481,6 +475,21 @@ msgstr "xざひょう"
 
 msgid "y position"
 msgstr "yざひょう"
+
+#~ msgid "clone startup"
+#~ msgstr "クローンされたとき"
+
+#~ msgid "forever if %b"
+#~ msgstr "もし %b なら、ずっと"
+
+#~ msgid "hide all sprites"
+#~ msgstr "すべてのスプライトをかくす"
+
+#~ msgid "if %b"
+#~ msgstr "もし %b なら"
+
+#~ msgid "Scratch days"
+#~ msgstr "スクラッチデー"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "%m.varOrList のモニターをかくす"

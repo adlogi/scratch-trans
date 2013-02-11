@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scratch Hebrew Version 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-02-06 14:33+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: Scratch Hebrew Translators <moti.ben.ari@gmail.com>\n"
@@ -97,9 +97,6 @@ msgstr "נקה"
 msgid "clear graphic effects"
 msgstr "נקה אפקטים"
 
-msgid "clone startup"
-msgstr "הפעל כפיל"
-
 msgid "color %c is touching %c?"
 msgstr "צבע %c נוגע בצבע %c ?"
 
@@ -117,6 +114,9 @@ msgstr "%m.timeAndDate נוכחי"
 
 msgid "Data"
 msgstr "נתונים"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "הגדר"
@@ -145,9 +145,6 @@ msgstr "אירועים"
 msgid "forever"
 msgstr "לעולמים"
 
-msgid "forever if %b"
-msgstr "לעולמים אם %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "גלוש %n שניות ל :x %n :y %n"
 
@@ -166,17 +163,14 @@ msgstr " קפוץ אל :x %n :y %n"
 msgid "hide"
 msgstr "הסתר"
 
-msgid "hide all sprites"
-msgstr "הדמויות כל את הסתר"
-
 msgid "hide list %m.list"
 msgstr "הסתר רשימה %m.list"
 
 msgid "hide variable %m.var"
 msgstr "הסתר משתנה %m.var"
 
-msgid "if %b"
-msgstr "אם %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "בנגיעה במסגרת הפוך כיוון"
@@ -292,9 +286,6 @@ msgstr "אמור %s"
 
 msgid "say %s for %n secs"
 msgstr "אמור %s למשך %n שניות"
-
-msgid "Scratch days"
-msgstr "ימי Scratch"
 
 msgid "Sensing"
 msgstr "חיישנים"
@@ -461,6 +452,9 @@ msgstr "כאשר מרחק > %n"
 msgid "when I receive %m.broadcast"
 msgstr "כשמתקבל מסר %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "כאשר לוחצים על דמות זו"
 
@@ -472,6 +466,21 @@ msgstr "מיקום על ציר x"
 
 msgid "y position"
 msgstr "מיקום על ציר y"
+
+#~ msgid "clone startup"
+#~ msgstr "הפעל כפיל"
+
+#~ msgid "forever if %b"
+#~ msgstr "לעולמים אם %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "הדמויות כל את הסתר"
+
+#~ msgid "if %b"
+#~ msgstr "אם %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "ימי Scratch"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "כוון מנוע %m.motorDirection"

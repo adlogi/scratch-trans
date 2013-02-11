@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-29 20:21+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "पुसा"
 msgid "clear graphic effects"
 msgstr "ग्राफिकचा प्रभाव मिटवा"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "रंग %c चा स्पर्श रंग %c ला होत आहे का?"
 
@@ -117,6 +114,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -146,9 +146,6 @@ msgstr ""
 msgid "forever"
 msgstr "पुन्हा पुन्हा करत रहा"
 
-msgid "forever if %b"
-msgstr "जोपर्यंत %b "
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "%n  सेकंदाकरीता x:%n y:%n कडे सरकवा"
 
@@ -167,17 +164,14 @@ msgstr "x:%n y:%n ला जा"
 msgid "hide"
 msgstr "लपवा"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "जर %b "
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "जर कडेवर असेल तर उलटवा "
@@ -296,9 +290,6 @@ msgstr "%s म्हणा"
 
 msgid "say %s for %n secs"
 msgstr "%s म्हणा %n सेकंदाकरीता"
-
-msgid "Scratch days"
-msgstr ""
 
 msgid "Sensing"
 msgstr "संवेदना"
@@ -473,6 +464,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -484,6 +478,12 @@ msgstr "x स्थान "
 
 msgid "y position"
 msgstr "y स्थान "
+
+#~ msgid "forever if %b"
+#~ msgstr "जोपर्यंत %b "
+
+#~ msgid "if %b"
+#~ msgstr "जर %b "
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "मोटर दिशा %m.motorDirection"

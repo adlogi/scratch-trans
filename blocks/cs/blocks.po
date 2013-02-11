@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:20+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-01-31 21:33+0200\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,8 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.1.6\n"
 
-# The language name as it will appear in the language menu. "Č" v 1.4 je na konci abecedy!  
+# The language name as it will appear in the language menu
+# The language name as it will appear in the language menu. "Č" v 1.4 je na konci abecedy!
 msgid "Language-Name"
 msgstr "Česky"
 
@@ -97,9 +98,6 @@ msgstr "smaž"
 msgid "clear graphic effects"
 msgstr "zruš grafické efekty"
 
-msgid "clone startup"
-msgstr "start klonu"
-
 msgid "color %c is touching %c?"
 msgstr "barva %c je na barvě %c?"
 
@@ -117,6 +115,9 @@ msgstr "aktuální %m.timeAndDate"
 
 msgid "Data"
 msgstr "Data"
+
+msgid "days since 2000"
+msgstr ""
 
 # deti pry nerozumi definuj
 msgid "define"
@@ -146,9 +147,6 @@ msgstr "Události"
 msgid "forever"
 msgstr "opakuj dokola"
 
-msgid "forever if %b"
-msgstr "opakuj dokola když %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "klouzej %n sekund na x:%n y:%n"
 
@@ -167,17 +165,14 @@ msgstr "jdi na pozici x:%n y:%n"
 msgid "hide"
 msgstr "skryj se"
 
-msgid "hide all sprites"
-msgstr "skryj všechny postavy"
-
 msgid "hide list %m.list"
 msgstr "skryj seznam %m.list"
 
 msgid "hide variable %m.var"
 msgstr "skryj proměnnou %m.var"
 
-msgid "if %b"
-msgstr "když %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "když narazíš na okraj, odraž se"
@@ -296,9 +291,6 @@ msgstr "řekni %s"
 
 msgid "say %s for %n secs"
 msgstr "říkej %s příštích %n sekund"
-
-msgid "Scratch days"
-msgstr "Scratch dny"
 
 msgid "Sensing"
 msgstr "Vnímání"
@@ -473,6 +465,9 @@ msgstr "když vzdálenost < %n"
 msgid "when I receive %m.broadcast"
 msgstr "po obdržení zprávy %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "po kliknutí na mě"
 
@@ -484,6 +479,21 @@ msgstr "pozice x"
 
 msgid "y position"
 msgstr "pozice y"
+
+#~ msgid "clone startup"
+#~ msgstr "start klonu"
+
+#~ msgid "forever if %b"
+#~ msgstr "opakuj dokola když %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "skryj všechny postavy"
+
+#~ msgid "if %b"
+#~ msgstr "když %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch dny"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "skryj kontrolu %m.varOrList"

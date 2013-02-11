@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-01-29 23:49+0200\n"
 "Last-Translator: s_federici <s_federici@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,9 +97,6 @@ msgstr "pulisci"
 msgid "clear graphic effects"
 msgstr "rimuovi effetti grafici"
 
-msgid "clone startup"
-msgstr "quando si crea un clone"
-
 msgid "color %c is touching %c?"
 msgstr "il colore %c sta toccando il colore %c"
 
@@ -117,6 +114,9 @@ msgstr "%m.timeAndDate attuale"
 
 msgid "Data"
 msgstr "Variabili e Liste"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "definisci"
@@ -145,9 +145,6 @@ msgstr "Situazioni"
 msgid "forever"
 msgstr "per sempre"
 
-msgid "forever if %b"
-msgstr "per sempre quando %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "scivola in %n secondi a x:%n y:%n"
 
@@ -166,17 +163,14 @@ msgstr "vai a x:%n y:%n"
 msgid "hide"
 msgstr "nascondi"
 
-msgid "hide all sprites"
-msgstr "nascondi tutti gli sprite"
-
 msgid "hide list %m.list"
 msgstr "nascondi la lista %m.list"
 
 msgid "hide variable %m.var"
 msgstr "nascondi la variabile %m.var"
 
-msgid "if %b"
-msgstr "se %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "rimbalza quando tocchi il bordo"
@@ -293,9 +287,6 @@ msgstr "dire %s"
 
 msgid "say %s for %n secs"
 msgstr "dire %s per %n secondi"
-
-msgid "Scratch days"
-msgstr "giorni dalla nascita di Scratch"
 
 msgid "Sensing"
 msgstr "sensori"
@@ -466,6 +457,9 @@ msgstr "quando la distanza < %n"
 msgid "when I receive %m.broadcast"
 msgstr "quando ricevo %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "quando si clicca questo sprite"
 
@@ -477,6 +471,21 @@ msgstr "posizione x"
 
 msgid "y position"
 msgstr "posizione y"
+
+#~ msgid "clone startup"
+#~ msgstr "quando si crea un clone"
+
+#~ msgid "forever if %b"
+#~ msgstr "per sempre quando %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "nascondi tutti gli sprite"
+
+#~ msgid "if %b"
+#~ msgstr "se %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "giorni dalla nascita di Scratch"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "nascondi il monitor di %m.varOrList"

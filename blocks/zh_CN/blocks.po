@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-31 05:03+0200\n"
 "Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,9 +97,6 @@ msgstr "清除所有画笔"
 msgid "clear graphic effects"
 msgstr "清除所有图形特效"
 
-msgid "clone startup"
-msgstr "克隆设置"
-
 msgid "color %c is touching %c?"
 msgstr "颜色 %c 碰到了 颜色 %c?"
 
@@ -117,6 +114,9 @@ msgstr "当前时间 %m.timeAndDate"
 
 msgid "Data"
 msgstr "数据"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "定义"
@@ -145,9 +145,6 @@ msgstr "事件"
 msgid "forever"
 msgstr "重复执行"
 
-msgid "forever if %b"
-msgstr "如果 %b 就重复执行"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "在 %n 秒内，平滑移动到 x:%n y:%n"
 
@@ -166,17 +163,14 @@ msgstr "移到 x:%n y:%n"
 msgid "hide"
 msgstr "隐藏"
 
-msgid "hide all sprites"
-msgstr "隐藏所有角色"
-
 msgid "hide list %m.list"
 msgstr "隐藏列表 %m.list"
 
 msgid "hide variable %m.var"
 msgstr "隐藏变量 %m.var"
 
-msgid "if %b"
-msgstr "如果 %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "碰到边缘就反弹"
@@ -293,9 +287,6 @@ msgstr "说 %s"
 
 msgid "say %s for %n secs"
 msgstr "说 %s %n 秒"
-
-msgid "Scratch days"
-msgstr "Scratch天数"
 
 msgid "Sensing"
 msgstr "侦测"
@@ -466,6 +457,9 @@ msgstr "当距离 < %n"
 msgid "when I receive %m.broadcast"
 msgstr "当接收到 %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "当点击该角色时"
 
@@ -477,6 +471,21 @@ msgstr "x座标"
 
 msgid "y position"
 msgstr "y座标"
+
+#~ msgid "clone startup"
+#~ msgstr "克隆设置"
+
+#~ msgid "forever if %b"
+#~ msgstr "如果 %b 就重复执行"
+
+#~ msgid "hide all sprites"
+#~ msgstr "隐藏所有角色"
+
+#~ msgid "if %b"
+#~ msgstr "如果 %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch天数"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "隐藏监视器 %m.varOrList"

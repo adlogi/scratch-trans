@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-29 20:21+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "расчисти"
 msgid "clear graphic effects"
 msgstr "расчисти ги графичките ефекти"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "бојата %c допира со %c?"
 
@@ -117,6 +114,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -146,9 +146,6 @@ msgstr ""
 msgid "forever"
 msgstr "постојано"
 
-msgid "forever if %b"
-msgstr "постојано ако %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "лизгај %n секунди до x:%n y:%n"
 
@@ -167,17 +164,14 @@ msgstr "оди до x:%n y:%n"
 msgid "hide"
 msgstr "скриј"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "ако %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "ако на работ, врати се назад"
@@ -296,9 +290,6 @@ msgstr "кажи %s"
 
 msgid "say %s for %n secs"
 msgstr "кажи %s за %n секунди"
-
-msgid "Scratch days"
-msgstr ""
 
 msgid "Sensing"
 msgstr "Распознавање"
@@ -473,6 +464,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -484,6 +478,12 @@ msgstr "х позиција "
 
 msgid "y position"
 msgstr "у позиција"
+
+#~ msgid "forever if %b"
+#~ msgstr "постојано ако %b"
+
+#~ msgid "if %b"
+#~ msgstr "ако %b"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "смер на моторот %m.motorDirection"

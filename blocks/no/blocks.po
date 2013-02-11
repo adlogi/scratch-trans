@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-06 12:05+0200\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,9 +96,6 @@ msgstr "slett"
 msgid "clear graphic effects"
 msgstr "ta bort grafiske effekter"
 
-msgid "clone startup"
-msgstr "start klon"
-
 msgid "color %c is touching %c?"
 msgstr "farge %c berører %c?"
 
@@ -116,6 +113,9 @@ msgstr "nåværende %m.timeAndDate"
 
 msgid "Data"
 msgstr "Data"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "definer"
@@ -144,9 +144,6 @@ msgstr "Hendelser"
 msgid "forever"
 msgstr "for alltid"
 
-msgid "forever if %b"
-msgstr "for alltid hvis %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "gli %n sekunder til x:%n y:%n"
 
@@ -165,17 +162,14 @@ msgstr "gå til x:%n y:%n"
 msgid "hide"
 msgstr "skjul"
 
-msgid "hide all sprites"
-msgstr "skjul alle figurer"
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "hvis %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "sprett tilbake ved kanten"
@@ -293,9 +287,6 @@ msgstr "si %s"
 
 msgid "say %s for %n secs"
 msgstr "si %s i %n sekunder"
-
-msgid "Scratch days"
-msgstr "Scratch-dager"
 
 msgid "Sensing"
 msgstr "sansning"
@@ -470,6 +461,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr "når jeg mottar %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -481,6 +475,21 @@ msgstr "x-posisjon"
 
 msgid "y position"
 msgstr "y-posisjon"
+
+#~ msgid "clone startup"
+#~ msgstr "start klon"
+
+#~ msgid "forever if %b"
+#~ msgstr "for alltid hvis %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "skjul alle figurer"
+
+#~ msgid "if %b"
+#~ msgstr "hvis %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch-dager"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "skjul verdi %m.varOrList"

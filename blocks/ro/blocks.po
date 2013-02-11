@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-29 20:22+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -99,9 +99,6 @@ msgstr "sterge"
 msgid "clear graphic effects"
 msgstr "sterge efectele grafice"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "culoarea %c atinge %c?"
 
@@ -118,6 +115,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -147,9 +147,6 @@ msgstr ""
 msgid "forever"
 msgstr "pentru totdeauna"
 
-msgid "forever if %b"
-msgstr "pentru totdeauna daca %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "aluneca in %n secunde la x:%n y:%n"
 
@@ -168,17 +165,14 @@ msgstr "du-te la x:%n y:%n"
 msgid "hide"
 msgstr "ascunde"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "daca %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "daca se afla pe margine, ricoseaza"
@@ -297,9 +291,6 @@ msgstr "spune %s"
 
 msgid "say %s for %n secs"
 msgstr "spune %s pentru %n sec"
-
-msgid "Scratch days"
-msgstr ""
 
 msgid "Sensing"
 msgstr "detectie"
@@ -474,6 +465,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -485,6 +479,12 @@ msgstr "pozitia x"
 
 msgid "y position"
 msgstr "pozitia y"
+
+#~ msgid "forever if %b"
+#~ msgstr "pentru totdeauna daca %b"
+
+#~ msgid "if %b"
+#~ msgstr "daca %b"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "sensul de rotatie al motorului %m.motorDirection"

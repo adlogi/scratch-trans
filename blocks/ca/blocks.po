@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:20+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-01-29 23:41+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,10 +97,6 @@ msgstr "neteja"
 msgid "clear graphic effects"
 msgstr "treu els efectes gràfics"
 
-# Aquest bloc s'executa al crear una copia d'un personatge, per tant cal deixar clar que és l'inici de les accions nomes realitzar la copia
-msgid "clone startup"
-msgstr "quan es creï la còpia"
-
 msgid "color %c is touching %c?"
 msgstr "color %c sobre %c?"
 
@@ -118,6 +114,9 @@ msgstr "%m.timeAndDate actual"
 
 msgid "Data"
 msgstr "Dades"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "defineix"
@@ -146,9 +145,6 @@ msgstr "Esdeveniments"
 msgid "forever"
 msgstr "per sempre"
 
-msgid "forever if %b"
-msgstr "per sempre si %b"
-
 # tot i que has canviat el que teniem a la 1.4, m'agrada més
 msgid "glide %n secs to x:%n y:%n"
 msgstr "llisca fins a x:%n y:%n en %n segons"
@@ -168,17 +164,14 @@ msgstr "vés a x:%n y:%n"
 msgid "hide"
 msgstr "amaga't"
 
-msgid "hide all sprites"
-msgstr "amaga tots els personatges"
-
 msgid "hide list %m.list"
 msgstr "amaga la llista %m.list"
 
 msgid "hide variable %m.var"
 msgstr "amaga la variable %m.var"
 
-msgid "if %b"
-msgstr "si %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "rebota en tocar una vora"
@@ -298,9 +291,6 @@ msgstr "digues %s"
 
 msgid "say %s for %n secs"
 msgstr "digues %s durant %n segons"
-
-msgid "Scratch days"
-msgstr "Dies fins el dia de l'Scratch"
 
 msgid "Sensing"
 msgstr "Sensors"
@@ -472,6 +462,9 @@ msgstr "quan distància < %n"
 msgid "when I receive %m.broadcast"
 msgstr "quan rebi %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "quan es cliqui aquest personatge"
 
@@ -483,6 +476,22 @@ msgstr "posició x"
 
 msgid "y position"
 msgstr "posició y"
+
+# Aquest bloc s'executa al crear una copia d'un personatge, per tant cal deixar clar que és l'inici de les accions nomes realitzar la copia
+#~ msgid "clone startup"
+#~ msgstr "quan es creï la còpia"
+
+#~ msgid "forever if %b"
+#~ msgstr "per sempre si %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "amaga tots els personatges"
+
+#~ msgid "if %b"
+#~ msgstr "si %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Dies fins el dia de l'Scratch"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "amaga la variable %m.varOrList"

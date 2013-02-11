@@ -1,11 +1,10 @@
 # Prevod blokova za Scrach 2.0
 # Milan Cajić <milan.cajic@open.telekom.rs>, 2013.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-31 03:22+0200\n"
 "Last-Translator: Milan <milan.cajic@open.telekom.rs>\n"
 "Language-Team: српски <>\n"
@@ -103,9 +102,6 @@ msgstr "обриши"
 msgid "clear graphic effects"
 msgstr "уклони графичке ефекте"
 
-msgid "clone startup"
-msgstr "почетак рада умношка"
-
 msgid "color %c is touching %c?"
 msgstr "боја %c додирује %c?"
 
@@ -123,6 +119,9 @@ msgstr "тренутно је %m.timeAndDate"
 
 msgid "Data"
 msgstr "Подаци"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "дефиниши"
@@ -151,9 +150,6 @@ msgstr "Догађаји"
 msgid "forever"
 msgstr "понављај"
 
-msgid "forever if %b"
-msgstr "понављај ако %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "клизи %n секунду до x:%n y:%n"
 
@@ -172,17 +168,14 @@ msgstr "иди на x:%n y:%n"
 msgid "hide"
 msgstr "сакриј"
 
-msgid "hide all sprites"
-msgstr "сакриј све спрајтове"
-
 msgid "hide list %m.list"
 msgstr "сакриј листу %m.list "
 
 msgid "hide variable %m.var"
 msgstr "сакриј променљиву %m.var"
 
-msgid "if %b"
-msgstr "ако %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "ако си на рубу, окрени се"
@@ -298,9 +291,6 @@ msgstr "изговори %s"
 
 msgid "say %s for %n secs"
 msgstr "изговори %s током %n секунде"
-
-msgid "Scratch days"
-msgstr "Scratch дани"
 
 msgid "Sensing"
 msgstr "Осећаји"
@@ -467,6 +457,9 @@ msgstr "када је растојање < %n"
 msgid "when I receive %m.broadcast"
 msgstr "када примим %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr "када је кликнуто на овај лик"
 
@@ -478,6 +471,21 @@ msgstr "место x"
 
 msgid "y position"
 msgstr "место y"
+
+#~ msgid "clone startup"
+#~ msgstr "почетак рада умношка"
+
+#~ msgid "forever if %b"
+#~ msgstr "понављај ако %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "сакриј све спрајтове"
+
+#~ msgid "if %b"
+#~ msgstr "ако %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch дани"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "сакриј приказ за %m.varOrList"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-01-29 20:21+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "töröld a rajzokat"
 msgid "clear graphic effects"
 msgstr "töröld a hatásokat"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "%c érint %c színt?"
 
@@ -117,6 +114,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -146,9 +146,6 @@ msgstr ""
 msgid "forever"
 msgstr "mindig"
 
-msgid "forever if %b"
-msgstr "mindig ha %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "csússz %n mp-ig x:%n y:%n"
 
@@ -167,17 +164,14 @@ msgstr "ugorj x:%n y:%n"
 msgid "hide"
 msgstr "tűnj el"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "ha %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "ha szélen vagy, pattanj vissza"
@@ -296,9 +290,6 @@ msgstr "mondd: %s"
 
 msgid "say %s for %n secs"
 msgstr "mondd: %s%n mp-ig"
-
-msgid "Scratch days"
-msgstr ""
 
 msgid "Sensing"
 msgstr "Érzékelés"
@@ -473,6 +464,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -484,6 +478,12 @@ msgstr "x hely"
 
 msgid "y position"
 msgstr "y hely"
+
+#~ msgid "forever if %b"
+#~ msgstr "mindig ha %b"
+
+#~ msgid "if %b"
+#~ msgstr "ha %b"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "motort irányba %m.motorDirection"

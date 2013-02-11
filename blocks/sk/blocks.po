@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
 "PO-Revision-Date: 2013-01-29 20:22+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,9 +98,6 @@ msgstr "zmaž plochu"
 msgid "clear graphic effects"
 msgstr "zruš grafické efekty"
 
-msgid "clone startup"
-msgstr ""
-
 msgid "color %c is touching %c?"
 msgstr "farba %c je na farbe %c?"
 
@@ -117,6 +114,9 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
 msgstr ""
 
 msgid "define"
@@ -146,9 +146,6 @@ msgstr ""
 msgid "forever"
 msgstr "stále opakuj"
 
-msgid "forever if %b"
-msgstr "stále opakuj, ak %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "%n sekúnd sa presúvaj na pozíciu x: %n  y: %n"
 
@@ -167,17 +164,14 @@ msgstr "choď na pozíciu x: %n  y: %n"
 msgid "hide"
 msgstr "skry sa"
 
-msgid "hide all sprites"
-msgstr ""
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "ak %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "ak narazíš na okraj, odraz sa"
@@ -296,9 +290,6 @@ msgstr "povedz %s"
 
 msgid "say %s for %n secs"
 msgstr "hovor %s ďalších %n sekúnd"
-
-msgid "Scratch days"
-msgstr ""
 
 msgid "Sensing"
 msgstr "vnímanie"
@@ -473,6 +464,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr ""
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -484,6 +478,12 @@ msgstr "pozícia x"
 
 msgid "y position"
 msgstr "pozícia y"
+
+#~ msgid "forever if %b"
+#~ msgstr "stále opakuj, ak %b"
+
+#~ msgid "if %b"
+#~ msgstr "ak %b"
 
 #~ msgid "motor direction %m.motorDirection"
 #~ msgstr "smer motora %m.motorDirection"

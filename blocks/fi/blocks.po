@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"POT-Creation-Date: 2013-02-11 10:34+0200\n"
 "PO-Revision-Date: 2013-01-05 19:47+0200\n"
 "Last-Translator: ukkeli <avuorilehto@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,9 +97,6 @@ msgstr "pyyhi"
 msgid "clear graphic effects"
 msgstr "poista graafiset tehosteet"
 
-msgid "clone startup"
-msgstr "kloonaa aloitus"
-
 msgid "color %c is touching %c?"
 msgstr "koskeeko väri %c väriä %c ?"
 
@@ -117,6 +114,9 @@ msgstr "pvm %m.timeAndDate"
 
 msgid "Data"
 msgstr "Tieto"
+
+msgid "days since 2000"
+msgstr ""
 
 msgid "define"
 msgstr "määrittele"
@@ -145,9 +145,6 @@ msgstr "Tapahtumat"
 msgid "forever"
 msgstr "ikuisesti"
 
-msgid "forever if %b"
-msgstr "ikuisesti jos %b"
-
 msgid "glide %n secs to x:%n y:%n"
 msgstr "liu'u %n sekuntia kohtaan x:%n y:%n"
 
@@ -166,17 +163,14 @@ msgstr "mene kohtaan x:%n y:%n"
 msgid "hide"
 msgstr "piilota"
 
-msgid "hide all sprites"
-msgstr "piilota kaikki hahmot"
-
 msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
 msgstr ""
 
-msgid "if %b"
-msgstr "jos %b"
+msgid "if %b then"
+msgstr ""
 
 msgid "if on edge, bounce"
 msgstr "pomppaa reunasta"
@@ -294,9 +288,6 @@ msgstr "sano %s"
 
 msgid "say %s for %n secs"
 msgstr "sano %s %n sekunnin ajan"
-
-msgid "Scratch days"
-msgstr "Scratch päiviä"
 
 msgid "Sensing"
 msgstr "tuntoaisti"
@@ -473,6 +464,9 @@ msgstr ""
 msgid "when I receive %m.broadcast"
 msgstr "kun vastaanotan %m.broadcast"
 
+msgid "when I start as a clone"
+msgstr ""
+
 msgid "when this sprite clicked"
 msgstr ""
 
@@ -484,6 +478,21 @@ msgstr "x-sijainti"
 
 msgid "y position"
 msgstr "y-sijainti"
+
+#~ msgid "clone startup"
+#~ msgstr "kloonaa aloitus"
+
+#~ msgid "forever if %b"
+#~ msgstr "ikuisesti jos %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "piilota kaikki hahmot"
+
+#~ msgid "if %b"
+#~ msgstr "jos %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch päiviä"
 
 #~ msgid "hide monitor %m.varOrList"
 #~ msgstr "piilota näyttö %m.varOrList"
