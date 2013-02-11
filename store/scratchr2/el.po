@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:20+0200\n"
-"PO-Revision-Date: 2013-02-03 16:32+0200\n"
+"PO-Revision-Date: 2013-02-04 20:16+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -101,7 +101,7 @@ msgid "clone startup"
 msgstr "έναρξη δημιουργίας κλώνου"
 
 msgid "color %c is touching %c?"
-msgstr "το χρώμα %c αγγίζει το %c ;"
+msgstr "το χρώμα %c αγγίζει το %c"
 
 msgid "Control"
 msgstr "Έλεγχος"
@@ -161,7 +161,7 @@ msgid "go to front"
 msgstr "πήγαινε σε πρώτο πλάνο"
 
 msgid "go to x:%n y:%n"
-msgstr "πήγαινε στο x:%n y:%n"
+msgstr "πήγαινε στη θέση x:%n y:%n"
 
 msgid "hide"
 msgstr "κρύψου"
@@ -194,10 +194,10 @@ msgid "key %m.key pressed?"
 msgstr "πατήθηκε πλήκτρο %m.key"
 
 msgid "length of %m.list"
-msgstr "μήκος του %m.list"
+msgstr "το μήκος του %m.list"
 
 msgid "length of %s"
-msgstr "μήκος του %s"
+msgstr "το μήκος του %s"
 
 msgid "letter %n of %s"
 msgstr "γράμμα %n του %s"
@@ -243,10 +243,10 @@ msgid "Pen"
 msgstr "Πένα"
 
 msgid "pen down"
-msgstr "κατέβασε πένα"
+msgstr "κατέβασε την πένα"
 
 msgid "pen up"
-msgstr "σήκωσε πένα"
+msgstr "σήκωσε την πένα"
 
 msgid "pick random %n to %n"
 msgstr "επίλεξε τυχαίο αριθμό από το %n μέχρι το %n"
@@ -256,16 +256,16 @@ msgstr "παίξε τύμπανο %d.drum για %n χρόνους"
 
 # 83%
 msgid "play note %d.note for %n beats"
-msgstr "παίξε νότα %d.note για %n χρόνους"
+msgstr "παίξε τη νότα %d.note για %n χρόνους"
 
 msgid "play sound %m.sound"
-msgstr "παίξε ήχο %m.sound"
+msgstr "παίξε τον ήχο %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr "παίξε ήχο %m.sound μέχρι τέλους"
+msgstr "παίξε τον ήχο %m.sound μέχρι τέλους"
 
 msgid "point in direction %d.direction"
-msgstr "δείξε στην κατεύθυνση %d.direction"
+msgstr "δείξε προς την κατεύθυνση %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
 msgstr "δείξε στο %m.spriteOrMouse"
@@ -277,10 +277,10 @@ msgid "repeat until %b"
 msgstr "επανάλαβε ώσπου %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "αντικατέστησε στοιχείο %d.listItem του %m.list με %s"
+msgstr "αντικατάστησε στοιχείο %d.listItem του %m.list με %s"
 
 msgid "reset timer"
-msgstr "μηδένισε το χρονόμετρο"
+msgstr "μηδένισε τη χρονομέτρηση"
 
 msgid "rest for %n beats"
 msgstr "περίμενε για %n χρόνους"
@@ -314,11 +314,11 @@ msgstr "όρισε το όργανο σε %d.instrument"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
-msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα %m.motorDirection"
+msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
 
 # 77%
 msgid "set motor power %n"
-msgstr "όρισε την ισχύ κινητήρα %n"
+msgstr "όρισε την ισχύ κινητήρα σε %n"
 
 msgid "set pen color to %c"
 msgstr "όρισε το χρώμα πένας σε %c"
@@ -333,7 +333,7 @@ msgid "set pen size to %n"
 msgstr "όρισε το μέγεθος πένας σε %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "όρισε το στυλ περιστροφής σε %m.rotationStyle"
+msgstr "όρισε τον άξονα περιστροφής σε %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "όρισε το μέγεθος σε %n%"
@@ -357,10 +357,10 @@ msgid "show"
 msgstr "εμφανίσου"
 
 msgid "show list %m.list"
-msgstr "εμφάνισε λίστα %m.list"
+msgstr "εμφάνισε την λίστα %m.list"
 
 msgid "show variable %m.var"
-msgstr "εμφάνισε μεταβλητή %m.var"
+msgstr "εμφάνισε τη μεταβλητή %m.var"
 
 msgid "size"
 msgstr "μέγεθος"
@@ -386,7 +386,7 @@ msgid "switch backdrop to %m.backdrop and wait"
 msgstr "άλλαξε το υπόβαθρο σε %m.backdrop και περίμενε"
 
 msgid "switch costume to %m.costume"
-msgstr "άλλαξε ενδυμασία σε %m.costume"
+msgstr "άλλαξε την ενδυμασία σε %m.costume"
 
 msgid "tempo"
 msgstr "ρυθμός"
@@ -404,10 +404,10 @@ msgid "timer"
 msgstr "χρονόμετρο"
 
 msgid "touching %m.touching?"
-msgstr "αγγίζει το %m.touching ;"
+msgstr "αγγίζει το %m.touching"
 
 msgid "touching color %c?"
-msgstr "αγγίζει το χρώμα %c ;"
+msgstr "αγγίζει το χρώμα %c"
 
 msgid "turn @turnLeft %n degrees"
 msgstr "στρίψε @turnLeft %n μοίρες"
@@ -423,16 +423,16 @@ msgstr "άναψε τον κινητήρα"
 
 # 80%
 msgid "turn motor on for %n secs"
-msgstr "κινητήρας ενεργός για %n δευτερόλεπτα"
+msgstr "άναψε τον κινητήρα για %n δευτερόλεπτα"
 
 msgid "turn video %m.videoState"
-msgstr "όρισε το βίντεο %m.videoState"
+msgstr "όρισε το βίντεο σε %m.videoState"
 
 msgid "user id"
 msgstr "ταυτότητα χρήστη"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "η %m.videoMotionType του βίντεο σε %m.stageOrThis"
+msgstr "η %m.videoMotionType στο βίντεο σε %m.stageOrThis"
 
 msgid "volume"
 msgstr "ένταση"
@@ -504,7 +504,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2013-02-03 17:32+0200\n"
+"PO-Revision-Date: 2013-02-05 00:41+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -542,7 +542,7 @@ msgid "add comment"
 msgstr "Προσθήκη σχόλιου"
 
 msgid "Add label text:"
-msgstr "Προσθήκη κειμένου:"
+msgstr "Προσθήκη κειμένου σε ετικέτα:"
 
 msgid "all"
 msgstr "όλα"
@@ -563,7 +563,7 @@ msgid "backdrop #"
 msgstr "υπόβαθρο #"
 
 msgid "backdrop name"
-msgstr "όνομα υπόβαθρου"
+msgstr "όνομα υποβάθρου"
 
 msgid "backdrop1"
 msgstr "υπόβαθρο1"
@@ -575,7 +575,7 @@ msgid "Bass"
 msgstr "Μπάσσο"
 
 msgid "Bass Drum"
-msgstr "Κρουστό Μπάσσο"
+msgstr "Μπάσσο Τύμπανο"
 
 msgid "Bassoon"
 msgstr "Φαγκότο"
@@ -671,7 +671,7 @@ msgid "day of week"
 msgstr "μέρα της εβδομάδας"
 
 msgid "delete"
-msgstr "διαγραφή"
+msgstr "Διαγραφή"
 
 msgid "direction"
 msgstr "κατεύθυνση"
@@ -686,10 +686,10 @@ msgid "down arrow"
 msgstr "κάτω βέλος"
 
 msgid "Duplicate"
-msgstr "Διπλασίασε"
+msgstr "Διπλασιασμός "
 
 msgid "duplicate"
-msgstr "διπλασίασε"
+msgstr "Διπλασιασμός"
 
 msgid "e ^"
 msgstr "e ^"
@@ -698,7 +698,7 @@ msgid "edge"
 msgstr "όρια"
 
 msgid "edit"
-msgstr "επεξεργασία"
+msgstr "Επεξεργασία"
 
 msgid "Edit"
 msgstr "Επεξεργασία"
@@ -722,7 +722,7 @@ msgid "File"
 msgstr "Αρχείο"
 
 msgid "fisheye"
-msgstr "μάτι ψαριού"
+msgstr "κυρτότητα"
 
 msgid "floor"
 msgstr "floor"
