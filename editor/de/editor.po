@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:51+0200\n"
+"POT-Creation-Date: 2013-02-11 10:47+0200\n"
 "PO-Revision-Date: 2013-01-31 22:59+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,10 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
-
-#, fuzzy
-msgid "#"
-msgstr "Nummer"
 
 msgid "10 ^"
 msgstr "10^"
@@ -62,6 +58,14 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B angeschlossen"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr ""
+
+# 88%
+#, fuzzy
+msgid "backdrop"
+msgstr "Bühnenbild1"
+
 msgid "backdrop #"
 msgstr "Bühnenbildnummer"
 
@@ -69,6 +73,11 @@ msgid "backdrop name"
 msgstr "Bühnenbildname"
 
 msgid "backdrop1"
+msgstr "Bühnenbild1"
+
+# 88%
+#, fuzzy
+msgid "backdrops"
 msgstr "Bühnenbild1"
 
 # Reiterbeschriftung der Ablage, um Objekte in verschiedenen Projekten nutzen zu können
@@ -87,18 +96,15 @@ msgstr "Fagott"
 msgid "Bongo"
 msgstr "Bongo"
 
-msgid "bottom-left"
-msgstr "links unten"
-
-msgid "bottom-right"
-msgstr "rechts unten"
-
 msgid "brightness"
 msgstr "Helligkeit"
 
 # sensor board
 msgid "button pressed"
 msgstr "Schalter gedrückt"
+
+msgid "by"
+msgstr ""
 
 # sensor board
 msgid "C connected"
@@ -201,16 +207,19 @@ msgstr "Duplizieren"
 msgid "duplicate"
 msgstr "Duplizieren"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr ""
+
 msgid "e ^"
 msgstr "e^"
 
 msgid "edge"
 msgstr "Rand"
 
-msgid "edit"
+msgid "Edit"
 msgstr "Bearbeiten"
 
-msgid "Edit"
+msgid "edit"
 msgstr "Bearbeiten"
 
 msgid "Effects"
@@ -221,6 +230,12 @@ msgstr "E-Gitarre"
 
 msgid "Electric Piano"
 msgstr "E-Piano"
+
+msgid "Ellipse (Shift: Circle)"
+msgstr ""
+
+msgid "Erase"
+msgstr ""
 
 # sounds->effects
 msgid "fade in"
@@ -234,6 +249,11 @@ msgstr "ausblenden"
 msgid "File"
 msgstr "Datei"
 
+# 75%
+#, fuzzy
+msgid "Fill"
+msgstr "Datei"
+
 msgid "fisheye"
 msgstr "Fischauge"
 
@@ -243,8 +263,14 @@ msgstr "abrunden"
 msgid "Flute"
 msgstr "Querflöte"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr ""
+
 msgid "ghost"
 msgstr "Durchsichtigkeit"
+
+msgid "Group"
+msgstr ""
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -281,6 +307,9 @@ msgstr "Bibliothek"
 msgid "light"
 msgstr "Helligkeit"
 
+msgid "Line"
+msgstr ""
+
 msgid "ln"
 msgstr "ln"
 
@@ -302,9 +331,6 @@ msgstr "Marimba"
 
 msgid "message1"
 msgstr "Nachricht1"
-
-msgid "middle"
-msgstr "mittel"
 
 msgid "minute"
 msgstr "Minute"
@@ -328,12 +354,6 @@ msgstr "Musikbox"
 msgid "myself"
 msgstr "ich selbst"
 
-msgid "name"
-msgstr "Name"
-
-msgid "New"
-msgstr "Neu"
-
 msgid "New backdrop"
 msgstr "Neues Bühnenbild"
 
@@ -346,8 +366,13 @@ msgstr "neue Nachricht..."
 msgid "New sound"
 msgstr "Neuer Klang"
 
-msgid "New sprite:"
+# 90%
+#, fuzzy
+msgid "New sprite"
 msgstr "Neue Figur:"
+
+msgid "No motion blocks"
+msgstr ""
 
 # gehört zu 'turn video on/off/on-flipped'
 msgid "off"
@@ -381,11 +406,17 @@ msgstr "Malen"
 msgid "paste"
 msgstr "Einfügen"
 
+msgid "Pencil"
+msgstr ""
+
 msgid "photo1"
 msgstr "Photo1"
 
 msgid "Piano"
 msgstr "Klavier"
+
+msgid "Pick up Color"
+msgstr ""
 
 msgid "pixelate"
 msgstr "Pixel"
@@ -406,12 +437,18 @@ msgstr "Aufnehmen"
 msgid "recording1"
 msgstr "Aufnahme1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr ""
+
 msgid "redo"
 msgstr "Wiederherstellen"
 
 #, fuzzy
 msgid "Remix"
 msgstr "Remix"
+
+msgid "Reshape"
+msgstr ""
 
 msgid "resistance-A"
 msgstr "Widerstand-A"
@@ -437,11 +474,11 @@ msgstr "Pfeil nach rechts"
 msgid "Saxophone"
 msgstr "Saxophon"
 
-msgid "say"
-msgstr "sage"
-
 msgid "Scratch Cat"
 msgstr "Scratch-Katze"
+
+msgid "Scripts"
+msgstr ""
 
 msgid "second"
 msgstr "Sekunde"
@@ -449,15 +486,20 @@ msgstr "Sekunde"
 msgid "See project page"
 msgstr "Zeige Projektseite"
 
+msgid "Select"
+msgstr ""
+
 msgid "select all"
 msgstr "Alles auswählen"
+
+msgid "Set Costume Center"
+msgstr ""
 
 msgid "Share"
 msgstr "Veröffentlichen"
 
-#, fuzzy
-msgid "shout"
-msgstr "schreien"
+msgid "shared"
+msgstr ""
 
 msgid "show receivers"
 msgstr "Kennzeichne alle Empfänger"
@@ -495,6 +537,11 @@ msgstr "Klang"
 msgid "space"
 msgstr "Leertaste"
 
+# 85%
+#, fuzzy
+msgid "Sprite"
+msgstr "Figuren"
+
 msgid "Sprites"
 msgstr "Figuren"
 
@@ -503,6 +550,9 @@ msgstr "Wurzel"
 
 msgid "Stage"
 msgstr "Bühne"
+
+msgid "Stage selected"
+msgstr ""
 
 msgid "Steel Drum"
 msgstr "Steel Drum"
@@ -519,12 +569,12 @@ msgstr "Tamburin"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr ""
+
 # Motordrehsinn
 msgid "that way"
 msgstr "andersherum"
-
-msgid "think"
-msgstr "denke"
 
 msgid "this script"
 msgstr "dieses Skript"
@@ -547,20 +597,23 @@ msgstr ""
 "Ehe die Blockdefinition gelöscht werden kann, muss der Block erst aus allen "
 "Skripten entfernt werden, in denen er verwendet wird."
 
-msgid "top-left"
-msgstr "links oben"
-
-msgid "top-right"
-msgstr "rechts oben"
-
 msgid "Triangle"
 msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Posaune"
 
+msgid "Turbo Mode"
+msgstr ""
+
 msgid "undo"
 msgstr "Rückgängig"
+
+msgid "Ungroup"
+msgstr ""
+
+msgid "unshared"
+msgstr ""
 
 msgid "up"
 msgstr "oben"
@@ -583,10 +636,6 @@ msgstr "Lautstärke"
 msgid "whirl"
 msgstr "Wirbel"
 
-#, fuzzy
-msgid "whisper"
-msgstr "flüstern"
-
 msgid "Wood Block"
 msgstr "Holzblock"
 
@@ -601,6 +650,48 @@ msgstr "y-Position"
 
 msgid "year"
 msgstr "Jahr"
+
+#, fuzzy
+#~ msgid "#"
+#~ msgstr "Nummer"
+
+#~ msgid "bottom-left"
+#~ msgstr "links unten"
+
+#~ msgid "bottom-right"
+#~ msgstr "rechts unten"
+
+#~ msgid "middle"
+#~ msgstr "mittel"
+
+#~ msgid "name"
+#~ msgstr "Name"
+
+#~ msgid "New"
+#~ msgstr "Neu"
+
+#~ msgid "New sprite:"
+#~ msgstr "Neue Figur:"
+
+#~ msgid "say"
+#~ msgstr "sage"
+
+#, fuzzy
+#~ msgid "shout"
+#~ msgstr "schreien"
+
+#~ msgid "think"
+#~ msgstr "denke"
+
+#~ msgid "top-left"
+#~ msgstr "links oben"
+
+#~ msgid "top-right"
+#~ msgstr "rechts oben"
+
+#, fuzzy
+#~ msgid "whisper"
+#~ msgstr "flüstern"
 
 #~ msgid "any"
 #~ msgstr "beliebiges"
