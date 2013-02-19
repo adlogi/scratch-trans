@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:53+0200\n"
-"PO-Revision-Date: 2013-01-31 05:29+0200\n"
+"POT-Creation-Date: 2013-02-11 10:50+0200\n"
+"PO-Revision-Date: 2013-02-19 08:15+0200\n"
 "Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -12,9 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr "#"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -46,7 +43,6 @@ msgstr "添加文本标签："
 msgid "all"
 msgstr "全部"
 
-#, fuzzy
 msgid "all around"
 msgstr "周围"
 
@@ -59,6 +55,13 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B已连接"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "退后一层 (Shift键：置为底层)"
+
+# 88%
+msgid "backdrop"
+msgstr "背景1"
+
 msgid "backdrop #"
 msgstr "背景编号"
 
@@ -67,6 +70,10 @@ msgstr "背景名称"
 
 msgid "backdrop1"
 msgstr "背景1"
+
+# 88%
+msgid "backdrops"
+msgstr "背景"
 
 msgid "Backpack"
 msgstr "书包"
@@ -83,17 +90,14 @@ msgstr "低音管"
 msgid "Bongo"
 msgstr "小手鼓"
 
-msgid "bottom-left"
-msgstr "左下方"
-
-msgid "bottom-right"
-msgstr "右下方"
-
 msgid "brightness"
 msgstr "亮度"
 
 msgid "button pressed"
 msgstr "按下按钮"
+
+msgid "by"
+msgstr "通过"
 
 msgid "C connected"
 msgstr "C已连接"
@@ -111,7 +115,7 @@ msgid "ceiling"
 msgstr "上限"
 
 msgid "Cello"
-msgstr "大提琴 "
+msgstr "大提琴"
 
 msgid "Choir"
 msgstr "人声合唱"
@@ -181,7 +185,7 @@ msgid "don't rotate"
 msgstr "不旋转"
 
 msgid "down"
-msgstr "下"
+msgstr "下移"
 
 msgid "down arrow"
 msgstr "下移键"
@@ -192,16 +196,19 @@ msgstr "复制"
 msgid "duplicate"
 msgstr "复制"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "复制 (Shift键：多重复制)"
+
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
 msgstr "边缘"
 
-msgid "edit"
+msgid "Edit"
 msgstr "编辑"
 
-msgid "Edit"
+msgid "edit"
 msgstr "编辑"
 
 msgid "Effects"
@@ -213,6 +220,12 @@ msgstr "电吉他"
 msgid "Electric Piano"
 msgstr "电子琴"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr "椭圆形 (Shift键:圆形)"
+
+msgid "Erase"
+msgstr "擦除"
+
 msgid "fade in"
 msgstr "淡入"
 
@@ -221,6 +234,10 @@ msgstr "淡出"
 
 msgid "File"
 msgstr "文件"
+
+# 75%
+msgid "Fill"
+msgstr "填充"
 
 msgid "fisheye"
 msgstr "超广角镜头"
@@ -231,8 +248,14 @@ msgstr "地板"
 msgid "Flute"
 msgstr "长笛"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "向前一层 (Shift键：置于顶层)"
+
 msgid "ghost"
 msgstr "虚像"
+
+msgid "Group"
+msgstr "分组"
 
 msgid "Guiro"
 msgstr "锯琴"
@@ -253,7 +276,7 @@ msgid "last"
 msgstr "末尾"
 
 msgid "left"
-msgstr "左"
+msgstr "向左"
 
 msgid "left arrow"
 msgstr "左移键"
@@ -267,6 +290,9 @@ msgstr "库"
 msgid "light"
 msgstr "光线"
 
+msgid "Line"
+msgstr "线条"
+
 msgid "ln"
 msgstr "ln"
 
@@ -279,7 +305,6 @@ msgstr "登入"
 msgid "louder"
 msgstr "响一点"
 
-#, fuzzy
 msgid "loudness"
 msgstr "音量"
 
@@ -289,14 +314,11 @@ msgstr "立奏木琴"
 msgid "message1"
 msgstr "消息1"
 
-msgid "middle"
-msgstr "中间"
-
 msgid "minute"
 msgstr "分钟"
 
 msgid "month"
-msgstr "月"
+msgstr "月份"
 
 msgid "mosaic"
 msgstr "马赛克"
@@ -313,12 +335,6 @@ msgstr "音乐盒"
 msgid "myself"
 msgstr "我自己"
 
-msgid "name"
-msgstr "名字"
-
-msgid "New"
-msgstr "新增"
-
 msgid "New backdrop"
 msgstr "新增背景"
 
@@ -331,14 +347,18 @@ msgstr "新消息..."
 msgid "New sound"
 msgstr "新增声音"
 
-msgid "New sprite:"
+# 90%
+msgid "New sprite"
 msgstr "新增角色"
 
+msgid "No motion blocks"
+msgstr "无动作模块"
+
 msgid "off"
-msgstr "关"
+msgstr "关闭"
 
 msgid "on"
-msgstr "开"
+msgstr "开启"
 
 msgid "on-flipped"
 msgstr "弹起"
@@ -362,11 +382,17 @@ msgstr "绘图"
 msgid "paste"
 msgstr "粘贴"
 
+msgid "Pencil"
+msgstr "铅笔"
+
 msgid "photo1"
 msgstr "照片1"
 
 msgid "Piano"
 msgstr "钢琴"
+
+msgid "Pick up Color"
+msgstr "取色"
 
 msgid "pixelate"
 msgstr "像素滤镜"
@@ -386,11 +412,17 @@ msgstr "录音"
 msgid "recording1"
 msgstr "录音1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr "长方形 (Shift键：正方形)"
+
 msgid "redo"
 msgstr "重做"
 
 msgid "Remix"
 msgstr "混音"
+
+msgid "Reshape"
+msgstr "再成形"
 
 msgid "resistance-A"
 msgstr "阻力-A"
@@ -408,7 +440,7 @@ msgid "reverse"
 msgstr "反转"
 
 msgid "right"
-msgstr "右"
+msgstr "向右"
 
 msgid "right arrow"
 msgstr "右移键"
@@ -416,12 +448,11 @@ msgstr "右移键"
 msgid "Saxophone"
 msgstr "萨克斯管"
 
-msgid "say"
-msgstr "说"
-
-#, fuzzy
 msgid "Scratch Cat"
 msgstr "Scratch猫"
+
+msgid "Scripts"
+msgstr "脚本"
 
 msgid "second"
 msgstr "秒"
@@ -429,14 +460,20 @@ msgstr "秒"
 msgid "See project page"
 msgstr "见作品页"
 
+msgid "Select"
+msgstr "选择"
+
 msgid "select all"
 msgstr "全选"
+
+msgid "Set Costume Center"
+msgstr "设置造型中心"
 
 msgid "Share"
 msgstr "分享"
 
-msgid "shout"
-msgstr "叫喊"
+msgid "shared"
+msgstr "共享"
 
 msgid "show receivers"
 msgstr "显示接收器"
@@ -471,6 +508,10 @@ msgstr "声音"
 msgid "space"
 msgstr "空格键"
 
+# 85%
+msgid "Sprite"
+msgstr "角色"
+
 msgid "Sprites"
 msgstr "角色集"
 
@@ -479,6 +520,9 @@ msgstr "平方根"
 
 msgid "Stage"
 msgstr "舞台"
+
+msgid "Stage selected"
+msgstr "选择的舞台"
 
 msgid "Steel Drum"
 msgstr "钢鼓"
@@ -495,11 +539,11 @@ msgstr "铃鼓"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr "文本"
+
 msgid "that way"
 msgstr "逆时针"
-
-msgid "think"
-msgstr "思考"
 
 msgid "this script"
 msgstr "该脚本"
@@ -519,23 +563,26 @@ msgstr "贴士"
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "要删除一个模块定义，首先要删除所有使用的模块。"
 
-msgid "top-left"
-msgstr "左上方"
-
-msgid "top-right"
-msgstr "右上方"
-
 msgid "Triangle"
 msgstr "三角铁"
 
 msgid "Trombone"
 msgstr "长号"
 
+msgid "Turbo Mode"
+msgstr "涡轮加速模式"
+
 msgid "undo"
 msgstr "撤销"
 
+msgid "Ungroup"
+msgstr "取消分组"
+
+msgid "unshared"
+msgstr "独享的"
+
 msgid "up"
-msgstr "上"
+msgstr "向上"
 
 msgid "up arrow"
 msgstr "上移键"
@@ -547,16 +594,13 @@ msgid "Vibraslap"
 msgstr "颤击"
 
 msgid "video motion"
-msgstr ""
+msgstr "视频运动"
 
 msgid "volume"
 msgstr "音量"
 
 msgid "whirl"
 msgstr "旋转"
-
-msgid "whisper"
-msgstr "低语"
 
 msgid "Wood Block"
 msgstr "木块"
@@ -571,7 +615,46 @@ msgid "y position"
 msgstr "y坐标"
 
 msgid "year"
-msgstr "年"
+msgstr "年份"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "左下方"
+
+#~ msgid "bottom-right"
+#~ msgstr "右下方"
+
+#~ msgid "middle"
+#~ msgstr "中间"
+
+#~ msgid "name"
+#~ msgstr "名字"
+
+#~ msgid "New"
+#~ msgstr "新增"
+
+#~ msgid "New sprite:"
+#~ msgstr "新增角色"
+
+#~ msgid "say"
+#~ msgstr "说"
+
+#~ msgid "shout"
+#~ msgstr "叫喊"
+
+#~ msgid "think"
+#~ msgstr "思考"
+
+#~ msgid "top-left"
+#~ msgstr "左上方"
+
+#~ msgid "top-right"
+#~ msgstr "右上方"
+
+#~ msgid "whisper"
+#~ msgstr "低语"
 
 #~ msgid "any"
 #~ msgstr "任意"
