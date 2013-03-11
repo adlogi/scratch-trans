@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:35+0200\n"
-"PO-Revision-Date: 2013-01-06 12:05+0200\n"
+"PO-Revision-Date: 2013-03-11 23:25+0200\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: no\n"
@@ -100,7 +100,7 @@ msgid "color %c is touching %c?"
 msgstr "farge %c berører %c?"
 
 msgid "Control"
-msgstr "styring"
+msgstr "Styring"
 
 msgid "costume #"
 msgstr "drakt #"
@@ -115,7 +115,7 @@ msgid "Data"
 msgstr "Data"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "dager siden 2000"
 
 msgid "define"
 msgstr "definer"
@@ -163,13 +163,13 @@ msgid "hide"
 msgstr "skjul"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "skjul liste %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "skjul variabel %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "hvis %b"
 
 msgid "if on edge, bounce"
 msgstr "sprett tilbake ved kanten"
@@ -196,7 +196,7 @@ msgid "letter %n of %s"
 msgstr "bokstav %n i %s"
 
 msgid "Looks"
-msgstr "utseende"
+msgstr "Utseende"
 
 msgid "loudness"
 msgstr "volum"
@@ -205,7 +205,7 @@ msgid "More Blocks"
 msgstr "Flere klosser"
 
 msgid "Motion"
-msgstr "bevegelse"
+msgstr "Bevegelse"
 
 msgid "mouse down?"
 msgstr "museknappen er nede?"
@@ -230,10 +230,10 @@ msgid "not %b"
 msgstr "ikke %b"
 
 msgid "Operators"
-msgstr "operatorer"
+msgstr "Operatorer"
 
 msgid "Pen"
-msgstr "penn"
+msgstr "Penn"
 
 msgid "pen down"
 msgstr "senk pennen"
@@ -248,7 +248,6 @@ msgid "play drum %d.drum for %n beats"
 msgstr "trommeslag %d.drum som varer %n takter"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "spill tone %d.note i %n takter"
 
@@ -289,7 +288,7 @@ msgid "say %s for %n secs"
 msgstr "si %s i %n sekunder"
 
 msgid "Sensing"
-msgstr "sansning"
+msgstr "Sansning"
 
 msgid "sensor %m.booleanSensor?"
 msgstr "sensor %m.booleanSensor?"
@@ -298,18 +297,16 @@ msgid "set %m.effect effect to %n"
 msgstr "sett %m.effect effekt til %n"
 
 msgid "set %m.var to %s"
-msgstr "sett %m.var til %n"
+msgstr "sett %m.var til %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "velg instrument %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "dreieretning %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
 msgstr "motorkraft %n"
 
@@ -317,7 +314,7 @@ msgid "set pen color to %c"
 msgstr "velg pennfarge %c"
 
 msgid "set pen color to %n"
-msgstr "velg pennfarge %c"
+msgstr "velg pennfarge %n"
 
 msgid "set pen shade to %n"
 msgstr "sett pennintensitet til %n"
@@ -326,7 +323,7 @@ msgid "set pen size to %n"
 msgstr "sett pennbredde til %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "begrens rotasjon %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "sett størrelse til %n%"
@@ -350,16 +347,16 @@ msgid "show"
 msgstr "vis"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "vis listen %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "vis variablen %m.var"
 
 msgid "size"
 msgstr "størrelse"
 
 msgid "Sound"
-msgstr "lyd"
+msgstr "Lyd"
 
 msgid "stamp"
 msgstr "stemple avtrykk"
@@ -409,13 +406,12 @@ msgid "turn @turnRight %n degrees"
 msgstr "vend @turnRight %n grader"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "skru av motor"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "skru på motor"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "motor på i %n sekunder"
 
@@ -438,15 +434,14 @@ msgid "wait until %b"
 msgstr "vent til %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "sensor %m.booleanSensor?"
+msgstr "når %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "når %m.key trykkes"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "når %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "når @greenFlag klikkes"
@@ -456,19 +451,19 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "når bakgrunn bytter til %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "når avstand < %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "når jeg mottar %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "når jeg starter som klon"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "når denne figuren klikkes"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "når helning = %n"
 
 msgid "x position"
 msgstr "x-posisjon"
