@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:34+0200\n"
-"PO-Revision-Date: 2013-01-31 22:38+0200\n"
+"PO-Revision-Date: 2013-03-19 00:40+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -118,7 +118,7 @@ msgid "Data"
 msgstr "Daten"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "Tage seit 2000"
 
 # leitet einen Definitionsblock ein
 msgid "define"
@@ -150,7 +150,7 @@ msgid "forever"
 msgstr "wiederhole fortlaufend"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "gleite %n Sek. zu x:%n y:%n"
+msgstr "gleite in %n Sek. zu x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "gehe %n Ebenen nach hinten"
@@ -174,7 +174,7 @@ msgid "hide variable %m.var"
 msgstr "verstecke Variable %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "falls %b dann"
 
 msgid "if on edge, bounce"
 msgstr "pralle vom Rand ab"
@@ -185,6 +185,8 @@ msgstr "füge %s als %d.listItem in %m.list ein"
 msgid "item %d.listItem of %m.list"
 msgstr "%d.listItem Element von %m.list"
 
+# Konkatenierungsoperator (grün)
+#, fuzzy
 msgid "join %s %s"
 msgstr "verbinde %s %s"
 
@@ -222,7 +224,7 @@ msgid "mouse y"
 msgstr "Maus y-Position"
 
 msgid "move %n steps"
-msgstr "gehe %n-er Schritt"
+msgstr "gehe %n-er-Schritt"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
@@ -249,10 +251,10 @@ msgid "pen up"
 msgstr "zeichne nicht"
 
 msgid "pick random %n to %n"
-msgstr "wähle zufällig aus %n bis %n"
+msgstr "Zufallszahl von %n bis %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "spiele Schlagzeug %d.drum für %n Schläge"
+msgstr "spiele Schlagwerk %d.drum für %n Schläge"
 
 # 83%
 msgid "play note %d.note for %n beats"
@@ -280,10 +282,10 @@ msgid "replace item %d.listItem of %m.list with %s"
 msgstr "ersetze %d.listItem Element von %m.list durch %s"
 
 msgid "reset timer"
-msgstr "starte Stoppuhr neu"
+msgstr "setze Stoppuhr zurück"
 
 msgid "rest for %n beats"
-msgstr "spiele Pause für %n Schläge"
+msgstr "pausiere %n Schläge"
 
 msgid "round %n"
 msgstr "%n gerundet"
@@ -365,6 +367,7 @@ msgstr "Größe"
 msgid "Sound"
 msgstr "Klang"
 
+#, fuzzy
 msgid "stamp"
 msgstr "hinterlasse Abdruck"
 
