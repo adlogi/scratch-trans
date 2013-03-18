@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:47+0200\n"
-"PO-Revision-Date: 2013-01-31 22:59+0200\n"
+"PO-Revision-Date: 2013-03-19 00:55+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -59,12 +59,11 @@ msgid "B connected"
 msgstr "B angeschlossen"
 
 msgid "Back a layer (Shift: Send to back)"
-msgstr ""
+msgstr "Eine Ebene nach hinten (Umschalttaste: Ganz nach hinten)"
 
 # 88%
-#, fuzzy
 msgid "backdrop"
-msgstr "Bühnenbild1"
+msgstr "Bühnenbild"
 
 msgid "backdrop #"
 msgstr "Bühnenbildnummer"
@@ -76,9 +75,8 @@ msgid "backdrop1"
 msgstr "Bühnenbild1"
 
 # 88%
-#, fuzzy
 msgid "backdrops"
-msgstr "Bühnenbild1"
+msgstr "Bühnenbilder"
 
 # Reiterbeschriftung der Ablage, um Objekte in verschiedenen Projekten nutzen zu können
 msgid "Backpack"
@@ -103,8 +101,9 @@ msgstr "Helligkeit"
 msgid "button pressed"
 msgstr "Schalter gedrückt"
 
+#, fuzzy
 msgid "by"
-msgstr ""
+msgstr "von"
 
 # sensor board
 msgid "C connected"
@@ -208,7 +207,7 @@ msgid "duplicate"
 msgstr "Duplizieren"
 
 msgid "Duplicate (Shift: Multiple)"
-msgstr ""
+msgstr "Duplizieren (Umschalttaste: mehrfach)"
 
 msgid "e ^"
 msgstr "e^"
@@ -232,7 +231,7 @@ msgid "Electric Piano"
 msgstr "E-Piano"
 
 msgid "Ellipse (Shift: Circle)"
-msgstr ""
+msgstr "Ellipse (Umschalttaste: Kreis)"
 
 msgid "Erase"
 msgstr ""
@@ -245,14 +244,13 @@ msgstr "einblenden"
 msgid "fade out"
 msgstr "ausblenden"
 
-#, fuzzy
 msgid "File"
 msgstr "Datei"
 
 # 75%
 #, fuzzy
 msgid "Fill"
-msgstr "Datei"
+msgstr "Füllung"
 
 msgid "fisheye"
 msgstr "Fischauge"
@@ -264,13 +262,14 @@ msgid "Flute"
 msgstr "Querflöte"
 
 msgid "Forward a layer (Shift: Bring to front)"
-msgstr ""
+msgstr "Eine Ebene nach vorne (Umschalttaste: Ganz nach vorne)"
 
 msgid "ghost"
 msgstr "Durchsichtigkeit"
 
+#, fuzzy
 msgid "Group"
-msgstr ""
+msgstr "Gruppieren"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -367,12 +366,11 @@ msgid "New sound"
 msgstr "Neuer Klang"
 
 # 90%
-#, fuzzy
 msgid "New sprite"
-msgstr "Neue Figur:"
+msgstr "Neue Figur"
 
 msgid "No motion blocks"
-msgstr ""
+msgstr "Keine Bewegungsblöcke"
 
 # gehört zu 'turn video on/off/on-flipped'
 msgid "off"
@@ -380,10 +378,9 @@ msgstr "aus"
 
 # gehört zu 'turn video on/off/on-flipped'
 msgid "on"
-msgstr "ein"
+msgstr "an"
 
 # gehört zu 'turn video on/off/on-flipped'
-#, fuzzy
 msgid "on-flipped"
 msgstr "an-gespiegelt"
 
@@ -407,7 +404,7 @@ msgid "paste"
 msgstr "Einfügen"
 
 msgid "Pencil"
-msgstr ""
+msgstr "Stift"
 
 msgid "photo1"
 msgstr "Photo1"
@@ -416,7 +413,7 @@ msgid "Piano"
 msgstr "Klavier"
 
 msgid "Pick up Color"
-msgstr ""
+msgstr "Farbpipette"
 
 msgid "pixelate"
 msgstr "Pixel"
@@ -438,7 +435,7 @@ msgid "recording1"
 msgstr "Aufnahme1"
 
 msgid "Rectangle (Shift: Square)"
-msgstr ""
+msgstr "Rechteck (Umschalttaste: Quadrat)"
 
 msgid "redo"
 msgstr "Wiederherstellen"
@@ -447,8 +444,9 @@ msgstr "Wiederherstellen"
 msgid "Remix"
 msgstr "Remix"
 
+#, fuzzy
 msgid "Reshape"
-msgstr ""
+msgstr "Umformen"
 
 msgid "resistance-A"
 msgstr "Widerstand-A"
@@ -478,7 +476,7 @@ msgid "Scratch Cat"
 msgstr "Scratch-Katze"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Skripte"
 
 msgid "second"
 msgstr "Sekunde"
@@ -487,19 +485,20 @@ msgid "See project page"
 msgstr "Zeige Projektseite"
 
 msgid "Select"
-msgstr ""
+msgstr "Auswählen"
 
 msgid "select all"
 msgstr "Alles auswählen"
 
 msgid "Set Costume Center"
-msgstr ""
+msgstr "Drehpunkt des Kostüms setzen"
 
 msgid "Share"
 msgstr "Veröffentlichen"
 
+#, fuzzy
 msgid "shared"
-msgstr ""
+msgstr "veröffentlicht"
 
 msgid "show receivers"
 msgstr "Kennzeichne alle Empfänger"
@@ -538,9 +537,8 @@ msgid "space"
 msgstr "Leertaste"
 
 # 85%
-#, fuzzy
 msgid "Sprite"
-msgstr "Figuren"
+msgstr "Figur"
 
 msgid "Sprites"
 msgstr "Figuren"
@@ -551,8 +549,9 @@ msgstr "Wurzel"
 msgid "Stage"
 msgstr "Bühne"
 
+#, fuzzy
 msgid "Stage selected"
-msgstr ""
+msgstr "Bühne ausgewählt"
 
 msgid "Steel Drum"
 msgstr "Steel Drum"
@@ -570,7 +569,7 @@ msgid "tan"
 msgstr "tan"
 
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 # Motordrehsinn
 msgid "that way"
@@ -604,16 +603,18 @@ msgid "Trombone"
 msgstr "Posaune"
 
 msgid "Turbo Mode"
-msgstr ""
+msgstr "Turbo-Modus"
 
 msgid "undo"
 msgstr "Rückgängig"
 
+#, fuzzy
 msgid "Ungroup"
-msgstr ""
+msgstr "Gruppierung aufheben"
 
+#, fuzzy
 msgid "unshared"
-msgstr ""
+msgstr "Unveröffentlicht"
 
 msgid "up"
 msgstr "oben"
