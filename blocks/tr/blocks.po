@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:35+0200\n"
-"PO-Revision-Date: 2013-02-09 14:43+0200\n"
+"PO-Revision-Date: 2013-03-18 01:12+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -30,10 +30,10 @@ msgid "%m.list contains %s"
 msgstr "%m.list de %s var"
 
 msgid "%m.mathOp of %n"
-msgstr "%m.mathOp si %n in"
+msgstr "%m.mathOp %n"
 
 msgid "%m.sensor sensor value"
-msgstr "sensör değeri %m.sensor"
+msgstr "%m.sensor algılayıcısının değeri"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
@@ -65,7 +65,7 @@ msgid "change %m.effect effect by %n"
 msgstr "%m.effect etkisini %n arttır"
 
 msgid "change %m.var by %n"
-msgstr "%m.var i %n arttır"
+msgstr "%m.var'i %n arttır"
 
 msgid "change pen color by %n"
 msgstr "kalem rengini %n arttır"
@@ -116,7 +116,7 @@ msgid "Data"
 msgstr "Veri"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "2000'den beri geçen gün"
 
 msgid "define"
 msgstr "tanımla"
@@ -149,16 +149,16 @@ msgid "glide %n secs to x:%n y:%n"
 msgstr "%n saniyede x:%n y:%n a git"
 
 msgid "go back %n layers"
-msgstr "%n katman geriye git"
+msgstr "%n katman alta in"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse a git"
+msgstr "%m.spriteOrMouse na git"
 
 msgid "go to front"
-msgstr "öne git"
+msgstr "üste çık"
 
 msgid "go to x:%n y:%n"
-msgstr "x:%n y:%n a git"
+msgstr "x:%n y:%n noktasına git"
 
 msgid "hide"
 msgstr "gizlen"
@@ -170,22 +170,22 @@ msgid "hide variable %m.var"
 msgstr "%m.var değişkenini gizle"
 
 msgid "if %b then"
-msgstr ""
+msgstr "eğer %b ise "
 
 msgid "if on edge, bounce"
 msgstr "kenara geldiysen sek"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "koy %s i , %d.listItem . sırasına %m.list in"
+msgstr "koy %s'yi, %d.listItem sırasına %m.list'nin"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%d.listItem . sırasındaki %m.list in"
+msgstr "%d.listItem sırasındaki %m.list'in"
 
 msgid "join %s %s"
 msgstr "%s ile %s i birleştir"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key tuşu basılı mı?"
+msgstr "%m.key tuşu basılı (mı?)"
 
 msgid "length of %m.list"
 msgstr "%m.list in uzunluğu"
@@ -209,7 +209,7 @@ msgid "Motion"
 msgstr "Hareket"
 
 msgid "mouse down?"
-msgstr "fareye basılı mı?"
+msgstr "fareye basılı (mı?)"
 
 msgid "mouse x"
 msgstr "farenin x'i"
@@ -243,7 +243,7 @@ msgid "pen up"
 msgstr "kalemi kaldır"
 
 msgid "pick random %n to %n"
-msgstr "%n ile %n arasında bir sayı tut"
+msgstr "%n ile %n arasında bir sayı (tut)"
 
 msgid "play drum %d.drum for %n beats"
 msgstr "%d.drum davulunu %n vuruş çal"
@@ -262,7 +262,7 @@ msgid "point in direction %d.direction"
 msgstr "%d.direction yönüne dön"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse a doğru dön"
+msgstr "%m.spriteOrMouse na doğru dön"
 
 msgid "repeat %n"
 msgstr "%n defa tekrarla"
@@ -271,7 +271,7 @@ msgid "repeat until %b"
 msgstr "%b olana kadar tekrarla"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "değiştir %d.listItem ini %m.list in %s ile"
+msgstr "değiştir %d.listItem sırasındakini %m.list listesinin %s ile"
 
 msgid "reset timer"
 msgstr "süre ölçeri sıfırla"
@@ -292,13 +292,13 @@ msgid "Sensing"
 msgstr "Algılama"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "almaç %m.booleanSensor ?"
+msgstr "algılayıcı %m.booleanSensor (mı?)"
 
 msgid "set %m.effect effect to %n"
 msgstr "%m.effect etkisini %n yap"
 
 msgid "set %m.var to %s"
-msgstr "%m.var i %s yap"
+msgstr "%m.var, %s olsun"
 
 msgid "set instrument to %d.instrument"
 msgstr "çalgıyı %d.instrument yap"
@@ -324,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "kalem kalınlığını %n yap"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "dönüş tarzını %m.rotationStyle yap"
+msgstr "kuklanın şekli %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "büyüklüğü % %n yap"
@@ -336,13 +336,13 @@ msgid "set video transparency to %n%"
 msgstr "video saydamlığını %n% yap"
 
 msgid "set volume to %n%"
-msgstr "ses şiddetini %n% yap"
+msgstr "ses şiddetini % %n yap"
 
 msgid "set x to %n"
-msgstr "x'i %n yap"
+msgstr "x, %n olsun"
 
 msgid "set y to %n"
-msgstr "y'yi %n yap"
+msgstr "y, %n olsun"
 
 msgid "show"
 msgstr "görün"
@@ -360,7 +360,7 @@ msgid "Sound"
 msgstr "Ses"
 
 msgid "stamp"
-msgstr "damga"
+msgstr "iz bırak"
 
 msgid "stop %m.stop"
 msgstr "%m.stop ni durdur"
@@ -458,7 +458,7 @@ msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast haberi gelince"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "ikiz olarak başladığımda"
 
 msgid "when this sprite clicked"
 msgstr "bu kukla tıklanınca"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:34+0200\n"
-"PO-Revision-Date: 2013-01-07 13:00+0200\n"
+"PO-Revision-Date: 2013-03-06 19:10+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -116,7 +116,7 @@ msgid "Data"
 msgstr "データ"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "2000年からの日数"
 
 msgid "define"
 msgstr "定義"
@@ -164,13 +164,13 @@ msgid "hide"
 msgstr "隠す"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "リスト %m.list を隠す"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "変数 %m.var を隠す"
 
 msgid "if %b then"
-msgstr ""
+msgstr "もし %b なら"
 
 msgid "if on edge, bounce"
 msgstr "もし端に着いたら、跳ね返る"
@@ -249,7 +249,6 @@ msgid "play drum %d.drum for %n beats"
 msgstr "%d.drum のドラムを %n 拍鳴らす"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "%d.note の音符を %n 拍鳴らす"
 
@@ -305,12 +304,10 @@ msgid "set instrument to %d.instrument"
 msgstr "楽器を %d.instrument にする"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "モーターの回転を %m.motorDirection にする"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
 msgstr "モーターのパワーを %n にする"
 
@@ -318,7 +315,7 @@ msgid "set pen color to %c"
 msgstr "ペンの色を %c にする"
 
 msgid "set pen color to %n"
-msgstr "ペンの色を %c にする"
+msgstr "ペンの色を %n にする"
 
 msgid "set pen shade to %n"
 msgstr "ペンの濃さを %n にする"
@@ -327,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "ペンの太さを %n にする"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "回転方法を %m.rotationStyle にする"
 
 msgid "set size to %n%"
 msgstr "大きさを %n% にする"
@@ -351,10 +348,10 @@ msgid "show"
 msgstr "表示する"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "リスト %m.list を表示する"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "変数 %m.var を表示する"
 
 msgid "size"
 msgstr "大きさ"
@@ -410,13 +407,12 @@ msgid "turn @turnRight %n degrees"
 msgstr "@turnRight %n 度回す"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "モーターをオフにする"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "モーターをオンにする"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "モーターを %n 秒オンにする"
 
@@ -427,7 +423,7 @@ msgid "user id"
 msgstr "ユーザーid"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "%m.videoMotionType のビデオを %m.stageOrThis に表示する"
+msgstr "ビデオの %m.videoMotionType の %m.stageOrThis についての値"
 
 msgid "volume"
 msgstr "音量"
@@ -439,15 +435,14 @@ msgid "wait until %b"
 msgstr "%b まで待つ"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "%m.booleanSensor"
+msgstr "%m.booleanSensor のとき"
 
 msgid "when %m.key key pressed"
 msgstr "%m.key キーが押されたとき"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "%m.triggerSensor > %n のとき"
 
 msgid "when @greenFlag clicked"
 msgstr "@greenFlag がクリックされたとき"
@@ -457,19 +452,19 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "背景が %m.backdrop になったとき"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "距離 < %n のとき"
 
 msgid "when I receive %m.broadcast"
 msgstr "私が %m.broadcast を受け取ったとき"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "クローンされたとき"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "このスプライトがクリックされたとき"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "傾き = %n のとき"
 
 msgid "x position"
 msgstr "x座標"

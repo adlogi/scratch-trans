@@ -3,20 +3,21 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 23:09+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-02-22 20:30+0200\n"
+"Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%"
+"100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
 
 #: templates/account_settings.html:6
 msgid "Account Settings -  Scratch"
@@ -29,7 +30,7 @@ msgstr ""
 
 #: templates/base.html:136
 msgid "Create"
-msgstr ""
+msgstr "Sukurti"
 
 #: templates/base.html:137 templates/explore/explore2.html:40
 msgid "Explore"
@@ -41,15 +42,15 @@ msgstr ""
 
 #: templates/base.html:139
 msgid "Help"
-msgstr ""
+msgstr "Pagalba"
 
 #: templates/base.html:170
 msgid "Profile"
-msgstr ""
+msgstr "Profilis"
 
 #: templates/base.html:171 templates/studio/base.html:21
 msgid "My Stuff"
-msgstr ""
+msgstr "Mano projektai"
 
 #: templates/base.html:172
 msgid "Account settings"
@@ -57,32 +58,32 @@ msgstr ""
 
 #: templates/base.html:173
 msgid "Sign out"
-msgstr ""
+msgstr "Atsijungti"
 
 #: templates/base.html:179 templates/base.html.py:187
 #: templates/modal-login.html:10
 msgid "Login"
-msgstr ""
+msgstr "Prisijungimas"
 
 #: templates/base.html:183 templates/modal-login.html:14
 msgid "Username"
-msgstr ""
+msgstr "Naudotojo vardas"
 
 #: templates/base.html:185 templates/modal-login.html:21
 msgid "Password"
-msgstr ""
+msgstr "Slaptažodis"
 
 #: templates/base.html:234
 msgid "About"
-msgstr ""
+msgstr "Apie"
 
 #: templates/base.html:235
 msgid "Educators"
-msgstr ""
+msgstr "Mokytojai"
 
 #: templates/base.html:236
 msgid "Parents"
-msgstr ""
+msgstr "Tėvai"
 
 #: templates/base.html:237
 msgid "Community Guidelines"
@@ -90,7 +91,7 @@ msgstr ""
 
 #: templates/base.html:238
 msgid "Contact us"
-msgstr ""
+msgstr "Kontaktai"
 
 #: templates/base.html:240
 msgid ""
@@ -99,17 +100,17 @@ msgstr ""
 
 #: templates/modal-login.html:31
 msgid "Sign in"
-msgstr ""
+msgstr "Prisijungti"
 
 #: templates/password_required_login.html:31
 msgid "Enter"
-msgstr ""
+msgstr "Įeiti"
 
 #: templates/carousel/carousel.html:10 templates/carousel/carousel.html:12
 #: templates/carousel/carousel.html:14 templates/carousel/carousel.html:16
 #: templates/carousel/carousel.html:18
 msgid "View all"
-msgstr ""
+msgstr "Peržiūrėti viską"
 
 #: templates/carousel/carousel.html:52
 msgid "No items"
@@ -131,43 +132,43 @@ msgstr ""
 
 #: templates/comments/comment_module.html:10
 msgid "Leave a comment"
-msgstr ""
+msgstr "Komentuoti"
 
 #: templates/comments/comment_module.html:29
 #: templates/comments/includes/comment.html:11
 #: templates/includes/backbone-templates.html:106
 msgid "Reply"
-msgstr ""
+msgstr "Atsakyti"
 
 #: templates/comments/comment_module.html:34
 msgid "0 minutes ago"
-msgstr ""
+msgstr "prieš 0 minučių"
 
 #: templates/comments/comment_module.html:42
 #: templates/comments/includes/comment.html:7
 msgid "Report comment as inappropriate"
-msgstr ""
+msgstr "Pranešti apie netinkamą komentarą"
 
 #: templates/comments/comment_module.html:64
 msgid "Post"
-msgstr ""
+msgstr "Siųsti"
 
 #: templates/comments/comment_module.html:67
 msgid "Cancel"
-msgstr ""
+msgstr "Atšaukti"
 
 #: templates/comments/list.html:20
 msgid "View previous comments"
-msgstr ""
+msgstr "Ankstesni komentarai"
 
 #: templates/comments/includes/comment.html:26
 msgid "ago"
-msgstr ""
+msgstr "prieš"
 
 #: templates/explore/explore2.html:6
 #: templates/explore/explore_new_version_coming.html:6
 msgid "Explore -  Scratch"
-msgstr ""
+msgstr "Naršyti  - Scratch"
 
 #: templates/explore/explore2.html:42
 msgid "Jump"
@@ -175,11 +176,11 @@ msgstr ""
 
 #: templates/explore/explore2.html:45
 msgid "Shuffle"
-msgstr ""
+msgstr "Sumaišyti"
 
 #: templates/explore/includes/related_projects.html:62
 msgid "Sudio:"
-msgstr ""
+msgstr "Rinkinys:"
 
 #: templates/galleries/base.html:30
 msgid "Studio description"
@@ -188,30 +189,30 @@ msgstr ""
 #: templates/galleries/gallery.html:21
 #, python-format
 msgid "created %(tDate)s"
-msgstr ""
+msgstr "sukurta %(tDate)s"
 
 #: templates/galleries/gallery.html:25
 msgid "Read more &raquo;"
-msgstr ""
+msgstr "Skaityti daugiau  &raquo;"
 
 #: templates/galleries/gallery.html:51
 #, python-format
 msgid "Projects ( <span data-count=\"projects\">%(tCount)s</span> )"
-msgstr ""
+msgstr "Projektai ( <span data-count=\"projects\">%(tCount)s</span> )"
 
 #: templates/galleries/gallery.html:54
 #, python-format
 msgid "Comments ( <span data-count=\"comments\">%(tCount)s</span> )"
-msgstr ""
+msgstr "Komentarai ( <span data-count=\"comments\">%(tCount)s</span> )"
 
 #: templates/galleries/gallery.html:57
 #, python-format
 msgid "Curators ( <span data-count=\"curators\">%(tCount)s</span> )"
-msgstr ""
+msgstr "Kuratoriai ( <span data-count=\"curators\">%(tCount)s</span> )"
 
 #: templates/galleries/gallery.html:60
 msgid "More info"
-msgstr ""
+msgstr "Daugiau informacijos"
 
 #: templates/galleries/gallery_list.html:4
 #, python-format
@@ -222,16 +223,16 @@ msgstr ""
 #: templates/studio/includes/galleries_action_bar.html:11
 #: templates/studio/includes/galleries_action_bar.html:16
 msgid "Newest"
-msgstr ""
+msgstr "Naujausi"
 
 #: templates/galleries/gallery_list.html:9
 msgid "Oldest"
-msgstr ""
+msgstr "Seniausi"
 
 #: templates/galleries/gallery_list.html:10
 #: templates/studio/includes/project_action_bar.html:28
 msgid "Most viewed"
-msgstr ""
+msgstr "Daugiausiai žiūrėti"
 
 #: templates/galleries/gallery_list.html:11
 #: templates/studio/includes/project_action_bar.html:29
@@ -241,24 +242,24 @@ msgstr ""
 #: templates/galleries/gallery_list.html:12
 #: templates/studio/includes/project_action_bar.html:30
 msgid "Most favorited"
-msgstr ""
+msgstr "Labiausiai mėgstami"
 
 #: templates/galleries/gallery_list.html:13
 #: templates/studio/includes/project_action_bar.html:31
 msgid "Most remixed"
-msgstr ""
+msgstr "Daugiausiai perdaryti"
 
 #: templates/galleries/includes/project_action_bar.html:11
 msgid "Add projects"
-msgstr ""
+msgstr "Pridėti projektus"
 
 #: templates/homepage/index.html:24
 msgid "Featured Projects"
-msgstr ""
+msgstr "Rekomenduojami projektai"
 
 #: templates/homepage/index.html:25
 msgid "Featured Studios"
-msgstr ""
+msgstr "Rekomenduojami rinkiniai"
 
 #: templates/homepage/index.html:32
 msgid "What's Happening?"
@@ -266,11 +267,11 @@ msgstr ""
 
 #: templates/homepage/index.html:47
 msgid "Scratch News"
-msgstr ""
+msgstr "Scratch naujienos"
 
 #: templates/homepage/index.html:55
 msgid "Welcome, Scratchers!"
-msgstr ""
+msgstr "Sveiki!"
 
 #: templates/homepage/index.html:56
 msgid ""
@@ -284,7 +285,7 @@ msgstr ""
 
 #: templates/homepage/index.html:64
 msgid "Try out new features"
-msgstr ""
+msgstr "Išbandykite naujas galimybes"
 
 #: templates/homepage/index.html:65
 msgid "Here’s a description of what’s new in Scratch 2.0."
@@ -292,7 +293,7 @@ msgstr ""
 
 #: templates/homepage/index.html:66
 msgid "Check it out! &raquo;"
-msgstr ""
+msgstr "Pažiūrėkit! &raquo;"
 
 #: templates/homepage/index.html:81
 msgid "Scratch 2.0 Beta"
@@ -300,7 +301,7 @@ msgstr ""
 
 #: templates/homepage/index.html:83
 msgid "Welcome to the Scratch 2.0 Beta website!"
-msgstr ""
+msgstr "Sveiki atvykę į Scratch 2.0 Beta svetainę!"
 
 #: templates/homepage/index.html:86
 msgid ""
@@ -314,6 +315,8 @@ msgid ""
 "The Scratch 2.0 Beta is open to everyone. But you can only log in if you "
 "created your Scratch account before January 26th."
 msgstr ""
+"Peržiūrėti darbus gali visi, tačiau prisijungti leidžiama tik iki sausio 26d "
+"registruotiems naudotojams."
 
 #: templates/homepage/index.html:92
 msgid ""
@@ -325,19 +328,19 @@ msgstr ""
 
 #: templates/homepage/index.html:95
 msgid "Find out more about"
-msgstr ""
+msgstr "Sužinokite daugiau apie"
 
 #: templates/homepage/index.html:95
 msgid "the move to Scratch 2.0"
-msgstr ""
+msgstr "migravimas į Scratch 2.0"
 
 #: templates/homepage/index.html:151
 msgid "What the Community is Sharing"
-msgstr ""
+msgstr "Bendruomenės kūriniai"
 
 #: templates/homepage/index.html:158
 msgid "What the Community is Remixing"
-msgstr ""
+msgstr "Bendruomenės perdaryti kūriniai"
 
 #: templates/homepage/index.html:161
 msgid "What the Community is Loving"
@@ -347,47 +350,47 @@ msgstr ""
 #: templates/scratch_admin/admin_profile_view.html:41
 #, python-format
 msgid "Joined %(tDate)s ago / "
-msgstr ""
+msgstr "Prisijungta prieš %(tDate)s dienų /"
 
 #: templates/profiles/profile_detail.html:69
 msgid "About me"
-msgstr ""
+msgstr "Apie mane"
 
 #: templates/profiles/profile_detail.html:86
 msgid "What I'm working on"
-msgstr ""
+msgstr "Ką aš kuriu"
 
 #: templates/profiles/profile_detail.html:121
 msgid "What I've been doing"
-msgstr ""
+msgstr "Veiksmų istorija"
 
 #: templates/profiles/profile_detail.html:129
 msgid "Report this user"
-msgstr ""
+msgstr "Pranešti apie netinkamą naudotoją"
 
 #: templates/profiles/profile_detail.html:136
 msgid "Shared Projects"
-msgstr ""
+msgstr "Pasidalinti projektai"
 
 #: templates/profiles/profile_detail.html:138
 msgid "Favorite Projects"
-msgstr ""
+msgstr "Mėgstami projektai"
 
 #: templates/profiles/profile_detail.html:140 templates/projects/base.html:208
 msgid "Studios"
-msgstr ""
+msgstr "Rinkiniai"
 
 #: templates/profiles/profile_detail.html:179
 msgid "Following"
-msgstr ""
+msgstr "Sekama"
 
 #: templates/profiles/profile_detail.html:183
 msgid "Followers"
-msgstr ""
+msgstr "Sekėjai"
 
 #: templates/profiles/profile_detail.html:189 templates/projects/base.html:171
 msgid "Comments"
-msgstr ""
+msgstr "Komentarai"
 
 #: templates/projects/base.html:4
 msgid "on Scratch"
@@ -395,7 +398,7 @@ msgstr ""
 
 #: templates/projects/base.html:48
 msgid "remixed"
-msgstr ""
+msgstr "perdaryti"
 
 #: templates/projects/base.html:55
 msgid "See inside"
@@ -403,16 +406,16 @@ msgstr ""
 
 #: templates/projects/base.html:115
 msgid "not shared"
-msgstr ""
+msgstr "nėra pasidalintas"
 
 #: templates/projects/base.html:117
 #: templates/studio/includes/project_list.html:19
 msgid "Last modified:"
-msgstr ""
+msgstr "Paskutinį kartą keista:"
 
 #: templates/projects/base.html:128
 msgid "Favorite this project"
-msgstr ""
+msgstr "Pažymėti mėgstamu"
 
 #: templates/projects/base.html:135
 msgid "Love this project"
@@ -420,73 +423,77 @@ msgstr ""
 
 #: templates/projects/base.html:144
 msgid "Total views"
-msgstr ""
+msgstr "Iš viso peržiūrėta"
 
 #: templates/projects/base.html:148
 msgid "Total remixes"
-msgstr ""
+msgstr "Iš viso perdaryta"
 
 #: templates/projects/base.html:183
 msgid "Remixes"
-msgstr ""
+msgstr "Perdaryti projektai"
 
 #: templates/projects/base.html:195
 msgid "views"
-msgstr ""
+msgstr "peržiūros"
 
 #: templates/projects/shared-other.html:66
 #: templates/projects/shared-owner.html:30
 msgid "Shared on:"
-msgstr ""
+msgstr "Dalinamasi:"
 
 #: templates/projects/unshared-owner.html:59
 msgid "Unshared"
-msgstr ""
+msgstr "Nesidalinama"
 
 #: templates/projects/includes/project_list.html:10
 #, python-format
 msgid "%(tDate)s ago"
-msgstr ""
+msgstr "prieš %(tDate)s"
 
 #: templates/projects/includes/shared/shared-project-actions.html:3
 msgid "Share project on other websites"
-msgstr ""
+msgstr "Pateik šį projektą kitose svetainėse"
 
 #: templates/projects/includes/shared/shared-project-actions.html:4
 msgid "Share to"
-msgstr ""
+msgstr "Paviešink į "
 
 #: templates/projects/includes/shared/shared-project-actions.html:9
 msgid "Add project to gallery"
-msgstr ""
+msgstr "Įtraukti į galeriją"
 
 #: templates/projects/includes/shared/shared-project-actions.html:10
 msgid "Add to"
-msgstr ""
+msgstr "Įtraukti į"
 
 #: templates/projects/includes/shared/shared-project-actions.html:14
 msgid "Report project as inappropriate"
-msgstr ""
+msgstr "Pranešti apie netinkamą projektą"
 
 #: templates/projects/includes/shared/shared-project-actions.html:15
 msgid "Report this"
-msgstr ""
+msgstr "Paskųsti šį"
 
 #: templates/studio/base.html:29
 msgid "Example tab"
-msgstr ""
+msgstr "Pavyzdys"
 
 #: templates/studio/studio.html:6
 #, python-format
 msgid ""
 "All Projects (<span data-content=\"project-count\">%(projects_count)s</span>)"
 msgstr ""
+"Visi projektai (<span data-content=\"project-count\">%"
+"(projects_count)s</span>)"
 
 #: templates/studio/studio.html:7
 #, python-format
 msgid ""
 "Shared Projects (<span data-content=\"shared-count\">%(shared_count)s</span>)"
 msgstr ""
+"Pasidalinti projektai (<span data-content=\"shared-count\">%"
+"(shared_count)s</span>)"
 
 #: templates/studio/studio.html:8
 #, python-format
@@ -494,41 +501,44 @@ msgid ""
 "Unshared Projects (<span data-content=\"unshared-count\">"
 "%(notshared_count)s</span>)"
 msgstr ""
+"Nepasidalinti projektai (<span data-content=\"unshared-count\">%"
+"(notshared_count)s</span>)"
 
 #: templates/studio/studio.html:9
 #, python-format
 msgid ""
 "My Studios (<span data-content=\"gallery-count\">%(gallery_count)s</span>)"
 msgstr ""
+"Mano rinkiniai (<span data-content=\"gallery-count\">%(gallery_count)s</span>)"
 
 #: templates/studio/studio.html:10
 #, python-format
 msgid "Trash (<span data-content=\"trash-count\">%(deleted_count)s</span>)"
-msgstr ""
+msgstr "Šiukšlinė (<span data-content=\"trash-count\">%(deleted_count)s</span>)"
 
 #: templates/studio/studio.html:18
 msgid "New Project"
-msgstr ""
+msgstr "Naujas projektas"
 
 #: templates/studio/studio.html:21
 msgid "New Studio"
-msgstr ""
+msgstr "Naujas rinkinys"
 
 #: templates/studio/includes/galleries_action_bar.html:8
 msgid "View:"
-msgstr ""
+msgstr "Peržiūra:"
 
 #: templates/studio/includes/galleries_action_bar.html:17
 msgid "Most Projects"
-msgstr ""
+msgstr "Daugiausia projektų"
 
 #: templates/studio/includes/galleries_action_bar.html:18
 msgid "Last updated"
-msgstr ""
+msgstr "Atnaujinta"
 
 #: templates/studio/includes/galleries_list.html:26
 msgid "You do not own any galleries. <a href=>Create one!</a>"
-msgstr ""
+msgstr "<a href=>Sukurkite galeriją!</a>"
 
 #: templates/studio/includes/gallery_list.html:19
 #, python-format

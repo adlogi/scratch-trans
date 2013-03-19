@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2013-02-05 00:41+0200\n"
+"POT-Creation-Date: 2013-02-11 10:47+0200\n"
+"PO-Revision-Date: 2013-02-20 07:55+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -12,9 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr "#"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -32,10 +29,10 @@ msgid "Add a boolean input:"
 msgstr "Προσθέστε μια τιμή boolean:"
 
 msgid "Add a number input:"
-msgstr "Προσθέστε αριθμητική τιμή:"
+msgstr "Προσθέστε μια αριθμητική τιμή:"
 
 msgid "Add a string input:"
-msgstr "Προσθέστε τιμή σειράς λέξεων:"
+msgstr "Προσθέστε μια τιμή σειράς λέξεων:"
 
 msgid "add comment"
 msgstr "Προσθήκη σχόλιου"
@@ -58,6 +55,13 @@ msgstr "atan"
 msgid "B connected"
 msgstr "το B είναι συνδεδεμένο"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "Πίσω κατά 1 στρώση (Πάτημα με Shift: Τελευταία στρώση)"
+
+# 88%
+msgid "backdrop"
+msgstr "υπόβαθρο"
+
 msgid "backdrop #"
 msgstr "υπόβαθρο #"
 
@@ -66,6 +70,10 @@ msgstr "όνομα υποβάθρου"
 
 msgid "backdrop1"
 msgstr "υπόβαθρο1"
+
+# 88%
+msgid "backdrops"
+msgstr "υπόβαθρα"
 
 msgid "Backpack"
 msgstr "Σακίδιο"
@@ -82,17 +90,14 @@ msgstr "Φαγκότο"
 msgid "Bongo"
 msgstr "Μπόγκο"
 
-msgid "bottom-left"
-msgstr "κάτω-αριστερά"
-
-msgid "bottom-right"
-msgstr "κάτω-δεξιά"
-
 msgid "brightness"
 msgstr "φωτεινότητα"
 
 msgid "button pressed"
 msgstr "πατήθηκε το κουμπί"
+
+msgid "by"
+msgstr "από"
 
 msgid "C connected"
 msgstr "το C είναι συνδεδεμένο"
@@ -190,16 +195,19 @@ msgstr "Διπλασιασμός "
 msgid "duplicate"
 msgstr "Διπλασιασμός"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Διπλασιασμός (Πάτημα με Shift: Πολλαπλασιασμός)"
+
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
 msgstr "όρια"
 
-msgid "edit"
+msgid "Edit"
 msgstr "Επεξεργασία"
 
-msgid "Edit"
+msgid "edit"
 msgstr "Επεξεργασία"
 
 msgid "Effects"
@@ -211,6 +219,12 @@ msgstr "Ηλεκτρική κιθάρα"
 msgid "Electric Piano"
 msgstr "Αρμόνιο"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr "Έλλειψη (Πάτημα με Shift: Κύκλος)"
+
+msgid "Erase"
+msgstr "Σβήσιμο"
+
 msgid "fade in"
 msgstr "εμφανίσου σιγά-σιγά"
 
@@ -219,6 +233,10 @@ msgstr "εξαφανίσου σιγά-σιγά"
 
 msgid "File"
 msgstr "Αρχείο"
+
+# 75%
+msgid "Fill"
+msgstr "Γέμισμα με χρώμα"
 
 msgid "fisheye"
 msgstr "κυρτότητα"
@@ -229,8 +247,14 @@ msgstr "floor"
 msgid "Flute"
 msgstr "Φλάουτο"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "Μπροστά κατά 1 στρώση (Πάτημα με Shift: Μπροστινή στρώση)"
+
 msgid "ghost"
 msgstr "εξαφάνιση"
+
+msgid "Group"
+msgstr "Ένωση"
 
 msgid "Guiro"
 msgstr "Γκουίρο"
@@ -265,6 +289,9 @@ msgstr "Βιβλιοθήκη"
 msgid "light"
 msgstr "φως"
 
+msgid "Line"
+msgstr "Γραμμή"
+
 msgid "ln"
 msgstr "ln"
 
@@ -285,9 +312,6 @@ msgstr "Μαρίμπα"
 
 msgid "message1"
 msgstr "μήνυμα1"
-
-msgid "middle"
-msgstr "μεσσαίο"
 
 msgid "minute"
 msgstr "λεπτό"
@@ -310,12 +334,6 @@ msgstr "Μουσικό Κουτί"
 msgid "myself"
 msgstr "του εαυτού μου"
 
-msgid "name"
-msgstr "όνομα"
-
-msgid "New"
-msgstr "Νέο"
-
 msgid "New backdrop"
 msgstr "Νέο υπόβαθρο"
 
@@ -328,8 +346,12 @@ msgstr "Νέο μήνυμα..."
 msgid "New sound"
 msgstr "Νέος ήχος"
 
-msgid "New sprite:"
-msgstr "Νέα μορφή:"
+# 90%
+msgid "New sprite"
+msgstr "Νέα μορφή"
+
+msgid "No motion blocks"
+msgstr "Κανένα μπλοκ κίνησης"
 
 msgid "off"
 msgstr "Κλειστό"
@@ -358,11 +380,17 @@ msgstr "Ζωγραφική"
 msgid "paste"
 msgstr "Επικόλληση"
 
+msgid "Pencil"
+msgstr "Μολύβι"
+
 msgid "photo1"
 msgstr "φωτογραφία1"
 
 msgid "Piano"
 msgstr "Πιάνο"
+
+msgid "Pick up Color"
+msgstr "Επιλογή χρώματος"
 
 msgid "pixelate"
 msgstr "εικονοστοιχειοποίηση"
@@ -382,11 +410,17 @@ msgstr "Ηχογράφηση"
 msgid "recording1"
 msgstr "ηχογράφηση1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr "Ορθογώνιο (Πάτημα με Shift: Τετράγωνο)"
+
 msgid "redo"
 msgstr "Ακύρωση αναίρεσης"
 
 msgid "Remix"
 msgstr "Ρεμίξ"
+
+msgid "Reshape"
+msgstr "Αλλαγή του σχήματος"
 
 msgid "resistance-A"
 msgstr "Αντίσταση-Α"
@@ -412,11 +446,11 @@ msgstr "δεξί βέλος"
 msgid "Saxophone"
 msgstr "Σαξόφωνο"
 
-msgid "say"
-msgstr "πες"
-
 msgid "Scratch Cat"
 msgstr "Γάτα του Scratch"
+
+msgid "Scripts"
+msgstr "Σενάρια"
 
 msgid "second"
 msgstr "δευτερόλεπτο"
@@ -424,14 +458,20 @@ msgstr "δευτερόλεπτο"
 msgid "See project page"
 msgstr "Δείτε την σελίδα του έργου"
 
+msgid "Select"
+msgstr "Επιλογή"
+
 msgid "select all"
 msgstr "Επιλογή όλων"
+
+msgid "Set Costume Center"
+msgstr "Επιλογή κέντρου της ενδυμασίας"
 
 msgid "Share"
 msgstr "Μοιραστείτε το έργο"
 
-msgid "shout"
-msgstr "φώναξε"
+msgid "shared"
+msgstr "μοιρασμένο"
 
 msgid "show receivers"
 msgstr "Εμφάνιση παραληπτών"
@@ -466,6 +506,9 @@ msgstr "Ήχος"
 msgid "space"
 msgstr "Κενό"
 
+msgid "Sprite"
+msgstr "Μορφή"
+
 msgid "Sprites"
 msgstr "Μορφές"
 
@@ -474,6 +517,9 @@ msgstr "ΤετΡίζα"
 
 msgid "Stage"
 msgstr "Σκηνικό"
+
+msgid "Stage selected"
+msgstr "Το σκηνικό που έχει επιλεγεί"
 
 msgid "Steel Drum"
 msgstr "Ατσαλένιο τύμπανο"
@@ -490,11 +536,11 @@ msgstr "Ντέφι"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr "Κείμενο"
+
 msgid "that way"
 msgstr "προς εκείνη την κατεύθυνση"
-
-msgid "think"
-msgstr "σκέψου"
 
 msgid "this script"
 msgstr "αυτό το σενάριο"
@@ -516,20 +562,23 @@ msgstr ""
 "Για να διαγράψετε τον ορισμό ενός μπλοκ, θα πρέπει πρώτα να το διαγράψετε "
 "από όπου χρησιμοποιείται."
 
-msgid "top-left"
-msgstr "πάνω-αριστερά"
-
-msgid "top-right"
-msgstr "πάνω-δεξιά"
-
 msgid "Triangle"
 msgstr "Τρίγωνο"
 
 msgid "Trombone"
 msgstr "Τρομπόνι"
 
+msgid "Turbo Mode"
+msgstr "Λειτουργία γρήγορης εκτέλεσης"
+
 msgid "undo"
 msgstr "Αναίρεση"
+
+msgid "Ungroup"
+msgstr "Διαχωρισμός"
+
+msgid "unshared"
+msgstr "δεν έχει μοιραστεί"
 
 msgid "up"
 msgstr "Πάνω"
@@ -552,9 +601,6 @@ msgstr "Ένταση"
 msgid "whirl"
 msgstr "στροβίλισμα"
 
-msgid "whisper"
-msgstr "ψίθυρος"
-
 msgid "Wood Block"
 msgstr "Τουβλάκι από ξύλο"
 
@@ -569,6 +615,45 @@ msgstr "Θέση y"
 
 msgid "year"
 msgstr "χρόνος"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "κάτω-αριστερά"
+
+#~ msgid "bottom-right"
+#~ msgstr "κάτω-δεξιά"
+
+#~ msgid "middle"
+#~ msgstr "μεσσαίο"
+
+#~ msgid "name"
+#~ msgstr "όνομα"
+
+#~ msgid "New"
+#~ msgstr "Νέο"
+
+#~ msgid "New sprite:"
+#~ msgstr "Νέα μορφή:"
+
+#~ msgid "say"
+#~ msgstr "πες"
+
+#~ msgid "shout"
+#~ msgstr "φώναξε"
+
+#~ msgid "think"
+#~ msgstr "σκέψου"
+
+#~ msgid "top-left"
+#~ msgstr "πάνω-αριστερά"
+
+#~ msgid "top-right"
+#~ msgstr "πάνω-δεξιά"
+
+#~ msgid "whisper"
+#~ msgstr "ψίθυρος"
 
 #~ msgid "any"
 #~ msgstr "οποιοδήποτε"

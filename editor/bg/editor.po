@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2013-01-29 20:51+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"POT-Creation-Date: 2013-02-11 10:47+0200\n"
+"PO-Revision-Date: 2013-03-11 11:20+0200\n"
+"Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -12,9 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr ""
 
 msgid "10 ^"
 msgstr ""
@@ -29,16 +26,16 @@ msgid "acos"
 msgstr ""
 
 msgid "Add a boolean input:"
-msgstr ""
+msgstr "Добавяне на логически вход:"
 
 msgid "Add a number input:"
-msgstr ""
+msgstr "Добавяне на числов вход:"
 
 msgid "Add a string input:"
-msgstr ""
+msgstr "Добавяне на текстов вход:"
 
 msgid "add comment"
-msgstr ""
+msgstr "добавяне на коментар"
 
 msgid "Add label text:"
 msgstr ""
@@ -58,14 +55,23 @@ msgstr ""
 msgid "B connected"
 msgstr ""
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "Премести с един слой назад (Shift: Премести най-отзад)"
+
+msgid "backdrop"
+msgstr "декор"
+
 msgid "backdrop #"
-msgstr ""
+msgstr "декор #"
 
 msgid "backdrop name"
-msgstr ""
+msgstr "име на декор"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "декор1"
+
+msgid "backdrops"
+msgstr "декори"
 
 msgid "Backpack"
 msgstr ""
@@ -82,17 +88,14 @@ msgstr "Фагот"
 msgid "Bongo"
 msgstr ""
 
-msgid "bottom-left"
-msgstr ""
-
-msgid "bottom-right"
-msgstr ""
-
 msgid "brightness"
 msgstr "яркост"
 
 msgid "button pressed"
 msgstr "бутон натиснат"
+
+msgid "by"
+msgstr ""
 
 msgid "C connected"
 msgstr ""
@@ -104,7 +107,7 @@ msgid "Camera"
 msgstr "Камера"
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Не може да се изтрие"
 
 msgid "ceiling"
 msgstr ""
@@ -134,22 +137,22 @@ msgid "Conga"
 msgstr ""
 
 msgid "copy"
-msgstr "Копирай"
+msgstr "копиране"
 
 msgid "cos"
 msgstr ""
 
 msgid "costume #"
-msgstr ""
+msgstr "костюм #"
 
 msgid "costume name"
-msgstr ""
+msgstr "име на костюм"
 
 msgid "costume1"
-msgstr ""
+msgstr "костюм1"
 
 msgid "costume2"
-msgstr ""
+msgstr "костюм2"
 
 msgid "Cowbell"
 msgstr "Пастирски звънец"
@@ -158,25 +161,25 @@ msgid "Crash Cymbal"
 msgstr ""
 
 msgid "cut"
-msgstr ""
+msgstr "изрязване"
 
 msgid "D connected"
 msgstr ""
 
 msgid "date"
-msgstr ""
+msgstr "дата"
 
 msgid "day of week"
-msgstr ""
+msgstr "ден от седмицата"
 
 msgid "delete"
-msgstr "изтрий"
+msgstr "изтриване"
 
 msgid "direction"
-msgstr ""
+msgstr "посока"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "без въртене"
 
 msgid "down"
 msgstr "надолу"
@@ -185,10 +188,13 @@ msgid "down arrow"
 msgstr "стрелка надолу"
 
 msgid "Duplicate"
-msgstr "изкопирай"
+msgstr "Дублиране"
 
 msgid "duplicate"
-msgstr "изкопирай"
+msgstr "копиране"
+
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Дублиране (Shift: Многократно)"
 
 msgid "e ^"
 msgstr ""
@@ -196,14 +202,14 @@ msgstr ""
 msgid "edge"
 msgstr "ръб"
 
-msgid "edit"
-msgstr "Редактиране"
-
 msgid "Edit"
 msgstr "Редактиране"
 
+msgid "edit"
+msgstr "редактиране"
+
 msgid "Effects"
-msgstr ""
+msgstr "Ефекти"
 
 msgid "Electric Guitar"
 msgstr ""
@@ -211,14 +217,23 @@ msgstr ""
 msgid "Electric Piano"
 msgstr ""
 
-msgid "fade in"
+msgid "Ellipse (Shift: Circle)"
+msgstr "Елипса (Shift: Окръжност)"
+
+msgid "Erase"
 msgstr ""
+
+msgid "fade in"
+msgstr "усилване"
 
 msgid "fade out"
-msgstr ""
+msgstr "затихване"
 
 msgid "File"
-msgstr ""
+msgstr "Файл"
+
+msgid "Fill"
+msgstr "Запълване"
 
 msgid "fisheye"
 msgstr "рибено-око"
@@ -229,8 +244,14 @@ msgstr ""
 msgid "Flute"
 msgstr "Флейта"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "Премести с един слой напред (Shift: Премести най-отпред)"
+
 msgid "ghost"
 msgstr "призрак"
+
+msgid "Group"
+msgstr ""
 
 msgid "Guiro"
 msgstr ""
@@ -242,10 +263,10 @@ msgid "Hand Clap"
 msgstr "Ръкопляскане"
 
 msgid "hour"
-msgstr ""
+msgstr "час"
 
 msgid "Import"
-msgstr "импорт"
+msgstr "Импорт"
 
 msgid "last"
 msgstr "последен"
@@ -257,13 +278,16 @@ msgid "left arrow"
 msgstr "лява стрелка"
 
 msgid "left-right"
-msgstr ""
+msgstr "наляво-надясно"
 
 msgid "Library"
-msgstr ""
+msgstr "Библиотека"
 
 msgid "light"
 msgstr "осветеност"
+
+msgid "Line"
+msgstr "Линия"
 
 msgid "ln"
 msgstr ""
@@ -275,25 +299,22 @@ msgid "login"
 msgstr ""
 
 msgid "louder"
-msgstr ""
+msgstr "по-силно"
 
 msgid "loudness"
-msgstr ""
+msgstr "шумно"
 
 msgid "Marimba"
 msgstr ""
 
 msgid "message1"
-msgstr ""
-
-msgid "middle"
-msgstr ""
+msgstr "съобщение1"
 
 msgid "minute"
-msgstr ""
+msgstr "минута"
 
 msgid "month"
-msgstr ""
+msgstr "месец"
 
 msgid "mosaic"
 msgstr "мозайка"
@@ -310,27 +331,24 @@ msgstr ""
 msgid "myself"
 msgstr ""
 
-msgid "name"
-msgstr ""
-
-#, fuzzy
-msgid "New"
-msgstr "Nouveau"
-
 msgid "New backdrop"
 msgstr ""
 
 msgid "New costume"
-msgstr ""
+msgstr "Нов костюм"
 
 msgid "new message..."
-msgstr ""
+msgstr "ново съобщение..."
 
 msgid "New sound"
-msgstr ""
+msgstr "Нов звук"
 
-msgid "New sprite:"
+# 90%
+msgid "New sprite"
 msgstr "Нов спрайт"
+
+msgid "No motion blocks"
+msgstr "Няма блокове за движение"
 
 msgid "off"
 msgstr "Изключено"
@@ -357,13 +375,19 @@ msgid "Paint"
 msgstr "Рисуване"
 
 msgid "paste"
-msgstr ""
+msgstr "поставяне"
+
+msgid "Pencil"
+msgstr "Молив"
 
 msgid "photo1"
-msgstr ""
+msgstr "снимка1"
 
 msgid "Piano"
 msgstr ""
+
+msgid "Pick up Color"
+msgstr "Взимане на Цвят"
 
 msgid "pixelate"
 msgstr "мрежа"
@@ -381,13 +405,19 @@ msgid "Record"
 msgstr "запис"
 
 msgid "recording1"
-msgstr ""
+msgstr "запис1"
+
+msgid "Rectangle (Shift: Square)"
+msgstr "Правоъгълник (Shift: Квадрат)"
 
 msgid "redo"
-msgstr "Повтори"
+msgstr "повтаряне"
 
 msgid "Remix"
 msgstr ""
+
+msgid "Reshape"
+msgstr "Оформяне"
 
 msgid "resistance-A"
 msgstr ""
@@ -413,25 +443,31 @@ msgstr "дясна стрелка"
 msgid "Saxophone"
 msgstr ""
 
-msgid "say"
-msgstr ""
-
 msgid "Scratch Cat"
 msgstr ""
 
+msgid "Scripts"
+msgstr "Сценарии"
+
 msgid "second"
-msgstr ""
+msgstr "секунда"
 
 msgid "See project page"
 msgstr ""
 
+msgid "Select"
+msgstr "Маркиране"
+
 msgid "select all"
-msgstr ""
+msgstr "маркиране на всичко"
+
+msgid "Set Costume Center"
+msgstr "Избиране център на костюм"
 
 msgid "Share"
 msgstr ""
 
-msgid "shout"
+msgid "shared"
 msgstr ""
 
 msgid "show receivers"
@@ -444,7 +480,7 @@ msgid "Side Stick"
 msgstr ""
 
 msgid "silence"
-msgstr ""
+msgstr "тишина"
 
 msgid "sin"
 msgstr ""
@@ -459,13 +495,17 @@ msgid "Snare Drum"
 msgstr ""
 
 msgid "softer"
-msgstr ""
+msgstr "по-слабо"
 
 msgid "sound"
 msgstr ""
 
 msgid "space"
 msgstr "интервал"
+
+# 85%
+msgid "Sprite"
+msgstr "Спрайт"
 
 msgid "Sprites"
 msgstr "Спрайтове"
@@ -475,6 +515,9 @@ msgstr "квадратен корен"
 
 msgid "Stage"
 msgstr "Сцена"
+
+msgid "Stage selected"
+msgstr "Избрана е сцената"
 
 msgid "Steel Drum"
 msgstr ""
@@ -491,35 +534,29 @@ msgstr "Дайре"
 msgid "tan"
 msgstr ""
 
+msgid "Text"
+msgstr "Текст"
+
 msgid "that way"
 msgstr "натам"
 
-msgid "think"
-msgstr ""
-
 msgid "this script"
-msgstr ""
+msgstr "този сценарий"
 
 msgid "this sprite"
-msgstr ""
+msgstr "този спрайт"
 
 msgid "this way"
 msgstr "насам"
 
 msgid "timer"
-msgstr ""
+msgstr "таймер"
 
 msgid "Tips"
-msgstr ""
+msgstr "Съвети"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr ""
-
-msgid "top-left"
-msgstr ""
-
-msgid "top-right"
-msgstr ""
+msgstr "За да изтриете дефиниция на блок, първо премахнете използването му."
 
 msgid "Triangle"
 msgstr ""
@@ -527,8 +564,17 @@ msgstr ""
 msgid "Trombone"
 msgstr "Тромбон"
 
+msgid "Turbo Mode"
+msgstr ""
+
 msgid "undo"
 msgstr "Отмяна"
+
+msgid "Ungroup"
+msgstr ""
+
+msgid "unshared"
+msgstr ""
 
 msgid "up"
 msgstr "нагоре"
@@ -551,9 +597,6 @@ msgstr ""
 msgid "whirl"
 msgstr "завихряне"
 
-msgid "whisper"
-msgstr ""
-
 msgid "Wood Block"
 msgstr ""
 
@@ -561,13 +604,20 @@ msgid "Wooden Flute"
 msgstr ""
 
 msgid "x position"
-msgstr ""
+msgstr "x позиция"
 
 msgid "y position"
-msgstr ""
+msgstr "y позиция"
 
 msgid "year"
-msgstr ""
+msgstr "година"
+
+#, fuzzy
+#~ msgid "New"
+#~ msgstr "Nouveau"
+
+#~ msgid "New sprite:"
+#~ msgstr "Нов спрайт"
 
 #~ msgid "any"
 #~ msgstr "произволен"

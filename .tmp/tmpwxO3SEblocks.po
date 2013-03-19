@@ -1,0 +1,506 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-11 10:35+0200\n"
+"PO-Revision-Date: 2013-02-19 00:40+0200\n"
+"Last-Translator: Suha <suhaaktan@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Türkçe"
+
+msgid "%b and %b"
+msgstr "%b ve %b"
+
+msgid "%b or %b"
+msgstr "%b veya %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute sı %m.spriteOrStage in"
+
+msgid "%m.list contains %s"
+msgstr "%m.list de %s var"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp si %n in"
+
+msgid "%m.sensor sensor value"
+msgstr "sensör değeri %m.sensor"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "%s i %m.list e ekle"
+
+msgid "answer"
+msgstr "yanıt"
+
+msgid "ask %s and wait"
+msgstr "%s diye sor ve bekle"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "arka perde #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "arka perdenin adı"
+
+msgid "broadcast %m.broadcast"
+msgstr "%m.broadcast haberini sal"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "%m.broadcast haberini sal ve bekle"
+
+msgid "change %m.effect effect by %n"
+msgstr "%m.effect etkisini %n arttır"
+
+msgid "change %m.var by %n"
+msgstr "%m.var i %n arttır"
+
+msgid "change pen color by %n"
+msgstr "kalem rengini %n arttır"
+
+msgid "change pen shade by %n"
+msgstr "kalem tonunu %n arttır"
+
+msgid "change pen size by %n"
+msgstr "kalem kalınlığını %n arttır"
+
+msgid "change size by %n"
+msgstr "%n birim büyüt"
+
+msgid "change tempo by %n"
+msgstr "tempoyu %n arttır"
+
+msgid "change volume by %n"
+msgstr "sesi %n birim yükselt"
+
+msgid "change x by %n"
+msgstr "x'i %n arttır"
+
+msgid "change y by %n"
+msgstr "y'yi %n arttır"
+
+msgid "clear"
+msgstr "temizle"
+
+msgid "clear graphic effects"
+msgstr "görsel etkileri temizle"
+
+msgid "color %c is touching %c?"
+msgstr "%c rengi %c rengine değdi mi?"
+
+msgid "Control"
+msgstr "Kontrol"
+
+msgid "costume #"
+msgstr "kılık #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "%m.spriteOnly in ikizini yarat"
+
+msgid "current %m.timeAndDate"
+msgstr "şimdiki %m.timeAndDate"
+
+msgid "Data"
+msgstr "Veri"
+
+msgid "days since 2000"
+msgstr "2000'den beri geçen gün"
+
+msgid "define"
+msgstr "tanımla"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "sil %d.listDeleteItem ini %m.list in"
+
+msgid "delete this clone"
+msgstr "bu ikizi sil"
+
+msgid "direction"
+msgstr "yön"
+
+msgid "distance"
+msgstr "mesafe"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse a mesafe"
+
+msgid "else"
+msgstr "değilse"
+
+msgid "Events"
+msgstr "Olaylar"
+
+msgid "forever"
+msgstr "sürekli"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n saniyede x:%n y:%n a git"
+
+msgid "go back %n layers"
+msgstr "%n katman geriye git"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse a git"
+
+msgid "go to front"
+msgstr "öne git"
+
+msgid "go to x:%n y:%n"
+msgstr "x:%n y:%n a git"
+
+msgid "hide"
+msgstr "gizlen"
+
+msgid "hide list %m.list"
+msgstr "%m.list listesini gizle"
+
+msgid "hide variable %m.var"
+msgstr "%m.var değişkenini gizle"
+
+msgid "if %b then"
+msgstr "eğer %b ise "
+
+msgid "if on edge, bounce"
+msgstr "kenara geldiysen sek"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "koy %s i , %d.listItem . sırasına %m.list in"
+
+msgid "item %d.listItem of %m.list"
+msgstr "%d.listItem . sırasındaki %m.list in"
+
+msgid "join %s %s"
+msgstr "%s ile %s i birleştir"
+
+msgid "key %m.key pressed?"
+msgstr "%m.key tuşu basılı mı?"
+
+msgid "length of %m.list"
+msgstr "%m.list in uzunluğu"
+
+msgid "length of %s"
+msgstr "%s in uzunluğu"
+
+msgid "letter %n of %s"
+msgstr "%n . harfi %s nin"
+
+msgid "Looks"
+msgstr "Görünüm"
+
+msgid "loudness"
+msgstr "ses şiddeti"
+
+msgid "More Blocks"
+msgstr "Diğer Bloklar"
+
+msgid "Motion"
+msgstr "Hareket"
+
+msgid "mouse down?"
+msgstr "fareye basılı mı?"
+
+msgid "mouse x"
+msgstr "farenin x'i"
+
+msgid "mouse y"
+msgstr "farenin y'si"
+
+msgid "move %n steps"
+msgstr "%n adım git"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "sonraki arka perde"
+
+msgid "next costume"
+msgstr "sonraki kılık"
+
+msgid "not %b"
+msgstr "%b değil"
+
+msgid "Operators"
+msgstr "İşlemler"
+
+msgid "Pen"
+msgstr "Kalem"
+
+msgid "pen down"
+msgstr "kalemi bastır"
+
+msgid "pen up"
+msgstr "kalemi kaldır"
+
+msgid "pick random %n to %n"
+msgstr "%n ile %n arasında bir sayı tut"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "%d.drum davulunu %n vuruş çal"
+
+# 83%
+msgid "play note %d.note for %n beats"
+msgstr "%d.note notasını %n vuruş çal"
+
+msgid "play sound %m.sound"
+msgstr "%m.sound sesini çal"
+
+msgid "play sound %m.sound until done"
+msgstr "%m.sound sesini bitene kadar çal"
+
+msgid "point in direction %d.direction"
+msgstr "%d.direction yönüne dön"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse a doğru dön"
+
+msgid "repeat %n"
+msgstr "%n defa tekrarla"
+
+msgid "repeat until %b"
+msgstr "%b olana kadar tekrarla"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "değiştir %d.listItem ini %m.list in %s ile"
+
+msgid "reset timer"
+msgstr "süre ölçeri sıfırla"
+
+msgid "rest for %n beats"
+msgstr "%n vuruş sus"
+
+msgid "round %n"
+msgstr "%n i yuvarla"
+
+msgid "say %s"
+msgstr "%s de"
+
+msgid "say %s for %n secs"
+msgstr "%s de %n saniye"
+
+msgid "Sensing"
+msgstr "Algılama"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "almaç %m.booleanSensor ?"
+
+msgid "set %m.effect effect to %n"
+msgstr "%m.effect etkisini %n yap"
+
+msgid "set %m.var to %s"
+msgstr "%m.var i %s yap"
+
+msgid "set instrument to %d.instrument"
+msgstr "çalgıyı %d.instrument yap"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "motor yönünü %m.motorDirection yap"
+
+# 77%
+msgid "set motor power %n"
+msgstr "motor gücünü %n yap"
+
+msgid "set pen color to %c"
+msgstr "kalem rengini %c yap"
+
+msgid "set pen color to %n"
+msgstr "kalem rengini %n yap"
+
+msgid "set pen shade to %n"
+msgstr "kalem tonunu %n yap"
+
+msgid "set pen size to %n"
+msgstr "kalem kalınlığını %n yap"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "dönüş tarzını %m.rotationStyle yap"
+
+msgid "set size to %n%"
+msgstr "büyüklüğü % %n yap"
+
+msgid "set tempo to %n bpm"
+msgstr "tempoyu %n vuruş/dk yap"
+
+msgid "set video transparency to %n%"
+msgstr "video saydamlığını %n% yap"
+
+msgid "set volume to %n%"
+msgstr "ses şiddetini %n% yap"
+
+msgid "set x to %n"
+msgstr "x'i %n yap"
+
+msgid "set y to %n"
+msgstr "y'yi %n yap"
+
+msgid "show"
+msgstr "görün"
+
+msgid "show list %m.list"
+msgstr "%m.list listesini göster"
+
+msgid "show variable %m.var"
+msgstr "%m.var değişkenini göster"
+
+msgid "size"
+msgstr "büyüklük"
+
+msgid "Sound"
+msgstr "Ses"
+
+msgid "stamp"
+msgstr "damga"
+
+msgid "stop %m.stop"
+msgstr "%m.stop ni durdur"
+
+msgid "stop all sounds"
+msgstr "tüm sesleri durdur"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "%m.backdrop arka perdesine geç"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "%m.backdrop arka perdesine geç ve bekle"
+
+msgid "switch costume to %m.costume"
+msgstr "%m.costume kılığına geç"
+
+msgid "tempo"
+msgstr "tempo"
+
+msgid "think %s"
+msgstr "%s diye düşün"
+
+msgid "think %s for %n secs"
+msgstr "%s diye düşün %n saniye"
+
+msgid "tilt"
+msgstr "yana eğil"
+
+msgid "timer"
+msgstr "süre ölçer"
+
+msgid "touching %m.touching?"
+msgstr "%m.touching a değdi mi?"
+
+msgid "touching color %c?"
+msgstr "%c rengine değdi mi?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "@turnLeft %n derece dön"
+
+msgid "turn @turnRight %n degrees"
+msgstr "@turnRight %n derece dön"
+
+msgid "turn motor off"
+msgstr "motoru kapat"
+
+msgid "turn motor on"
+msgstr "motoru çalıştır"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "%n saniye motoru çalıştır"
+
+msgid "turn video %m.videoState"
+msgstr "videoyu %m.videoState"
+
+msgid "user id"
+msgstr "kullanıcı kimliği"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "video %m.videoMotionType, %m.stageOrThis üzerindeki"
+
+msgid "volume"
+msgstr "ses şiddeti"
+
+msgid "wait %n secs"
+msgstr "%n saniye bekle"
+
+msgid "wait until %b"
+msgstr "%b olana kadar bekle"
+
+# 75%
+msgid "when %m.booleanSensor"
+msgstr "%m.booleanSensor olduğunda"
+
+msgid "when %m.key key pressed"
+msgstr "%m.key tuşu basıldığında"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "%m.triggerSensor > %n olduğunda"
+
+msgid "when @greenFlag clicked"
+msgstr "@greenFlag tıklanınca"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "arka perde %m.backdrop olduğunda"
+
+msgid "when distance < %n"
+msgstr "mesafe %n'den küçük olduğunda"
+
+msgid "when I receive %m.broadcast"
+msgstr "%m.broadcast haberi gelince"
+
+msgid "when I start as a clone"
+msgstr "ikiz olarak başladığımda"
+
+msgid "when this sprite clicked"
+msgstr "bu kukla tıklanınca"
+
+msgid "when tilt = %n"
+msgstr "eğiklik %n olunca"
+
+msgid "x position"
+msgstr "x konumu"
+
+msgid "y position"
+msgstr "y konumu"
+
+#~ msgid "clone startup"
+#~ msgstr "ikiz başlangıcı"
+
+#~ msgid "forever if %b"
+#~ msgstr "%b ise sürekli"
+
+#~ msgid "hide all sprites"
+#~ msgstr "tüm kuklaları gizle"
+
+#~ msgid "if %b"
+#~ msgstr "eğer %b ise"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch günleri"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "%m.motorDirection motor yönü"
+
+#~ msgid "motor off"
+#~ msgstr "motor kapalı"
+
+#~ msgid "motor on"
+#~ msgstr "motor açık"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "%n saniye için motor açık"
+
+#~ msgid "motor power %n"
+#~ msgstr "motor gücü %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "%d.note notasını %n defa çalın"

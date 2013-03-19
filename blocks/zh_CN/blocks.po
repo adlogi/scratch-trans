@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:35+0200\n"
-"PO-Revision-Date: 2013-01-31 05:03+0200\n"
+"PO-Revision-Date: 2013-02-20 03:56+0200\n"
 "Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -39,7 +39,7 @@ msgid "%n mod %n"
 msgstr "%n 除以 %n 的余数"
 
 msgid "add %s to %m.list"
-msgstr "将 %s 加入链表 %m.list"
+msgstr "将 %s 加入列表 %m.list"
 
 msgid "answer"
 msgstr "回答"
@@ -49,7 +49,7 @@ msgstr "询问 %s 并等待"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "背景编号"
+msgstr "背景 #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
@@ -98,16 +98,16 @@ msgid "clear graphic effects"
 msgstr "清除所有图形特效"
 
 msgid "color %c is touching %c?"
-msgstr "颜色 %c 碰到了 颜色 %c?"
+msgstr "颜色 %c接触 %c?"
 
 msgid "Control"
 msgstr "控制"
 
 msgid "costume #"
-msgstr "造型编号"
+msgstr "造型 #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "创建%m.spriteOnly的克隆"
+msgstr "创建 %m.spriteOnly的克隆"
 
 msgid "current %m.timeAndDate"
 msgstr "当前时间 %m.timeAndDate"
@@ -116,7 +116,7 @@ msgid "Data"
 msgstr "数据"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "2000年之后的天数"
 
 msgid "define"
 msgstr "定义"
@@ -170,16 +170,16 @@ msgid "hide variable %m.var"
 msgstr "隐藏变量 %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "如果 %b 那么"
 
 msgid "if on edge, bounce"
 msgstr "碰到边缘就反弹"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "将 %s 插入到链表%m.list的 %d.listItem 位置"
+msgstr "将 %s 插入到列表 %m.list的 %d.listItem 位置"
 
 msgid "item %d.listItem of %m.list"
-msgstr "链表%m.list的第%d.listItem 项"
+msgstr "列表 %m.list的第 %d.listItem 项"
 
 msgid "join %s %s"
 msgstr "将 %s 加入到 %s 的后面"
@@ -188,13 +188,13 @@ msgid "key %m.key pressed?"
 msgstr "按键 %m.key 是否按下？"
 
 msgid "length of %m.list"
-msgstr "链表 %m.list 的长度"
+msgstr "列表 %m.list 的长度"
 
 msgid "length of %s"
 msgstr "%s 的长度"
 
 msgid "letter %n of %s"
-msgstr "%s 的第 %n 个字符"
+msgstr "%s 的第 %n个字母"
 
 msgid "Looks"
 msgstr "外观"
@@ -209,7 +209,7 @@ msgid "Motion"
 msgstr "动作"
 
 msgid "mouse down?"
-msgstr "按下鼠标?"
+msgstr "鼠标下移？"
 
 msgid "mouse x"
 msgstr "鼠标的x坐标"
@@ -271,7 +271,7 @@ msgid "repeat until %b"
 msgstr "重复执行直到 %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "把链表 %m.list 的第 %d.listItem 项替换为 %s"
+msgstr "把 %m.list 的第 %d.listItem 项替换为 %s"
 
 msgid "reset timer"
 msgstr "计时器归零"
@@ -292,13 +292,13 @@ msgid "Sensing"
 msgstr "侦测"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "传感器 %m.booleanSensor"
+msgstr "传感器 %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
 msgstr "将 %m.effect 特效设定为 %n"
 
 msgid "set %m.var to %s"
-msgstr "将变量 %m.var 的值设定为 %n"
+msgstr "将 %m.var 设定为 %n"
 
 msgid "set instrument to %d.instrument"
 msgstr "设定乐器为 %d.instrument"
@@ -315,7 +315,7 @@ msgid "set pen color to %c"
 msgstr "将画笔的颜色设定为 %c"
 
 msgid "set pen color to %n"
-msgstr "将画笔的颜色设定为 %c"
+msgstr "将画笔的色值设定为 %n"
 
 msgid "set pen shade to %n"
 msgstr "将画笔的色度设定为 %n"
@@ -370,14 +370,14 @@ msgstr "停止所有声音"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "将背景转换成%m.backdrop"
+msgstr "将背景转换成 %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "将背景转换成 %m.backdrop并等待"
+msgstr "将背景转换成 %m.backdrop 并等待"
 
 msgid "switch costume to %m.costume"
-msgstr "将造型转换成%m.costume"
+msgstr "将造型转换成 %m.costume"
 
 msgid "tempo"
 msgstr "节奏"
@@ -395,16 +395,16 @@ msgid "timer"
 msgstr "计时器"
 
 msgid "touching %m.touching?"
-msgstr "碰到 %m.touching"
+msgstr "接触 %m.touching?"
 
 msgid "touching color %c?"
-msgstr "碰到颜色 %c"
+msgstr "接触颜色%c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "旋转 @turnLeft %n 度"
+msgstr "向左旋转 @turnLeft %n 度"
 
 msgid "turn @turnRight %n degrees"
-msgstr "旋转 @turnRight %n 度"
+msgstr "向右旋转 @turnRight %n 度"
 
 msgid "turn motor off"
 msgstr "关闭马达"
@@ -417,13 +417,13 @@ msgid "turn motor on for %n secs"
 msgstr "启动马达 %n 秒"
 
 msgid "turn video %m.videoState"
-msgstr "将摄像头"
+msgstr "将摄像头 %m.videoState"
 
 msgid "user id"
 msgstr "用户名"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "录制 %m.stageOrThis 的 %m.videoMotionType "
+msgstr "录制 %m.stageOrThis 的 %m.videoMotionType"
 
 msgid "volume"
 msgstr "音量"
@@ -432,7 +432,7 @@ msgid "wait %n secs"
 msgstr "等待 %n 秒"
 
 msgid "wait until %b"
-msgstr "直到 %b 前都等待著"
+msgstr "在 %b 之前一直等待"
 
 # 75%
 msgid "when %m.booleanSensor"
@@ -458,7 +458,7 @@ msgid "when I receive %m.broadcast"
 msgstr "当接收到 %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "当我作为一个克隆开始"
 
 msgid "when this sprite clicked"
 msgstr "当点击该角色时"

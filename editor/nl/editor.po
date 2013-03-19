@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:52+0200\n"
-"PO-Revision-Date: 2013-02-09 13:16+0200\n"
+"POT-Creation-Date: 2013-02-11 10:49+0200\n"
+"PO-Revision-Date: 2013-02-15 18:48+0200\n"
 "Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -12,9 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr "#"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -46,9 +43,9 @@ msgstr "Voeg label toe:"
 msgid "all"
 msgstr "alle"
 
-#, fuzzy
+# wordt waarschijnlijk gebruikt bij rotatiemogelijkheden van een sprite
 msgid "all around"
-msgstr "rondom"
+msgstr "helemaal rond"
 
 msgid "asin"
 msgstr "asin"
@@ -59,6 +56,12 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B verbonden"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "Eén laag naar beneden (Shift: helemaal naar achteren)"
+
+msgid "backdrop"
+msgstr "achtergrond"
+
 msgid "backdrop #"
 msgstr "achtergrond #"
 
@@ -67,6 +70,9 @@ msgstr "achtergrondnaam"
 
 msgid "backdrop1"
 msgstr "achtergrond1"
+
+msgid "backdrops"
+msgstr "achtergronden"
 
 msgid "Backpack"
 msgstr "Rugzak"
@@ -83,17 +89,14 @@ msgstr "Fagot"
 msgid "Bongo"
 msgstr "Bongo"
 
-msgid "bottom-left"
-msgstr "linksonder"
-
-msgid "bottom-right"
-msgstr "rechtsonder"
-
 msgid "brightness"
 msgstr "helderheid"
 
 msgid "button pressed"
 msgstr "knop ingedrukt"
+
+msgid "by"
+msgstr "met/door"
 
 msgid "C connected"
 msgstr "C verbonden"
@@ -193,17 +196,20 @@ msgstr "Kopie maken"
 msgid "duplicate"
 msgstr "kopie maken"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Kopie maken (Shift: meerdere kopieën)"
+
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
 msgstr "rand"
 
-msgid "edit"
-msgstr "bewerken"
-
 msgid "Edit"
 msgstr "Bewerken"
+
+msgid "edit"
+msgstr "bewerken"
 
 msgid "Effects"
 msgstr "Effecten"
@@ -214,14 +220,23 @@ msgstr "Elektrische gitaar"
 msgid "Electric Piano"
 msgstr "Elektrische piano"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr "Ovaal (Shift: cirkel)"
+
+msgid "Erase"
+msgstr "Wissen"
+
 msgid "fade in"
 msgstr "fade in"
 
 msgid "fade out"
-msgstr "fade out"
+msgstr "fade uit"
 
 msgid "File"
 msgstr "Bestand"
+
+msgid "Fill"
+msgstr "Vullen"
 
 msgid "fisheye"
 msgstr "vissenoog"
@@ -232,8 +247,14 @@ msgstr "vloer"
 msgid "Flute"
 msgstr "Dwarsfluit"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "Eén laag naar voren (Shift: helemaal naar voren)"
+
 msgid "ghost"
 msgstr "geest"
+
+msgid "Group"
+msgstr "Groeperen"
 
 msgid "Guiro"
 msgstr "Güiro"
@@ -268,6 +289,9 @@ msgstr "Bibliotheek"
 msgid "light"
 msgstr "licht"
 
+msgid "Line"
+msgstr "Lijn"
+
 msgid "ln"
 msgstr "ln"
 
@@ -288,9 +312,6 @@ msgstr "Marimba"
 
 msgid "message1"
 msgstr "bericht1"
-
-msgid "middle"
-msgstr "midden"
 
 msgid "minute"
 msgstr "minuut"
@@ -313,12 +334,6 @@ msgstr "Speeldoos"
 msgid "myself"
 msgstr "mijzelf"
 
-msgid "name"
-msgstr "naam"
-
-msgid "New"
-msgstr "Nieuw"
-
 msgid "New backdrop"
 msgstr "Nieuwe achtergrond"
 
@@ -331,8 +346,12 @@ msgstr "nieuw bericht..."
 msgid "New sound"
 msgstr "Nieuw geluid"
 
-msgid "New sprite:"
-msgstr "Nieuwe sprite:"
+# 90%
+msgid "New sprite"
+msgstr "Nieuwe sprite"
+
+msgid "No motion blocks"
+msgstr "Geen beweegblokken"
 
 msgid "off"
 msgstr "uit"
@@ -361,11 +380,17 @@ msgstr "Tekenen"
 msgid "paste"
 msgstr "plakken"
 
+msgid "Pencil"
+msgstr "Potlood"
+
 msgid "photo1"
 msgstr "foto1"
 
 msgid "Piano"
 msgstr "Piano"
+
+msgid "Pick up Color"
+msgstr "Kies een kleur"
 
 msgid "pixelate"
 msgstr "pixeleren"
@@ -385,11 +410,17 @@ msgstr "Opnemen"
 msgid "recording1"
 msgstr "opname1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr "Rechthoek (Shift: vierkant)"
+
 msgid "redo"
 msgstr "opnieuw"
 
 msgid "Remix"
 msgstr "Remix"
+
+msgid "Reshape"
+msgstr "Opnieuw vormen"
 
 msgid "resistance-A"
 msgstr "weerstand-A"
@@ -415,11 +446,11 @@ msgstr "pijltje naar rechts"
 msgid "Saxophone"
 msgstr "Saxofoon"
 
-msgid "say"
-msgstr "zeg"
-
 msgid "Scratch Cat"
 msgstr "Scratch kat"
+
+msgid "Scripts"
+msgstr "Scripts"
 
 msgid "second"
 msgstr "seconde"
@@ -427,20 +458,26 @@ msgstr "seconde"
 msgid "See project page"
 msgstr "Bekijk project pagina"
 
+msgid "Select"
+msgstr "Selecteer"
+
 msgid "select all"
 msgstr "alles selecteren"
+
+msgid "Set Costume Center"
+msgstr "Middelpunt van uiterlijk bepalen"
 
 msgid "Share"
 msgstr "Delen"
 
-msgid "shout"
-msgstr "schreeuw"
+msgid "shared"
+msgstr "gedeeld"
 
 msgid "show receivers"
 msgstr "ontvangers weergeven"
 
 msgid "show senders"
-msgstr "verzenders weergeven"
+msgstr "zenders weergeven"
 
 msgid "Side Stick"
 msgstr "Randklap"
@@ -458,7 +495,7 @@ msgid "slider"
 msgstr "schuif"
 
 msgid "Snare Drum"
-msgstr "Kleine Trom"
+msgstr "Kleine trom"
 
 msgid "softer"
 msgstr "zachter"
@@ -469,6 +506,9 @@ msgstr "geluid"
 msgid "space"
 msgstr "spatiebalk"
 
+msgid "Sprite"
+msgstr "Sprite"
+
 msgid "Sprites"
 msgstr "Sprites"
 
@@ -477,6 +517,9 @@ msgstr "wortel"
 
 msgid "Stage"
 msgstr "Speelveld"
+
+msgid "Stage selected"
+msgstr "Geselecteerd speelveld"
 
 msgid "Steel Drum"
 msgstr "Steeldrum"
@@ -493,11 +536,11 @@ msgstr "Tamboerijn"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr "Tekst"
+
 msgid "that way"
 msgstr "daarheen"
-
-msgid "think"
-msgstr "denk"
 
 msgid "this script"
 msgstr "dit script"
@@ -520,20 +563,23 @@ msgstr ""
 "Om een blokdefinitie te verwijderen, moet je eerst zorgen dat het nergens "
 "meer wordt gebruikt."
 
-msgid "top-left"
-msgstr "linksboven"
-
-msgid "top-right"
-msgstr "rechtsboven"
-
 msgid "Triangle"
 msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Trombone"
 
+msgid "Turbo Mode"
+msgstr "Turbomodus"
+
 msgid "undo"
 msgstr "ongedaan maken"
+
+msgid "Ungroup"
+msgstr "Groep opheffen"
+
+msgid "unshared"
+msgstr "ongedeeld"
 
 msgid "up"
 msgstr "omhoog"
@@ -556,9 +602,6 @@ msgstr "volume"
 msgid "whirl"
 msgstr "draaikolk"
 
-msgid "whisper"
-msgstr "fluister"
-
 msgid "Wood Block"
 msgstr "Woodblock"
 
@@ -573,6 +616,45 @@ msgstr "y-positie"
 
 msgid "year"
 msgstr "jaar"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "linksonder"
+
+#~ msgid "bottom-right"
+#~ msgstr "rechtsonder"
+
+#~ msgid "middle"
+#~ msgstr "midden"
+
+#~ msgid "name"
+#~ msgstr "naam"
+
+#~ msgid "New"
+#~ msgstr "Nieuw"
+
+#~ msgid "New sprite:"
+#~ msgstr "Nieuwe sprite:"
+
+#~ msgid "say"
+#~ msgstr "zeg"
+
+#~ msgid "shout"
+#~ msgstr "schreeuw"
+
+#~ msgid "think"
+#~ msgstr "denk"
+
+#~ msgid "top-left"
+#~ msgstr "linksboven"
+
+#~ msgid "top-right"
+#~ msgstr "rechtsboven"
+
+#~ msgid "whisper"
+#~ msgstr "fluister"
 
 #~ msgid "any"
 #~ msgstr "willekeurig"

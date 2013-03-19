@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2013-02-06 17:54+0200\n"
+"PO-Revision-Date: 2013-02-18 21:54+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
 
-msgid "#"
-msgstr "#"
+#~ msgid "#"
+#~ msgstr "#"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -47,7 +47,7 @@ msgid "all"
 msgstr "kõik"
 
 msgid "all around"
-msgstr "saab pöörelda"
+msgstr "kõikjal"
 
 msgid "asin"
 msgstr "asin"
@@ -68,7 +68,7 @@ msgid "backdrop1"
 msgstr "taust1"
 
 msgid "Backpack"
-msgstr "Seljakott"
+msgstr "Pagas"
 
 msgid "Bass"
 msgstr "Bass"
@@ -79,14 +79,15 @@ msgstr "basstrumm"
 msgid "Bassoon"
 msgstr "Fagott"
 
+#, fuzzy
 msgid "Bongo"
 msgstr "bongo"
 
-msgid "bottom-left"
-msgstr "all vasakul"
+#~ msgid "bottom-left"
+#~ msgstr "all vasakul"
 
-msgid "bottom-right"
-msgstr "all paremal"
+#~ msgid "bottom-right"
+#~ msgstr "all paremal"
 
 msgid "brightness"
 msgstr "heledus"
@@ -219,7 +220,7 @@ msgid "fade out"
 msgstr "tuhmumine välja"
 
 msgid "File"
-msgstr ""
+msgstr "Fail"
 
 msgid "fisheye"
 msgstr "kalasilm"
@@ -233,8 +234,9 @@ msgstr "Flööt"
 msgid "ghost"
 msgstr "kummitus"
 
+#, fuzzy
 msgid "Guiro"
-msgstr ""
+msgstr "Guiro"
 
 msgid "Guitar"
 msgstr "Gitar"
@@ -311,13 +313,13 @@ msgstr "Music Box"
 
 #, fuzzy
 msgid "myself"
-msgstr "mina"
+msgstr "ennast"
 
-msgid "name"
-msgstr "nimi"
+#~ msgid "name"
+#~ msgstr "nimi"
 
-msgid "New"
-msgstr "Uus"
+#~ msgid "New"
+#~ msgstr "Uus"
 
 msgid "New backdrop"
 msgstr "Uus taust"
@@ -331,8 +333,8 @@ msgstr "uus teade..."
 msgid "New sound"
 msgstr "Uus heli"
 
-msgid "New sprite:"
-msgstr "Uus sprait:"
+#~ msgid "New sprite:"
+#~ msgstr "Uus sprait:"
 
 msgid "off"
 msgstr "väljas"
@@ -404,9 +406,8 @@ msgstr "takistus-C"
 msgid "resistance-D"
 msgstr "takistus-D"
 
-#, fuzzy
 msgid "reverse"
-msgstr "muuda suunda"
+msgstr "reverse"
 
 msgid "right"
 msgstr "parem"
@@ -417,8 +418,8 @@ msgstr "paremnool"
 msgid "Saxophone"
 msgstr "Saksafon"
 
-msgid "say"
-msgstr "ütle"
+#~ msgid "say"
+#~ msgstr "ütle"
 
 msgid "Scratch Cat"
 msgstr "Kraps"
@@ -499,8 +500,8 @@ msgstr "tan"
 msgid "that way"
 msgstr "nii"
 
-msgid "think"
-msgstr "mõtle"
+#~ msgid "think"
+#~ msgstr "mõtle"
 
 msgid "this script"
 msgstr "see skript"
@@ -520,11 +521,11 @@ msgstr "Selgitused"
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "Enne ploki kirjelduse eemaldamist, eemalda kõik ploki kasutused."
 
-msgid "top-left"
-msgstr "ülal vasakul"
+#~ msgid "top-left"
+#~ msgstr "ülal vasakul"
 
-msgid "top-right"
-msgstr "ülal paremal"
+#~ msgid "top-right"
+#~ msgstr "ülal paremal"
 
 msgid "Triangle"
 msgstr "Triangel"
@@ -556,8 +557,8 @@ msgstr "helitugevus"
 msgid "whirl"
 msgstr "keere"
 
-msgid "whisper"
-msgstr "sosin"
+#~ msgid "whisper"
+#~ msgstr "sosin"
 
 msgid "Wood Block"
 msgstr ""
@@ -639,3 +640,89 @@ msgstr "aasta"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Short Guiro"
+
+msgid "Back a layer (Shift: Send to back)"
+msgstr "1 kiht tahapoole (Shift viib tahaplaanile)"
+
+# 88%
+msgid "backdrop"
+msgstr "taust1"
+
+# 88%
+msgid "backdrops"
+msgstr "taustad"
+
+msgid "by"
+msgstr ""
+
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Paljunda (Shift: korduvalt)"
+
+msgid "Ellipse (Shift: Circle)"
+msgstr "ellips (Shift: ring)"
+
+msgid "Erase"
+msgstr "Kustuta"
+
+msgid "Fill"
+msgstr "Täida"
+
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "1 kiht ettepoole (Shift: esiplaanile)"
+
+msgid "Group"
+msgstr "Grupp"
+
+msgid "Line"
+msgstr "Joon"
+
+# 90%
+msgid "New sprite"
+msgstr "Uus sprait"
+
+msgid "No motion blocks"
+msgstr "Pole liikumiskäske"
+
+msgid "Pencil"
+msgstr "Pliiats"
+
+msgid "Pick up Color"
+msgstr "nopi värv"
+
+msgid "Rectangle (Shift: Square)"
+msgstr "ristkülik (Shift: ruut)"
+
+msgid "Reshape"
+msgstr "Uus kuju"
+
+msgid "Scripts"
+msgstr "Skriptid"
+
+msgid "Select"
+msgstr "Selekti"
+
+msgid "Set Costume Center"
+msgstr "Määra kostüümi kese"
+
+msgid "shared"
+msgstr "ühiskasutuses"
+
+# 85%
+msgid "Sprite"
+msgstr "Sprait"
+
+msgid "Stage selected"
+msgstr "Lava on valitud"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Turbo Mode"
+msgstr "turborežhiim"
+
+#, fuzzy
+msgid "Ungroup"
+msgstr "Lahtigrupeerimine"
+
+msgid "unshared"
+msgstr "pole jagatud"

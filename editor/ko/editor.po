@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:52+0200\n"
-"PO-Revision-Date: 2013-01-31 17:20+0200\n"
+"POT-Creation-Date: 2013-02-11 10:48+0200\n"
+"PO-Revision-Date: 2013-02-11 10:48+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -12,9 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr ""
 
 msgid "10 ^"
 msgstr ""
@@ -58,6 +55,12 @@ msgstr ""
 msgid "B connected"
 msgstr ""
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr ""
+
+msgid "backdrop"
+msgstr ""
+
 msgid "backdrop #"
 msgstr ""
 
@@ -65,6 +68,9 @@ msgid "backdrop name"
 msgstr ""
 
 msgid "backdrop1"
+msgstr ""
+
+msgid "backdrops"
 msgstr ""
 
 msgid "Backpack"
@@ -82,17 +88,14 @@ msgstr "바순"
 msgid "Bongo"
 msgstr ""
 
-msgid "bottom-left"
-msgstr ""
-
-msgid "bottom-right"
-msgstr ""
-
 msgid "brightness"
 msgstr "밝기"
 
 msgid "button pressed"
 msgstr "버튼 누르기"
+
+msgid "by"
+msgstr ""
 
 msgid "C connected"
 msgstr ""
@@ -190,16 +193,19 @@ msgstr "복사"
 msgid "duplicate"
 msgstr "복사"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr ""
+
 msgid "e ^"
 msgstr ""
 
 msgid "edge"
 msgstr "벽"
 
-msgid "edit"
+msgid "Edit"
 msgstr "편집"
 
-msgid "Edit"
+msgid "edit"
 msgstr "편집"
 
 msgid "Effects"
@@ -211,6 +217,12 @@ msgstr ""
 msgid "Electric Piano"
 msgstr ""
 
+msgid "Ellipse (Shift: Circle)"
+msgstr ""
+
+msgid "Erase"
+msgstr ""
+
 msgid "fade in"
 msgstr ""
 
@@ -218,6 +230,9 @@ msgid "fade out"
 msgstr ""
 
 msgid "File"
+msgstr ""
+
+msgid "Fill"
 msgstr ""
 
 msgid "fisheye"
@@ -229,8 +244,14 @@ msgstr ""
 msgid "Flute"
 msgstr "플룻"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr ""
+
 msgid "ghost"
 msgstr "반투명"
+
+msgid "Group"
+msgstr ""
 
 msgid "Guiro"
 msgstr ""
@@ -265,6 +286,9 @@ msgstr ""
 msgid "light"
 msgstr "빛"
 
+msgid "Line"
+msgstr ""
+
 msgid "ln"
 msgstr ""
 
@@ -284,9 +308,6 @@ msgid "Marimba"
 msgstr "마림바"
 
 msgid "message1"
-msgstr ""
-
-msgid "middle"
 msgstr ""
 
 msgid "minute"
@@ -310,13 +331,6 @@ msgstr "뮤직 박스"
 msgid "myself"
 msgstr ""
 
-msgid "name"
-msgstr ""
-
-#, fuzzy
-msgid "New"
-msgstr "Nouveau"
-
 msgid "New backdrop"
 msgstr ""
 
@@ -329,8 +343,13 @@ msgstr ""
 msgid "New sound"
 msgstr ""
 
-msgid "New sprite:"
+# 90%
+#, fuzzy
+msgid "New sprite"
 msgstr "새로운 스프라이트:"
+
+msgid "No motion blocks"
+msgstr ""
 
 msgid "off"
 msgstr "끄기"
@@ -359,10 +378,16 @@ msgstr "그리기"
 msgid "paste"
 msgstr ""
 
+msgid "Pencil"
+msgstr ""
+
 msgid "photo1"
 msgstr ""
 
 msgid "Piano"
+msgstr ""
+
+msgid "Pick up Color"
 msgstr ""
 
 msgid "pixelate"
@@ -383,10 +408,16 @@ msgstr "녹음"
 msgid "recording1"
 msgstr ""
 
+msgid "Rectangle (Shift: Square)"
+msgstr ""
+
 msgid "redo"
 msgstr "재시도"
 
 msgid "Remix"
+msgstr ""
+
+msgid "Reshape"
 msgstr ""
 
 msgid "resistance-A"
@@ -413,10 +444,10 @@ msgstr "오른쪽 화살표"
 msgid "Saxophone"
 msgstr ""
 
-msgid "say"
+msgid "Scratch Cat"
 msgstr ""
 
-msgid "Scratch Cat"
+msgid "Scripts"
 msgstr ""
 
 msgid "second"
@@ -425,13 +456,19 @@ msgstr ""
 msgid "See project page"
 msgstr ""
 
+msgid "Select"
+msgstr ""
+
 msgid "select all"
+msgstr ""
+
+msgid "Set Costume Center"
 msgstr ""
 
 msgid "Share"
 msgstr ""
 
-msgid "shout"
+msgid "shared"
 msgstr ""
 
 msgid "show receivers"
@@ -467,6 +504,11 @@ msgstr ""
 msgid "space"
 msgstr "스페이스"
 
+# 85%
+#, fuzzy
+msgid "Sprite"
+msgstr "스프라이트"
+
 msgid "Sprites"
 msgstr "스프라이트"
 
@@ -475,6 +517,9 @@ msgstr "제곱근"
 
 msgid "Stage"
 msgstr "무대"
+
+msgid "Stage selected"
+msgstr ""
 
 msgid "Steel Drum"
 msgstr ""
@@ -491,11 +536,11 @@ msgstr "탬버린"
 msgid "tan"
 msgstr ""
 
+msgid "Text"
+msgstr ""
+
 msgid "that way"
 msgstr "반시계방향"
-
-msgid "think"
-msgstr ""
 
 msgid "this script"
 msgstr ""
@@ -515,20 +560,23 @@ msgstr ""
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
 
-msgid "top-left"
-msgstr ""
-
-msgid "top-right"
-msgstr ""
-
 msgid "Triangle"
 msgstr ""
 
 msgid "Trombone"
 msgstr "트럼본"
 
+msgid "Turbo Mode"
+msgstr ""
+
 msgid "undo"
 msgstr "되돌리기"
+
+msgid "Ungroup"
+msgstr ""
+
+msgid "unshared"
+msgstr ""
 
 msgid "up"
 msgstr "위"
@@ -551,9 +599,6 @@ msgstr ""
 msgid "whirl"
 msgstr "소용돌이"
 
-msgid "whisper"
-msgstr ""
-
 msgid "Wood Block"
 msgstr ""
 
@@ -568,6 +613,13 @@ msgstr ""
 
 msgid "year"
 msgstr ""
+
+#, fuzzy
+#~ msgid "New"
+#~ msgstr "Nouveau"
+
+#~ msgid "New sprite:"
+#~ msgstr "새로운 스프라이트:"
 
 #~ msgid "any"
 #~ msgstr "아무"

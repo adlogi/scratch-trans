@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:53+0200\n"
-"PO-Revision-Date: 2013-01-30 16:54+0200\n"
+"POT-Creation-Date: 2013-02-11 10:49+0200\n"
+"PO-Revision-Date: 2013-02-26 10:21+0200\n"
 "Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
@@ -12,9 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr "#"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -47,7 +44,7 @@ msgid "all"
 msgstr "alla"
 
 msgid "all around"
-msgstr "runt"
+msgstr "över allt"
 
 msgid "asin"
 msgstr "asin"
@@ -58,6 +55,13 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B ansluten"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "Flytta bakåt (Shift: Placera längst bak)"
+
+# 88%
+msgid "backdrop"
+msgstr "bakgrund"
+
 msgid "backdrop #"
 msgstr "bakgrund #"
 
@@ -66,6 +70,10 @@ msgstr "bakgrund namn"
 
 msgid "backdrop1"
 msgstr "bakgrund 1"
+
+# 88%
+msgid "backdrops"
+msgstr "bakgrunder"
 
 msgid "Backpack"
 msgstr "Ryggsäck"
@@ -82,17 +90,14 @@ msgstr "Fagott"
 msgid "Bongo"
 msgstr "Bongo"
 
-msgid "bottom-left"
-msgstr "nedre-vänstra"
-
-msgid "bottom-right"
-msgstr "nedre-högra"
-
 msgid "brightness"
 msgstr "ljushet"
 
 msgid "button pressed"
 msgstr "knapp tryckt"
+
+msgid "by"
+msgstr "av"
 
 msgid "C connected"
 msgstr "C ansluten"
@@ -122,7 +127,7 @@ msgid "Claves"
 msgstr "Claves"
 
 msgid "clear senders/receivers"
-msgstr "rensa avsändare/mottagare"
+msgstr "tydliga avsändare/mottagare"
 
 msgid "Closed Hi-Hat"
 msgstr "Stängd Hi-Hat"
@@ -191,17 +196,20 @@ msgstr "Kopiera"
 msgid "duplicate"
 msgstr "kopiera"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Kopiera (Shift: Flera)"
+
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
 msgstr "kant"
 
-msgid "edit"
-msgstr "redigera"
-
 msgid "Edit"
 msgstr "Redigera"
+
+msgid "edit"
+msgstr "redigera"
 
 msgid "Effects"
 msgstr "Effekter"
@@ -212,6 +220,12 @@ msgstr "Elgitarr"
 msgid "Electric Piano"
 msgstr "Elpiano"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr "Ellips (Shift: Cirkel)"
+
+msgid "Erase"
+msgstr "Radera"
+
 msgid "fade in"
 msgstr "tona in"
 
@@ -220,6 +234,10 @@ msgstr "tona ut"
 
 msgid "File"
 msgstr "Arkiv"
+
+# 75%
+msgid "Fill"
+msgstr "Fyll"
 
 msgid "fisheye"
 msgstr "fisheye"
@@ -230,8 +248,14 @@ msgstr "golv"
 msgid "Flute"
 msgstr "Flöjt"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "Flytta framåt (Shift: Placera längst fram)"
+
 msgid "ghost"
 msgstr "genomskinlighet"
+
+msgid "Group"
+msgstr "Grupp"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -266,8 +290,11 @@ msgstr "Bibliotek"
 msgid "light"
 msgstr "ljus"
 
+msgid "Line"
+msgstr "Linje"
+
 msgid "ln"
-msgstr "I"
+msgstr "Inuti"
 
 msgid "log"
 msgstr "log"
@@ -286,9 +313,6 @@ msgstr "Marimba"
 
 msgid "message1"
 msgstr "meddelande1"
-
-msgid "middle"
-msgstr "mitten"
 
 msgid "minute"
 msgstr "minut"
@@ -311,12 +335,6 @@ msgstr "Speldosa"
 msgid "myself"
 msgstr "jag själv"
 
-msgid "name"
-msgstr "namn"
-
-msgid "New"
-msgstr "Ny"
-
 msgid "New backdrop"
 msgstr "Ny bakgrund"
 
@@ -329,8 +347,12 @@ msgstr "nytt meddelande..."
 msgid "New sound"
 msgstr "Nytt ljud"
 
-msgid "New sprite:"
-msgstr "Ny sprite:"
+# 90%
+msgid "New sprite"
+msgstr "Ny sprite"
+
+msgid "No motion blocks"
+msgstr "Inga rörelseblock"
 
 msgid "off"
 msgstr "av"
@@ -352,7 +374,7 @@ msgstr "Orgel"
 
 # 82%
 msgid "other scripts in sprite"
-msgstr "andra script på sprite"
+msgstr "andra script i sprite"
 
 msgid "Paint"
 msgstr "Måla"
@@ -360,11 +382,17 @@ msgstr "Måla"
 msgid "paste"
 msgstr "klistra in"
 
+msgid "Pencil"
+msgstr "Penna"
+
 msgid "photo1"
 msgstr "foto1"
 
 msgid "Piano"
 msgstr "Piano"
+
+msgid "Pick up Color"
+msgstr "Välj en färg"
 
 msgid "pixelate"
 msgstr "förvandla pixlar"
@@ -384,11 +412,17 @@ msgstr "Spela in"
 msgid "recording1"
 msgstr "inspelning1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr "Rektangel (Shift: Kvadrat)"
+
 msgid "redo"
 msgstr "gör om"
 
 msgid "Remix"
 msgstr "Remix"
+
+msgid "Reshape"
+msgstr "Omforma"
 
 msgid "resistance-A"
 msgstr "motstånd-A"
@@ -414,11 +448,11 @@ msgstr "pil höger"
 msgid "Saxophone"
 msgstr "Saxofon"
 
-msgid "say"
-msgstr "säg"
-
 msgid "Scratch Cat"
 msgstr "Scratchkatten"
+
+msgid "Scripts"
+msgstr "Script"
 
 msgid "second"
 msgstr "sekund"
@@ -426,14 +460,20 @@ msgstr "sekund"
 msgid "See project page"
 msgstr "Se projektsida"
 
+msgid "Select"
+msgstr "Välj"
+
 msgid "select all"
 msgstr "markera alla"
+
+msgid "Set Costume Center"
+msgstr "Sätt Klädselns Centrum"
 
 msgid "Share"
 msgstr "Dela"
 
-msgid "shout"
-msgstr "ropa"
+msgid "shared"
+msgstr "delad"
 
 msgid "show receivers"
 msgstr "visa mottagare"
@@ -468,6 +508,10 @@ msgstr "ljud"
 msgid "space"
 msgstr "mellanslag"
 
+# 85%
+msgid "Sprite"
+msgstr "Sprite"
+
 msgid "Sprites"
 msgstr "Sprites"
 
@@ -476,6 +520,9 @@ msgstr "sqrt"
 
 msgid "Stage"
 msgstr "Scen"
+
+msgid "Stage selected"
+msgstr "Scen markerad"
 
 msgid "Steel Drum"
 msgstr "Steel Drum"
@@ -492,11 +539,11 @@ msgstr "Tamburin"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr "Text"
+
 msgid "that way"
 msgstr "det sättet"
-
-msgid "think"
-msgstr "tänk"
 
 msgid "this script"
 msgstr "detta script"
@@ -517,20 +564,23 @@ msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
 "För att ta bort en blockdefinition, ta först bort all användning av blocket."
 
-msgid "top-left"
-msgstr "överst-vänster"
-
-msgid "top-right"
-msgstr "överst-höger"
-
 msgid "Triangle"
 msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Trombone"
 
+msgid "Turbo Mode"
+msgstr "Turboläge"
+
 msgid "undo"
 msgstr "ångra"
+
+msgid "Ungroup"
+msgstr "Dela upp"
+
+msgid "unshared"
+msgstr "inte delad"
 
 msgid "up"
 msgstr "upp"
@@ -553,9 +603,6 @@ msgstr "volym"
 msgid "whirl"
 msgstr "virvel"
 
-msgid "whisper"
-msgstr "viska"
-
 msgid "Wood Block"
 msgstr "Träblock"
 
@@ -570,6 +617,45 @@ msgstr "y-läge"
 
 msgid "year"
 msgstr "år"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "nedre-vänstra"
+
+#~ msgid "bottom-right"
+#~ msgstr "nedre-högra"
+
+#~ msgid "middle"
+#~ msgstr "mitten"
+
+#~ msgid "name"
+#~ msgstr "namn"
+
+#~ msgid "New"
+#~ msgstr "Ny"
+
+#~ msgid "New sprite:"
+#~ msgstr "Ny sprite:"
+
+#~ msgid "say"
+#~ msgstr "säg"
+
+#~ msgid "shout"
+#~ msgstr "ropa"
+
+#~ msgid "think"
+#~ msgstr "tänk"
+
+#~ msgid "top-left"
+#~ msgstr "överst-vänster"
+
+#~ msgid "top-right"
+#~ msgstr "överst-höger"
+
+#~ msgid "whisper"
+#~ msgstr "viska"
 
 #~ msgid "any"
 #~ msgstr "någon"

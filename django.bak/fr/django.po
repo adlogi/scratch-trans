@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 23:09+0000\n"
-"PO-Revision-Date: 2013-02-01 20:21+0200\n"
+"PO-Revision-Date: 2013-02-21 00:30+0200\n"
 "Last-Translator: Jean-Jacques <i.scool@mac.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -86,7 +86,7 @@ msgstr "Parents"
 
 #: templates/base.html:237
 msgid "Community Guidelines"
-msgstr "Lignes directrices de la communauté"
+msgstr "Règles de conduite"
 
 #: templates/base.html:238
 msgid "Contact us"
@@ -256,11 +256,11 @@ msgstr "Ajouter des projets"
 
 #: templates/homepage/index.html:24
 msgid "Featured Projects"
-msgstr "Les projets vedette"
+msgstr "Les projets à l'affiche"
 
 #: templates/homepage/index.html:25
 msgid "Featured Studios"
-msgstr "Les studios vedette"
+msgstr "Les studios  à l'affiche"
 
 #: templates/homepage/index.html:32
 msgid "What's Happening?"
@@ -322,7 +322,7 @@ msgid ""
 "created your Scratch account before January 26th."
 msgstr ""
 "La version Scratch 2.0 Beta est ouverte à tout le monde. Mais vous ne pouvez "
-"vous connecter que si vous avez créé votre compte Scratch avant  le 26 "
+"vous connecter que si vous avez créé votre compte Scratch avant le 26 "
 "Janvier."
 
 #: templates/homepage/index.html:92

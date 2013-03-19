@@ -1,0 +1,849 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="blocks.po" source-language="en-US" datatype="plaintext" target-language="pt_BR">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Language-Name">
+        <source>Language-Name</source>
+        <target state="translated">Português (Brasil)</target>
+        <note from="translator">The language name as it will appear in the language menu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%b and %b">
+        <source>%b and %b</source>
+        <target state="translated">%b e %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%b or %b">
+        <source>%b or %b</source>
+        <target state="translated">%b ou %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%m.attribute of %m.spriteOrStage">
+        <source>%m.attribute of %m.spriteOrStage</source>
+        <target state="translated">%m.attribute de %m.spriteOrStage</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%m.list contains %s">
+        <source>%m.list contains %s</source>
+        <target state="translated">%m.list contém %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%m.mathOp of %n">
+        <source>%m.mathOp of %n</source>
+        <target state="translated">%m.mathOp de %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%m.sensor sensor value">
+        <source>%m.sensor sensor value</source>
+        <target state="translated">valor do sensor %m.sensor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%n mod %n">
+        <source>%n mod %n</source>
+        <target state="translated">resto de %n por %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="add %s to %m.list">
+        <source>add %s to %m.list</source>
+        <target state="translated">adiciona %s a %m.list</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>adicione %s a %m.list</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="answer">
+        <source>answer</source>
+        <target state="translated">resposta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ask %s and wait">
+        <source>ask %s and wait</source>
+        <target state="translated">pergunte %s e espere</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="backdrop #">
+        <source>backdrop #</source>
+        <target state="needs-translation">cenário #</target>
+        <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="backdrop name">
+        <source>backdrop name</source>
+        <target state="translated"></target>
+        <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>nome do cenário</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast">
+        <source>broadcast %m.broadcast</source>
+        <target state="translated">anuncie %m.broadcast</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast and wait">
+        <source>broadcast %m.broadcast and wait</source>
+        <target state="translated">anuncie %m.broadcast e espere</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change %m.effect effect by %n">
+        <source>change %m.effect effect by %n</source>
+        <target state="translated">mude o efeito %m.effect por %n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude o efeito %m.effect em %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change %m.var by %n">
+        <source>change %m.var by %n</source>
+        <target state="translated">mude %m.var por %n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude %m.var em %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen color by %n">
+        <source>change pen color by %n</source>
+        <target state="translated">mude a cor da caneta por %n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude a cor da caneta em %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen shade by %n">
+        <source>change pen shade by %n</source>
+        <target state="translated">mude o tom da caneta por %n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude o tom da caneta em %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen size by %n">
+        <source>change pen size by %n</source>
+        <target state="translated">mude o tamanho da caneta por %n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude o tamanho da caneta em %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change size by %n">
+        <source>change size by %n</source>
+        <target state="translated">mude o tamanho por %n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude o tamanho em %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change tempo by %n">
+        <source>change tempo by %n</source>
+        <target state="translated">mude o tempo por %n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude o tempo em %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change volume by %n">
+        <source>change volume by %n</source>
+        <target state="translated">mude o volume por %n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude o volume em %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change x by %n">
+        <source>change x by %n</source>
+        <target state="translated">mude x por %n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude x em %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change y by %n">
+        <source>change y by %n</source>
+        <target state="translated">mude y por %n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude y em %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clear">
+        <source>clear</source>
+        <target state="translated">limpe </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clear graphic effects">
+        <source>clear graphic effects</source>
+        <target state="translated">limpe os efeitos gráficos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="color %c is touching %c?">
+        <source>color %c is touching %c?</source>
+        <target state="translated">cor %c está tocando a cor %c?</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>cor %c está tocando %c?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Control">
+        <source>Control</source>
+        <target state="translated">controle</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Controle</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="costume #">
+        <source>costume #</source>
+        <target state="translated">traje #</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="create clone of %m.spriteOnly">
+        <source>create clone of %m.spriteOnly</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>crie clone de %m.spriteOnly</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="current %m.timeAndDate">
+        <source>current %m.timeAndDate</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>%m.timeAndDate atual</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Data">
+        <source>Data</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Dados</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="days since 2000">
+        <source>days since 2000</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>dias desde 2000</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="define">
+        <source>define</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>definir</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="delete %d.listDeleteItem of %m.list">
+        <source>delete %d.listDeleteItem of %m.list</source>
+        <target state="translated">apaga %d.listDeleteItem de %m.list</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>apague %d.listDeleteItem de %m.list</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="delete this clone">
+        <source>delete this clone</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>apague este clone</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="direction">
+        <source>direction</source>
+        <target state="translated">direção</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="distance">
+        <source>distance</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>distância</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="distance to %m.spriteOrMouse">
+        <source>distance to %m.spriteOrMouse</source>
+        <target state="translated">distância até %m.spriteOrMouse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="else">
+        <source>else</source>
+        <target state="translated">senão</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Events">
+        <source>Events</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Eventos</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="forever">
+        <source>forever</source>
+        <target state="translated">para sempre</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
+        <source>glide %n secs to x:%n y:%n</source>
+        <target state="translated">deslize em %n s para x:%n y:%n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>deslize em %n s até x:%n y:%n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go back %n layers">
+        <source>go back %n layers</source>
+        <target state="translated">desça %n camadas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to %m.spriteOrMouse">
+        <source>go to %m.spriteOrMouse</source>
+        <target state="translated">vá para %m.spriteOrMouse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to front">
+        <source>go to front</source>
+        <target state="translated">vá para a camada de cima</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to x:%n y:%n">
+        <source>go to x:%n y:%n</source>
+        <target state="translated">vá para x:%n y:%n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide">
+        <source>hide</source>
+        <target state="translated">desapareça</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide list %m.list">
+        <source>hide list %m.list</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>esconda lista %m.list</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide variable %m.var">
+        <source>hide variable %m.var</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>esconda variável %m.var</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="if %b then">
+        <source>if %b then</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>se %b então</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="if on edge, bounce">
+        <source>if on edge, bounce</source>
+        <target state="translated">se tocar na borda, volte</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="insert %s at %d.listItem of %m.list">
+        <source>insert %s at %d.listItem of %m.list</source>
+        <target state="translated">insere %s em %d.listItem de %m.list</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>insira %s em %d.listItem de %m.list</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="item %d.listItem of %m.list">
+        <source>item %d.listItem of %m.list</source>
+        <target state="translated">item %d.listItem de %m.list</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="join %s %s">
+        <source>join %s %s</source>
+        <target state="translated">junte %s %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="key %m.key pressed?">
+        <source>key %m.key pressed?</source>
+        <target state="translated">tecla %m.key pressionada?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length of %m.list">
+        <source>length of %m.list</source>
+        <target state="translated">tamanho de %m.list</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length of %s">
+        <source>length of %s</source>
+        <target state="translated">tamanho de %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="letter %n of %s">
+        <source>letter %n of %s</source>
+        <target state="translated">letra %n de %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Looks">
+        <source>Looks</source>
+        <target state="translated">aparência</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Aparência</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="loudness">
+        <source>loudness</source>
+        <target state="translated">volume do som</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="More Blocks">
+        <source>More Blocks</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Mais Blocos</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Motion">
+        <source>Motion</source>
+        <target state="translated">movimento</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Movimento</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse down?">
+        <source>mouse down?</source>
+        <target state="translated">mouse pressionado?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse x">
+        <source>mouse x</source>
+        <target state="translated">mouse x</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse y">
+        <source>mouse y</source>
+        <target state="translated">mouse y</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="move %n steps">
+        <source>move %n steps</source>
+        <target state="translated">mova %n passos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="next backdrop">
+        <source>next backdrop</source>
+        <target state="needs-translation">próximo cenário</target>
+        <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="next costume">
+        <source>next costume</source>
+        <target state="translated">próximo traje</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="not %b">
+        <source>not %b</source>
+        <target state="translated">não %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Operators">
+        <source>Operators</source>
+        <target state="translated">operadores</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Operadores</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pen">
+        <source>Pen</source>
+        <target state="translated">caneta</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Caneta</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen down">
+        <source>pen down</source>
+        <target state="translated">abaixe a caneta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen up">
+        <source>pen up</source>
+        <target state="translated">levante a caneta</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pick random %n to %n">
+        <source>pick random %n to %n</source>
+        <target state="translated">sorteie número de %n a %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play drum %d.drum for %n beats">
+        <source>play drum %d.drum for %n beats</source>
+        <target state="translated">toque o tambor %d.drum por %n batidas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="play note %d.note for %n beats">
+        <source>play note %d.note for %n beats</source>
+        <target state="needs-translation">toque a nota %d.note por %n batidas</target>
+        <note from="translator">83%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play sound %m.sound">
+        <source>play sound %m.sound</source>
+        <target state="translated">toque o som %m.sound</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play sound %m.sound until done">
+        <source>play sound %m.sound until done</source>
+        <target state="translated">toque o som %m.sound até terminar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="point in direction %d.direction">
+        <source>point in direction %d.direction</source>
+        <target state="translated">aponte para a direção %d.direction</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="point towards %m.spriteOrMouse">
+        <source>point towards %m.spriteOrMouse</source>
+        <target state="translated">aponte para %m.spriteOrMouse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="repeat %n">
+        <source>repeat %n</source>
+        <target state="translated">repita %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="repeat until %b">
+        <source>repeat until %b</source>
+        <target state="translated">repita até %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="replace item %d.listItem of %m.list with %s">
+        <source>replace item %d.listItem of %m.list with %s</source>
+        <target state="translated">substitui %d.listItem de %m.list por %s</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>substitua %d.listItem de %m.list por %s</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>troque %d.listItem de %m.list por %s</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="reset timer">
+        <source>reset timer</source>
+        <target state="translated">zere temporizador</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="rest for %n beats">
+        <source>rest for %n beats</source>
+        <target state="translated">pare por %n batidas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="round %n">
+        <source>round %n</source>
+        <target state="translated">arredonde %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="say %s">
+        <source>say %s</source>
+        <target state="translated">diga %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="say %s for %n secs">
+        <source>say %s for %n secs</source>
+        <target state="translated">diga %s por %n segundos</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>diga %s por %n s</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sensing">
+        <source>Sensing</source>
+        <target state="translated">sensores</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Sensores</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sensor %m.booleanSensor?">
+        <source>sensor %m.booleanSensor?</source>
+        <target state="translated">sensor %m.booleanSensor?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set %m.effect effect to %n">
+        <source>set %m.effect effect to %n</source>
+        <target state="translated">mude o efeito %m.effect para %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set %m.var to %s">
+        <source>set %m.var to %s</source>
+        <target state="translated">mude %m.var para %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set instrument to %d.instrument">
+        <source>set instrument to %d.instrument</source>
+        <target state="translated">mude para instrumento %d.instrument</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="set motor direction %m.motorDirection">
+        <source>set motor direction %m.motorDirection</source>
+        <target state="needs-translation">direção do motor %m.motorDirection</target>
+        <note from="translator">89%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="set motor power %n">
+        <source>set motor power %n</source>
+        <target state="needs-translation">potência do motor %n</target>
+        <note from="translator">77%</note>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude potência do motor para %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen color to %c">
+        <source>set pen color to %c</source>
+        <target state="translated">mude a cor da caneta para %c</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude cor da caneta para %c</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen color to %n">
+        <source>set pen color to %n</source>
+        <target state="translated">mude a cor da caneta para %c</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude cor da caneta para %c</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen shade to %n">
+        <source>set pen shade to %n</source>
+        <target state="translated">mude o tom da caneta para %n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude tom da caneta para %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen size to %n">
+        <source>set pen size to %n</source>
+        <target state="translated">mude o tamanho da caneta para %n</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude tamanho da caneta para %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set rotation style %m.rotationStyle">
+        <source>set rotation style %m.rotationStyle</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude estilo de rotação %m.rotationStyle</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set size to %n%">
+        <source>set size to %n%</source>
+        <target state="translated">mude o tamanho para %n%</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude tamanho para %n%</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set tempo to %n bpm">
+        <source>set tempo to %n bpm</source>
+        <target state="translated">mude o tempo para %n bpm</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude tempo para %n bpm</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set video transparency to %n%">
+        <source>set video transparency to %n%</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude transparência do vídeo para %n%</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
+        <source>set volume to %n%</source>
+        <target state="translated">mude o volume para %n%</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude volume para %n%</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set x to %n">
+        <source>set x to %n</source>
+        <target state="translated">mude x para %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set y to %n">
+        <source>set y to %n</source>
+        <target state="translated">mude y para %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show">
+        <source>show</source>
+        <target state="translated">apareça</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mostre</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show list %m.list">
+        <source>show list %m.list</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mostre lista %m.list</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mostre list %m.list</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show variable %m.var">
+        <source>show variable %m.var</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mostre variável %m.var</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="size">
+        <source>size</source>
+        <target state="translated">tamanho</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sound">
+        <source>Sound</source>
+        <target state="translated">som</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>Som</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stamp">
+        <source>stamp</source>
+        <target state="translated">carimbe</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop %m.stop">
+        <source>stop %m.stop</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>pare %m.stop</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
+        <source>stop all sounds</source>
+        <target state="translated">pare todos os sons</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop">
+        <source>switch backdrop to %m.backdrop</source>
+        <target state="translated"></target>
+        <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude para cenário %m.backdrop</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop and wait">
+        <source>switch backdrop to %m.backdrop and wait</source>
+        <target state="translated"></target>
+        <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude para cenário %m.backdrop e espere</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch costume to %m.costume">
+        <source>switch costume to %m.costume</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude para traje %m.costume</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tempo">
+        <source>tempo</source>
+        <target state="translated">tempo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="think %s">
+        <source>think %s</source>
+        <target state="translated">pense %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="think %s for %n secs">
+        <source>think %s for %n secs</source>
+        <target state="translated">pense %s por %n s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tilt">
+        <source>tilt</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>inclinação</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="timer">
+        <source>timer</source>
+        <target state="translated">temporizador</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="touching %m.touching?">
+        <source>touching %m.touching?</source>
+        <target state="translated">tocar em %m.touching?</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>tocou em %m.touching?</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="touching color %c?">
+        <source>touching color %c?</source>
+        <target state="translated">tocou na cor %c?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn @turnLeft %n degrees">
+        <source>turn @turnLeft %n degrees</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>gire @turnLeft %n graus</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn @turnRight %n degrees">
+        <source>turn @turnRight %n degrees</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>gire @turnRight %n graus</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn motor off">
+        <source>turn motor off</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>desliga motor</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>desligue motor</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn motor on">
+        <source>turn motor on</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>liga motor</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>ligue motor</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="turn motor on for %n secs">
+        <source>turn motor on for %n secs</source>
+        <target state="needs-translation">liga motor por %n s</target>
+        <note from="translator">80%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn video %m.videoState">
+        <source>turn video %m.videoState</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>mude vídeo %m.videoState</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="user id">
+        <source>user id</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>ID de usuário</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
+        <source>video %m.videoMotionType on %m.stageOrThis</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>%m.videoMotionType do vídeo em %m.stageOrThis</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="volume">
+        <source>volume</source>
+        <target state="translated">volume</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wait %n secs">
+        <source>wait %n secs</source>
+        <target state="translated">espere %n s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wait until %b">
+        <source>wait until %b</source>
+        <target state="translated">espere até %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="when %m.booleanSensor">
+        <source>when %m.booleanSensor</source>
+        <target state="needs-translation">sensor %m.booleanSensor?</target>
+        <note from="translator">75%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %m.key key pressed">
+        <source>when %m.key key pressed</source>
+        <target state="translated">quando pressionar tecla %m.key</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>ao pressionar tecla %m.key</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %m.triggerSensor &gt; %n">
+        <source>when %m.triggerSensor &gt; %n</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>quando %m.triggerSensor &gt; %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when @greenFlag clicked">
+        <source>when @greenFlag clicked</source>
+        <target state="translated">quando clicar em @greenFlag</target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>ao clicar em @greenFlag</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when backdrop switches to %m.backdrop">
+        <source>when backdrop switches to %m.backdrop</source>
+        <target state="translated"></target>
+        <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>quando o cenário mudar para %m.backdrop</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when distance &lt; %n">
+        <source>when distance &lt; %n</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>quando distância &lt; %n</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>se distância &lt; %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when I receive %m.broadcast">
+        <source>when I receive %m.broadcast</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>quando ouvir %m.broadcast</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>quando eu ouvir %m.broadcast</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when I start as a clone">
+        <source>when I start as a clone</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>quando eu iniciar como um clone</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when this sprite clicked">
+        <source>when this sprite clicked</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>ao clicar neste objeto</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when tilt = %n">
+        <source>when tilt = %n</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="alexsoares">
+          <target>quando inclinação = %n</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="x position">
+        <source>x position</source>
+        <target state="translated">posição x</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="y position">
+        <source>y position</source>
+        <target state="translated">posição y</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

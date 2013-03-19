@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:35+0200\n"
-"PO-Revision-Date: 2013-02-05 17:22+0200\n"
+"PO-Revision-Date: 2013-02-21 12:29+0200\n"
 "Last-Translator: gromko <ggromko@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uk\n"
@@ -50,11 +50,11 @@ msgstr "запитати %s і чекати"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "фон #"
+msgstr "тло №"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "Ім’я фону"
+msgstr "Ім’я тла"
 
 msgid "broadcast %m.broadcast"
 msgstr "оповістити %m.broadcast"
@@ -114,16 +114,16 @@ msgid "current %m.timeAndDate"
 msgstr "сьогодні %m.timeAndDate"
 
 msgid "Data"
-msgstr "Дата"
+msgstr "Величини"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "днів після 2000"
 
 msgid "define"
 msgstr "визначити"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "видалити %d.listDeleteItem з %m.list"
+msgstr "вилучити %d.listDeleteItem з %m.list"
 
 msgid "delete this clone"
 msgstr "вилучити цей клон"
@@ -171,7 +171,7 @@ msgid "hide variable %m.var"
 msgstr "сховати змінну %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "якщо %b то"
 
 msgid "if on edge, bounce"
 msgstr "якщо на межі, відбити"
@@ -204,7 +204,7 @@ msgid "loudness"
 msgstr "гучність"
 
 msgid "More Blocks"
-msgstr "Більше блоків"
+msgstr "Нові блоки"
 
 msgid "Motion"
 msgstr "Рух"
@@ -223,7 +223,7 @@ msgstr "переміститись на %n кроків"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr "наступний фон"
+msgstr "наступне тло"
 
 msgid "next costume"
 msgstr "наступний образ"
@@ -244,7 +244,7 @@ msgid "pen up"
 msgstr "підняти олівець"
 
 msgid "pick random %n to %n"
-msgstr "вибрати випадкове від %n до %n"
+msgstr "випадкове від %n до %n"
 
 msgid "play drum %d.drum for %n beats"
 msgstr "програти на барабані %d.drum %n ударів"
@@ -269,7 +269,7 @@ msgid "repeat %n"
 msgstr "повторити %n"
 
 msgid "repeat until %b"
-msgstr "повторювати поки %b"
+msgstr "повторити поки не %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr "замінити %d.listItem %L на %s"
@@ -325,7 +325,7 @@ msgid "set pen size to %n"
 msgstr "задати розмір олівця %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "тип обертання style %m.rotationStyle"
+msgstr "тип обертання %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "задати розмір %n%"
@@ -371,11 +371,11 @@ msgstr "зупини всі звуки"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "змінити фон на %m.backdrop"
+msgstr "змінити тло на %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "змінити фон на %m.backdrop та чекати"
+msgstr "змінити тло на %m.backdrop та чекати"
 
 msgid "switch costume to %m.costume"
 msgstr "змінити образ на %m.costume"
@@ -411,7 +411,7 @@ msgid "turn motor off"
 msgstr "вимкнути двигун"
 
 msgid "turn motor on"
-msgstr "ввімкнути двигун"
+msgstr "увімкнути двигун"
 
 # 100%
 msgid "turn motor on for %n secs"
@@ -421,7 +421,7 @@ msgid "turn video %m.videoState"
 msgstr "перемкнути відео %m.videoState"
 
 msgid "user id"
-msgstr "id користувача"
+msgstr "ID користувача"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "відео %m.videoMotionType на %m.stageOrThis"
@@ -443,29 +443,29 @@ msgid "when %m.key key pressed"
 msgstr "коли натиснуто клавішу %m.key"
 
 msgid "when %m.triggerSensor > %n"
-msgstr "якщо %m.triggerSensor > %n"
+msgstr "коли %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "коли вибрано @greenFlag"
+msgstr "коли натиснуто @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "коли фон зміниться на %m.backdrop"
+msgstr "коли тло зміниться на %m.backdrop"
 
 msgid "when distance < %n"
-msgstr "якщо відстань < %n"
+msgstr "коли відстань < %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "коли я отримаю %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "коли я починаю як клон"
 
 msgid "when this sprite clicked"
-msgstr "Якщо цей спрайт натиснуто"
+msgstr "коли спрайт натиснуто"
 
 msgid "when tilt = %n"
-msgstr "якщо нахил = %n"
+msgstr "коли нахил = %n"
 
 msgid "x position"
 msgstr "значення x"

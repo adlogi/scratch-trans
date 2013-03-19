@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:53+0200\n"
-"PO-Revision-Date: 2013-01-29 20:53+0200\n"
+"POT-Creation-Date: 2013-02-11 10:49+0200\n"
+"PO-Revision-Date: 2013-02-11 10:49+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: rw\n"
@@ -11,9 +11,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr ""
 
 msgid "10 ^"
 msgstr ""
@@ -57,6 +54,12 @@ msgstr ""
 msgid "B connected"
 msgstr ""
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr ""
+
+msgid "backdrop"
+msgstr ""
+
 msgid "backdrop #"
 msgstr ""
 
@@ -64,6 +67,9 @@ msgid "backdrop name"
 msgstr ""
 
 msgid "backdrop1"
+msgstr ""
+
+msgid "backdrops"
 msgstr ""
 
 msgid "Backpack"
@@ -81,17 +87,14 @@ msgstr "Bassoon"
 msgid "Bongo"
 msgstr ""
 
-msgid "bottom-left"
-msgstr ""
-
-msgid "bottom-right"
-msgstr ""
-
 msgid "brightness"
 msgstr "umucyo"
 
 msgid "button pressed"
 msgstr "ibuto ikanzwe"
+
+msgid "by"
+msgstr ""
 
 msgid "C connected"
 msgstr ""
@@ -189,16 +192,19 @@ msgstr "igicupuri"
 msgid "duplicate"
 msgstr "igicupuri"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr ""
+
 msgid "e ^"
 msgstr ""
 
 msgid "edge"
 msgstr "umusozo"
 
-msgid "edit"
+msgid "Edit"
 msgstr "Hindura"
 
-msgid "Edit"
+msgid "edit"
 msgstr "Hindura"
 
 msgid "Effects"
@@ -210,6 +216,12 @@ msgstr ""
 msgid "Electric Piano"
 msgstr ""
 
+msgid "Ellipse (Shift: Circle)"
+msgstr ""
+
+msgid "Erase"
+msgstr ""
+
 msgid "fade in"
 msgstr ""
 
@@ -217,6 +229,9 @@ msgid "fade out"
 msgstr ""
 
 msgid "File"
+msgstr ""
+
+msgid "Fill"
 msgstr ""
 
 msgid "fisheye"
@@ -228,8 +243,14 @@ msgstr ""
 msgid "Flute"
 msgstr "Flute"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr ""
+
 msgid "ghost"
 msgstr "Umwuka"
+
+msgid "Group"
+msgstr ""
 
 msgid "Guiro"
 msgstr ""
@@ -264,6 +285,9 @@ msgstr ""
 msgid "light"
 msgstr "Urumuri"
 
+msgid "Line"
+msgstr ""
+
 msgid "ln"
 msgstr ""
 
@@ -283,9 +307,6 @@ msgid "Marimba"
 msgstr "Marimba"
 
 msgid "message1"
-msgstr ""
-
-msgid "middle"
 msgstr ""
 
 msgid "minute"
@@ -309,13 +330,6 @@ msgstr "Ikarito y`Umuziki"
 msgid "myself"
 msgstr ""
 
-msgid "name"
-msgstr ""
-
-#, fuzzy
-msgid "New"
-msgstr "Nouveau"
-
 msgid "New backdrop"
 msgstr ""
 
@@ -328,8 +342,13 @@ msgstr ""
 msgid "New sound"
 msgstr ""
 
-msgid "New sprite:"
+# 90%
+#, fuzzy
+msgid "New sprite"
 msgstr "Sprite nshya:"
+
+msgid "No motion blocks"
+msgstr ""
 
 msgid "off"
 msgstr "kuzimya"
@@ -358,10 +377,16 @@ msgstr "siga "
 msgid "paste"
 msgstr ""
 
+msgid "Pencil"
+msgstr ""
+
 msgid "photo1"
 msgstr ""
 
 msgid "Piano"
+msgstr ""
+
+msgid "Pick up Color"
 msgstr ""
 
 msgid "pixelate"
@@ -382,10 +407,16 @@ msgstr "gufata amajwi"
 msgid "recording1"
 msgstr ""
 
+msgid "Rectangle (Shift: Square)"
+msgstr ""
+
 msgid "redo"
 msgstr "Gukuraho ibyari bishyizweho"
 
 msgid "Remix"
+msgstr ""
+
+msgid "Reshape"
 msgstr ""
 
 msgid "resistance-A"
@@ -412,10 +443,10 @@ msgstr "Akerekezo kerekana iburyo"
 msgid "Saxophone"
 msgstr ""
 
-msgid "say"
+msgid "Scratch Cat"
 msgstr ""
 
-msgid "Scratch Cat"
+msgid "Scripts"
 msgstr ""
 
 msgid "second"
@@ -424,13 +455,19 @@ msgstr ""
 msgid "See project page"
 msgstr ""
 
+msgid "Select"
+msgstr ""
+
 msgid "select all"
+msgstr ""
+
+msgid "Set Costume Center"
 msgstr ""
 
 msgid "Share"
 msgstr ""
 
-msgid "shout"
+msgid "shared"
 msgstr ""
 
 msgid "show receivers"
@@ -466,6 +503,11 @@ msgstr ""
 msgid "space"
 msgstr "Umwanya"
 
+# 85%
+#, fuzzy
+msgid "Sprite"
+msgstr "Sprites"
+
 msgid "Sprites"
 msgstr "Sprites"
 
@@ -474,6 +516,9 @@ msgstr "sqrt"
 
 msgid "Stage"
 msgstr "Ihuriro"
+
+msgid "Stage selected"
+msgstr ""
 
 msgid "Steel Drum"
 msgstr ""
@@ -490,11 +535,11 @@ msgstr "Tambourine"
 msgid "tan"
 msgstr ""
 
+msgid "Text"
+msgstr ""
+
 msgid "that way"
 msgstr "buriya buryo"
-
-msgid "think"
-msgstr ""
 
 msgid "this script"
 msgstr ""
@@ -514,20 +559,23 @@ msgstr ""
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
 
-msgid "top-left"
-msgstr ""
-
-msgid "top-right"
-msgstr ""
-
 msgid "Triangle"
 msgstr ""
 
 msgid "Trombone"
 msgstr "Trombone"
 
+msgid "Turbo Mode"
+msgstr ""
+
 msgid "undo"
 msgstr "Kugurura ibyabuze"
+
+msgid "Ungroup"
+msgstr ""
+
+msgid "unshared"
+msgstr ""
 
 msgid "up"
 msgstr "Hejuru"
@@ -550,9 +598,6 @@ msgstr ""
 msgid "whirl"
 msgstr "whirl"
 
-msgid "whisper"
-msgstr ""
-
 msgid "Wood Block"
 msgstr ""
 
@@ -567,6 +612,13 @@ msgstr ""
 
 msgid "year"
 msgstr ""
+
+#, fuzzy
+#~ msgid "New"
+#~ msgstr "Nouveau"
+
+#~ msgid "New sprite:"
+#~ msgstr "Sprite nshya:"
 
 #~ msgid "any"
 #~ msgstr "iyo ariyo yose"

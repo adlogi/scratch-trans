@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:51+0200\n"
+"POT-Creation-Date: 2013-02-11 10:48+0200\n"
 "PO-Revision-Date: 2013-02-01 16:23+0200\n"
 "Last-Translator: ehsansadeghi <m.e.sadeghi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,9 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr "#"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -58,6 +55,12 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B وصل است"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr ""
+
+msgid "backdrop"
+msgstr ""
+
 msgid "backdrop #"
 msgstr ""
 
@@ -65,6 +68,9 @@ msgid "backdrop name"
 msgstr ""
 
 msgid "backdrop1"
+msgstr ""
+
+msgid "backdrops"
 msgstr ""
 
 msgid "Backpack"
@@ -82,17 +88,14 @@ msgstr "Bassoon"
 msgid "Bongo"
 msgstr "Bongo"
 
-msgid "bottom-left"
-msgstr "پایین - چپ"
-
-msgid "bottom-right"
-msgstr "پایین - راست"
-
 msgid "brightness"
 msgstr "شدت نور"
 
 msgid "button pressed"
 msgstr "دکمه فشرده شده"
+
+msgid "by"
+msgstr ""
 
 msgid "C connected"
 msgstr "C وصل است"
@@ -190,16 +193,19 @@ msgstr "تکثیرکردن"
 msgid "duplicate"
 msgstr "تکثیر"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr ""
+
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
 msgstr "لبه"
 
-msgid "edit"
+msgid "Edit"
 msgstr "ویرایش"
 
-msgid "Edit"
+msgid "edit"
 msgstr "ویرایش"
 
 msgid "Effects"
@@ -211,6 +217,12 @@ msgstr "گیتار الکتریک"
 msgid "Electric Piano"
 msgstr "پیانو الکتریک"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr ""
+
+msgid "Erase"
+msgstr ""
+
 msgid "fade in"
 msgstr "روشنی"
 
@@ -218,6 +230,11 @@ msgid "fade out"
 msgstr "تیرگی"
 
 msgid "File"
+msgstr "فایل"
+
+# 75%
+#, fuzzy
+msgid "Fill"
 msgstr "فایل"
 
 msgid "fisheye"
@@ -229,8 +246,14 @@ msgstr "طبقه"
 msgid "Flute"
 msgstr "فلوت"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr ""
+
 msgid "ghost"
 msgstr "روح"
+
+msgid "Group"
+msgstr ""
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -265,6 +288,9 @@ msgstr "کتابخانه"
 msgid "light"
 msgstr "نور"
 
+msgid "Line"
+msgstr ""
+
 msgid "ln"
 msgstr "در"
 
@@ -285,9 +311,6 @@ msgstr "Marimba"
 
 msgid "message1"
 msgstr "پیغام1"
-
-msgid "middle"
-msgstr "وسط"
 
 msgid "minute"
 msgstr "دقیقه"
@@ -310,12 +333,6 @@ msgstr "Music Box"
 msgid "myself"
 msgstr "خودم"
 
-msgid "name"
-msgstr "نام"
-
-msgid "New"
-msgstr "جدید"
-
 msgid "New backdrop"
 msgstr ""
 
@@ -328,7 +345,10 @@ msgstr "پیغام جدید..."
 msgid "New sound"
 msgstr "صدای جدید"
 
-msgid "New sprite:"
+msgid "New sprite"
+msgstr ""
+
+msgid "No motion blocks"
 msgstr ""
 
 msgid "off"
@@ -358,11 +378,17 @@ msgstr "رنگ کردن"
 msgid "paste"
 msgstr "پیست کن"
 
+msgid "Pencil"
+msgstr ""
+
 msgid "photo1"
 msgstr "تصویر1"
 
 msgid "Piano"
 msgstr "پیانو"
+
+msgid "Pick up Color"
+msgstr ""
 
 msgid "pixelate"
 msgstr "pixelate"
@@ -382,11 +408,17 @@ msgstr "رکورد کن"
 msgid "recording1"
 msgstr "رکورد1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr ""
+
 msgid "redo"
 msgstr "دوباره انجام بده"
 
 msgid "Remix"
 msgstr "ترکیب مجدد"
+
+msgid "Reshape"
+msgstr ""
 
 msgid "resistance-A"
 msgstr "مقاومت-A"
@@ -412,11 +444,11 @@ msgstr "کلید راست"
 msgid "Saxophone"
 msgstr "ساکسیفون"
 
-msgid "say"
-msgstr "بگو"
-
 msgid "Scratch Cat"
 msgstr "گربه اسکرچ"
+
+msgid "Scripts"
+msgstr ""
 
 msgid "second"
 msgstr "دومی"
@@ -424,14 +456,20 @@ msgstr "دومی"
 msgid "See project page"
 msgstr "دیدن صفحه پروژه"
 
+msgid "Select"
+msgstr ""
+
 msgid "select all"
 msgstr "انتخاب همه موارد"
+
+msgid "Set Costume Center"
+msgstr ""
 
 msgid "Share"
 msgstr "به اشتراک گذاری"
 
-msgid "shout"
-msgstr "فریاد"
+msgid "shared"
+msgstr ""
 
 msgid "show receivers"
 msgstr "نمایش دریافت کنندگان"
@@ -466,6 +504,9 @@ msgstr "صدا"
 msgid "space"
 msgstr "فاصله"
 
+msgid "Sprite"
+msgstr ""
+
 msgid "Sprites"
 msgstr ""
 
@@ -474,6 +515,9 @@ msgstr "جذر"
 
 msgid "Stage"
 msgstr "طبقه"
+
+msgid "Stage selected"
+msgstr ""
 
 msgid "Steel Drum"
 msgstr "Steel Drum"
@@ -490,11 +534,11 @@ msgstr "Tambourine"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr ""
+
 msgid "that way"
 msgstr "اون طرف"
-
-msgid "think"
-msgstr "فکر"
 
 msgid "this script"
 msgstr ""
@@ -514,19 +558,22 @@ msgstr "نکات"
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "برای خذف توضیحات یک بلاک، ابتدا تمامی کاربران آن را حذف کنید."
 
-msgid "top-left"
-msgstr "بالا - چپ"
-
-msgid "top-right"
-msgstr "بالا - راست"
-
 msgid "Triangle"
 msgstr "مثلث"
 
 msgid "Trombone"
 msgstr "Trombone"
 
+msgid "Turbo Mode"
+msgstr ""
+
 msgid "undo"
+msgstr ""
+
+msgid "Ungroup"
+msgstr ""
+
+msgid "unshared"
 msgstr ""
 
 msgid "up"
@@ -550,9 +597,6 @@ msgstr "حجم صدا"
 msgid "whirl"
 msgstr ""
 
-msgid "whisper"
-msgstr ""
-
 msgid "Wood Block"
 msgstr "بلاک چوبی"
 
@@ -567,6 +611,39 @@ msgstr "موقعیت y"
 
 msgid "year"
 msgstr "سال"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "پایین - چپ"
+
+#~ msgid "bottom-right"
+#~ msgstr "پایین - راست"
+
+#~ msgid "middle"
+#~ msgstr "وسط"
+
+#~ msgid "name"
+#~ msgstr "نام"
+
+#~ msgid "New"
+#~ msgstr "جدید"
+
+#~ msgid "say"
+#~ msgstr "بگو"
+
+#~ msgid "shout"
+#~ msgstr "فریاد"
+
+#~ msgid "think"
+#~ msgstr "فکر"
+
+#~ msgid "top-left"
+#~ msgstr "بالا - چپ"
+
+#~ msgid "top-right"
+#~ msgstr "بالا - راست"
 
 #~ msgid "High Tom"
 #~ msgstr "High Tom"

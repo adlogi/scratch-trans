@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:34+0200\n"
-"PO-Revision-Date: 2013-02-04 20:16+0200\n"
+"PO-Revision-Date: 2013-02-21 17:01+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -59,7 +59,7 @@ msgid "broadcast %m.broadcast"
 msgstr "μετάδωσε %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "μετάδωσε %m.broadcast και περίμενε"
+msgstr "μετάδωσε το %m.broadcast και περίμενε"
 
 msgid "change %m.effect effect by %n"
 msgstr "άλλαξε το εφέ %m.effect κατά %n"
@@ -98,7 +98,7 @@ msgid "clear graphic effects"
 msgstr "καθάρισε τα γραφικά εφέ"
 
 msgid "color %c is touching %c?"
-msgstr "το χρώμα %c αγγίζει το %c"
+msgstr "το χρώμα %c αγγίζει το χρώμα %c"
 
 msgid "Control"
 msgstr "Έλεγχος"
@@ -107,7 +107,7 @@ msgid "costume #"
 msgstr "ενδυμασία #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "δημιούργησε κλώνο του %m.spriteOnly"
+msgstr "δημιούργησε έναν κλώνο του %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "τρέχων %m.timeAndDate"
@@ -116,7 +116,7 @@ msgid "Data"
 msgstr "Δεδομένα"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "ημέρες από το 2000"
 
 msgid "define"
 msgstr "ορισμός του"
@@ -134,7 +134,7 @@ msgid "distance"
 msgstr "απόσταση"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "απόσταση έως το %m.spriteOrMouse"
+msgstr "απόσταση μέχρι το %m.spriteOrMouse"
 
 msgid "else"
 msgstr "αλλιώς"
@@ -170,7 +170,7 @@ msgid "hide variable %m.var"
 msgstr "απόκρυψε τη μεταβλητή %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "εάν %b τότε"
 
 msgid "if on edge, bounce"
 msgstr "εάν στα όρια, αναπήδησε"
@@ -179,19 +179,19 @@ msgid "insert %s at %d.listItem of %m.list"
 msgstr "βάλε το %s στη θέση %d.listItem του %m.list"
 
 msgid "item %d.listItem of %m.list"
-msgstr "στοιχείο %d.listItem του %m.list"
+msgstr "το στοιχείο %d.listItem του %m.list"
 
 msgid "join %s %s"
 msgstr "ένωσε το %s με το %s"
 
 msgid "key %m.key pressed?"
-msgstr "πατήθηκε πλήκτρο %m.key"
+msgstr "πατήθηκε το πλήκτρο %m.key"
 
 msgid "length of %m.list"
-msgstr "το μήκος του %m.list"
+msgstr "μήκος του %m.list"
 
 msgid "length of %s"
-msgstr "το μήκος του %s"
+msgstr "μήκος του %s"
 
 msgid "letter %n of %s"
 msgstr "γράμμα %n του %s"
@@ -212,10 +212,10 @@ msgid "mouse down?"
 msgstr "πατήθηκε το ποντίκι"
 
 msgid "mouse x"
-msgstr "ποντίκι x"
+msgstr "θέση x ποντικιού"
 
 msgid "mouse y"
-msgstr "ποντίκι y"
+msgstr "θέση y ποντικιού"
 
 msgid "move %n steps"
 msgstr "κινήσου %n βήματα"
@@ -262,7 +262,7 @@ msgid "point in direction %d.direction"
 msgstr "δείξε προς την κατεύθυνση %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "δείξε στο %m.spriteOrMouse"
+msgstr "δείξε προς το %m.spriteOrMouse"
 
 msgid "repeat %n"
 msgstr "επανάλαβε %n"
@@ -271,7 +271,7 @@ msgid "repeat until %b"
 msgstr "επανάλαβε ώσπου %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "αντικατάστησε στοιχείο %d.listItem του %m.list με %s"
+msgstr "αντικατάστησε το στοιχείο %d.listItem του %m.list με %s"
 
 msgid "reset timer"
 msgstr "μηδένισε τη χρονομέτρηση"
@@ -330,7 +330,7 @@ msgid "set size to %n%"
 msgstr "όρισε το μέγεθος σε %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "όρισε ρυθμό σε %n χτύπους το λεπτό"
+msgstr "όρισε το ρυθμό σε %n χτύπους το λεπτό"
 
 msgid "set video transparency to %n%"
 msgstr "όρισε τη διαφάνεια του βίντεο σε %n%"
@@ -360,7 +360,7 @@ msgid "Sound"
 msgstr "Ήχος"
 
 msgid "stamp"
-msgstr "κάνε στάμπα"
+msgstr "κάνε μία στάμπα"
 
 msgid "stop %m.stop"
 msgstr "σταμάτησε %m.stop"
@@ -458,7 +458,7 @@ msgid "when I receive %m.broadcast"
 msgstr "όταν λάβω το %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "όταν ξεκινήσω σαν κλώνος"
 
 msgid "when this sprite clicked"
 msgstr "όταν σε αυτή την μορφή γίνει κλικ"

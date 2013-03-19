@@ -3,10 +3,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: 0.3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:53+0200\n"
-"PO-Revision-Date: 2013-01-31 15:42+0200\n"
+"POT-Creation-Date: 2013-02-11 10:49+0200\n"
+"PO-Revision-Date: 2013-03-08 21:38+0200\n"
 "Last-Translator: Milan <milan.cajic@open.telekom.rs>\n"
 "Language-Team: српски <>\n"
 "Language: sr\n"
@@ -18,9 +18,6 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Language: sr_RS\n"
 "X-Source-Language: C\n"
-
-msgid "#"
-msgstr "број"
 
 msgid "10 ^"
 msgstr "10 на степен"
@@ -64,6 +61,13 @@ msgstr "arctan"
 msgid "B connected"
 msgstr "B повезан"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "Пошаљи слој назат (Shift: сасвим назат)"
+
+# 88%
+msgid "backdrop"
+msgstr "позадина"
+
 msgid "backdrop #"
 msgstr "позадина број"
 
@@ -72,6 +76,10 @@ msgstr "име позадине"
 
 msgid "backdrop1"
 msgstr "позадина1"
+
+# 88%
+msgid "backdrops"
+msgstr "позадине"
 
 msgid "Backpack"
 msgstr "Остава"
@@ -88,17 +96,14 @@ msgstr "Фагот"
 msgid "Bongo"
 msgstr "Бонго"
 
-msgid "bottom-left"
-msgstr "доле-лево"
-
-msgid "bottom-right"
-msgstr "доле-десно"
-
 msgid "brightness"
 msgstr "осветљеност"
 
 msgid "button pressed"
 msgstr "дугме је притиснуто"
+
+msgid "by"
+msgstr "аутор:"
 
 msgid "C connected"
 msgstr "C повезан"
@@ -196,17 +201,20 @@ msgstr "Умножи"
 msgid "duplicate"
 msgstr "умножи"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Умножи (Shift: вишеструко)"
+
 msgid "e ^"
-msgstr "e ^"
+msgstr "e на степен"
 
 msgid "edge"
 msgstr "руб"
 
-msgid "edit"
-msgstr "уреди"
-
 msgid "Edit"
 msgstr "Уреди"
+
+msgid "edit"
+msgstr "уреди"
 
 msgid "Effects"
 msgstr "Ефекти"
@@ -217,6 +225,12 @@ msgstr "Електрична гитара"
 msgid "Electric Piano"
 msgstr "Електрични клавир"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr "Елипса (Shift: круг)"
+
+msgid "Erase"
+msgstr "Обриши"
+
 msgid "fade in"
 msgstr "постепено појављивање"
 
@@ -225,6 +239,10 @@ msgstr "постепено исчезавање"
 
 msgid "File"
 msgstr "Датотека"
+
+# 75%
+msgid "Fill"
+msgstr "Попуни"
 
 msgid "fisheye"
 msgstr "рибље око"
@@ -235,8 +253,14 @@ msgstr "цео"
 msgid "Flute"
 msgstr "Флаута"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "Слој напред (Shift: сасвим напред)"
+
 msgid "ghost"
 msgstr "дух"
+
+msgid "Group"
+msgstr "Групиши"
 
 msgid "Guiro"
 msgstr "Гиро"
@@ -271,6 +295,9 @@ msgstr "Библиотека"
 msgid "light"
 msgstr "светло"
 
+msgid "Line"
+msgstr "Линија"
+
 msgid "ln"
 msgstr "ln"
 
@@ -291,9 +318,6 @@ msgstr "Маримба"
 
 msgid "message1"
 msgstr "порука1"
-
-msgid "middle"
-msgstr "средина"
 
 msgid "minute"
 msgstr "минут"
@@ -316,12 +340,6 @@ msgstr "Музичка кутија"
 msgid "myself"
 msgstr "мене"
 
-msgid "name"
-msgstr "име"
-
-msgid "New"
-msgstr "Ново"
-
 msgid "New backdrop"
 msgstr "Нова позадина"
 
@@ -334,8 +352,12 @@ msgstr "нова порука"
 msgid "New sound"
 msgstr "Нови звук"
 
-msgid "New sprite:"
-msgstr "Нови лик:"
+# 90%
+msgid "New sprite"
+msgstr "Нови лик"
+
+msgid "No motion blocks"
+msgstr "Нема блокова за кретање"
 
 msgid "off"
 msgstr "искључено"
@@ -364,11 +386,17 @@ msgstr "Насликај"
 msgid "paste"
 msgstr "убаци"
 
+msgid "Pencil"
+msgstr "Оловка"
+
 msgid "photo1"
 msgstr "фотографија1"
 
 msgid "Piano"
 msgstr "Клавир"
+
+msgid "Pick up Color"
+msgstr "Одабери боју"
 
 msgid "pixelate"
 msgstr "позрнати"
@@ -388,11 +416,17 @@ msgstr "Сними"
 msgid "recording1"
 msgstr "снимак1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr "Правоугаоник (Shift: квадрат)"
+
 msgid "redo"
 msgstr "понови"
 
 msgid "Remix"
 msgstr "Ремикс"
+
+msgid "Reshape"
+msgstr "Преобликуј"
 
 msgid "resistance-A"
 msgstr "отпор-A"
@@ -418,11 +452,11 @@ msgstr "стрелица десно"
 msgid "Saxophone"
 msgstr "Саксофон"
 
-msgid "say"
-msgstr "кажи"
-
 msgid "Scratch Cat"
 msgstr "Scratch маца"
+
+msgid "Scripts"
+msgstr "Програми"
 
 msgid "second"
 msgstr "секунда"
@@ -430,14 +464,20 @@ msgstr "секунда"
 msgid "See project page"
 msgstr "Погледај страну пројекта"
 
+msgid "Select"
+msgstr "Изабери"
+
 msgid "select all"
 msgstr "изабери све"
 
-msgid "Share"
-msgstr "Објави"
+msgid "Set Costume Center"
+msgstr "Изабери центар лика"
 
-msgid "shout"
-msgstr "вичи"
+msgid "Share"
+msgstr "Објави (дели)"
+
+msgid "shared"
+msgstr "објављено (дељено)"
 
 msgid "show receivers"
 msgstr "прикажи примаоце"
@@ -472,6 +512,10 @@ msgstr "звук"
 msgid "space"
 msgstr "размак"
 
+# 85%
+msgid "Sprite"
+msgstr "Лик"
+
 msgid "Sprites"
 msgstr "Ликови"
 
@@ -480,6 +524,9 @@ msgstr "корен"
 
 msgid "Stage"
 msgstr "Позорница"
+
+msgid "Stage selected"
+msgstr "Изабрана је позорница"
 
 msgid "Steel Drum"
 msgstr "Метални бубањ"
@@ -496,11 +543,11 @@ msgstr "Даире"
 msgid "tan"
 msgstr "tg"
 
+msgid "Text"
+msgstr "Текст"
+
 msgid "that way"
 msgstr "позитиван"
-
-msgid "think"
-msgstr "мисли"
 
 msgid "this script"
 msgstr "овај програм"
@@ -520,20 +567,23 @@ msgstr "Савети"
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "Да би обрисали дефиницију блока, прво уклоните све употребе блока."
 
-msgid "top-left"
-msgstr "горе-лево"
-
-msgid "top-right"
-msgstr "горе-десно"
-
 msgid "Triangle"
 msgstr "Троугао"
 
 msgid "Trombone"
 msgstr "Тромбон"
 
+msgid "Turbo Mode"
+msgstr "Турбо мод"
+
 msgid "undo"
 msgstr "опозови"
+
+msgid "Ungroup"
+msgstr "Разгрупиши"
+
+msgid "unshared"
+msgstr "необјављено (недељено)"
 
 msgid "up"
 msgstr "горе"
@@ -556,9 +606,6 @@ msgstr "јачина звука"
 msgid "whirl"
 msgstr "вртлог"
 
-msgid "whisper"
-msgstr "шапат"
-
 msgid "Wood Block"
 msgstr "Дрвени блок"
 
@@ -573,6 +620,45 @@ msgstr "y места"
 
 msgid "year"
 msgstr "година"
+
+#~ msgid "#"
+#~ msgstr "број"
+
+#~ msgid "bottom-left"
+#~ msgstr "доле-лево"
+
+#~ msgid "bottom-right"
+#~ msgstr "доле-десно"
+
+#~ msgid "middle"
+#~ msgstr "средина"
+
+#~ msgid "name"
+#~ msgstr "име"
+
+#~ msgid "New"
+#~ msgstr "Ново"
+
+#~ msgid "New sprite:"
+#~ msgstr "Нови лик:"
+
+#~ msgid "say"
+#~ msgstr "кажи"
+
+#~ msgid "shout"
+#~ msgstr "вичи"
+
+#~ msgid "think"
+#~ msgstr "мисли"
+
+#~ msgid "top-left"
+#~ msgstr "горе-лево"
+
+#~ msgid "top-right"
+#~ msgstr "горе-десно"
+
+#~ msgid "whisper"
+#~ msgstr "шапат"
 
 #~ msgid "any"
 #~ msgstr "било који"

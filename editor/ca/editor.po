@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2013-02-10 19:24+0200\n"
+"POT-Creation-Date: 2013-02-11 10:47+0200\n"
+"PO-Revision-Date: 2013-02-23 21:10+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -12,9 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr "#"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -58,6 +55,13 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B connectat"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "Capa enrera (Tecla majúscules: Envia darrera)"
+
+# 88%
+msgid "backdrop"
+msgstr "fons"
+
 msgid "backdrop #"
 msgstr "fons nr"
 
@@ -66,6 +70,10 @@ msgstr "nom del fons"
 
 msgid "backdrop1"
 msgstr "fons1"
+
+# 88%
+msgid "backdrops"
+msgstr "fons"
 
 msgid "Backpack"
 msgstr "Motxilla"
@@ -82,17 +90,14 @@ msgstr "Fagot"
 msgid "Bongo"
 msgstr "Bongo"
 
-msgid "bottom-left"
-msgstr "inferior-esquerra"
-
-msgid "bottom-right"
-msgstr "inferior-dreta"
-
 msgid "brightness"
 msgstr "brillantor"
 
 msgid "button pressed"
 msgstr "botó premut"
+
+msgid "by"
+msgstr "per"
 
 msgid "C connected"
 msgstr "C connectat"
@@ -191,17 +196,20 @@ msgstr "Duplica"
 msgid "duplicate"
 msgstr "duplica"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Duplica (Tecla majúscules: Multiple)"
+
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
 msgstr "vora"
 
-msgid "edit"
-msgstr "edita"
-
 msgid "Edit"
 msgstr "Edita"
+
+msgid "edit"
+msgstr "edita"
 
 msgid "Effects"
 msgstr "Efectes"
@@ -212,6 +220,12 @@ msgstr "Guitarra elèctrica"
 msgid "Electric Piano"
 msgstr "Piano elèctric"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr "El·lipse (Tecla canvi: Cercle)"
+
+msgid "Erase"
+msgstr "Esborra"
+
 msgid "fade in"
 msgstr "augmenta"
 
@@ -220,6 +234,10 @@ msgstr "disminueix"
 
 msgid "File"
 msgstr "Fitxer"
+
+# 75%
+msgid "Fill"
+msgstr "Omple"
 
 msgid "fisheye"
 msgstr "ull de peix"
@@ -230,8 +248,14 @@ msgstr "part sencera"
 msgid "Flute"
 msgstr "Flauta"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "Capa endavant (Tecla majúscules: Envia al front)"
+
 msgid "ghost"
 msgstr "transparència"
+
+msgid "Group"
+msgstr "Grup"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -266,6 +290,9 @@ msgstr "Llibreria"
 msgid "light"
 msgstr "llum"
 
+msgid "Line"
+msgstr "Línia"
+
 msgid "ln"
 msgstr "ln"
 
@@ -286,9 +313,6 @@ msgstr "Marimba"
 
 msgid "message1"
 msgstr "missatge1"
-
-msgid "middle"
-msgstr "centre"
 
 msgid "minute"
 msgstr "minut"
@@ -311,12 +335,6 @@ msgstr "Caixa xinesa"
 msgid "myself"
 msgstr "mi mateix"
 
-msgid "name"
-msgstr "nom"
-
-msgid "New"
-msgstr "Nou"
-
 msgid "New backdrop"
 msgstr "Nou fons"
 
@@ -329,8 +347,12 @@ msgstr "nou missatge..."
 msgid "New sound"
 msgstr "Nou so"
 
-msgid "New sprite:"
-msgstr "Nou personatge: "
+# 90%
+msgid "New sprite"
+msgstr "Nou personatge"
+
+msgid "No motion blocks"
+msgstr "Sense blocs de moviment"
 
 msgid "off"
 msgstr "apaga"
@@ -360,11 +382,17 @@ msgstr "Dibuixa"
 msgid "paste"
 msgstr "enganxa"
 
+msgid "Pencil"
+msgstr "Llapis"
+
 msgid "photo1"
 msgstr "foto1"
 
 msgid "Piano"
 msgstr "Piano"
+
+msgid "Pick up Color"
+msgstr "Escull un Color"
 
 msgid "pixelate"
 msgstr "pixelar"
@@ -384,11 +412,17 @@ msgstr "Grava"
 msgid "recording1"
 msgstr "gravació1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr "Rectangle (Tecla majúscules: Quadrat)"
+
 msgid "redo"
 msgstr "torna-hi"
 
 msgid "Remix"
 msgstr "Reinventa"
+
+msgid "Reshape"
+msgstr "Redibuixa"
 
 msgid "resistance-A"
 msgstr "resistència-A"
@@ -414,11 +448,11 @@ msgstr "fletxa dreta"
 msgid "Saxophone"
 msgstr "Saxòfon"
 
-msgid "say"
-msgstr "digues"
-
 msgid "Scratch Cat"
 msgstr "Gat Scratch"
+
+msgid "Scripts"
+msgstr "Programes"
 
 msgid "second"
 msgstr "segon"
@@ -426,14 +460,20 @@ msgstr "segon"
 msgid "See project page"
 msgstr "Veure la pàgina del projecte"
 
+msgid "Select"
+msgstr "Selecciona"
+
 msgid "select all"
 msgstr "selecciona-ho tot"
+
+msgid "Set Costume Center"
+msgstr "Fixa el Centre del Vestit"
 
 msgid "Share"
 msgstr "Comparteix"
 
-msgid "shout"
-msgstr "crida"
+msgid "shared"
+msgstr "compartit"
 
 msgid "show receivers"
 msgstr "mostra els receptors"
@@ -468,6 +508,10 @@ msgstr "so"
 msgid "space"
 msgstr "espai"
 
+# 85%
+msgid "Sprite"
+msgstr "Personatge"
+
 msgid "Sprites"
 msgstr "Personatges"
 
@@ -476,6 +520,9 @@ msgstr "arrel quadrada"
 
 msgid "Stage"
 msgstr "Escenari"
+
+msgid "Stage selected"
+msgstr "Escenari seleccionat"
 
 msgid "Steel Drum"
 msgstr "Tambor d'acer"
@@ -492,11 +539,11 @@ msgstr "Pandereta"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr "Text"
+
 msgid "that way"
 msgstr "cap aquí"
-
-msgid "think"
-msgstr "pensa"
 
 msgid "this script"
 msgstr "aquest programa"
@@ -518,20 +565,23 @@ msgstr ""
 "Per esborrar la definició d'un bloc, primer cal esborrar-lo de tot arreu on "
 "es faci servir."
 
-msgid "top-left"
-msgstr "superior-esquerra"
-
-msgid "top-right"
-msgstr "superior-dreta"
-
 msgid "Triangle"
 msgstr "Triangle"
 
 msgid "Trombone"
 msgstr "Trombó"
 
+msgid "Turbo Mode"
+msgstr "Mode Turbo"
+
 msgid "undo"
 msgstr "desfés"
+
+msgid "Ungroup"
+msgstr "Separar"
+
+msgid "unshared"
+msgstr "no compartit"
 
 msgid "up"
 msgstr "amunt"
@@ -554,9 +604,6 @@ msgstr "volum"
 msgid "whirl"
 msgstr "girar"
 
-msgid "whisper"
-msgstr "xiuxiueja"
-
 msgid "Wood Block"
 msgstr "Bloc de fusta"
 
@@ -571,6 +618,45 @@ msgstr "posició y"
 
 msgid "year"
 msgstr "any"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "inferior-esquerra"
+
+#~ msgid "bottom-right"
+#~ msgstr "inferior-dreta"
+
+#~ msgid "middle"
+#~ msgstr "centre"
+
+#~ msgid "name"
+#~ msgstr "nom"
+
+#~ msgid "New"
+#~ msgstr "Nou"
+
+#~ msgid "New sprite:"
+#~ msgstr "Nou personatge: "
+
+#~ msgid "say"
+#~ msgstr "digues"
+
+#~ msgid "shout"
+#~ msgstr "crida"
+
+#~ msgid "think"
+#~ msgstr "pensa"
+
+#~ msgid "top-left"
+#~ msgstr "superior-esquerra"
+
+#~ msgid "top-right"
+#~ msgstr "superior-dreta"
+
+#~ msgid "whisper"
+#~ msgstr "xiuxiueja"
 
 #~ msgid "any"
 #~ msgstr "qualsevol"

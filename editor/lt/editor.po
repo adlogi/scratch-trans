@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:52+0200\n"
-"PO-Revision-Date: 2013-01-29 20:52+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"POT-Creation-Date: 2013-02-11 10:49+0200\n"
+"PO-Revision-Date: 2013-02-22 20:03+0200\n"
+"Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
@@ -14,80 +14,80 @@ msgstr ""
 "100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.1.6\n"
 
-msgid "#"
-msgstr ""
-
 msgid "10 ^"
-msgstr ""
+msgstr "10 ^"
 
 msgid "A connected"
-msgstr ""
+msgstr "A sujungta"
 
 msgid "abs"
 msgstr "teigiama reikšmė"
 
 msgid "acos"
-msgstr ""
+msgstr "arccos"
 
 msgid "Add a boolean input:"
-msgstr ""
+msgstr "Loginė reikšmė"
 
 msgid "Add a number input:"
-msgstr ""
+msgstr "Skaitinė reikšmė"
 
 msgid "Add a string input:"
-msgstr ""
+msgstr "Tekstinė reikšmė"
 
 msgid "add comment"
-msgstr ""
+msgstr "Komentaras"
 
 msgid "Add label text:"
-msgstr ""
+msgstr "Etiketės tekstas"
 
 msgid "all"
 msgstr "viskas"
 
 msgid "all around"
-msgstr ""
+msgstr "aplinkui"
 
 msgid "asin"
-msgstr ""
+msgstr "arcsin"
 
 msgid "atan"
-msgstr ""
+msgstr "arctg"
 
 msgid "B connected"
-msgstr ""
+msgstr "B sujungta"
+
+msgid "Back a layer (Shift: Send to back)"
+msgstr "Sluoksniu žemyn (Shift: Į paskutinį sluoksnį)"
+
+msgid "backdrop"
+msgstr "fonas"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "fono nr."
 
 msgid "backdrop name"
-msgstr ""
+msgstr "fono pavadinimas"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "fonas 1"
+
+msgid "backdrops"
+msgstr "fonai"
 
 msgid "Backpack"
-msgstr ""
+msgstr "Komandų krepšelis"
 
 msgid "Bass"
-msgstr ""
+msgstr "Bosas"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Bosinis Būgnas"
 
 msgid "Bassoon"
 msgstr "Fagotas"
 
 msgid "Bongo"
-msgstr ""
-
-msgid "bottom-left"
-msgstr ""
-
-msgid "bottom-right"
-msgstr ""
+msgstr "Bongo būgnas"
 
 msgid "brightness"
 msgstr "šviesumas"
@@ -95,8 +95,11 @@ msgstr "šviesumas"
 msgid "button pressed"
 msgstr "mygtukas paspaustas"
 
-msgid "C connected"
+msgid "by"
 msgstr ""
+
+msgid "C connected"
+msgstr "C sujungta"
 
 msgid "Cabasa"
 msgstr "Kabasa"
@@ -105,16 +108,16 @@ msgid "Camera"
 msgstr "Vaizdo kamera"
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Negalima ištrinti"
 
 msgid "ceiling"
-msgstr ""
+msgstr "apvalink aukštyn"
 
 msgid "Cello"
 msgstr "Violončelė"
 
 msgid "Choir"
-msgstr ""
+msgstr "Choras"
 
 msgid "Clarinet"
 msgstr "Klarnetas"
@@ -123,7 +126,7 @@ msgid "Claves"
 msgstr "Strypeliai"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "išvalyk siuntėjus/gavėjus"
 
 msgid "Closed Hi-Hat"
 msgstr "Uždaras haihetas"
@@ -132,52 +135,52 @@ msgid "color"
 msgstr "spalva"
 
 msgid "Conga"
-msgstr ""
+msgstr "Konga"
 
 msgid "copy"
-msgstr "Kopijuoti"
+msgstr "kopijuoti"
 
 msgid "cos"
-msgstr ""
+msgstr "cos"
 
 msgid "costume #"
-msgstr ""
+msgstr "kaukės nr."
 
 msgid "costume name"
-msgstr ""
+msgstr "kaukės pavadinimas"
 
 msgid "costume1"
-msgstr ""
+msgstr "kaukė 1"
 
 msgid "costume2"
-msgstr ""
+msgstr "kaukė 2"
 
 msgid "Cowbell"
 msgstr "Skrabalas"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "„Crash“ lėkštės"
 
 msgid "cut"
-msgstr ""
+msgstr "iškirtpti"
 
 msgid "D connected"
-msgstr ""
+msgstr "D sujungta"
 
 msgid "date"
-msgstr ""
+msgstr "data"
 
 msgid "day of week"
-msgstr ""
+msgstr "savaitės diena"
 
 msgid "delete"
 msgstr "šalinti"
 
 msgid "direction"
-msgstr ""
+msgstr "kryptis"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "nesisukti"
 
 msgid "down"
 msgstr "žemyn"
@@ -191,59 +194,77 @@ msgstr "dubliuoti"
 msgid "duplicate"
 msgstr "dubliuoti"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Dubliuoti (Shift: Daugybinis)"
+
 msgid "e ^"
-msgstr ""
+msgstr "e ^"
 
 msgid "edge"
 msgstr "kraštas"
 
-msgid "edit"
-msgstr "Taisyti"
-
 msgid "Edit"
 msgstr "Taisyti"
 
+msgid "edit"
+msgstr "Taisyti"
+
 msgid "Effects"
-msgstr ""
+msgstr "Efektai"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Elektrinė gitara"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Sintezatorius"
+
+msgid "Ellipse (Shift: Circle)"
+msgstr "Elipsė (Shift: Apskritimas)"
+
+msgid "Erase"
+msgstr "Trintukas"
 
 msgid "fade in"
-msgstr ""
+msgstr "sustiprinti"
 
 msgid "fade out"
-msgstr ""
+msgstr "susilpninti"
 
 msgid "File"
-msgstr ""
+msgstr "Failas"
+
+msgid "Fill"
+msgstr "Užpildiklis"
 
 msgid "fisheye"
 msgstr "optinis lęšis"
 
 msgid "floor"
-msgstr ""
+msgstr "apvalink žemyn"
 
 msgid "Flute"
 msgstr "Fleita"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "Sluoksniu aukštyn (Shift: Į priekį)"
+
 msgid "ghost"
 msgstr "permatomumas"
 
+msgid "Group"
+msgstr "Grupuoti"
+
 msgid "Guiro"
-msgstr ""
+msgstr "Giras"
 
 msgid "Guitar"
-msgstr ""
+msgstr "Gitara"
 
 msgid "Hand Clap"
 msgstr "Pliaukštelėjimas delnais"
 
 msgid "hour"
-msgstr ""
+msgstr "valanda"
 
 msgid "Import"
 msgstr "įkelti"
@@ -258,49 +279,49 @@ msgid "left arrow"
 msgstr "rodyklė kairėn"
 
 msgid "left-right"
-msgstr ""
+msgstr "kairėn-dešinėn"
 
 msgid "Library"
-msgstr ""
+msgstr "Biblioteka"
 
 msgid "light"
 msgstr "šviesa"
 
+msgid "Line"
+msgstr "Linija"
+
 msgid "ln"
-msgstr ""
+msgstr "ln"
 
 msgid "log"
-msgstr ""
+msgstr "lg"
 
 msgid "login"
-msgstr ""
+msgstr "prisijungti"
 
 msgid "louder"
-msgstr ""
+msgstr "garsiau"
 
 msgid "loudness"
-msgstr ""
+msgstr "garsumas"
 
 msgid "Marimba"
 msgstr "Marimba"
 
 msgid "message1"
-msgstr ""
-
-msgid "middle"
-msgstr ""
+msgstr "žinia 1"
 
 msgid "minute"
-msgstr ""
+msgstr "minutė"
 
 msgid "month"
-msgstr ""
+msgstr "mėnuo"
 
 msgid "mosaic"
 msgstr "mozaika"
 
 msgid "motion"
-msgstr ""
+msgstr "judesys"
 
 msgid "mouse-pointer"
 msgstr "pelės rodyklė"
@@ -309,29 +330,25 @@ msgid "Music Box"
 msgstr "Muzikinė dėžutė"
 
 msgid "myself"
-msgstr ""
-
-msgid "name"
-msgstr ""
-
-#, fuzzy
-msgid "New"
-msgstr "Nouveau"
+msgstr "save"
 
 msgid "New backdrop"
-msgstr ""
+msgstr "Naujas fonas"
 
 msgid "New costume"
-msgstr ""
+msgstr "Nauja kaukė"
 
 msgid "new message..."
-msgstr ""
+msgstr "nauja žinia..."
 
 msgid "New sound"
-msgstr ""
+msgstr "Naujas garsas"
 
-msgid "New sprite:"
-msgstr "Naujas veikėjas:"
+msgid "New sprite"
+msgstr "Naujas veikėjas"
+
+msgid "No motion blocks"
+msgstr "Be judėjimo komandų"
 
 msgid "off"
 msgstr "Išjungti"
@@ -349,22 +366,28 @@ msgid "Open Hi-Hat"
 msgstr "Atviras haihetas"
 
 msgid "Organ"
-msgstr ""
+msgstr "Vargonai"
 
 msgid "other scripts in sprite"
-msgstr ""
+msgstr "kiti veikėjo scenarijai"
 
 msgid "Paint"
 msgstr "Piešti"
 
 msgid "paste"
-msgstr ""
+msgstr "įklijuoti"
+
+msgid "Pencil"
+msgstr "Pieštukas"
 
 msgid "photo1"
-msgstr ""
+msgstr "nuotrauka 1"
 
 msgid "Piano"
-msgstr ""
+msgstr "Pianinas"
+
+msgid "Pick up Color"
+msgstr "Išrinkti spalvą"
 
 msgid "pixelate"
 msgstr "stambinti taškus"
@@ -376,31 +399,37 @@ msgid "pop"
 msgstr "paskutinis"
 
 msgid "random"
-msgstr ""
+msgstr "atsitiktinis"
 
 msgid "Record"
 msgstr "įrašyti"
 
 msgid "recording1"
-msgstr ""
+msgstr "įrašas 1"
+
+msgid "Rectangle (Shift: Square)"
+msgstr "Stačiakampis (Shift: Kvadratas)"
 
 msgid "redo"
 msgstr "Pakartoti"
 
 msgid "Remix"
-msgstr ""
+msgstr "Remiksas"
+
+msgid "Reshape"
+msgstr "Pakeisti formą"
 
 msgid "resistance-A"
-msgstr ""
+msgstr "A varža"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "B varža"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "C varža"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "D varža"
 
 msgid "reverse"
 msgstr "apgręžti"
@@ -412,124 +441,139 @@ msgid "right arrow"
 msgstr "rodyklė dešinėn"
 
 msgid "Saxophone"
-msgstr ""
-
-msgid "say"
-msgstr ""
+msgstr "Saksofonas"
 
 msgid "Scratch Cat"
-msgstr ""
+msgstr "Katinas"
+
+msgid "Scripts"
+msgstr "Scenarijai"
 
 msgid "second"
-msgstr ""
+msgstr "sekundė"
 
 msgid "See project page"
-msgstr ""
+msgstr "Peržiūrėti projekto puslapį"
+
+msgid "Select"
+msgstr "Pažymėti"
 
 msgid "select all"
-msgstr ""
+msgstr "pažymėti viską"
+
+msgid "Set Costume Center"
+msgstr "Nustatyti kaukės centrą"
 
 msgid "Share"
-msgstr ""
+msgstr "Dalintis"
 
-msgid "shout"
+msgid "shared"
 msgstr ""
 
 msgid "show receivers"
-msgstr ""
+msgstr "rodyti gavėjus"
 
 msgid "show senders"
-msgstr ""
+msgstr "rodyti siuntėjus"
 
 msgid "Side Stick"
 msgstr "Lazdele per apvadą"
 
 msgid "silence"
-msgstr ""
+msgstr "tyla"
 
 msgid "sin"
-msgstr ""
+msgstr "sin"
 
 msgid "size"
-msgstr ""
+msgstr "dydis"
 
 msgid "slider"
 msgstr "slinktis"
 
 msgid "Snare Drum"
-msgstr ""
+msgstr "Mažasis būgnas"
 
 msgid "softer"
-msgstr ""
+msgstr "švelniau"
 
 msgid "sound"
-msgstr ""
+msgstr "garsas"
 
 msgid "space"
 msgstr "<tarpas>"
+
+msgid "Sprite"
+msgstr "Veikėjas"
 
 msgid "Sprites"
 msgstr "Veikėjai"
 
 msgid "sqrt"
-msgstr "kvadratinė šaknis iš"
+msgstr "šaknis iš"
 
 msgid "Stage"
 msgstr "Scena"
 
+msgid "Stage selected"
+msgstr "Pažymėta scena"
+
 msgid "Steel Drum"
-msgstr ""
+msgstr "Plieno būgnas"
 
 msgid "Synth Lead"
-msgstr ""
+msgstr "Solinis sintezatorius"
 
 msgid "Synth Pad"
-msgstr ""
+msgstr "Sintezatoriaus klaviatūra"
 
 msgid "Tambourine"
 msgstr "Tambūrinas"
 
 msgid "tan"
-msgstr ""
+msgstr "tg"
+
+msgid "Text"
+msgstr "Tekstas"
 
 msgid "that way"
-msgstr "Taip"
-
-msgid "think"
-msgstr ""
+msgstr "šian"
 
 msgid "this script"
-msgstr ""
+msgstr "šis scenarijus"
 
 msgid "this sprite"
-msgstr ""
+msgstr "šis veikėjas"
 
 msgid "this way"
-msgstr "Taip"
+msgstr "ten"
 
 msgid "timer"
-msgstr ""
+msgstr "laikmatis"
 
 msgid "Tips"
-msgstr ""
+msgstr "Užuominos"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr ""
-
-msgid "top-left"
-msgstr ""
-
-msgid "top-right"
-msgstr ""
+msgstr "Norint ištrinti komandą, reikia, kad ji būtų nenaudojama."
 
 msgid "Triangle"
-msgstr ""
+msgstr "Trikampis"
 
 msgid "Trombone"
 msgstr "Trombonas"
 
+msgid "Turbo Mode"
+msgstr "Turbo veiksena"
+
 msgid "undo"
 msgstr "Grąžinti veiksmą"
+
+msgid "Ungroup"
+msgstr "Išgrupuoti"
+
+msgid "unshared"
+msgstr ""
 
 msgid "up"
 msgstr "aukštyn"
@@ -544,31 +588,35 @@ msgid "Vibraslap"
 msgstr "Barškalas"
 
 msgid "video motion"
-msgstr ""
+msgstr "vaizdo judesys"
 
 msgid "volume"
-msgstr ""
+msgstr "garsumas"
 
 msgid "whirl"
 msgstr "susukimas"
 
-msgid "whisper"
-msgstr ""
-
 msgid "Wood Block"
-msgstr ""
+msgstr "Trinkelė"
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Medinė fleita"
 
 msgid "x position"
-msgstr ""
+msgstr "x"
 
 msgid "y position"
-msgstr ""
+msgstr "y"
 
 msgid "year"
-msgstr ""
+msgstr "metai"
+
+#, fuzzy
+#~ msgid "New"
+#~ msgstr "Nouveau"
+
+#~ msgid "New sprite:"
+#~ msgstr "Naujas veikėjas:"
 
 #~ msgid "any"
 #~ msgstr "bet kuris"

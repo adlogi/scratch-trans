@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:51+0200\n"
+"POT-Creation-Date: 2013-02-11 10:48+0200\n"
 "PO-Revision-Date: 2013-01-05 20:07+0200\n"
 "Last-Translator: ukkeli <avuorilehto@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,9 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr ""
 
 msgid "10 ^"
 msgstr ""
@@ -58,6 +55,14 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B liitetty"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr ""
+
+# 88%
+#, fuzzy
+msgid "backdrop"
+msgstr "tausta1"
+
 msgid "backdrop #"
 msgstr "tausta #"
 
@@ -65,6 +70,11 @@ msgid "backdrop name"
 msgstr "taustan nimi"
 
 msgid "backdrop1"
+msgstr "tausta1"
+
+# 88%
+#, fuzzy
+msgid "backdrops"
 msgstr "tausta1"
 
 msgid "Backpack"
@@ -82,17 +92,14 @@ msgstr "Bassoon"
 msgid "Bongo"
 msgstr ""
 
-msgid "bottom-left"
-msgstr "vasen-alareuna"
-
-msgid "bottom-right"
-msgstr "oikea-alareuna"
-
 msgid "brightness"
 msgstr "kirkkaus"
 
 msgid "button pressed"
 msgstr "näppäin painettu"
+
+msgid "by"
+msgstr ""
 
 msgid "C connected"
 msgstr "C liitetty"
@@ -192,16 +199,19 @@ msgstr "kopioi"
 msgid "duplicate"
 msgstr "kopioi"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr ""
+
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
 msgstr "reuna"
 
-msgid "edit"
+msgid "Edit"
 msgstr "Muokkaa"
 
-msgid "Edit"
+msgid "edit"
 msgstr "Muokkaa"
 
 msgid "Effects"
@@ -213,6 +223,12 @@ msgstr "Sähkökitara"
 msgid "Electric Piano"
 msgstr "Sähköpiano"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr ""
+
+msgid "Erase"
+msgstr ""
+
 msgid "fade in"
 msgstr "vaimenna alku"
 
@@ -220,6 +236,9 @@ msgid "fade out"
 msgstr "vaimenna loppu"
 
 msgid "File"
+msgstr ""
+
+msgid "Fill"
 msgstr ""
 
 msgid "fisheye"
@@ -231,8 +250,14 @@ msgstr "lattia"
 msgid "Flute"
 msgstr "Huilu"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr ""
+
 msgid "ghost"
 msgstr "haamu"
+
+msgid "Group"
+msgstr ""
 
 msgid "Guiro"
 msgstr ""
@@ -267,6 +292,9 @@ msgstr "Kirjasto"
 msgid "light"
 msgstr "vaalea"
 
+msgid "Line"
+msgstr ""
+
 msgid "ln"
 msgstr "ln"
 
@@ -287,9 +315,6 @@ msgstr "Marimba"
 
 msgid "message1"
 msgstr "viesti1"
-
-msgid "middle"
-msgstr "keskimmäinen"
 
 msgid "minute"
 msgstr "minuutti"
@@ -312,13 +337,6 @@ msgstr "Soittopeli"
 msgid "myself"
 msgstr ""
 
-msgid "name"
-msgstr "nimi"
-
-#, fuzzy
-msgid "New"
-msgstr "Nouveau"
-
 msgid "New backdrop"
 msgstr "Uusi tausta"
 
@@ -331,8 +349,13 @@ msgstr "uusi viesti..."
 msgid "New sound"
 msgstr "Uusi ääni"
 
-msgid "New sprite:"
+# 90%
+#, fuzzy
+msgid "New sprite"
 msgstr "Uusi hahmo:"
+
+msgid "No motion blocks"
+msgstr ""
 
 msgid "off"
 msgstr "pois"
@@ -363,11 +386,17 @@ msgstr "Piirrä"
 msgid "paste"
 msgstr "liitä"
 
+msgid "Pencil"
+msgstr ""
+
 msgid "photo1"
 msgstr "valokuva1"
 
 msgid "Piano"
 msgstr "Piano"
+
+msgid "Pick up Color"
+msgstr ""
 
 msgid "pixelate"
 msgstr "pikselöi"
@@ -387,11 +416,17 @@ msgstr "nauhoita"
 msgid "recording1"
 msgstr "nauhoitus1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr ""
+
 msgid "redo"
 msgstr "Tee uudelleen"
 
 msgid "Remix"
 msgstr "Remix"
+
+msgid "Reshape"
+msgstr ""
 
 msgid "resistance-A"
 msgstr "vastus-A"
@@ -417,10 +452,10 @@ msgstr "nuoli oikealle"
 msgid "Saxophone"
 msgstr "Saksofoni"
 
-msgid "say"
-msgstr "sano"
-
 msgid "Scratch Cat"
+msgstr ""
+
+msgid "Scripts"
 msgstr ""
 
 msgid "second"
@@ -429,14 +464,20 @@ msgstr "sekunti"
 msgid "See project page"
 msgstr "Katso projektisivu"
 
+msgid "Select"
+msgstr ""
+
 msgid "select all"
 msgstr "valitse kaikki"
+
+msgid "Set Costume Center"
+msgstr ""
 
 msgid "Share"
 msgstr ""
 
-msgid "shout"
-msgstr "huuda"
+msgid "shared"
+msgstr ""
 
 msgid "show receivers"
 msgstr "näytä vastaanottajat"
@@ -471,6 +512,11 @@ msgstr "ääni"
 msgid "space"
 msgstr "välilyönti"
 
+# 85%
+#, fuzzy
+msgid "Sprite"
+msgstr "Hahmot"
+
 msgid "Sprites"
 msgstr "Hahmot"
 
@@ -479,6 +525,9 @@ msgstr "neliöjuuri"
 
 msgid "Stage"
 msgstr "Esiintymislava"
+
+msgid "Stage selected"
+msgstr ""
 
 msgid "Steel Drum"
 msgstr "Teräsrumpu"
@@ -495,11 +544,11 @@ msgstr "Tamburiini"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr ""
+
 msgid "that way"
 msgstr "tuohon suuntaan"
-
-msgid "think"
-msgstr "ajattele"
 
 msgid "this script"
 msgstr "tämä skripti"
@@ -521,20 +570,23 @@ msgstr ""
 "Poistaaksesi lohkon määrityksen, poista ensin kaikki missä tätä lohkoa "
 "käytetään."
 
-msgid "top-left"
-msgstr "vasen-yläreuna"
-
-msgid "top-right"
-msgstr "oikea-yläreuna"
-
 msgid "Triangle"
 msgstr ""
 
 msgid "Trombone"
 msgstr "Trumpetti"
 
+msgid "Turbo Mode"
+msgstr ""
+
 msgid "undo"
 msgstr "Peruuta"
+
+msgid "Ungroup"
+msgstr ""
+
+msgid "unshared"
+msgstr ""
 
 msgid "up"
 msgstr "ylös"
@@ -557,9 +609,6 @@ msgstr "äänenvoimakkuus"
 msgid "whirl"
 msgstr "pyörre"
 
-msgid "whisper"
-msgstr "kuiskaus"
-
 msgid "Wood Block"
 msgstr ""
 
@@ -574,6 +623,43 @@ msgstr "y-sijainti"
 
 msgid "year"
 msgstr "vuosi"
+
+#~ msgid "bottom-left"
+#~ msgstr "vasen-alareuna"
+
+#~ msgid "bottom-right"
+#~ msgstr "oikea-alareuna"
+
+#~ msgid "middle"
+#~ msgstr "keskimmäinen"
+
+#~ msgid "name"
+#~ msgstr "nimi"
+
+#, fuzzy
+#~ msgid "New"
+#~ msgstr "Nouveau"
+
+#~ msgid "New sprite:"
+#~ msgstr "Uusi hahmo:"
+
+#~ msgid "say"
+#~ msgstr "sano"
+
+#~ msgid "shout"
+#~ msgstr "huuda"
+
+#~ msgid "think"
+#~ msgstr "ajattele"
+
+#~ msgid "top-left"
+#~ msgstr "vasen-yläreuna"
+
+#~ msgid "top-right"
+#~ msgstr "oikea-yläreuna"
+
+#~ msgid "whisper"
+#~ msgstr "kuiskaus"
 
 #~ msgid "any"
 #~ msgstr "joku"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:53+0200\n"
-"PO-Revision-Date: 2013-02-09 01:05+0200\n"
+"POT-Creation-Date: 2013-02-11 10:50+0200\n"
+"PO-Revision-Date: 2013-03-13 20:03+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -13,17 +13,14 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.1.6\n"
 
-msgid "#"
-msgstr "#"
-
 msgid "10 ^"
-msgstr "10^"
+msgstr "10 ^"
 
 msgid "A connected"
 msgstr "A bağlı"
 
 msgid "abs"
-msgstr "mutlakdeger"
+msgstr "mutlak değer"
 
 msgid "acos"
 msgstr "acos"
@@ -47,7 +44,7 @@ msgid "all"
 msgstr "hepsi"
 
 msgid "all around"
-msgstr "her yerde"
+msgstr "her yöne dönebilsin"
 
 msgid "asin"
 msgstr "asin"
@@ -58,6 +55,13 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B bağlı"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "Bir alta indir (Shift: En alta)"
+
+# 88%
+msgid "backdrop"
+msgstr "arkaperde"
+
 msgid "backdrop #"
 msgstr "arka perde #"
 
@@ -66,6 +70,10 @@ msgstr "arka perdenin adı"
 
 msgid "backdrop1"
 msgstr "arkaperde1"
+
+# 88%
+msgid "backdrops"
+msgstr "arkaperdeler"
 
 msgid "Backpack"
 msgstr "Sırt çantası"
@@ -82,17 +90,15 @@ msgstr "Fagot"
 msgid "Bongo"
 msgstr "Bongo"
 
-msgid "bottom-left"
-msgstr "sol-alt"
-
-msgid "bottom-right"
-msgstr "sağ-alt"
-
 msgid "brightness"
 msgstr "parlaklık"
 
 msgid "button pressed"
 msgstr "düğmeye basıldı"
+
+#, fuzzy
+msgid "by"
+msgstr "tarafından"
 
 msgid "C connected"
 msgstr "C bağlı"
@@ -176,7 +182,7 @@ msgid "direction"
 msgstr "yön"
 
 msgid "don't rotate"
-msgstr "çevirme"
+msgstr "hiç dönemesin"
 
 msgid "down"
 msgstr "aşağı"
@@ -190,17 +196,20 @@ msgstr "Kopyasını çıkart"
 msgid "duplicate"
 msgstr "kopyasını çıkart"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Kopyala (Shift: Bir sürü)"
+
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
 msgstr "kenar"
 
-msgid "edit"
-msgstr "düzenle"
-
 msgid "Edit"
 msgstr "Düzenle"
+
+msgid "edit"
+msgstr "düzenle"
 
 msgid "Effects"
 msgstr "Etkiler"
@@ -211,26 +220,42 @@ msgstr "Elektro Gitar"
 msgid "Electric Piano"
 msgstr "Elektro Piano"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr "Elips (Shift: Çember)"
+
+msgid "Erase"
+msgstr "Sil"
+
 msgid "fade in"
-msgstr "yoğunlaş"
+msgstr "giderek yükselt"
 
 msgid "fade out"
-msgstr "buharlaş"
+msgstr "giderek alçalt"
 
 msgid "File"
 msgstr "Dosya"
+
+# 75%
+msgid "Fill"
+msgstr "Doldur"
 
 msgid "fisheye"
 msgstr "balık gözü"
 
 msgid "floor"
-msgstr "zemin"
+msgstr "aşağı yuvarla"
 
 msgid "Flute"
 msgstr "Flüt"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "Bir üste çıkart (Shift: En üste)"
+
 msgid "ghost"
 msgstr "hayalet"
+
+msgid "Group"
+msgstr "Grup"
 
 msgid "Guiro"
 msgstr "Guiro (tırtıklı ahşap)"
@@ -245,7 +270,7 @@ msgid "hour"
 msgstr "saat"
 
 msgid "Import"
-msgstr "içeri aktarın"
+msgstr "Dışarıdan al"
 
 msgid "last"
 msgstr "son"
@@ -257,7 +282,7 @@ msgid "left arrow"
 msgstr "sol ok"
 
 msgid "left-right"
-msgstr "sol-sağ"
+msgstr "sağa-sola dönebilsin"
 
 msgid "Library"
 msgstr "Kütüphane"
@@ -265,8 +290,11 @@ msgstr "Kütüphane"
 msgid "light"
 msgstr "ışık"
 
+msgid "Line"
+msgstr "Çizgi"
+
 msgid "ln"
-msgstr "İçeri"
+msgstr "ln"
 
 msgid "log"
 msgstr "günlük"
@@ -284,10 +312,7 @@ msgid "Marimba"
 msgstr "Marimba"
 
 msgid "message1"
-msgstr "mesaj1"
-
-msgid "middle"
-msgstr "orta"
+msgstr "haber1"
 
 msgid "minute"
 msgstr "dakika"
@@ -302,19 +327,13 @@ msgid "motion"
 msgstr "hareket"
 
 msgid "mouse-pointer"
-msgstr "fare işaretçisi"
+msgstr "fare oku"
 
 msgid "Music Box"
 msgstr "Müzik Kutusu"
 
 msgid "myself"
 msgstr "kendim"
-
-msgid "name"
-msgstr "isim"
-
-msgid "New"
-msgstr "Yeni"
 
 msgid "New backdrop"
 msgstr "Yeni arka perde"
@@ -323,13 +342,17 @@ msgid "New costume"
 msgstr "Yeni kılık"
 
 msgid "new message..."
-msgstr "yeni mesaj..."
+msgstr "yeni haber..."
 
 msgid "New sound"
 msgstr "Yeni ses"
 
-msgid "New sprite:"
-msgstr "Yeni kukla:"
+# 90%
+msgid "New sprite"
+msgstr "Yeni kukla"
+
+msgid "No motion blocks"
+msgstr "Hareket bloğu yok"
 
 msgid "off"
 msgstr "kapalı"
@@ -358,11 +381,17 @@ msgstr "Boya"
 msgid "paste"
 msgstr "yapıştır"
 
+msgid "Pencil"
+msgstr "Kalem"
+
 msgid "photo1"
 msgstr "foto1"
 
 msgid "Piano"
 msgstr "Piyano"
+
+msgid "Pick up Color"
+msgstr "Rengi bul"
 
 msgid "pixelate"
 msgstr "benekleştir"
@@ -382,11 +411,17 @@ msgstr "Kaydet"
 msgid "recording1"
 msgstr "kayıt1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr "Dikdörtgen (Shift: Kare)"
+
 msgid "redo"
 msgstr "ileri al"
 
 msgid "Remix"
-msgstr "Remiks"
+msgstr "Ekleme"
+
+msgid "Reshape"
+msgstr "Şekli değiştir"
 
 msgid "resistance-A"
 msgstr "direnç-A"
@@ -412,11 +447,11 @@ msgstr "sağ ok"
 msgid "Saxophone"
 msgstr "Saksafon"
 
-msgid "say"
-msgstr "söyle"
-
 msgid "Scratch Cat"
 msgstr "Scratch Kedi"
+
+msgid "Scripts"
+msgstr "Komutlar"
 
 msgid "second"
 msgstr "saniye"
@@ -424,14 +459,20 @@ msgstr "saniye"
 msgid "See project page"
 msgstr "Proje sayfasına bakın"
 
+msgid "Select"
+msgstr "Seç"
+
 msgid "select all"
 msgstr "tümünü seç"
+
+msgid "Set Costume Center"
+msgstr "Kılık Merkezi Belirle"
 
 msgid "Share"
 msgstr "Paylaş"
 
-msgid "shout"
-msgstr "bağır"
+msgid "shared"
+msgstr "ortak"
 
 msgid "show receivers"
 msgstr "haber alanları göster"
@@ -466,6 +507,10 @@ msgstr "ses"
 msgid "space"
 msgstr "boşluk"
 
+# 85%
+msgid "Sprite"
+msgstr "Kukla"
+
 msgid "Sprites"
 msgstr "Kuklalar"
 
@@ -474,6 +519,9 @@ msgstr "karekök"
 
 msgid "Stage"
 msgstr "Sahne"
+
+msgid "Stage selected"
+msgstr "Sahne seçildi"
 
 msgid "Steel Drum"
 msgstr "Çelik Davul"
@@ -490,11 +538,11 @@ msgstr "Zilli Tef"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr "Yazı"
+
 msgid "that way"
 msgstr "o yoldan"
-
-msgid "think"
-msgstr "düşün"
 
 msgid "this script"
 msgstr "bu yordam"
@@ -512,13 +560,7 @@ msgid "Tips"
 msgstr "İpuçları"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr "Bir blok tanımını silebilmek için, önce bloğu kullananları silin"
-
-msgid "top-left"
-msgstr "sol-üst"
-
-msgid "top-right"
-msgstr "sağ-üst"
+msgstr "Bir blok tanımını silebilmek için, önce bloğu kullananları sil."
 
 msgid "Triangle"
 msgstr "Üçgen"
@@ -526,8 +568,17 @@ msgstr "Üçgen"
 msgid "Trombone"
 msgstr "Trombon"
 
+msgid "Turbo Mode"
+msgstr "Jet Hızında"
+
 msgid "undo"
 msgstr "geri al"
+
+msgid "Ungroup"
+msgstr "Grubu dağıt"
+
+msgid "unshared"
+msgstr "paylaşılmayan"
 
 msgid "up"
 msgstr "yukarı"
@@ -550,9 +601,6 @@ msgstr "ses şiddeti"
 msgid "whirl"
 msgstr "fırılda"
 
-msgid "whisper"
-msgstr "fısılda"
-
 msgid "Wood Block"
 msgstr "Tahta Blok"
 
@@ -567,6 +615,45 @@ msgstr "y konumu"
 
 msgid "year"
 msgstr "yıl"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "sol-alt"
+
+#~ msgid "bottom-right"
+#~ msgstr "sağ-alt"
+
+#~ msgid "middle"
+#~ msgstr "orta"
+
+#~ msgid "name"
+#~ msgstr "isim"
+
+#~ msgid "New"
+#~ msgstr "Yeni"
+
+#~ msgid "New sprite:"
+#~ msgstr "Yeni kukla:"
+
+#~ msgid "say"
+#~ msgstr "söyle"
+
+#~ msgid "shout"
+#~ msgstr "bağır"
+
+#~ msgid "think"
+#~ msgstr "düşün"
+
+#~ msgid "top-left"
+#~ msgstr "sol-üst"
+
+#~ msgid "top-right"
+#~ msgstr "sağ-üst"
+
+#~ msgid "whisper"
+#~ msgstr "fısılda"
 
 #~ msgid "any"
 #~ msgstr "hiç"

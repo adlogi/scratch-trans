@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-29 23:09+0000\n"
-"PO-Revision-Date: 2013-02-03 17:45+0200\n"
+"PO-Revision-Date: 2013-02-19 23:47+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -271,7 +271,7 @@ msgstr "Τα νέα του Scratch"
 
 #: templates/homepage/index.html:55
 msgid "Welcome, Scratchers!"
-msgstr "Καλωσορίσατε, Scratch-ιστές!"
+msgstr "Καλωσορίσατε, φίλοι του Scratch!"
 
 #: templates/homepage/index.html:56
 msgid ""
@@ -279,11 +279,11 @@ msgid ""
 "us know!"
 msgstr ""
 "Σας ευχαριστούμε που μας βοηθήσατε να βρούμε και να διορθώσουμε προβλήματα "
-"στο Scratch 2.0! Βρήκατε άλλο πρόβλημα; Ενημερώστε μας!"
+"στο Scratch 2.0! Βρήκατε κάποιο άλλο πρόβλημα; Ενημερώστε μας!"
 
 #: templates/homepage/index.html:57
 msgid "Report bugs here &raquo;"
-msgstr "Αναφορά προβλημάτων εδώ &raquo;"
+msgstr "Αναφέρετε προβλήματα εδώ &raquo;"
 
 #: templates/homepage/index.html:64
 msgid "Try out new features"
@@ -305,7 +305,7 @@ msgstr "Scratch 2.0 Beta"
 
 #: templates/homepage/index.html:83
 msgid "Welcome to the Scratch 2.0 Beta website!"
-msgstr "Καλωσορίσατε στη σελίδα του Scratch 2.0 Beta!"
+msgstr "Καλωσορίσατε στην αρχική σελίδα του Scratch 2.0 Beta!"
 
 #: templates/homepage/index.html:86
 msgid ""
@@ -336,7 +336,7 @@ msgid ""
 msgstr ""
 "Έχουμε να προσθέσουμε αρκετές λεπτομέρειες και να διορθώσουμε πολλά "
 "προβλήματα ακόμη! Μπορείτε να μας βοηθήσετε <a href=\"/forums/3/\">αναφέροντας "
-"προβλήματα</a>. Όσο πιο νωρίς τα βρίσκουμε και τα φτιάχνουμε, τόσο πιο "
+"προβλήματα</a>. Όσο πιο νωρίς τα βρίσκουμε και τα επιδιορθώνουμε, τόσο πιο "
 "νωρίς θα μπορέσουμε να θέσουμε σε επίσημη κυκλοφορία το Scratch 2.0."
 
 #: templates/homepage/index.html:95
@@ -383,7 +383,7 @@ msgstr "Αναφορά αυτού του χρήστη"
 
 #: templates/profiles/profile_detail.html:136
 msgid "Shared Projects"
-msgstr "Έργα που μοιράζεται ο χρήστης"
+msgstr "Έργα που ο χρήστης έχει μοιραστεί"
 
 #: templates/profiles/profile_detail.html:138
 msgid "Favorite Projects"
@@ -504,7 +504,7 @@ msgstr ""
 msgid ""
 "Shared Projects (<span data-content=\"shared-count\">%(shared_count)s</span>)"
 msgstr ""
-"Έργα που μοιράστηκαν (<span data-content=\"shared-count\">%"
+"Έργα που έχουν μοιραστεί (<span data-content=\"shared-count\">%"
 "(shared_count)s</span>)"
 
 #: templates/studio/studio.html:8
@@ -513,7 +513,7 @@ msgid ""
 "Unshared Projects (<span data-content=\"unshared-count\">"
 "%(notshared_count)s</span>)"
 msgstr ""
-"Έργα που δεν μοιράστηκαν (<span data-content=\"unshared-count\">%"
+"Έργα που δεν έχουν μοιραστεί (<span data-content=\"unshared-count\">%"
 "(notshared_count)s</span>)"
 
 #: templates/studio/studio.html:9
@@ -527,7 +527,7 @@ msgstr ""
 #: templates/studio/studio.html:10
 #, python-format
 msgid "Trash (<span data-content=\"trash-count\">%(deleted_count)s</span>)"
-msgstr "Σκουπίδια <span data-content=\"trash-count\">%(deleted_count)s</span>)"
+msgstr "Σκουπίδια (<span data-content=\"trash-count\">%(deleted_count)s</span>)"
 
 #: templates/studio/studio.html:18
 msgid "New Project"

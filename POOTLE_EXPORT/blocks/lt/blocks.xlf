@@ -25,7 +25,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%m.mathOp of %n">
         <source>%m.mathOp of %n</source>
-        <target state="translated">%m.mathOp(%n)</target>
+        <target state="translated">%m.mathOp ( %n )</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%m.sensor sensor value">
         <source>%m.sensor sensor value</source>
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%n mod %n">
         <source>%n mod %n</source>
-        <target state="translated">%n iš %n dalybos liekana</target>
+        <target state="translated">%n / %n liekana</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="add %s to %m.list">
         <source>add %s to %m.list</source>
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast and wait">
         <source>broadcast %m.broadcast and wait</source>
-        <target state="translated">skelbk žinią %m.broadcast ir lauk</target>
+        <target state="translated">skelbk žinią %m.broadcast ir palauk</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change %m.effect effect by %n">
         <source>change %m.effect effect by %n</source>
@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change pen shade by %n">
         <source>change pen shade by %n</source>
-        <target state="translated">pieštuko šešėlį padidink %n</target>
+        <target state="translated">spalvos šviesumą padidink %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change pen size by %n">
         <source>change pen size by %n</source>
@@ -87,7 +87,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change size by %n">
         <source>change size by %n</source>
-        <target state="translated">padidėk %n taškų</target>
+        <target state="translated">padidėk %n% (originalaus dydžio)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change tempo by %n">
         <source>change tempo by %n</source>
@@ -107,15 +107,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clear">
         <source>clear</source>
-        <target state="translated">išvalyk paišymus</target>
+        <target state="translated">išvalyk ekraną</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clear graphic effects">
         <source>clear graphic effects</source>
         <target state="translated">panaikink grafinius efektus</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="clone startup">
-        <source>clone startup</source>
-        <target state="translated">klono paruošimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color %c is touching %c?">
         <source>color %c is touching %c?</source>
@@ -123,7 +119,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Control">
         <source>Control</source>
-        <target state="translated">veikimo logika</target>
+        <target state="translated">Veikimo logika</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="costume #">
         <source>costume #</source>
@@ -141,9 +137,13 @@
         <source>Data</source>
         <target state="translated">Duomenys</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="days since 2000">
+        <source>days since 2000</source>
+        <target state="translated">dienos nuo 2000 m. pradžios</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="define">
         <source>define</source>
-        <target state="translated">apibrėžti</target>
+        <target state="translated">komanda</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete %d.listDeleteItem of %m.list">
         <source>delete %d.listDeleteItem of %m.list</source>
@@ -151,7 +151,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete this clone">
         <source>delete this clone</source>
-        <target state="translated">panaikinti kloną</target>
+        <target state="translated">išnyk (jei esi klonas)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="direction">
         <source>direction</source>
@@ -177,10 +177,6 @@
         <source>forever</source>
         <target state="translated">visada :</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="forever if %b">
-        <source>forever if %b</source>
-        <target state="translated">visada, kai %b:</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
         <source>glide %n secs to x:%n y:%n</source>
         <target state="translated">slink %n sek. į tašką x:%n y:%n</target>
@@ -195,7 +191,8 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to front">
         <source>go to front</source>
-        <target state="translated">atsirask priekyje</target>
+        <target state="translated">atsirask vaizdo priekyje</target>
+        <note from="translator">pasirodyk pirmam plane?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to x:%n y:%n">
         <source>go to x:%n y:%n</source>
@@ -205,21 +202,17 @@
         <source>hide</source>
         <target state="translated">pasislėpk</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="hide all sprites">
-        <source>hide all sprites</source>
-        <target state="translated">paslėpk visus veikėjus</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide list %m.list">
         <source>hide list %m.list</source>
-        <target state="translated">paslėpk %m.list</target>
+        <target state="translated">slėpk %m.list</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide variable %m.var">
         <source>hide variable %m.var</source>
-        <target state="translated">paslėpk kintamąjį %m.var</target>
+        <target state="translated">slėpk %m.var</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="if %b">
-        <source>if %b</source>
-        <target state="translated">jeigu %b:</target>
+      <trans-unit xml:space="preserve" approved="yes" id="if %b then">
+        <source>if %b then</source>
+        <target state="translated">jeigu %b :</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if on edge, bounce">
         <source>if on edge, bounce</source>
@@ -231,11 +224,13 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="item %d.listItem of %m.list">
         <source>item %d.listItem of %m.list</source>
-        <target state="translated">sąrašo %m.list nr. %d.listItem</target>
+        <target state="translated">%m.list nr. %d.listItem</target>
+        <note from="translator">alternative: "elementas nr. %d.listItem iš %m.list"
+or: %m.list [ %d.listItem ]</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="join %s %s">
         <source>join %s %s</source>
-        <target state="translated">sujunk %s ir %s</target>
+        <target state="translated">sujunk tekstus %s ir %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="key %m.key pressed?">
         <source>key %m.key pressed?</source>
@@ -247,15 +242,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="length of %s">
         <source>length of %s</source>
-        <target state="translated">%s ilgis</target>
+        <target state="translated">teksto %s ilgis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="letter %n of %s">
         <source>letter %n of %s</source>
-        <target state="translated">%s %n-oji raidė</target>
+        <target state="translated">teksto %s %n raidė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Looks">
         <source>Looks</source>
-        <target state="translated">išvaizda</target>
+        <target state="translated">Išvaizda</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="loudness">
         <source>loudness</source>
@@ -267,7 +262,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Motion">
         <source>Motion</source>
-        <target state="translated">judėjimas</target>
+        <target state="translated">Judėjimas</target>
+        <alt-trans xml:space="preserve" origin="jurgis">
+          <target>judėjimas</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse down?">
         <source>mouse down?</source>
@@ -283,7 +281,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="move %n steps">
         <source>move %n steps</source>
-        <target state="translated">eik %n žingsnius(-ių)</target>
+        <target state="translated">eik %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="next backdrop">
         <source>next backdrop</source>
@@ -300,15 +298,17 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Operators">
         <source>Operators</source>
-        <target state="translated">matematika</target>
+        <target state="translated">Matematika</target>
+        <note from="translator">bet yra ir tekstas, tad gal: "Duomenų veiksmai" | Veiksmai su duomenimis</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pen">
         <source>Pen</source>
-        <target state="translated">pieštukas</target>
+        <target state="translated">Piešimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pen down">
         <source>pen down</source>
         <target state="translated">nuleisk pieštuką</target>
+        <note from="translator">o gal "aktyvuok/įjunk" piešimą/-tuką ?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pen up">
         <source>pen up</source>
@@ -317,14 +317,16 @@
       <trans-unit xml:space="preserve" approved="yes" id="pick random %n to %n">
         <source>pick random %n to %n</source>
         <target state="translated">bet kuris sk. nuo %n iki %n</target>
+        <note from="translator">gal "atsitiktinis sk"</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play drum %d.drum for %n beats">
         <source>play drum %d.drum for %n beats</source>
-        <target state="translated">būgną %d.drum mušk %n taktus</target>
+        <target state="translated">būgną %d.drum mušk %n takto/us</target>
+        <note from="translator">nelabai veikia</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play note %d.note for %n beats">
         <source>play note %d.note for %n beats</source>
-        <target state="translated">natą %d.note grok %n taktų/us</target>
+        <target state="translated">natą %d.note grok %n takto/us</target>
         <note from="translator">83%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play sound %m.sound">
@@ -345,15 +347,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="repeat %n">
         <source>repeat %n</source>
-        <target state="translated">kartok %n:</target>
+        <target state="translated">kartok %n :</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="repeat until %b">
         <source>repeat until %b</source>
-        <target state="translated">kartok, kol atsitiks %b:</target>
+        <target state="translated">kartok, kol atsitiks %b :</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="replace item %d.listItem of %m.list with %s">
         <source>replace item %d.listItem of %m.list with %s</source>
-        <target state="translated">pakeisk %m.list nr. %d.listItem į %s</target>
+        <target state="translated"> %m.list nr. %d.listItem = %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reset timer">
         <source>reset timer</source>
@@ -365,7 +367,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="round %n">
         <source>round %n</source>
-        <target state="translated">apvalinti %n</target>
+        <target state="translated">apvalink %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="say %s">
         <source>say %s</source>
@@ -375,17 +377,13 @@
         <source>say %s for %n secs</source>
         <target state="translated">sakyk %s  %n sek.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Scratch days">
-        <source>Scratch days</source>
-        <target state="translated">„Scratch dienos“</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sensing">
         <source>Sensing</source>
-        <target state="translated">aplinka</target>
+        <target state="translated">Aplinka</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sensor %m.booleanSensor?">
         <source>sensor %m.booleanSensor?</source>
-        <target state="translated">jutiklis %m.booleanSensor?</target>
+        <target state="translated">ar %m.booleanSensor?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set %m.effect effect to %n">
         <source>set %m.effect effect to %n</source>
@@ -393,7 +391,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set %m.var to %s">
         <source>set %m.var to %s</source>
-        <target state="translated">%m.var =   %n</target>
+        <target state="translated">%m.var =  %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set instrument to %d.instrument">
         <source>set instrument to %d.instrument</source>
@@ -401,29 +399,33 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set motor direction %m.motorDirection">
         <source>set motor direction %m.motorDirection</source>
-        <target state="translated">nustatyk motoro kryptį %m.motorDirection</target>
+        <target state="translated">variklio kryptis = %m.motorDirection</target>
         <note from="translator">89%</note>
+        <alt-trans xml:space="preserve" origin="jurgis">
+          <target>nustatyk variklio kryptį %m.motorDirection</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set motor power %n">
         <source>set motor power %n</source>
-        <target state="translated">Variklio galia = %n</target>
+        <target state="translated">variklio galia = %n</target>
         <note from="translator">77%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen color to %c">
         <source>set pen color to %c</source>
         <target state="translated">pieštuko spalva = %c</target>
+        <note from="translator">pakeistas c į n kitoje eilutėje</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen color to %n">
         <source>set pen color to %n</source>
-        <target state="translated">pieštuko spalva = %c</target>
+        <target state="translated">pieštuko spalva = %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen shade to %n">
         <source>set pen shade to %n</source>
-        <target state="translated">pieštuko  šešėlis = %n</target>
+        <target state="translated">spalvos šviesumas = %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen size to %n">
         <source>set pen size to %n</source>
-        <target state="translated">pieštuko dydis = %n</target>
+        <target state="translated">pieštuko storis = %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set rotation style %m.rotationStyle">
         <source>set rotation style %m.rotationStyle</source>
@@ -435,15 +437,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set tempo to %n bpm">
         <source>set tempo to %n bpm</source>
-        <target state="translated">tempas = %n (taktai per minutę)</target>
+        <target state="translated">tempas = %n (taktai per min.)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set video transparency to %n%">
         <source>set video transparency to %n%</source>
-        <target state="translated">video permatomumas = %n%</target>
+        <target state="translated">filmuojamo vaizdo permatomumas = %n%</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
         <source>set volume to %n%</source>
-        <target state="translated">garsumas = %n%</target>
+        <target state="translated">garsumas = %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set x to %n">
         <source>set x to %n</source>
@@ -459,19 +461,19 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show list %m.list">
         <source>show list %m.list</source>
-        <target state="translated">parodyk %m.list</target>
+        <target state="translated">rodyk %m.list</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show variable %m.var">
         <source>show variable %m.var</source>
-        <target state="translated">parodyk %m.var</target>
+        <target state="translated">rodyk %m.var</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="size">
         <source>size</source>
-        <target state="translated">dydis</target>
+        <target state="translated">dydis (%)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sound">
         <source>Sound</source>
-        <target state="translated">garsas</target>
+        <target state="translated">Garsas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stamp">
         <source>stamp</source>
@@ -483,16 +485,16 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
         <source>stop all sounds</source>
-        <target state="translated">sustabdyti visus garsus</target>
+        <target state="translated">sustabdyk visus garsus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop">
         <source>switch backdrop to %m.backdrop</source>
-        <target state="translated">pakeisk foną į %m.backdrop</target>
+        <target state="translated">keisk foną į %m.backdrop</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop and wait">
         <source>switch backdrop to %m.backdrop and wait</source>
-        <target state="translated">pakeisk foną į %m.backdrop ir palauk</target>
+        <target state="translated">keisk foną į %m.backdrop ir palauk</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch costume to %m.costume">
@@ -529,24 +531,33 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnLeft %n degrees">
         <source>turn @turnLeft %n degrees</source>
-        <target state="translated">pasisuk @turnLeft %n degrees</target>
+        <target state="translated">pasisuk @turnLeft %n °</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnRight %n degrees">
         <source>turn @turnRight %n degrees</source>
-        <target state="translated">pasisuk @turnRight %n ° (laipsnių)</target>
+        <target state="translated">pasisuk @turnRight %n °</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn motor off">
         <source>turn motor off</source>
-        <target state="translated">išjunk motorą</target>
+        <target state="translated">išjunk variklį</target>
+        <alt-trans xml:space="preserve" origin="jurgis">
+          <target>išjunk variklį</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn motor on">
         <source>turn motor on</source>
-        <target state="translated">įjunk motorą</target>
+        <target state="translated">įjunk variklį</target>
+        <alt-trans xml:space="preserve" origin="jurgis">
+          <target>įjunk variklį</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn motor on for %n secs">
         <source>turn motor on for %n secs</source>
-        <target state="translated">įjunk motorą %n sekundėms</target>
+        <target state="translated">įjunk variklį %n sekundėms</target>
         <note from="translator">80%</note>
+        <alt-trans xml:space="preserve" origin="jurgis">
+          <target>įjunk variklį %n sekundėms</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn video %m.videoState">
         <source>turn video %m.videoState</source>
@@ -558,7 +569,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
         <source>video %m.videoMotionType on %m.stageOrThis</source>
-        <target state="translated"></target>
+        <target state="translated">sekamo vaizdo %m.videoMotionType virš %m.stageOrThis</target>
+        <alt-trans xml:space="preserve" origin="jurgis">
+          <target>filmuojamo vaizdo %m.videoMotionType ant %m.stageOrThis</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="volume">
         <source>volume</source>
@@ -572,43 +586,47 @@
         <source>wait until %b</source>
         <target state="translated">lauk, kol atsitiks %b</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="when %m.booleanSensor">
+      <trans-unit xml:space="preserve" approved="yes" id="when %m.booleanSensor">
         <source>when %m.booleanSensor</source>
-        <target state="needs-translation">jutiklis %m.booleanSensor?</target>
+        <target state="translated">kai %m.booleanSensor</target>
         <note from="translator">75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %m.key key pressed">
         <source>when %m.key key pressed</source>
-        <target state="translated">kai paspausta %m.key</target>
+        <target state="translated">Kai paspausta %m.key</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %m.triggerSensor &gt; %n">
         <source>when %m.triggerSensor &gt; %n</source>
-        <target state="translated"></target>
+        <target state="translated">Kai %m.triggerSensor &gt; %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when @greenFlag clicked">
         <source>when @greenFlag clicked</source>
-        <target state="translated">kai paspausta @greenFlag</target>
+        <target state="translated">Kai paspausta @greenFlag</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when backdrop switches to %m.backdrop">
         <source>when backdrop switches to %m.backdrop</source>
-        <target state="translated"></target>
+        <target state="translated">Kai fonas keičiasi į %m.backdrop</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when distance &lt; %n">
         <source>when distance &lt; %n</source>
-        <target state="translated"></target>
+        <target state="translated">Kai atstumas &lt; %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I receive %m.broadcast">
         <source>when I receive %m.broadcast</source>
+        <target state="translated">Kai gausi žinią %m.broadcast</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when I start as a clone">
+        <source>when I start as a clone</source>
         <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when this sprite clicked">
         <source>when this sprite clicked</source>
-        <target state="translated"></target>
+        <target state="translated">Kai spusteli veikėją</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when tilt = %n">
         <source>when tilt = %n</source>
-        <target state="translated"></target>
+        <target state="translated">Kai pasvirimas = %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="x position">
         <source>x position</source>

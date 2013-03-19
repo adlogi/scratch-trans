@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:53+0200\n"
-"PO-Revision-Date: 2013-02-07 09:53+0200\n"
+"POT-Creation-Date: 2013-02-11 10:49+0200\n"
+"PO-Revision-Date: 2013-03-04 14:49+0200\n"
 "Last-Translator: patarakin <patarakin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
@@ -13,9 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr "#"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -60,6 +57,13 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B соединен"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "На слой ниже (Shift: на последний слой)"
+
+# 88%
+msgid "backdrop"
+msgstr "фон"
+
 msgid "backdrop #"
 msgstr "фон #"
 
@@ -68,6 +72,10 @@ msgstr "имя фона"
 
 msgid "backdrop1"
 msgstr "фон 1"
+
+# 88%
+msgid "backdrops"
+msgstr "фоны"
 
 msgid "Backpack"
 msgstr "Рюкзак"
@@ -84,17 +92,14 @@ msgstr "Фагот"
 msgid "Bongo"
 msgstr "Бонго"
 
-msgid "bottom-left"
-msgstr "низ-лево"
-
-msgid "bottom-right"
-msgstr "низ-право"
-
 msgid "brightness"
 msgstr "яркость"
 
 msgid "button pressed"
 msgstr "кнопка нажата"
+
+msgid "by"
+msgstr "на"
 
 msgid "C connected"
 msgstr "C соединен"
@@ -193,16 +198,19 @@ msgstr "дублировать"
 msgid "duplicate"
 msgstr "дублировать"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Удвоить (Shift: Умножить)"
+
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
 msgstr "край"
 
-msgid "edit"
+msgid "Edit"
 msgstr "Редактировать"
 
-msgid "Edit"
+msgid "edit"
 msgstr "Редактировать"
 
 msgid "Effects"
@@ -214,6 +222,12 @@ msgstr "Электрическая гитара"
 msgid "Electric Piano"
 msgstr "Электрическое пианино"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr "Эллипс (Shift: Круг)"
+
+msgid "Erase"
+msgstr "Вырезать"
+
 msgid "fade in"
 msgstr "увеличивать"
 
@@ -222,6 +236,10 @@ msgstr "исчезать"
 
 msgid "File"
 msgstr "Файл"
+
+# 75%
+msgid "Fill"
+msgstr "Залить"
 
 msgid "fisheye"
 msgstr "рыбий глаз"
@@ -232,8 +250,14 @@ msgstr "пол"
 msgid "Flute"
 msgstr "Флейта"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "На слой выше (Shift: На первый слой)"
+
 msgid "ghost"
 msgstr "призрак"
+
+msgid "Group"
+msgstr "Группировать"
 
 msgid "Guiro"
 msgstr "Гуиро"
@@ -268,6 +292,9 @@ msgstr "Библиотека"
 msgid "light"
 msgstr "свет"
 
+msgid "Line"
+msgstr "Линия"
+
 msgid "ln"
 msgstr "In"
 
@@ -288,9 +315,6 @@ msgstr "Маримба"
 
 msgid "message1"
 msgstr "сообщение1"
-
-msgid "middle"
-msgstr "средний"
 
 msgid "minute"
 msgstr "минута"
@@ -313,12 +337,6 @@ msgstr "Музыкальная шкатулка"
 msgid "myself"
 msgstr "себя самого"
 
-msgid "name"
-msgstr "имя"
-
-msgid "New"
-msgstr "Новый"
-
 msgid "New backdrop"
 msgstr "Новый фон"
 
@@ -331,8 +349,12 @@ msgstr "новое сообщение"
 msgid "New sound"
 msgstr "Новый звук"
 
-msgid "New sprite:"
-msgstr "Новый объект"
+# 90%
+msgid "New sprite"
+msgstr "Новый спрайт"
+
+msgid "No motion blocks"
+msgstr "Нет блоков движения"
 
 msgid "off"
 msgstr "Выключить"
@@ -344,10 +366,10 @@ msgid "on-flipped"
 msgstr "перевернутый"
 
 msgid "Open Cuica"
-msgstr "Открытая куика"
+msgstr "Открытая Куика"
 
 msgid "Open Hi-Hat"
-msgstr "Open Hi-Hat"
+msgstr "Открытый хай-хэт"
 
 msgid "Organ"
 msgstr "Орган"
@@ -361,11 +383,17 @@ msgstr "Рисовать"
 msgid "paste"
 msgstr "вставить"
 
+msgid "Pencil"
+msgstr "Карандаш"
+
 msgid "photo1"
 msgstr "фото1"
 
 msgid "Piano"
-msgstr "Тихо"
+msgstr "Пианино"
+
+msgid "Pick up Color"
+msgstr "Пипетка"
 
 msgid "pixelate"
 msgstr "укрупнение пикселей"
@@ -385,11 +413,17 @@ msgstr "записать"
 msgid "recording1"
 msgstr "запись1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr "Прямоугольник (Shift: Квадрат)"
+
 msgid "redo"
 msgstr "Отмена"
 
 msgid "Remix"
 msgstr "Ремикс"
+
+msgid "Reshape"
+msgstr "Изменить форму"
 
 msgid "resistance-A"
 msgstr "сопротивление-A"
@@ -415,11 +449,11 @@ msgstr "стрелка направо"
 msgid "Saxophone"
 msgstr "Саксофон"
 
-msgid "say"
-msgstr "скажи"
-
 msgid "Scratch Cat"
 msgstr "Кот Скретч"
+
+msgid "Scripts"
+msgstr "Скрипты"
 
 msgid "second"
 msgstr "второй"
@@ -427,14 +461,20 @@ msgstr "второй"
 msgid "See project page"
 msgstr "Посмотреть страницу проекта"
 
+msgid "Select"
+msgstr "Выбрать"
+
 msgid "select all"
 msgstr "выбрать все"
+
+msgid "Set Costume Center"
+msgstr "Установить центр костюма"
 
 msgid "Share"
 msgstr "Поделиться"
 
-msgid "shout"
-msgstr "кричать"
+msgid "shared"
+msgstr "общий"
 
 msgid "show receivers"
 msgstr "показать получателей"
@@ -469,6 +509,10 @@ msgstr "звук"
 msgid "space"
 msgstr "пробел"
 
+# 85%
+msgid "Sprite"
+msgstr "Спрайт"
+
 msgid "Sprites"
 msgstr "Спрайты"
 
@@ -477,6 +521,9 @@ msgstr "квадратный корень"
 
 msgid "Stage"
 msgstr "Сцена"
+
+msgid "Stage selected"
+msgstr "Этап выбран"
 
 msgid "Steel Drum"
 msgstr "Барабан стальной"
@@ -493,11 +540,11 @@ msgstr "Тамбурин"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr "Текст"
+
 msgid "that way"
 msgstr "туда"
-
-msgid "think"
-msgstr "думать"
 
 msgid "this script"
 msgstr "этот скрипт"
@@ -517,20 +564,23 @@ msgstr "Подсказки"
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "Прежде чем удалить блок, удалите все случаи его использования"
 
-msgid "top-left"
-msgstr "верх-лево"
-
-msgid "top-right"
-msgstr "верх-право"
-
 msgid "Triangle"
 msgstr "Треугольник"
 
 msgid "Trombone"
 msgstr "Тромбон"
 
+msgid "Turbo Mode"
+msgstr "Турбо режим"
+
 msgid "undo"
 msgstr "отмена"
+
+msgid "Ungroup"
+msgstr "Разгруппировать"
+
+msgid "unshared"
+msgstr "личный"
 
 msgid "up"
 msgstr "вверх"
@@ -553,9 +603,6 @@ msgstr "уровень"
 msgid "whirl"
 msgstr "завихрение"
 
-msgid "whisper"
-msgstr "шёпот"
-
 msgid "Wood Block"
 msgstr "Деревянная коробочка"
 
@@ -570,6 +617,45 @@ msgstr "положение по оси y"
 
 msgid "year"
 msgstr "год"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "низ-лево"
+
+#~ msgid "bottom-right"
+#~ msgstr "низ-право"
+
+#~ msgid "middle"
+#~ msgstr "средний"
+
+#~ msgid "name"
+#~ msgstr "имя"
+
+#~ msgid "New"
+#~ msgstr "Новый"
+
+#~ msgid "New sprite:"
+#~ msgstr "Новый объект"
+
+#~ msgid "say"
+#~ msgstr "скажи"
+
+#~ msgid "shout"
+#~ msgstr "кричать"
+
+#~ msgid "think"
+#~ msgstr "думать"
+
+#~ msgid "top-left"
+#~ msgstr "верх-лево"
+
+#~ msgid "top-right"
+#~ msgstr "верх-право"
+
+#~ msgid "whisper"
+#~ msgstr "шёпот"
 
 #~ msgid "any"
 #~ msgstr "любой из"

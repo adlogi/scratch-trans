@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:52+0200\n"
-"PO-Revision-Date: 2013-01-07 11:23+0200\n"
+"POT-Creation-Date: 2013-02-11 10:48+0200\n"
+"PO-Revision-Date: 2013-03-06 19:27+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -13,11 +13,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.1.6\n"
 
-msgid "#"
-msgstr ""
-
 msgid "10 ^"
-msgstr ""
+msgstr "10 ^"
 
 msgid "A connected"
 msgstr "Aがつながれた"
@@ -38,7 +35,7 @@ msgid "Add a string input:"
 msgstr "文字列の入力を追加:"
 
 msgid "add comment"
-msgstr ""
+msgstr "コメントを追加"
 
 msgid "Add label text:"
 msgstr "ラベルのテキストを追加:"
@@ -47,7 +44,7 @@ msgid "all"
 msgstr "すべて"
 
 msgid "all around"
-msgstr ""
+msgstr "自由に回転"
 
 msgid "asin"
 msgstr "asin"
@@ -58,6 +55,13 @@ msgstr "atan"
 msgid "B connected"
 msgstr "Bがつながれた"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "後ろに送る (シフト: 最背面にする)"
+
+# 88%
+msgid "backdrop"
+msgstr "背景"
+
 msgid "backdrop #"
 msgstr "背景 #"
 
@@ -67,6 +71,10 @@ msgstr "背景名"
 msgid "backdrop1"
 msgstr "背景1"
 
+# 88%
+msgid "backdrops"
+msgstr "背景"
+
 msgid "Backpack"
 msgstr "バックパック"
 
@@ -74,25 +82,22 @@ msgid "Bass"
 msgstr "ベース"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "バスドラム"
 
 msgid "Bassoon"
 msgstr "バスーン"
 
 msgid "Bongo"
-msgstr ""
-
-msgid "bottom-left"
-msgstr "左下"
-
-msgid "bottom-right"
-msgstr "右下"
+msgstr "ボンゴ"
 
 msgid "brightness"
 msgstr "明るさ"
 
 msgid "button pressed"
 msgstr "ボタンが押された"
+
+msgid "by"
+msgstr "作者"
 
 msgid "C connected"
 msgstr "Cがつながれた"
@@ -131,7 +136,7 @@ msgid "color"
 msgstr "色"
 
 msgid "Conga"
-msgstr ""
+msgstr "コンガ"
 
 msgid "copy"
 msgstr "コピー"
@@ -149,9 +154,8 @@ msgid "costume1"
 msgstr "コスチューム1"
 
 # 87%
-#, fuzzy
 msgid "costume2"
-msgstr "コスチューム1"
+msgstr "コスチューム2"
 
 msgid "Cowbell"
 msgstr "カウベル"
@@ -178,7 +182,7 @@ msgid "direction"
 msgstr "向き"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "回転しない"
 
 msgid "down"
 msgstr "下"
@@ -192,16 +196,19 @@ msgstr "複製"
 msgid "duplicate"
 msgstr "複製"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "複製 (シフト: 複数回)"
+
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
 msgstr "端"
 
-msgid "edit"
+msgid "Edit"
 msgstr "編集"
 
-msgid "Edit"
+msgid "edit"
 msgstr "編集"
 
 msgid "Effects"
@@ -213,6 +220,12 @@ msgstr "エレキギター"
 msgid "Electric Piano"
 msgstr "電子ピアノ"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr "楕円 (シフト: 円)"
+
+msgid "Erase"
+msgstr "消す"
+
 msgid "fade in"
 msgstr "フェードイン"
 
@@ -220,7 +233,10 @@ msgid "fade out"
 msgstr "フェードアウト"
 
 msgid "File"
-msgstr ""
+msgstr "ファイル"
+
+msgid "Fill"
+msgstr "塗りつぶす"
 
 msgid "fisheye"
 msgstr "魚眼レンズ"
@@ -231,11 +247,17 @@ msgstr "底"
 msgid "Flute"
 msgstr "フルート"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "前に出す (シフト: 最前面にする)"
+
 msgid "ghost"
 msgstr "幽霊"
 
+msgid "Group"
+msgstr "グループ"
+
 msgid "Guiro"
-msgstr ""
+msgstr "ギロ"
 
 msgid "Guitar"
 msgstr "ギター"
@@ -259,13 +281,16 @@ msgid "left arrow"
 msgstr "左向き矢印"
 
 msgid "left-right"
-msgstr ""
+msgstr "左右のみ"
 
 msgid "Library"
 msgstr "ライブラリ"
 
 msgid "light"
 msgstr "明るさ"
+
+msgid "Line"
+msgstr "直線"
 
 msgid "ln"
 msgstr "ln"
@@ -280,16 +305,13 @@ msgid "louder"
 msgstr "大きく"
 
 msgid "loudness"
-msgstr ""
+msgstr "音量"
 
 msgid "Marimba"
 msgstr "マリンバ"
 
 msgid "message1"
 msgstr "メッセージ1"
-
-msgid "middle"
-msgstr "中間"
 
 msgid "minute"
 msgstr "分"
@@ -310,14 +332,7 @@ msgid "Music Box"
 msgstr "ミュージックボックス"
 
 msgid "myself"
-msgstr ""
-
-msgid "name"
-msgstr "名前"
-
-#, fuzzy
-msgid "New"
-msgstr "Nouveau"
+msgstr "自分自身"
 
 msgid "New backdrop"
 msgstr "新しい背景"
@@ -331,8 +346,12 @@ msgstr "新しいメッセージ..."
 msgid "New sound"
 msgstr "新しい音"
 
-msgid "New sprite:"
-msgstr "新しいスプライト:"
+# 90%
+msgid "New sprite"
+msgstr "新しいスプライト"
+
+msgid "No motion blocks"
+msgstr "動きのブロックはありません"
 
 msgid "off"
 msgstr "切"
@@ -353,9 +372,8 @@ msgid "Organ"
 msgstr "オルガン"
 
 # 82%
-#, fuzzy
 msgid "other scripts in sprite"
-msgstr "ステージの他のスクリプト"
+msgstr "スプライトの他のスクリプト"
 
 msgid "Paint"
 msgstr "ペイント"
@@ -363,11 +381,17 @@ msgstr "ペイント"
 msgid "paste"
 msgstr "貼り付け"
 
+msgid "Pencil"
+msgstr "鉛筆"
+
 msgid "photo1"
 msgstr "写真1"
 
 msgid "Piano"
 msgstr "ピアノ"
+
+msgid "Pick up Color"
+msgstr "色を選ぶ"
 
 msgid "pixelate"
 msgstr "ピクセル化"
@@ -379,7 +403,7 @@ msgid "pop"
 msgstr "ポップ"
 
 msgid "random"
-msgstr ""
+msgstr "乱数"
 
 msgid "Record"
 msgstr "録音"
@@ -387,11 +411,17 @@ msgstr "録音"
 msgid "recording1"
 msgstr "録音1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr "長方形 (シフト: 正方形)"
+
 msgid "redo"
 msgstr "やり直し"
 
 msgid "Remix"
 msgstr "リミックス"
+
+msgid "Reshape"
+msgstr "形を変える"
 
 msgid "resistance-A"
 msgstr "抵抗-A"
@@ -417,11 +447,11 @@ msgstr "右向き矢印"
 msgid "Saxophone"
 msgstr "サクソフォーン"
 
-msgid "say"
-msgstr "言う"
-
 msgid "Scratch Cat"
-msgstr ""
+msgstr "スクラッチキャット"
+
+msgid "Scripts"
+msgstr "スクリプト"
 
 msgid "second"
 msgstr "秒"
@@ -429,20 +459,26 @@ msgstr "秒"
 msgid "See project page"
 msgstr "プロジェクトページ参照"
 
+msgid "Select"
+msgstr "選択"
+
 msgid "select all"
 msgstr "すべてを選択"
 
-msgid "Share"
-msgstr ""
+msgid "Set Costume Center"
+msgstr "コスチュームの中心を設定"
 
-msgid "shout"
-msgstr "シャウト"
+msgid "Share"
+msgstr "共有"
+
+msgid "shared"
+msgstr "共有中"
 
 msgid "show receivers"
 msgstr "レシーバーを表示"
 
 msgid "show senders"
-msgstr "センダーを生じ"
+msgstr "センダーを表示"
 
 msgid "Side Stick"
 msgstr "サイドスティック"
@@ -471,6 +507,10 @@ msgstr "音"
 msgid "space"
 msgstr "スペース"
 
+# 85%
+msgid "Sprite"
+msgstr "スプライト"
+
 msgid "Sprites"
 msgstr "スプライト"
 
@@ -479,6 +519,9 @@ msgstr "平方根"
 
 msgid "Stage"
 msgstr "ステージ"
+
+msgid "Stage selected"
+msgstr "選択されたステージ"
 
 msgid "Steel Drum"
 msgstr "スチールドラム"
@@ -495,23 +538,23 @@ msgstr "タンバリン"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr "テキスト"
+
 msgid "that way"
 msgstr "あちら向き"
-
-msgid "think"
-msgstr "考える"
 
 msgid "this script"
 msgstr "このスクリプト"
 
 msgid "this sprite"
-msgstr ""
+msgstr "このスプライト"
 
 msgid "this way"
 msgstr "こちら向き"
 
 msgid "timer"
-msgstr ""
+msgstr "タイマー"
 
 msgid "Tips"
 msgstr "Tips"
@@ -519,20 +562,23 @@ msgstr "Tips"
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "ブロックの定義を削除するには、まずそのブロックを使っている箇所を消してください。"
 
-msgid "top-left"
-msgstr "左上"
-
-msgid "top-right"
-msgstr "右上"
-
 msgid "Triangle"
-msgstr ""
+msgstr "三角形"
 
 msgid "Trombone"
 msgstr "トロンボーン"
 
+msgid "Turbo Mode"
+msgstr "ターボモード"
+
 msgid "undo"
 msgstr "取り消し"
+
+msgid "Ungroup"
+msgstr "グループ解除"
+
+msgid "unshared"
+msgstr "共有していない"
 
 msgid "up"
 msgstr "上"
@@ -547,7 +593,7 @@ msgid "Vibraslap"
 msgstr "ビブラスラップ"
 
 msgid "video motion"
-msgstr ""
+msgstr "ビデオモーション"
 
 msgid "volume"
 msgstr "ボリューム"
@@ -555,11 +601,8 @@ msgstr "ボリューム"
 msgid "whirl"
 msgstr "渦巻き"
 
-msgid "whisper"
-msgstr "ささやき"
-
 msgid "Wood Block"
-msgstr ""
+msgstr "ウッドブロック"
 
 msgid "Wooden Flute"
 msgstr "木管フルート"
@@ -572,6 +615,43 @@ msgstr "y座標"
 
 msgid "year"
 msgstr "年"
+
+#~ msgid "bottom-left"
+#~ msgstr "左下"
+
+#~ msgid "bottom-right"
+#~ msgstr "右下"
+
+#~ msgid "middle"
+#~ msgstr "中間"
+
+#~ msgid "name"
+#~ msgstr "名前"
+
+#, fuzzy
+#~ msgid "New"
+#~ msgstr "Nouveau"
+
+#~ msgid "New sprite:"
+#~ msgstr "新しいスプライト:"
+
+#~ msgid "say"
+#~ msgstr "言う"
+
+#~ msgid "shout"
+#~ msgstr "シャウト"
+
+#~ msgid "think"
+#~ msgstr "考える"
+
+#~ msgid "top-left"
+#~ msgstr "左上"
+
+#~ msgid "top-right"
+#~ msgstr "右上"
+
+#~ msgid "whisper"
+#~ msgstr "ささやき"
 
 #~ msgid "any"
 #~ msgstr "どれか"

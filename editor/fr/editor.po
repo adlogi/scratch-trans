@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2013-02-01 17:17+0200\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"POT-Creation-Date: 2013-02-11 10:48+0200\n"
+"PO-Revision-Date: 2013-02-21 00:20+0200\n"
+"Last-Translator: Jean-Jacques <i.scool@mac.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -12,9 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr "#"
 
 msgid "10 ^"
 msgstr "10^"
@@ -58,6 +55,12 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B connecté"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "Reculer d'un calque (Majuscule: Envoyer en arrière)"
+
+msgid "backdrop"
+msgstr "arrière-plan"
+
 msgid "backdrop #"
 msgstr "arrière-plan n°"
 
@@ -66,6 +69,10 @@ msgstr "nom de l'arrière-plan"
 
 msgid "backdrop1"
 msgstr "arrière-plan1"
+
+# 88%
+msgid "backdrops"
+msgstr "arrière-plans"
 
 msgid "Backpack"
 msgstr "Sac à dos"
@@ -82,17 +89,14 @@ msgstr "Basson"
 msgid "Bongo"
 msgstr "Bongo"
 
-msgid "bottom-left"
-msgstr "bas gauche"
-
-msgid "bottom-right"
-msgstr "bas droit"
-
 msgid "brightness"
 msgstr "luminosité"
 
 msgid "button pressed"
 msgstr "bouton pressé"
+
+msgid "by"
+msgstr "par"
 
 msgid "C connected"
 msgstr "C connecté"
@@ -191,17 +195,20 @@ msgstr "Dupliquer"
 msgid "duplicate"
 msgstr "dupliquer"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Dupliquer (Majuscule : Multiple)"
+
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
 msgstr "bord"
 
-msgid "edit"
-msgstr "éditer"
-
 msgid "Edit"
 msgstr "Édition"
+
+msgid "edit"
+msgstr "éditer"
 
 msgid "Effects"
 msgstr "Effets"
@@ -212,6 +219,12 @@ msgstr "Guitare électrique"
 msgid "Electric Piano"
 msgstr "Piano électrique"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr "Ellipse (Majuscule: Cercle)"
+
+msgid "Erase"
+msgstr "Effacer"
+
 msgid "fade in"
 msgstr "fondu en ouverture"
 
@@ -220,6 +233,10 @@ msgstr "fondu enchaîné"
 
 msgid "File"
 msgstr "Fichier"
+
+# 75%
+msgid "Fill"
+msgstr "Remplir"
 
 msgid "fisheye"
 msgstr "oeil de poisson"
@@ -230,8 +247,14 @@ msgstr "plancher"
 msgid "Flute"
 msgstr "Flûte"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "Avancer d'un calque (Majuscule: envoyer en avant)"
+
 msgid "ghost"
 msgstr "fantôme"
+
+msgid "Group"
+msgstr "Griouper"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -266,6 +289,9 @@ msgstr "Librairie"
 msgid "light"
 msgstr "lumière"
 
+msgid "Line"
+msgstr "Ligne"
+
 msgid "ln"
 msgstr "ln"
 
@@ -286,9 +312,6 @@ msgstr "Marimba"
 
 msgid "message1"
 msgstr "message1"
-
-msgid "middle"
-msgstr "intermédiaire"
 
 msgid "minute"
 msgstr "minute"
@@ -311,12 +334,6 @@ msgstr "Boîte à musique"
 msgid "myself"
 msgstr "moi-même"
 
-msgid "name"
-msgstr "nom"
-
-msgid "New"
-msgstr "Nouveau"
-
 msgid "New backdrop"
 msgstr "Nouvel arrière-plan"
 
@@ -329,8 +346,12 @@ msgstr "nouveau message"
 msgid "New sound"
 msgstr "Nouveau son"
 
-msgid "New sprite:"
+# 90%
+msgid "New sprite"
 msgstr "Nouveau lutin"
+
+msgid "No motion blocks"
+msgstr "Aucun Bloc de Mouvement"
 
 msgid "off"
 msgstr "Désactivé"
@@ -352,7 +373,7 @@ msgstr "Orgue"
 
 # 82%
 msgid "other scripts in sprite"
-msgstr "autres scripts"
+msgstr "autres scripts du lutin"
 
 msgid "Paint"
 msgstr "Dessin"
@@ -360,11 +381,17 @@ msgstr "Dessin"
 msgid "paste"
 msgstr "coller"
 
+msgid "Pencil"
+msgstr "Crayon"
+
 msgid "photo1"
 msgstr "photo1"
 
 msgid "Piano"
 msgstr "Piano"
+
+msgid "Pick up Color"
+msgstr "Recueillir la couleur"
 
 msgid "pixelate"
 msgstr "pixeliser"
@@ -384,11 +411,17 @@ msgstr "Enregistrer"
 msgid "recording1"
 msgstr "enregistrement1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr "Rectangle (Majuscule: Carré)"
+
 msgid "redo"
 msgstr "rétablir"
 
 msgid "Remix"
 msgstr "Remix"
+
+msgid "Reshape"
+msgstr "Redessiner"
 
 msgid "resistance-A"
 msgstr "Resistance-A"
@@ -414,11 +447,11 @@ msgstr "flèche droite"
 msgid "Saxophone"
 msgstr "Saxophone"
 
-msgid "say"
-msgstr "dire"
-
 msgid "Scratch Cat"
 msgstr "Chat Scratch"
+
+msgid "Scripts"
+msgstr "Scripts"
 
 msgid "second"
 msgstr "seconde"
@@ -426,14 +459,20 @@ msgstr "seconde"
 msgid "See project page"
 msgstr "Montrer la page du projet"
 
+msgid "Select"
+msgstr "Sélectionner"
+
 msgid "select all"
 msgstr "sélectionner tout"
+
+msgid "Set Costume Center"
+msgstr "Définir le centre du costume"
 
 msgid "Share"
 msgstr "Partager"
 
-msgid "shout"
-msgstr "crier"
+msgid "shared"
+msgstr "partagé"
 
 msgid "show receivers"
 msgstr "montrer récepteurs"
@@ -468,6 +507,10 @@ msgstr "son"
 msgid "space"
 msgstr "espace"
 
+# 85%
+msgid "Sprite"
+msgstr "Lutin"
+
 msgid "Sprites"
 msgstr "Lutins"
 
@@ -476,6 +519,9 @@ msgstr "racine"
 
 msgid "Stage"
 msgstr "Scène"
+
+msgid "Stage selected"
+msgstr "Scène sélectionnée"
 
 msgid "Steel Drum"
 msgstr "Tambour d'acier"
@@ -492,11 +538,11 @@ msgstr "Tambourin"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr "Texte"
+
 msgid "that way"
 msgstr "dans ce sens-là"
-
-msgid "think"
-msgstr "penser"
 
 msgid "this script"
 msgstr "ce script"
@@ -514,13 +560,7 @@ msgid "Tips"
 msgstr "Conseils"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr "Avant d'effacer un block definition, retirez tous ses scripts"
-
-msgid "top-left"
-msgstr "en haut à gauche"
-
-msgid "top-right"
-msgstr "en haut à droite"
+msgstr "Avant d'effacer un bloc définition, d'abord effacez tous ses scripts"
 
 msgid "Triangle"
 msgstr "Triangle"
@@ -528,8 +568,17 @@ msgstr "Triangle"
 msgid "Trombone"
 msgstr "Trombone"
 
+msgid "Turbo Mode"
+msgstr "Mode Turbo"
+
 msgid "undo"
 msgstr "annuler"
+
+msgid "Ungroup"
+msgstr "Dégrouper"
+
+msgid "unshared"
+msgstr "non partagé"
 
 msgid "up"
 msgstr "haut"
@@ -552,9 +601,6 @@ msgstr "volume"
 msgid "whirl"
 msgstr "tournoyer"
 
-msgid "whisper"
-msgstr "chuchoter"
-
 msgid "Wood Block"
 msgstr "Bloc de bois"
 
@@ -569,6 +615,45 @@ msgstr "position y"
 
 msgid "year"
 msgstr "année"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "bas gauche"
+
+#~ msgid "bottom-right"
+#~ msgstr "bas droit"
+
+#~ msgid "middle"
+#~ msgstr "intermédiaire"
+
+#~ msgid "name"
+#~ msgstr "nom"
+
+#~ msgid "New"
+#~ msgstr "Nouveau"
+
+#~ msgid "New sprite:"
+#~ msgstr "Nouveau lutin"
+
+#~ msgid "say"
+#~ msgstr "dire"
+
+#~ msgid "shout"
+#~ msgstr "crier"
+
+#~ msgid "think"
+#~ msgstr "penser"
+
+#~ msgid "top-left"
+#~ msgstr "en haut à gauche"
+
+#~ msgid "top-right"
+#~ msgstr "en haut à droite"
+
+#~ msgid "whisper"
+#~ msgstr "chuchoter"
 
 #~ msgid "any"
 #~ msgstr "n'importe quel"

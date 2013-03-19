@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2013-01-31 21:12+0200\n"
+"POT-Creation-Date: 2013-02-11 10:47+0200\n"
+"PO-Revision-Date: 2013-02-26 09:05+0200\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -12,9 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr "#"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -58,6 +55,13 @@ msgstr "arctg"
 msgid "B connected"
 msgstr "B propojeno"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "Zpět o úroveň (Shift: Poslat na pozadí)"
+
+# 88%
+msgid "backdrop"
+msgstr "pozadí"
+
 msgid "backdrop #"
 msgstr "číslo pozadí"
 
@@ -66,6 +70,10 @@ msgstr "název pozadí"
 
 msgid "backdrop1"
 msgstr "pozadí 1"
+
+# 88%
+msgid "backdrops"
+msgstr "pozadí"
 
 msgid "Backpack"
 msgstr "Batoh"
@@ -82,17 +90,14 @@ msgstr "Fagot"
 msgid "Bongo"
 msgstr "Bongo"
 
-msgid "bottom-left"
-msgstr "vlevo dole"
-
-msgid "bottom-right"
-msgstr "vpravo dole"
-
 msgid "brightness"
 msgstr "jas"
 
 msgid "button pressed"
 msgstr "tlačítko stisknuto"
+
+msgid "by"
+msgstr ""
 
 msgid "C connected"
 msgstr "C propojeno"
@@ -191,17 +196,20 @@ msgstr "Kopírovat"
 msgid "duplicate"
 msgstr "kopírovat"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Kopie  (Shift: opakovaná)"
+
 msgid "e ^"
 msgstr "exp"
 
 msgid "edge"
 msgstr "okraje"
 
-msgid "edit"
-msgstr "upravit"
-
 msgid "Edit"
 msgstr "Upravit"
+
+msgid "edit"
+msgstr "upravit"
 
 msgid "Effects"
 msgstr "Efekty"
@@ -212,6 +220,12 @@ msgstr "Elektrická kytara"
 msgid "Electric Piano"
 msgstr "Elektronické klávesy"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr "Elipsa (Shift: Kružnice)"
+
+msgid "Erase"
+msgstr "Smazání"
+
 msgid "fade in"
 msgstr "rozednívat"
 
@@ -220,6 +234,10 @@ msgstr "stmívat"
 
 msgid "File"
 msgstr "Soubor"
+
+# 75%
+msgid "Fill"
+msgstr "Vyplňování"
 
 msgid "fisheye"
 msgstr "rybí oko"
@@ -230,8 +248,14 @@ msgstr "zaokr. dolů"
 msgid "Flute"
 msgstr "Flétna"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "Vpřed o úroveň (Shift: Vynést do popředí)"
+
 msgid "ghost"
 msgstr "průhlednost"
+
+msgid "Group"
+msgstr "Skupina"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -266,6 +290,9 @@ msgstr "Knihovna"
 msgid "light"
 msgstr "světlo"
 
+msgid "Line"
+msgstr "Úsečka"
+
 msgid "ln"
 msgstr "ln"
 
@@ -286,9 +313,6 @@ msgstr "Marimba"
 
 msgid "message1"
 msgstr "zpráva 1"
-
-msgid "middle"
-msgstr "prostřední"
 
 msgid "minute"
 msgstr "minuta"
@@ -312,12 +336,6 @@ msgstr "Hrací skříňka"
 msgid "myself"
 msgstr "sebe"
 
-msgid "name"
-msgstr "jméno"
-
-msgid "New"
-msgstr "Nový"
-
 msgid "New backdrop"
 msgstr "Nové pozadí"
 
@@ -330,8 +348,12 @@ msgstr "nová zpráva..."
 msgid "New sound"
 msgstr "Nový zvuk"
 
-msgid "New sprite:"
-msgstr "Nová postava:"
+# 90%
+msgid "New sprite"
+msgstr "Nová postava"
+
+msgid "No motion blocks"
+msgstr "Žádné bloky pohybu"
 
 msgid "off"
 msgstr "vypnuto"
@@ -361,11 +383,17 @@ msgstr "Malovat"
 msgid "paste"
 msgstr "vložit"
 
+msgid "Pencil"
+msgstr "Tužka"
+
 msgid "photo1"
 msgstr "foto1"
 
 msgid "Piano"
 msgstr "Klavír"
+
+msgid "Pick up Color"
+msgstr "Výběr barvy"
 
 msgid "pixelate"
 msgstr "kostičkování"
@@ -385,11 +413,17 @@ msgstr "Nahrávat"
 msgid "recording1"
 msgstr "záznam1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr "Obdélník (Shift: Čtverec)"
+
 msgid "redo"
 msgstr "znovu"
 
 msgid "Remix"
 msgstr "Odvozené"
+
+msgid "Reshape"
+msgstr "Změna tvaru"
 
 msgid "resistance-A"
 msgstr "odpor-A"
@@ -415,11 +449,11 @@ msgstr "šipka vpravo"
 msgid "Saxophone"
 msgstr "Saxofon"
 
-msgid "say"
-msgstr "řekni"
-
 msgid "Scratch Cat"
 msgstr "Scratch"
+
+msgid "Scripts"
+msgstr "Scénáře"
 
 msgid "second"
 msgstr "sekunda"
@@ -427,14 +461,20 @@ msgstr "sekunda"
 msgid "See project page"
 msgstr "Viz stránka projektu"
 
+msgid "Select"
+msgstr "Výběr"
+
 msgid "select all"
 msgstr "vyber vše"
+
+msgid "Set Costume Center"
+msgstr "Nastavit střed kostýmu"
 
 msgid "Share"
 msgstr "Sdílení"
 
-msgid "shout"
-msgstr "křik"
+msgid "shared"
+msgstr "sdílené"
 
 msgid "show receivers"
 msgstr "ukaž příjemce"
@@ -469,6 +509,10 @@ msgstr "zvuk"
 msgid "space"
 msgstr "mezerník"
 
+# 85%
+msgid "Sprite"
+msgstr "Postava"
+
 msgid "Sprites"
 msgstr "Postavy"
 
@@ -477,6 +521,9 @@ msgstr "odmocnina"
 
 msgid "Stage"
 msgstr "Scéna"
+
+msgid "Stage selected"
+msgstr "Vybraná scéna"
 
 msgid "Steel Drum"
 msgstr "Kovový kotel"
@@ -493,11 +540,11 @@ msgstr "Tamburína"
 msgid "tan"
 msgstr "tg"
 
+msgid "Text"
+msgstr "Text"
+
 msgid "that way"
 msgstr "jinak"
-
-msgid "think"
-msgstr "pomysli si"
 
 msgid "this script"
 msgstr "tento scénář"
@@ -517,20 +564,23 @@ msgstr "Tipy"
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "Před smazáním bloku jej nejprve odstraň ze všech scénářů."
 
-msgid "top-left"
-msgstr "vlevo nahoře"
-
-msgid "top-right"
-msgstr "vpravo nahoře"
-
 msgid "Triangle"
 msgstr "Triangl"
 
 msgid "Trombone"
 msgstr "Trombón"
 
+msgid "Turbo Mode"
+msgstr "Turbo režim"
+
 msgid "undo"
 msgstr "zpět"
+
+msgid "Ungroup"
+msgstr "Rozložení skupiny"
+
+msgid "unshared"
+msgstr "nesdílené"
 
 msgid "up"
 msgstr "nahoru"
@@ -553,9 +603,6 @@ msgstr "hlasitost"
 msgid "whirl"
 msgstr "víření"
 
-msgid "whisper"
-msgstr "šeptej"
-
 msgid "Wood Block"
 msgstr "Dřevěný blok"
 
@@ -570,6 +617,45 @@ msgstr "souřadnice y"
 
 msgid "year"
 msgstr "rok"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "vlevo dole"
+
+#~ msgid "bottom-right"
+#~ msgstr "vpravo dole"
+
+#~ msgid "middle"
+#~ msgstr "prostřední"
+
+#~ msgid "name"
+#~ msgstr "jméno"
+
+#~ msgid "New"
+#~ msgstr "Nový"
+
+#~ msgid "New sprite:"
+#~ msgstr "Nová postava:"
+
+#~ msgid "say"
+#~ msgstr "řekni"
+
+#~ msgid "shout"
+#~ msgstr "křik"
+
+#~ msgid "think"
+#~ msgstr "pomysli si"
+
+#~ msgid "top-left"
+#~ msgstr "vlevo nahoře"
+
+#~ msgid "top-right"
+#~ msgstr "vpravo nahoře"
+
+#~ msgid "whisper"
+#~ msgstr "šeptej"
 
 #~ msgid "any"
 #~ msgstr "nějaký"

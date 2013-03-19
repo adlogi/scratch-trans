@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:34+0200\n"
-"PO-Revision-Date: 2013-01-29 20:20+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-03-11 11:10+0200\n"
+"Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -33,28 +33,27 @@ msgid "%m.mathOp of %n"
 msgstr "%m.mathOp от/на %n"
 
 msgid "%m.sensor sensor value"
-msgstr "стойност на сензор %m.sensor"
+msgstr "%m.sensor сензор има стойност"
 
 msgid "%n mod %n"
 msgstr "%n по модул %n"
 
 msgid "add %s to %m.list"
-msgstr "добавяне %s към %m.list"
+msgstr "добави %s към %m.list"
 
 msgid "answer"
 msgstr "отговор"
 
 msgid "ask %s and wait"
-msgstr "питане за %s и чакане"
+msgstr "питай %s и чакай"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "фон #"
+msgstr "декор #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "име на декор"
 
 msgid "broadcast %m.broadcast"
 msgstr "разпространи %m.broadcast"
@@ -108,16 +107,16 @@ msgid "costume #"
 msgstr "костюм #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "създай клонинг на %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "настоящ/а/ %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Данни"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "дни след 2000 година"
 
 msgid "define"
 msgstr ""
@@ -126,13 +125,13 @@ msgid "delete %d.listDeleteItem of %m.list"
 msgstr "изтрий %d.listDeleteItem от %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "премахни този клонинг"
 
 msgid "direction"
 msgstr "посока"
 
 msgid "distance"
-msgstr ""
+msgstr "разстояние"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "разстояние до %m.spriteOrMouse"
@@ -141,7 +140,7 @@ msgid "else"
 msgstr "иначе"
 
 msgid "Events"
-msgstr ""
+msgstr "Събития"
 
 msgid "forever"
 msgstr "винаги"
@@ -153,31 +152,31 @@ msgid "go back %n layers"
 msgstr "премини назад с %n слоя"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "премини към %m.spriteOrMouse"
+msgstr "отиди до %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "премини най-отпред"
 
 msgid "go to x:%n y:%n"
-msgstr "премини към x:%n y:%n"
+msgstr "отиди до x:%n y:%n"
 
 msgid "hide"
 msgstr "скрий се"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "скрий списък %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "скрий променлива %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "ако %b тогава"
 
 msgid "if on edge, bounce"
 msgstr "ако си в края, отблъсни се"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "вмъкни %s в %d.listItem от %m.list"
+msgstr "вмъкни %s като %d.listItem в %m.list"
 
 msgid "item %d.listItem of %m.list"
 msgstr "елемент %d.listItem от %m.list"
@@ -201,10 +200,10 @@ msgid "Looks"
 msgstr "Външност"
 
 msgid "loudness"
-msgstr "шум"
+msgstr "шумно"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Още блокове"
 
 msgid "Motion"
 msgstr "Движение"
@@ -222,9 +221,8 @@ msgid "move %n steps"
 msgstr "премести се с %n стъпки"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
-msgstr "следващ фон"
+msgstr "следващ декор"
 
 msgid "next costume"
 msgstr "следващ костюм"
@@ -252,7 +250,6 @@ msgstr "свири барабан %d.drum %n такта"
 
 # 83%
 # 100%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "свири нота %d.note %n такта"
 
@@ -302,28 +299,26 @@ msgid "set %m.effect effect to %n"
 msgstr "направи ефект %m.effect на %n"
 
 msgid "set %m.var to %s"
-msgstr "направи %m.var равно на %n"
+msgstr "направи %m.var равно на %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "избери инструмент %d.instrument"
 
 # 89%
 # 100%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "посока на мотора %m.motorDirection"
 
 # 77%
 # 100%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "мощност на мотора %n"
+msgstr "избери мощност на мотора %n"
 
 msgid "set pen color to %c"
 msgstr "избери цвят на молива %c"
 
 msgid "set pen color to %n"
-msgstr "избери цвят на молива %c"
+msgstr "избери цвят на молива %n"
 
 msgid "set pen shade to %n"
 msgstr "избери яркост на молива %n"
@@ -332,7 +327,7 @@ msgid "set pen size to %n"
 msgstr "избери дебелина на молива %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "избери начин на въретене %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "направи размера %n%"
@@ -356,10 +351,10 @@ msgid "show"
 msgstr "покажи се"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "покажи списък %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "покажи променлива %m.var"
 
 msgid "size"
 msgstr "размер"
@@ -371,21 +366,21 @@ msgid "stamp"
 msgstr "отпечати"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "спри %m.stop"
 
 msgid "stop all sounds"
 msgstr "спри всички звуци"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "смени декора с %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "смени декора с %m.backdrop и чакай"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "облечи костюм %m.costume"
 
 msgid "tempo"
 msgstr "темпо"
@@ -409,20 +404,19 @@ msgid "touching color %c?"
 msgstr "допира цвят %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "завърти се @turnLeft %n градуса"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "завърти се @turnRight %n градуса"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "изключи мотора"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "включи мотора"
 
 # 80%
 # 100%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "включи мотора за %n сек"
 
@@ -446,34 +440,33 @@ msgstr "чакай докато стане %b"
 
 # 75%
 # 100%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "сензор %m.booleanSensor?"
+msgstr "когато %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr "когато е натиснат клавиша %m.key"
+msgstr "когато е натиснат клавиш %m.key"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "когато %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "когато е щракнато @greenFlag "
+msgstr "когато е щракнато @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "когато декорът се смени на %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "когато distance < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "когато получа %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "при старт като клонинг"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "когато този спрайт се щракнат"
 
 msgid "when tilt = %n"
 msgstr ""

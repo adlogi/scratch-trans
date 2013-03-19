@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:52+0200\n"
-"PO-Revision-Date: 2013-01-30 00:11+0200\n"
+"POT-Creation-Date: 2013-02-11 10:49+0200\n"
+"PO-Revision-Date: 2013-02-24 01:32+0200\n"
 "Last-Translator: Marek <faramir@mat.umk.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -13,9 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.1.6\n"
-
-msgid "#"
-msgstr "#"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -59,6 +56,13 @@ msgstr "arctan"
 msgid "B connected"
 msgstr "B podłączone"
 
+msgid "Back a layer (Shift: Send to back)"
+msgstr "Warstwa do tyłu (Shift: Na koniec)"
+
+# 88%
+msgid "backdrop"
+msgstr "tło"
+
 msgid "backdrop #"
 msgstr "tło #"
 
@@ -67,6 +71,10 @@ msgstr "nazwa tła"
 
 msgid "backdrop1"
 msgstr "tło1"
+
+# 88%
+msgid "backdrops"
+msgstr "tła"
 
 msgid "Backpack"
 msgstr "Plecak"
@@ -83,17 +91,14 @@ msgstr "Fagot"
 msgid "Bongo"
 msgstr "Bongosy"
 
-msgid "bottom-left"
-msgstr "lewy dolny"
-
-msgid "bottom-right"
-msgstr "prawy dolny"
-
 msgid "brightness"
 msgstr "jasność"
 
 msgid "button pressed"
 msgstr "przycisk naciśnięty"
+
+msgid "by"
+msgstr "przez"
 
 msgid "C connected"
 msgstr "C podłączone"
@@ -192,17 +197,20 @@ msgstr "Duplikuj"
 msgid "duplicate"
 msgstr "duplikuj"
 
+msgid "Duplicate (Shift: Multiple)"
+msgstr "Duplikuj (Shift: Wiele)"
+
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
 msgstr "krawędź"
 
-msgid "edit"
-msgstr "edytuj"
-
 msgid "Edit"
 msgstr "Edytuj"
+
+msgid "edit"
+msgstr "edytuj"
 
 msgid "Effects"
 msgstr "Efekty"
@@ -213,6 +221,12 @@ msgstr "Gitara elektryczna"
 msgid "Electric Piano"
 msgstr "Pianino elektroniczne"
 
+msgid "Ellipse (Shift: Circle)"
+msgstr "Elipsa (Shift: Okrąg)"
+
+msgid "Erase"
+msgstr "Wyczyść"
+
 msgid "fade in"
 msgstr "wzmocnij"
 
@@ -221,6 +235,10 @@ msgstr "wycisz"
 
 msgid "File"
 msgstr "Plik"
+
+# 75%
+msgid "Fill"
+msgstr "Wypełnij"
 
 msgid "fisheye"
 msgstr "rybie oko"
@@ -231,8 +249,14 @@ msgstr "podłoga"
 msgid "Flute"
 msgstr "Flet"
 
+msgid "Forward a layer (Shift: Bring to front)"
+msgstr "Warstwa do przodu (Shift: Na wierzch)"
+
 msgid "ghost"
 msgstr "duch"
+
+msgid "Group"
+msgstr "Grupuj"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -267,6 +291,9 @@ msgstr "Biblioteka"
 msgid "light"
 msgstr "światło"
 
+msgid "Line"
+msgstr "Linia"
+
 msgid "ln"
 msgstr "ln"
 
@@ -287,9 +314,6 @@ msgstr "Marimba"
 
 msgid "message1"
 msgstr "komunikat1"
-
-msgid "middle"
-msgstr "środkowy"
 
 msgid "minute"
 msgstr "minuta"
@@ -312,12 +336,6 @@ msgstr "Pozytywka"
 msgid "myself"
 msgstr "siebie"
 
-msgid "name"
-msgstr "nazwa"
-
-msgid "New"
-msgstr "Nowy"
-
 msgid "New backdrop"
 msgstr "Nowe tło"
 
@@ -330,8 +348,12 @@ msgstr "nowy komunikat..."
 msgid "New sound"
 msgstr "Nowy dźwięk"
 
-msgid "New sprite:"
-msgstr "Nowy duszek:"
+# 90%
+msgid "New sprite"
+msgstr "Nowy duszek"
+
+msgid "No motion blocks"
+msgstr "Brak bloków ruchu"
 
 msgid "off"
 msgstr "wyłączony"
@@ -361,11 +383,17 @@ msgstr "Rysuj"
 msgid "paste"
 msgstr "wklej"
 
+msgid "Pencil"
+msgstr "Ołówek"
+
 msgid "photo1"
 msgstr "zdjęcie1"
 
 msgid "Piano"
 msgstr "Pianino"
+
+msgid "Pick up Color"
+msgstr "Pobierz kolor"
 
 msgid "pixelate"
 msgstr "pikselizacja"
@@ -385,11 +413,17 @@ msgstr "Nagraj"
 msgid "recording1"
 msgstr "nagranie1"
 
+msgid "Rectangle (Shift: Square)"
+msgstr "Prostokąt (Shift: Kwadrat)"
+
 msgid "redo"
 msgstr "ponów"
 
 msgid "Remix"
 msgstr "Remix"
+
+msgid "Reshape"
+msgstr "Przekształć"
 
 msgid "resistance-A"
 msgstr "opór-A"
@@ -415,11 +449,11 @@ msgstr "strzałka w prawo"
 msgid "Saxophone"
 msgstr "Saksofon"
 
-msgid "say"
-msgstr "powiedz"
-
 msgid "Scratch Cat"
 msgstr "Kot Scratcha"
+
+msgid "Scripts"
+msgstr "Skrypty"
 
 msgid "second"
 msgstr "sekunda"
@@ -427,14 +461,20 @@ msgstr "sekunda"
 msgid "See project page"
 msgstr "Zobacz stronę projektu"
 
+msgid "Select"
+msgstr "Wybierz"
+
 msgid "select all"
 msgstr "zaznacz wszystko"
+
+msgid "Set Costume Center"
+msgstr "Ustaw Środek Kostiumu"
 
 msgid "Share"
 msgstr "Udostępnij"
 
-msgid "shout"
-msgstr "krzycz"
+msgid "shared"
+msgstr "udostępniony"
 
 msgid "show receivers"
 msgstr "pokaż odbiorców"
@@ -469,6 +509,10 @@ msgstr "dźwięk"
 msgid "space"
 msgstr "spacja"
 
+# 85%
+msgid "Sprite"
+msgstr "Duszek"
+
 msgid "Sprites"
 msgstr "Duszki"
 
@@ -477,6 +521,9 @@ msgstr "pierwiastek kwadratowy"
 
 msgid "Stage"
 msgstr "Scena"
+
+msgid "Stage selected"
+msgstr "Wybrana scena"
 
 msgid "Steel Drum"
 msgstr "Blaszany bęben"
@@ -493,11 +540,11 @@ msgstr "Tamburyn"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr "Tekst"
+
 msgid "that way"
 msgstr "w tamten sposób"
-
-msgid "think"
-msgstr "pomyśl"
 
 msgid "this script"
 msgstr "ten skrypt"
@@ -517,20 +564,23 @@ msgstr "Wskazówki"
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "Aby usunąć blok, najpierw usuń wszystkie jego użycia."
 
-msgid "top-left"
-msgstr "lewy górny"
-
-msgid "top-right"
-msgstr "prawy górny"
-
 msgid "Triangle"
 msgstr "Trójkąt"
 
 msgid "Trombone"
 msgstr "Puzon"
 
+msgid "Turbo Mode"
+msgstr "Tryb Turbo"
+
 msgid "undo"
 msgstr "cofnij"
+
+msgid "Ungroup"
+msgstr "Rozgrupuj"
+
+msgid "unshared"
+msgstr "nieudostępniony"
 
 msgid "up"
 msgstr "góra"
@@ -553,9 +603,6 @@ msgstr "głośność"
 msgid "whirl"
 msgstr "wir"
 
-msgid "whisper"
-msgstr "szept"
-
 msgid "Wood Block"
 msgstr "Klocek drewniany"
 
@@ -570,6 +617,45 @@ msgstr "pozycja y"
 
 msgid "year"
 msgstr "rok"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "lewy dolny"
+
+#~ msgid "bottom-right"
+#~ msgstr "prawy dolny"
+
+#~ msgid "middle"
+#~ msgstr "środkowy"
+
+#~ msgid "name"
+#~ msgstr "nazwa"
+
+#~ msgid "New"
+#~ msgstr "Nowy"
+
+#~ msgid "New sprite:"
+#~ msgstr "Nowy duszek:"
+
+#~ msgid "say"
+#~ msgstr "powiedz"
+
+#~ msgid "shout"
+#~ msgstr "krzycz"
+
+#~ msgid "think"
+#~ msgstr "pomyśl"
+
+#~ msgid "top-left"
+#~ msgstr "lewy górny"
+
+#~ msgid "top-right"
+#~ msgstr "prawy górny"
+
+#~ msgid "whisper"
+#~ msgstr "szept"
 
 #~ msgid "any"
 #~ msgstr "dowolny"
