@@ -1,0 +1,1108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch Hebrew Version 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:21+0200\n"
+"PO-Revision-Date: 2013-02-06 14:33+0200\n"
+"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"Language-Team: Scratch Hebrew Translators <moti.ben.ari@gmail.com>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "עִבְרִית"
+
+msgid "%b and %b"
+msgstr "%b וגם %b"
+
+msgid "%b or %b"
+msgstr "%b או %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute של %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list מכיל %s ?"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp של %n"
+
+msgid "%m.sensor sensor value"
+msgstr "ערך חישן %m.sensor"
+
+msgid "%n mod %n"
+msgstr "%n שארית %n"
+
+msgid "add %s to %m.list"
+msgstr "הוסף %s ל %m.list"
+
+msgid "answer"
+msgstr "תשובה"
+
+msgid "ask %s and wait"
+msgstr "שאל %s והמתן"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "# רקע"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "רקע"
+
+msgid "broadcast %m.broadcast"
+msgstr "שדר מסר %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "שדר מסר %m.broadcast וחכה"
+
+msgid "change %m.effect effect by %n"
+msgstr "שנה אפקט %m.effect ב %n"
+
+msgid "change %m.var by %n"
+msgstr "שנה ערך %m.var ב %n"
+
+msgid "change pen color by %n"
+msgstr "שנה צבע עט ב %n"
+
+msgid "change pen shade by %n"
+msgstr "שנה הצללת עט ב %n"
+
+msgid "change pen size by %n"
+msgstr "שנה גודל עט ב %n"
+
+msgid "change size by %n"
+msgstr "שנה גודל ב %n"
+
+msgid "change tempo by %n"
+msgstr "שנה קצב ב %n"
+
+msgid "change volume by %n"
+msgstr "שנה עוצמת קול ב %n"
+
+msgid "change x by %n"
+msgstr "שנה ערך x ב %n"
+
+msgid "change y by %n"
+msgstr "שנה ערך y ב %n"
+
+msgid "clear"
+msgstr "נקה"
+
+msgid "clear graphic effects"
+msgstr "נקה אפקטים"
+
+msgid "clone startup"
+msgstr "הפעל כפיל"
+
+msgid "color %c is touching %c?"
+msgstr "צבע %c נוגע בצבע %c ?"
+
+msgid "Control"
+msgstr "בקרה"
+
+msgid "costume #"
+msgstr "תלבושת"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "צור כפיל של %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "%m.timeAndDate נוכחי"
+
+msgid "Data"
+msgstr "נתונים"
+
+msgid "define"
+msgstr "הגדר"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "מחק פריט %d.listDeleteItem מתוך %m.list"
+
+msgid "delete this clone"
+msgstr "מחק כפיל זה"
+
+msgid "direction"
+msgstr "כיוון"
+
+msgid "distance"
+msgstr "מרחק"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "המרחק אל %m.spriteOrMouse"
+
+msgid "else"
+msgstr "ואם לא"
+
+msgid "Events"
+msgstr "אירועים"
+
+msgid "forever"
+msgstr "לעולמים"
+
+msgid "forever if %b"
+msgstr "לעולמים אם %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "גלוש %n שניות ל :x %n :y %n"
+
+msgid "go back %n layers"
+msgstr "העבר שיכבה %n לאחור"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "קפוץ אל %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "העבר לשיכבה הקדמית"
+
+msgid "go to x:%n y:%n"
+msgstr " קפוץ אל :x %n :y %n"
+
+msgid "hide"
+msgstr "הסתר"
+
+msgid "hide all sprites"
+msgstr "הדמויות כל את הסתר"
+
+msgid "hide list %m.list"
+msgstr "הסתר רשימה %m.list"
+
+msgid "hide variable %m.var"
+msgstr "הסתר משתנה %m.var"
+
+msgid "if %b"
+msgstr "אם %b"
+
+msgid "if on edge, bounce"
+msgstr "בנגיעה במסגרת הפוך כיוון"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "הכנס %s במקום %d.listItem של %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "פריט %d.listItem של %m.list"
+
+msgid "join %s %s"
+msgstr "חבר %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "מקש %m.key נלחץ ?"
+
+msgid "length of %m.list"
+msgstr "אורך של %m.list"
+
+msgid "length of %s"
+msgstr "אורך של %s"
+
+msgid "letter %n of %s"
+msgstr "אות %n של %s"
+
+msgid "Looks"
+msgstr "מראה"
+
+msgid "loudness"
+msgstr "עוצמת המיקרופון"
+
+msgid "More Blocks"
+msgstr "לבנים נוספות"
+
+msgid "Motion"
+msgstr "תנועה"
+
+msgid "mouse down?"
+msgstr "עכבר נלחץ ?"
+
+msgid "mouse x"
+msgstr "ערך עכבר בציר x"
+
+msgid "mouse y"
+msgstr "ערך עכבר בציר y"
+
+msgid "move %n steps"
+msgstr "זוז %n צעדים"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "הבאה הרקע"
+
+msgid "next costume"
+msgstr "התלבושת הבאה"
+
+msgid "not %b"
+msgstr "לא %b"
+
+msgid "Operators"
+msgstr "מפעילים"
+
+msgid "Pen"
+msgstr "עט"
+
+msgid "pen down"
+msgstr "עט מטה"
+
+msgid "pen up"
+msgstr "עט מעלה"
+
+msgid "pick random %n to %n"
+msgstr "בחר מספר אקראי בין %n ל %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "נגן בתוף %d.drum למשך %n פעימות"
+
+msgid "play note %d.note for %n beats"
+msgstr "נגן תו %d.note במשך %n פעימות"
+
+msgid "play sound %m.sound"
+msgstr "נגן צליל %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "נגן צליל %m.sound עד לסיום"
+
+msgid "point in direction %d.direction"
+msgstr "פנה לכיוון %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "פנה לכיוון של %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "חזור %n פעמים"
+
+msgid "repeat until %b"
+msgstr "חזור עד ש %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "קבע פריט %d.listItem של %m.list ל %s"
+
+msgid "reset timer"
+msgstr "אפס מונה"
+
+msgid "rest for %n beats"
+msgstr "נח למשך %n פעימות"
+
+msgid "round %n"
+msgstr "עגל %n"
+
+msgid "say %s"
+msgstr "אמור %s"
+
+msgid "say %s for %n secs"
+msgstr "אמור %s למשך %n שניות"
+
+msgid "Scratch days"
+msgstr "ימי Scratch"
+
+msgid "Sensing"
+msgstr "חיישנים"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "חישן %m.booleanSensor ?"
+
+msgid "set %m.effect effect to %n"
+msgstr "קבע אפקט %m.effect ל %n"
+
+msgid "set %m.var to %s"
+msgstr "קבע %m.var ל %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "קבע כלי נגינה %d.instrument"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "קבע כיוון מנוע ל %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "קבע עוצמת מנוע ל %n"
+
+msgid "set pen color to %c"
+msgstr "קבע צבע עט ל %c"
+
+msgid "set pen color to %n"
+msgstr "קבע צבע עט ל %n"
+
+msgid "set pen shade to %n"
+msgstr "קבע הצללת עט ל %n"
+
+msgid "set pen size to %n"
+msgstr "קבע גודל עט ל %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "קבע אופן סיבוב %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "קבע גודל ל %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "קבע קצב ל %n פעימות לדקה"
+
+msgid "set video transparency to %n%"
+msgstr "% %n ל ווידיאו שקיפות קבע"
+
+msgid "set volume to %n%"
+msgstr "קבע עוצמת קול ל %n%"
+
+msgid "set x to %n"
+msgstr "קבע ערך x ל %n"
+
+msgid "set y to %n"
+msgstr "קבע ערך y ל %n"
+
+msgid "show"
+msgstr "הצג"
+
+msgid "show list %m.list"
+msgstr "הצג רשימה %m.list"
+
+msgid "show variable %m.var"
+msgstr "הצג משתנה %m.var"
+
+msgid "size"
+msgstr "גודל"
+
+msgid "Sound"
+msgstr "צלילים"
+
+msgid "stamp"
+msgstr "החתם"
+
+msgid "stop %m.stop"
+msgstr "עצור %m.stop"
+
+msgid "stop all sounds"
+msgstr "הפסק את כל הצלילים"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "קבע רקע ל %m.backdrop"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "קבע רקע ל %m.backdrop וחכה"
+
+msgid "switch costume to %m.costume"
+msgstr "קבע תלבושת ל %m.costume"
+
+msgid "tempo"
+msgstr "קצב"
+
+msgid "think %s"
+msgstr "חשוב %s"
+
+msgid "think %s for %n secs"
+msgstr "חשוב %s למשך %n שניות"
+
+msgid "tilt"
+msgstr "הטיה"
+
+msgid "timer"
+msgstr "מונה"
+
+msgid "touching %m.touching?"
+msgstr "נוגע ב %m.touching?"
+
+msgid "touching color %c?"
+msgstr "נוגע בצבע %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "הסתובב @turnLeft %n מעלות"
+
+msgid "turn @turnRight %n degrees"
+msgstr "הסתובב @turnRight %n מעלות"
+
+msgid "turn motor off"
+msgstr "כבה מנוע"
+
+msgid "turn motor on"
+msgstr "הפעל מנוע"
+
+msgid "turn motor on for %n secs"
+msgstr "הפעל מנוע ל %n שניות"
+
+msgid "turn video %m.videoState"
+msgstr "%m.videoState ל ווידיאו מצב שנה"
+
+msgid "user id"
+msgstr "שם משתמש"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "וודיאו %m.videoMotionType ב %m.stageOrThis"
+
+msgid "volume"
+msgstr "עוצמת קול"
+
+msgid "wait %n secs"
+msgstr "חכה %n שניות"
+
+msgid "wait until %b"
+msgstr "חכה עד ש %b"
+
+msgid "when %m.booleanSensor"
+msgstr "כאשר %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "כאשר נלחץ מקש %m.key "
+
+msgid "when %m.triggerSensor > %n"
+msgstr "כאשר %m.triggerSensor < %n"
+
+msgid "when @greenFlag clicked"
+msgstr "כאשר לוחצים על  @greenFlag  "
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "כאשר הרקע משתנה ל %m.backdrop"
+
+msgid "when distance < %n"
+msgstr "כאשר מרחק > %n"
+
+msgid "when I receive %m.broadcast"
+msgstr "כשמתקבל מסר %m.broadcast"
+
+msgid "when this sprite clicked"
+msgstr "כאשר לוחצים על דמות זו"
+
+msgid "when tilt = %n"
+msgstr "כאשר הטיה = %n"
+
+msgid "x position"
+msgstr "מיקום על ציר x"
+
+msgid "y position"
+msgstr "מיקום על ציר y"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "כוון מנוע %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "מנוע מכובה"
+
+#~ msgid "motor on"
+#~ msgstr "מנוע דלוק"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "מנוע דלוק %n שניות"
+
+#~ msgid "motor power %n"
+#~ msgstr "עוצמת מנוע %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "beats %n למשך %d.note נגן תו"
+
+#~ msgid "when I am clicked"
+#~ msgstr "כאשר לוחצים עלי"
+
+##################
+# User Interface #
+##################
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:51+0200\n"
+"PO-Revision-Date: 2013-01-29 20:51+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "#"
+msgstr ""
+
+msgid "10 ^"
+msgstr ""
+
+msgid "A connected"
+msgstr ""
+
+msgid "abs"
+msgstr "abs"
+
+msgid "acos"
+msgstr ""
+
+msgid "Add a boolean input:"
+msgstr ""
+
+msgid "Add a number input:"
+msgstr ""
+
+msgid "Add a string input:"
+msgstr ""
+
+msgid "add comment"
+msgstr ""
+
+msgid "Add label text:"
+msgstr ""
+
+msgid "all"
+msgstr "הכל"
+
+msgid "all around"
+msgstr ""
+
+msgid "asin"
+msgstr ""
+
+msgid "atan"
+msgstr ""
+
+msgid "B connected"
+msgstr ""
+
+msgid "backdrop #"
+msgstr ""
+
+msgid "backdrop name"
+msgstr ""
+
+msgid "backdrop1"
+msgstr ""
+
+msgid "Backpack"
+msgstr ""
+
+msgid "Bass"
+msgstr ""
+
+msgid "Bass Drum"
+msgstr ""
+
+msgid "Bassoon"
+msgstr "בסון (כלי נגינה) "
+
+msgid "Bongo"
+msgstr ""
+
+msgid "bottom-left"
+msgstr ""
+
+msgid "bottom-right"
+msgstr ""
+
+msgid "brightness"
+msgstr "בהירות"
+
+msgid "button pressed"
+msgstr "לחצן נלחץ"
+
+msgid "C connected"
+msgstr ""
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Camera"
+msgstr "מצלמה"
+
+msgid "Cannot Delete"
+msgstr ""
+
+msgid "ceiling"
+msgstr ""
+
+msgid "Cello"
+msgstr "צ'לו"
+
+msgid "Choir"
+msgstr ""
+
+msgid "Clarinet"
+msgstr "קלרינט"
+
+msgid "Claves"
+msgstr "מקל הקשה"
+
+msgid "clear senders/receivers"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr "Closed Hi-Hat"
+
+msgid "color"
+msgstr "צבע"
+
+msgid "Conga"
+msgstr ""
+
+msgid "copy"
+msgstr "העתק"
+
+msgid "cos"
+msgstr ""
+
+msgid "costume #"
+msgstr ""
+
+msgid "costume name"
+msgstr ""
+
+msgid "costume1"
+msgstr ""
+
+msgid "costume2"
+msgstr ""
+
+msgid "Cowbell"
+msgstr "פעמון הפרה"
+
+msgid "Crash Cymbal"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "D connected"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "day of week"
+msgstr ""
+
+msgid "delete"
+msgstr "מחק"
+
+msgid "direction"
+msgstr ""
+
+msgid "don't rotate"
+msgstr ""
+
+msgid "down"
+msgstr "מטה"
+
+msgid "down arrow"
+msgstr "חץ מטה"
+
+msgid "Duplicate"
+msgstr "שכפל"
+
+msgid "duplicate"
+msgstr "שכפל"
+
+msgid "e ^"
+msgstr ""
+
+msgid "edge"
+msgstr "מסגרת"
+
+msgid "edit"
+msgstr "ערוך"
+
+msgid "Edit"
+msgstr "ערוך"
+
+msgid "Effects"
+msgstr ""
+
+msgid "Electric Guitar"
+msgstr ""
+
+msgid "Electric Piano"
+msgstr ""
+
+msgid "fade in"
+msgstr ""
+
+msgid "fade out"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "fisheye"
+msgstr "עין דג"
+
+msgid "floor"
+msgstr ""
+
+msgid "Flute"
+msgstr "חליל"
+
+msgid "ghost"
+msgstr "רוח"
+
+msgid "Guiro"
+msgstr ""
+
+msgid "Guitar"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr "מחיאת כף"
+
+msgid "hour"
+msgstr ""
+
+msgid "Import"
+msgstr "יבא"
+
+msgid "last"
+msgstr "אחרון"
+
+msgid "left"
+msgstr "שמאלה"
+
+msgid "left arrow"
+msgstr "חץ שמאלי"
+
+msgid "left-right"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "light"
+msgstr "אור"
+
+msgid "ln"
+msgstr ""
+
+msgid "log"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "louder"
+msgstr ""
+
+msgid "loudness"
+msgstr ""
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "message1"
+msgstr ""
+
+msgid "middle"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "mosaic"
+msgstr "פסיפס"
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr "מצביע העכבר"
+
+msgid "Music Box"
+msgstr "תיבת נגינה "
+
+msgid "myself"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+#, fuzzy
+msgid "New"
+msgstr "Nouveau"
+
+msgid "New backdrop"
+msgstr ""
+
+msgid "New costume"
+msgstr ""
+
+msgid "new message..."
+msgstr ""
+
+msgid "New sound"
+msgstr ""
+
+msgid "New sprite:"
+msgstr "דמות חדשה:"
+
+msgid "off"
+msgstr "כבה"
+
+msgid "on"
+msgstr "הפעל"
+
+msgid "on-flipped"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr "Open Cuica"
+
+msgid "Open Hi-Hat"
+msgstr "Open Hi-Hat"
+
+msgid "Organ"
+msgstr ""
+
+msgid "other scripts in sprite"
+msgstr ""
+
+msgid "Paint"
+msgstr "צייר"
+
+msgid "paste"
+msgstr ""
+
+msgid "photo1"
+msgstr ""
+
+msgid "Piano"
+msgstr ""
+
+msgid "pixelate"
+msgstr "pixelate"
+
+msgid "Pizzicato"
+msgstr ""
+
+msgid "pop"
+msgstr "pop"
+
+msgid "random"
+msgstr ""
+
+msgid "Record"
+msgstr "הקלט"
+
+msgid "recording1"
+msgstr ""
+
+msgid "redo"
+msgstr "בצע מחדש"
+
+msgid "Remix"
+msgstr ""
+
+msgid "resistance-A"
+msgstr ""
+
+msgid "resistance-B"
+msgstr ""
+
+msgid "resistance-C"
+msgstr ""
+
+msgid "resistance-D"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "ימינה"
+
+msgid "right arrow"
+msgstr "חץ ימני"
+
+msgid "Saxophone"
+msgstr ""
+
+msgid "say"
+msgstr ""
+
+msgid "Scratch Cat"
+msgstr ""
+
+msgid "second"
+msgstr ""
+
+msgid "See project page"
+msgstr ""
+
+msgid "select all"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "shout"
+msgstr ""
+
+msgid "show receivers"
+msgstr ""
+
+msgid "show senders"
+msgstr ""
+
+msgid "Side Stick"
+msgstr "Side Stick"
+
+msgid "silence"
+msgstr ""
+
+msgid "sin"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "slider"
+msgstr "גולל"
+
+msgid "Snare Drum"
+msgstr ""
+
+msgid "softer"
+msgstr ""
+
+msgid "sound"
+msgstr ""
+
+msgid "space"
+msgstr "מקש רווח"
+
+msgid "Sprites"
+msgstr "דמויות"
+
+msgid "sqrt"
+msgstr "sqrt"
+
+msgid "Stage"
+msgstr "רקע"
+
+msgid "Steel Drum"
+msgstr ""
+
+msgid "Synth Lead"
+msgstr ""
+
+msgid "Synth Pad"
+msgstr ""
+
+msgid "Tambourine"
+msgstr "תוף-מרים "
+
+msgid "tan"
+msgstr ""
+
+msgid "that way"
+msgstr ""
+
+msgid "think"
+msgstr ""
+
+msgid "this script"
+msgstr ""
+
+msgid "this sprite"
+msgstr ""
+
+msgid "this way"
+msgstr ""
+
+msgid "timer"
+msgstr ""
+
+msgid "Tips"
+msgstr ""
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+
+msgid "top-left"
+msgstr ""
+
+msgid "top-right"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "Trombone"
+msgstr "טרומבון"
+
+msgid "undo"
+msgstr "בטל"
+
+msgid "up"
+msgstr "מעלה"
+
+msgid "up arrow"
+msgstr "חץ מעלה"
+
+msgid "Vibraphone"
+msgstr "ויברפון"
+
+msgid "Vibraslap"
+msgstr "מנדולינה"
+
+msgid "video motion"
+msgstr ""
+
+msgid "volume"
+msgstr ""
+
+msgid "whirl"
+msgstr "סחרור"
+
+msgid "whisper"
+msgstr ""
+
+msgid "Wood Block"
+msgstr ""
+
+msgid "Wooden Flute"
+msgstr ""
+
+msgid "x position"
+msgstr ""
+
+msgid "y position"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+#~ msgid "any"
+#~ msgstr "כל"
+
+#~ msgid "High Tom"
+#~ msgstr "High Tom"
+
+#~ msgid "Long Guiro"
+#~ msgstr "Long Guiro"
+
+#~ msgid "Low Bongo"
+#~ msgstr "Low Bongo"
+
+#~ msgid "Low Conga"
+#~ msgstr "Low Conga"
+
+#~ msgid "Low Tom"
+#~ msgstr "Low Tom"
+
+#~ msgid "Low Wood Block"
+#~ msgstr "Low Wood Block"
+
+#~ msgid "Maracas"
+#~ msgstr "Maracas"
+
+#~ msgid "More"
+#~ msgstr "יותר"
+
+#~ msgid "Mute Triangle"
+#~ msgstr "Mute Triangle"
+
+#~ msgid "Open Triangle"
+#~ msgstr "Open Triangle"
+
+#~ msgid "Pedal Hi-Hat"
+#~ msgstr "דוושת היי-הט"
+
+#~ msgid "Short Guiro"
+#~ msgstr " קצר חשמלי "

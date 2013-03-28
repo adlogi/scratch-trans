@@ -1,0 +1,1117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"PO-Revision-Date: 2013-01-29 20:22+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "正體中文"
+
+msgid "%b and %b"
+msgstr "%b 且 %b"
+
+msgid "%b or %b"
+msgstr "%b 或 %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.spriteOrStage 的 %m.attribute"
+
+msgid "%m.list contains %s"
+msgstr "%m.list 包含 %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%n 的 %m.mathOp 值"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor 的偵測值"
+
+msgid "%n mod %n"
+msgstr "%n 除以 %n 的餘數"
+
+msgid "add %s to %m.list"
+msgstr "將 %s 加到 %m.list"
+
+msgid "answer"
+msgstr "答案"
+
+msgid "ask %s and wait"
+msgstr "提問 %s 並等待"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "背景編號"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "廣播 %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "廣播 %m.broadcast 並等待"
+
+msgid "change %m.effect effect by %n"
+msgstr "將 %m.effect 特效增加 %n"
+
+msgid "change %m.var by %n"
+msgstr "將變數 %m.var 的值增加 %n"
+
+msgid "change pen color by %n"
+msgstr "將畫筆的顏色值增加 %n"
+
+msgid "change pen shade by %n"
+msgstr "將畫筆的亮度增加 %n"
+
+msgid "change pen size by %n"
+msgstr "將畫筆的大小增加 %n"
+
+msgid "change size by %n"
+msgstr "將大小增加 %n ％"
+
+msgid "change tempo by %n"
+msgstr "將節奏加快 %n"
+
+msgid "change volume by %n"
+msgstr "將音量增加 %n"
+
+msgid "change x by %n"
+msgstr "將x座標增加 %n"
+
+msgid "change y by %n"
+msgstr "將y座標增加 %n"
+
+msgid "clear"
+msgstr "清除所有筆跡"
+
+msgid "clear graphic effects"
+msgstr "清除所有圖形特效"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "顏色 %c 碰到 顏色 %c"
+
+msgid "Control"
+msgstr "控制"
+
+msgid "costume #"
+msgstr "造型編號"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "將第 %d.listDeleteItem 項從 %m.list 中移除"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "方向"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "到 %m.spriteOrMouse 的距離"
+
+msgid "else"
+msgstr "否則"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "重複執行"
+
+msgid "forever if %b"
+msgstr "每當 %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "在 %n 秒內，滑行到 x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "下移 %n 層"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "移到 %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "移至最上層"
+
+msgid "go to x:%n y:%n"
+msgstr "移到 x:%n y:%n"
+
+msgid "hide"
+msgstr "隱藏"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b"
+msgstr "如果 %b"
+
+msgid "if on edge, bounce"
+msgstr "碰到邊緣就反彈"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "將 %s 加到 %m.list 的第 %d.listItem 項"
+
+msgid "item %d.listItem of %m.list"
+msgstr "%m.list 的第 %d.listItem 項"
+
+msgid "join %s %s"
+msgstr "合併 %s 和 %s"
+
+msgid "key %m.key pressed?"
+msgstr "按下 %m.key 鍵"
+
+msgid "length of %m.list"
+msgstr "%m.list 的長度"
+
+msgid "length of %s"
+msgstr "%s 的長度"
+
+msgid "letter %n of %s"
+msgstr "字串 %s 的第 %n 個字"
+
+msgid "Looks"
+msgstr "外觀"
+
+msgid "loudness"
+msgstr "音量值"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "動作"
+
+msgid "mouse down?"
+msgstr "按下滑鼠"
+
+msgid "mouse x"
+msgstr "滑鼠的x座標"
+
+msgid "mouse y"
+msgstr "滑鼠的y座標"
+
+msgid "move %n steps"
+msgstr "移動 %n 步"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "下一個背景"
+
+msgid "next costume"
+msgstr "下一個造型"
+
+msgid "not %b"
+msgstr "%b 不成立"
+
+msgid "Operators"
+msgstr "運算"
+
+msgid "Pen"
+msgstr "畫筆"
+
+msgid "pen down"
+msgstr "下筆"
+
+msgid "pen up"
+msgstr "停筆"
+
+msgid "pick random %n to %n"
+msgstr "在 %n 到 %n 間隨機選一個數"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "彈奏鼓聲 %d.drum %n 拍"
+
+# 83%
+#, fuzzy
+msgid "play note %d.note for %n beats"
+msgstr "彈奏音符 %d.note %n 拍"
+
+msgid "play sound %m.sound"
+msgstr "播放聲音 %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "播放聲音 %m.sound 直到播放完畢"
+
+msgid "point in direction %d.direction"
+msgstr "面向 %d.direction 方向"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "面向 %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "重複執行 %n 次"
+
+msgid "repeat until %b"
+msgstr "重複執行直到 %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "將 %m.list 的第 %d.listItem 項替換為 %s"
+
+msgid "reset timer"
+msgstr "計時器歸零"
+
+msgid "rest for %n beats"
+msgstr "休息 %n 拍"
+
+msgid "round %n"
+msgstr "將 %n 四捨五入"
+
+msgid "say %s"
+msgstr "說 %s"
+
+msgid "say %s for %n secs"
+msgstr "說 %s %n 秒"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "偵測"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "偵測器 %m.booleanSensor"
+
+msgid "set %m.effect effect to %n"
+msgstr "將 %m.effect 特效設定為 %n"
+
+msgid "set %m.var to %s"
+msgstr "將變數 %m.var 的值設為 %n"
+
+msgid "set instrument to %d.instrument"
+msgstr "設定樂器為 %d.instrument"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "馬達運轉方向 %m.motorDirection"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "馬達動力 %n"
+
+msgid "set pen color to %c"
+msgstr "將畫筆顏色設定為 %c"
+
+msgid "set pen color to %n"
+msgstr "將畫筆顏色設定為 %c"
+
+msgid "set pen shade to %n"
+msgstr "將畫筆亮度設為 %n"
+
+msgid "set pen size to %n"
+msgstr "將畫筆大小設為 %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr "將大小設定為 %n ％"
+
+msgid "set tempo to %n bpm"
+msgstr "將節奏設定為 %n 拍/分鐘"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "將音量設定為 %n"
+
+msgid "set x to %n"
+msgstr "將x座標設定為 %n"
+
+msgid "set y to %n"
+msgstr "將y座標設定為 %n"
+
+msgid "show"
+msgstr "顯示"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "大小"
+
+msgid "Sound"
+msgstr "聲音"
+
+msgid "stamp"
+msgstr "蓋章"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "停止所有聲音"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "節奏"
+
+msgid "think %s"
+msgstr "想著 %s"
+
+msgid "think %s for %n secs"
+msgstr "想著 %s %n 秒"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "計時器"
+
+msgid "touching %m.touching?"
+msgstr "碰到 %m.touching"
+
+msgid "touching color %c?"
+msgstr "碰到顏色 %c"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "開啟馬達運轉 %n 秒"
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "音量"
+
+msgid "wait %n secs"
+msgstr "等待 %n 秒"
+
+msgid "wait until %b"
+msgstr "直到 %b 前都等待著"
+
+# 75%
+#, fuzzy
+msgid "when %m.booleanSensor"
+msgstr "偵測器 %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "當按下 %m.key 鍵"
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr "當 @greenFlag 被點一下"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+msgid "x position"
+msgstr "x座標"
+
+msgid "y position"
+msgstr "y座標"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "馬達運轉方向 %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "關閉馬達"
+
+#~ msgid "motor on"
+#~ msgstr "開啟馬達"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "開啟馬達運轉 %n 秒"
+
+#~ msgid "motor power %n"
+#~ msgstr "馬達動力 %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "彈奏音符 %d.note %n 拍"
+
+##################
+# User Interface #
+##################
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:53+0200\n"
+"PO-Revision-Date: 2013-01-30 07:24+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "#"
+msgstr ""
+
+msgid "10 ^"
+msgstr ""
+
+msgid "A connected"
+msgstr ""
+
+msgid "abs"
+msgstr "絕對值"
+
+msgid "acos"
+msgstr ""
+
+msgid "Add a boolean input:"
+msgstr ""
+
+msgid "Add a number input:"
+msgstr ""
+
+msgid "Add a string input:"
+msgstr ""
+
+msgid "add comment"
+msgstr ""
+
+msgid "Add label text:"
+msgstr ""
+
+msgid "all"
+msgstr "所有的"
+
+msgid "all around"
+msgstr ""
+
+msgid "asin"
+msgstr ""
+
+msgid "atan"
+msgstr ""
+
+msgid "B connected"
+msgstr ""
+
+msgid "backdrop #"
+msgstr ""
+
+msgid "backdrop name"
+msgstr ""
+
+msgid "backdrop1"
+msgstr ""
+
+msgid "Backpack"
+msgstr ""
+
+msgid "Bass"
+msgstr ""
+
+msgid "Bass Drum"
+msgstr ""
+
+msgid "Bassoon"
+msgstr "低音管"
+
+msgid "Bongo"
+msgstr ""
+
+msgid "bottom-left"
+msgstr ""
+
+msgid "bottom-right"
+msgstr ""
+
+msgid "brightness"
+msgstr "亮度"
+
+msgid "button pressed"
+msgstr "按下按鈕"
+
+msgid "C connected"
+msgstr ""
+
+msgid "Cabasa"
+msgstr "抓筒"
+
+msgid "Camera"
+msgstr "照相機"
+
+msgid "Cannot Delete"
+msgstr ""
+
+msgid "ceiling"
+msgstr ""
+
+msgid "Cello"
+msgstr "大提琴 "
+
+msgid "Choir"
+msgstr ""
+
+msgid "Clarinet"
+msgstr "單簧管"
+
+msgid "Claves"
+msgstr "古鋼琴"
+
+msgid "clear senders/receivers"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr "閉合雙面拔"
+
+msgid "color"
+msgstr "顏色"
+
+msgid "Conga"
+msgstr ""
+
+msgid "copy"
+msgstr "複製"
+
+msgid "cos"
+msgstr ""
+
+msgid "costume #"
+msgstr ""
+
+msgid "costume name"
+msgstr ""
+
+msgid "costume1"
+msgstr ""
+
+msgid "costume2"
+msgstr ""
+
+msgid "Cowbell"
+msgstr "牛鈴"
+
+msgid "Crash Cymbal"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "D connected"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "day of week"
+msgstr ""
+
+msgid "delete"
+msgstr "刪除"
+
+msgid "direction"
+msgstr ""
+
+msgid "don't rotate"
+msgstr ""
+
+msgid "down"
+msgstr "下"
+
+msgid "down arrow"
+msgstr "下移鍵"
+
+msgid "Duplicate"
+msgstr "複製"
+
+msgid "duplicate"
+msgstr "複製"
+
+msgid "e ^"
+msgstr ""
+
+msgid "edge"
+msgstr "邊緣"
+
+msgid "edit"
+msgstr "編輯"
+
+msgid "Edit"
+msgstr "編輯"
+
+msgid "Effects"
+msgstr ""
+
+msgid "Electric Guitar"
+msgstr ""
+
+msgid "Electric Piano"
+msgstr ""
+
+msgid "fade in"
+msgstr ""
+
+msgid "fade out"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "fisheye"
+msgstr "魚眼"
+
+msgid "floor"
+msgstr ""
+
+msgid "Flute"
+msgstr "長笛"
+
+msgid "ghost"
+msgstr "鬼"
+
+msgid "Guiro"
+msgstr ""
+
+msgid "Guitar"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr "拍掌"
+
+msgid "hour"
+msgstr ""
+
+msgid "Import"
+msgstr "匯入"
+
+msgid "last"
+msgstr "最後的"
+
+msgid "left"
+msgstr "左"
+
+msgid "left arrow"
+msgstr "左移鍵"
+
+msgid "left-right"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "light"
+msgstr "光線"
+
+msgid "ln"
+msgstr ""
+
+msgid "log"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "louder"
+msgstr ""
+
+msgid "loudness"
+msgstr ""
+
+msgid "Marimba"
+msgstr "立奏木琴"
+
+msgid "message1"
+msgstr ""
+
+msgid "middle"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "mosaic"
+msgstr "馬賽克"
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr "滑鼠游標"
+
+msgid "Music Box"
+msgstr "音樂盒"
+
+msgid "myself"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+#, fuzzy
+msgid "New"
+msgstr "Nouveau"
+
+msgid "New backdrop"
+msgstr ""
+
+msgid "New costume"
+msgstr ""
+
+msgid "new message..."
+msgstr ""
+
+msgid "New sound"
+msgstr ""
+
+msgid "New sprite:"
+msgstr "新增角色"
+
+msgid "off"
+msgstr "關"
+
+msgid "on"
+msgstr "開"
+
+msgid "on-flipped"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr "庫加鼓-開音"
+
+msgid "Open Hi-Hat"
+msgstr "開放雙面鈸"
+
+msgid "Organ"
+msgstr ""
+
+msgid "other scripts in sprite"
+msgstr ""
+
+msgid "Paint"
+msgstr "繪製"
+
+msgid "paste"
+msgstr ""
+
+msgid "photo1"
+msgstr ""
+
+msgid "Piano"
+msgstr ""
+
+msgid "pixelate"
+msgstr "像素濾鏡"
+
+msgid "Pizzicato"
+msgstr ""
+
+msgid "pop"
+msgstr "pop聲"
+
+msgid "random"
+msgstr ""
+
+msgid "Record"
+msgstr "錄音"
+
+msgid "recording1"
+msgstr ""
+
+msgid "redo"
+msgstr "重做"
+
+msgid "Remix"
+msgstr ""
+
+msgid "resistance-A"
+msgstr ""
+
+msgid "resistance-B"
+msgstr ""
+
+msgid "resistance-C"
+msgstr ""
+
+msgid "resistance-D"
+msgstr ""
+
+msgid "reverse"
+msgstr "反轉"
+
+msgid "right"
+msgstr "右"
+
+msgid "right arrow"
+msgstr "右移鍵"
+
+msgid "Saxophone"
+msgstr ""
+
+msgid "say"
+msgstr ""
+
+msgid "Scratch Cat"
+msgstr ""
+
+msgid "second"
+msgstr ""
+
+msgid "See project page"
+msgstr ""
+
+msgid "select all"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "shout"
+msgstr ""
+
+msgid "show receivers"
+msgstr ""
+
+msgid "show senders"
+msgstr ""
+
+msgid "Side Stick"
+msgstr "鼓邊敲擊"
+
+msgid "silence"
+msgstr ""
+
+msgid "sin"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "slider"
+msgstr "滑桿"
+
+msgid "Snare Drum"
+msgstr ""
+
+msgid "softer"
+msgstr ""
+
+msgid "sound"
+msgstr ""
+
+msgid "space"
+msgstr "空白鍵"
+
+msgid "Sprites"
+msgstr "角色"
+
+msgid "sqrt"
+msgstr "平方根"
+
+msgid "Stage"
+msgstr "舞台"
+
+msgid "Steel Drum"
+msgstr ""
+
+msgid "Synth Lead"
+msgstr ""
+
+msgid "Synth Pad"
+msgstr ""
+
+msgid "Tambourine"
+msgstr "鈴鼓"
+
+msgid "tan"
+msgstr ""
+
+msgid "that way"
+msgstr "逆時針"
+
+msgid "think"
+msgstr ""
+
+msgid "this script"
+msgstr ""
+
+msgid "this sprite"
+msgstr ""
+
+msgid "this way"
+msgstr "順時針"
+
+msgid "timer"
+msgstr ""
+
+msgid "Tips"
+msgstr ""
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+
+msgid "top-left"
+msgstr ""
+
+msgid "top-right"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "Trombone"
+msgstr "長號"
+
+msgid "undo"
+msgstr "復原"
+
+msgid "up"
+msgstr "上"
+
+msgid "up arrow"
+msgstr "上移鍵"
+
+msgid "Vibraphone"
+msgstr "抖音琴"
+
+msgid "Vibraslap"
+msgstr "顫擊"
+
+msgid "video motion"
+msgstr ""
+
+msgid "volume"
+msgstr ""
+
+msgid "whirl"
+msgstr "旋轉"
+
+msgid "whisper"
+msgstr ""
+
+msgid "Wood Block"
+msgstr ""
+
+msgid "Wooden Flute"
+msgstr ""
+
+msgid "x position"
+msgstr ""
+
+msgid "y position"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+#~ msgid "any"
+#~ msgstr "任何的"
+
+#~ msgid "High Tom"
+#~ msgstr "高音鼓"
+
+#~ msgid "Long Guiro"
+#~ msgstr "長梗笛"
+
+#~ msgid "Low Bongo"
+#~ msgstr "南美小鼓-低音"
+
+#~ msgid "Low Conga"
+#~ msgstr "康加鼓-低音"
+
+#~ msgid "Low Tom"
+#~ msgstr "中音鼓-低音"
+
+#~ msgid "Low Wood Block"
+#~ msgstr "低音木魚"
+
+#~ msgid "Maracas"
+#~ msgstr "響葫蘆"
+
+#~ msgid "More"
+#~ msgstr "更多"
+
+#~ msgid "Mute Triangle"
+#~ msgstr "三角鐵-悶音"
+
+#~ msgid "Open Triangle"
+#~ msgstr "三角鐵-開音"
+
+#~ msgid "Pedal Hi-Hat"
+#~ msgstr "踏板雙面鈸"
+
+#~ msgid "Short Guiro"
+#~ msgstr "短梗笛"

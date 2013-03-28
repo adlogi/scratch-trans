@@ -1,0 +1,1096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"PO-Revision-Date: 2013-01-29 20:22+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "नेपाली"
+
+msgid "%b and %b"
+msgstr "%b र %b"
+
+msgid "%b or %b"
+msgstr "%b वा %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute मध्ये %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr ""
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp मध्ये %n"
+
+msgid "%m.sensor sensor value"
+msgstr "मापकको गणना %m.sensor "
+
+msgid "%n mod %n"
+msgstr "%n हात लाग्यो %n"
+
+msgid "add %s to %m.list"
+msgstr "%sलाई %m.listमा जोड्नुहोस्"
+
+msgid "answer"
+msgstr "उत्तर "
+
+msgid "ask %s and wait"
+msgstr "%s शोध र पर्ख"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "पृष्ठभुमि #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "प्रसारण %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "%m.broadcast प्रसारण गर र कुर"
+
+msgid "change %m.effect effect by %n"
+msgstr "%m.effect को प्रभावलाई %n ले परिवर्तन गर"
+
+msgid "change %m.var by %n"
+msgstr "%m.var लाई %n ले परिवर्तन गर"
+
+msgid "change pen color by %n"
+msgstr "पेनको रङ्ग %n बनाऊ"
+
+msgid "change pen shade by %n"
+msgstr "पेनको छायाँ रङ्ग %n बनाऊ"
+
+msgid "change pen size by %n"
+msgstr "पेनको आकार %n बनाऊ"
+
+msgid "change size by %n"
+msgstr "आकार %n बनाऊ"
+
+msgid "change tempo by %n"
+msgstr "गति %n बनाऊ"
+
+msgid "change volume by %n"
+msgstr "आवाज %n बनाऊ"
+
+msgid "change x by %n"
+msgstr "x लाई %n बनाऊ"
+
+msgid "change y by %n"
+msgstr "y लाई %n बनाऊ"
+
+msgid "clear"
+msgstr "सफा गर"
+
+msgid "clear graphic effects"
+msgstr "ग्राफिक प्रभावलाई हटाऊ"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "%c रङ्गले %c लाई छोइरहेको छ?"
+
+msgid "Control"
+msgstr "नियन्त्रण"
+
+msgid "costume #"
+msgstr "लुगा #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "%d.listDeleteItem को %m.list लाई मेट्नुहोस्"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "दिशा"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse सम्मको दुरी"
+
+msgid "else"
+msgstr "अथवा"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "सधैको लागि"
+
+msgid "forever if %b"
+msgstr "यदि %b भएमा सधैको लागि"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "%n सेकेण्डलाई x:%n y:%n सम्म सार"
+
+msgid "go back %n layers"
+msgstr "%n तह पछाडि जाऊ"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse मा जाऊ"
+
+msgid "go to front"
+msgstr "सुरुतिर जाऊ"
+
+msgid "go to x:%n y:%n"
+msgstr "x:%n y:%n मा जाऊ"
+
+msgid "hide"
+msgstr "लुकाऊ"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b"
+msgstr "यदि %b भएमा"
+
+msgid "if on edge, bounce"
+msgstr "छेउमा भएमा उफार"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr ""
+
+msgid "item %d.listItem of %m.list"
+msgstr ""
+
+msgid "join %s %s"
+msgstr ""
+
+msgid "key %m.key pressed?"
+msgstr "%m.key बटन थिचिएको छ?"
+
+msgid "length of %m.list"
+msgstr "%m.list को लंबाई"
+
+msgid "length of %s"
+msgstr "%s को लंबाई"
+
+msgid "letter %n of %s"
+msgstr "%n को %s अक्षर "
+
+msgid "Looks"
+msgstr "देखिन्छ"
+
+msgid "loudness"
+msgstr "आवाजको चर्कोपना"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "गति"
+
+msgid "mouse down?"
+msgstr "माउस थिचिएको छ?"
+
+msgid "mouse x"
+msgstr "माउस x"
+
+msgid "mouse y"
+msgstr "माउस y"
+
+msgid "move %n steps"
+msgstr "%n कदम सार"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "अर्को पृष्ठभुमि"
+
+msgid "next costume"
+msgstr "अर्को लुगा"
+
+msgid "not %b"
+msgstr "%b हैन"
+
+msgid "Operators"
+msgstr ""
+
+msgid "Pen"
+msgstr "कलम"
+
+msgid "pen down"
+msgstr "कलम तल"
+
+msgid "pen up"
+msgstr "कलम माथि"
+
+msgid "pick random %n to %n"
+msgstr "%n देखि %n सम्म जथाभावी छान"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "%d.drum ड्रमलाई %n पटक बजाऊ"
+
+# 83%
+#, fuzzy
+msgid "play note %d.note for %n beats"
+msgstr "%d.note सुरलाई %n पटक बजाऊ"
+
+msgid "play sound %m.sound"
+msgstr "%m.sound स्वर बजाऊ"
+
+msgid "play sound %m.sound until done"
+msgstr "नसकेसम्म %m.sound स्वर बजाऊ"
+
+msgid "point in direction %d.direction"
+msgstr "%d.direction दिशालाई देखाऊ"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse दिशातिर देखाऊ"
+
+msgid "repeat %n"
+msgstr "%n लाई दोहोर्‍याऊ"
+
+msgid "repeat until %b"
+msgstr "%b सम्म दोहोर्‍याऊ"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr ""
+
+msgid "reset timer"
+msgstr "समय गणक पुन सुरु"
+
+msgid "rest for %n beats"
+msgstr "%n तालसम्म रोक"
+
+msgid "round %n"
+msgstr "पालो %n"
+
+msgid "say %s"
+msgstr "%s भन"
+
+msgid "say %s for %n secs"
+msgstr "%s सेकेण्डसम्म %n भन"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "अनुभव गर्दै"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "मापक %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "%m.effect प्रभावलाई %n बनाऊ"
+
+msgid "set %m.var to %s"
+msgstr "%m.var लाई %n बनाऊ"
+
+msgid "set instrument to %d.instrument"
+msgstr "%d.instrument बाजा प्रयोग गर"
+
+msgid "set motor direction %m.motorDirection"
+msgstr ""
+
+msgid "set motor power %n"
+msgstr ""
+
+msgid "set pen color to %c"
+msgstr "कलमको रङ्गलाई %c मा परिवर्तन गर"
+
+msgid "set pen color to %n"
+msgstr "कलमको रङ्गलाई %c मा परिवर्तन गर"
+
+msgid "set pen shade to %n"
+msgstr "कलमको रङ्ग छायाँलाई %n मा परिवर्तन गर"
+
+msgid "set pen size to %n"
+msgstr "कलमको आकारलाई %n मा परिवर्तन गर"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr "आकारलाई %n मा परिवर्तन गर"
+
+msgid "set tempo to %n bpm"
+msgstr "गतिलाई %n ताल प्रति सेकेण्डमा परिवर्तन गर"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "आवाजलाई %n मा परिवर्तन गर"
+
+msgid "set x to %n"
+msgstr "x लाई %n मा परिवर्तन गर"
+
+msgid "set y to %n"
+msgstr "y लाई %n मा परिवर्तन गर"
+
+msgid "show"
+msgstr "देखाऊ"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "आकार"
+
+msgid "Sound"
+msgstr "आवाज"
+
+msgid "stamp"
+msgstr "छाप"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "सबै आवाजलाई रोक"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "गति"
+
+msgid "think %s"
+msgstr "%s सोच"
+
+msgid "think %s for %n secs"
+msgstr "%s सेकेण्डसम्म %n सोच"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "समय गणक"
+
+msgid "touching %m.touching?"
+msgstr "%m.touching लाई छुदै छौ?"
+
+msgid "touching color %c?"
+msgstr "%c रङ्गलाई छुदै छौ?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+msgid "turn motor on for %n secs"
+msgstr ""
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "आयतन"
+
+msgid "wait %n secs"
+msgstr "%n सेकेण्ड पर्ख"
+
+msgid "wait until %b"
+msgstr "%b सम्म पर्ख"
+
+# 75%
+#, fuzzy
+msgid "when %m.booleanSensor"
+msgstr "मापक %m.booleanSensor?"
+
+msgid "when %m.key key pressed"
+msgstr "%m.key बटन नथिचेसम्म पर्ख"
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr "@greenFlag क्लिक गरेमा"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+msgid "x position"
+msgstr "x स्थान"
+
+msgid "y position"
+msgstr "y स्थान"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "%d.note सुरलाई %n पटक बजाऊ"
+
+##################
+# User Interface #
+##################
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:52+0200\n"
+"PO-Revision-Date: 2013-01-29 20:52+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "#"
+msgstr ""
+
+msgid "10 ^"
+msgstr ""
+
+msgid "A connected"
+msgstr ""
+
+msgid "abs"
+msgstr "abs"
+
+msgid "acos"
+msgstr ""
+
+msgid "Add a boolean input:"
+msgstr ""
+
+msgid "Add a number input:"
+msgstr ""
+
+msgid "Add a string input:"
+msgstr ""
+
+msgid "add comment"
+msgstr ""
+
+msgid "Add label text:"
+msgstr ""
+
+msgid "all"
+msgstr "सबै "
+
+msgid "all around"
+msgstr ""
+
+msgid "asin"
+msgstr ""
+
+msgid "atan"
+msgstr ""
+
+msgid "B connected"
+msgstr ""
+
+msgid "backdrop #"
+msgstr ""
+
+msgid "backdrop name"
+msgstr ""
+
+msgid "backdrop1"
+msgstr ""
+
+msgid "Backpack"
+msgstr ""
+
+msgid "Bass"
+msgstr ""
+
+msgid "Bass Drum"
+msgstr ""
+
+msgid "Bassoon"
+msgstr "ब्यासोन"
+
+msgid "Bongo"
+msgstr ""
+
+msgid "bottom-left"
+msgstr ""
+
+msgid "bottom-right"
+msgstr ""
+
+msgid "brightness"
+msgstr "चहक"
+
+msgid "button pressed"
+msgstr "बटन थिचिएको"
+
+msgid "C connected"
+msgstr ""
+
+msgid "Cabasa"
+msgstr "काबासा"
+
+msgid "Camera"
+msgstr "कैमरा"
+
+msgid "Cannot Delete"
+msgstr ""
+
+msgid "ceiling"
+msgstr ""
+
+msgid "Cello"
+msgstr "सेलो"
+
+msgid "Choir"
+msgstr ""
+
+msgid "Clarinet"
+msgstr "क्लारिनेट"
+
+msgid "Claves"
+msgstr "क्लाभ्स्"
+
+msgid "clear senders/receivers"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr "बन्द हाइयाट"
+
+msgid "color"
+msgstr "रङग"
+
+msgid "Conga"
+msgstr ""
+
+msgid "copy"
+msgstr "सार"
+
+msgid "cos"
+msgstr ""
+
+msgid "costume #"
+msgstr ""
+
+msgid "costume name"
+msgstr ""
+
+msgid "costume1"
+msgstr ""
+
+msgid "costume2"
+msgstr ""
+
+msgid "Cowbell"
+msgstr "काउबेल"
+
+msgid "Crash Cymbal"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "D connected"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "day of week"
+msgstr ""
+
+msgid "delete"
+msgstr "मेटाऊ"
+
+msgid "direction"
+msgstr ""
+
+msgid "don't rotate"
+msgstr ""
+
+msgid "down"
+msgstr "तल"
+
+msgid "down arrow"
+msgstr "उधोँ धर्सो"
+
+msgid "Duplicate"
+msgstr "नक्कल"
+
+msgid "duplicate"
+msgstr "नक्कल"
+
+msgid "e ^"
+msgstr ""
+
+msgid "edge"
+msgstr "किनारा"
+
+msgid "edit"
+msgstr "सम्पादन"
+
+msgid "Edit"
+msgstr "सम्पादन"
+
+msgid "Effects"
+msgstr ""
+
+msgid "Electric Guitar"
+msgstr ""
+
+msgid "Electric Piano"
+msgstr ""
+
+msgid "fade in"
+msgstr ""
+
+msgid "fade out"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "fisheye"
+msgstr "माछाको आँखा"
+
+msgid "floor"
+msgstr ""
+
+msgid "Flute"
+msgstr "बाँसुरी"
+
+msgid "ghost"
+msgstr "प्रतिलिपि"
+
+msgid "Guiro"
+msgstr ""
+
+msgid "Guitar"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr "ह्यान्ड क्ल्याप"
+
+msgid "hour"
+msgstr ""
+
+msgid "Import"
+msgstr "आयात"
+
+msgid "last"
+msgstr "अन्तिम"
+
+msgid "left"
+msgstr "बायाँ"
+
+msgid "left arrow"
+msgstr "बाया धर्सो"
+
+msgid "left-right"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "light"
+msgstr "प्रकाश"
+
+msgid "ln"
+msgstr ""
+
+msgid "log"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "louder"
+msgstr ""
+
+msgid "loudness"
+msgstr ""
+
+msgid "Marimba"
+msgstr "मारिम्बा"
+
+msgid "message1"
+msgstr ""
+
+msgid "middle"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "mosaic"
+msgstr "मोजाइक"
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr "माउसको तिर"
+
+msgid "Music Box"
+msgstr "सङ्गीत बाकस"
+
+msgid "myself"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+#, fuzzy
+msgid "New"
+msgstr "Nouveau"
+
+msgid "New backdrop"
+msgstr ""
+
+msgid "New costume"
+msgstr ""
+
+msgid "new message..."
+msgstr ""
+
+msgid "New sound"
+msgstr ""
+
+msgid "New sprite:"
+msgstr ""
+
+msgid "off"
+msgstr "बन्द"
+
+msgid "on"
+msgstr "खोल"
+
+msgid "on-flipped"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr "ओपन कुइसा"
+
+msgid "Open Hi-Hat"
+msgstr "ओपन हाइयाट"
+
+msgid "Organ"
+msgstr ""
+
+msgid "other scripts in sprite"
+msgstr ""
+
+msgid "Paint"
+msgstr "चित्र बनाऊ"
+
+msgid "paste"
+msgstr ""
+
+msgid "photo1"
+msgstr ""
+
+msgid "Piano"
+msgstr ""
+
+msgid "pixelate"
+msgstr "पिक्सेलमय बनाऊ"
+
+msgid "Pizzicato"
+msgstr ""
+
+msgid "pop"
+msgstr "खोल"
+
+msgid "random"
+msgstr ""
+
+msgid "Record"
+msgstr "रेकर्ड"
+
+msgid "recording1"
+msgstr ""
+
+msgid "redo"
+msgstr "पुन: दोहोर्‍याऊ"
+
+msgid "Remix"
+msgstr ""
+
+msgid "resistance-A"
+msgstr ""
+
+msgid "resistance-B"
+msgstr ""
+
+msgid "resistance-C"
+msgstr ""
+
+msgid "resistance-D"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "right"
+msgstr "दायाँ"
+
+msgid "right arrow"
+msgstr "दायाँ धर्सो"
+
+msgid "Saxophone"
+msgstr ""
+
+msgid "say"
+msgstr ""
+
+msgid "Scratch Cat"
+msgstr ""
+
+msgid "second"
+msgstr ""
+
+msgid "See project page"
+msgstr ""
+
+msgid "select all"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "shout"
+msgstr ""
+
+msgid "show receivers"
+msgstr ""
+
+msgid "show senders"
+msgstr ""
+
+msgid "Side Stick"
+msgstr "साइड स्टिक"
+
+msgid "silence"
+msgstr ""
+
+msgid "sin"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "slider"
+msgstr "सार्ने"
+
+msgid "Snare Drum"
+msgstr ""
+
+msgid "softer"
+msgstr ""
+
+msgid "sound"
+msgstr ""
+
+msgid "space"
+msgstr "खाली ठाउँ"
+
+msgid "Sprites"
+msgstr ""
+
+msgid "sqrt"
+msgstr "वर्गमूल"
+
+msgid "Stage"
+msgstr "मञ्च"
+
+msgid "Steel Drum"
+msgstr ""
+
+msgid "Synth Lead"
+msgstr ""
+
+msgid "Synth Pad"
+msgstr ""
+
+msgid "Tambourine"
+msgstr "टाम्बोरिन"
+
+msgid "tan"
+msgstr ""
+
+msgid "that way"
+msgstr ""
+
+msgid "think"
+msgstr ""
+
+msgid "this script"
+msgstr ""
+
+msgid "this sprite"
+msgstr ""
+
+msgid "this way"
+msgstr ""
+
+msgid "timer"
+msgstr ""
+
+msgid "Tips"
+msgstr ""
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+
+msgid "top-left"
+msgstr ""
+
+msgid "top-right"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "Trombone"
+msgstr "ट्रोम्बोन्"
+
+msgid "undo"
+msgstr "पुनर्बस्था"
+
+msgid "up"
+msgstr "माथि"
+
+msgid "up arrow"
+msgstr "उँभो धर्सो"
+
+msgid "Vibraphone"
+msgstr "भाइब्राफोन"
+
+msgid "Vibraslap"
+msgstr "भाइब्रास्ल्याप"
+
+msgid "video motion"
+msgstr ""
+
+msgid "volume"
+msgstr ""
+
+msgid "whirl"
+msgstr "घुम्नु"
+
+msgid "whisper"
+msgstr ""
+
+msgid "Wood Block"
+msgstr ""
+
+msgid "Wooden Flute"
+msgstr ""
+
+msgid "x position"
+msgstr ""
+
+msgid "y position"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+#~ msgid "any"
+#~ msgstr "कुनै "
+
+#~ msgid "High Tom"
+#~ msgstr "हाइ टम"
+
+#~ msgid "Long Guiro"
+#~ msgstr "लामो गुइरो"
+
+#~ msgid "Low Bongo"
+#~ msgstr "लो बोङ्गो"
+
+#~ msgid "Low Conga"
+#~ msgstr "लो कोङ्गा"
+
+#~ msgid "Low Tom"
+#~ msgstr "लो टम"
+
+#~ msgid "Low Wood Block"
+#~ msgstr "लो उड ब्लक"
+
+#~ msgid "Maracas"
+#~ msgstr "मार्कास"
+
+#~ msgid "More"
+#~ msgstr "अन्य"
+
+#~ msgid "Mute Triangle"
+#~ msgstr "म्युट त्रिकोण"
+
+#~ msgid "Open Triangle"
+#~ msgstr "ओपन त्रिकोण"
+
+#~ msgid "Pedal Hi-Hat"
+#~ msgstr "पेडल हाइह्याट"
+
+#~ msgid "Short Guiro"
+#~ msgstr "छोटो गुइरो"

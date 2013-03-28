@@ -1,0 +1,1117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:22+0200\n"
+"PO-Revision-Date: 2013-01-29 20:22+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Tiếng Việt"
+
+msgid "%b and %b"
+msgstr "%b và %b"
+
+msgid "%b or %b"
+msgstr "%b hoặc %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute của %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list chứa %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp của %n"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor giá trị cảm biến"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "thêm %s vào %m.list"
+
+msgid "answer"
+msgstr "câu trả lời"
+
+msgid "ask %s and wait"
+msgstr "hỏi %s và đợi"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "backdrop #"
+msgstr "hình nền #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "thông báo %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "thông báo %m.broadcast và đợi"
+
+msgid "change %m.effect effect by %n"
+msgstr "thay đổi hiệu ứng %m.effect một lượng %n"
+
+msgid "change %m.var by %n"
+msgstr "thay đổi %m.var một lượng %n"
+
+msgid "change pen color by %n"
+msgstr "thay đổi màu vẽ một lượng %n"
+
+msgid "change pen shade by %n"
+msgstr "thay đổi sắc độ màu vẽ một lượng %n"
+
+msgid "change pen size by %n"
+msgstr "thay đổi cỡ nét vẽ một lượng %n"
+
+msgid "change size by %n"
+msgstr "thay đổi kích thước một lượng %n"
+
+msgid "change tempo by %n"
+msgstr "thay đổi tốc độ một lượng %n"
+
+msgid "change volume by %n"
+msgstr "thay đổi âm lượng một lượng %n"
+
+msgid "change x by %n"
+msgstr "thay đổi x một lượng %n"
+
+msgid "change y by %n"
+msgstr "thay đổi y một lượng %n"
+
+msgid "clear"
+msgstr "xóa"
+
+msgid "clear graphic effects"
+msgstr "bỏ hiệu ứng đồ họa"
+
+msgid "clone startup"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr "màu %c chạm vào màu %c"
+
+msgid "Control"
+msgstr "điều khiển"
+
+msgid "costume #"
+msgstr "hình dạng #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "xóa %d.listDeleteItem của %m.list"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "hướng"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "khoảng cách tới %m.spriteOrMouse"
+
+msgid "else"
+msgstr "trái lại"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "lặp mãi mãi"
+
+msgid "forever if %b"
+msgstr "lặp mãi mãi nếu %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "lướt tới x:%n2 y:%n3 trong %n1 giây"
+
+msgid "go back %n layers"
+msgstr "đặt ra sau %n lớp"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "nhảy tới %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "đặt ra trước"
+
+msgid "go to x:%n y:%n"
+msgstr "nhảy tới x: %n y:%n"
+
+msgid "hide"
+msgstr "ẩn"
+
+msgid "hide all sprites"
+msgstr ""
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b"
+msgstr "nếu %b"
+
+msgid "if on edge, bounce"
+msgstr "nếu chạm biên, bật lại"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "chèn %s tại %d.listItem của %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "phần tử %d.listItem của %m.list"
+
+msgid "join %s %s"
+msgstr "nối chuỗi %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "ấn phím %m.key"
+
+msgid "length of %m.list"
+msgstr "độ dài của %m.list"
+
+msgid "length of %s"
+msgstr "độ dài của %s"
+
+msgid "letter %n of %s"
+msgstr "chữ cái thứ %n của %s"
+
+msgid "Looks"
+msgstr "ngoại hình"
+
+msgid "loudness"
+msgstr "độ ồn"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "chuyển động"
+
+msgid "mouse down?"
+msgstr "ấn phím chuột"
+
+msgid "mouse x"
+msgstr "chuột x"
+
+msgid "mouse y"
+msgstr "chuột y"
+
+msgid "move %n steps"
+msgstr "di chuyển %n bước"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
+msgid "next backdrop"
+msgstr "hình nền tiếp theo"
+
+msgid "next costume"
+msgstr "hình dạng tiếp theo"
+
+msgid "not %b"
+msgstr "không %b"
+
+msgid "Operators"
+msgstr "Các phép toán"
+
+msgid "Pen"
+msgstr "bút vẽ"
+
+msgid "pen down"
+msgstr "đặt bút xuống"
+
+msgid "pen up"
+msgstr "nhấc bút lên"
+
+msgid "pick random %n to %n"
+msgstr "lấy ngẫu nhiên trong khoảng %n tới %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "chơi trống %d.drum trong %n nhịp"
+
+# 83%
+#, fuzzy
+msgid "play note %d.note for %n beats"
+msgstr "chơi nốt nhạc %d.note trong %n nhịp"
+
+msgid "play sound %m.sound"
+msgstr "chơi âm thanh %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "chơi âm thanh %m.sound cho tới kết thúc"
+
+msgid "point in direction %d.direction"
+msgstr "hướng chuyển động %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "hướng về phía %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "lặp lại %n lần"
+
+msgid "repeat until %b"
+msgstr "lặp cho tới khi %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "thay thế %d.listItem của %m.list bởi %s"
+
+msgid "reset timer"
+msgstr "đặt lại đống hồ bấm giờ"
+
+msgid "rest for %n beats"
+msgstr "nghỉ %n nhịp"
+
+msgid "round %n"
+msgstr "làm tròn %n"
+
+msgid "say %s"
+msgstr "nói %s"
+
+msgid "say %s for %n secs"
+msgstr "nói %s trong %n giây"
+
+msgid "Scratch days"
+msgstr ""
+
+msgid "Sensing"
+msgstr "giác quan"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "cảm biến %m.booleanSensor ?"
+
+msgid "set %m.effect effect to %n"
+msgstr "đặt hiệu ứng %m.effect là %n"
+
+msgid "set %m.var to %s"
+msgstr "đặt %m.var là %n"
+
+msgid "set instrument to %d.instrument"
+msgstr "chọn nhạc cụ %d.instrument"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "chiều quay động cơ %m.motorDirection"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "sức mạnh động cơ %n"
+
+msgid "set pen color to %c"
+msgstr "dùng màu vẽ %c"
+
+msgid "set pen color to %n"
+msgstr "dùng màu vẽ %c"
+
+msgid "set pen shade to %n"
+msgstr "dùng màu vẽ có sắc độ %n"
+
+msgid "set pen size to %n"
+msgstr "dùng bút vẽ có cỡ nét %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr "đặt kích thước là %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "đặt tốc độ là %n nhịp/phút"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "đặt âm lượng là %n%"
+
+msgid "set x to %n"
+msgstr "đặt x là %n"
+
+msgid "set y to %n"
+msgstr "đặt y là %n"
+
+msgid "show"
+msgstr "hiện"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "kích thước"
+
+msgid "Sound"
+msgstr "âm thanh"
+
+msgid "stamp"
+msgstr "in hình"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "dừng mọi âm thanh"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "tốc độ"
+
+msgid "think %s"
+msgstr "nghĩ %s"
+
+msgid "think %s for %n secs"
+msgstr "nghĩ %s trong %n giây"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "đồng hồ bấm giờ"
+
+msgid "touching %m.touching?"
+msgstr "chạm vào %m.touching"
+
+msgid "touching color %c?"
+msgstr "tiếp xúc màu %c"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "bật động cơ trong %n giây"
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "user id"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "âm lượng"
+
+msgid "wait %n secs"
+msgstr "đợi %n giây"
+
+msgid "wait until %b"
+msgstr "đợi tới khi %b"
+
+# 75%
+#, fuzzy
+msgid "when %m.booleanSensor"
+msgstr "cảm biến %m.booleanSensor ?"
+
+msgid "when %m.key key pressed"
+msgstr "khi ấn phím %m.key"
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr "khi bấm vào @greenFlag"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+msgid "x position"
+msgstr "vị trí x"
+
+msgid "y position"
+msgstr "vị trí y"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "chiều quay động cơ %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "tắt động cơ"
+
+#~ msgid "motor on"
+#~ msgstr "bật động cơ"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "bật động cơ trong %n giây"
+
+#~ msgid "motor power %n"
+#~ msgstr "sức mạnh động cơ %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "chơi nốt nhạc %d.note trong %n nhịp"
+
+##################
+# User Interface #
+##################
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 20:53+0200\n"
+"PO-Revision-Date: 2013-01-29 20:53+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+
+msgid "#"
+msgstr ""
+
+msgid "10 ^"
+msgstr ""
+
+msgid "A connected"
+msgstr ""
+
+msgid "abs"
+msgstr "trị tuyệt đối"
+
+msgid "acos"
+msgstr ""
+
+msgid "Add a boolean input:"
+msgstr ""
+
+msgid "Add a number input:"
+msgstr ""
+
+msgid "Add a string input:"
+msgstr ""
+
+msgid "add comment"
+msgstr ""
+
+msgid "Add label text:"
+msgstr ""
+
+msgid "all"
+msgstr "tất cả"
+
+msgid "all around"
+msgstr ""
+
+msgid "asin"
+msgstr ""
+
+msgid "atan"
+msgstr ""
+
+msgid "B connected"
+msgstr ""
+
+msgid "backdrop #"
+msgstr ""
+
+msgid "backdrop name"
+msgstr ""
+
+msgid "backdrop1"
+msgstr ""
+
+msgid "Backpack"
+msgstr ""
+
+msgid "Bass"
+msgstr ""
+
+msgid "Bass Drum"
+msgstr ""
+
+msgid "Bassoon"
+msgstr "Kèn fagôt"
+
+msgid "Bongo"
+msgstr ""
+
+msgid "bottom-left"
+msgstr ""
+
+msgid "bottom-right"
+msgstr ""
+
+msgid "brightness"
+msgstr "độ sáng"
+
+msgid "button pressed"
+msgstr "nút được ấn"
+
+msgid "C connected"
+msgstr ""
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Camera"
+msgstr "Chụp hình"
+
+msgid "Cannot Delete"
+msgstr ""
+
+msgid "ceiling"
+msgstr ""
+
+msgid "Cello"
+msgstr "Đàn viôlôngxen"
+
+msgid "Choir"
+msgstr ""
+
+msgid "Clarinet"
+msgstr "Clarinet"
+
+msgid "Claves"
+msgstr "Đôi dùi gỗ"
+
+msgid "clear senders/receivers"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr "Tiếng va cymbal"
+
+msgid "color"
+msgstr "màu"
+
+msgid "Conga"
+msgstr ""
+
+msgid "copy"
+msgstr "Sao"
+
+msgid "cos"
+msgstr ""
+
+msgid "costume #"
+msgstr ""
+
+msgid "costume name"
+msgstr ""
+
+msgid "costume1"
+msgstr ""
+
+msgid "costume2"
+msgstr ""
+
+msgid "Cowbell"
+msgstr "Chuông đeo"
+
+msgid "Crash Cymbal"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "D connected"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "day of week"
+msgstr ""
+
+msgid "delete"
+msgstr "xoá"
+
+msgid "direction"
+msgstr ""
+
+msgid "don't rotate"
+msgstr ""
+
+msgid "down"
+msgstr "xuống"
+
+msgid "down arrow"
+msgstr "mũi tên xuống"
+
+msgid "Duplicate"
+msgstr "tạo bản sao"
+
+msgid "duplicate"
+msgstr "tạo bản sao"
+
+msgid "e ^"
+msgstr ""
+
+msgid "edge"
+msgstr "biên"
+
+msgid "edit"
+msgstr "Chỉnh sửa"
+
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+msgid "Effects"
+msgstr ""
+
+msgid "Electric Guitar"
+msgstr ""
+
+msgid "Electric Piano"
+msgstr ""
+
+msgid "fade in"
+msgstr ""
+
+msgid "fade out"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "fisheye"
+msgstr "thấu kính lồi"
+
+msgid "floor"
+msgstr ""
+
+msgid "Flute"
+msgstr "Sáo"
+
+msgid "ghost"
+msgstr "mờ ảo"
+
+msgid "Guiro"
+msgstr ""
+
+msgid "Guitar"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr "Vỗ tay"
+
+msgid "hour"
+msgstr ""
+
+msgid "Import"
+msgstr "nhập"
+
+msgid "last"
+msgstr "cuối cùng"
+
+msgid "left"
+msgstr "trái"
+
+msgid "left arrow"
+msgstr "mũi tên trái"
+
+msgid "left-right"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "light"
+msgstr "ánh sáng"
+
+msgid "ln"
+msgstr ""
+
+msgid "log"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "louder"
+msgstr ""
+
+msgid "loudness"
+msgstr ""
+
+msgid "Marimba"
+msgstr "Mộc cầm"
+
+msgid "message1"
+msgstr ""
+
+msgid "middle"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "mosaic"
+msgstr "khảm"
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr "con trỏ chuột"
+
+msgid "Music Box"
+msgstr "Hộp Nhạc"
+
+msgid "myself"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+#, fuzzy
+msgid "New"
+msgstr "Nouveau"
+
+msgid "New backdrop"
+msgstr ""
+
+msgid "New costume"
+msgstr ""
+
+msgid "new message..."
+msgstr ""
+
+msgid "New sound"
+msgstr ""
+
+msgid "New sprite:"
+msgstr "Nhân vật mới:"
+
+msgid "off"
+msgstr "Tắt"
+
+msgid "on"
+msgstr "Bật"
+
+msgid "on-flipped"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr "Bật Cuica"
+
+msgid "Open Hi-Hat"
+msgstr "Bật Hi-hat"
+
+msgid "Organ"
+msgstr ""
+
+msgid "other scripts in sprite"
+msgstr ""
+
+msgid "Paint"
+msgstr "Vẽ"
+
+msgid "paste"
+msgstr ""
+
+msgid "photo1"
+msgstr ""
+
+msgid "Piano"
+msgstr ""
+
+msgid "pixelate"
+msgstr "nhòe"
+
+msgid "Pizzicato"
+msgstr ""
+
+msgid "pop"
+msgstr "pop"
+
+msgid "random"
+msgstr ""
+
+msgid "Record"
+msgstr "ghi"
+
+msgid "recording1"
+msgstr ""
+
+msgid "redo"
+msgstr "Thực hiện lại thao tác"
+
+msgid "Remix"
+msgstr ""
+
+msgid "resistance-A"
+msgstr ""
+
+msgid "resistance-B"
+msgstr ""
+
+msgid "resistance-C"
+msgstr ""
+
+msgid "resistance-D"
+msgstr ""
+
+msgid "reverse"
+msgstr "đảo chiều quay"
+
+msgid "right"
+msgstr "phải"
+
+msgid "right arrow"
+msgstr "mũi tên phải"
+
+msgid "Saxophone"
+msgstr ""
+
+msgid "say"
+msgstr ""
+
+msgid "Scratch Cat"
+msgstr ""
+
+msgid "second"
+msgstr ""
+
+msgid "See project page"
+msgstr ""
+
+msgid "select all"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "shout"
+msgstr ""
+
+msgid "show receivers"
+msgstr ""
+
+msgid "show senders"
+msgstr ""
+
+msgid "Side Stick"
+msgstr "Tiếng trống cạnh"
+
+msgid "silence"
+msgstr ""
+
+msgid "sin"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "slider"
+msgstr "thanh trượt"
+
+msgid "Snare Drum"
+msgstr ""
+
+msgid "softer"
+msgstr ""
+
+msgid "sound"
+msgstr ""
+
+msgid "space"
+msgstr "phím cách"
+
+msgid "Sprites"
+msgstr "Nhân vật"
+
+msgid "sqrt"
+msgstr "căn"
+
+msgid "Stage"
+msgstr "Sân khấu"
+
+msgid "Steel Drum"
+msgstr ""
+
+msgid "Synth Lead"
+msgstr ""
+
+msgid "Synth Pad"
+msgstr ""
+
+msgid "Tambourine"
+msgstr "Trống lục lạc"
+
+msgid "tan"
+msgstr ""
+
+msgid "that way"
+msgstr "huớng kia"
+
+msgid "think"
+msgstr ""
+
+msgid "this script"
+msgstr ""
+
+msgid "this sprite"
+msgstr ""
+
+msgid "this way"
+msgstr "hướng này"
+
+msgid "timer"
+msgstr ""
+
+msgid "Tips"
+msgstr ""
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+
+msgid "top-left"
+msgstr ""
+
+msgid "top-right"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "Trombone"
+msgstr "Trombone"
+
+msgid "undo"
+msgstr "Bỏ thao tác"
+
+msgid "up"
+msgstr "lên"
+
+msgid "up arrow"
+msgstr "mũi tên lên"
+
+msgid "Vibraphone"
+msgstr "Đàn tăng rung"
+
+msgid "Vibraslap"
+msgstr "Vả rung động"
+
+msgid "video motion"
+msgstr ""
+
+msgid "volume"
+msgstr ""
+
+msgid "whirl"
+msgstr "xoáy"
+
+msgid "whisper"
+msgstr ""
+
+msgid "Wood Block"
+msgstr ""
+
+msgid "Wooden Flute"
+msgstr ""
+
+msgid "x position"
+msgstr ""
+
+msgid "y position"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+#~ msgid "any"
+#~ msgstr "bất kỳ"
+
+#~ msgid "High Tom"
+#~ msgstr "Trống đệm cao"
+
+#~ msgid "Long Guiro"
+#~ msgstr "Guiro dài"
+
+#~ msgid "Low Bongo"
+#~ msgstr "Trống tay thấp"
+
+#~ msgid "Low Conga"
+#~ msgstr "Trống Conga thấp"
+
+#~ msgid "Low Tom"
+#~ msgstr "Trống đệm thấp"
+
+#~ msgid "Low Wood Block"
+#~ msgstr "Khối gỗ thấp"
+
+#~ msgid "Maracas"
+#~ msgstr "Maracas"
+
+#~ msgid "More"
+#~ msgstr "tiếp theo"
+
+#~ msgid "Mute Triangle"
+#~ msgstr "Tiếng tam giác câm"
+
+#~ msgid "Open Triangle"
+#~ msgstr "Bật tam giác"
+
+#~ msgid "Pedal Hi-Hat"
+#~ msgstr "Hi-Hat đạp chân"
+
+#~ msgid "Short Guiro"
+#~ msgstr "Guiro ngắn"
