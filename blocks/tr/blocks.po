@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:35+0200\n"
-"PO-Revision-Date: 2013-03-18 01:12+0200\n"
+"PO-Revision-Date: 2013-03-28 01:56+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -27,7 +27,7 @@ msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute sı %m.spriteOrStage in"
 
 msgid "%m.list contains %s"
-msgstr "%m.list de %s var"
+msgstr "%m.list listesinde %s var (mı?)"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n"
@@ -49,11 +49,11 @@ msgstr "%s diye sor ve bekle"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "arka perde #"
+msgstr "dekor #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "arka perdenin adı"
+msgstr "dekorun adı"
 
 msgid "broadcast %m.broadcast"
 msgstr "%m.broadcast haberini sal"
@@ -222,7 +222,7 @@ msgstr "%n adım git"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr "sonraki arka perde"
+msgstr "sonraki dekor"
 
 msgid "next costume"
 msgstr "sonraki kılık"
@@ -370,11 +370,11 @@ msgstr "tüm sesleri durdur"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "%m.backdrop arka perdesine geç"
+msgstr "%m.backdrop dekoruna geç"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "%m.backdrop arka perdesine geç ve bekle"
+msgstr "%m.backdrop dekoruna geç ve bekle"
 
 msgid "switch costume to %m.costume"
 msgstr "%m.costume kılığına geç"
@@ -449,7 +449,7 @@ msgstr "@greenFlag tıklanınca"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "arka perde %m.backdrop olduğunda"
+msgstr "dekor %m.backdrop olduğunda"
 
 msgid "when distance < %n"
 msgstr "mesafe %n'den küçük olduğunda"
