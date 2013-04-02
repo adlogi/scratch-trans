@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:34+0200\n"
-"PO-Revision-Date: 2013-03-19 00:40+0200\n"
+"PO-Revision-Date: 2013-04-02 22:36+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -113,7 +113,6 @@ msgid "current %m.timeAndDate"
 msgstr "%m.timeAndDate im Moment"
 
 # Oberbegriff für Variablen und Listen
-#, fuzzy
 msgid "Data"
 msgstr "Daten"
 
@@ -186,7 +185,6 @@ msgid "item %d.listItem of %m.list"
 msgstr "%d.listItem Element von %m.list"
 
 # Konkatenierungsoperator (grün)
-#, fuzzy
 msgid "join %s %s"
 msgstr "verbinde %s %s"
 
@@ -224,7 +222,7 @@ msgid "mouse y"
 msgstr "Maus y-Position"
 
 msgid "move %n steps"
-msgstr "gehe %n-er-Schritt"
+msgstr "gehe %ner-Schritt"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
@@ -367,7 +365,6 @@ msgstr "Größe"
 msgid "Sound"
 msgstr "Klang"
 
-#, fuzzy
 msgid "stamp"
 msgstr "hinterlasse Abdruck"
 
