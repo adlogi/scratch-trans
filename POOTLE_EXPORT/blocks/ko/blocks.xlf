@@ -125,13 +125,6 @@
         <source>clear graphic effects</source>
         <target state="translated">그래픽 효과 지우기</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="clone startup">
-        <source>clone startup</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>클론이 생기면</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color %c is touching %c?">
         <source>color %c is touching %c?</source>
         <target state="translated">%c 색이 %c 색에 닿기?</target>
@@ -147,6 +140,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="create clone of %m.spriteOnly">
         <source>create clone of %m.spriteOnly</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="ahnsang">
+          <target>%m.spriteOnly 복제하기</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="janggoons">
           <target>%m.spriteOnly 클론 만들기</target>
         </alt-trans>
@@ -165,6 +161,13 @@
           <target>데이터</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="days since 2000">
+        <source>days since 2000</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="ahnsang">
+          <target>2000년 이후의 날짜</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="define">
         <source>define</source>
         <target state="translated"></target>
@@ -179,6 +182,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="delete this clone">
         <source>delete this clone</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="ahnsang">
+          <target>복사본 삭제하기</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="janggoons">
           <target>이 클론 삭제하기</target>
         </alt-trans>
@@ -216,13 +222,6 @@
           <target>무한 반복하기</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="forever if %b">
-        <source>forever if %b</source>
-        <target state="translated">반복 %b 계속 확인</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%b 동안 반복하기</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
         <source>glide %n secs to x:%n y:%n</source>
         <target state="translated">x:%n, y:%n 로 %n 초간 움직이기</target>
@@ -253,13 +252,6 @@
         <source>hide</source>
         <target state="translated">숨기기</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="hide all sprites">
-        <source>hide all sprites</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>모든 스프라이트 숨기기</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide list %m.list">
         <source>hide list %m.list</source>
         <target state="translated"></target>
@@ -274,9 +266,12 @@
           <target>%m.var 변수 숨기기</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="if %b">
-        <source>if %b</source>
-        <target state="translated">만약 %b 라면</target>
+      <trans-unit xml:space="preserve" approved="yes" id="if %b then">
+        <source>if %b then</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="ahnsang">
+          <target>만약 %b 라면</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if on edge, bounce">
         <source>if on edge, bounce</source>
@@ -309,6 +304,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="letter %n of %s">
         <source>letter %n of %s</source>
         <target state="translated">%s의 %n 번째 글자</target>
+        <alt-trans xml:space="preserve" origin="ahnsang">
+          <target>%s 의 %n 번째 글자</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Looks">
         <source>Looks</source>
@@ -444,16 +442,6 @@
         <source>say %s for %n secs</source>
         <target state="translated">%s %n 초간 말하기</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Scratch days">
-        <source>Scratch days</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="MaxSpade360ZXA">
-          <target>스크레치 날</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>스크레치 데이</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sensing">
         <source>Sensing</source>
         <target state="translated">관찰</target>
@@ -509,6 +497,9 @@
         <alt-trans xml:space="preserve" origin="janggoons">
           <target>펜 색상 %n 로 정하기</target>
         </alt-trans>
+        <alt-trans xml:space="preserve" origin="ahnsang">
+          <target>펜 색상 %n (으)로 정하기</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen shade to %n">
         <source>set pen shade to %n</source>
@@ -535,21 +526,21 @@
       <trans-unit xml:space="preserve" approved="yes" id="set tempo to %n bpm">
         <source>set tempo to %n bpm</source>
         <target state="translated">템포 %n BPM로 맞추기</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>템포 %n BPM 으로 정하기</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="picxenk">
           <target>템포 %n BPM로 정하기</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="janggoons">
+          <target>템포 %n BPM 으로 정하기</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set video transparency to %n%">
         <source>set video transparency to %n%</source>
         <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>비디오 투명도  %n% 로 정하기</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="janggoons">
           <target>비디오 투명도 %n% 로 정하기</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="picxenk">
+          <target>비디오 투명도  %n% 로 정하기</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
@@ -636,10 +627,16 @@
         <alt-trans xml:space="preserve" origin="janggoons">
           <target>%m.costume 로 모양 바꾸기</target>
         </alt-trans>
+        <alt-trans xml:space="preserve" origin="ahnsang">
+          <target>%m.costume (으)로 모양 바꾸기</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tempo">
         <source>tempo</source>
         <target state="translated">템포</target>
+        <alt-trans xml:space="preserve" origin="ahnsang">
+          <target>박자</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="think %s">
         <source>think %s</source>
@@ -654,6 +651,9 @@
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="janggoons">
           <target>틸트</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="ahnsang">
+          <target>기울이기</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="timer">
@@ -720,6 +720,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="user id">
         <source>user id</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="ahnsang">
+          <target>사용자 이름</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="MaxSpade360ZXA">
           <target>사용자 이릉</target>
         </alt-trans>
@@ -791,6 +794,10 @@
           <target>%m.broadcast 받을 때</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when I start as a clone">
+        <source>when I start as a clone</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when this sprite clicked">
         <source>when this sprite clicked</source>
         <target state="translated"></target>
@@ -804,11 +811,11 @@
       <trans-unit xml:space="preserve" approved="yes" id="when tilt = %n">
         <source>when tilt = %n</source>
         <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="MaxSpade360ZXA">
-          <target>돌기가 %n 때</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="janggoons">
           <target>틸트 = %n 일 때</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="MaxSpade360ZXA">
+          <target>돌기가 %n 때</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="x position">

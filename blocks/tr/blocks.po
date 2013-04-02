@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:35+0200\n"
-"PO-Revision-Date: 2013-03-28 01:56+0200\n"
+"PO-Revision-Date: 2013-03-30 19:35+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -363,7 +363,7 @@ msgid "stamp"
 msgstr "iz bırak"
 
 msgid "stop %m.stop"
-msgstr "%m.stop ni durdur"
+msgstr "%m.stop durdur"
 
 msgid "stop all sounds"
 msgstr "tüm sesleri durdur"
@@ -436,20 +436,20 @@ msgstr "%b olana kadar bekle"
 
 # 75%
 msgid "when %m.booleanSensor"
-msgstr "%m.booleanSensor olduğunda"
+msgstr "%m.booleanSensor olunca"
 
 msgid "when %m.key key pressed"
-msgstr "%m.key tuşu basıldığında"
+msgstr "%m.key tuşu basılınca"
 
 msgid "when %m.triggerSensor > %n"
-msgstr "%m.triggerSensor > %n olduğunda"
+msgstr "%m.triggerSensor > %n olunca"
 
 msgid "when @greenFlag clicked"
 msgstr "@greenFlag tıklanınca"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "dekor %m.backdrop olduğunda"
+msgstr "dekor %m.backdrop olunca"
 
 msgid "when distance < %n"
 msgstr "mesafe %n'den küçük olduğunda"
