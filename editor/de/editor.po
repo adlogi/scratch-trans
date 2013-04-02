@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:47+0200\n"
-"PO-Revision-Date: 2013-03-19 00:55+0200\n"
+"PO-Revision-Date: 2013-04-03 01:01+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -101,7 +101,7 @@ msgstr "Helligkeit"
 msgid "button pressed"
 msgstr "Schalter gedrückt"
 
-#, fuzzy
+# Projekt _von_ Autor
 msgid "by"
 msgstr "von"
 
@@ -115,9 +115,8 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Kamera"
 
-#, fuzzy
 msgid "Cannot Delete"
-msgstr "Kann nicht entfernt werden"
+msgstr "Kann nicht gelöscht werden"
 
 msgid "ceiling"
 msgstr "aufrunden"
@@ -234,7 +233,7 @@ msgid "Ellipse (Shift: Circle)"
 msgstr "Ellipse (Umschalttaste: Kreis)"
 
 msgid "Erase"
-msgstr ""
+msgstr "Radiergummi"
 
 # sounds->effects
 msgid "fade in"
@@ -267,7 +266,6 @@ msgstr "Eine Ebene nach vorne (Umschalttaste: Ganz nach vorne)"
 msgid "ghost"
 msgstr "Durchsichtigkeit"
 
-#, fuzzy
 msgid "Group"
 msgstr "Gruppieren"
 
@@ -307,7 +305,7 @@ msgid "light"
 msgstr "Helligkeit"
 
 msgid "Line"
-msgstr ""
+msgstr "Linie"
 
 msgid "ln"
 msgstr "ln"
@@ -349,9 +347,9 @@ msgstr "Mauszeiger"
 msgid "Music Box"
 msgstr "Musikbox"
 
-#, fuzzy
+# "erzeuge Klon von _mir selbst_"
 msgid "myself"
-msgstr "ich selbst"
+msgstr "mir selbst"
 
 msgid "New backdrop"
 msgstr "Neues Bühnenbild"
@@ -440,13 +438,11 @@ msgstr "Rechteck (Umschalttaste: Quadrat)"
 msgid "redo"
 msgstr "Wiederherstellen"
 
-#, fuzzy
 msgid "Remix"
-msgstr "Remix"
+msgstr "Bearbeiten"
 
-#, fuzzy
 msgid "Reshape"
-msgstr "Umformen"
+msgstr "Verformen"
 
 msgid "resistance-A"
 msgstr "Widerstand-A"
@@ -496,7 +492,6 @@ msgstr "Drehpunkt des Kostüms setzen"
 msgid "Share"
 msgstr "Veröffentlichen"
 
-#, fuzzy
 msgid "shared"
 msgstr "veröffentlicht"
 
@@ -510,9 +505,8 @@ msgid "Side Stick"
 msgstr "Side-Stick"
 
 # sounds->effects
-#, fuzzy
 msgid "silence"
-msgstr "Stille"
+msgstr "stumm"
 
 msgid "sin"
 msgstr "sin"
@@ -524,11 +518,11 @@ msgid "slider"
 msgstr "Schieberegler"
 
 msgid "Snare Drum"
-msgstr "Snare"
+msgstr "Snare-Drum"
 
 # sounds->effects
 msgid "softer"
-msgstr "weicher"
+msgstr "leiser"
 
 msgid "sound"
 msgstr "Klang"
@@ -549,12 +543,11 @@ msgstr "Wurzel"
 msgid "Stage"
 msgstr "Bühne"
 
-#, fuzzy
 msgid "Stage selected"
 msgstr "Bühne ausgewählt"
 
 msgid "Steel Drum"
-msgstr "Steel Drum"
+msgstr "Steel-Drum"
 
 msgid "Synth Lead"
 msgstr "Lead-Synthesizer"
@@ -608,13 +601,11 @@ msgstr "Turbo-Modus"
 msgid "undo"
 msgstr "Rückgängig"
 
-#, fuzzy
 msgid "Ungroup"
 msgstr "Gruppierung aufheben"
 
-#, fuzzy
 msgid "unshared"
-msgstr "Unveröffentlicht"
+msgstr "unveröffentlicht"
 
 msgid "up"
 msgstr "oben"
@@ -629,7 +620,7 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video motion"
-msgstr ""
+msgstr "Videobewegung"
 
 msgid "volume"
 msgstr "Lautstärke"
