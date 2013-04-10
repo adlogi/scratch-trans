@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-02-11 10:34+0200\n"
-"PO-Revision-Date: 2013-02-25 19:29+0200\n"
+"PO-Revision-Date: 2013-04-05 11:06+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -62,10 +62,10 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "envia a tots %m.broadcast i espera"
 
 msgid "change %m.effect effect by %n"
-msgstr "augmenta %n l'efecte %m.effect"
+msgstr "augmenta l'efecte %m.effect en %n"
 
 msgid "change %m.var by %n"
-msgstr "suma %n a %m.var"
+msgstr "augmenta %m.var en %n"
 
 msgid "change pen color by %n"
 msgstr "augmenta %n el color del llapis"
@@ -116,7 +116,7 @@ msgid "Data"
 msgstr "Dades"
 
 msgid "days since 2000"
-msgstr "dies des de 2000"
+msgstr "dies des del 2000"
 
 msgid "define"
 msgstr "defineix"
@@ -147,7 +147,7 @@ msgstr "per sempre"
 
 # tot i que has canviat el que teniem a la 1.4, m'agrada més
 msgid "glide %n secs to x:%n y:%n"
-msgstr "llisca en %n segons fins a x:%n y:%n "
+msgstr "llisca en %n segons fins a x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "vés %n capes darrera"
@@ -302,7 +302,7 @@ msgid "set %m.effect effect to %n"
 msgstr "fixa l'efecte %m.effect a %n"
 
 msgid "set %m.var to %s"
-msgstr "assigna el valor %n a %m.var"
+msgstr "assigna a %m.var el valor %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "fixa l'instrument a %d.instrument"
@@ -342,7 +342,7 @@ msgid "set video transparency to %n%"
 msgstr "fixa la transparència del vídeo a %n%"
 
 msgid "set volume to %n%"
-msgstr "fixa el volum a %n"
+msgstr "fixa el volum a %n%"
 
 msgid "set x to %n"
 msgstr "assigna el valor %n a x"
@@ -463,7 +463,7 @@ msgid "when I receive %m.broadcast"
 msgstr "quan rebi %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "quan s'iniciï com a còpia"
+msgstr "quan una còpia meva comenci"
 
 msgid "when this sprite clicked"
 msgstr "quan es cliqui aquest personatge"
