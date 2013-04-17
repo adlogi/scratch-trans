@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-23 00:22+0200\n"
+"POT-Creation-Date: 2013-04-17 02:13+0200\n"
 "PO-Revision-Date: 2013-01-29 20:33+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,10 +39,19 @@ msgstr ""
 msgid "Add label text:"
 msgstr ""
 
+msgid "All"
+msgstr ""
+
 msgid "all"
 msgstr ""
 
 msgid "all around"
+msgstr ""
+
+msgid "Animal"
+msgstr ""
+
+msgid "Animals"
 msgstr ""
 
 msgid "asin"
@@ -54,7 +63,7 @@ msgstr ""
 msgid "B connected"
 msgstr ""
 
-msgid "Back a layer (Shift: Send to back)"
+msgid "Back a layer"
 msgstr ""
 
 msgid "backdrop"
@@ -63,10 +72,16 @@ msgstr ""
 msgid "backdrop #"
 msgstr ""
 
+msgid "Backdrop Library"
+msgstr ""
+
 msgid "backdrop name"
 msgstr ""
 
 msgid "backdrop1"
+msgstr ""
+
+msgid "Backdrops"
 msgstr ""
 
 msgid "backdrops"
@@ -84,10 +99,25 @@ msgstr ""
 msgid "Bassoon"
 msgstr ""
 
+msgid "Bitmap"
+msgstr ""
+
+msgid "Bitmap Mode"
+msgstr ""
+
 msgid "Bongo"
 msgstr ""
 
 msgid "brightness"
+msgstr ""
+
+msgid "Bring to front"
+msgstr ""
+
+msgid "Broadcast"
+msgstr ""
+
+msgid "Brush"
 msgstr ""
 
 msgid "button pressed"
@@ -105,7 +135,19 @@ msgstr ""
 msgid "Camera"
 msgstr ""
 
+msgid "can drag in player"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
 msgid "Cannot Delete"
+msgstr ""
+
+msgid "Castle"
+msgstr ""
+
+msgid "Category"
 msgstr ""
 
 msgid "ceiling"
@@ -117,22 +159,43 @@ msgstr ""
 msgid "Choir"
 msgstr ""
 
+msgid "Circle"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
 msgid "Clarinet"
 msgstr ""
 
 msgid "Claves"
 msgstr ""
 
+msgid "Clear"
+msgstr ""
+
 msgid "clear senders/receivers"
 msgstr ""
 
+msgid "Close"
+msgstr ""
+
 msgid "Closed Hi-Hat"
+msgstr ""
+
+msgid "Cloud"
 msgstr ""
 
 msgid "color"
 msgstr ""
 
 msgid "Conga"
+msgstr ""
+
+msgid "Convert to bitmap"
+msgstr ""
+
+msgid "Convert to vector"
 msgstr ""
 
 msgid "copy"
@@ -144,6 +207,9 @@ msgstr ""
 msgid "costume #"
 msgstr ""
 
+msgid "Costume Library"
+msgstr ""
+
 msgid "costume name"
 msgstr ""
 
@@ -151,6 +217,12 @@ msgid "costume1"
 msgstr ""
 
 msgid "costume2"
+msgstr ""
+
+msgid "Costumes"
+msgstr ""
+
+msgid "Costumes > 1"
 msgstr ""
 
 msgid "Cowbell"
@@ -171,7 +243,13 @@ msgstr ""
 msgid "day of week"
 msgstr ""
 
+msgid "Delete"
+msgstr ""
+
 msgid "delete"
+msgstr ""
+
+msgid "delete variable"
 msgstr ""
 
 msgid "direction"
@@ -186,13 +264,10 @@ msgstr ""
 msgid "down arrow"
 msgstr ""
 
-msgid "Duplicate"
+msgid "Download to your computer"
 msgstr ""
 
 msgid "duplicate"
-msgstr ""
-
-msgid "Duplicate (Shift: Multiple)"
 msgstr ""
 
 msgid "e ^"
@@ -207,6 +282,9 @@ msgstr ""
 msgid "edit"
 msgstr ""
 
+msgid "Edit Block"
+msgstr ""
+
 msgid "Effects"
 msgstr ""
 
@@ -216,7 +294,10 @@ msgstr ""
 msgid "Electric Piano"
 msgstr ""
 
-msgid "Ellipse (Shift: Circle)"
+msgid "Electronic"
+msgstr ""
+
+msgid "Ellipse"
 msgstr ""
 
 msgid "Erase"
@@ -228,10 +309,19 @@ msgstr ""
 msgid "fade out"
 msgstr ""
 
+msgid "Fantasy"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
 msgid "File"
 msgstr ""
 
-msgid "Fill"
+msgid "Filled Ellipse"
+msgstr ""
+
+msgid "Filled Rectangle"
 msgstr ""
 
 msgid "fisheye"
@@ -243,7 +333,16 @@ msgstr ""
 msgid "Flute"
 msgstr ""
 
-msgid "Forward a layer (Shift: Bring to front)"
+msgid "Flying"
+msgstr ""
+
+msgid "For all sprites"
+msgstr ""
+
+msgid "For this sprite only"
+msgstr ""
+
+msgid "Forward a layer"
 msgstr ""
 
 msgid "ghost"
@@ -261,10 +360,28 @@ msgstr ""
 msgid "Hand Clap"
 msgstr ""
 
+msgid "hide"
+msgstr ""
+
+msgid "Hollow Ellipse"
+msgstr ""
+
+msgid "Hollow Rectangle"
+msgstr ""
+
 msgid "hour"
 msgstr ""
 
+msgid "Human"
+msgstr ""
+
 msgid "Import"
+msgstr ""
+
+msgid "Indoors"
+msgstr ""
+
+msgid "Instruments"
 msgstr ""
 
 msgid "last"
@@ -279,13 +396,25 @@ msgstr ""
 msgid "left-right"
 msgstr ""
 
+msgid "LEGO WeDo blocks"
+msgstr ""
+
 msgid "Library"
 msgstr ""
 
 msgid "light"
 msgstr ""
 
+msgid "limit reached"
+msgstr ""
+
 msgid "Line"
+msgstr ""
+
+msgid "list"
+msgstr ""
+
+msgid "List name"
 msgstr ""
 
 msgid "ln"
@@ -303,7 +432,22 @@ msgstr ""
 msgid "loudness"
 msgstr ""
 
+msgid "Make a Block"
+msgstr ""
+
+msgid "Make a List"
+msgstr ""
+
+msgid "Make a Variable"
+msgstr ""
+
 msgid "Marimba"
+msgstr ""
+
+msgid "meow"
+msgstr ""
+
+msgid "Message Name"
 msgstr ""
 
 msgid "message1"
@@ -324,11 +468,23 @@ msgstr ""
 msgid "mouse-pointer"
 msgstr ""
 
+msgid "Music and Dance"
+msgstr ""
+
 msgid "Music Box"
+msgstr ""
+
+msgid "Music Loops"
 msgstr ""
 
 msgid "myself"
 msgstr ""
+
+msgid "Nature"
+msgstr ""
+
+msgid "New"
+msgstr "Nouveau"
 
 msgid "New backdrop"
 msgstr ""
@@ -336,7 +492,13 @@ msgstr ""
 msgid "New costume"
 msgstr ""
 
+msgid "New List"
+msgstr ""
+
 msgid "new message..."
+msgstr ""
+
+msgid "New name"
 msgstr ""
 
 msgid "New sound"
@@ -345,10 +507,16 @@ msgstr ""
 msgid "New sprite"
 msgstr ""
 
+msgid "New Variable"
+msgstr ""
+
 msgid "No motion blocks"
 msgstr ""
 
 msgid "off"
+msgstr ""
+
+msgid "OK"
 msgstr ""
 
 msgid "on"
@@ -363,13 +531,25 @@ msgstr ""
 msgid "Open Hi-Hat"
 msgstr ""
 
+msgid "Options"
+msgstr ""
+
 msgid "Organ"
+msgstr ""
+
+msgid "Other"
 msgstr ""
 
 msgid "other scripts in sprite"
 msgstr ""
 
-msgid "Paint"
+msgid "Outdoors"
+msgstr ""
+
+msgid "Paint a Shape"
+msgstr ""
+
+msgid "Paint bucket"
 msgstr ""
 
 msgid "paste"
@@ -378,13 +558,16 @@ msgstr ""
 msgid "Pencil"
 msgstr ""
 
+msgid "People"
+msgstr ""
+
+msgid "Percussion"
+msgstr ""
+
 msgid "photo1"
 msgstr ""
 
 msgid "Piano"
-msgstr ""
-
-msgid "Pick up Color"
 msgstr ""
 
 msgid "pixelate"
@@ -405,13 +588,22 @@ msgstr ""
 msgid "recording1"
 msgstr ""
 
-msgid "Rectangle (Shift: Square)"
+msgid "Rectangle"
 msgstr ""
 
 msgid "redo"
 msgstr ""
 
 msgid "Remix"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "rename variable"
+msgstr ""
+
+msgid "requires login"
 msgstr ""
 
 msgid "Reshape"
@@ -432,16 +624,28 @@ msgstr ""
 msgid "reverse"
 msgstr ""
 
+msgid "Revert"
+msgstr ""
+
 msgid "right"
 msgstr ""
 
 msgid "right arrow"
 msgstr ""
 
-msgid "Saxophone"
+msgid "rotation style"
 msgstr ""
 
-msgid "Scratch Cat"
+msgid "Run without screen refresh"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "save to local file"
+msgstr ""
+
+msgid "Saxophone"
 msgstr ""
 
 msgid "Scripts"
@@ -459,6 +663,12 @@ msgstr ""
 msgid "select all"
 msgstr ""
 
+msgid "Send to back"
+msgstr ""
+
+msgid "Sensor board blocks"
+msgstr ""
+
 msgid "Set Costume Center"
 msgstr ""
 
@@ -466,6 +676,12 @@ msgid "Share"
 msgstr ""
 
 msgid "shared"
+msgstr ""
+
+msgid "Shift"
+msgstr ""
+
+msgid "show"
 msgstr ""
 
 msgid "show receivers"
@@ -489,6 +705,12 @@ msgstr ""
 msgid "slider"
 msgstr ""
 
+msgid "Small stage layout"
+msgstr ""
+
+msgid "Smooth"
+msgstr ""
+
 msgid "Snare Drum"
 msgstr ""
 
@@ -498,16 +720,34 @@ msgstr ""
 msgid "sound"
 msgstr ""
 
+msgid "Sound Library"
+msgstr ""
+
+msgid "Sounds"
+msgstr ""
+
+msgid "Space"
+msgstr ""
+
 msgid "space"
 msgstr ""
 
-msgid "Sprite"
+msgid "Sports"
+msgstr ""
+
+msgid "Sprite Library"
+msgstr ""
+
+msgid "Sprite1"
 msgstr ""
 
 msgid "Sprites"
 msgstr ""
 
 msgid "sqrt"
+msgstr ""
+
+msgid "Square"
 msgstr ""
 
 msgid "Stage"
@@ -517,6 +757,9 @@ msgid "Stage selected"
 msgstr ""
 
 msgid "Steel Drum"
+msgstr ""
+
+msgid "stored on server"
 msgstr ""
 
 msgid "Synth Lead"
@@ -537,6 +780,12 @@ msgstr ""
 msgid "that way"
 msgstr ""
 
+msgid "Theme"
+msgstr ""
+
+msgid "Things"
+msgstr ""
+
 msgid "this script"
 msgstr ""
 
@@ -555,6 +804,9 @@ msgstr ""
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
 
+msgid "Transportation"
+msgstr ""
+
 msgid "Triangle"
 msgstr ""
 
@@ -562,6 +814,18 @@ msgid "Trombone"
 msgstr ""
 
 msgid "Turbo Mode"
+msgstr ""
+
+msgid "Turbo mode"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Undelete"
+msgstr ""
+
+msgid "Underwater"
 msgstr ""
 
 msgid "undo"
@@ -579,6 +843,21 @@ msgstr ""
 msgid "up arrow"
 msgstr ""
 
+msgid "Upload from your computer"
+msgstr ""
+
+msgid "variable"
+msgstr ""
+
+msgid "Variable name"
+msgstr ""
+
+msgid "Vector"
+msgstr ""
+
+msgid "Vector Mode"
+msgstr ""
+
 msgid "Vibraphone"
 msgstr ""
 
@@ -588,7 +867,16 @@ msgstr ""
 msgid "video motion"
 msgstr ""
 
+msgid "Video on"
+msgstr ""
+
+msgid "Vocals"
+msgstr ""
+
 msgid "volume"
+msgstr ""
+
+msgid "Walking"
 msgstr ""
 
 msgid "whirl"
@@ -618,19 +906,25 @@ msgstr ""
 msgid "bottom-right"
 msgstr ""
 
+msgid "Duplicate"
+msgstr ""
+
 msgid "middle"
 msgstr ""
 
 msgid "name"
 msgstr ""
 
-msgid "New"
-msgstr "Nouveau"
-
 msgid "New sprite:"
 msgstr ""
 
+msgid "Paint"
+msgstr ""
+
 msgid "say"
+msgstr ""
+
+msgid "Scratch Cat"
 msgstr ""
 
 msgid "shout"
