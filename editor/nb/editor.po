@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:49+0200\n"
-"PO-Revision-Date: 2013-04-05 07:04+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"POT-Creation-Date: 2013-04-26 00:16+0200\n"
+"PO-Revision-Date: 2013-04-27 00:31+0200\n"
+"Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
@@ -16,25 +16,33 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
+#, fuzzy
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informasjon om varige data på nett</b><br>&nbsp;<br>Inntil videre er det "
+"bare mulig å lagre tall<br>Chat-funksjoner er ikke tillatt og vil bli "
+"slettet<br>For mer informasjon, se <a href= target=>spørsmål og svar om "
+"varige data!</a>"
+
 msgid "A connected"
 msgstr "A tilkoblet"
+
+msgid "a copy of the project file on your computer."
+msgstr "en kopi av prosjektfilen på datamaskinen."
 
 msgid "abs"
 msgstr "abs"
 
+msgid "Account settings"
+msgstr "Brukerkonto-innstillinger"
+
 msgid "acos"
 msgstr "acos"
 
+# 90%
 #, fuzzy
-msgid "Add a boolean input:"
+msgid "Add boolean input:"
 msgstr "Logisk verdi inn:"
-
-#, fuzzy
-msgid "Add a number input:"
-msgstr "Tallverdi inn:"
-
-msgid "Add a string input:"
-msgstr "Tekst inn:"
 
 msgid "add comment"
 msgstr "skriv kommentar"
@@ -43,14 +51,37 @@ msgstr "skriv kommentar"
 msgid "Add label text:"
 msgstr "Navn:"
 
+# 89%
+#, fuzzy
+msgid "Add number input:"
+msgstr "Tallverdi inn:"
+
+# 89%
+#, fuzzy
+msgid "Add string input:"
+msgstr "Tekst inn:"
+
 msgid "all"
 msgstr "alle"
+
+#, fuzzy
+msgid "All"
+msgstr "Alt"
 
 msgid "all around"
 msgstr "fri rotasjon"
 
+msgid "Animal"
+msgstr "Dyr"
+
+msgid "Animals"
+msgstr "Dyr"
+
 msgid "asin"
 msgstr "asin"
+
+msgid "assets loaded"
+msgstr "objekter lest inn"
 
 msgid "atan"
 msgstr "atan"
@@ -58,15 +89,23 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B tilkoblet"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr "Bakover ett lag (Skift: Legg bakerst)"
+msgid "Back a layer"
+msgstr "Ett lag nedover"
 
 # 88%
 msgid "backdrop"
 msgstr "bakgrunn"
 
+# 88%
+# 87%
+msgid "Backdrop"
+msgstr "Bakgrunn"
+
 msgid "backdrop #"
 msgstr "bakgrunn nr."
+
+msgid "Backdrop Library"
+msgstr "Ferdige Bakgrunner"
 
 msgid "backdrop name"
 msgstr "bakgrunnsnavn"
@@ -77,6 +116,11 @@ msgstr "bakgrunn1"
 # 88%
 msgid "backdrops"
 msgstr "bakgrunner"
+
+# 88%
+# 88%
+msgid "Backdrops"
+msgstr "Bakgrunner"
 
 msgid "Backpack"
 msgstr "Koffert"
@@ -90,17 +134,38 @@ msgstr "Stortromme"
 msgid "Bassoon"
 msgstr "Fagott"
 
+msgid "Bitmap"
+msgstr "Punktgrafikk"
+
+msgid "Bitmap Mode"
+msgstr "Punktgrafikk"
+
+msgid "Block help"
+msgstr "Hjelp for blokk"
+
 msgid "Bongo"
 msgstr "Bongo"
 
 msgid "brightness"
 msgstr "lysstyrke"
 
+msgid "Bring to front"
+msgstr "Legg øverst"
+
+msgid "Broadcast"
+msgstr "Send melding"
+
+msgid "Brush"
+msgstr "Malepensel"
+
 msgid "button pressed"
 msgstr "knapp trykket"
 
 msgid "by"
 msgstr "av"
+
+msgid "bytes loaded"
+msgstr "byte lest inn"
 
 msgid "C connected"
 msgstr "C tilkoblet"
@@ -111,8 +176,24 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Kamera"
 
+#, fuzzy
+msgid "can drag in player:"
+msgstr "kan dra i programkjøring:"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
 msgid "Cannot Delete"
 msgstr "Kan ikke slette"
+
+msgid "Can’t find network connection or reach server."
+msgstr "Ingen nettforbindelse"
+
+msgid "Castle"
+msgstr "Slott"
+
+msgid "Category"
+msgstr "Kategori"
 
 msgid "ceiling"
 msgstr "tak"
@@ -123,32 +204,80 @@ msgstr "Cello"
 msgid "Choir"
 msgstr "Kor"
 
+msgid "Circle"
+msgstr "Sirkel"
+
+msgid "City"
+msgstr "By"
+
 msgid "Clarinet"
 msgstr "Klarinett"
 
 msgid "Claves"
 msgstr "Pinner"
 
+msgid "Clear"
+msgstr "Slett alt"
+
 msgid "clear senders/receivers"
 msgstr "tøm sendere/mottakere"
+
+#, fuzzy
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Klikk  for å prøve igjen eller  for å lagre"
+
+msgid "Close"
+msgstr "Lukk"
 
 msgid "Closed Hi-Hat"
 msgstr "Lukket high-hat"
 
+msgid "Cloud"
+msgstr "Nett"
+
+msgid "Cloud data"
+msgstr "Varige data på nett"
+
 msgid "color"
 msgstr "farge"
+
+msgid "Color a shape"
+msgstr "Fargelegg en form"
 
 msgid "Conga"
 msgstr "Conga"
 
+msgid "Connecting to Cloud data server..."
+msgstr "Kobler til nettdatatjener..."
+
+msgid "Convert to bitmap"
+msgstr "Gjør om til punkgrafikk"
+
+#, fuzzy
+msgid "Convert to vector"
+msgstr "Gjør om til vektorgrafikk"
+
+msgid "Converting mp3..."
+msgstr "Konverterer mp3..."
+
 msgid "copy"
 msgstr "kopier"
+
+msgid "Copying..."
+msgstr "Kopierer..."
 
 msgid "cos"
 msgstr "cos"
 
+# 75%
+msgid "Costume"
+msgstr "Drakt"
+
 msgid "costume #"
 msgstr "drakt nr."
+
+msgid "Costume Library"
+msgstr "Ferdige Drakter"
 
 msgid "costume name"
 msgstr "draktnavn"
@@ -160,11 +289,27 @@ msgstr "drakt1"
 msgid "costume2"
 msgstr "drakt2"
 
+# 75%
+msgid "Costumes"
+msgstr "Drakter"
+
+msgid "Costumes > 1"
+msgstr "Drakter > 1"
+
+msgid "Costumes:"
+msgstr "Drakter:"
+
 msgid "Cowbell"
 msgstr "Kubjelle"
 
 msgid "Crash Cymbal"
 msgstr "Bekken-kræsj"
+
+msgid "Creating..."
+msgstr "Oppretter..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "På nett kan du bare lagre tall nå."
 
 msgid "cut"
 msgstr "kutt"
@@ -178,11 +323,22 @@ msgstr "dato"
 msgid "day of week"
 msgstr "ukedag"
 
+# 83%
+msgid "Delete"
+msgstr "Slett"
+
 msgid "delete"
 msgstr "slett"
 
+msgid "delete variable"
+msgstr "slett variabel"
+
 msgid "direction"
 msgstr "retning"
+
+# 90%
+msgid "direction:"
+msgstr "retning:"
 
 msgid "don't rotate"
 msgstr "ikke roter"
@@ -193,14 +349,17 @@ msgstr "ned"
 msgid "down arrow"
 msgstr "pil ned"
 
+msgid "Download"
+msgstr "Last ned"
+
+msgid "Download to your computer"
+msgstr "Last ned til datamaskinen"
+
 msgid "Duplicate"
 msgstr "Lag kopi"
 
 msgid "duplicate"
 msgstr "lag kopi"
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr "Dupliser (Skift: Flere)"
 
 msgid "e ^"
 msgstr "e ^"
@@ -208,11 +367,14 @@ msgstr "e ^"
 msgid "edge"
 msgstr "kant"
 
+msgid "edit"
+msgstr "rediger"
+
 msgid "Edit"
 msgstr "Rediger"
 
-msgid "edit"
-msgstr "rediger"
+msgid "Edit Block"
+msgstr "Rediger Blokk"
 
 msgid "Effects"
 msgstr "Effekter"
@@ -223,11 +385,17 @@ msgstr "Elektrisk Gitar"
 msgid "Electric Piano"
 msgstr "Elektrisk Piano"
 
-msgid "Ellipse (Shift: Circle)"
-msgstr "Ellipse (Skift: Sirkel)"
+msgid "Electronic"
+msgstr "Elektronisk"
+
+msgid "Ellipse"
+msgstr "Ellipse"
 
 msgid "Erase"
 msgstr "Slett"
+
+msgid "Eraser width:"
+msgstr "Viskelærbredde:"
 
 msgid "fade in"
 msgstr "inntoning"
@@ -235,14 +403,27 @@ msgstr "inntoning"
 msgid "fade out"
 msgstr "uttoning"
 
+msgid "Fantasy"
+msgstr "Fantasi"
+
+#, fuzzy
+msgid "Features"
+msgstr "Kjennetegn"
+
 msgid "File"
 msgstr "Fil"
 
-msgid "Fill"
-msgstr "Fyll"
+msgid "Fill with color"
+msgstr "Fyll med farge"
 
 msgid "fisheye"
 msgstr "fiskeøye"
+
+msgid "Flip left-right"
+msgstr "Speilvend høyre-venstre"
+
+msgid "Flip up-down"
+msgstr "Speilvend opp-ned"
 
 msgid "floor"
 msgstr "gulv"
@@ -250,15 +431,32 @@ msgstr "gulv"
 msgid "Flute"
 msgstr "Fløyte"
 
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr "Fremover ett lag (Skift: Legg forrest)"
+#, fuzzy
+msgid "Flying"
+msgstr "Flyvende"
+
+msgid "For all sprites"
+msgstr "For alle figurer"
+
+msgid "For this sprite only"
+msgstr "For denne figuren"
+
+msgid "Forward a layer"
+msgstr "Oppover ett lag"
 
 msgid "ghost"
 msgstr "gjennomsiktig"
 
+msgid "Go to My Stuff"
+msgstr "Gå til Mine Ting"
+
 #, fuzzy
 msgid "Group"
 msgstr "Gruppe"
+
+#, fuzzy
+msgid "Grow"
+msgstr "Større"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -269,11 +467,29 @@ msgstr "Gitar"
 msgid "Hand Clap"
 msgstr "Håndklapp"
 
+msgid "hide"
+msgstr "skjul"
+
 msgid "hour"
 msgstr "time"
 
+msgid "Human"
+msgstr "Menneske"
+
 msgid "Import"
 msgstr "Importer"
+
+msgid "Importing sound..."
+msgstr "Importerer lyd..."
+
+msgid "Indoors"
+msgstr "Innendørs"
+
+msgid "Installing..."
+msgstr "Installerer..."
+
+msgid "Instruments"
+msgstr "Instrumenter"
 
 msgid "last"
 msgstr "siste"
@@ -293,18 +509,30 @@ msgstr "Bibliotek"
 msgid "light"
 msgstr "lys"
 
+msgid "limit reached"
+msgstr "ved grensen"
+
 msgid "Line"
 msgstr "Linje"
 
-#, fuzzy
+msgid "Line width:"
+msgstr "Linjebredde:"
+
+# 75%
+msgid "list"
+msgstr "liste"
+
+msgid "List name"
+msgstr "Listenavn"
+
 msgid "ln"
 msgstr "I"
 
+msgid "Loading project..."
+msgstr "Leser inn prosjekt..."
+
 msgid "log"
 msgstr "log"
-
-msgid "login"
-msgstr "innlogging"
 
 msgid "louder"
 msgstr "høyere"
@@ -312,11 +540,32 @@ msgstr "høyere"
 msgid "loudness"
 msgstr "lydstyrke"
 
+msgid "Make a Block"
+msgstr "Lag en Blokk"
+
+msgid "Make a List"
+msgstr "Lag en Liste"
+
+msgid "Make a Variable"
+msgstr "Lag en Variabel"
+
 msgid "Marimba"
 msgstr "Marimba"
 
+msgid "Max"
+msgstr "Max"
+
+msgid "meow"
+msgstr "mjau"
+
+msgid "Message Name"
+msgstr "Meldingsnavn"
+
 msgid "message1"
 msgstr "melding1"
+
+msgid "Min"
+msgstr "Min"
 
 msgid "minute"
 msgstr "minutt"
@@ -333,33 +582,72 @@ msgstr "bevegelse"
 msgid "mouse-pointer"
 msgstr "musepeker"
 
+msgid "Multiple"
+msgstr "Flere"
+
+msgid "Music and Dance"
+msgstr "Musikk og Dans"
+
 msgid "Music Box"
 msgstr "Spilledåse"
+
+#, fuzzy
+msgid "Music Loops"
+msgstr "Musikkløkker"
+
+msgid "My Stuff"
+msgstr "Mine Ting"
 
 msgid "myself"
 msgstr "meg"
 
-msgid "New backdrop"
-msgstr "Ny bakgrunn"
+msgid "Nature"
+msgstr "Natur"
 
-msgid "New costume"
-msgstr "Ny drakt"
+msgid "New"
+msgstr "Nouveau"
+
+# 92%
+msgid "New backdrop:"
+msgstr "Ny bakgrunn:"
+
+# 91%
+msgid "New costume:"
+msgstr "Ny drakt:"
+
+msgid "New List"
+msgstr "Ny liste"
 
 msgid "new message..."
 msgstr "ny melding..."
 
-msgid "New sound"
-msgstr "Ny lyd"
+msgid "New name"
+msgstr "Nytt navn"
 
 # 90%
-msgid "New sprite"
-msgstr "Ny figur"
+msgid "New sound:"
+msgstr "Ny lyd:"
+
+msgid "New sprite:"
+msgstr "Ny figur:"
+
+msgid "New Variable"
+msgstr "Ny variabel"
 
 msgid "No motion blocks"
 msgstr "Ingen bevegelsesklosser"
 
+msgid "Not saved; network or server problem."
+msgstr "Ikke lagret, nettverksproblemer."
+
+msgid "of"
+msgstr "av"
+
 msgid "off"
 msgstr "av"
+
+msgid "OK"
+msgstr "OK"
 
 msgid "on"
 msgstr "på"
@@ -373,15 +661,21 @@ msgstr "Åpen cuica"
 msgid "Open Hi-Hat"
 msgstr "Åpen hi-hat"
 
+msgid "Options"
+msgstr "Valg"
+
 msgid "Organ"
 msgstr "Orgel"
+
+msgid "Other"
+msgstr "Andre"
 
 # 82%
 msgid "other scripts in sprite"
 msgstr "andre skript i figuren"
 
-msgid "Paint"
-msgstr "Tegne"
+msgid "Outdoors"
+msgstr "Utendørs"
 
 msgid "paste"
 msgstr "lim inn"
@@ -389,13 +683,20 @@ msgstr "lim inn"
 msgid "Pencil"
 msgstr "Penn"
 
+msgid "People"
+msgstr "Mennesker"
+
+msgid "Percussion"
+msgstr "Slaginstrumenter"
+
 msgid "photo1"
 msgstr "bilde1"
 
 msgid "Piano"
 msgstr "Piano"
 
-msgid "Pick up Color"
+# 92%
+msgid "Pick up color"
 msgstr "Plukk opp farge"
 
 msgid "pixelate"
@@ -407,6 +708,12 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "plopp"
 
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Project not saved!"
+msgstr "Prosjekt ikke lagret!"
+
 msgid "random"
 msgstr "tilfeldig"
 
@@ -416,14 +723,30 @@ msgstr "Opptak"
 msgid "recording1"
 msgstr "opptak1"
 
-msgid "Rectangle (Shift: Square)"
-msgstr "Rektangel (Skift: Kvadrat)"
+msgid "Rectangle"
+msgstr "Rektangel"
 
 msgid "redo"
 msgstr "gjør igjen"
 
+# 75%
+msgid "Redo"
+msgstr "Gjør igjen"
+
 msgid "Remix"
 msgstr "Remiks"
+
+msgid "Remixing..."
+msgstr "Remikser..."
+
+msgid "Rename"
+msgstr "Nytt navn"
+
+msgid "rename variable"
+msgstr "gi nytt navn til variabel"
+
+msgid "requires sign in"
+msgstr "krever innlogging"
 
 msgid "Reshape"
 msgstr "Bøy"
@@ -443,20 +766,58 @@ msgstr "motstand-D"
 msgid "reverse"
 msgstr "snu"
 
+msgid "Revert"
+msgstr "Gå tilbake"
+
+msgid "Reverting..."
+msgstr "Går tilbake..."
+
 msgid "right"
 msgstr "høyre"
 
 msgid "right arrow"
 msgstr "pil høyre"
 
+msgid "rotation style:"
+msgstr "rotasjonsmåte:"
+
+msgid "Run without screen refresh"
+msgstr "Kjør uten å oppdatere skjermen"
+
+msgid "Save"
+msgstr "Lagre"
+
+msgid "Save as a copy"
+msgstr "Lagre som kopi"
+
+msgid "Save now"
+msgstr "Lagre nå"
+
+msgid "save to local file"
+msgstr "lagre til lokal fil"
+
+msgid "Saved"
+msgstr "Lagret"
+
+msgid "Saving changes..."
+msgstr "Lagrer endringer..."
+
+msgid "Saving..."
+msgstr "Lagrer..."
+
 msgid "Saxophone"
 msgstr "Saksofon"
 
-msgid "Scratch Cat"
-msgstr "Scratch-katta"
+# 85%
+msgid "Script"
+msgstr "Skript"
 
 msgid "Scripts"
 msgstr "Skript"
+
+# 87%
+msgid "Scripts:"
+msgstr "Skript:"
 
 msgid "second"
 msgstr "sekund"
@@ -470,9 +831,19 @@ msgstr "Velg"
 msgid "select all"
 msgstr "velg alle"
 
+msgid "Select and duplicate"
+msgstr "Velg og kopier"
+
+msgid "Send to back"
+msgstr "Legg nederst"
+
+# 88%
 #, fuzzy
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr "Sett drakt-senter"
+
+msgid "Set Costume Center"
+msgstr "Sett Drakt-senter"
 
 msgid "Share"
 msgstr "Legg ut"
@@ -480,14 +851,36 @@ msgstr "Legg ut"
 msgid "shared"
 msgstr "lagt ut"
 
+#, fuzzy
+msgid "Shift:"
+msgstr "Skift:"
+
+msgid "show"
+msgstr "vis"
+
 msgid "show receivers"
 msgstr "vis mottakere"
 
 msgid "show senders"
 msgstr "vis sendere"
 
+msgid "show:"
+msgstr "vis:"
+
+msgid "Shrink"
+msgstr "Krymp"
+
 msgid "Side Stick"
 msgstr "Kantslag"
+
+msgid "Sign in"
+msgstr "Logg inn"
+
+msgid "Sign in to save"
+msgstr "Logg inn for å lagre"
+
+msgid "Sign out"
+msgstr "Logg ut"
 
 msgid "silence"
 msgstr "stille"
@@ -501,21 +894,55 @@ msgstr "størrelse"
 msgid "slider"
 msgstr "skyveknapp"
 
+msgid "Slider Range"
+msgstr "Tallområde for Skyveknapp"
+
+msgid "Small stage layout"
+msgstr "Liten scene"
+
+msgid "Smooth"
+msgstr "Glatt"
+
 msgid "Snare Drum"
 msgstr "Skarptromme"
 
 msgid "softer"
 msgstr "lavere"
 
+# 80%
+msgid "Sound"
+msgstr "Lyd"
+
 msgid "sound"
 msgstr "lyd"
+
+msgid "Sound Library"
+msgstr "Ferdige Lyder"
+
+msgid "Sounds"
+msgstr "Lyder"
 
 msgid "space"
 msgstr "mellomrom"
 
+# 80%
+msgid "Space"
+msgstr "Mellomrom"
+
+msgid "Sports"
+msgstr "Sport"
+
 # 85%
 msgid "Sprite"
 msgstr "Figur"
+
+msgid "Sprite Library"
+msgstr "Ferdige Figurer"
+
+# 85%
+# 85%
+msgid "Sprite1"
+msgstr "Figur1"
 
 msgid "Sprites"
 msgstr "Figurer"
@@ -523,14 +950,22 @@ msgstr "Figurer"
 msgid "sqrt"
 msgstr "kvadratrot"
 
+msgid "Square"
+msgstr "Kvadrat"
+
 msgid "Stage"
 msgstr "Scene"
 
-msgid "Stage selected"
-msgstr "Scene valgt"
+# 93%
+msgid "Stage selected:"
+msgstr "Scene valgt:"
 
 msgid "Steel Drum"
 msgstr "Oljefat"
+
+#, fuzzy
+msgid "stored on server"
+msgstr "lagret på nett"
 
 msgid "Synth Lead"
 msgstr "Synt"
@@ -551,6 +986,24 @@ msgstr "Tekst"
 msgid "that way"
 msgstr "den veien"
 
+#, fuzzy
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Things"
+msgstr "Ting"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr ""
+"Dette prosjektet inneholder \"brukernavn\"-blokken og kan finne ut hvem som "
+"bruker det. Du kan skjule din identitet ved å logge ut før du bruker "
+"prosjektet."
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+"Dette prosjektet bruker varige data på nett, som bare er tilgjengelige for "
+"registrerte brukere."
+
 msgid "this script"
 msgstr "dette skriptet"
 
@@ -559,6 +1012,9 @@ msgstr "denne figuren"
 
 msgid "this way"
 msgstr "denne veien"
+
+msgid "Throw away all changes since opening this project?"
+msgstr "Du vil miste endringene som er gjort, er det OK?"
 
 msgid "timer"
 msgstr "tid"
@@ -570,17 +1026,42 @@ msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
 "For å slette definisjonen av en kloss må den først fjernes fra alle skript."
 
+msgid "Transportation"
+msgstr "Transport"
+
 msgid "Triangle"
 msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Trombone"
 
+# 90%
+msgid "Turbo mode"
+msgstr "Turbo-hastighet"
+
 msgid "Turbo Mode"
 msgstr "Turbo-hastighet"
 
+#, fuzzy
+msgid "Type"
+msgstr "Type"
+
+# 75%
+msgid "Undelete"
+msgstr "Angre sletting"
+
+msgid "Underwater"
+msgstr "Under vann"
+
+# 75%
+msgid "Undo"
+msgstr "Angre"
+
 msgid "undo"
 msgstr "angre"
+
+msgid "Undo Revert"
+msgstr "Angre Gå Tilbake"
 
 msgid "Ungroup"
 msgstr "Del opp gruppe"
@@ -594,6 +1075,31 @@ msgstr "opp"
 msgid "up arrow"
 msgstr "pil opp"
 
+msgid "Upload from your computer"
+msgstr "Last opp fra maskinen"
+
+msgid "Uploading image..."
+msgstr "Laster opp bilde..."
+
+msgid "Uploading sound..."
+msgstr "Laster opp lyd..."
+
+msgid "Uploading sprite..."
+msgstr "Laster opp figur..."
+
+msgid "variable"
+msgstr "variabel"
+
+msgid "Variable name"
+msgstr "Variabelnavn"
+
+msgid "Vector"
+msgstr "Vektor"
+
+#, fuzzy
+msgid "Vector Mode"
+msgstr "Vektorgrafikk"
+
 msgid "Vibraphone"
 msgstr "Vibrafon"
 
@@ -604,8 +1110,23 @@ msgstr "Vibraslap"
 msgid "video motion"
 msgstr "videobevegelse"
 
+msgid "Video on:"
+msgstr "Video på:"
+
+msgid "Vocals"
+msgstr "Stemmer"
+
 msgid "volume"
 msgstr "volum"
+
+msgid "Walking"
+msgstr "Går"
+
+msgid "Want to save? Click remix"
+msgstr "Vil du lagre? Klikk remiks"
+
+msgid "Which column do you want to import"
+msgstr "Hvilken kolonne vil du importere?"
 
 msgid "whirl"
 msgstr "virvel"
@@ -625,6 +1146,68 @@ msgstr "y-posisjon"
 msgid "year"
 msgstr "år"
 
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+"Du kan ikke redigere varige nettdata i andres prosjekter.<br>Endringer du "
+"gjør her vil være midlertidige og blir ikke lagret."
+
+#, fuzzy
+#~ msgid "Add a boolean input:"
+#~ msgstr "Logisk verdi inn:"
+
+#, fuzzy
+#~ msgid "Add a number input:"
+#~ msgstr "Tallverdi inn:"
+
+#~ msgid "Add a string input:"
+#~ msgstr "Tekst inn:"
+
+#~ msgid "Back a layer (Shift: Send to back)"
+#~ msgstr "Bakover ett lag (Skift: Legg bakerst)"
+
+#~ msgid "Duplicate (Shift: Multiple)"
+#~ msgstr "Dupliser (Skift: Flere)"
+
+#~ msgid "Ellipse (Shift: Circle)"
+#~ msgstr "Ellipse (Skift: Sirkel)"
+
+#~ msgid "Fill"
+#~ msgstr "Fyll"
+
+#~ msgid "Forward a layer (Shift: Bring to front)"
+#~ msgstr "Fremover ett lag (Skift: Legg forrest)"
+
+#~ msgid "login"
+#~ msgstr "innlogging"
+
+#~ msgid "New backdrop"
+#~ msgstr "Ny bakgrunn"
+
+#~ msgid "New costume"
+#~ msgstr "Ny drakt"
+
+#~ msgid "New sound"
+#~ msgstr "Ny lyd"
+
+# 90%
+#~ msgid "New sprite"
+#~ msgstr "Ny figur"
+
+#~ msgid "Paint"
+#~ msgstr "Tegne"
+
+#~ msgid "Pick up Color"
+#~ msgstr "Plukk opp farge"
+
+#~ msgid "Rectangle (Shift: Square)"
+#~ msgstr "Rektangel (Skift: Kvadrat)"
+
+#~ msgid "Scratch Cat"
+#~ msgstr "Scratch-katta"
+
+#~ msgid "Stage selected"
+#~ msgstr "Scene valgt"
+
 #~ msgid "bottom-left"
 #~ msgstr "nedre venstre"
 
@@ -636,13 +1219,6 @@ msgstr "år"
 
 #~ msgid "name"
 #~ msgstr "navn"
-
-#, fuzzy
-#~ msgid "New"
-#~ msgstr "Nouveau"
-
-#~ msgid "New sprite:"
-#~ msgstr "Ny figur:"
 
 #~ msgid "say"
 #~ msgstr "si"
