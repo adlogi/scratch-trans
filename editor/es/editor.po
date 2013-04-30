@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:48+0200\n"
-"PO-Revision-Date: 2013-02-11 19:46+0200\n"
-"Last-Translator: Bastián <technoguyx@gmail.com>\n"
+"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"PO-Revision-Date: 2013-04-27 23:48-0300\n"
+"Last-Translator: Bastián Núñez <bastiannunez.b@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -16,24 +16,26 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr "<b>Información sobre variables de nube</b><br>&nbsp;<br>Ahora, sólo se pueden utilizar números<br>No se permiten las salas de chat; serán removidas<br>Para más información, <a href=\"/help/faq/#clouddata\" target=\"_blank\">revisa las preguntas sobre información de la nube!</a>"
+
 msgid "A connected"
 msgstr "A conectado"
+
+msgid "a copy of the project file on your computer."
+msgstr "una copia del archivo del proyecto en tu computadora."
 
 msgid "abs"
 msgstr "abs"
 
+msgid "Account settings"
+msgstr "Configuración de la cuenta"
+
 msgid "acos"
 msgstr "acos"
 
-# No todos entienden que es un valor booleano, especialmente la audiencia objetivo de Scratch: Niños aprendiendo a programar. De ahí que hable de "valor lógico"; más fácil de entender.
-msgid "Add a boolean input:"
+msgid "Add boolean input:"
 msgstr "Añadir entrada lógica:"
-
-msgid "Add a number input:"
-msgstr "Añadir entrada numérica:"
-
-msgid "Add a string input:"
-msgstr "Añadir entrada de texto:"
 
 msgid "add comment"
 msgstr "añadir comentario"
@@ -41,15 +43,33 @@ msgstr "añadir comentario"
 msgid "Add label text:"
 msgstr "Añadir texto de la etiqueta:"
 
+msgid "Add number input:"
+msgstr "Añadir entrada numérica:"
+
+msgid "Add string input:"
+msgstr "Añadir entrada de texto:"
+
 msgid "all"
 msgstr "todos"
+
+msgid "All"
+msgstr "Todos"
 
 # Se refiere al estilo de rotación, que puede ser fijo, en dos direcciones o todas
 msgid "all around"
 msgstr "en todas direcciones"
 
+msgid "Animal"
+msgstr "Animal"
+
+msgid "Animals"
+msgstr "Animales"
+
 msgid "asin"
 msgstr "asin"
+
+msgid "assets loaded"
+msgstr "recursos cargados"
 
 msgid "atan"
 msgstr "atan"
@@ -57,14 +77,20 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B conectado"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr "Una capa más atrás (Shift: Enviar al fondo)"
+msgid "Back a layer"
+msgstr "Una capa hacia atrás"
 
 msgid "backdrop"
 msgstr "fondo"
 
+msgid "Backdrop"
+msgstr "Fondo"
+
 msgid "backdrop #"
 msgstr "# de fondo"
+
+msgid "Backdrop Library"
+msgstr "Biblioteca de fondos"
 
 msgid "backdrop name"
 msgstr "nombre de fondo"
@@ -74,6 +100,9 @@ msgstr "fondo1"
 
 msgid "backdrops"
 msgstr "fondos"
+
+msgid "Backdrops"
+msgstr "Fondos"
 
 msgid "Backpack"
 msgstr "Mochila"
@@ -87,17 +116,38 @@ msgstr "Bombo"
 msgid "Bassoon"
 msgstr "Fagot"
 
+msgid "Bitmap"
+msgstr "Mapa de bits"
+
+msgid "Bitmap Mode"
+msgstr "Modo mapa de bits"
+
+msgid "Block help"
+msgstr "Ayuda de bloques"
+
 msgid "Bongo"
 msgstr "Bongo"
 
 msgid "brightness"
 msgstr "brillantez"
 
+msgid "Bring to front"
+msgstr "Traer al frente"
+
+msgid "Broadcast"
+msgstr "Enviar"
+
+msgid "Brush"
+msgstr "Pincel"
+
 msgid "button pressed"
 msgstr "botón presionado"
 
 msgid "by"
 msgstr "por"
+
+msgid "bytes loaded"
+msgstr "bytes cargados"
 
 msgid "C connected"
 msgstr "C conectado"
@@ -108,8 +158,23 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Cámara"
 
+msgid "can drag in player:"
+msgstr "puede ser arrastrado:"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
 msgid "Cannot Delete"
 msgstr "No se puede borrar"
+
+msgid "Can’t find network connection or reach server."
+msgstr "No se pudo conectar al servidor."
+
+msgid "Castle"
+msgstr "Castillo"
+
+msgid "Category"
+msgstr "Categoría"
 
 msgid "ceiling"
 msgstr "techo"
@@ -120,32 +185,77 @@ msgstr "Violonchelo"
 msgid "Choir"
 msgstr "Coro"
 
+msgid "Circle"
+msgstr "Círculo"
+
+msgid "City"
+msgstr "Ciudad"
+
 msgid "Clarinet"
 msgstr "Clarinete"
 
 msgid "Claves"
 msgstr "Claves"
 
+msgid "Clear"
+msgstr "Limpiar"
+
 msgid "clear senders/receivers"
 msgstr "borrar emisores/receptores"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Haz clic en \"Guardar ahora\" para intentar de nuevo o en \"Descargar\" para guardar"
+
+msgid "Close"
+msgstr "Cerrar"
 
 msgid "Closed Hi-Hat"
 msgstr "Charles cerrado"
 
+msgid "Cloud"
+msgstr "Nube"
+
+msgid "Cloud data"
+msgstr "Información de la nube"
+
 msgid "color"
 msgstr "color"
+
+msgid "Color a shape"
+msgstr "Colorear una forma"
 
 msgid "Conga"
 msgstr "Conga"
 
+msgid "Connecting to Cloud data server..."
+msgstr "Conectándose al servidor de la nube..."
+
+msgid "Convert to bitmap"
+msgstr "Convertir a mapa de bits"
+
+msgid "Convert to vector"
+msgstr "Convertir a vector"
+
+msgid "Converting mp3..."
+msgstr "Convirtiendo mp3..."
+
 msgid "copy"
 msgstr "copiar"
+
+msgid "Copying..."
+msgstr "Copiando..."
 
 msgid "cos"
 msgstr "cos"
 
+msgid "Costume"
+msgstr "Disfraz"
+
 msgid "costume #"
 msgstr "# de disfraz"
+
+msgid "Costume Library"
+msgstr "Biblioteca de disfraces"
 
 msgid "costume name"
 msgstr "nombre del disfraz"
@@ -156,11 +266,26 @@ msgstr "disfraz1"
 msgid "costume2"
 msgstr "disfraz2"
 
+msgid "Costumes"
+msgstr "Disfraces"
+
+msgid "Costumes > 1"
+msgstr "Disfraces > 1"
+
+msgid "Costumes:"
+msgstr "Disfraces:"
+
 msgid "Cowbell"
 msgstr "Cencerro"
 
 msgid "Crash Cymbal"
 msgstr "Platillo Crash"
+
+msgid "Creating..."
+msgstr "Creando..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "Por el momento, las variables de nube sólo pueden guardar números."
 
 msgid "cut"
 msgstr "cortar"
@@ -174,11 +299,20 @@ msgstr "fecha"
 msgid "day of week"
 msgstr "día de la semana"
 
+msgid "Delete"
+msgstr "Borrar"
+
 msgid "delete"
 msgstr "borrar"
 
+msgid "delete variable"
+msgstr "borrar variable"
+
 msgid "direction"
 msgstr "dirección"
+
+msgid "direction:"
+msgstr "dirección:"
 
 msgid "don't rotate"
 msgstr "no rotar"
@@ -189,14 +323,17 @@ msgstr "abajo"
 msgid "down arrow"
 msgstr "flecha abajo"
 
+msgid "Download"
+msgstr "Descargar"
+
+msgid "Download to your computer"
+msgstr "Descargar a tu computadora"
+
 msgid "Duplicate"
 msgstr "Duplicar"
 
 msgid "duplicate"
 msgstr "duplicar"
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr "Duplicar (Shift: Múltiples)"
 
 msgid "e ^"
 msgstr "e ^"
@@ -204,26 +341,35 @@ msgstr "e ^"
 msgid "edge"
 msgstr "borde"
 
+msgid "edit"
+msgstr "editar"
+
 msgid "Edit"
 msgstr "Editar"
 
-msgid "edit"
-msgstr "editar"
+msgid "Edit Block"
+msgstr "Editar bloque"
 
 msgid "Effects"
 msgstr "Efectos"
 
 msgid "Electric Guitar"
-msgstr "Guitarra Eléctrica"
+msgstr "Guitarra eléctrica"
 
 msgid "Electric Piano"
-msgstr "Piano Eléctrico"
+msgstr "Piano eléctrico"
 
-msgid "Ellipse (Shift: Circle)"
-msgstr "Elipse (Shift: Círculo)"
+msgid "Electronic"
+msgstr "Electrónica"
+
+msgid "Ellipse"
+msgstr "Elipse"
 
 msgid "Erase"
 msgstr "Borrar"
+
+msgid "Eraser width:"
+msgstr "Grosor de la goma:"
 
 msgid "fade in"
 msgstr "aparecer"
@@ -231,14 +377,26 @@ msgstr "aparecer"
 msgid "fade out"
 msgstr "desvanecer"
 
+msgid "Fantasy"
+msgstr "Fantasía"
+
+msgid "Features"
+msgstr "Características"
+
 msgid "File"
 msgstr "Archivo"
 
-msgid "Fill"
-msgstr "Rellenar"
+msgid "Fill with color"
+msgstr "Rellenar con color"
 
 msgid "fisheye"
 msgstr "ojo de pez"
+
+msgid "Flip left-right"
+msgstr "Voltear horizontalmente"
+
+msgid "Flip up-down"
+msgstr "Voltear verticalmente"
 
 msgid "floor"
 msgstr "piso"
@@ -246,14 +404,29 @@ msgstr "piso"
 msgid "Flute"
 msgstr "Flauta"
 
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr "Una capa más adelante (Shift: Enviar al frente)"
+msgid "Flying"
+msgstr "Volando"
+
+msgid "For all sprites"
+msgstr "Para todos los objetos"
+
+msgid "For this sprite only"
+msgstr "Sólo para éste objeto"
+
+msgid "Forward a layer"
+msgstr "Una capa hacia adelante"
 
 msgid "ghost"
 msgstr "desvanecer"
 
+msgid "Go to My Stuff"
+msgstr "Ir a Mis Cosas"
+
 msgid "Group"
 msgstr "Grupo"
+
+msgid "Grow"
+msgstr "Crecer"
 
 msgid "Guiro"
 msgstr "Güiro"
@@ -264,11 +437,29 @@ msgstr "Guitarra"
 msgid "Hand Clap"
 msgstr "Palmada"
 
+msgid "hide"
+msgstr "esconder"
+
 msgid "hour"
 msgstr "hora"
 
+msgid "Human"
+msgstr "Humanos"
+
 msgid "Import"
 msgstr "Importar"
+
+msgid "Importing sound..."
+msgstr "Importando sonido..."
+
+msgid "Indoors"
+msgstr "Interiores"
+
+msgid "Installing..."
+msgstr "Instalando..."
+
+msgid "Instruments"
+msgstr "Instrumentos"
 
 msgid "last"
 msgstr "último"
@@ -288,17 +479,29 @@ msgstr "Biblioteca"
 msgid "light"
 msgstr "luz"
 
+msgid "limit reached"
+msgstr "límite alcanzado"
+
 msgid "Line"
 msgstr "Línea"
+
+msgid "Line width:"
+msgstr "Grosor de línea:"
+
+msgid "list"
+msgstr "lista"
+
+msgid "List name"
+msgstr "Nombre de la lista"
 
 msgid "ln"
 msgstr "Dentro"
 
+msgid "Loading project..."
+msgstr "Cargando proyecto..."
+
 msgid "log"
 msgstr "log"
-
-msgid "login"
-msgstr "ingresar"
 
 msgid "louder"
 msgstr "más fuerte"
@@ -306,11 +509,32 @@ msgstr "más fuerte"
 msgid "loudness"
 msgstr "intensidad del sonido"
 
+msgid "Make a Block"
+msgstr "Crear un bloque"
+
+msgid "Make a List"
+msgstr "Crear una lista"
+
+msgid "Make a Variable"
+msgstr "Crear una variable"
+
 msgid "Marimba"
 msgstr "Marimba"
 
+msgid "Max"
+msgstr "Máximo"
+
+msgid "meow"
+msgstr "miau"
+
+msgid "Message Name"
+msgstr "Nombre del mensaje"
+
 msgid "message1"
 msgstr "mensaje1"
+
+msgid "Min"
+msgstr "Mínimo"
 
 msgid "minute"
 msgstr "minuto"
@@ -327,32 +551,68 @@ msgstr "movimiento"
 msgid "mouse-pointer"
 msgstr "puntero del ratón"
 
+msgid "Multiple"
+msgstr "Múltiple"
+
+msgid "Music and Dance"
+msgstr "Música y baile"
+
 msgid "Music Box"
 msgstr "Caja de música"
+
+msgid "Music Loops"
+msgstr "Bucles de música"
+
+msgid "My Stuff"
+msgstr "Mis Cosas"
 
 msgid "myself"
 msgstr "este objeto"
 
-msgid "New backdrop"
-msgstr "Nuevo fondo"
+msgid "Nature"
+msgstr "Naturaleza"
 
-msgid "New costume"
-msgstr "Nuevo disfraz"
+msgid "New"
+msgstr "Nuevo"
+
+msgid "New backdrop:"
+msgstr "Fondo nuevo:"
+
+msgid "New costume:"
+msgstr "Disfraz nuevo:"
+
+msgid "New List"
+msgstr "Lista nueva"
 
 msgid "new message..."
 msgstr "nuevo mensaje..."
 
-msgid "New sound"
-msgstr "Nuevo sonido"
+msgid "New name"
+msgstr "Nombre nuevo"
 
-msgid "New sprite"
-msgstr "Nuevo objeto"
+msgid "New sound:"
+msgstr "Sonido nuevo"
+
+msgid "New sprite:"
+msgstr "Nuevo objeto:"
+
+msgid "New Variable"
+msgstr "Variable nueva"
 
 msgid "No motion blocks"
 msgstr "No existen bloques de movimiento"
 
+msgid "Not saved; network or server problem."
+msgstr "No se guardó; problema de red o del servidor."
+
+msgid "of"
+msgstr "de"
+
 msgid "off"
 msgstr "apagado"
+
+msgid "OK"
+msgstr "OK"
 
 msgid "on"
 msgstr "encendido"
@@ -366,14 +626,20 @@ msgstr "Cuica suelta"
 msgid "Open Hi-Hat"
 msgstr "Charles abierto"
 
+msgid "Options"
+msgstr "Opciones"
+
 msgid "Organ"
 msgstr "Órgano"
+
+msgid "Other"
+msgstr "Otros"
 
 msgid "other scripts in sprite"
 msgstr "otros programas en el objeto"
 
-msgid "Paint"
-msgstr "Pintar"
+msgid "Outdoors"
+msgstr "Exteriores"
 
 msgid "paste"
 msgstr "pegar"
@@ -381,13 +647,19 @@ msgstr "pegar"
 msgid "Pencil"
 msgstr "Lápiz"
 
+msgid "People"
+msgstr "Gente"
+
+msgid "Percussion"
+msgstr "Percusión"
+
 msgid "photo1"
 msgstr "foto1"
 
 msgid "Piano"
 msgstr "Piano"
 
-msgid "Pick up Color"
+msgid "Pick up color"
 msgstr "Recoger color"
 
 msgid "pixelate"
@@ -399,6 +671,12 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Project not saved!"
+msgstr "¡Proyecto no guardado!"
+
 msgid "random"
 msgstr "al azar"
 
@@ -408,14 +686,29 @@ msgstr "Grabar"
 msgid "recording1"
 msgstr "grabación1"
 
-msgid "Rectangle (Shift: Square)"
-msgstr "Rectángulo (Shift: Cuadrado)"
+msgid "Rectangle"
+msgstr "Rectángulo"
 
 msgid "redo"
 msgstr "rehacer"
 
+msgid "Redo"
+msgstr "Rehacer"
+
 msgid "Remix"
 msgstr "Reinventar"
+
+msgid "Remixing..."
+msgstr "Reinventando..."
+
+msgid "Rename"
+msgstr "Renombrar"
+
+msgid "rename variable"
+msgstr "renombrar variable"
+
+msgid "requires sign in"
+msgstr "requiere ingresar"
 
 msgid "Reshape"
 msgstr "Reformar"
@@ -435,20 +728,57 @@ msgstr "resistencia-D"
 msgid "reverse"
 msgstr "reversa"
 
+msgid "Revert"
+msgstr "Revertir"
+
+msgid "Reverting..."
+msgstr "Revirtiendo..."
+
 msgid "right"
 msgstr "derecha"
 
 msgid "right arrow"
 msgstr "flecha derecha"
 
+msgid "rotation style:"
+msgstr "estilo de rotación:"
+
+# lit. "run instantly"
+msgid "Run without screen refresh"
+msgstr "Correr instantáneamente"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Save as a copy"
+msgstr "Guardar una copia"
+
+msgid "Save now"
+msgstr "Guardar ahora"
+
+msgid "save to local file"
+msgstr "guardar a un archivo local"
+
+msgid "Saved"
+msgstr "Guardado"
+
+msgid "Saving changes..."
+msgstr "Guardando cambios..."
+
+msgid "Saving..."
+msgstr "Guardando..."
+
 msgid "Saxophone"
 msgstr "Saxofón"
 
-msgid "Scratch Cat"
-msgstr "Gato de Scratch"
+msgid "Script"
+msgstr "Programa"
 
 msgid "Scripts"
 msgstr "Programas"
+
+msgid "Scripts:"
+msgstr "Programas:"
 
 msgid "second"
 msgstr "segundo"
@@ -462,6 +792,15 @@ msgstr "Seleccionar"
 msgid "select all"
 msgstr "seleccionar todo"
 
+msgid "Select and duplicate"
+msgstr "Seleccionar y duplicar"
+
+msgid "Send to back"
+msgstr "Enviar al fondo"
+
+msgid "Set costume center"
+msgstr "Fijar el centro del disfraz"
+
 msgid "Set Costume Center"
 msgstr "Fijar el centro del disfraz"
 
@@ -471,14 +810,36 @@ msgstr "Compartir"
 msgid "shared"
 msgstr "compartido"
 
+#, fuzzy
+msgid "Shift:"
+msgstr "Cambiar:"
+
+msgid "show"
+msgstr "mostrar"
+
 msgid "show receivers"
 msgstr "mostrar receptores"
 
 msgid "show senders"
 msgstr "mostrar emisores"
 
+msgid "show:"
+msgstr "mostrar:"
+
+msgid "Shrink"
+msgstr "Encoger"
+
 msgid "Side Stick"
 msgstr "Golpe lateral"
+
+msgid "Sign in"
+msgstr "Ingresar"
+
+msgid "Sign in to save"
+msgstr "Ingresa para guardar"
+
+msgid "Sign out"
+msgstr "Salir"
 
 msgid "silence"
 msgstr "silencio"
@@ -492,20 +853,50 @@ msgstr "tamaño"
 msgid "slider"
 msgstr "deslizador"
 
+msgid "Slider Range"
+msgstr "Rango del deslizador"
+
+msgid "Small stage layout"
+msgstr "Escenario pequeño"
+
+msgid "Smooth"
+msgstr "Suave"
+
 msgid "Snare Drum"
-msgstr "Tambor de Caja"
+msgstr "Tambor de caja"
 
 msgid "softer"
 msgstr "más suave"
 
+msgid "Sound"
+msgstr "Sonido"
+
 msgid "sound"
 msgstr "sonido"
+
+msgid "Sound Library"
+msgstr "Biblioteca de sonidos"
+
+msgid "Sounds"
+msgstr "Sonidos"
 
 msgid "space"
 msgstr "espacio"
 
+msgid "Space"
+msgstr "Espacio"
+
+msgid "Sports"
+msgstr "Deportes"
+
 msgid "Sprite"
 msgstr "Objeto"
+
+msgid "Sprite Library"
+msgstr "Biblioteca de objetos"
+
+msgid "Sprite1"
+msgstr "Objeto1"
 
 msgid "Sprites"
 msgstr "Objetos"
@@ -513,17 +904,23 @@ msgstr "Objetos"
 msgid "sqrt"
 msgstr "raíz cuadrada"
 
+msgid "Square"
+msgstr "Cuadrado"
+
 msgid "Stage"
 msgstr "Escenario"
 
-msgid "Stage selected"
-msgstr "Escenario seleccionado"
+msgid "Stage selected:"
+msgstr "Escenario seleccionado:"
 
 msgid "Steel Drum"
-msgstr "Tambor Metálico"
+msgstr "Tambor metálico"
+
+msgid "stored on server"
+msgstr "guardado en el servidor"
 
 msgid "Synth Lead"
-msgstr "Sintetizador Melódico"
+msgstr "Sintetizador melódico"
 
 msgid "Synth Pad"
 msgstr "Sintetizador de fondo"
@@ -540,6 +937,18 @@ msgstr "Texto"
 msgid "that way"
 msgstr "ese sentido"
 
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Things"
+msgstr "Cosas"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr "Este proyecto puede detectar quién lo usa, usando el bloque \"nombre de usuario\". Para no revelar tu identidad, sal de tu cuenta antes de usar el proyecto."
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr "Este proyecto usa información de nube, una característica sólo para usuarios que hayan ingresado."
+
 msgid "this script"
 msgstr "este programa"
 
@@ -549,6 +958,9 @@ msgstr "este objeto"
 msgid "this way"
 msgstr "este sentido"
 
+msgid "Throw away all changes since opening this project?"
+msgstr "¿Descartar todos los cambios desde que se abrió el proyecto?"
+
 msgid "timer"
 msgstr "cronómetro"
 
@@ -556,9 +968,10 @@ msgid "Tips"
 msgstr "Sugerencias"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr ""
-"Para borrar una definición de bloque, primero borra todos los usos de éste "
-"bloque."
+msgstr "Para borrar una definición de bloque, primero borra todos los usos de éste bloque."
+
+msgid "Transportation"
+msgstr "Transportes"
 
 msgid "Triangle"
 msgstr "Triángulo"
@@ -566,11 +979,30 @@ msgstr "Triángulo"
 msgid "Trombone"
 msgstr "Trombón"
 
+msgid "Turbo mode"
+msgstr "Modo turbo"
+
 msgid "Turbo Mode"
-msgstr "Modo Turbo"
+msgstr "Modo turbo"
+
+msgid "Type"
+msgstr "Tipo"
+
+# lit. "recover deleted"
+msgid "Undelete"
+msgstr "Recuperar borrado"
+
+msgid "Underwater"
+msgstr "Bajo el mar"
+
+msgid "Undo"
+msgstr "Deshacer"
 
 msgid "undo"
 msgstr "deshacer"
+
+msgid "Undo Revert"
+msgstr "Deshacer Revertir"
 
 msgid "Ungroup"
 msgstr "Desagrupar"
@@ -584,6 +1016,30 @@ msgstr "arriba"
 msgid "up arrow"
 msgstr "flecha arriba"
 
+msgid "Upload from your computer"
+msgstr "Subir de tu computadora"
+
+msgid "Uploading image..."
+msgstr "Subiendo imagen..."
+
+msgid "Uploading sound..."
+msgstr "Subiendo sonido..."
+
+msgid "Uploading sprite..."
+msgstr "Subiendo objeto..."
+
+msgid "variable"
+msgstr "variable"
+
+msgid "Variable name"
+msgstr "Nombre de la variable"
+
+msgid "Vector"
+msgstr "Vector"
+
+msgid "Vector Mode"
+msgstr "Modo vector"
+
 msgid "Vibraphone"
 msgstr "Vibráfono"
 
@@ -593,8 +1049,24 @@ msgstr "Trafaplás"
 msgid "video motion"
 msgstr "movimiento del video"
 
+msgid "Video on:"
+msgstr "Video encendido:"
+
+# lit. "singing"
+msgid "Vocals"
+msgstr "Canto"
+
 msgid "volume"
 msgstr "volumen"
+
+msgid "Walking"
+msgstr "Caminando"
+
+msgid "Want to save? Click remix"
+msgstr "¿Quieres guardar? Haz clic en Reinventar"
+
+msgid "Which column do you want to import"
+msgstr "Qué columna quieres importar"
 
 msgid "whirl"
 msgstr "remolino"
@@ -614,80 +1086,6 @@ msgstr "posición y"
 msgid "year"
 msgstr "año"
 
-#~ msgid "#"
-#~ msgstr "#"
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr "No puedes editar información de la nube en el proyecto de otro.<br>Cualquier cambio hecho en el editor será temporal y no persistente."
 
-#~ msgid "bottom-left"
-#~ msgstr "inferior izquerda"
-
-#~ msgid "bottom-right"
-#~ msgstr "inferior derecha"
-
-#~ msgid "middle"
-#~ msgstr "medio"
-
-#~ msgid "name"
-#~ msgstr "nombre"
-
-#~ msgid "New"
-#~ msgstr "Nuevo"
-
-#~ msgid "New sprite:"
-#~ msgstr "Nuevo objeto:"
-
-#~ msgid "say"
-#~ msgstr "decir"
-
-#~ msgid "shout"
-#~ msgstr "gritar"
-
-#~ msgid "think"
-#~ msgstr "pensar"
-
-#~ msgid "top-left"
-#~ msgstr "superior izquerda"
-
-#~ msgid "top-right"
-#~ msgstr "superior derecha"
-
-#~ msgid "whisper"
-#~ msgstr "susurrar"
-
-#~ msgid "any"
-#~ msgstr "cualquiera"
-
-#~ msgid "High Tom"
-#~ msgstr "Tom agudo"
-
-#~ msgid "Long Guiro"
-#~ msgstr "Güiro largo"
-
-#~ msgid "Low Bongo"
-#~ msgstr "Bongó grave"
-
-#~ msgid "Low Conga"
-#~ msgstr "Conga grave"
-
-#~ msgid "Low Tom"
-#~ msgstr "Tom grave"
-
-#~ msgid "Low Wood Block"
-#~ msgstr "Cajita china grave"
-
-#~ msgid "Maracas"
-#~ msgstr "Maracas"
-
-#~ msgid "More"
-#~ msgstr "más"
-
-#~ msgid "Mute Triangle"
-#~ msgstr "Triángulo sordo"
-
-#~ msgid "Open Triangle"
-#~ msgstr "Triángulo suelto"
-
-#~ msgid "Pedal Hi-Hat"
-#~ msgstr "Charles pedal"
-
-#~ msgid "Short Guiro"
-#~ msgstr "Güiro corto"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:50+0200\n"
-"PO-Revision-Date: 2013-04-03 22:05+0200\n"
+"POT-Creation-Date: 2013-04-26 00:17+0200\n"
+"PO-Revision-Date: 2013-04-27 20:29+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -16,38 +16,66 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Bulut değişkenleri hakkında</b><br>&nbsp;<br>Şimdilik, sadece sayısal "
+"değerler destekleniyor<br>Sohbet odalarına izin yok, ve "
+"kaldırılacaklar<br>Daha fazla bilgi için,<a href= target=>bulut veriler "
+"SSS'sine bakın!</a>"
+
 msgid "A connected"
 msgstr "A bağlı"
+
+msgid "a copy of the project file on your computer."
+msgstr "bilgisayarındaki proje dosyasının bir kopyası."
 
 msgid "abs"
 msgstr "mutlak değer"
 
+msgid "Account settings"
+msgstr "Hesap ayarları"
+
 msgid "acos"
 msgstr "acos"
 
-msgid "Add a boolean input:"
-msgstr "Boole girdi ekle"
-
-msgid "Add a number input:"
-msgstr "Rakamsal bir girdi ekle:"
-
-msgid "Add a string input:"
-msgstr "Sözel bir girdi ekle:"
+# 90%
+msgid "Add boolean input:"
+msgstr "Mantıksal girdi ekle:"
 
 msgid "add comment"
 msgstr "not düş"
 
 msgid "Add label text:"
-msgstr "Etiket yazısı ekle:"
+msgstr "Kelimeler ekle:"
+
+# 89%
+msgid "Add number input:"
+msgstr "Rakamsal girdi ekle:"
+
+# 89%
+msgid "Add string input:"
+msgstr "Sözel girdi ekle:"
 
 msgid "all"
 msgstr "hepsini"
 
+msgid "All"
+msgstr "Tümü"
+
 msgid "all around"
 msgstr "her yöne dönebilsin"
 
+msgid "Animal"
+msgstr "Hayvan"
+
+msgid "Animals"
+msgstr "Hayvanlar"
+
 msgid "asin"
 msgstr "asin"
+
+msgid "assets loaded"
+msgstr "unsur yüklendi"
 
 msgid "atan"
 msgstr "atan"
@@ -55,15 +83,23 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B bağlı"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr "Bir alta indir (Shift: En alta)"
+msgid "Back a layer"
+msgstr "Bir katman alta"
 
 # 88%
 msgid "backdrop"
 msgstr "dekor"
 
+# 88%
+# 87%
+msgid "Backdrop"
+msgstr "Dekor"
+
 msgid "backdrop #"
 msgstr "dekor #"
+
+msgid "Backdrop Library"
+msgstr "Dekor Kütüphanesi"
 
 msgid "backdrop name"
 msgstr "dekorun adı"
@@ -74,6 +110,11 @@ msgstr "dekor1"
 # 88%
 msgid "backdrops"
 msgstr "dekorlar"
+
+# 88%
+# 88%
+msgid "Backdrops"
+msgstr "Dekorlar"
 
 msgid "Backpack"
 msgstr "Sırt çantası"
@@ -87,18 +128,38 @@ msgstr "Bas Davul"
 msgid "Bassoon"
 msgstr "Fagot"
 
+msgid "Bitmap"
+msgstr "Noktasal"
+
+msgid "Bitmap Mode"
+msgstr "Noktasal Halde"
+
+msgid "Block help"
+msgstr "Taşlarla ilgili yardım"
+
 msgid "Bongo"
 msgstr "Bongo"
 
 msgid "brightness"
 msgstr "parlaklık"
 
+msgid "Bring to front"
+msgstr "En üste çıkart"
+
+msgid "Broadcast"
+msgstr "Yayın"
+
+msgid "Brush"
+msgstr "Fırça"
+
 msgid "button pressed"
 msgstr "düğmeye basıldı"
 
-#, fuzzy
 msgid "by"
-msgstr "tarafından"
+msgstr "yapan"
+
+msgid "bytes loaded"
+msgstr "bayt yüklendi"
 
 msgid "C connected"
 msgstr "C bağlı"
@@ -109,8 +170,23 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Kamera"
 
+msgid "can drag in player:"
+msgstr "oyunda sürüklenebilir:"
+
+msgid "Cancel"
+msgstr "İptal"
+
 msgid "Cannot Delete"
 msgstr "Silemem"
+
+msgid "Can’t find network connection or reach server."
+msgstr "Ağ bağlantısı bulamadım ya da sunucuya ulaşamıyorum"
+
+msgid "Castle"
+msgstr "Kale"
+
+msgid "Category"
+msgstr "Kategori"
 
 msgid "ceiling"
 msgstr "yukarı yuvarla"
@@ -121,32 +197,78 @@ msgstr "Viyolonsel"
 msgid "Choir"
 msgstr "Koro"
 
+msgid "Circle"
+msgstr "Çember"
+
+msgid "City"
+msgstr "Şehir"
+
 msgid "Clarinet"
 msgstr "Klarnet"
 
 msgid "Claves"
 msgstr "Tahta çubuk"
 
+msgid "Clear"
+msgstr "Temizle"
+
 msgid "clear senders/receivers"
 msgstr "göndericileri/alıcıları temizle"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Tekrar denemek için  'a tıkla veya kaydetmek için  ."
+
+msgid "Close"
+msgstr "Kapat"
 
 msgid "Closed Hi-Hat"
 msgstr "Kapalı Zil"
 
+msgid "Cloud"
+msgstr "Bulut"
+
+msgid "Cloud data"
+msgstr "Bulut veri"
+
 msgid "color"
 msgstr "renk"
+
+msgid "Color a shape"
+msgstr "Bir şekli boya"
 
 msgid "Conga"
 msgstr "Tumba"
 
+msgid "Connecting to Cloud data server..."
+msgstr "Bulut veri sunucusuna bağlanıyorum..."
+
+msgid "Convert to bitmap"
+msgstr "Noktasala dönüştür"
+
+msgid "Convert to vector"
+msgstr "Çizgisele dönüştür"
+
+msgid "Converting mp3..."
+msgstr "Mp3'ü okuyorum..."
+
 msgid "copy"
 msgstr "kopya"
+
+msgid "Copying..."
+msgstr "Kopyalıyorum..."
 
 msgid "cos"
 msgstr "cos"
 
+# 75%
+msgid "Costume"
+msgstr "Kılık"
+
 msgid "costume #"
 msgstr "kılık #"
+
+msgid "Costume Library"
+msgstr "Kılık Kütüphanesi"
 
 msgid "costume name"
 msgstr "kılığın adı"
@@ -157,11 +279,27 @@ msgstr "kılık1"
 msgid "costume2"
 msgstr "kılık2"
 
+# 75%
+msgid "Costumes"
+msgstr "Kılıklar"
+
+msgid "Costumes > 1"
+msgstr "Kılıklar > 1"
+
+msgid "Costumes:"
+msgstr "Kılıklar:"
+
 msgid "Cowbell"
 msgstr "İnek Çanı"
 
 msgid "Crash Cymbal"
 msgstr "Büyük Zil"
+
+msgid "Creating..."
+msgstr "Oluşturuyorum..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "Şimdilik, Bulut değişkenlerinde sadece sayılar saklanabiliyor."
 
 msgid "cut"
 msgstr "kes"
@@ -175,11 +313,22 @@ msgstr "tarih"
 msgid "day of week"
 msgstr "haftanın günü"
 
+# 83%
+msgid "Delete"
+msgstr "Sil"
+
 msgid "delete"
 msgstr "sil"
 
+msgid "delete variable"
+msgstr "değişkeni sil"
+
 msgid "direction"
 msgstr "yön"
+
+# 90%
+msgid "direction:"
+msgstr "yön:"
 
 msgid "don't rotate"
 msgstr "hiç dönemesin"
@@ -190,14 +339,17 @@ msgstr "aşağı"
 msgid "down arrow"
 msgstr "aşağı ok"
 
+msgid "Download"
+msgstr "İndir"
+
+msgid "Download to your computer"
+msgstr "Bilgisayarına indir"
+
 msgid "Duplicate"
 msgstr "Kopyasını çıkart"
 
 msgid "duplicate"
 msgstr "kopyasını çıkart"
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr "Kopyala (Shift: Bir sürü)"
 
 msgid "e ^"
 msgstr "e ^"
@@ -205,11 +357,14 @@ msgstr "e ^"
 msgid "edge"
 msgstr "kenar"
 
+msgid "edit"
+msgstr "düzenle"
+
 msgid "Edit"
 msgstr "Düzenle"
 
-msgid "edit"
-msgstr "düzenle"
+msgid "Edit Block"
+msgstr "Bloğu Değiştir"
 
 msgid "Effects"
 msgstr "Etkiler"
@@ -220,11 +375,17 @@ msgstr "Elektro Gitar"
 msgid "Electric Piano"
 msgstr "Elektro Piano"
 
-msgid "Ellipse (Shift: Circle)"
-msgstr "Elips (Shift: Çember)"
+msgid "Electronic"
+msgstr "Elektronik"
+
+msgid "Ellipse"
+msgstr "Elips"
 
 msgid "Erase"
 msgstr "Sil"
+
+msgid "Eraser width:"
+msgstr "Silgi genişliği:"
 
 msgid "fade in"
 msgstr "giderek yükselt"
@@ -232,15 +393,26 @@ msgstr "giderek yükselt"
 msgid "fade out"
 msgstr "giderek alçalt"
 
+msgid "Fantasy"
+msgstr "Fantezi"
+
+msgid "Features"
+msgstr "Özellikler"
+
 msgid "File"
 msgstr "Dosya"
 
-# 75%
-msgid "Fill"
-msgstr "Doldur"
+msgid "Fill with color"
+msgstr "Renkle doldur"
 
 msgid "fisheye"
 msgstr "balık gözü"
+
+msgid "Flip left-right"
+msgstr "Sağı-sol yap"
+
+msgid "Flip up-down"
+msgstr "Başaşağı döndür"
 
 msgid "floor"
 msgstr "aşağı yuvarla"
@@ -248,14 +420,29 @@ msgstr "aşağı yuvarla"
 msgid "Flute"
 msgstr "Flüt"
 
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr "Bir üste çıkart (Shift: En üste)"
+msgid "Flying"
+msgstr "Uçan"
+
+msgid "For all sprites"
+msgstr "Tüm kuklalar için"
+
+msgid "For this sprite only"
+msgstr "Sadece bu kukla için"
+
+msgid "Forward a layer"
+msgstr "Bir katman üste çıkart"
 
 msgid "ghost"
 msgstr "hayalet"
 
+msgid "Go to My Stuff"
+msgstr "Projelerime git"
+
 msgid "Group"
 msgstr "Grup"
+
+msgid "Grow"
+msgstr "Büyüt"
 
 msgid "Guiro"
 msgstr "Guiro (tırtıklı ahşap)"
@@ -266,11 +453,29 @@ msgstr "Gitar"
 msgid "Hand Clap"
 msgstr "El Çırpma"
 
+msgid "hide"
+msgstr "gizle"
+
 msgid "hour"
 msgstr "saat"
 
+msgid "Human"
+msgstr "İnsan"
+
 msgid "Import"
 msgstr "Dışarıdan al"
+
+msgid "Importing sound..."
+msgstr "Sesi içeri aktarıyorum"
+
+msgid "Indoors"
+msgstr "Bina içi"
+
+msgid "Installing..."
+msgstr "Yüklüyorum..."
+
+msgid "Instruments"
+msgstr "Çalgılar"
 
 msgid "last"
 msgstr "son"
@@ -290,17 +495,30 @@ msgstr "Kütüphane"
 msgid "light"
 msgstr "ışık"
 
+msgid "limit reached"
+msgstr "limite ulaşıldı"
+
 msgid "Line"
 msgstr "Çizgi"
+
+msgid "Line width:"
+msgstr "Çizgi kalınlığı:"
+
+# 75%
+msgid "list"
+msgstr "liste"
+
+msgid "List name"
+msgstr "Liste adı"
 
 msgid "ln"
 msgstr "ln"
 
+msgid "Loading project..."
+msgstr "Projeyi yüklüyorum..."
+
 msgid "log"
 msgstr "günlük"
-
-msgid "login"
-msgstr "giriş"
 
 msgid "louder"
 msgstr "daha yüksek sesli"
@@ -308,11 +526,32 @@ msgstr "daha yüksek sesli"
 msgid "loudness"
 msgstr "ses şiddeti"
 
+msgid "Make a Block"
+msgstr "Bir Taş Oluştur"
+
+msgid "Make a List"
+msgstr "Bir Liste Oluştur"
+
+msgid "Make a Variable"
+msgstr "Bir Değişken Oluştur"
+
 msgid "Marimba"
 msgstr "Marimba"
 
+msgid "Max"
+msgstr "En büyüğü"
+
+msgid "meow"
+msgstr "miyav"
+
+msgid "Message Name"
+msgstr "Haberin Adı"
+
 msgid "message1"
 msgstr "haber1"
+
+msgid "Min"
+msgstr "En küçüğü"
 
 msgid "minute"
 msgstr "dakika"
@@ -329,33 +568,71 @@ msgstr "hareket"
 msgid "mouse-pointer"
 msgstr "fare oku"
 
+msgid "Multiple"
+msgstr "Çoklu"
+
+msgid "Music and Dance"
+msgstr "Müzik ve Dans"
+
 msgid "Music Box"
 msgstr "Müzik Kutusu"
+
+msgid "Music Loops"
+msgstr "Müzik Döngüleri"
+
+msgid "My Stuff"
+msgstr "Benim İşlerim"
 
 msgid "myself"
 msgstr "kendim"
 
-msgid "New backdrop"
-msgstr "Yeni dekor"
+msgid "Nature"
+msgstr "Doğa"
 
-msgid "New costume"
-msgstr "Yeni kılık"
+msgid "New"
+msgstr "Yeni"
+
+# 92%
+msgid "New backdrop:"
+msgstr "Yeni dekor:"
+
+# 91%
+msgid "New costume:"
+msgstr "Yeni kılık:"
+
+msgid "New List"
+msgstr "Yeni Liste"
 
 msgid "new message..."
 msgstr "yeni haber..."
 
-msgid "New sound"
-msgstr "Yeni ses"
+msgid "New name"
+msgstr "Yeni isim"
 
 # 90%
-msgid "New sprite"
-msgstr "Yeni kukla"
+msgid "New sound:"
+msgstr "Yeni ses:"
+
+msgid "New sprite:"
+msgstr "Yeni kukla:"
+
+msgid "New Variable"
+msgstr "Yeni Değişken"
 
 msgid "No motion blocks"
 msgstr "Hareket bloğu yok"
 
+msgid "Not saved; network or server problem."
+msgstr "Kaydedilmedi; ağ veya sunucuda sorun var."
+
+msgid "of"
+msgstr "of"
+
 msgid "off"
 msgstr "kapat"
+
+msgid "OK"
+msgstr "Tamam"
 
 msgid "on"
 msgstr "aç"
@@ -369,14 +646,20 @@ msgstr "Açık Cuica"
 msgid "Open Hi-Hat"
 msgstr "Açık Zil"
 
+msgid "Options"
+msgstr "Seçenekler"
+
 msgid "Organ"
 msgstr "Org"
+
+msgid "Other"
+msgstr "Diğer"
 
 msgid "other scripts in sprite"
 msgstr "kuklanın diğer dizilerini"
 
-msgid "Paint"
-msgstr "Boya"
+msgid "Outdoors"
+msgstr "Bina dışı"
 
 msgid "paste"
 msgstr "yapıştır"
@@ -384,13 +667,20 @@ msgstr "yapıştır"
 msgid "Pencil"
 msgstr "Kalem"
 
+msgid "People"
+msgstr "İnsanlar"
+
+msgid "Percussion"
+msgstr "Vurmalılar"
+
 msgid "photo1"
 msgstr "foto1"
 
 msgid "Piano"
 msgstr "Piyano"
 
-msgid "Pick up Color"
+# 92%
+msgid "Pick up color"
 msgstr "Rengi bul"
 
 msgid "pixelate"
@@ -402,6 +692,12 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Project not saved!"
+msgstr "Proje kaydedilmedi!"
+
 msgid "random"
 msgstr "rastgele"
 
@@ -411,14 +707,30 @@ msgstr "Kaydet"
 msgid "recording1"
 msgstr "kayıt1"
 
-msgid "Rectangle (Shift: Square)"
-msgstr "Dikdörtgen (Shift: Kare)"
+msgid "Rectangle"
+msgstr "Dikdörtgen"
 
 msgid "redo"
 msgstr "ileri al"
 
+# 75%
+msgid "Redo"
+msgstr "İleri al"
+
 msgid "Remix"
 msgstr "Ekleme"
+
+msgid "Remixing..."
+msgstr "Ekliyorum..."
+
+msgid "Rename"
+msgstr "Yeniden adlandır"
+
+msgid "rename variable"
+msgstr "değişkeni yeniden adlandır"
+
+msgid "requires sign in"
+msgstr "giriş yapman gerek"
 
 msgid "Reshape"
 msgstr "Şekli değiştir"
@@ -438,20 +750,58 @@ msgstr "direnç-D"
 msgid "reverse"
 msgstr "ters çevir"
 
+msgid "Revert"
+msgstr "Baştan başla"
+
+msgid "Reverting..."
+msgstr "Başa alıyorum..."
+
 msgid "right"
 msgstr "sağ"
 
 msgid "right arrow"
 msgstr "sağ ok"
 
+msgid "rotation style:"
+msgstr "dönüş izinleri:"
+
+msgid "Run without screen refresh"
+msgstr "Ekranı tazelemeden çalışsın"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Save as a copy"
+msgstr "Kopyasını kaydet"
+
+msgid "Save now"
+msgstr "Şimdi kaydet"
+
+msgid "save to local file"
+msgstr "bilgisayarıma kaydet"
+
+msgid "Saved"
+msgstr "Kaydedildi"
+
+msgid "Saving changes..."
+msgstr "Değişiklikleri kaydediyorum..."
+
+msgid "Saving..."
+msgstr "Kaydediyorum..."
+
 msgid "Saxophone"
 msgstr "Saksafon"
 
-msgid "Scratch Cat"
-msgstr "Tırmık Kedi"
+# 85%
+msgid "Script"
+msgstr "Komutlar"
 
 msgid "Scripts"
 msgstr "Komutlar"
+
+# 87%
+msgid "Scripts:"
+msgstr "Komutlar:"
 
 msgid "second"
 msgstr "saniye"
@@ -465,6 +815,16 @@ msgstr "Seç"
 msgid "select all"
 msgstr "tümünü seç"
 
+msgid "Select and duplicate"
+msgstr "Seç ve kopya çıkart"
+
+msgid "Send to back"
+msgstr "En alta gönder"
+
+# 88%
+msgid "Set costume center"
+msgstr "Kılık merkezini belirle"
+
 msgid "Set Costume Center"
 msgstr "Kılık Merkezini Belirle"
 
@@ -474,14 +834,35 @@ msgstr "Paylaş"
 msgid "shared"
 msgstr "ortak"
 
+msgid "Shift:"
+msgstr "Shift:"
+
+msgid "show"
+msgstr "görün"
+
 msgid "show receivers"
 msgstr "haber alanları göster"
 
 msgid "show senders"
 msgstr "haber gönderenleri göster"
 
+msgid "show:"
+msgstr "görün:"
+
+msgid "Shrink"
+msgstr "Ufalt"
+
 msgid "Side Stick"
 msgstr "Kenara Kaydırmak"
+
+msgid "Sign in"
+msgstr "Giriş yap"
+
+msgid "Sign in to save"
+msgstr "Kaydetmek için giriş yap"
+
+msgid "Sign out"
+msgstr "Çıkış"
 
 msgid "silence"
 msgstr "sessizlik"
@@ -495,21 +876,55 @@ msgstr "büyüklük"
 msgid "slider"
 msgstr "sürgü"
 
+msgid "Slider Range"
+msgstr "Sürgü Sınırları"
+
+msgid "Small stage layout"
+msgstr "Küçük sahne düzeni"
+
+msgid "Smooth"
+msgstr "Yumuşak"
+
 msgid "Snare Drum"
 msgstr "Trampet"
 
 msgid "softer"
 msgstr "daha yumuşak"
 
+# 80%
+msgid "Sound"
+msgstr "Ses"
+
 msgid "sound"
 msgstr "ses"
+
+msgid "Sound Library"
+msgstr "Ses Kütüphanesi"
+
+msgid "Sounds"
+msgstr "Sesler"
 
 msgid "space"
 msgstr "boşluk"
 
+# 80%
+msgid "Space"
+msgstr "Boşluk"
+
+msgid "Sports"
+msgstr "Sporlar"
+
 # 85%
 msgid "Sprite"
 msgstr "Kukla"
+
+msgid "Sprite Library"
+msgstr "Kukla Kütüphanesi"
+
+# 85%
+# 85%
+msgid "Sprite1"
+msgstr "Kukla1"
 
 msgid "Sprites"
 msgstr "Kuklalar"
@@ -517,14 +932,21 @@ msgstr "Kuklalar"
 msgid "sqrt"
 msgstr "karekök"
 
+msgid "Square"
+msgstr "Kare"
+
 msgid "Stage"
 msgstr "Sahne"
 
-msgid "Stage selected"
-msgstr "Sahne seçildi"
+# 93%
+msgid "Stage selected:"
+msgstr "Sahne seçildi:"
 
 msgid "Steel Drum"
 msgstr "Çelik Davul"
+
+msgid "stored on server"
+msgstr "sunucuda kayıtlı"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -544,6 +966,22 @@ msgstr "Yazı"
 msgid "that way"
 msgstr "o yoldan"
 
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Things"
+msgstr "Muhtelif"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr ""
+"Bu proje \"kullanıcı adı\" taşını kullanarak kendisini kimin kullandığını "
+"bilebilir. Kimliğini gizlemek için, projeyi kullanmadan önce çıkış yap."
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+"Bu proje Bulut verisi kullanıyor - bu özellik sadece giriş yapmış olan "
+"kullanıcılara açıktır."
+
 msgid "this script"
 msgstr "bu diziyi"
 
@@ -552,6 +990,9 @@ msgstr "bu kukla"
 
 msgid "this way"
 msgstr "bu yoldan"
+
+msgid "Throw away all changes since opening this project?"
+msgstr "Projeyi açtığından beri yaptığın tüm değişiklikeri iptal edeyim mi?"
 
 msgid "timer"
 msgstr "süre ölçer"
@@ -562,17 +1003,41 @@ msgstr "İpuçları"
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "Bir blok tanımını silebilmek için, önce bloğu kullananları sil."
 
+msgid "Transportation"
+msgstr "Ulaşım"
+
 msgid "Triangle"
 msgstr "Üçgen"
 
 msgid "Trombone"
 msgstr "Trombon"
 
+# 90%
+msgid "Turbo mode"
+msgstr "Jet hızında"
+
 msgid "Turbo Mode"
 msgstr "Jet Hızında"
 
+msgid "Type"
+msgstr "Tür"
+
+# 75%
+msgid "Undelete"
+msgstr "Silmeseydim"
+
+msgid "Underwater"
+msgstr "Su altı"
+
+# 75%
+msgid "Undo"
+msgstr "Geri al"
+
 msgid "undo"
 msgstr "geri al"
+
+msgid "Undo Revert"
+msgstr "Başa Dönmekten Caydım"
 
 msgid "Ungroup"
 msgstr "Grubu dağıt"
@@ -586,6 +1051,30 @@ msgstr "yukarı"
 msgid "up arrow"
 msgstr "yukarı ok"
 
+msgid "Upload from your computer"
+msgstr "Bilgisayarından yükle"
+
+msgid "Uploading image..."
+msgstr "Resmi yüklüyorum..."
+
+msgid "Uploading sound..."
+msgstr "Sesi yüklüyorum..."
+
+msgid "Uploading sprite..."
+msgstr "Kuklayı yüklüyorum..."
+
+msgid "variable"
+msgstr "değişken"
+
+msgid "Variable name"
+msgstr "Değişken adı"
+
+msgid "Vector"
+msgstr "Çizgisel"
+
+msgid "Vector Mode"
+msgstr "Çizgisel Halde"
+
 msgid "Vibraphone"
 msgstr "Vibrafon"
 
@@ -595,8 +1084,23 @@ msgstr "Vibraslap"
 msgid "video motion"
 msgstr "video hareketi"
 
+msgid "Video on:"
+msgstr "Video açık:"
+
+msgid "Vocals"
+msgstr "Vokaller"
+
 msgid "volume"
 msgstr "ses şiddeti"
+
+msgid "Walking"
+msgstr "Yürüyenler"
+
+msgid "Want to save? Click remix"
+msgstr "Kaydetmek istersen Eklemeye tıkla"
+
+msgid "Which column do you want to import"
+msgstr "Hangi sütunu içeri aktarmak istiyorsun"
 
 msgid "whirl"
 msgstr "fırılda"
@@ -616,6 +1120,67 @@ msgstr "y konumu"
 msgid "year"
 msgstr "yıl"
 
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+"Başkasının projesindeki bulut verisini değiştiremezsin.<br>Bu verilerde "
+"yaptığın her değişiklik kalıcı olamayacak."
+
+#~ msgid "Add a boolean input:"
+#~ msgstr "Boole girdi ekle"
+
+#~ msgid "Add a number input:"
+#~ msgstr "Rakamsal bir girdi ekle:"
+
+#~ msgid "Add a string input:"
+#~ msgstr "Sözel bir girdi ekle:"
+
+#~ msgid "Back a layer (Shift: Send to back)"
+#~ msgstr "Bir alta indir (Shift: En alta)"
+
+#~ msgid "Duplicate (Shift: Multiple)"
+#~ msgstr "Kopyala (Shift: Bir sürü)"
+
+#~ msgid "Ellipse (Shift: Circle)"
+#~ msgstr "Elips (Shift: Çember)"
+
+# 75%
+#~ msgid "Fill"
+#~ msgstr "Doldur"
+
+#~ msgid "Forward a layer (Shift: Bring to front)"
+#~ msgstr "Bir üste çıkart (Shift: En üste)"
+
+#~ msgid "login"
+#~ msgstr "giriş"
+
+#~ msgid "New backdrop"
+#~ msgstr "Yeni dekor"
+
+#~ msgid "New costume"
+#~ msgstr "Yeni kılık"
+
+#~ msgid "New sound"
+#~ msgstr "Yeni ses"
+
+# 90%
+#~ msgid "New sprite"
+#~ msgstr "Yeni kukla"
+
+#~ msgid "Paint"
+#~ msgstr "Boya"
+
+#~ msgid "Pick up Color"
+#~ msgstr "Rengi bul"
+
+#~ msgid "Rectangle (Shift: Square)"
+#~ msgstr "Dikdörtgen (Shift: Kare)"
+
+#~ msgid "Scratch Cat"
+#~ msgstr "Tırmık Kedi"
+
+#~ msgid "Stage selected"
+#~ msgstr "Sahne seçildi"
+
 #~ msgid "#"
 #~ msgstr "#"
 
@@ -630,12 +1195,6 @@ msgstr "yıl"
 
 #~ msgid "name"
 #~ msgstr "isim"
-
-#~ msgid "New"
-#~ msgstr "Yeni"
-
-#~ msgid "New sprite:"
-#~ msgstr "Yeni kukla:"
 
 #~ msgid "say"
 #~ msgstr "söyle"

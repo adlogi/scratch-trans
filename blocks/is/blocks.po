@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:34+0200\n"
-"PO-Revision-Date: 2012-12-03 22:03+0200\n"
+"POT-Creation-Date: 2013-04-26 00:12+0200\n"
+"PO-Revision-Date: 2013-04-29 20:20+0200\n"
 "Last-Translator: Stefan Einar <stefaneinar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: is\n"
@@ -116,7 +116,7 @@ msgid "Data"
 msgstr "Gögn"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "dagar síðan 2000"
 
 msgid "define"
 msgstr "skilgreina"
@@ -164,13 +164,13 @@ msgid "hide"
 msgstr "fela"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "fela listann %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "fela breytuna %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "ef %b þá"
 
 msgid "if on edge, bounce"
 msgstr "ef á jaðri þá snúa við"
@@ -249,9 +249,8 @@ msgid "play drum %d.drum for %n beats"
 msgstr "spila á trommu %d.drum í %n slög"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "spila nótu %n í %n slög"
+msgstr "spila nótu %d.note í %n slög"
 
 msgid "play sound %m.sound"
 msgstr "spila hljóðið %m.sound"
@@ -305,12 +304,10 @@ msgid "set instrument to %d.instrument"
 msgstr "hljóðfæri verður %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "hreyfill stefnir %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
 msgstr "afl hreyfils verður %n"
 
@@ -327,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "stærð penna verður %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "snúningsgerð verður %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "stærð verður %n%"
@@ -351,10 +348,10 @@ msgid "show"
 msgstr "birta"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "birta listann %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "birta variable %m.var"
 
 msgid "size"
 msgstr "stærð"
@@ -410,21 +407,20 @@ msgid "turn @turnRight %n degrees"
 msgstr "snúa @turnRight um %n gráður"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "slökkva á hreyfil"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "kveikja á hreyfli"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "hreyfill gengur í %n sek"
 
 msgid "turn video %m.videoState"
 msgstr "snúa hreyfimynd %m.videoState"
 
-msgid "user id"
-msgstr "Auðkenni notanda"
+msgid "user name"
+msgstr "notandanafn"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "hreyfimynd %m.videoMotionType á %m.stageOrThis"
@@ -439,7 +435,6 @@ msgid "wait until %b"
 msgstr "bíða þar til %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
 msgstr "mælir %m.booleanSensor?"
 
@@ -447,7 +442,7 @@ msgid "when %m.key key pressed"
 msgstr "þegar ýtt er á %m.key"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "þegar %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "þegar smellt er á @greenFlag"
@@ -457,25 +452,28 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "þegar bakgrunnur verður %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "þegar fjarlægð < %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "þegar ég tek á móti %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "þegar ég byrja sem afrit"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "þegar teikningin fær smell"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "þegar halli = %n"
 
 msgid "x position"
 msgstr "x hnit"
 
 msgid "y position"
 msgstr "y hnit"
+
+#~ msgid "user id"
+#~ msgstr "Auðkenni notanda"
 
 #~ msgid "clone startup"
 #~ msgstr "afrita ræsingu"

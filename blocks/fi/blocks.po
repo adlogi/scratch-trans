@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:34+0200\n"
+"POT-Creation-Date: 2013-04-26 00:12+0200\n"
 "PO-Revision-Date: 2013-01-05 19:47+0200\n"
 "Last-Translator: ukkeli <avuorilehto@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -424,8 +424,8 @@ msgstr "moottori päälle %n sekunniksi"
 msgid "turn video %m.videoState"
 msgstr "käännä video %m.videoState"
 
-msgid "user id"
-msgstr "käyttäjätunnus"
+msgid "user name"
+msgstr ""
 
 # no idea what this does
 msgid "video %m.videoMotionType on %m.stageOrThis"
@@ -478,6 +478,9 @@ msgstr "x-sijainti"
 
 msgid "y position"
 msgstr "y-sijainti"
+
+#~ msgid "user id"
+#~ msgstr "käyttäjätunnus"
 
 #~ msgid "clone startup"
 #~ msgstr "kloonaa aloitus"

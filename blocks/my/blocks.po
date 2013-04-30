@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:35+0200\n"
-"PO-Revision-Date: 2013-02-11 10:35+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"POT-Creation-Date: 2013-04-26 00:13+0200\n"
+"PO-Revision-Date: 2013-04-27 14:51+0200\n"
+"Last-Translator: Ye Kyaw Thu <wasedakuma@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
@@ -53,7 +53,7 @@ msgstr "နောက်ခံ နံပါတ်"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "နောက်ခံ နာမည်"
 
 msgid "broadcast %m.broadcast"
 msgstr "%m.broadcast ကိုထုတ်လွှင့်"
@@ -107,31 +107,31 @@ msgid "costume #"
 msgstr "အဝတ်အစား ရဲ့ နံပါတ်"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "%m.spriteOnly ရဲ့ပုံတူကို ဖန်တီး"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "လက်ရှိ %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "ဒေတာ"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "၂၀၀၀ ခုနှစ်ကနေ ရက်ပေါင်း"
 
 msgid "define"
-msgstr ""
+msgstr "သတ်မှတ်ချက်"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "%d.listDeleteItem ခုမြောက်ကို %m.list ကနေဖျက်"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "ဒီ ပွားထားတဲ့ ပုံတူကို ဖျက်"
 
 msgid "direction"
 msgstr "ဦးတည်ရာ"
 
 msgid "distance"
-msgstr ""
+msgstr "အကွာအဝေး"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "%m.spriteOrMouse အထိ ခွာ"
@@ -140,7 +140,7 @@ msgid "else"
 msgstr "မဟုတ်ရင်"
 
 msgid "Events"
-msgstr ""
+msgstr "ဖြစ်ရပ်များ"
 
 msgid "forever"
 msgstr "အမြဲတမ်း"
@@ -164,13 +164,13 @@ msgid "hide"
 msgstr "ဖွက်"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "စာရင်း %m.list ကိုဖွက်"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "ဘေရီရေဘယ် %m.var ကို ဖွက်"
 
 msgid "if %b then"
-msgstr ""
+msgstr "တကယ်လို့ %b ဖြစ်ရင်"
 
 msgid "if on edge, bounce"
 msgstr "အကယ်၍ ဘောင်နဲ့ထိရင် ပြန်ကန်"
@@ -203,7 +203,7 @@ msgid "loudness"
 msgstr "အသံ အတိုးအကျယ်"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "တခြား ဘလောက်တုံး"
 
 msgid "Motion"
 msgstr "လှုပ်ရှားမှု့"
@@ -328,7 +328,7 @@ msgid "set pen size to %n"
 msgstr "စုတ်တံအရွယ်ကို  %n အဖြစ် သတ်မှတ်"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "အလှည့်အပြောင်း ပုံစံကို %m.rotationStyle အဖြစ် သတ်မှတ်"
 
 msgid "set size to %n%"
 msgstr "အရွယ်အစားကို %n% အဖြစ် သတ်မှတ်"
@@ -337,7 +337,7 @@ msgid "set tempo to %n bpm"
 msgstr "အသံရဲ့ မြန်နှုန်းကို %n BPM အဖြစ် သတ်မှတ်"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "ဗီဒီယို ဖောက်ထွင်းမြင်နိုင်မှု့ကို %n% အဖြစ် သတ်မှတ်"
 
 msgid "set volume to %n%"
 msgstr "အသံ အတိုးအကျယ် ကို %n% အဖြစ် သတ်မှတ်"
@@ -352,10 +352,10 @@ msgid "show"
 msgstr "ပြမည်"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "စာရင်း %m.list ကိုပြ"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "ဘေရီရေဘယ် %m.var ကို ပြ"
 
 msgid "size"
 msgstr "အရွယ်အစား"
@@ -367,21 +367,21 @@ msgid "stamp"
 msgstr "တံဆိပ်တုံး"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "%m.stopကို ရပ်"
 
 msgid "stop all sounds"
 msgstr "အသံအားလုံးကို ရပ်"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "နောက်ခံကို %m.backdrop အဖြစ်ပြောင်း"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "နောက်ခံကို %m.backdrop အဖြစ်ပြောင်းပြီး စောင့်"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "အဝတ်အစားကို %m.costume အဖြစ်ပြောင်း"
 
 msgid "tempo"
 msgstr "အသံရဲ့ မြန်နှုန်း"
@@ -402,19 +402,19 @@ msgid "touching %m.touching?"
 msgstr "%m.touching ကို ထိခဲ့လား"
 
 msgid "touching color %c?"
-msgstr "%c အရောင်နဲ့ ချယ်ခဲ့လား"
+msgstr "%c အရောင်နဲ့ ခြယ်ခဲ့လား"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "@turnLeft %n ဒီဂရီ လှည့်"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "@turnLeft %n ဒီဂရီ လှည့်"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "မော်တာကို ပိတ်"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "မော်တာကို ဖွင့်"
 
 # 80%
 #, fuzzy
@@ -422,13 +422,13 @@ msgid "turn motor on for %n secs"
 msgstr "မော်တာကို  %n စက္ကန့် ဖွင့်"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "ဗီဒီယိုကို %m.videoState အဖြစ် ပြောင်း"
 
-msgid "user id"
-msgstr ""
+msgid "user name"
+msgstr "အသုံးပြုသူ နာမည်"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "ဗီဒီယိုရဲ့ %m.videoMotionType ရဲ့ %m.stageOrThis တန်ဖိုး"
 
 msgid "volume"
 msgstr "အသံ အတိုးအကျယ်"
@@ -448,29 +448,29 @@ msgid "when %m.key key pressed"
 msgstr "%m.key ကီးကိုနှိပ်ခဲ့ရင်"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "%m.triggerSensor > %n ဖြစ်တဲ့အခါ"
 
 msgid "when @greenFlag clicked"
 msgstr "@greenFlag ကို ကလစ် နှိပ်ခဲ့ရင်"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "နောက်ခံက %m.backdrop အဖြစ် ပြောင်းတဲ့အခါ"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "distance < %n ဖြစ်တဲ့ အခါ"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "%m.broadcast ကို လက်ခံရတဲ့အခါ"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "ပုံတူပွားထားသူ အဖြစ် စတဲ့အခါ"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "ဒီ ဇာတ်ကောင်က ကလစ်အနှိပ် ခံရတဲ့အခါ"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "စောင်းတဲ့ ပမာဏ = %n ဖြစ်တဲ့အခါ"
 
 msgid "x position"
 msgstr "xဝင်ရိုး"

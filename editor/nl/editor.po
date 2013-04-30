@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:49+0200\n"
-"PO-Revision-Date: 2013-02-15 18:48+0200\n"
+"POT-Creation-Date: 2013-04-26 00:16+0200\n"
+"PO-Revision-Date: 2013-04-27 17:39+0200\n"
 "Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -16,23 +16,29 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informatie over cloud-variabelen</b><br>&nbsp;<br>Op dit moment worden "
+"alleen nummers ondersteund.<br>Chat rooms zijn niet toegestaan en worden "
+"verwijderd.<br>Voor meer info, <a href= target=>zie cloud-data FAQ!</a>"
+
 msgid "A connected"
 msgstr "A verbonden"
+
+msgid "a copy of the project file on your computer."
+msgstr "een kopie van het projectbestand op je computer."
 
 msgid "abs"
 msgstr "absoluut"
 
+msgid "Account settings"
+msgstr "Account-instellingen"
+
 msgid "acos"
 msgstr "acos"
 
-msgid "Add a boolean input:"
-msgstr "Voeg boolean-veld toe:"
-
-msgid "Add a number input:"
-msgstr "Voeg getalveld toe:"
-
-msgid "Add a string input:"
-msgstr "Voeg tekstvak toe:"
+msgid "Add boolean input:"
+msgstr "Voeg ja/nee-veld toe:"
 
 msgid "add comment"
 msgstr "nieuw commentaar"
@@ -40,15 +46,33 @@ msgstr "nieuw commentaar"
 msgid "Add label text:"
 msgstr "Voeg label toe:"
 
+msgid "Add number input:"
+msgstr "Voeg getalveld toe:"
+
+msgid "Add string input:"
+msgstr "Voeg tekstvak toe:"
+
 msgid "all"
 msgstr "alle"
+
+msgid "All"
+msgstr "Alle"
 
 # wordt waarschijnlijk gebruikt bij rotatiemogelijkheden van een sprite
 msgid "all around"
 msgstr "helemaal rond"
 
+msgid "Animal"
+msgstr "Dier"
+
+msgid "Animals"
+msgstr "Dieren"
+
 msgid "asin"
 msgstr "asin"
+
+msgid "assets loaded"
+msgstr "aanwinsten geladen"
 
 msgid "atan"
 msgstr "atan"
@@ -56,14 +80,20 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B verbonden"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr "Eén laag naar beneden (Shift: helemaal naar achteren)"
+msgid "Back a layer"
+msgstr "Een laag terug"
 
 msgid "backdrop"
 msgstr "achtergrond"
 
+msgid "Backdrop"
+msgstr "Achtergrond"
+
 msgid "backdrop #"
 msgstr "achtergrond #"
+
+msgid "Backdrop Library"
+msgstr "Achtergrondbibliotheek"
 
 msgid "backdrop name"
 msgstr "achtergrondnaam"
@@ -73,6 +103,9 @@ msgstr "achtergrond1"
 
 msgid "backdrops"
 msgstr "achtergronden"
+
+msgid "Backdrops"
+msgstr "Achtergronden"
 
 msgid "Backpack"
 msgstr "Rugzak"
@@ -86,17 +119,38 @@ msgstr "Bass Drum"
 msgid "Bassoon"
 msgstr "Fagot"
 
+msgid "Bitmap"
+msgstr "Afbeelding"
+
+msgid "Bitmap Mode"
+msgstr "Afbeeldingmodus"
+
+msgid "Block help"
+msgstr "Blok-uitleg"
+
 msgid "Bongo"
 msgstr "Bongo"
 
 msgid "brightness"
 msgstr "helderheid"
 
+msgid "Bring to front"
+msgstr "Naar voorgrond"
+
+msgid "Broadcast"
+msgstr "Zend"
+
+msgid "Brush"
+msgstr "Kwast"
+
 msgid "button pressed"
 msgstr "knop ingedrukt"
 
 msgid "by"
 msgstr "met/door"
+
+msgid "bytes loaded"
+msgstr "bytes geladen"
 
 msgid "C connected"
 msgstr "C verbonden"
@@ -107,8 +161,23 @@ msgstr "Kabassa"
 msgid "Camera"
 msgstr "Camera"
 
+msgid "can drag in player:"
+msgstr "kan in speler gesleept worden:"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
 msgid "Cannot Delete"
 msgstr "Verwijderen niet mogelijk"
+
+msgid "Can’t find network connection or reach server."
+msgstr "Geen netwerkverbinding of kan de server niet vinden."
+
+msgid "Castle"
+msgstr "Kasteel"
+
+msgid "Category"
+msgstr "Categorie"
 
 # wikipedia suggests ceiling
 msgid "ceiling"
@@ -120,32 +189,77 @@ msgstr "Cello"
 msgid "Choir"
 msgstr "Koor"
 
+msgid "Circle"
+msgstr "Cirkel"
+
+msgid "City"
+msgstr "Stad"
+
 msgid "Clarinet"
 msgstr "Klarinet"
 
 msgid "Claves"
 msgstr "Claves"
 
+msgid "Clear"
+msgstr "Wissen"
+
 msgid "clear senders/receivers"
 msgstr "wis zenders/ontvangers"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Klik  om opnieuw te proberen of  bewaar"
+
+msgid "Close"
+msgstr "Sluiten"
 
 msgid "Closed Hi-Hat"
 msgstr "Gesloten hi-hat"
 
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Cloud data"
+msgstr "Cloud-data"
+
 msgid "color"
 msgstr "kleur"
+
+msgid "Color a shape"
+msgstr "Kleur een vorm"
 
 msgid "Conga"
 msgstr "Conga"
 
+msgid "Connecting to Cloud data server..."
+msgstr "Verbinden met Cloud-dataserver"
+
+msgid "Convert to bitmap"
+msgstr "Converteren naar afbeelding"
+
+msgid "Convert to vector"
+msgstr "Converteer naar vectorafbeelding"
+
+msgid "Converting mp3..."
+msgstr "MP3 converteren..."
+
 msgid "copy"
 msgstr "kopiëren"
+
+msgid "Copying..."
+msgstr "Kopiëren..."
 
 msgid "cos"
 msgstr "cos"
 
+msgid "Costume"
+msgstr "Uiterlijk"
+
 msgid "costume #"
 msgstr "uiterlijk #"
+
+msgid "Costume Library"
+msgstr "Uiterlijkenbibliotheek"
 
 msgid "costume name"
 msgstr "naam uiterlijk"
@@ -157,11 +271,28 @@ msgstr "uiterlijk1"
 msgid "costume2"
 msgstr "uiterlijk2"
 
+# 75%
+msgid "Costumes"
+msgstr "Uiterlijken"
+
+msgid "Costumes > 1"
+msgstr "Uiterlijken > 1"
+
+msgid "Costumes:"
+msgstr "Uiterlijken:"
+
 msgid "Cowbell"
 msgstr "Koebel"
 
 msgid "Crash Cymbal"
 msgstr "Crashbekken"
+
+msgid "Creating..."
+msgstr "Maken..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr ""
+"Op dit moment kunnen alleen nummers opgeslagen worden in Cloud-variabelen."
 
 msgid "cut"
 msgstr "knippen"
@@ -175,11 +306,20 @@ msgstr "datum"
 msgid "day of week"
 msgstr "dag van de week"
 
+msgid "Delete"
+msgstr "Verwijderen"
+
 msgid "delete"
 msgstr "verwijderen"
 
+msgid "delete variable"
+msgstr "verwijder variabele"
+
 msgid "direction"
 msgstr "richting"
+
+msgid "direction:"
+msgstr "richting:"
 
 msgid "don't rotate"
 msgstr "niet draaien"
@@ -190,14 +330,17 @@ msgstr "omlaag"
 msgid "down arrow"
 msgstr "pijltje omlaag"
 
+msgid "Download"
+msgstr "Download"
+
+msgid "Download to your computer"
+msgstr "Naar je computer downloaden"
+
 msgid "Duplicate"
 msgstr "Kopie maken"
 
 msgid "duplicate"
 msgstr "kopie maken"
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr "Kopie maken (Shift: meerdere kopieën)"
 
 msgid "e ^"
 msgstr "e ^"
@@ -205,11 +348,14 @@ msgstr "e ^"
 msgid "edge"
 msgstr "rand"
 
+msgid "edit"
+msgstr "bewerken"
+
 msgid "Edit"
 msgstr "Bewerken"
 
-msgid "edit"
-msgstr "bewerken"
+msgid "Edit Block"
+msgstr "Bewerk blok"
 
 msgid "Effects"
 msgstr "Effecten"
@@ -220,11 +366,17 @@ msgstr "Elektrische gitaar"
 msgid "Electric Piano"
 msgstr "Elektrische piano"
 
-msgid "Ellipse (Shift: Circle)"
-msgstr "Ovaal (Shift: cirkel)"
+msgid "Electronic"
+msgstr "Electronisch"
+
+msgid "Ellipse"
+msgstr "Ovaal"
 
 msgid "Erase"
 msgstr "Wissen"
+
+msgid "Eraser width:"
+msgstr "Gum-breedte:"
 
 msgid "fade in"
 msgstr "fade in"
@@ -232,14 +384,26 @@ msgstr "fade in"
 msgid "fade out"
 msgstr "fade uit"
 
+msgid "Fantasy"
+msgstr "Fantasie"
+
+msgid "Features"
+msgstr "Mogelijkheden"
+
 msgid "File"
 msgstr "Bestand"
 
-msgid "Fill"
-msgstr "Vullen"
+msgid "Fill with color"
+msgstr "Met kleur vullen"
 
 msgid "fisheye"
 msgstr "vissenoog"
+
+msgid "Flip left-right"
+msgstr "Links-rechts omdraaien"
+
+msgid "Flip up-down"
+msgstr "Boven-onder omdraaien"
 
 msgid "floor"
 msgstr "vloer"
@@ -247,14 +411,29 @@ msgstr "vloer"
 msgid "Flute"
 msgstr "Dwarsfluit"
 
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr "Eén laag naar voren (Shift: helemaal naar voren)"
+msgid "Flying"
+msgstr "Vliegen"
+
+msgid "For all sprites"
+msgstr "Voor alle sprites"
+
+msgid "For this sprite only"
+msgstr "Alleen voor deze sprite"
+
+msgid "Forward a layer"
+msgstr "Een laag naar voren"
 
 msgid "ghost"
 msgstr "geest"
 
+msgid "Go to My Stuff"
+msgstr "Ga naar Mijn spullen"
+
 msgid "Group"
 msgstr "Groeperen"
+
+msgid "Grow"
+msgstr "Groeien"
 
 msgid "Guiro"
 msgstr "Güiro"
@@ -265,11 +444,29 @@ msgstr "Gitaar"
 msgid "Hand Clap"
 msgstr "Handenklap"
 
+msgid "hide"
+msgstr "verbergen"
+
 msgid "hour"
 msgstr "uur"
 
+msgid "Human"
+msgstr "Mens"
+
 msgid "Import"
 msgstr "Importeren"
+
+msgid "Importing sound..."
+msgstr "Geluid importeren..."
+
+msgid "Indoors"
+msgstr "Binnen"
+
+msgid "Installing..."
+msgstr "Installeren..."
+
+msgid "Instruments"
+msgstr "Instrumenten"
 
 msgid "last"
 msgstr "laatste"
@@ -289,17 +486,29 @@ msgstr "Bibliotheek"
 msgid "light"
 msgstr "licht"
 
+msgid "limit reached"
+msgstr "limiet bereikt"
+
 msgid "Line"
 msgstr "Lijn"
+
+msgid "Line width:"
+msgstr "Lijn-breedte:"
+
+msgid "list"
+msgstr "lijst"
+
+msgid "List name"
+msgstr "Lijstnaam"
 
 msgid "ln"
 msgstr "ln"
 
+msgid "Loading project..."
+msgstr "Project laden..."
+
 msgid "log"
 msgstr "log"
-
-msgid "login"
-msgstr "inloggen"
 
 msgid "louder"
 msgstr "luider"
@@ -307,11 +516,32 @@ msgstr "luider"
 msgid "loudness"
 msgstr "luidheid"
 
+msgid "Make a Block"
+msgstr "Maak een blok"
+
+msgid "Make a List"
+msgstr "Maak een lijst"
+
+msgid "Make a Variable"
+msgstr "Maak een variabele"
+
 msgid "Marimba"
 msgstr "Marimba"
 
+msgid "Max"
+msgstr "Max"
+
+msgid "meow"
+msgstr "miauw"
+
+msgid "Message Name"
+msgstr "Berichtnaam"
+
 msgid "message1"
 msgstr "bericht1"
+
+msgid "Min"
+msgstr "Min"
 
 msgid "minute"
 msgstr "minuut"
@@ -328,33 +558,69 @@ msgstr "beweging"
 msgid "mouse-pointer"
 msgstr "muisaanwijzer"
 
+msgid "Multiple"
+msgstr "Meerdere"
+
+msgid "Music and Dance"
+msgstr "Muziek en dans"
+
 msgid "Music Box"
 msgstr "Speeldoos"
+
+msgid "Music Loops"
+msgstr "Muziekherhalingen"
+
+msgid "My Stuff"
+msgstr "Mijn spullen"
 
 msgid "myself"
 msgstr "mijzelf"
 
-msgid "New backdrop"
-msgstr "Nieuwe achtergrond"
+msgid "Nature"
+msgstr "Natuur"
 
-msgid "New costume"
-msgstr "Nieuw uiterlijk"
+msgid "New"
+msgstr "Nieuw"
+
+msgid "New backdrop:"
+msgstr "Nieuwe achtergrond:"
+
+# 91%
+msgid "New costume:"
+msgstr "Nieuw uiterlijk:"
+
+msgid "New List"
+msgstr "Nieuwe lijst"
 
 msgid "new message..."
 msgstr "nieuw bericht..."
 
-msgid "New sound"
-msgstr "Nieuw geluid"
+msgid "New name"
+msgstr "Nieuw naam"
 
-# 90%
-msgid "New sprite"
-msgstr "Nieuwe sprite"
+msgid "New sound:"
+msgstr "Nieuw geluid:"
+
+msgid "New sprite:"
+msgstr "Nieuwe sprite:"
+
+msgid "New Variable"
+msgstr "Nieuwe variabele"
 
 msgid "No motion blocks"
 msgstr "Geen beweegblokken"
 
+msgid "Not saved; network or server problem."
+msgstr "Niet opgeslagen; netwerk- of serverprobleem."
+
+msgid "of"
+msgstr "van"
+
 msgid "off"
 msgstr "uit"
+
+msgid "OK"
+msgstr "OK"
 
 msgid "on"
 msgstr "aan"
@@ -368,14 +634,20 @@ msgstr "Cuíca"
 msgid "Open Hi-Hat"
 msgstr "Open Hi-Hat"
 
+msgid "Options"
+msgstr "Opties"
+
 msgid "Organ"
 msgstr "Orgel"
+
+msgid "Other"
+msgstr "Andere"
 
 msgid "other scripts in sprite"
 msgstr "andere scripts in sprite"
 
-msgid "Paint"
-msgstr "Tekenen"
+msgid "Outdoors"
+msgstr "Buiten"
 
 msgid "paste"
 msgstr "plakken"
@@ -383,13 +655,19 @@ msgstr "plakken"
 msgid "Pencil"
 msgstr "Potlood"
 
+msgid "People"
+msgstr "Mensen"
+
+msgid "Percussion"
+msgstr "Slagwerk"
+
 msgid "photo1"
 msgstr "foto1"
 
 msgid "Piano"
 msgstr "Piano"
 
-msgid "Pick up Color"
+msgid "Pick up color"
 msgstr "Kies een kleur"
 
 msgid "pixelate"
@@ -401,6 +679,12 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "plop"
 
+msgid "Profile"
+msgstr "Profiel"
+
+msgid "Project not saved!"
+msgstr "Project niet opgeslagen!"
+
 msgid "random"
 msgstr "willekeurig"
 
@@ -410,14 +694,29 @@ msgstr "Opnemen"
 msgid "recording1"
 msgstr "opname1"
 
-msgid "Rectangle (Shift: Square)"
-msgstr "Rechthoek (Shift: vierkant)"
+msgid "Rectangle"
+msgstr "Rechthoek"
 
 msgid "redo"
 msgstr "opnieuw"
 
+msgid "Redo"
+msgstr "Opnieuw"
+
 msgid "Remix"
 msgstr "Remix"
+
+msgid "Remixing..."
+msgstr "Remixen..."
+
+msgid "Rename"
+msgstr "Andere naam"
+
+msgid "rename variable"
+msgstr "geef variabele andere naam"
+
+msgid "requires sign in"
+msgstr "moet hiervoor ingelogd zijn"
 
 msgid "Reshape"
 msgstr "Opnieuw vormen"
@@ -437,20 +736,57 @@ msgstr "weerstand-D"
 msgid "reverse"
 msgstr "omkeren"
 
+msgid "Revert"
+msgstr "Terugdraaien"
+
+msgid "Reverting..."
+msgstr "Terugdraaien..."
+
 msgid "right"
 msgstr "rechts"
 
 msgid "right arrow"
 msgstr "pijltje naar rechts"
 
+msgid "rotation style:"
+msgstr "draaistijl:"
+
+msgid "Run without screen refresh"
+msgstr "Speel zonder het scherm te verversen"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Save as a copy"
+msgstr "Opslaan als"
+
+msgid "Save now"
+msgstr "Nu opslaan"
+
+msgid "save to local file"
+msgstr "opslaan naar lokaal bestand"
+
+msgid "Saved"
+msgstr "Opgeslagen"
+
+msgid "Saving changes..."
+msgstr "Veranderingen opslaan..."
+
+msgid "Saving..."
+msgstr "Opslaan..."
+
 msgid "Saxophone"
 msgstr "Saxofoon"
 
-msgid "Scratch Cat"
-msgstr "Scratch kat"
+msgid "Script"
+msgstr "Script"
 
 msgid "Scripts"
 msgstr "Scripts"
+
+# 87%
+msgid "Scripts:"
+msgstr "Scripts:"
 
 msgid "second"
 msgstr "seconde"
@@ -464,6 +800,15 @@ msgstr "Selecteer"
 msgid "select all"
 msgstr "alles selecteren"
 
+msgid "Select and duplicate"
+msgstr "Selecteer en maak kopie"
+
+msgid "Send to back"
+msgstr "Naar achtergrond"
+
+msgid "Set costume center"
+msgstr "Middelpunt van uiterlijk bepalen"
+
 msgid "Set Costume Center"
 msgstr "Middelpunt van uiterlijk bepalen"
 
@@ -473,14 +818,35 @@ msgstr "Delen"
 msgid "shared"
 msgstr "gedeeld"
 
+msgid "Shift:"
+msgstr "Verschuiven:"
+
+msgid "show"
+msgstr "toon"
+
 msgid "show receivers"
 msgstr "ontvangers weergeven"
 
 msgid "show senders"
 msgstr "zenders weergeven"
 
+msgid "show:"
+msgstr "toon:"
+
+msgid "Shrink"
+msgstr "Kleiner maken"
+
 msgid "Side Stick"
 msgstr "Randklap"
+
+msgid "Sign in"
+msgstr "Log in"
+
+msgid "Sign in to save"
+msgstr "Log in om op te slaan"
+
+msgid "Sign out"
+msgstr "Afmelden"
 
 msgid "silence"
 msgstr "stilte"
@@ -494,20 +860,51 @@ msgstr "grootte"
 msgid "slider"
 msgstr "schuif"
 
+msgid "Slider Range"
+msgstr "Schuifbereik"
+
+msgid "Small stage layout"
+msgstr "Klein speelveld"
+
+msgid "Smooth"
+msgstr "Zacht"
+
 msgid "Snare Drum"
 msgstr "Kleine trom"
 
 msgid "softer"
 msgstr "zachter"
 
+# 80%
+msgid "Sound"
+msgstr "Geluid"
+
 msgid "sound"
 msgstr "geluid"
+
+msgid "Sound Library"
+msgstr "Geluidenbibliotheek"
+
+msgid "Sounds"
+msgstr "Geluiden"
 
 msgid "space"
 msgstr "spatiebalk"
 
+msgid "Space"
+msgstr "Spatiebalk"
+
+msgid "Sports"
+msgstr "Sport"
+
 msgid "Sprite"
 msgstr "Sprite"
+
+msgid "Sprite Library"
+msgstr "Spritebibliotheek"
+
+msgid "Sprite1"
+msgstr "Sprite1"
 
 msgid "Sprites"
 msgstr "Sprites"
@@ -515,14 +912,20 @@ msgstr "Sprites"
 msgid "sqrt"
 msgstr "wortel"
 
+msgid "Square"
+msgstr "Vierkant"
+
 msgid "Stage"
 msgstr "Speelveld"
 
-msgid "Stage selected"
-msgstr "Geselecteerd speelveld"
+msgid "Stage selected:"
+msgstr "Geselecteerd speelveld:"
 
 msgid "Steel Drum"
 msgstr "Steeldrum"
+
+msgid "stored on server"
+msgstr "opgeslagen op server"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -542,6 +945,23 @@ msgstr "Tekst"
 msgid "that way"
 msgstr "daarheen"
 
+msgid "Theme"
+msgstr "Thema"
+
+msgid "Things"
+msgstr "Voorwerpen"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr ""
+"Dit project houdt bij wie het gebruikt, door het 'gebruikersnaam'-blok. Wil "
+"je je identiteit verbergen, log dan eerst uit voor dat je dit project "
+"gebruikt."
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+"Dit project gebruikt Cloud-data ‒ een mogelijkheid die beschikbaar is voor "
+"ingelogde gebruikers."
+
 msgid "this script"
 msgstr "dit script"
 
@@ -551,9 +971,12 @@ msgstr "deze sprite"
 msgid "this way"
 msgstr "hierheen"
 
+msgid "Throw away all changes since opening this project?"
+msgstr "Wil je alle veranderingen weggooien die je gemaakt hebt?"
+
 # of teller?
 msgid "timer"
-msgstr "tijd"
+msgstr "teller"
 
 msgid "Tips"
 msgstr "Tips"
@@ -563,17 +986,38 @@ msgstr ""
 "Om een blokdefinitie te verwijderen, moet je eerst zorgen dat het nergens "
 "meer wordt gebruikt."
 
+msgid "Transportation"
+msgstr "Vervoer"
+
 msgid "Triangle"
 msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Trombone"
 
+msgid "Turbo mode"
+msgstr "Turbomodus"
+
 msgid "Turbo Mode"
 msgstr "Turbomodus"
 
+msgid "Type"
+msgstr "Type"
+
+msgid "Undelete"
+msgstr "Ongedaan maken"
+
+msgid "Underwater"
+msgstr "Onder water"
+
+msgid "Undo"
+msgstr "Ongedaan maken"
+
 msgid "undo"
 msgstr "ongedaan maken"
+
+msgid "Undo Revert"
+msgstr "Terugdraaien ongedaan maken"
 
 msgid "Ungroup"
 msgstr "Groep opheffen"
@@ -587,6 +1031,30 @@ msgstr "omhoog"
 msgid "up arrow"
 msgstr "pijltje omhoog"
 
+msgid "Upload from your computer"
+msgstr "Uploaden vanaf je computer"
+
+msgid "Uploading image..."
+msgstr "Afbeelding uploaden..."
+
+msgid "Uploading sound..."
+msgstr "Geluid uploaden..."
+
+msgid "Uploading sprite..."
+msgstr "Sprite uploaden..."
+
+msgid "variable"
+msgstr "variabele"
+
+msgid "Variable name"
+msgstr "Variabele-naam"
+
+msgid "Vector"
+msgstr "Vector"
+
+msgid "Vector Mode"
+msgstr "Vector-modus"
+
 msgid "Vibraphone"
 msgstr "Vibrafoon"
 
@@ -596,8 +1064,23 @@ msgstr "Vibraslap"
 msgid "video motion"
 msgstr "videobeweging"
 
+msgid "Video on:"
+msgstr "Video op:"
+
+msgid "Vocals"
+msgstr "Stemmen"
+
 msgid "volume"
 msgstr "volume"
+
+msgid "Walking"
+msgstr "Lopen"
+
+msgid "Want to save? Click remix"
+msgstr "Wil je opslaan? Klik op remix"
+
+msgid "Which column do you want to import"
+msgstr "Welke kolom wil je importeren"
 
 msgid "whirl"
 msgstr "draaikolk"
@@ -617,6 +1100,66 @@ msgstr "y-positie"
 msgid "year"
 msgstr "jaar"
 
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+"Je kunt geen clouddata van iemand anders veranderen.<br>Elke verandering die "
+"je maakt in de editor is tijdelijk en wordt niet bewaard."
+
+#~ msgid "Add a boolean input:"
+#~ msgstr "Voeg boolean-veld toe:"
+
+#~ msgid "Add a number input:"
+#~ msgstr "Voeg getalveld toe:"
+
+#~ msgid "Add a string input:"
+#~ msgstr "Voeg tekstvak toe:"
+
+#~ msgid "Back a layer (Shift: Send to back)"
+#~ msgstr "Eén laag naar beneden (Shift: helemaal naar achteren)"
+
+#~ msgid "Duplicate (Shift: Multiple)"
+#~ msgstr "Kopie maken (Shift: meerdere kopieën)"
+
+#~ msgid "Ellipse (Shift: Circle)"
+#~ msgstr "Ovaal (Shift: cirkel)"
+
+#~ msgid "Fill"
+#~ msgstr "Vullen"
+
+#~ msgid "Forward a layer (Shift: Bring to front)"
+#~ msgstr "Eén laag naar voren (Shift: helemaal naar voren)"
+
+#~ msgid "login"
+#~ msgstr "inloggen"
+
+#~ msgid "New backdrop"
+#~ msgstr "Nieuwe achtergrond"
+
+#~ msgid "New costume"
+#~ msgstr "Nieuw uiterlijk"
+
+#~ msgid "New sound"
+#~ msgstr "Nieuw geluid"
+
+# 90%
+#~ msgid "New sprite"
+#~ msgstr "Nieuwe sprite"
+
+#~ msgid "Paint"
+#~ msgstr "Tekenen"
+
+#~ msgid "Pick up Color"
+#~ msgstr "Kies een kleur"
+
+#~ msgid "Rectangle (Shift: Square)"
+#~ msgstr "Rechthoek (Shift: vierkant)"
+
+#~ msgid "Scratch Cat"
+#~ msgstr "Scratch kat"
+
+#~ msgid "Stage selected"
+#~ msgstr "Geselecteerd speelveld"
+
 #~ msgid "#"
 #~ msgstr "#"
 
@@ -631,12 +1174,6 @@ msgstr "jaar"
 
 #~ msgid "name"
 #~ msgstr "naam"
-
-#~ msgid "New"
-#~ msgstr "Nieuw"
-
-#~ msgid "New sprite:"
-#~ msgstr "Nieuwe sprite:"
 
 #~ msgid "say"
 #~ msgstr "zeg"

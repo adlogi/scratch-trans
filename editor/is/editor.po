@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:48+0200\n"
-"PO-Revision-Date: 2013-02-11 10:48+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"POT-Creation-Date: 2013-04-26 00:15+0200\n"
+"PO-Revision-Date: 2013-04-30 12:54+0200\n"
+"Last-Translator: Stefan Einar <stefaneinar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
@@ -14,91 +14,145 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 
 msgid "10 ^"
+msgstr "10 ^"
+
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Upplýsingar um breytur í Skýinu</b><br>&nbsp;<br>Eins og er þá má aðeins "
+"nota tölur<br>Spjallherbergi eru ekki leyfileg og verða fjarlægð<br>Frekari "
+"upplýsingar er að finna á, <a href= target=>see the cloud data FAQ!</a>"
 
 msgid "A connected"
-msgstr ""
+msgstr "A tengt"
+
+msgid "a copy of the project file on your computer."
+msgstr "afrit af verkefninu á tölvunni þinni."
 
 msgid "abs"
 msgstr "abs"
 
+msgid "Account settings"
+msgstr "Stillingar reiknings"
+
 msgid "acos"
-msgstr ""
+msgstr "acos"
 
-msgid "Add a boolean input:"
-msgstr ""
-
-msgid "Add a number input:"
-msgstr ""
-
-msgid "Add a string input:"
-msgstr ""
+msgid "Add boolean input:"
+msgstr "Skrá rökfræðifasta:"
 
 msgid "add comment"
-msgstr ""
+msgstr "skrá athugasemd"
 
 msgid "Add label text:"
-msgstr ""
+msgstr "Skrá merki texta:"
+
+msgid "Add number input:"
+msgstr "Skrá tölu:"
+
+msgid "Add string input:"
+msgstr "Skrá streng:"
 
 msgid "all"
 msgstr "öllu"
 
+msgid "All"
+msgstr "Allt"
+
 msgid "all around"
-msgstr ""
+msgstr "allt í kring"
+
+msgid "Animal"
+msgstr "Dýr"
+
+msgid "Animals"
+msgstr "Dýr"
 
 msgid "asin"
-msgstr ""
+msgstr "asin"
+
+msgid "assets loaded"
+msgstr "aðföng sótt"
 
 msgid "atan"
-msgstr ""
+msgstr "atan"
 
 msgid "B connected"
-msgstr ""
+msgstr "B tengdur"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr ""
+msgid "Back a layer"
+msgstr "Aftur um lag"
 
 msgid "backdrop"
-msgstr ""
+msgstr "bakgrunnur"
+
+msgid "Backdrop"
+msgstr "Bakgrunnur"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "bakgrunnur #"
+
+msgid "Backdrop Library"
+msgstr "Safn bakgrunna"
 
 msgid "backdrop name"
-msgstr ""
+msgstr "heiti bakgrunns"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "bakgrunnur1"
 
 msgid "backdrops"
-msgstr ""
+msgstr "bakgrunnar"
+
+msgid "Backdrops"
+msgstr "Bakgrunnar"
 
 msgid "Backpack"
-msgstr ""
+msgstr "Bakpoki"
 
 msgid "Bass"
-msgstr ""
+msgstr "Bassi"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Bassatromma"
 
 msgid "Bassoon"
 msgstr "Fagott"
 
+msgid "Bitmap"
+msgstr "Teikning"
+
+msgid "Bitmap Mode"
+msgstr "Hamur myndar"
+
+msgid "Block help"
+msgstr "Blokk aðstoð"
+
 msgid "Bongo"
-msgstr ""
+msgstr "Bongótrommur"
 
 msgid "brightness"
 msgstr "birtustig"
+
+msgid "Bring to front"
+msgstr "Sækja fremst"
+
+msgid "Broadcast"
+msgstr "Útvarpa"
+
+msgid "Brush"
+msgstr "Bursti"
 
 msgid "button pressed"
 msgstr "hnapp sem er niðri"
 
 msgid "by"
-msgstr ""
+msgstr "eftir"
+
+msgid "bytes loaded"
+msgstr "bæti sótt"
 
 msgid "C connected"
-msgstr ""
+msgstr "C tengt"
 
 msgid "Cabasa"
 msgstr "Cabasa"
@@ -106,17 +160,38 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Myndavél"
 
+msgid "can drag in player:"
+msgstr "má draga í spilara:"
+
+msgid "Cancel"
+msgstr "Hætta við"
+
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Get ekki eytt"
+
+msgid "Can’t find network connection or reach server."
+msgstr "Nettenging óvirk eða samband næst ekki við miðlara."
+
+msgid "Castle"
+msgstr "Kastali"
+
+msgid "Category"
+msgstr "Flokkur"
 
 msgid "ceiling"
-msgstr ""
+msgstr "loft"
 
 msgid "Cello"
 msgstr "Selló"
 
 msgid "Choir"
-msgstr ""
+msgstr "Kór"
+
+msgid "Circle"
+msgstr "Hringur"
+
+msgid "City"
+msgstr "Borg"
 
 msgid "Clarinet"
 msgstr "Klarinet"
@@ -124,35 +199,83 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Taktstangir"
 
+msgid "Clear"
+msgstr "Hreinsa"
+
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "hreinsa senda/móttakara"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Smelltu til að reyna aftur eða til að vista"
+
+msgid "Close"
+msgstr "Loka"
 
 msgid "Closed Hi-Hat"
 msgstr "Lokað Hi-Hat"
 
+msgid "Cloud"
+msgstr "Ský"
+
+msgid "Cloud data"
+msgstr "Gögn í Skýi"
+
 msgid "color"
 msgstr "litur"
 
+msgid "Color a shape"
+msgstr "Lita form"
+
 msgid "Conga"
-msgstr ""
+msgstr "Konga"
+
+msgid "Connecting to Cloud data server..."
+msgstr "Tengist gagnamiðlara í Skýinu..."
+
+msgid "Convert to bitmap"
+msgstr "Breyti í mynd"
+
+msgid "Convert to vector"
+msgstr "Breyta í vigur"
+
+msgid "Converting mp3..."
+msgstr "Breyti mp3..."
 
 msgid "copy"
-msgstr "Afrita"
+msgstr "afrita"
+
+msgid "Copying..."
+msgstr "Afrita..."
 
 msgid "cos"
-msgstr ""
+msgstr "cos"
+
+msgid "Costume"
+msgstr "Búningur"
 
 msgid "costume #"
-msgstr ""
+msgstr "búningur #"
+
+msgid "Costume Library"
+msgstr "Búningasafn"
 
 msgid "costume name"
-msgstr ""
+msgstr "heiti búnings"
 
 msgid "costume1"
-msgstr ""
+msgstr "búningur1"
 
 msgid "costume2"
-msgstr ""
+msgstr "búningur2"
+
+msgid "Costumes"
+msgstr "Búningar"
+
+msgid "Costumes > 1"
+msgstr "Búningar > 1"
+
+msgid "Costumes:"
+msgstr "Búningar:"
 
 msgid "Cowbell"
 msgstr "Kúabjalla"
@@ -160,26 +283,42 @@ msgstr "Kúabjalla"
 msgid "Crash Cymbal"
 msgstr ""
 
+msgid "Creating..."
+msgstr "Smíða..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "Að svo stöddu er aðeins hægt að skrá talnabreytur í Skýið."
+
 msgid "cut"
-msgstr ""
+msgstr "klippa"
 
 msgid "D connected"
-msgstr ""
+msgstr "D tengt"
 
 msgid "date"
-msgstr ""
+msgstr "dagsetning"
 
 msgid "day of week"
-msgstr ""
+msgstr "dagur viku"
+
+# 83%
+msgid "Delete"
+msgstr "Eyða"
 
 msgid "delete"
 msgstr "eyða"
 
+msgid "delete variable"
+msgstr "eyða breytu"
+
 msgid "direction"
-msgstr ""
+msgstr "stefna"
+
+msgid "direction:"
+msgstr "stefna:"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "ekki snúa"
 
 msgid "down"
 msgstr "niður"
@@ -187,41 +326,53 @@ msgstr "niður"
 msgid "down arrow"
 msgstr "ör niður"
 
+msgid "Download"
+msgstr "Sækja"
+
+msgid "Download to your computer"
+msgstr "Hala niður á tölvuna þína"
+
 msgid "Duplicate"
 msgstr "tvöfalda"
 
 msgid "duplicate"
 msgstr "tvöfalda"
 
-msgid "Duplicate (Shift: Multiple)"
-msgstr ""
-
 msgid "e ^"
-msgstr ""
+msgstr "e ^"
 
 msgid "edge"
 msgstr "jaðar"
 
+msgid "edit"
+msgstr "breyta"
+
 msgid "Edit"
 msgstr "Breyta"
 
-msgid "edit"
-msgstr "Breyta"
+msgid "Edit Block"
+msgstr "Breyta blokk"
 
 msgid "Effects"
-msgstr ""
+msgstr "Effektar"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Rafmagnsgítar"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Rafmagnspíanó"
 
-msgid "Ellipse (Shift: Circle)"
-msgstr ""
+msgid "Electronic"
+msgstr "Rafrænt"
+
+msgid "Ellipse"
+msgstr "Sporbaugur"
 
 msgid "Erase"
-msgstr ""
+msgstr "Eyða"
+
+msgid "Eraser width:"
+msgstr "Þvermál strokleðurs:"
 
 msgid "fade in"
 msgstr ""
@@ -229,44 +380,89 @@ msgstr ""
 msgid "fade out"
 msgstr ""
 
-msgid "File"
-msgstr ""
+msgid "Fantasy"
+msgstr "Ævintýri"
 
-msgid "Fill"
-msgstr ""
+msgid "Features"
+msgstr "Kostir"
+
+msgid "File"
+msgstr "Skrá"
+
+msgid "Fill with color"
+msgstr "Fylla með lit"
 
 msgid "fisheye"
 msgstr "fiskauga"
 
+msgid "Flip left-right"
+msgstr "Flippa vinstri/hægri"
+
+msgid "Flip up-down"
+msgstr "Flippa upp/niður"
+
 msgid "floor"
-msgstr ""
+msgstr "gólf"
 
 msgid "Flute"
 msgstr "Flauta"
 
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr ""
+msgid "Flying"
+msgstr "Fljúgandi"
+
+msgid "For all sprites"
+msgstr "Fyrir allar teikningar"
+
+msgid "For this sprite only"
+msgstr "Aðeins fyrir þessa teikningu"
+
+msgid "Forward a layer"
+msgstr "Fram um lag"
 
 msgid "ghost"
 msgstr "draugur"
 
+msgid "Go to My Stuff"
+msgstr "Dótið mitt"
+
 msgid "Group"
-msgstr ""
+msgstr "Hópur"
+
+msgid "Grow"
+msgstr "Stækka"
 
 msgid "Guiro"
-msgstr ""
+msgstr "Guiro"
 
 msgid "Guitar"
-msgstr ""
+msgstr "Gítar"
 
 msgid "Hand Clap"
 msgstr "Klapp"
 
+msgid "hide"
+msgstr "fela"
+
 msgid "hour"
-msgstr ""
+msgstr "klst"
+
+msgid "Human"
+msgstr "Mannvera"
 
 msgid "Import"
 msgstr "sækja"
+
+msgid "Importing sound..."
+msgstr "Sæki hljóð..."
+
+msgid "Indoors"
+msgstr "Innandyra"
+
+msgid "Installing..."
+msgstr "Uppfæri..."
+
+msgid "Instruments"
+msgstr "Hljóðfæri"
 
 msgid "last"
 msgstr "síðasta"
@@ -278,81 +474,149 @@ msgid "left arrow"
 msgstr "ör vinstri"
 
 msgid "left-right"
-msgstr ""
+msgstr "hægri/vinstri"
 
 msgid "Library"
-msgstr ""
+msgstr "Safn"
 
 msgid "light"
 msgstr "ljós"
 
+msgid "limit reached"
+msgstr "marki náð"
+
 msgid "Line"
-msgstr ""
+msgstr "Lína"
+
+msgid "Line width:"
+msgstr "Linubreidd:"
+
+# 75%
+msgid "list"
+msgstr "listi"
+
+msgid "List name"
+msgstr "Heiti lista"
 
 msgid "ln"
-msgstr ""
+msgstr "ln"
+
+msgid "Loading project..."
+msgstr "Hleð inn verkefni..."
 
 msgid "log"
-msgstr ""
-
-msgid "login"
-msgstr ""
+msgstr "log"
 
 msgid "louder"
-msgstr ""
+msgstr "hærra"
 
 msgid "loudness"
-msgstr ""
+msgstr "hljóðstyrkur"
+
+msgid "Make a Block"
+msgstr "Smíða blokk"
+
+msgid "Make a List"
+msgstr "Smíða lista"
+
+msgid "Make a Variable"
+msgstr "Smíða breytu"
 
 msgid "Marimba"
 msgstr "Marimba"
 
+msgid "Max"
+msgstr "Max"
+
+msgid "meow"
+msgstr "mjá"
+
+msgid "Message Name"
+msgstr "Heiti skilaboða"
+
 msgid "message1"
-msgstr ""
+msgstr "skilaboð1"
+
+msgid "Min"
+msgstr "Min"
 
 msgid "minute"
-msgstr ""
+msgstr "mínúta"
 
 msgid "month"
-msgstr ""
+msgstr "mánuður"
 
 msgid "mosaic"
 msgstr "mósaík"
 
 msgid "motion"
-msgstr ""
+msgstr "hreyfing"
 
 msgid "mouse-pointer"
 msgstr "músarbendill"
 
+msgid "Multiple"
+msgstr ""
+
+msgid "Music and Dance"
+msgstr "Tónlist og dans"
+
 msgid "Music Box"
 msgstr "Spiladós"
 
+msgid "Music Loops"
+msgstr "Tónlistarlykkjur"
+
+msgid "My Stuff"
+msgstr "Dótið mitt"
+
 msgid "myself"
-msgstr ""
+msgstr "ég sjálfur"
 
-msgid "New backdrop"
-msgstr ""
+msgid "Nature"
+msgstr "Náttúra"
 
-msgid "New costume"
-msgstr ""
+msgid "New"
+msgstr "Nýtt"
+
+msgid "New backdrop:"
+msgstr "Nýr bakgrunnur"
+
+msgid "New costume:"
+msgstr "Nýr búningur:"
+
+msgid "New List"
+msgstr "Nýr listi"
 
 msgid "new message..."
-msgstr ""
+msgstr "ný skilaboð..."
 
-msgid "New sound"
-msgstr ""
+msgid "New name"
+msgstr "Nýtt nafn"
 
-# 90%
-#, fuzzy
-msgid "New sprite"
+msgid "New sound:"
+msgstr "Nýtt hljóð:"
+
+msgid "New sprite:"
 msgstr "Ný teikning:"
 
+msgid "New Variable"
+msgstr "Ný breyta"
+
 msgid "No motion blocks"
-msgstr ""
+msgstr "Engar hreyfiblokkir"
+
+msgid "Not saved; network or server problem."
+msgstr "Ekki vistað. Net- eða miðlaravandamál."
+
+msgid "of"
+msgstr "af"
 
 msgid "off"
 msgstr "Af"
+
+msgid "OK"
+msgstr "Í lagi"
 
 msgid "on"
 msgstr "Á"
@@ -366,74 +630,114 @@ msgstr "Opin cuica"
 msgid "Open Hi-Hat"
 msgstr "Opið hi-hat"
 
+msgid "Options"
+msgstr "Val"
+
 msgid "Organ"
-msgstr ""
+msgstr "Orgel"
+
+msgid "Other"
+msgstr "Annað"
 
 msgid "other scripts in sprite"
-msgstr ""
+msgstr "aðrar stefjur í teikningu"
 
-msgid "Paint"
-msgstr "Mála"
+msgid "Outdoors"
+msgstr "Utandyra"
 
 msgid "paste"
-msgstr ""
+msgstr "líma"
 
 msgid "Pencil"
-msgstr ""
+msgstr "Blýantur"
+
+msgid "People"
+msgstr "Fólk"
+
+msgid "Percussion"
+msgstr "Ásláttur"
 
 msgid "photo1"
-msgstr ""
+msgstr "mynd1"
 
 msgid "Piano"
-msgstr ""
+msgstr "Píanó"
 
-msgid "Pick up Color"
-msgstr ""
+msgid "Pick up color"
+msgstr "Velja lit"
 
 msgid "pixelate"
 msgstr "punktgera"
 
 msgid "Pizzicato"
-msgstr ""
+msgstr "Pizzicato"
 
 msgid "pop"
 msgstr "popp"
 
+msgid "Profile"
+msgstr "Yfirlit"
+
+msgid "Project not saved!"
+msgstr "Verkefni ekki vistað!"
+
 msgid "random"
-msgstr ""
+msgstr "slembi"
 
 msgid "Record"
 msgstr "taka upp"
 
 msgid "recording1"
-msgstr ""
+msgstr "upptaka1"
 
-msgid "Rectangle (Shift: Square)"
-msgstr ""
+msgid "Rectangle"
+msgstr "Ferhyrningur"
 
 msgid "redo"
 msgstr "Framkalla"
 
+# 75%
+msgid "Redo"
+msgstr "Framkalla"
+
 msgid "Remix"
-msgstr ""
+msgstr "Endurblanda"
+
+msgid "Remixing..."
+msgstr "Endurblanda..."
+
+msgid "Rename"
+msgstr "Endurskýra"
+
+msgid "rename variable"
+msgstr "Endurskýra breytu"
+
+msgid "requires sign in"
+msgstr "þarfnast innskráningar"
 
 msgid "Reshape"
-msgstr ""
+msgstr "Ummynda"
 
 msgid "resistance-A"
-msgstr ""
+msgstr "viðnám-A"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "viðnám-B"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "viðnám-C"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "viðnám-D"
 
 msgid "reverse"
 msgstr "afturábak"
+
+msgid "Revert"
+msgstr "Endurstilla"
+
+msgid "Reverting..."
+msgstr "Endurstilli..."
 
 msgid "right"
 msgstr "hægri"
@@ -441,73 +745,165 @@ msgstr "hægri"
 msgid "right arrow"
 msgstr "ör hægri"
 
-msgid "Saxophone"
-msgstr ""
+msgid "rotation style:"
+msgstr "snúningsgerð:"
 
-msgid "Scratch Cat"
-msgstr ""
+msgid "Run without screen refresh"
+msgstr "Keyra án þess að uppfæra skjámynd"
+
+msgid "Save"
+msgstr "Vista"
+
+msgid "Save as a copy"
+msgstr "Vista sem afrit"
+
+msgid "Save now"
+msgstr "Vista núna"
+
+msgid "save to local file"
+msgstr "vista í staðbundna skrá"
+
+msgid "Saved"
+msgstr "Vistað"
+
+msgid "Saving changes..."
+msgstr "Vista breytingar..."
+
+msgid "Saving..."
+msgstr "Vista..."
+
+msgid "Saxophone"
+msgstr "Saxófón"
+
+msgid "Script"
+msgstr "Stefja"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Stefjur"
+
+msgid "Scripts:"
+msgstr "Stefjur:"
 
 msgid "second"
-msgstr ""
+msgstr "sekúnda"
 
 msgid "See project page"
-msgstr ""
+msgstr "Sjá verkefnissíðu"
 
 msgid "Select"
-msgstr ""
+msgstr "Velja"
 
 msgid "select all"
-msgstr ""
+msgstr "velja allt"
+
+msgid "Select and duplicate"
+msgstr "Velja og tvífalda"
+
+msgid "Send to back"
+msgstr "Senda aftur"
+
+msgid "Set costume center"
+msgstr "Stilla búningamiðstöð"
 
 msgid "Set Costume Center"
-msgstr ""
+msgstr "Stilla Búningamiðstöð"
 
 msgid "Share"
-msgstr ""
+msgstr "Deila"
 
 msgid "shared"
-msgstr ""
+msgstr "deilt"
+
+msgid "Shift:"
+msgstr "Hliðra:"
+
+msgid "show"
+msgstr "sýna"
 
 msgid "show receivers"
-msgstr ""
+msgstr "sýna móttakara"
 
 msgid "show senders"
-msgstr ""
+msgstr "sýna senda"
+
+msgid "show:"
+msgstr "sýna:"
+
+msgid "Shrink"
+msgstr "Draga saman"
 
 msgid "Side Stick"
 msgstr "Hliðarprik"
 
+msgid "Sign in"
+msgstr "Innskrá"
+
+msgid "Sign in to save"
+msgstr "Innskrá og vista"
+
+msgid "Sign out"
+msgstr "Útskrá"
+
 msgid "silence"
-msgstr ""
+msgstr "þögn"
 
 msgid "sin"
-msgstr ""
+msgstr "sin"
 
 msgid "size"
-msgstr ""
+msgstr "stærð"
 
 msgid "slider"
 msgstr "renna"
+
+msgid "Slider Range"
+msgstr ""
+
+msgid "Small stage layout"
+msgstr "Högun minna leiksviðs"
+
+msgid "Smooth"
+msgstr "Fágað"
 
 msgid "Snare Drum"
 msgstr ""
 
 msgid "softer"
-msgstr ""
+msgstr "mýkra"
+
+msgid "Sound"
+msgstr "Hljóð"
 
 msgid "sound"
-msgstr ""
+msgstr "hljóð"
+
+msgid "Sound Library"
+msgstr "Hljóðsafn"
+
+msgid "Sounds"
+msgstr "Hljóð"
 
 msgid "space"
 msgstr "bilslá"
 
+# 80%
+msgid "Space"
+msgstr "Bilslá"
+
+msgid "Sports"
+msgstr "Íþróttir"
+
 # 85%
-#, fuzzy
 msgid "Sprite"
-msgstr "Teikningar"
+msgstr "Teikning"
+
+msgid "Sprite Library"
+msgstr "Teikningasafn"
+
+# 85%
+# 85%
+msgid "Sprite1"
+msgstr "Teikning1"
 
 msgid "Sprites"
 msgstr "Teikningar"
@@ -515,17 +911,23 @@ msgstr "Teikningar"
 msgid "sqrt"
 msgstr "sqrt"
 
+msgid "Square"
+msgstr "Ferningur"
+
 msgid "Stage"
 msgstr "Svið"
 
-msgid "Stage selected"
-msgstr ""
+msgid "Stage selected:"
+msgstr "Leiksvið valið:"
 
 msgid "Steel Drum"
-msgstr ""
+msgstr "Stáltromma"
+
+msgid "stored on server"
+msgstr "vistað á miðlara"
 
 msgid "Synth Lead"
-msgstr ""
+msgstr "Hljóðgervill aðal"
 
 msgid "Synth Pad"
 msgstr ""
@@ -534,55 +936,124 @@ msgid "Tambourine"
 msgstr "Tambúrína"
 
 msgid "tan"
-msgstr ""
+msgstr "tan"
 
 msgid "Text"
-msgstr ""
+msgstr "Texti"
 
 msgid "that way"
 msgstr "hina leiðina"
 
-msgid "this script"
+msgid "Theme"
+msgstr "Þema"
+
+msgid "Things"
+msgstr "Hlutir"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
+"Þetta verkefni getur komist að því hver þú ert, í gegnum \"notandanafns\" "
+"blokkina. Ef þú óskar eftir nafnleynd þá ættirðu að skrá þig út fyrir notkun "
+"á verkefni."
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+"Þetta verkefni vistar gögn í Skýinu. Þessi kostur er aðeineins aðgengilegur "
+"innskráðum notendum."
+
+msgid "this script"
+msgstr "þessi stefja"
 
 msgid "this sprite"
-msgstr ""
+msgstr "þessi teikning"
 
 msgid "this way"
 msgstr "þessa leið"
 
-msgid "timer"
+msgid "Throw away all changes since opening this project?"
 msgstr ""
+"Á að henda öllum breytingum sem til hafa orðið í verkefninu frá því það var "
+"opnað?"
+
+msgid "timer"
+msgstr "skeiðklukka"
 
 msgid "Tips"
-msgstr ""
+msgstr "Ábendingar"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr ""
+msgstr "Þessari blokk verður ekki eytt fyrr en ekkert annað reiðir sig á hana."
+
+msgid "Transportation"
+msgstr "Flutningar"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Þríhyrningur"
 
 msgid "Trombone"
 msgstr "Básúna"
 
+msgid "Turbo mode"
+msgstr "Snögghamur"
+
 msgid "Turbo Mode"
-msgstr ""
+msgstr "Snögghamur"
+
+msgid "Type"
+msgstr "Tegund"
+
+# 75%
+msgid "Undelete"
+msgstr "Afeyða"
+
+msgid "Underwater"
+msgstr "Neðansjávar"
+
+# 75%
+msgid "Undo"
+msgstr "Afturkalla"
 
 msgid "undo"
 msgstr "Afturkalla"
 
+msgid "Undo Revert"
+msgstr "Afturkalla endurstillingu"
+
 msgid "Ungroup"
-msgstr ""
+msgstr "Leysa upp hóp"
 
 msgid "unshared"
-msgstr ""
+msgstr "afdeila"
 
 msgid "up"
 msgstr "upp"
 
 msgid "up arrow"
 msgstr "ör upp"
+
+msgid "Upload from your computer"
+msgstr "Senda frá tölvunni þinni"
+
+msgid "Uploading image..."
+msgstr "Senda mynd..."
+
+msgid "Uploading sound..."
+msgstr "Senda hljóð..."
+
+msgid "Uploading sprite..."
+msgstr "Senda teikningu..."
+
+msgid "variable"
+msgstr "breyta"
+
+msgid "Variable name"
+msgstr "Breytuheiti"
+
+msgid "Vector"
+msgstr "Vigur"
+
+msgid "Vector Mode"
+msgstr "Vigurgerð"
 
 msgid "Vibraphone"
 msgstr "Víbrafónn"
@@ -591,35 +1062,56 @@ msgid "Vibraslap"
 msgstr "Víbrastrengur"
 
 msgid "video motion"
-msgstr ""
+msgstr "hreyfimynd"
+
+msgid "Video on:"
+msgstr "Hreyfimynd á:"
+
+msgid "Vocals"
+msgstr "Raddir"
 
 msgid "volume"
-msgstr ""
+msgstr "hljóðstyrkur"
+
+msgid "Walking"
+msgstr "Ganga"
+
+msgid "Want to save? Click remix"
+msgstr "Viltu vista? Smelltu á endurblanda"
+
+msgid "Which column do you want to import"
+msgstr "Hvaða dálk viltu sækja"
 
 msgid "whirl"
 msgstr "þyrla"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Viðarblokk"
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Tréflauta"
 
 msgid "x position"
-msgstr ""
+msgstr "x hnit"
 
 msgid "y position"
-msgstr ""
+msgstr "y hnit"
 
 msgid "year"
+msgstr "ár"
+
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
+"Þú getur ekki breytt gögnum í Skýinu sem eru hluti af verkefnum "
+"annara.<br>Breytingar sem þú gerir verða aðeins tímabundnar."
 
+# 90%
 #, fuzzy
-#~ msgid "New"
-#~ msgstr "Nouveau"
-
-#~ msgid "New sprite:"
+#~ msgid "New sprite"
 #~ msgstr "Ný teikning:"
+
+#~ msgid "Paint"
+#~ msgstr "Mála"
 
 #~ msgid "any"
 #~ msgstr "eitthvert"

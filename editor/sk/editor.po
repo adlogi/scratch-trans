@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:49+0200\n"
-"PO-Revision-Date: 2013-02-11 10:49+0200\n"
+"POT-Creation-Date: 2013-04-26 00:17+0200\n"
+"PO-Revision-Date: 2013-04-26 00:17+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
@@ -16,22 +16,25 @@ msgstr ""
 msgid "10 ^"
 msgstr ""
 
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+
 msgid "A connected"
+msgstr ""
+
+msgid "a copy of the project file on your computer."
 msgstr ""
 
 msgid "abs"
 msgstr "abs"
 
+msgid "Account settings"
+msgstr ""
+
 msgid "acos"
 msgstr ""
 
-msgid "Add a boolean input:"
-msgstr ""
-
-msgid "Add a number input:"
-msgstr ""
-
-msgid "Add a string input:"
+msgid "Add boolean input:"
 msgstr ""
 
 msgid "add comment"
@@ -40,13 +43,31 @@ msgstr ""
 msgid "Add label text:"
 msgstr ""
 
+msgid "Add number input:"
+msgstr ""
+
+msgid "Add string input:"
+msgstr ""
+
 msgid "all"
 msgstr "všetko"
+
+msgid "All"
+msgstr ""
 
 msgid "all around"
 msgstr ""
 
+msgid "Animal"
+msgstr ""
+
+msgid "Animals"
+msgstr ""
+
 msgid "asin"
+msgstr ""
+
+msgid "assets loaded"
 msgstr ""
 
 msgid "atan"
@@ -55,13 +76,19 @@ msgstr ""
 msgid "B connected"
 msgstr ""
 
-msgid "Back a layer (Shift: Send to back)"
+msgid "Back a layer"
 msgstr ""
 
 msgid "backdrop"
 msgstr ""
 
+msgid "Backdrop"
+msgstr ""
+
 msgid "backdrop #"
+msgstr ""
+
+msgid "Backdrop Library"
 msgstr ""
 
 msgid "backdrop name"
@@ -71,6 +98,9 @@ msgid "backdrop1"
 msgstr ""
 
 msgid "backdrops"
+msgstr ""
+
+msgid "Backdrops"
 msgstr ""
 
 msgid "Backpack"
@@ -85,16 +115,37 @@ msgstr ""
 msgid "Bassoon"
 msgstr "Fagot"
 
+msgid "Bitmap"
+msgstr ""
+
+msgid "Bitmap Mode"
+msgstr ""
+
+msgid "Block help"
+msgstr ""
+
 msgid "Bongo"
 msgstr ""
 
 msgid "brightness"
 msgstr "jas"
 
+msgid "Bring to front"
+msgstr ""
+
+msgid "Broadcast"
+msgstr ""
+
+msgid "Brush"
+msgstr ""
+
 msgid "button pressed"
 msgstr "stlačené tlačidlo"
 
 msgid "by"
+msgstr ""
+
+msgid "bytes loaded"
 msgstr ""
 
 msgid "C connected"
@@ -106,7 +157,22 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Odfotiť"
 
+msgid "can drag in player:"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
 msgid "Cannot Delete"
+msgstr ""
+
+msgid "Can’t find network connection or reach server."
+msgstr ""
+
+msgid "Castle"
+msgstr ""
+
+msgid "Category"
 msgstr ""
 
 msgid "ceiling"
@@ -118,31 +184,76 @@ msgstr "Violončelo"
 msgid "Choir"
 msgstr ""
 
+msgid "Circle"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
 msgid "Clarinet"
 msgstr "Klarinet"
 
 msgid "Claves"
 msgstr "Claves"
 
+msgid "Clear"
+msgstr ""
+
 msgid "clear senders/receivers"
+msgstr ""
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr ""
+
+msgid "Close"
 msgstr ""
 
 msgid "Closed Hi-Hat"
 msgstr "Zatvorená hajtka"
 
+msgid "Cloud"
+msgstr ""
+
+msgid "Cloud data"
+msgstr ""
+
 msgid "color"
 msgstr "farba"
 
+msgid "Color a shape"
+msgstr ""
+
 msgid "Conga"
+msgstr ""
+
+msgid "Connecting to Cloud data server..."
+msgstr ""
+
+msgid "Convert to bitmap"
+msgstr ""
+
+msgid "Convert to vector"
+msgstr ""
+
+msgid "Converting mp3..."
 msgstr ""
 
 msgid "copy"
 msgstr "Kopírovať"
 
+msgid "Copying..."
+msgstr ""
+
 msgid "cos"
 msgstr ""
 
+msgid "Costume"
+msgstr ""
+
 msgid "costume #"
+msgstr ""
+
+msgid "Costume Library"
 msgstr ""
 
 msgid "costume name"
@@ -154,10 +265,25 @@ msgstr ""
 msgid "costume2"
 msgstr ""
 
+msgid "Costumes"
+msgstr ""
+
+msgid "Costumes > 1"
+msgstr ""
+
+msgid "Costumes:"
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Kravský zvon"
 
 msgid "Crash Cymbal"
+msgstr ""
+
+msgid "Creating..."
+msgstr ""
+
+msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr ""
 
 msgid "cut"
@@ -172,10 +298,21 @@ msgstr ""
 msgid "day of week"
 msgstr ""
 
+# 83%
+#, fuzzy
+msgid "Delete"
+msgstr "zrušiť"
+
 msgid "delete"
 msgstr "zrušiť"
 
+msgid "delete variable"
+msgstr ""
+
 msgid "direction"
+msgstr ""
+
+msgid "direction:"
 msgstr ""
 
 msgid "don't rotate"
@@ -187,14 +324,17 @@ msgstr "dole"
 msgid "down arrow"
 msgstr "šípka dole"
 
+msgid "Download"
+msgstr ""
+
+msgid "Download to your computer"
+msgstr ""
+
 msgid "Duplicate"
 msgstr "kopírovať"
 
 msgid "duplicate"
 msgstr "kopírovať"
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr ""
 
 msgid "e ^"
 msgstr ""
@@ -202,11 +342,14 @@ msgstr ""
 msgid "edge"
 msgstr "okraj"
 
+msgid "edit"
+msgstr "Upraviť"
+
 msgid "Edit"
 msgstr "Upraviť"
 
-msgid "edit"
-msgstr "Upraviť"
+msgid "Edit Block"
+msgstr ""
 
 msgid "Effects"
 msgstr ""
@@ -217,10 +360,16 @@ msgstr ""
 msgid "Electric Piano"
 msgstr ""
 
-msgid "Ellipse (Shift: Circle)"
+msgid "Electronic"
+msgstr ""
+
+msgid "Ellipse"
 msgstr ""
 
 msgid "Erase"
+msgstr ""
+
+msgid "Eraser width:"
 msgstr ""
 
 msgid "fade in"
@@ -229,14 +378,26 @@ msgstr ""
 msgid "fade out"
 msgstr ""
 
+msgid "Fantasy"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
 msgid "File"
 msgstr ""
 
-msgid "Fill"
+msgid "Fill with color"
 msgstr ""
 
 msgid "fisheye"
 msgstr "rybie oko"
+
+msgid "Flip left-right"
+msgstr ""
+
+msgid "Flip up-down"
+msgstr ""
 
 msgid "floor"
 msgstr ""
@@ -244,13 +405,28 @@ msgstr ""
 msgid "Flute"
 msgstr "Flauta"
 
-msgid "Forward a layer (Shift: Bring to front)"
+msgid "Flying"
+msgstr ""
+
+msgid "For all sprites"
+msgstr ""
+
+msgid "For this sprite only"
+msgstr ""
+
+msgid "Forward a layer"
 msgstr ""
 
 msgid "ghost"
 msgstr "strašidlo"
 
+msgid "Go to My Stuff"
+msgstr ""
+
 msgid "Group"
+msgstr ""
+
+msgid "Grow"
 msgstr ""
 
 msgid "Guiro"
@@ -262,11 +438,29 @@ msgstr ""
 msgid "Hand Clap"
 msgstr "Tlesknutie"
 
+msgid "hide"
+msgstr ""
+
 msgid "hour"
+msgstr ""
+
+msgid "Human"
 msgstr ""
 
 msgid "Import"
 msgstr "import"
+
+msgid "Importing sound..."
+msgstr ""
+
+msgid "Indoors"
+msgstr ""
+
+msgid "Installing..."
+msgstr ""
+
+msgid "Instruments"
+msgstr ""
 
 msgid "last"
 msgstr "posledný"
@@ -286,16 +480,30 @@ msgstr ""
 msgid "light"
 msgstr "svetlo"
 
+msgid "limit reached"
+msgstr ""
+
 msgid "Line"
+msgstr ""
+
+msgid "Line width:"
+msgstr ""
+
+# 75%
+#, fuzzy
+msgid "list"
+msgstr "posledný"
+
+msgid "List name"
 msgstr ""
 
 msgid "ln"
 msgstr ""
 
-msgid "log"
+msgid "Loading project..."
 msgstr ""
 
-msgid "login"
+msgid "log"
 msgstr ""
 
 msgid "louder"
@@ -304,10 +512,31 @@ msgstr ""
 msgid "loudness"
 msgstr ""
 
+msgid "Make a Block"
+msgstr ""
+
+msgid "Make a List"
+msgstr ""
+
+msgid "Make a Variable"
+msgstr ""
+
 msgid "Marimba"
 msgstr "Marimba"
 
+msgid "Max"
+msgstr ""
+
+msgid "meow"
+msgstr ""
+
+msgid "Message Name"
+msgstr ""
+
 msgid "message1"
+msgstr ""
+
+msgid "Min"
 msgstr ""
 
 msgid "minute"
@@ -325,34 +554,69 @@ msgstr ""
 msgid "mouse-pointer"
 msgstr "kurzor myši"
 
+msgid "Multiple"
+msgstr ""
+
+msgid "Music and Dance"
+msgstr ""
+
 msgid "Music Box"
 msgstr "Hracia skrinka"
+
+msgid "Music Loops"
+msgstr ""
+
+msgid "My Stuff"
+msgstr ""
 
 msgid "myself"
 msgstr ""
 
-msgid "New backdrop"
+msgid "Nature"
 msgstr ""
 
-msgid "New costume"
+#, fuzzy
+msgid "New"
+msgstr "Nouveau"
+
+msgid "New backdrop:"
+msgstr ""
+
+msgid "New costume:"
+msgstr ""
+
+msgid "New List"
 msgstr ""
 
 msgid "new message..."
 msgstr ""
 
-msgid "New sound"
+msgid "New name"
 msgstr ""
 
-# 90%
-#, fuzzy
-msgid "New sprite"
+msgid "New sound:"
+msgstr ""
+
+msgid "New sprite:"
 msgstr "Nová postava:"
+
+msgid "New Variable"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr ""
 
+msgid "Not saved; network or server problem."
+msgstr ""
+
+msgid "of"
+msgstr ""
+
 msgid "off"
 msgstr "Vypnutý"
+
+msgid "OK"
+msgstr ""
 
 msgid "on"
 msgstr "Zapnutý"
@@ -366,19 +630,31 @@ msgstr "Netlmená cuica"
 msgid "Open Hi-Hat"
 msgstr "Otvorená hajtka"
 
+msgid "Options"
+msgstr ""
+
 msgid "Organ"
+msgstr ""
+
+msgid "Other"
 msgstr ""
 
 msgid "other scripts in sprite"
 msgstr ""
 
-msgid "Paint"
-msgstr "Kresli"
+msgid "Outdoors"
+msgstr ""
 
 msgid "paste"
 msgstr ""
 
 msgid "Pencil"
+msgstr ""
+
+msgid "People"
+msgstr ""
+
+msgid "Percussion"
 msgstr ""
 
 msgid "photo1"
@@ -387,7 +663,7 @@ msgstr ""
 msgid "Piano"
 msgstr ""
 
-msgid "Pick up Color"
+msgid "Pick up color"
 msgstr ""
 
 msgid "pixelate"
@@ -399,6 +675,12 @@ msgstr ""
 msgid "pop"
 msgstr "pop"
 
+msgid "Profile"
+msgstr ""
+
+msgid "Project not saved!"
+msgstr ""
+
 msgid "random"
 msgstr ""
 
@@ -408,13 +690,30 @@ msgstr "nahraj"
 msgid "recording1"
 msgstr ""
 
-msgid "Rectangle (Shift: Square)"
+msgid "Rectangle"
 msgstr ""
 
 msgid "redo"
 msgstr "Znova"
 
+# 75%
+#, fuzzy
+msgid "Redo"
+msgstr "Znova"
+
 msgid "Remix"
+msgstr ""
+
+msgid "Remixing..."
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "rename variable"
+msgstr ""
+
+msgid "requires sign in"
 msgstr ""
 
 msgid "Reshape"
@@ -435,19 +734,55 @@ msgstr ""
 msgid "reverse"
 msgstr "prevráť"
 
+msgid "Revert"
+msgstr ""
+
+msgid "Reverting..."
+msgstr ""
+
 msgid "right"
 msgstr "vpravo"
 
 msgid "right arrow"
 msgstr "šípka vpravo"
 
+msgid "rotation style:"
+msgstr ""
+
+msgid "Run without screen refresh"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save as a copy"
+msgstr ""
+
+msgid "Save now"
+msgstr ""
+
+msgid "save to local file"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Saving changes..."
+msgstr ""
+
+msgid "Saving..."
+msgstr ""
+
 msgid "Saxophone"
 msgstr ""
 
-msgid "Scratch Cat"
+msgid "Script"
 msgstr ""
 
 msgid "Scripts"
+msgstr ""
+
+msgid "Scripts:"
 msgstr ""
 
 msgid "second"
@@ -462,6 +797,15 @@ msgstr ""
 msgid "select all"
 msgstr ""
 
+msgid "Select and duplicate"
+msgstr ""
+
+msgid "Send to back"
+msgstr ""
+
+msgid "Set costume center"
+msgstr ""
+
 msgid "Set Costume Center"
 msgstr ""
 
@@ -471,14 +815,35 @@ msgstr ""
 msgid "shared"
 msgstr ""
 
+msgid "Shift:"
+msgstr ""
+
+msgid "show"
+msgstr ""
+
 msgid "show receivers"
 msgstr ""
 
 msgid "show senders"
 msgstr ""
 
+msgid "show:"
+msgstr ""
+
+msgid "Shrink"
+msgstr ""
+
 msgid "Side Stick"
 msgstr "Okraj bubna"
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Sign in to save"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
 
 msgid "silence"
 msgstr ""
@@ -492,21 +857,56 @@ msgstr ""
 msgid "slider"
 msgstr "posúvač"
 
+msgid "Slider Range"
+msgstr ""
+
+msgid "Small stage layout"
+msgstr ""
+
+msgid "Smooth"
+msgstr ""
+
 msgid "Snare Drum"
 msgstr ""
 
 msgid "softer"
 msgstr ""
 
+msgid "Sound"
+msgstr ""
+
 msgid "sound"
+msgstr ""
+
+msgid "Sound Library"
+msgstr ""
+
+msgid "Sounds"
 msgstr ""
 
 msgid "space"
 msgstr "medzerník"
 
+# 80%
+#, fuzzy
+msgid "Space"
+msgstr "medzerník"
+
+msgid "Sports"
+msgstr ""
+
 # 85%
 #, fuzzy
 msgid "Sprite"
+msgstr "Postavy"
+
+msgid "Sprite Library"
+msgstr ""
+
+# 85%
+# 85%
+#, fuzzy
+msgid "Sprite1"
 msgstr "Postavy"
 
 msgid "Sprites"
@@ -515,13 +915,19 @@ msgstr "Postavy"
 msgid "sqrt"
 msgstr "sqrt"
 
+msgid "Square"
+msgstr ""
+
 msgid "Stage"
 msgstr "Scéna"
 
-msgid "Stage selected"
+msgid "Stage selected:"
 msgstr ""
 
 msgid "Steel Drum"
+msgstr ""
+
+msgid "stored on server"
 msgstr ""
 
 msgid "Synth Lead"
@@ -542,6 +948,18 @@ msgstr ""
 msgid "that way"
 msgstr "inak"
 
+msgid "Theme"
+msgstr ""
+
+msgid "Things"
+msgstr ""
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr ""
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+
 msgid "this script"
 msgstr ""
 
@@ -550,6 +968,9 @@ msgstr ""
 
 msgid "this way"
 msgstr "takto"
+
+msgid "Throw away all changes since opening this project?"
+msgstr ""
 
 msgid "timer"
 msgstr ""
@@ -560,17 +981,42 @@ msgstr ""
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
 
+msgid "Transportation"
+msgstr ""
+
 msgid "Triangle"
 msgstr ""
 
 msgid "Trombone"
 msgstr "Trombón"
 
+msgid "Turbo mode"
+msgstr ""
+
 msgid "Turbo Mode"
 msgstr ""
 
+msgid "Type"
+msgstr ""
+
+# 75%
+#, fuzzy
+msgid "Undelete"
+msgstr "zrušiť"
+
+msgid "Underwater"
+msgstr ""
+
+# 75%
+#, fuzzy
+msgid "Undo"
+msgstr "Naspať"
+
 msgid "undo"
 msgstr "Naspať"
+
+msgid "Undo Revert"
+msgstr ""
 
 msgid "Ungroup"
 msgstr ""
@@ -584,6 +1030,30 @@ msgstr "hore"
 msgid "up arrow"
 msgstr "šípka hore"
 
+msgid "Upload from your computer"
+msgstr ""
+
+msgid "Uploading image..."
+msgstr ""
+
+msgid "Uploading sound..."
+msgstr ""
+
+msgid "Uploading sprite..."
+msgstr ""
+
+msgid "variable"
+msgstr ""
+
+msgid "Variable name"
+msgstr ""
+
+msgid "Vector"
+msgstr ""
+
+msgid "Vector Mode"
+msgstr ""
+
 msgid "Vibraphone"
 msgstr "Vibrafón"
 
@@ -593,7 +1063,22 @@ msgstr "Vibraslap"
 msgid "video motion"
 msgstr ""
 
+msgid "Video on:"
+msgstr ""
+
+msgid "Vocals"
+msgstr ""
+
 msgid "volume"
+msgstr ""
+
+msgid "Walking"
+msgstr ""
+
+msgid "Want to save? Click remix"
+msgstr ""
+
+msgid "Which column do you want to import"
 msgstr ""
 
 msgid "whirl"
@@ -614,12 +1099,16 @@ msgstr ""
 msgid "year"
 msgstr ""
 
-#, fuzzy
-#~ msgid "New"
-#~ msgstr "Nouveau"
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
 
-#~ msgid "New sprite:"
+# 90%
+#, fuzzy
+#~ msgid "New sprite"
 #~ msgstr "Nová postava:"
+
+#~ msgid "Paint"
+#~ msgstr "Kresli"
 
 #~ msgid "any"
 #~ msgstr "hociktorý"

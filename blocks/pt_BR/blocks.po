@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:35+0200\n"
-"PO-Revision-Date: 2013-04-11 23:00+0200\n"
+"POT-Creation-Date: 2013-04-26 00:13+0200\n"
+"PO-Revision-Date: 2013-04-28 23:21+0200\n"
 "Last-Translator: ehermann <everton.hermann@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -62,10 +62,10 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "anunciar %m.broadcast e esperar"
 
 msgid "change %m.effect effect by %n"
-msgstr "Ao efeito %m.effect somar %n"
+msgstr "Somar ao efeito %m.effect  %n"
 
 msgid "change %m.var by %n"
-msgstr "A %m.var somar %n"
+msgstr "somar a %m.var %n"
 
 msgid "change pen color by %n"
 msgstr "somar %n à cor da caneta"
@@ -246,7 +246,7 @@ msgid "pick random %n to %n"
 msgstr "sortear número entre %n e %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "tocar tambor %d.drum durante %n batidas"
+msgstr "tocar percussão %d.drum durante %n batidas"
 
 # 83%
 msgid "play note %d.note for %n beats"
@@ -420,8 +420,8 @@ msgstr "ligar motor durante %n segundos"
 msgid "turn video %m.videoState"
 msgstr "ativar o vídeo %m.videoState"
 
-msgid "user id"
-msgstr "ID do usuário"
+msgid "user name"
+msgstr "Nome de Usuário"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "%m.videoMotionType do vídeo em %m.stageOrThis"
@@ -472,6 +472,9 @@ msgstr "posição x"
 
 msgid "y position"
 msgstr "posição y"
+
+#~ msgid "user id"
+#~ msgstr "ID do usuário"
 
 #~ msgid "forever if %b"
 #~ msgstr "para sempre se %b"

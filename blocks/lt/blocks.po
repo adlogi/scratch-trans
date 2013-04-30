@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:34+0200\n"
+"POT-Creation-Date: 2013-04-26 00:13+0200\n"
 "PO-Revision-Date: 2013-02-22 18:35+0200\n"
 "Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -428,8 +428,8 @@ msgstr "įjunk variklį %n sekundėms"
 msgid "turn video %m.videoState"
 msgstr "vaizdo sekimas = %m.videoState"
 
-msgid "user id"
-msgstr "naudotojo ID"
+msgid "user name"
+msgstr ""
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "sekamo vaizdo %m.videoMotionType virš %m.stageOrThis"
@@ -480,6 +480,9 @@ msgstr "x koordinatė"
 
 msgid "y position"
 msgstr "y koordinatė"
+
+#~ msgid "user id"
+#~ msgstr "naudotojo ID"
 
 # buvo: klono paruošimas
 #~ msgid "clone startup"

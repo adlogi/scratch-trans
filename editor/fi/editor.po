@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:48+0200\n"
-"PO-Revision-Date: 2013-01-05 20:07+0200\n"
+"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"PO-Revision-Date: 2013-04-27 08:56+0200\n"
 "Last-Translator: ukkeli <avuorilehto@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
@@ -14,40 +14,67 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 
 msgid "10 ^"
+msgstr "10 ^"
+
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Tietoa pilvipalveluista ja -muuttujista</b><br>&nbsp;<br>Tällä hetkellä "
+"vain numerot on tuettuja<br>Keskustelufoorumeja ei sallita ja ne "
+"poistetaan<br>Lisätietoa, <a href= target=>see the cloud data FAQ!</a>"
 
 msgid "A connected"
 msgstr "A liitetty"
 
+msgid "a copy of the project file on your computer."
+msgstr "kopio projektitiedostosta tietokoneessasi"
+
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "Tiliasetukset"
 
 msgid "acos"
 msgstr "acos"
 
-msgid "Add a boolean input:"
-msgstr "lisää boolean input"
-
-msgid "Add a number input:"
-msgstr "lisää numeraalinen input"
-
-msgid "Add a string input:"
-msgstr "Lisää teksti input"
+# 90%
+msgid "Add boolean input:"
+msgstr "Lisää binäärinen syöte"
 
 msgid "add comment"
-msgstr ""
+msgstr "lisää kommentti"
 
 msgid "Add label text:"
 msgstr "Lisää otsaketeksti"
 
+# 89%
+msgid "Add number input:"
+msgstr "lisää numerosyöttö"
+
+# 89%
+msgid "Add string input:"
+msgstr "Lisää tekstisyöttö"
+
 msgid "all"
 msgstr "kaikki"
 
+msgid "All"
+msgstr "Kaikki"
+
 msgid "all around"
-msgstr ""
+msgstr "kaikki ympärillä"
+
+msgid "Animal"
+msgstr "Eläin"
+
+msgid "Animals"
+msgstr "Eläimet"
 
 msgid "asin"
 msgstr "asin"
+
+msgid "assets loaded"
+msgstr "tarpeet ladattu"
 
 msgid "atan"
 msgstr "atan"
@@ -55,16 +82,23 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B liitetty"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr ""
+msgid "Back a layer"
+msgstr "Kerros takaisin"
 
 # 88%
-#, fuzzy
 msgid "backdrop"
-msgstr "tausta1"
+msgstr "tausta"
+
+# 88%
+# 87%
+msgid "Backdrop"
+msgstr "Tausta"
 
 msgid "backdrop #"
 msgstr "tausta #"
+
+msgid "Backdrop Library"
+msgstr "Taustakirjasto"
 
 msgid "backdrop name"
 msgstr "taustan nimi"
@@ -73,9 +107,13 @@ msgid "backdrop1"
 msgstr "tausta1"
 
 # 88%
-#, fuzzy
 msgid "backdrops"
-msgstr "tausta1"
+msgstr "taustat"
+
+# 88%
+# 88%
+msgid "Backdrops"
+msgstr "Taustat"
 
 msgid "Backpack"
 msgstr "Reppu"
@@ -84,22 +122,43 @@ msgid "Bass"
 msgstr "Basso"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Bassorumpu"
 
 msgid "Bassoon"
 msgstr "Bassoon"
 
+msgid "Bitmap"
+msgstr "Bittikartta"
+
+msgid "Bitmap Mode"
+msgstr "Bittikarttatila"
+
+msgid "Block help"
+msgstr "Palikan apua"
+
 msgid "Bongo"
-msgstr ""
+msgstr "Bongo"
 
 msgid "brightness"
 msgstr "kirkkaus"
+
+msgid "Bring to front"
+msgstr "Tuo eteen"
+
+msgid "Broadcast"
+msgstr "Lähetä"
+
+msgid "Brush"
+msgstr "Harja"
 
 msgid "button pressed"
 msgstr "näppäin painettu"
 
 msgid "by"
-msgstr ""
+msgstr "tehnyt"
+
+msgid "bytes loaded"
+msgstr "tavuja ladattu"
 
 msgid "C connected"
 msgstr "C liitetty"
@@ -110,8 +169,23 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Kamera"
 
+msgid "can drag in player:"
+msgstr "voidaan raahata soittimessa"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
 msgid "Cannot Delete"
 msgstr "Ei voi poistaa"
+
+msgid "Can’t find network connection or reach server."
+msgstr "Verkkoyhteyttä ei löydy tai palvelimeen ei saada yhteyttä"
+
+msgid "Castle"
+msgstr "Linna"
+
+msgid "Category"
+msgstr "Luokka"
 
 msgid "ceiling"
 msgstr "katto"
@@ -122,32 +196,78 @@ msgstr "Sello"
 msgid "Choir"
 msgstr "Kuoro"
 
+msgid "Circle"
+msgstr "Ympyrä"
+
+msgid "City"
+msgstr "Kaupunki"
+
 msgid "Clarinet"
 msgstr "Klarinetti"
 
 msgid "Claves"
 msgstr "Palikat"
 
+msgid "Clear"
+msgstr "Puhdista"
+
 msgid "clear senders/receivers"
 msgstr "pyyhi lähettimet/vastaanottimet"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Klikkaa uudellaan tai tallenna"
+
+msgid "Close"
+msgstr "Sulje"
 
 msgid "Closed Hi-Hat"
 msgstr "Suljettu hi-hat"
 
+msgid "Cloud"
+msgstr "Pilvi"
+
+msgid "Cloud data"
+msgstr "Pilvidata"
+
 msgid "color"
 msgstr "väri"
 
+msgid "Color a shape"
+msgstr "Muodon väri"
+
 msgid "Conga"
-msgstr ""
+msgstr "Konga"
+
+msgid "Connecting to Cloud data server..."
+msgstr "Liitetty pilvipalvelimeen"
+
+msgid "Convert to bitmap"
+msgstr "Muuta bittikartaksi"
+
+msgid "Convert to vector"
+msgstr "Muuta vektoriksi"
+
+msgid "Converting mp3..."
+msgstr "Muunnetaan mp3..."
 
 msgid "copy"
 msgstr "Kopioi"
 
+msgid "Copying..."
+msgstr "Kopioidaan..."
+
 msgid "cos"
 msgstr "cos"
 
+# 75%
+msgid "Costume"
+msgstr "Asuste"
+
 msgid "costume #"
 msgstr "asusten #"
+
+msgid "Costume Library"
+msgstr "Asustekirjasto"
 
 msgid "costume name"
 msgstr "asusteen nimi"
@@ -156,15 +276,30 @@ msgid "costume1"
 msgstr "asuste1"
 
 # 87%
-#, fuzzy
 msgid "costume2"
-msgstr "asuste1"
+msgstr "asuste2"
+
+# 75%
+msgid "Costumes"
+msgstr "Asusteet"
+
+msgid "Costumes > 1"
+msgstr "Asusteet > 1"
+
+msgid "Costumes:"
+msgstr "Asusteet:"
 
 msgid "Cowbell"
 msgstr "Lehmänkello"
 
 msgid "Crash Cymbal"
 msgstr "Crash Cymbal"
+
+msgid "Creating..."
+msgstr "Luodaan..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "Tällä hetkellä vain numeroita voidaan tallentaa pilvimuuttujiksi."
 
 msgid "cut"
 msgstr "leikkaa"
@@ -178,14 +313,25 @@ msgstr "päiväys"
 msgid "day of week"
 msgstr "viikonpäivä"
 
+# 83%
+msgid "Delete"
+msgstr "Poista"
+
 msgid "delete"
 msgstr "poista"
+
+msgid "delete variable"
+msgstr "poista muuttuja"
 
 msgid "direction"
 msgstr "suunta"
 
+# 90%
+msgid "direction:"
+msgstr "suunta:"
+
 msgid "don't rotate"
-msgstr ""
+msgstr "älä kierrä"
 
 msgid "down"
 msgstr "alas"
@@ -193,14 +339,17 @@ msgstr "alas"
 msgid "down arrow"
 msgstr "nuoli alas"
 
+msgid "Download"
+msgstr "Lataa"
+
+msgid "Download to your computer"
+msgstr "Lataa tietokoneeseen"
+
 msgid "Duplicate"
 msgstr "kopioi"
 
 msgid "duplicate"
 msgstr "kopioi"
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr ""
 
 msgid "e ^"
 msgstr "e ^"
@@ -208,11 +357,14 @@ msgstr "e ^"
 msgid "edge"
 msgstr "reuna"
 
+msgid "edit"
+msgstr "Muokkaa"
+
 msgid "Edit"
 msgstr "Muokkaa"
 
-msgid "edit"
-msgstr "Muokkaa"
+msgid "Edit Block"
+msgstr "Muokkaa lohkoa"
 
 msgid "Effects"
 msgstr "Efekti"
@@ -223,11 +375,17 @@ msgstr "Sähkökitara"
 msgid "Electric Piano"
 msgstr "Sähköpiano"
 
-msgid "Ellipse (Shift: Circle)"
-msgstr ""
+msgid "Electronic"
+msgstr "Sähköinen"
+
+msgid "Ellipse"
+msgstr "Ellipsi"
 
 msgid "Erase"
-msgstr ""
+msgstr "Kumita"
+
+msgid "Eraser width:"
+msgstr "Kumin leveys"
 
 msgid "fade in"
 msgstr "vaimenna alku"
@@ -235,14 +393,26 @@ msgstr "vaimenna alku"
 msgid "fade out"
 msgstr "vaimenna loppu"
 
-msgid "File"
-msgstr ""
+msgid "Fantasy"
+msgstr "Fantasia"
 
-msgid "Fill"
-msgstr ""
+msgid "Features"
+msgstr "Ominaisuudet"
+
+msgid "File"
+msgstr "Tiedosto"
+
+msgid "Fill with color"
+msgstr "Täytä värillä"
 
 msgid "fisheye"
 msgstr "kalansilmä"
+
+msgid "Flip left-right"
+msgstr "Vaihda vasen-oikea"
+
+msgid "Flip up-down"
+msgstr "Vaihda ylhäällä-alhaalla"
 
 msgid "floor"
 msgstr "lattia"
@@ -250,17 +420,32 @@ msgstr "lattia"
 msgid "Flute"
 msgstr "Huilu"
 
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr ""
+msgid "Flying"
+msgstr "Lentävä"
+
+msgid "For all sprites"
+msgstr "Kaikille hahmoille"
+
+msgid "For this sprite only"
+msgstr "Vain tälle hahmolle"
+
+msgid "Forward a layer"
+msgstr "Kerros eteenpäin"
 
 msgid "ghost"
 msgstr "haamu"
 
+msgid "Go to My Stuff"
+msgstr "Mene minun juttuihini"
+
 msgid "Group"
-msgstr ""
+msgstr "Ryhmä"
+
+msgid "Grow"
+msgstr "Kasvata"
 
 msgid "Guiro"
-msgstr ""
+msgstr "Guiro"
 
 msgid "Guitar"
 msgstr "Kitara"
@@ -268,23 +453,41 @@ msgstr "Kitara"
 msgid "Hand Clap"
 msgstr "Taputus"
 
+msgid "hide"
+msgstr "piilota"
+
 msgid "hour"
 msgstr "tunti"
 
+msgid "Human"
+msgstr "Ihminen"
+
 msgid "Import"
-msgstr "tuo"
+msgstr "Tuo"
+
+msgid "Importing sound..."
+msgstr "Tuodaan ääntä..."
+
+msgid "Indoors"
+msgstr "Sisällä"
+
+msgid "Installing..."
+msgstr "Asennetaan..."
+
+msgid "Instruments"
+msgstr "Soittimet"
 
 msgid "last"
 msgstr "viimeinen"
 
 msgid "left"
-msgstr "vasemmalle"
+msgstr "vasen"
 
 msgid "left arrow"
 msgstr "nuoli vasemmalle"
 
 msgid "left-right"
-msgstr ""
+msgstr "vasen-oikea"
 
 msgid "Library"
 msgstr "Kirjasto"
@@ -292,29 +495,63 @@ msgstr "Kirjasto"
 msgid "light"
 msgstr "vaalea"
 
+msgid "limit reached"
+msgstr "raja saavutettu"
+
 msgid "Line"
-msgstr ""
+msgstr "Viiva"
+
+msgid "Line width:"
+msgstr "Viivanleveys:"
+
+# 75%
+msgid "list"
+msgstr "luettelo"
+
+msgid "List name"
+msgstr "Luettelonimi"
 
 msgid "ln"
-msgstr "ln"
+msgstr "Joukossa"
+
+msgid "Loading project..."
+msgstr "Projektia ladataan..."
 
 msgid "log"
-msgstr "log"
-
-msgid "login"
-msgstr "kirjaudu"
+msgstr "loki"
 
 msgid "louder"
 msgstr "voimakkaammin"
 
 msgid "loudness"
-msgstr ""
+msgstr "voimakkuus"
+
+msgid "Make a Block"
+msgstr "Tee palikka"
+
+msgid "Make a List"
+msgstr "Tee lista"
+
+msgid "Make a Variable"
+msgstr "Tee muuttuja"
 
 msgid "Marimba"
 msgstr "Marimba"
 
+msgid "Max"
+msgstr "Maksimi"
+
+msgid "meow"
+msgstr "naukuna"
+
+msgid "Message Name"
+msgstr "Viestinnimi"
+
 msgid "message1"
 msgstr "viesti1"
+
+msgid "Min"
+msgstr "Minimi"
 
 msgid "minute"
 msgstr "minuutti"
@@ -331,34 +568,71 @@ msgstr "liike"
 msgid "mouse-pointer"
 msgstr "hiiriosoitin"
 
+msgid "Multiple"
+msgstr "Monta"
+
+msgid "Music and Dance"
+msgstr "Musiikki ja tanssi"
+
 msgid "Music Box"
 msgstr "Soittopeli"
 
+msgid "Music Loops"
+msgstr "Musiikkiluuppeja"
+
+msgid "My Stuff"
+msgstr "Omat jutut"
+
 msgid "myself"
-msgstr ""
+msgstr "minä itse"
 
-msgid "New backdrop"
-msgstr "Uusi tausta"
+msgid "Nature"
+msgstr "Luonto"
 
-msgid "New costume"
-msgstr "Uusi asuste"
+msgid "New"
+msgstr "Uusi"
+
+# 92%
+msgid "New backdrop:"
+msgstr "Uusi tausta:"
+
+# 91%
+msgid "New costume:"
+msgstr "Uusi asuste:"
+
+msgid "New List"
+msgstr "Uusi lista:"
 
 msgid "new message..."
 msgstr "uusi viesti..."
 
-msgid "New sound"
-msgstr "Uusi ääni"
+msgid "New name"
+msgstr "Uusi nimi"
 
 # 90%
-#, fuzzy
-msgid "New sprite"
+msgid "New sound:"
+msgstr "Uusi ääni:"
+
+msgid "New sprite:"
 msgstr "Uusi hahmo:"
 
+msgid "New Variable"
+msgstr "Uusi muuttuja"
+
 msgid "No motion blocks"
-msgstr ""
+msgstr "Ei liikelohkoja"
+
+msgid "Not saved; network or server problem."
+msgstr "Ei tallennettu; verkko- tai palvelinongelmia."
+
+msgid "of"
+msgstr "määrästä"
 
 msgid "off"
 msgstr "pois"
+
+msgid "OK"
+msgstr "OK"
 
 msgid "on"
 msgstr "päälle"
@@ -367,27 +641,38 @@ msgid "on-flipped"
 msgstr "päälle-käännetty"
 
 msgid "Open Cuica"
-msgstr "Open Cuica"
+msgstr "avoin Cuica"
 
 msgid "Open Hi-Hat"
-msgstr "Open Hi-Hat"
+msgstr "Avoin Hi-Hat"
+
+msgid "Options"
+msgstr "Vaihtoehdot"
 
 msgid "Organ"
 msgstr "Urut"
 
-# 82%
-#, fuzzy
-msgid "other scripts in sprite"
-msgstr "muut skriptit kentällä"
+msgid "Other"
+msgstr "Muu"
 
-msgid "Paint"
-msgstr "Piirrä"
+# 82%
+msgid "other scripts in sprite"
+msgstr "muut hahmossa olevat skriptit"
+
+msgid "Outdoors"
+msgstr "Ulkone"
 
 msgid "paste"
 msgstr "liitä"
 
 msgid "Pencil"
-msgstr ""
+msgstr "Kynä"
+
+msgid "People"
+msgstr "Ihmiset"
+
+msgid "Percussion"
+msgstr "Rummut"
 
 msgid "photo1"
 msgstr "valokuva1"
@@ -395,8 +680,8 @@ msgstr "valokuva1"
 msgid "Piano"
 msgstr "Piano"
 
-msgid "Pick up Color"
-msgstr ""
+msgid "Pick up color"
+msgstr "Poimi väri"
 
 msgid "pixelate"
 msgstr "pikselöi"
@@ -407,26 +692,48 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "Profile"
+msgstr "Profiili"
+
+msgid "Project not saved!"
+msgstr "Projektia ei ole tallennettu!"
+
 msgid "random"
-msgstr ""
+msgstr "satunnainen"
 
 msgid "Record"
-msgstr "nauhoita"
+msgstr "Nauhoita"
 
 msgid "recording1"
 msgstr "nauhoitus1"
 
-msgid "Rectangle (Shift: Square)"
-msgstr ""
+msgid "Rectangle"
+msgstr "Neliö"
 
 msgid "redo"
+msgstr "tee uudelleen"
+
+# 75%
+msgid "Redo"
 msgstr "Tee uudelleen"
 
 msgid "Remix"
 msgstr "Remix"
 
+msgid "Remixing..."
+msgstr "Remixaa..."
+
+msgid "Rename"
+msgstr "Uudelleennimeä"
+
+msgid "rename variable"
+msgstr "uudelleennimeä muuttuja"
+
+msgid "requires sign in"
+msgstr "vaatii sisäänkirjautumisen"
+
 msgid "Reshape"
-msgstr ""
+msgstr "Uudelleenhahmota"
 
 msgid "resistance-A"
 msgstr "vastus-A"
@@ -443,20 +750,56 @@ msgstr "vastus-D"
 msgid "reverse"
 msgstr "vaihda suuntaa"
 
+msgid "Revert"
+msgstr "Palaa"
+
+msgid "Reverting..."
+msgstr "Palaa..."
+
 msgid "right"
-msgstr "oikealle"
+msgstr "oikea"
 
 msgid "right arrow"
 msgstr "nuoli oikealle"
 
+msgid "rotation style:"
+msgstr "kiertotyyli:"
+
+msgid "Run without screen refresh"
+msgstr "Aja ilman ruudunpäivitystä"
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Save as a copy"
+msgstr "Tallenna kopio"
+
+msgid "Save now"
+msgstr "Tallenna nyt"
+
+msgid "save to local file"
+msgstr "tallenna paikalliseen tiedostoon"
+
+msgid "Saved"
+msgstr "Tallennettu"
+
+msgid "Saving changes..."
+msgstr "Tallennetaan muutoksia..."
+
+msgid "Saving..."
+msgstr "Tallennetaan..."
+
 msgid "Saxophone"
 msgstr "Saksofoni"
 
-msgid "Scratch Cat"
-msgstr ""
+msgid "Script"
+msgstr "Skripti"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Skriptit"
+
+msgid "Scripts:"
+msgstr "Skriptit:"
 
 msgid "second"
 msgstr "sekunti"
@@ -465,19 +808,34 @@ msgid "See project page"
 msgstr "Katso projektisivu"
 
 msgid "Select"
-msgstr ""
+msgstr "Valitse"
 
 msgid "select all"
 msgstr "valitse kaikki"
 
+msgid "Select and duplicate"
+msgstr "Valitse ja monista"
+
+msgid "Send to back"
+msgstr "Vie taakse"
+
+msgid "Set costume center"
+msgstr "Aseta asustekeskipiste"
+
 msgid "Set Costume Center"
-msgstr ""
+msgstr "Aseta asuste keskipiste"
 
 msgid "Share"
-msgstr ""
+msgstr "Jaa"
 
 msgid "shared"
-msgstr ""
+msgstr "jaettu"
+
+msgid "Shift:"
+msgstr "Siirrä:"
+
+msgid "show"
+msgstr "näytä"
 
 msgid "show receivers"
 msgstr "näytä vastaanottajat"
@@ -485,8 +843,23 @@ msgstr "näytä vastaanottajat"
 msgid "show senders"
 msgstr "näytä lähettäjät"
 
+msgid "show:"
+msgstr "näytä:"
+
+msgid "Shrink"
+msgstr "Pienennä"
+
 msgid "Side Stick"
-msgstr "Side Stick"
+msgstr "Tartu reunaan"
+
+msgid "Sign in"
+msgstr "Sisäänkirjaudu"
+
+msgid "Sign in to save"
+msgstr "Sisäänkirjaudu tallentaaksesi"
+
+msgid "Sign out"
+msgstr "Uloskirjaudu"
 
 msgid "silence"
 msgstr "hiljaisuus"
@@ -500,22 +873,55 @@ msgstr "koko"
 msgid "slider"
 msgstr "säädin"
 
+msgid "Slider Range"
+msgstr "Säätimen rajat"
+
+msgid "Small stage layout"
+msgstr "Pienen esiintymislavan ulkoasu"
+
+msgid "Smooth"
+msgstr "Liukuva"
+
 msgid "Snare Drum"
 msgstr "Snare rumpu"
 
 msgid "softer"
 msgstr "pehmeämmin"
 
+# 80%
+msgid "Sound"
+msgstr "Ääni"
+
 msgid "sound"
 msgstr "ääni"
+
+msgid "Sound Library"
+msgstr "Äänikirjasto"
+
+msgid "Sounds"
+msgstr "Äänet"
 
 msgid "space"
 msgstr "välilyönti"
 
+# 80%
+msgid "Space"
+msgstr "Välilyönti"
+
+msgid "Sports"
+msgstr "Urheilu"
+
 # 85%
-#, fuzzy
 msgid "Sprite"
-msgstr "Hahmot"
+msgstr "Hahmo"
+
+msgid "Sprite Library"
+msgstr "Hahmokirjasto"
+
+# 85%
+# 85%
+msgid "Sprite1"
+msgstr "Hahmo1"
 
 msgid "Sprites"
 msgstr "Hahmot"
@@ -523,14 +929,20 @@ msgstr "Hahmot"
 msgid "sqrt"
 msgstr "neliöjuuri"
 
+msgid "Square"
+msgstr "Neliö"
+
 msgid "Stage"
 msgstr "Esiintymislava"
 
-msgid "Stage selected"
-msgstr ""
+msgid "Stage selected:"
+msgstr "Valittu esiintymislava:"
 
 msgid "Steel Drum"
 msgstr "Teräsrumpu"
+
+msgid "stored on server"
+msgstr "tallennettu palvelimeen"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -545,22 +957,42 @@ msgid "tan"
 msgstr "tan"
 
 msgid "Text"
-msgstr ""
+msgstr "Teksti"
 
 msgid "that way"
 msgstr "tuohon suuntaan"
+
+msgid "Theme"
+msgstr "Aihe"
+
+msgid "Things"
+msgstr "Asiat"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr ""
+"Tämä projekti voi tunnistaa kuka käyttää sitä, hyödyntäen \"käyttäjänimi\" "
+"-lohkoa. Piilottaaksesi omat tietosi, kirjaudu ulos ennen kuin käytät tätä "
+"projektia."
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+"Tämä projekti käyttää Pilvitietoja - toiminne joka on sallittu vain "
+"kirjautuneille käyttäjille."
 
 msgid "this script"
 msgstr "tämä skripti"
 
 msgid "this sprite"
-msgstr ""
+msgstr "tämä hahmo"
 
 msgid "this way"
 msgstr "tähän suuntaan"
 
+msgid "Throw away all changes since opening this project?"
+msgstr "Hylkää kaikki muutokset jota olet tehnyt tähän projektiin?"
+
 msgid "timer"
-msgstr ""
+msgstr "ajastin"
 
 msgid "Tips"
 msgstr "Vinkit"
@@ -570,29 +1002,76 @@ msgstr ""
 "Poistaaksesi lohkon määrityksen, poista ensin kaikki missä tätä lohkoa "
 "käytetään."
 
+msgid "Transportation"
+msgstr "kulkuneuvot"
+
 msgid "Triangle"
-msgstr ""
+msgstr "Kolmio"
 
 msgid "Trombone"
 msgstr "Trumpetti"
 
-msgid "Turbo Mode"
-msgstr ""
+msgid "Turbo mode"
+msgstr "Turbomoodi"
 
-msgid "undo"
+msgid "Turbo Mode"
+msgstr "Turbomoodi"
+
+msgid "Type"
+msgstr "Tyyppi"
+
+# 75%
+msgid "Undelete"
+msgstr "Peruuta poisto"
+
+msgid "Underwater"
+msgstr "Vedenalainen"
+
+# 75%
+msgid "Undo"
 msgstr "Peruuta"
 
+msgid "undo"
+msgstr "peruuta"
+
+msgid "Undo Revert"
+msgstr "Poista palautus"
+
 msgid "Ungroup"
-msgstr ""
+msgstr "Pura ryhmitys"
 
 msgid "unshared"
-msgstr ""
+msgstr "ei jaettu"
 
 msgid "up"
 msgstr "ylös"
 
 msgid "up arrow"
 msgstr "nuoli ylös"
+
+msgid "Upload from your computer"
+msgstr "Lataa tietokoneestasi"
+
+msgid "Uploading image..."
+msgstr "Ladataan kuvaa..."
+
+msgid "Uploading sound..."
+msgstr "Ladaan ääntä..."
+
+msgid "Uploading sprite..."
+msgstr "Ladataan hahmoa..."
+
+msgid "variable"
+msgstr "muuttuja"
+
+msgid "Variable name"
+msgstr "Muuttujanimi"
+
+msgid "Vector"
+msgstr "Vektori"
+
+msgid "Vector Mode"
+msgstr "Vektoritila"
 
 msgid "Vibraphone"
 msgstr "Vibraphone"
@@ -601,16 +1080,31 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video motion"
-msgstr ""
+msgstr "videoliike"
+
+msgid "Video on:"
+msgstr "Video päällä:"
+
+msgid "Vocals"
+msgstr "Äänet"
 
 msgid "volume"
 msgstr "äänenvoimakkuus"
+
+msgid "Walking"
+msgstr "Kävely"
+
+msgid "Want to save? Click remix"
+msgstr "Haluatko tallentaa? valitse remix"
+
+msgid "Which column do you want to import"
+msgstr "Minkä sarakkeen haluat tuoda"
 
 msgid "whirl"
 msgstr "pyörre"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Puupalikka"
 
 msgid "Wooden Flute"
 msgstr "Puuhuilu"
@@ -624,6 +1118,40 @@ msgstr "y-sijainti"
 msgid "year"
 msgstr "vuosi"
 
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+"Et voi muokata pilvitietoa jonkun toisen projektissa.<b>Kaikki muutokset "
+"joita teet ovat paikallisia eivät tallennu."
+
+#~ msgid "Add a boolean input:"
+#~ msgstr "lisää boolean input"
+
+#~ msgid "Add a number input:"
+#~ msgstr "lisää numeraalinen input"
+
+#~ msgid "Add a string input:"
+#~ msgstr "Lisää teksti input"
+
+#~ msgid "login"
+#~ msgstr "kirjaudu"
+
+#~ msgid "New backdrop"
+#~ msgstr "Uusi tausta"
+
+#~ msgid "New costume"
+#~ msgstr "Uusi asuste"
+
+#~ msgid "New sound"
+#~ msgstr "Uusi ääni"
+
+# 90%
+#, fuzzy
+#~ msgid "New sprite"
+#~ msgstr "Uusi hahmo:"
+
+#~ msgid "Paint"
+#~ msgstr "Piirrä"
+
 #~ msgid "bottom-left"
 #~ msgstr "vasen-alareuna"
 
@@ -635,13 +1163,6 @@ msgstr "vuosi"
 
 #~ msgid "name"
 #~ msgstr "nimi"
-
-#, fuzzy
-#~ msgid "New"
-#~ msgstr "Nouveau"
-
-#~ msgid "New sprite:"
-#~ msgstr "Uusi hahmo:"
 
 #~ msgid "say"
 #~ msgstr "sano"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-14 02:49+0200\n"
-"PO-Revision-Date: 2013-04-14 17:24+0200\n"
+"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"PO-Revision-Date: 2013-04-26 00:06+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -17,23 +17,30 @@ msgstr ""
 msgid "10 ^"
 msgstr "^ 10"
 
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة "
+"حالياً.<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a href= "
+"target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
+
 msgid "A connected"
 msgstr "A موصول"
+
+msgid "a copy of the project file on your computer."
+msgstr ""
 
 msgid "abs"
 msgstr "القيمة المطلقة"
 
+msgid "Account settings"
+msgstr "إعدادات الحساب"
+
 msgid "acos"
 msgstr "جيب التمام العكسي"
 
-msgid "Add a boolean input:"
+# 90%
+msgid "Add boolean input:"
 msgstr "إضافة حقل منطقي:"
-
-msgid "Add a number input:"
-msgstr "إضافة حقل رقمي:"
-
-msgid "Add a string input:"
-msgstr "إضافة حقل نصي:"
 
 msgid "add comment"
 msgstr "إضافة تعليق"
@@ -41,10 +48,18 @@ msgstr "إضافة تعليق"
 msgid "Add label text:"
 msgstr "إضافة نص:"
 
-msgid "All"
-msgstr "الكل"
+# 89%
+msgid "Add number input:"
+msgstr "إضافة حقل رقمي:"
+
+# 89%
+msgid "Add string input:"
+msgstr "إضافة حقل نصي:"
 
 msgid "all"
+msgstr "الكل"
+
+msgid "All"
 msgstr "الكل"
 
 msgid "all around"
@@ -58,6 +73,9 @@ msgstr "حيوانات"
 
 msgid "asin"
 msgstr "الجيب العكسي"
+
+msgid "assets loaded"
+msgstr ""
 
 msgid "atan"
 msgstr "الظل العكسي"
@@ -73,6 +91,11 @@ msgstr "طبقة واحدة إلى الخلف"
 msgid "backdrop"
 msgstr "خلفية"
 
+# 88%
+#, fuzzy
+msgid "Backdrop"
+msgstr "الخلفيات"
+
 msgid "backdrop #"
 msgstr "رقم الخلفية"
 
@@ -86,13 +109,12 @@ msgid "backdrop1"
 msgstr "الخلفية١"
 
 # 88%
+msgid "backdrops"
+msgstr "خلفيات"
+
 # 88%
 msgid "Backdrops"
 msgstr "الخلفيات"
-
-# 88%
-msgid "backdrops"
-msgstr "خلفيات"
 
 msgid "Backpack"
 msgstr "الحقيبة"
@@ -111,6 +133,9 @@ msgstr "صورة نقطية"
 
 msgid "Bitmap Mode"
 msgstr "وضعية الصور النقطية"
+
+msgid "Block help"
+msgstr ""
 
 msgid "Bongo"
 msgstr "بونغو"
@@ -133,6 +158,9 @@ msgstr "الزر مضغوط"
 msgid "by"
 msgstr "بواسطة"
 
+msgid "bytes loaded"
+msgstr "بايت تم تحميلها"
+
 # 90%
 msgid "C connected"
 msgstr "C موصول"
@@ -143,14 +171,18 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "آلة التصوير"
 
-msgid "can drag in player"
-msgstr "السماح بالسحب أثناء العرض"
+# 94%
+msgid "can drag in player:"
+msgstr ":السماح بالسحب أثناء العرض"
 
 msgid "Cancel"
 msgstr "إلغاء الأمر"
 
 msgid "Cannot Delete"
 msgstr "لا يمكن الحذف"
+
+msgid "Can’t find network connection or reach server."
+msgstr "ليس بالإمكان إيجاد اتصال بالشبكة أو الوصول إلى المخدّم"
 
 msgid "Castle"
 msgstr "القلعة"
@@ -185,6 +217,9 @@ msgstr "مسح"
 msgid "clear senders/receivers"
 msgstr "امسح المرسلات/المستقبلات"
 
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"
+
 msgid "Close"
 msgstr "إغلاق"
 
@@ -194,11 +229,20 @@ msgstr "Closed Hi-Hat"
 msgid "Cloud"
 msgstr "السحابة"
 
+msgid "Cloud data"
+msgstr ""
+
 msgid "color"
 msgstr "اللون"
 
+msgid "Color a shape"
+msgstr ""
+
 msgid "Conga"
 msgstr "Conga"
+
+msgid "Connecting to Cloud data server..."
+msgstr "الاتصال بمخدّم البيانات السحابيّة..."
 
 msgid "Convert to bitmap"
 msgstr "تحويل إلى صورة نقطية"
@@ -206,11 +250,22 @@ msgstr "تحويل إلى صورة نقطية"
 msgid "Convert to vector"
 msgstr "تحويل إلى صورة شعاعية"
 
+msgid "Converting mp3..."
+msgstr "تحويل ملفات mp3..."
+
 msgid "copy"
 msgstr "نسخ"
 
+msgid "Copying..."
+msgstr ""
+
 msgid "cos"
 msgstr "جيب التمام"
+
+# 75%
+# 87%
+msgid "Costume"
+msgstr "المظهر"
 
 msgid "costume #"
 msgstr "رقم المظهر"
@@ -234,11 +289,22 @@ msgstr "المظاهر"
 msgid "Costumes > 1"
 msgstr "المظاهر > ١"
 
+# 75%
+# 88%
+msgid "Costumes:"
+msgstr "المظاهر:"
+
 msgid "Cowbell"
 msgstr "Cowbell"
 
 msgid "Crash Cymbal"
 msgstr "Crash Cymbal"
+
+msgid "Creating..."
+msgstr ""
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr ""
 
 msgid "cut"
 msgstr "قص"
@@ -266,6 +332,11 @@ msgstr "حذف متغير"
 msgid "direction"
 msgstr "الاتجاه"
 
+# 90%
+#, fuzzy
+msgid "direction:"
+msgstr "الاتجاه"
+
 msgid "don't rotate"
 msgstr "لا دوران"
 
@@ -275,8 +346,14 @@ msgstr "الأسفل"
 msgid "down arrow"
 msgstr "السهم السفلي"
 
+msgid "Download"
+msgstr ""
+
 msgid "Download to your computer"
 msgstr "تنزيل إلى حاسبك"
+
+msgid "Duplicate"
+msgstr "مضاعفة"
 
 msgid "duplicate"
 msgstr "مضاعفة"
@@ -287,11 +364,11 @@ msgstr "^ e"
 msgid "edge"
 msgstr "الحافة"
 
-msgid "Edit"
-msgstr "تحرير"
-
 msgid "edit"
 msgstr "تعديل"
+
+msgid "Edit"
+msgstr "تحرير"
 
 msgid "Edit Block"
 msgstr "تعديل اللبنة"
@@ -314,6 +391,9 @@ msgstr "إهليلج"
 msgid "Erase"
 msgstr "مسح"
 
+msgid "Eraser width:"
+msgstr ""
+
 msgid "fade in"
 msgstr "تلاشي في البداية"
 
@@ -329,14 +409,17 @@ msgstr "الخصائص"
 msgid "File"
 msgstr "ملف"
 
-msgid "Filled Ellipse"
-msgstr "إهليلج ممتلئ"
-
-msgid "Filled Rectangle"
-msgstr "مستطيل ممتلئ"
+msgid "Fill with color"
+msgstr ""
 
 msgid "fisheye"
 msgstr "عين السمكة"
+
+msgid "Flip left-right"
+msgstr ""
+
+msgid "Flip up-down"
+msgstr ""
 
 msgid "floor"
 msgstr "الجزء الصحيح"
@@ -359,8 +442,14 @@ msgstr "طبقة واحدة إلى الأمام"
 msgid "ghost"
 msgstr "الشبح"
 
+msgid "Go to My Stuff"
+msgstr ""
+
 msgid "Group"
 msgstr "تجميع"
+
+msgid "Grow"
+msgstr ""
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -374,12 +463,6 @@ msgstr "صفقة"
 msgid "hide"
 msgstr "اختف"
 
-msgid "Hollow Ellipse"
-msgstr "إهليلج مفرَّغ"
-
-msgid "Hollow Rectangle"
-msgstr "مستطيل مفرَّغ"
-
 msgid "hour"
 msgstr "الساعة"
 
@@ -389,8 +472,14 @@ msgstr "إنسان"
 msgid "Import"
 msgstr "استيراد"
 
+msgid "Importing sound..."
+msgstr ""
+
 msgid "Indoors"
 msgstr "داخلي"
+
+msgid "Installing..."
+msgstr ""
 
 msgid "Instruments"
 msgstr "آلات موسيقية"
@@ -407,9 +496,6 @@ msgstr "السهم الأيسر"
 msgid "left-right"
 msgstr "يمين - يسار"
 
-msgid "LEGO WeDo blocks"
-msgstr "لبنات LEGO WeDo"
-
 msgid "Library"
 msgstr "المكتبة"
 
@@ -422,6 +508,9 @@ msgstr "وصلت الحد الأقصى"
 msgid "Line"
 msgstr "خط مستقيم"
 
+msgid "Line width:"
+msgstr ""
+
 # 75%
 msgid "list"
 msgstr "لائحة"
@@ -432,11 +521,11 @@ msgstr "اسم اللائحة"
 msgid "ln"
 msgstr "اللوغارتم الطبيعي"
 
+msgid "Loading project..."
+msgstr ""
+
 msgid "log"
 msgstr "اللوغارتم العشري"
-
-msgid "login"
-msgstr "تسجيل الدخول"
 
 msgid "louder"
 msgstr "أعلى"
@@ -456,6 +545,9 @@ msgstr "إنشاء متغير"
 msgid "Marimba"
 msgstr "Marimba"
 
+msgid "Max"
+msgstr ""
+
 msgid "meow"
 msgstr "مياو"
 
@@ -464,6 +556,9 @@ msgstr "اسم الرسالة"
 
 msgid "message1"
 msgstr "الرسالة ١"
+
+msgid "Min"
+msgstr ""
 
 msgid "minute"
 msgstr "الدقيقة"
@@ -480,6 +575,9 @@ msgstr "حركة"
 msgid "mouse-pointer"
 msgstr "مؤشر الفأرة"
 
+msgid "Multiple"
+msgstr ""
+
 msgid "Music and Dance"
 msgstr "الموسيقى والرقص"
 
@@ -488,6 +586,9 @@ msgstr "صندوق الموسيقى"
 
 msgid "Music Loops"
 msgstr "حلقات موسيقية"
+
+msgid "My Stuff"
+msgstr ""
 
 msgid "myself"
 msgstr "نفسي"
@@ -498,10 +599,14 @@ msgstr "طبيعة"
 msgid "New"
 msgstr "جديد"
 
-msgid "New backdrop"
+# 92%
+#, fuzzy
+msgid "New backdrop:"
 msgstr "خلفية جديدة"
 
-msgid "New costume"
+# 91%
+#, fuzzy
+msgid "New costume:"
 msgstr "مظهر جديد"
 
 msgid "New List"
@@ -513,18 +618,25 @@ msgstr "رسالة جديدة..."
 msgid "New name"
 msgstr "الاسم الجديد"
 
-msgid "New sound"
+# 90%
+#, fuzzy
+msgid "New sound:"
 msgstr "صوت جديد"
 
-# 90%
-msgid "New sprite"
-msgstr "كائن جديد"
+msgid "New sprite:"
+msgstr "كائن جديد:"
 
 msgid "New Variable"
 msgstr "متغير جديد"
 
 msgid "No motion blocks"
 msgstr "لا توجد لبنات للحركة"
+
+msgid "Not saved; network or server problem."
+msgstr ""
+
+msgid "of"
+msgstr ""
 
 msgid "off"
 msgstr "يتوقف"
@@ -559,12 +671,6 @@ msgstr "المقاطع الأخرى في الكائن"
 msgid "Outdoors"
 msgstr "خارجي"
 
-msgid "Paint a Shape"
-msgstr "تلوين شكل"
-
-msgid "Paint bucket"
-msgstr "أداة التلوين"
-
 msgid "paste"
 msgstr "لصق"
 
@@ -583,6 +689,11 @@ msgstr "الصورة ١"
 msgid "Piano"
 msgstr "بيانو"
 
+# 92%
+#, fuzzy
+msgid "Pick up color"
+msgstr "اختر اللون"
+
 msgid "pixelate"
 msgstr "البكسلة"
 
@@ -591,6 +702,12 @@ msgstr "Pizzicato"
 
 msgid "pop"
 msgstr "بُب"
+
+msgid "Profile"
+msgstr ""
+
+msgid "Project not saved!"
+msgstr ""
 
 msgid "random"
 msgstr "عشوائي"
@@ -607,8 +724,16 @@ msgstr "مستطيل"
 msgid "redo"
 msgstr "إعادة"
 
+# 75%
+#, fuzzy
+msgid "Redo"
+msgstr "إعادة"
+
 msgid "Remix"
 msgstr "مزج"
+
+msgid "Remixing..."
+msgstr ""
 
 msgid "Rename"
 msgstr "إعادة تسمية"
@@ -616,7 +741,9 @@ msgstr "إعادة تسمية"
 msgid "rename variable"
 msgstr "إعادة تسمية المتغير"
 
-msgid "requires login"
+# 75%
+#, fuzzy
+msgid "requires sign in"
 msgstr "يتطلب تسجيل الدخول"
 
 msgid "Reshape"
@@ -640,13 +767,18 @@ msgstr "المعاكس"
 msgid "Revert"
 msgstr "التراجع إلى الحالة الأصلية"
 
+msgid "Reverting..."
+msgstr ""
+
 msgid "right"
 msgstr "اليمين"
 
 msgid "right arrow"
 msgstr "السهم الأيمن"
 
-msgid "rotation style"
+# 93%
+#, fuzzy
+msgid "rotation style:"
 msgstr "نمط الدوران"
 
 msgid "Run without screen refresh"
@@ -655,13 +787,40 @@ msgstr "تشغيل دون تحديث الشاشة"
 msgid "Save"
 msgstr "حفظ"
 
+msgid "Save as a copy"
+msgstr ""
+
+msgid "Save now"
+msgstr ""
+
 msgid "save to local file"
 msgstr "حفظ إلى ملف على الحاسب"
+
+# 80%
+#, fuzzy
+msgid "Saved"
+msgstr "حفظ"
+
+msgid "Saving changes..."
+msgstr ""
+
+msgid "Saving..."
+msgstr ""
 
 msgid "Saxophone"
 msgstr "ساكسفون"
 
+# 85%
+#, fuzzy
+msgid "Script"
+msgstr "المقاطع البرمجية"
+
 msgid "Scripts"
+msgstr "المقاطع البرمجية"
+
+# 87%
+#, fuzzy
+msgid "Scripts:"
 msgstr "المقاطع البرمجية"
 
 msgid "second"
@@ -676,11 +835,16 @@ msgstr "تحديد"
 msgid "select all"
 msgstr "تحديد الكل"
 
+msgid "Select and duplicate"
+msgstr ""
+
 msgid "Send to back"
 msgstr "إرسال إلى الخلف"
 
-msgid "Sensor board blocks"
-msgstr "لبنات لوح الحساسات"
+# 88%
+#, fuzzy
+msgid "Set costume center"
+msgstr "تحديد مركز المظهر"
 
 msgid "Set Costume Center"
 msgstr "تحديد مركز المظهر"
@@ -691,7 +855,9 @@ msgstr "مشاركة"
 msgid "shared"
 msgstr "تمت المشاركة"
 
-msgid "Shift"
+# 83%
+#, fuzzy
+msgid "Shift:"
 msgstr "مع مفتاح Shift"
 
 msgid "show"
@@ -703,8 +869,25 @@ msgstr "أظهر المستقبلات"
 msgid "show senders"
 msgstr "أظهر المرسلات"
 
+# 80%
+#, fuzzy
+msgid "show:"
+msgstr "اظهر"
+
+msgid "Shrink"
+msgstr ""
+
 msgid "Side Stick"
 msgstr "Side Stick"
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Sign in to save"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
 
 msgid "silence"
 msgstr "صمت"
@@ -718,6 +901,9 @@ msgstr "الحجم"
 msgid "slider"
 msgstr "المنزلقة"
 
+msgid "Slider Range"
+msgstr ""
+
 msgid "Small stage layout"
 msgstr "نمط المنصة الصغيرة"
 
@@ -730,6 +916,11 @@ msgstr "Snare Drum"
 msgid "softer"
 msgstr "أخفض"
 
+# 83%
+#, fuzzy
+msgid "Sound"
+msgstr "الأصوات"
+
 msgid "sound"
 msgstr "الصوت"
 
@@ -739,20 +930,23 @@ msgstr "مكتبة الأصوات"
 msgid "Sounds"
 msgstr "الأصوات"
 
+msgid "space"
+msgstr "المسافة"
+
 # 80%
 msgid "Space"
 msgstr "الفضاء"
 
-msgid "space"
-msgstr "المسافة"
-
 msgid "Sports"
 msgstr "الرياضة"
+
+# 85%
+msgid "Sprite"
+msgstr "كائن"
 
 msgid "Sprite Library"
 msgstr "مكتبة الكائنات"
 
-# 85%
 # 85%
 msgid "Sprite1"
 msgstr "الكائن١"
@@ -769,7 +963,9 @@ msgstr "مربع"
 msgid "Stage"
 msgstr "المنصة"
 
-msgid "Stage selected"
+# 93%
+#, fuzzy
+msgid "Stage selected:"
 msgstr "المنصة محددة"
 
 msgid "Steel Drum"
@@ -802,6 +998,12 @@ msgstr "الموضوع"
 msgid "Things"
 msgstr "الأشياء"
 
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr ""
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+
 msgid "this script"
 msgstr "المقطع البرمجي الحالي"
 
@@ -810,6 +1012,9 @@ msgstr "الكائن الحالي"
 
 msgid "this way"
 msgstr "هذا الاتجاه"
+
+msgid "Throw away all changes since opening this project?"
+msgstr ""
 
 msgid "timer"
 msgstr "المؤقت"
@@ -829,11 +1034,11 @@ msgstr "مثلث"
 msgid "Trombone"
 msgstr "Trombone"
 
-msgid "Turbo Mode"
-msgstr "الوضع السريع"
-
 # 90%
 msgid "Turbo mode"
+msgstr "الوضع السريع"
+
+msgid "Turbo Mode"
 msgstr "الوضع السريع"
 
 msgid "Type"
@@ -846,8 +1051,16 @@ msgstr "التراجع عن الحذف"
 msgid "Underwater"
 msgstr "تحت الماء"
 
+# 75%
+#, fuzzy
+msgid "Undo"
+msgstr "تراجع"
+
 msgid "undo"
 msgstr "تراجع"
+
+msgid "Undo Revert"
+msgstr ""
 
 msgid "Ungroup"
 msgstr "فك تجميع"
@@ -863,6 +1076,15 @@ msgstr "السهم العلوي"
 
 msgid "Upload from your computer"
 msgstr "رفع مشروع من حاسبك"
+
+msgid "Uploading image..."
+msgstr ""
+
+msgid "Uploading sound..."
+msgstr ""
+
+msgid "Uploading sprite..."
+msgstr ""
 
 msgid "variable"
 msgstr "متغير"
@@ -885,7 +1107,9 @@ msgstr "Vibraslap"
 msgid "video motion"
 msgstr "حركة الفيديو"
 
-msgid "Video on"
+# 88%
+#, fuzzy
+msgid "Video on:"
 msgstr "تشغيل الفيديو"
 
 msgid "Vocals"
@@ -896,6 +1120,12 @@ msgstr "شدة الصوت"
 
 msgid "Walking"
 msgstr "المشي"
+
+msgid "Want to save? Click remix"
+msgstr ""
+
+msgid "Which column do you want to import"
+msgstr ""
 
 msgid "whirl"
 msgstr "الدوامة"
@@ -915,11 +1145,78 @@ msgstr "الموضع ص"
 msgid "year"
 msgstr "السنة"
 
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+
+#~ msgid "Add a boolean input:"
+#~ msgstr "إضافة حقل منطقي:"
+
+#~ msgid "Add a number input:"
+#~ msgstr "إضافة حقل رقمي:"
+
+#~ msgid "Add a string input:"
+#~ msgstr "إضافة حقل نصي:"
+
+#~ msgid "can drag in player"
+#~ msgstr "السماح بالسحب أثناء العرض"
+
+#~ msgid "Filled Ellipse"
+#~ msgstr "إهليلج ممتلئ"
+
+#~ msgid "Filled Rectangle"
+#~ msgstr "مستطيل ممتلئ"
+
+#~ msgid "Hollow Ellipse"
+#~ msgstr "إهليلج مفرَّغ"
+
+#~ msgid "Hollow Rectangle"
+#~ msgstr "مستطيل مفرَّغ"
+
+#~ msgid "LEGO WeDo blocks"
+#~ msgstr "لبنات LEGO WeDo"
+
+#~ msgid "login"
+#~ msgstr "تسجيل الدخول"
+
+#~ msgid "New backdrop"
+#~ msgstr "خلفية جديدة"
+
+#~ msgid "New costume"
+#~ msgstr "مظهر جديد"
+
+#~ msgid "New sound"
+#~ msgstr "صوت جديد"
+
+# 90%
+#~ msgid "New sprite"
+#~ msgstr "كائن جديد"
+
+#~ msgid "Paint a Shape"
+#~ msgstr "تلوين شكل"
+
+#~ msgid "Paint bucket"
+#~ msgstr "أداة التلوين"
+
+#~ msgid "requires login"
+#~ msgstr "يتطلب تسجيل الدخول"
+
+#~ msgid "rotation style"
+#~ msgstr "نمط الدوران"
+
+#~ msgid "Sensor board blocks"
+#~ msgstr "لبنات لوح الحساسات"
+
+#~ msgid "Shift"
+#~ msgstr "مع مفتاح Shift"
+
+#~ msgid "Stage selected"
+#~ msgstr "المنصة محددة"
+
+#~ msgid "Video on"
+#~ msgstr "تشغيل الفيديو"
+
 #~ msgid "Back a layer (Shift: Send to back)"
 #~ msgstr "طبقة واحدة إلى الخلف (مع مفتاح Shift: إرسال إلى الخلف)"
-
-#~ msgid "Duplicate"
-#~ msgstr "مضاعفة"
 
 #~ msgid "Duplicate (Shift: Multiple)"
 #~ msgstr "مضاعفة (مع مفتاح Shift: عدة نسخ)"
@@ -946,18 +1243,11 @@ msgstr "السنة"
 #~ msgid "Scratch Cat"
 #~ msgstr "هرة سكراتش"
 
-# 85%
-#~ msgid "Sprite"
-#~ msgstr "كائن"
-
 #~ msgid "#"
 #~ msgstr "#"
 
 #~ msgid "name"
 #~ msgstr "الاسم"
-
-#~ msgid "New sprite:"
-#~ msgstr "كائن جديد:"
 
 #~ msgid "any"
 #~ msgstr "(موقع ما)"

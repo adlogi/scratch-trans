@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:47+0200\n"
-"PO-Revision-Date: 2013-04-14 16:26+0200\n"
+"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"PO-Revision-Date: 2013-04-26 20:51+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -16,23 +16,31 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud!</b><br>&nbsp;<br>Προς το "
+"παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
+"συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
+"διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
+"Συχνές Ερωτήσεις για τα δεδομένα Cloud.</a>"
+
 msgid "A connected"
 msgstr "το Α είναι συνδεδεμένο"
+
+msgid "a copy of the project file on your computer."
+msgstr "Ένα αντίγραφο του έργου στον υπολογιστή σας."
 
 msgid "abs"
 msgstr "ΑπόλυτηΤιμή"
 
+msgid "Account settings"
+msgstr "Ρυθμίσεις Λογαριασμού"
+
 msgid "acos"
 msgstr "acos"
 
-msgid "Add a boolean input:"
-msgstr "Προσθέστε μια τιμή boolean:"
-
-msgid "Add a number input:"
-msgstr "Προσθέστε μια αριθμητική τιμή:"
-
-msgid "Add a string input:"
-msgstr "Προσθέστε μια τιμή σειράς λέξεων:"
+msgid "Add boolean input:"
+msgstr "Εισάγετε ένα δεδομένο boolean:"
 
 msgid "add comment"
 msgstr "Προσθήκη σχόλιου"
@@ -40,14 +48,32 @@ msgstr "Προσθήκη σχόλιου"
 msgid "Add label text:"
 msgstr "Προσθήκη κειμένου σε ετικέτα:"
 
+msgid "Add number input:"
+msgstr "Εισάγετε ένα αριθμητικό δεδομένο:"
+
+msgid "Add string input:"
+msgstr "Εισάγετε ένα δεδομένο σειράς λέξεων:"
+
 msgid "all"
 msgstr "όλα"
 
+msgid "All"
+msgstr "Όλα"
+
 msgid "all around"
-msgstr "ολόγυρα"
+msgstr "ελεύθερο"
+
+msgid "Animal"
+msgstr "Ζώα"
+
+msgid "Animals"
+msgstr "Ζώα"
 
 msgid "asin"
 msgstr "asin"
+
+msgid "assets loaded"
+msgstr "Στοιχεία που έχουν φορτωθεί"
 
 msgid "atan"
 msgstr "atan"
@@ -55,15 +81,21 @@ msgstr "atan"
 msgid "B connected"
 msgstr "το B είναι συνδεδεμένο"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr "Πίσω κατά 1 στρώση (Πάτημα με Shift: Τελευταία στρώση)"
+msgid "Back a layer"
+msgstr "Πίσω κατά 1 στρώση"
 
 # 88%
 msgid "backdrop"
 msgstr "υπόβαθρο"
 
+msgid "Backdrop"
+msgstr "Υπόβαθρο"
+
 msgid "backdrop #"
 msgstr "υπόβαθρο #"
+
+msgid "Backdrop Library"
+msgstr "Βιβλιοθήκη Υποβάθρων"
 
 msgid "backdrop name"
 msgstr "όνομα υποβάθρου"
@@ -74,6 +106,9 @@ msgstr "υπόβαθρο1"
 # 88%
 msgid "backdrops"
 msgstr "υπόβαθρα"
+
+msgid "Backdrops"
+msgstr "Yπόβαθρα"
 
 msgid "Backpack"
 msgstr "Σακίδιο"
@@ -87,17 +122,38 @@ msgstr "Μπάσσο Τύμπανο"
 msgid "Bassoon"
 msgstr "Φαγκότο"
 
+msgid "Bitmap"
+msgstr "Bitmap"
+
+msgid "Bitmap Mode"
+msgstr "Λειτουργία Bitmap"
+
+msgid "Block help"
+msgstr "Βοήθεια σχετικά με τα τετράγωνα εντολών"
+
 msgid "Bongo"
 msgstr "Μπόγκο"
 
 msgid "brightness"
 msgstr "φωτεινότητα"
 
+msgid "Bring to front"
+msgstr "Μετακίνηση στην μπροστινή στρώση"
+
+msgid "Broadcast"
+msgstr "Μετάδωση"
+
+msgid "Brush"
+msgstr "Πινέλο"
+
 msgid "button pressed"
 msgstr "πατήθηκε το κουμπί"
 
 msgid "by"
 msgstr "από"
+
+msgid "bytes loaded"
+msgstr "Bytes που έχουν φορτωθεί"
 
 msgid "C connected"
 msgstr "το C είναι συνδεδεμένο"
@@ -108,8 +164,23 @@ msgstr "Καμπάσα"
 msgid "Camera"
 msgstr "Κάμερα"
 
+msgid "can drag in player:"
+msgstr "Δυνατότητα μετακίνησης κατά το τρέξιμο του έργου:"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
 msgid "Cannot Delete"
-msgstr "Αδύνατη η διαγραφή"
+msgstr "Αδύνατη η Διαγραφή"
+
+msgid "Can’t find network connection or reach server."
+msgstr "Δεν βρέθηκε δίκτυο ή δεν έγινε επικοινωνία με τον σέρβερ."
+
+msgid "Castle"
+msgstr "Κάστρο"
+
+msgid "Category"
+msgstr "Κατηγορία"
 
 msgid "ceiling"
 msgstr "ceiling"
@@ -120,32 +191,77 @@ msgstr "Τσέλο"
 msgid "Choir"
 msgstr "Χορωδία "
 
+msgid "Circle"
+msgstr "Κύκλος"
+
+msgid "City"
+msgstr "Πόλη"
+
 msgid "Clarinet"
 msgstr "Κλαρινέτο"
 
 msgid "Claves"
 msgstr "Ξυλάκια"
 
+msgid "Clear"
+msgstr "Καθαρισμός"
+
 msgid "clear senders/receivers"
-msgstr "Εκκαθάριση των αποστολέων/παραληπτών"
+msgstr "Εκκαθάριση των Αποστολέων/Παραληπτών"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Πατήστε  για να προσπαθήσετε ξανά ή πατήστε  για να κάνετε αποθήκευση."
+
+msgid "Close"
+msgstr "Κλείσιμο"
 
 msgid "Closed Hi-Hat"
 msgstr "Κλειστό Χάϊ-χατ"
 
+msgid "Cloud"
+msgstr "Cloud"
+
+msgid "Cloud data"
+msgstr "Δεδομένα Cloud"
+
 msgid "color"
-msgstr "χρώμα"
+msgstr "χρώματος"
+
+msgid "Color a shape"
+msgstr "Χρωματισμός σχήματος"
 
 msgid "Conga"
 msgstr "Κόγκα"
 
+msgid "Connecting to Cloud data server..."
+msgstr "Γίνεται σύνδεση στο σέρβερ των δεδομένων Cloud..."
+
+msgid "Convert to bitmap"
+msgstr "Μετατροπή σε Βitmap"
+
+msgid "Convert to vector"
+msgstr "Μετατροπή σε Vector"
+
+msgid "Converting mp3..."
+msgstr "Μετατροπή από mp3..."
+
 msgid "copy"
 msgstr "Αντιγραφή"
+
+msgid "Copying..."
+msgstr "Γίνεται Aντιγραφή..."
 
 msgid "cos"
 msgstr "cos"
 
+msgid "Costume"
+msgstr "Ενδυμασία"
+
 msgid "costume #"
 msgstr "ενδυμασία #"
+
+msgid "Costume Library"
+msgstr "Βιβλιοθήκη Ενδυμασιών"
 
 msgid "costume name"
 msgstr "Όνομα ενδυμασίας"
@@ -156,11 +272,27 @@ msgstr "ενδυμασία1"
 msgid "costume2"
 msgstr "ενδυμασία2"
 
+msgid "Costumes"
+msgstr "Ενδυμασίες"
+
+msgid "Costumes > 1"
+msgstr "Ενδυμασίες > 1"
+
+msgid "Costumes:"
+msgstr "Ενδυμασίες:"
+
 msgid "Cowbell"
-msgstr "Κουδούνα αγελάδας"
+msgstr "Κουδουνάκι αγελάδας"
 
 msgid "Crash Cymbal"
 msgstr "Κύμβαλο Crash"
+
+msgid "Creating..."
+msgstr "Γίνεται δημιουργία..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr ""
+"Προς το παρόν, μόνο αριθμοί μπορούν να αποθηκευτούν σε μεταβλητές Cloud."
 
 msgid "cut"
 msgstr "Αποκοπή"
@@ -174,14 +306,23 @@ msgstr "ημερομηνία"
 msgid "day of week"
 msgstr "μέρα της εβδομάδας"
 
+msgid "Delete"
+msgstr "Διαγραφή"
+
 msgid "delete"
 msgstr "Διαγραφή"
+
+msgid "delete variable"
+msgstr "Διαγραφή μεταβλητής"
 
 msgid "direction"
 msgstr "κατεύθυνση"
 
+msgid "direction:"
+msgstr "κατεύθυνση:"
+
 msgid "don't rotate"
-msgstr "να μην περιστραφεί"
+msgstr "[να μην γίνεται περιστροφή]"
 
 msgid "down"
 msgstr "κάτω"
@@ -189,14 +330,17 @@ msgstr "κάτω"
 msgid "down arrow"
 msgstr "κάτω βέλος"
 
+msgid "Download"
+msgstr "Κατέβασμα"
+
+msgid "Download to your computer"
+msgstr "Κατέβασμα έργου στον υπολογιστή σας"
+
 msgid "Duplicate"
 msgstr "Διπλασιασμός "
 
 msgid "duplicate"
 msgstr "Διπλασιασμός"
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr "Διπλασιασμός (Πάτημα με Shift: Πολλαπλασιασμός)"
 
 msgid "e ^"
 msgstr "e ^"
@@ -204,11 +348,14 @@ msgstr "e ^"
 msgid "edge"
 msgstr "όρια"
 
+msgid "edit"
+msgstr "Επεξεργασία"
+
 msgid "Edit"
 msgstr "Επεξεργασία"
 
-msgid "edit"
-msgstr "Επεξεργασία"
+msgid "Edit Block"
+msgstr "Επεξεργασία τετραγώνου εντολών"
 
 msgid "Effects"
 msgstr "Εφέ"
@@ -219,27 +366,44 @@ msgstr "Ηλεκτρική κιθάρα"
 msgid "Electric Piano"
 msgstr "Αρμόνιο"
 
-msgid "Ellipse (Shift: Circle)"
-msgstr "Έλλειψη (Πάτημα με Shift: Κύκλος)"
+msgid "Electronic"
+msgstr "Ηλεκτρονικά"
+
+msgid "Ellipse"
+msgstr "Έλλειψη"
 
 msgid "Erase"
 msgstr "Σβήσιμο"
 
+msgid "Eraser width:"
+msgstr "Πλάτος γόμας"
+
 msgid "fade in"
-msgstr "εμφανίσου σιγά-σιγά"
+msgstr "Σταδιακή αύξηση της έντασης"
 
 msgid "fade out"
-msgstr "εξαφανίσου σιγά-σιγά"
+msgstr "Σταδιακή μείωση της έντασης"
+
+msgid "Fantasy"
+msgstr "Φανταστικά"
+
+msgid "Features"
+msgstr "Δυνατότητες"
 
 msgid "File"
 msgstr "Αρχείο"
 
-# 75%
-msgid "Fill"
+msgid "Fill with color"
 msgstr "Γέμισμα με χρώμα"
 
 msgid "fisheye"
-msgstr "κυρτότητα"
+msgstr "κυρτότητας"
+
+msgid "Flip left-right"
+msgstr "Οριζόντια αναστροφή"
+
+msgid "Flip up-down"
+msgstr "Κατακόρυφη αναστροφή"
 
 msgid "floor"
 msgstr "floor"
@@ -247,14 +411,29 @@ msgstr "floor"
 msgid "Flute"
 msgstr "Φλάουτο"
 
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr "Μπροστά κατά 1 στρώση (Πάτημα με Shift: Μπροστινή στρώση)"
+msgid "Flying"
+msgstr "Πέταγμα"
+
+msgid "For all sprites"
+msgstr "Για όλες τις μορφές"
+
+msgid "For this sprite only"
+msgstr "Μόνο για αυτή τη μορφή"
+
+msgid "Forward a layer"
+msgstr "Μπροστά κατά 1 στρώση"
 
 msgid "ghost"
-msgstr "εξαφάνιση"
+msgstr "εξαφάνισης"
+
+msgid "Go to My Stuff"
+msgstr "Μετάβαση στα πράγματά σας"
 
 msgid "Group"
 msgstr "Ένωση"
+
+msgid "Grow"
+msgstr "Ανάπτυξη"
 
 msgid "Guiro"
 msgstr "Γκουίρο"
@@ -265,11 +444,29 @@ msgstr "Κιθάρα"
 msgid "Hand Clap"
 msgstr "Χειροκρότημα"
 
+msgid "hide"
+msgstr "Απόκρυψη"
+
 msgid "hour"
 msgstr "ώρα"
 
+msgid "Human"
+msgstr "Άνθρωποι"
+
 msgid "Import"
 msgstr "Εισαγωγή"
+
+msgid "Importing sound..."
+msgstr "Γίνεται εισαγωγή του ήχου..."
+
+msgid "Indoors"
+msgstr "Εσωτερικοί χώροι"
+
+msgid "Installing..."
+msgstr "Γίνεται εγκατάσταση..."
+
+msgid "Instruments"
+msgstr "Μουσικά Όργανα"
 
 msgid "last"
 msgstr "τελευταίο"
@@ -281,7 +478,7 @@ msgid "left arrow"
 msgstr "αριστερό βέλος"
 
 msgid "left-right"
-msgstr "αριστερά-δεξιά"
+msgstr "οριζόντιο"
 
 msgid "Library"
 msgstr "Βιβλιοθήκη"
@@ -289,29 +486,63 @@ msgstr "Βιβλιοθήκη"
 msgid "light"
 msgstr "φως"
 
+msgid "limit reached"
+msgstr ""
+
 msgid "Line"
 msgstr "Γραμμή"
+
+msgid "Line width:"
+msgstr "Πλάτος γραμμής"
+
+msgid "list"
+msgstr "Λίστα"
+
+msgid "List name"
+msgstr "Όνομα λίστας"
 
 msgid "ln"
 msgstr "ln"
 
+msgid "Loading project..."
+msgstr "Γίνεται φόρτωση του έργου..."
+
 msgid "log"
 msgstr "log"
 
-msgid "login"
-msgstr "Σύνδεση"
-
 msgid "louder"
-msgstr "πιο δυνατά"
+msgstr "Αύξηση της έντασης"
 
 msgid "loudness"
 msgstr "ένταση"
 
+msgid "Make a Block"
+msgstr "Δημιουργήστε ένα τετράγωνο εντολών"
+
+msgid "Make a List"
+msgstr "Δημιουργήστε μια λίστα"
+
+msgid "Make a Variable"
+msgstr "Δημιουργήστε μια μεταβλητή"
+
 msgid "Marimba"
 msgstr "Μαρίμπα"
 
+msgid "Max"
+msgstr "Μέγιστο"
+
+msgid "meow"
+msgstr "μιάου!"
+
+msgid "Message Name"
+msgstr "Όνομα μηνύματος"
+
 msgid "message1"
 msgstr "μήνυμα1"
+
+#, fuzzy
+msgid "Min"
+msgstr "Ελάχιστο"
 
 msgid "minute"
 msgstr "λεπτό"
@@ -328,33 +559,68 @@ msgstr "κίνηση"
 msgid "mouse-pointer"
 msgstr "δείκτη του ποντικιού"
 
+msgid "Multiple"
+msgstr ""
+
+msgid "Music and Dance"
+msgstr "Μουσική και Χορός"
+
 msgid "Music Box"
 msgstr "Μουσικό Κουτί"
 
+msgid "Music Loops"
+msgstr "Επαναλαμβανόμενοι Ήχοι"
+
+msgid "My Stuff"
+msgstr "Τα Πράγματά Μου"
+
 msgid "myself"
-msgstr "του εαυτού μου"
+msgstr "εαυτού μου"
 
-msgid "New backdrop"
-msgstr "Νέο υπόβαθρο"
+msgid "Nature"
+msgstr "Φύση"
 
-msgid "New costume"
-msgstr "Νέα ενδυμασία"
+msgid "New"
+msgstr "Νέο"
+
+msgid "New backdrop:"
+msgstr "Νέο υπόβαθρο:"
+
+msgid "New costume:"
+msgstr "Νέα ενδυμασία:"
+
+msgid "New List"
+msgstr "Νέα Λίστα"
 
 msgid "new message..."
 msgstr "Νέο μήνυμα..."
 
-msgid "New sound"
-msgstr "Νέος ήχος"
+msgid "New name"
+msgstr "Νέο Όνομα"
 
-# 90%
-msgid "New sprite"
-msgstr "Νέα μορφή"
+msgid "New sound:"
+msgstr "Νέος Ήχος:"
+
+msgid "New sprite:"
+msgstr "Νέα μορφή:"
+
+msgid "New Variable"
+msgstr "Νέα Μεταβλητή"
 
 msgid "No motion blocks"
-msgstr "Κανένα μπλοκ κίνησης"
+msgstr "Κανένα τετράγωνο εντολών κίνησης"
+
+msgid "Not saved; network or server problem."
+msgstr "Δεν έγινε αποθήκευση, πρόβλημα στο δίκτυο ή στο σέρβερ."
+
+msgid "of"
+msgstr ""
 
 msgid "off"
 msgstr "Κλειστό"
+
+msgid "OK"
+msgstr "OK"
 
 msgid "on"
 msgstr "Ανοικτό"
@@ -368,14 +634,20 @@ msgstr "Ανοιχτό Κουίκα"
 msgid "Open Hi-Hat"
 msgstr "Ανοιχτό Χάϊ-Χατ"
 
+msgid "Options"
+msgstr "Επιλογές"
+
 msgid "Organ"
 msgstr "Μουσικό όργανο"
 
-msgid "other scripts in sprite"
-msgstr "Άλλα σενάρια στο στοιχείο"
+msgid "Other"
+msgstr "Άλλα"
 
-msgid "Paint"
-msgstr "Ζωγραφική"
+msgid "other scripts in sprite"
+msgstr "Άλλα σενάρια στη μορφή αυτή"
+
+msgid "Outdoors"
+msgstr "Εξωτερικοί Χώροι"
 
 msgid "paste"
 msgstr "Επικόλληση"
@@ -383,26 +655,38 @@ msgstr "Επικόλληση"
 msgid "Pencil"
 msgstr "Μολύβι"
 
+msgid "People"
+msgstr "Άνθρωποι"
+
+msgid "Percussion"
+msgstr "Κρουστά"
+
 msgid "photo1"
 msgstr "φωτογραφία1"
 
 msgid "Piano"
 msgstr "Πιάνο"
 
-msgid "Pick up Color"
-msgstr "Επιλογή χρώματος"
+msgid "Pick up color"
+msgstr "Επιλογή Χρώματος"
 
 msgid "pixelate"
-msgstr "εικονοστοιχειοποίηση"
+msgstr "εικονοστοιχειοποίησης"
 
 msgid "Pizzicato"
 msgstr "Πιτσικάτο"
 
 msgid "pop"
-msgstr "ανασύρω"
+msgstr "μπουμ"
+
+msgid "Profile"
+msgstr "Προφίλ"
+
+msgid "Project not saved!"
+msgstr "Το έργο δεν αποθηκεύτηκε!"
 
 msgid "random"
-msgstr "τυχαίο"
+msgstr "τυχαία επιλογή"
 
 msgid "Record"
 msgstr "Ηχογράφηση"
@@ -410,14 +694,29 @@ msgstr "Ηχογράφηση"
 msgid "recording1"
 msgstr "ηχογράφηση1"
 
-msgid "Rectangle (Shift: Square)"
-msgstr "Ορθογώνιο (Πάτημα με Shift: Τετράγωνο)"
+msgid "Rectangle"
+msgstr "Ορθογώνιο"
 
 msgid "redo"
 msgstr "Ακύρωση αναίρεσης"
 
+msgid "Redo"
+msgstr "Ακύρωση αναίρεσης"
+
 msgid "Remix"
 msgstr "Αποθήκευση ως ανάμειξη"
+
+msgid "Remixing..."
+msgstr "Γίνεται ανάμειξη..."
+
+msgid "Rename"
+msgstr "Μετονομασία"
+
+msgid "rename variable"
+msgstr "Μετονομασία Μεταβλητής"
+
+msgid "requires sign in"
+msgstr "Απαιτείται σύνδεση Λογαριασμού"
 
 msgid "Reshape"
 msgstr "Αλλαγή του σχήματος"
@@ -435,7 +734,13 @@ msgid "resistance-D"
 msgstr "Αντίσταση-D"
 
 msgid "reverse"
-msgstr "ανάστρεψε"
+msgstr "Αντιστοφή"
+
+msgid "Revert"
+msgstr "Επαναφορά"
+
+msgid "Reverting..."
+msgstr "Γίνεται Επαναφορά..."
 
 msgid "right"
 msgstr "δεξιά"
@@ -443,14 +748,44 @@ msgstr "δεξιά"
 msgid "right arrow"
 msgstr "δεξί βέλος"
 
+msgid "rotation style:"
+msgstr "Άξονας Περιστροφής:"
+
+msgid "Run without screen refresh"
+msgstr "Να μην γίνεται ανανέωση οθόνης:"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Save as a copy"
+msgstr "Αποθήκευση ενός Αντιγράφου"
+
+msgid "Save now"
+msgstr "Αποθήκευση τώρα"
+
+msgid "save to local file"
+msgstr "Αποθήκευση σε Τοπικό Αρχείο"
+
+msgid "Saved"
+msgstr "Έγινε αποθήκευση"
+
+msgid "Saving changes..."
+msgstr "Γίνεται αποθήκευση των αλλαγών..."
+
+msgid "Saving..."
+msgstr "Γίνεται αποθήκευση..."
+
 msgid "Saxophone"
 msgstr "Σαξόφωνο"
 
-msgid "Scratch Cat"
-msgstr "Γάτα του Scratch"
+msgid "Script"
+msgstr "ΣενάριΟ"
 
 msgid "Scripts"
 msgstr "Σενάρια"
+
+msgid "Scripts:"
+msgstr "Σενάρια:"
 
 msgid "second"
 msgstr "δευτερόλεπτο"
@@ -464,14 +799,29 @@ msgstr "Επιλογή"
 msgid "select all"
 msgstr "Επιλογή όλων"
 
+msgid "Select and duplicate"
+msgstr "Επιλογή και Διπλασιασμός"
+
+msgid "Send to back"
+msgstr "Μετακίνηση Πίσω"
+
+msgid "Set costume center"
+msgstr "Επιλογή Κέντρου της Ενδυμασίας"
+
 msgid "Set Costume Center"
-msgstr "Επιλογή κέντρου της ενδυμασίας"
+msgstr "Επιλογή του κέντρου της ενδυμασίας"
 
 msgid "Share"
-msgstr "Μοιραστείτε το έργο"
+msgstr "Κάντε κοινή χρήση του έργου"
 
 msgid "shared"
-msgstr "μοιρασμένο"
+msgstr "Έγινε κοινή χρήση του έργου"
+
+msgid "Shift:"
+msgstr "Πάτημα με Shift:"
+
+msgid "show"
+msgstr "Εμφάνιση"
 
 msgid "show receivers"
 msgstr "Εμφάνιση παραληπτών"
@@ -479,11 +829,26 @@ msgstr "Εμφάνιση παραληπτών"
 msgid "show senders"
 msgstr "Εμφάνιση αποστολέων"
 
+msgid "show:"
+msgstr "Εμφάνιση:"
+
+msgid "Shrink"
+msgstr "Συμπύκνωση"
+
 msgid "Side Stick"
 msgstr "Πλευρικό Χτύπημα"
 
+msgid "Sign in"
+msgstr "Είσοδος"
+
+msgid "Sign in to save"
+msgstr "Συνδεθείτε στο λογαριασμό σας για να αποθηκεύσετε"
+
+msgid "Sign out"
+msgstr "Έξοδος"
+
 msgid "silence"
-msgstr "ησυχία"
+msgstr "Σίγαση"
 
 msgid "sin"
 msgstr "sin"
@@ -494,20 +859,50 @@ msgstr "μέγεθος"
 msgid "slider"
 msgstr "Γραμμή κύλισης"
 
+msgid "Slider Range"
+msgstr "Φάσμα Μετακύλισης"
+
+msgid "Small stage layout"
+msgstr "Πλάνο Μικρής Σκηνής"
+
+msgid "Smooth"
+msgstr ""
+
 msgid "Snare Drum"
 msgstr "Ταμπούρο"
 
 msgid "softer"
-msgstr "πιο μαλακό"
+msgstr "Μείωση της έντασης"
+
+msgid "Sound"
+msgstr "Ήχος"
 
 msgid "sound"
 msgstr "Ήχος"
 
+msgid "Sound Library"
+msgstr "Βιβλιοθήκη Ήχων"
+
+msgid "Sounds"
+msgstr "Ήχοι"
+
 msgid "space"
-msgstr "Κενό"
+msgstr "space"
+
+msgid "Space"
+msgstr "Space"
+
+msgid "Sports"
+msgstr "Αθλήματα"
 
 msgid "Sprite"
 msgstr "Μορφή"
+
+msgid "Sprite Library"
+msgstr "Βιβλιοθήκη Μορφών"
+
+msgid "Sprite1"
+msgstr "Μορφή1"
 
 msgid "Sprites"
 msgstr "Μορφές"
@@ -515,14 +910,20 @@ msgstr "Μορφές"
 msgid "sqrt"
 msgstr "ΤετΡίζα"
 
+msgid "Square"
+msgstr "Τετράγωνο"
+
 msgid "Stage"
 msgstr "Σκηνικό"
 
-msgid "Stage selected"
-msgstr "Το σκηνικό που έχει επιλεγεί"
+msgid "Stage selected:"
+msgstr "Το Σκηνικό που έχει επιλεγεί:"
 
 msgid "Steel Drum"
 msgstr "Ατσαλένιο τύμπανο"
+
+msgid "stored on server"
+msgstr "Αποθηκευμένο στο σέρβερ"
 
 msgid "Synth Lead"
 msgstr "Lead-συνθεσάιζερ"
@@ -542,6 +943,23 @@ msgstr "Κείμενο"
 msgid "that way"
 msgstr "προς εκείνη την κατεύθυνση"
 
+msgid "Theme"
+msgstr "Θέματα"
+
+msgid "Things"
+msgstr "Πράγματα"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr ""
+"Αυτό το έργο μπορεί να ανιχνεύσει ποιος το χρησιμοποιεί, μέσα από το "
+"τετράγωνο εντολής \"όνομα χρήστη\". Για να διατηρήσετε την ανωνυμία σας, "
+"αποσυνδεθείτε πριν το χρησιμοποιήσετε."
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+"Αυτό το έργο χρησιμοποιεί δεδομένα Cloud - μια δυνατότητα διαθέσιμη μόνο για "
+"τους συνδεδεμένους χρήστες."
+
 msgid "this script"
 msgstr "αυτό το σενάριο"
 
@@ -551,6 +969,9 @@ msgstr "αυτό το στοιχείο"
 msgid "this way"
 msgstr "προς αυτήν την κατεύθυνση"
 
+msgid "Throw away all changes since opening this project?"
+msgstr "Να απορριφθούν όλες οι αλλαγές από το άνοιγμα του έργου;"
+
 msgid "timer"
 msgstr "χρονομέτρηση"
 
@@ -559,8 +980,11 @@ msgstr "Συμβουλές"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
-"Για να διαγράψετε τον ορισμό ενός μπλοκ, θα πρέπει πρώτα να το διαγράψετε "
-"από όπου χρησιμοποιείται."
+"Για να διαγράψετε τον ορισμό ενός τετραγώνου εντολών, θα πρέπει πρώτα να το "
+"διαγράψετε από όπου χρησιμοποιείται στα σενάρια."
+
+msgid "Transportation"
+msgstr "Μεταφορές"
 
 msgid "Triangle"
 msgstr "Τρίγωνο"
@@ -568,23 +992,65 @@ msgstr "Τρίγωνο"
 msgid "Trombone"
 msgstr "Τρομπόνι"
 
+msgid "Turbo mode"
+msgstr "Λειτουργία Γρήγορης Εκτέλεσης"
+
 msgid "Turbo Mode"
 msgstr "Λειτουργία γρήγορης εκτέλεσης"
 
+msgid "Type"
+msgstr "Τύπος"
+
+msgid "Undelete"
+msgstr "Αναίρεση Διαγραφής"
+
+msgid "Underwater"
+msgstr "Κάτω από το νερό"
+
+msgid "Undo"
+msgstr "Αναίρεση"
+
 msgid "undo"
 msgstr "Αναίρεση"
+
+msgid "Undo Revert"
+msgstr "Αναίρεση Επαναφοράς"
 
 msgid "Ungroup"
 msgstr "Διαχωρισμός"
 
 msgid "unshared"
-msgstr "δεν έχει μοιραστεί"
+msgstr "Δεν έχει γίνει κοινή χρήση του έργου"
 
 msgid "up"
 msgstr "Πάνω"
 
 msgid "up arrow"
 msgstr "Πάνω βέλος"
+
+msgid "Upload from your computer"
+msgstr "Ανέβασμα από τον υπολογιστή σας"
+
+msgid "Uploading image..."
+msgstr "Γίνεται ανέβασμα της φωτογραφίας..."
+
+msgid "Uploading sound..."
+msgstr "Γίνεται ανέβασμα του ήχου..."
+
+msgid "Uploading sprite..."
+msgstr "Γίνεται ανέβασμα της μορφής..."
+
+msgid "variable"
+msgstr "Μεταβλητή"
+
+msgid "Variable name"
+msgstr "Όνομα Μεταβλητής"
+
+msgid "Vector"
+msgstr "Vector"
+
+msgid "Vector Mode"
+msgstr "Λειτουργία Vector"
 
 msgid "Vibraphone"
 msgstr "Μεταλλόφωνο"
@@ -595,11 +1061,26 @@ msgstr "Βίμπρα-σλαπ"
 msgid "video motion"
 msgstr "κίνηση στο βίντεο"
 
+msgid "Video on:"
+msgstr ""
+
+msgid "Vocals"
+msgstr "Φωνητικά"
+
 msgid "volume"
 msgstr "Ένταση"
 
+msgid "Walking"
+msgstr "Περπάτημα"
+
+msgid "Want to save? Click remix"
+msgstr "Θέλετε να κάνετε αποθήκευση; Πατήστε \"Αποθήκευση ως Ανάμειξη\"."
+
+msgid "Which column do you want to import"
+msgstr "Ποια στήλη θέλετε να εισάγετε;"
+
 msgid "whirl"
-msgstr "στροβίλισμα"
+msgstr "στροβιλίσματος"
 
 msgid "Wood Block"
 msgstr "Τουβλάκι από ξύλο"
@@ -616,6 +1097,68 @@ msgstr "Θέση y"
 msgid "year"
 msgstr "χρόνος"
 
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+"Δεν μπορείτε να επεξεργαστείτε δεδομένα Cloud σε έργο κάποιου "
+"άλλου.<br>Οποιαδήποτε αλλαγή κάνετε στον Επεξεργαστή Έργων είναι προσωρινή "
+"και όχι μόνιμη."
+
+#~ msgid "Add a boolean input:"
+#~ msgstr "Προσθέστε μια τιμή boolean:"
+
+#~ msgid "Add a number input:"
+#~ msgstr "Προσθέστε μια αριθμητική τιμή:"
+
+#~ msgid "Add a string input:"
+#~ msgstr "Προσθέστε μια τιμή σειράς λέξεων:"
+
+#~ msgid "Back a layer (Shift: Send to back)"
+#~ msgstr "Πίσω κατά 1 στρώση (Πάτημα με Shift: Τελευταία στρώση)"
+
+#~ msgid "Duplicate (Shift: Multiple)"
+#~ msgstr "Διπλασιασμός (Πάτημα με Shift: Πολλαπλασιασμός)"
+
+#~ msgid "Ellipse (Shift: Circle)"
+#~ msgstr "Έλλειψη (Πάτημα με Shift: Κύκλος)"
+
+# 75%
+#~ msgid "Fill"
+#~ msgstr "Γέμισμα με χρώμα"
+
+#~ msgid "Forward a layer (Shift: Bring to front)"
+#~ msgstr "Μπροστά κατά 1 στρώση (Πάτημα με Shift: Μπροστινή στρώση)"
+
+#~ msgid "login"
+#~ msgstr "Σύνδεση"
+
+#~ msgid "New backdrop"
+#~ msgstr "Νέο υπόβαθρο"
+
+#~ msgid "New costume"
+#~ msgstr "Νέα ενδυμασία"
+
+#~ msgid "New sound"
+#~ msgstr "Νέος ήχος"
+
+# 90%
+#~ msgid "New sprite"
+#~ msgstr "Νέα μορφή"
+
+#~ msgid "Paint"
+#~ msgstr "Ζωγραφική"
+
+#~ msgid "Pick up Color"
+#~ msgstr "Επιλογή χρώματος"
+
+#~ msgid "Rectangle (Shift: Square)"
+#~ msgstr "Ορθογώνιο (Πάτημα με Shift: Τετράγωνο)"
+
+#~ msgid "Scratch Cat"
+#~ msgstr "Scratch Cat"
+
+#~ msgid "Stage selected"
+#~ msgstr "Το σκηνικό που έχει επιλεγεί"
+
 #~ msgid "#"
 #~ msgstr "#"
 
@@ -630,12 +1173,6 @@ msgstr "χρόνος"
 
 #~ msgid "name"
 #~ msgstr "όνομα"
-
-#~ msgid "New"
-#~ msgstr "Νέο"
-
-#~ msgid "New sprite:"
-#~ msgstr "Νέα μορφή:"
 
 #~ msgid "say"
 #~ msgstr "πες"

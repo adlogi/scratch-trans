@@ -563,9 +563,9 @@ or: %m.list [ %d.listItem ]</note>
         <source>turn video %m.videoState</source>
         <target state="translated">vaizdo sekimas = %m.videoState</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="user id">
-        <source>user id</source>
-        <target state="translated">naudotojo ID</target>
+      <trans-unit xml:space="preserve" approved="yes" id="user name">
+        <source>user name</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
         <source>video %m.videoMotionType on %m.stageOrThis</source>
@@ -618,7 +618,7 @@ or: %m.list [ %d.listItem ]</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I start as a clone">
         <source>when I start as a clone</source>
-        <target state="translated"></target>
+        <target state="translated">Kai pradedu veikti kaip klonas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when this sprite clicked">
         <source>when this sprite clicked</source>

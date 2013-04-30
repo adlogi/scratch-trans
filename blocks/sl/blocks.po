@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:35+0200\n"
-"PO-Revision-Date: 2013-02-11 10:35+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"POT-Creation-Date: 2013-04-26 00:13+0200\n"
+"PO-Revision-Date: 2013-04-28 00:35+0200\n"
+"Last-Translator: Ziga <ziga@deisinger.si>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -49,13 +49,12 @@ msgid "ask %s and wait"
 msgstr "vprašaj %s in počakaj"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "ozadje #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "Ime ozadja"
 
 msgid "broadcast %m.broadcast"
 msgstr "objavi %m.broadcast"
@@ -109,31 +108,31 @@ msgid "costume #"
 msgstr "videz #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "naredi klon %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "trenutni %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Podatki"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "Dnevi od leta 2000"
 
 msgid "define"
-msgstr ""
+msgstr "definiraj"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "odstrani %d.listDeleteItem iz %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "zbriši ta klon"
 
 msgid "direction"
 msgstr "smer"
 
 msgid "distance"
-msgstr ""
+msgstr "razdalja"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "razdalja do %m.spriteOrMouse"
@@ -142,7 +141,7 @@ msgid "else"
 msgstr "sicer"
 
 msgid "Events"
-msgstr ""
+msgstr "Dogodki"
 
 msgid "forever"
 msgstr "ponavljaj"
@@ -166,13 +165,13 @@ msgid "hide"
 msgstr "skrij"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "skrij list %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "skrij %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "če je %b potem"
 
 msgid "if on edge, bounce"
 msgstr "odbij se, če si na robu"
@@ -205,7 +204,7 @@ msgid "loudness"
 msgstr "glasnost"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Več kock"
 
 msgid "Motion"
 msgstr "premikanje"
@@ -223,7 +222,6 @@ msgid "move %n steps"
 msgstr "pojdi %n korakov"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "naslednje ozadje"
 
@@ -252,7 +250,6 @@ msgid "play drum %d.drum for %n beats"
 msgstr "po %d.drum %n udarcev "
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "zaigraj noto %d.note  %n udarcev"
 
@@ -308,12 +305,10 @@ msgid "set instrument to %d.instrument"
 msgstr "postavi glasbilo na %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "smer motorja %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
 msgstr "moč motorja %n"
 
@@ -330,7 +325,7 @@ msgid "set pen size to %n"
 msgstr "postavi velikost svinčnika na %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "nastavi smer %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "postavi velikost na %n%"
@@ -339,7 +334,7 @@ msgid "set tempo to %n bpm"
 msgstr "postavi tempo na %n udarcev na minuto"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "Nastavi svetlost videa na %n%"
 
 msgid "set volume to %n%"
 msgstr "postavi glasnost na %n%"
@@ -354,10 +349,10 @@ msgid "show"
 msgstr "pokaži"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "pokaži list %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "pokaži %m.var"
 
 msgid "size"
 msgstr "velikost"
@@ -369,21 +364,21 @@ msgid "stamp"
 msgstr "žig"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "stop %m.stop"
 
 msgid "stop all sounds"
 msgstr "prekini vse zvoke"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "zamenjaj ozadje na %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "spremeni ozadje na %m.backdrop in počakaj"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "zamenjaj kostum na %m.costume"
 
 msgid "tempo"
 msgstr "tempo"
@@ -395,7 +390,7 @@ msgid "think %s for %n secs"
 msgstr "pomisli %s za %n sekund"
 
 msgid "tilt"
-msgstr ""
+msgstr "naklon"
 
 msgid "timer"
 msgstr "štoparica"
@@ -407,30 +402,29 @@ msgid "touching color %c?"
 msgstr "se dotika barve %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "obrni se za @turnLeft %n stopinj"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "obrni se za @turnLeft %n stopinj"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "ugasni motor"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "prižgi motor"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "vključi motor za %n sekund"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "prižgi video %m.videoState"
 
-msgid "user id"
-msgstr ""
+msgid "user name"
+msgstr "ime uporabnika"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "video %m.videoMotionType on %m.stageOrThis"
 
 msgid "volume"
 msgstr "glasnost"
@@ -442,37 +436,36 @@ msgid "wait until %b"
 msgstr "počakaj dokler %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "tipalo %m.booleanSensor?"
+msgstr "ko %m.booleanSensor?"
 
 msgid "when %m.key key pressed"
 msgstr "ko je pritisnjena tipka %m.key"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "ko %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "ko je kliknjena @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "ko je ozadje na %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "ko je razdalja  < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "ko prejmem %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "ko štartam kot klon"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "ko je ta sprite kliknjen"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "ko je naklon %n"
 
 msgid "x position"
 msgstr "mesto x"

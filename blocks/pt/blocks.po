@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:35+0200\n"
-"PO-Revision-Date: 2013-04-13 17:08+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"POT-Creation-Date: 2013-04-26 00:13+0200\n"
+"PO-Revision-Date: 2013-04-28 13:33+0200\n"
+"Last-Translator: Manuel <mmsequeira@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -24,460 +24,456 @@ msgid "%b or %b"
 msgstr "%b ou %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribute da(o) %m.spriteOrStage"
+msgstr "%m.attribute de %m.spriteOrStage"
 
 msgid "%m.list contains %s"
 msgstr "%m.list contém %s"
 
 msgid "%m.mathOp of %n"
-msgstr "%m.mathOp da(o) %n"
+msgstr "%m.mathOp de %n"
 
 msgid "%m.sensor sensor value"
-msgstr "valor do sensor %m.sensor"
+msgstr "o valor do sensor %m.sensor"
 
 msgid "%n mod %n"
-msgstr "resto da divisão de %n por %n"
+msgstr "o resto de %n a dividir por %n"
 
 msgid "add %s to %m.list"
-msgstr "adicionar %s a %m.list"
+msgstr "acrescenta %s a %m.list"
 
 msgid "answer"
-msgstr "resposta"
+msgstr "a resposta"
 
 msgid "ask %s and wait"
-msgstr "perguntar %s e esperar"
+msgstr "pergunta %s e espera pela resposta"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "número do fundo"
+msgstr "o número do cenário"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "o nome do cenário"
 
 msgid "broadcast %m.broadcast"
-msgstr "difundir a mensagem %m.broadcast"
+msgstr "difunde a mensagem %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "difundir a mensagem %m.broadcast e esperar"
+msgstr "difunde a mensagem %m.broadcast e espera"
 
 msgid "change %m.effect effect by %n"
-msgstr "alterar o efeito %m.effect de %n"
+msgstr "adiciona %n ao teu efeito %m.effect"
 
 msgid "change %m.var by %n"
-msgstr "alterar %m.var de %n"
+msgstr "adiciona %n a %m.var"
 
 msgid "change pen color by %n"
-msgstr "alterar a cor da caneta de %n"
+msgstr "adiciona %n à cor da tua caneta"
 
 msgid "change pen shade by %n"
-msgstr "alterar o tom da caneta de %n "
+msgstr "adiciona %n ao tom da tua caneta"
 
 msgid "change pen size by %n"
-msgstr "alterar o tamanho da caneta de %n"
+msgstr "adiciona %n à espessura da tua caneta"
 
 msgid "change size by %n"
-msgstr "alterar o tamanho de %n"
+msgstr "adiciona %n% ao teu tamanho"
 
 msgid "change tempo by %n"
-msgstr "alterar o ritmo de %n"
+msgstr "adiciona %n bpm ao teu andamento"
 
 msgid "change volume by %n"
-msgstr "alterar o volume de %n"
+msgstr "adiciona %n% ao teu volume"
 
 msgid "change x by %n"
-msgstr "alterar x de %n"
+msgstr "adiciona %n à tua coordenada x"
 
 msgid "change y by %n"
-msgstr "alterar y de %n"
+msgstr "adiciona %n à tua coordenada y"
 
 msgid "clear"
-msgstr "apagar"
+msgstr "apaga tudo do palco"
 
 msgid "clear graphic effects"
-msgstr "limpar efeitos gráficos"
+msgstr "cancela os teus efeitos gráficos"
 
 msgid "color %c is touching %c?"
 msgstr "a cor %c está a tocar na cor %c"
 
 msgid "Control"
-msgstr "controlo"
+msgstr "Controlo"
 
 msgid "costume #"
-msgstr "número do traje"
+msgstr "o número do traje"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "cria um clone de %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "%m.timeAndDate actual"
 
 msgid "Data"
-msgstr ""
+msgstr "Dados"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "o número de dias desde 2000"
 
 msgid "define"
-msgstr ""
+msgstr "Define"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "remover %d.listDeleteItem item(s) de %m.list"
+msgstr "remove %d.listDeleteItem de %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "remove este clone"
 
 msgid "direction"
-msgstr "direcção"
+msgstr "a direcção"
 
 msgid "distance"
-msgstr ""
+msgstr "a distância"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "distância até %m.spriteOrMouse"
+msgstr "a distância até %m.spriteOrMouse"
 
 msgid "else"
 msgstr "senão,"
 
 msgid "Events"
-msgstr ""
+msgstr "Eventos"
 
 msgid "forever"
-msgstr "repetir para sempre"
+msgstr "para sempre,"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "deslizar em %n segundos para x:%n y:%n"
+msgstr "desliza em %n s para as coordenadas (x:%n, y:%n)"
 
 msgid "go back %n layers"
-msgstr "afastar %n camadas"
+msgstr "recua %n camadas"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "ir para %m.spriteOrMouse"
+msgstr "vai para a posição de %m.spriteOrMouse"
 
 msgid "go to front"
-msgstr "vir para a frente"
+msgstr "vem para a frente"
 
 msgid "go to x:%n y:%n"
-msgstr "ir para x:%n y:%n"
+msgstr "vai para as coordenadas (x:%n, y:%n)"
 
 msgid "hide"
-msgstr "esconder"
+msgstr "esconde-te"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "esconde a lista %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "esconde a variável %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "se %b, então"
 
 msgid "if on edge, bounce"
-msgstr "se bater na borda, ressaltar"
+msgstr "se estiveres a bater na borda, ressalta"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "inserir %s em %d.listItem item(s) de %m.list"
+msgstr "insere %s antes de %d.listItem de %m.list"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%d.listItem item(s) de %m.list"
+msgstr "%d.listItem de %m.list"
 
 msgid "join %s %s"
-msgstr "junção de %s com %s"
+msgstr "a junção de %s com %s"
 
 msgid "key %m.key pressed?"
 msgstr "a tecla %m.key está a ser pressionada"
 
 msgid "length of %m.list"
-msgstr "comprimento de %m.list"
+msgstr "o comprimento de %m.list"
 
 msgid "length of %s"
-msgstr "comprimento de %s"
+msgstr "o comprimento de %s"
 
 msgid "letter %n of %s"
-msgstr "letra %n de %s"
+msgstr "o caractere %n de %s"
 
 msgid "Looks"
-msgstr "aparência"
+msgstr "Aparência"
 
 msgid "loudness"
-msgstr "volume"
+msgstr "o volume"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Mais Blocos"
 
 msgid "Motion"
-msgstr "movimento"
+msgstr "Movimento"
 
 msgid "mouse down?"
-msgstr "o botão do rato está carregado"
+msgstr "o botão do rato está pressionado"
 
 msgid "mouse x"
-msgstr "x do rato"
+msgstr "a coordenada x do rato"
 
 msgid "mouse y"
-msgstr "y do rato"
+msgstr "a coordenada y do rato"
 
 msgid "move %n steps"
-msgstr "andar %n passos"
+msgstr "anda %n passos"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
-msgstr "passar para o próximo fundo"
+msgstr "passa para o próximo cenário"
 
 msgid "next costume"
-msgstr "passar para o próximo traje"
+msgstr "passa para o próximo traje"
 
 msgid "not %b"
-msgstr "não %b"
+msgstr "é falso que %b"
 
 msgid "Operators"
-msgstr "operadores"
+msgstr "Operadores"
 
 msgid "Pen"
-msgstr "caneta"
+msgstr "Caneta"
 
 msgid "pen down"
-msgstr "baixar a caneta"
+msgstr "baixa a tua caneta"
 
 msgid "pen up"
-msgstr "levantar a caneta"
+msgstr "levanta a tua caneta"
 
 msgid "pick random %n to %n"
-msgstr "valor ao acaso entre %n e %n"
+msgstr "um valor ao acaso entre %n e %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "tocar o tambor %d.drum durante %n batimentos"
+msgstr "toca o tambor %d.drum durante %n tempos"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "tocar a nota %d.note durante %n batimentos"
+msgstr "toca a nota %d.note durante %n tempos"
 
 msgid "play sound %m.sound"
-msgstr "tocar o som %m.sound"
+msgstr "toca o som %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr "tocar o som %m.sound até terminar"
+msgstr "toca o som %m.sound até terminar"
 
 msgid "point in direction %d.direction"
-msgstr "apontar para a direcção %d.direction"
+msgstr "altera a tua direcção para %d.directionº"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "apontar em direcção a %m.spriteOrMouse"
+msgstr "aponta em direcção a %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr "repetir %n vezes"
+msgstr "repete %n vezes"
 
 msgid "repeat until %b"
-msgstr "até que %b, repetir"
+msgstr "até que %b, repete"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "substituir %d.listItem item(s) de %m.list por %s"
+msgstr "substitui %d.listItem de %m.list por %s"
 
 msgid "reset timer"
-msgstr "reiniciar o temporizador"
+msgstr "reinicia o cronómetro"
 
 msgid "rest for %n beats"
-msgstr "descansar durante %n batimentos"
+msgstr "faz uma pausa de %n tempos"
 
 msgid "round %n"
-msgstr "arredondamento de %n"
+msgstr "o arredondamento de %n"
 
 msgid "say %s"
-msgstr "dizer %s"
+msgstr "diz %s"
 
 msgid "say %s for %n secs"
-msgstr "dizer %s durante %n segundos"
+msgstr "diz %s durante %n s"
 
 msgid "Sensing"
-msgstr "sensores"
+msgstr "Sensores"
 
 msgid "sensor %m.booleanSensor?"
 msgstr "o sensor %m.booleanSensor está activo"
 
 msgid "set %m.effect effect to %n"
-msgstr "alterar o efeito %m.effect para %n"
+msgstr "altera o teu efeito %m.effect para %n"
 
 msgid "set %m.var to %s"
-msgstr "alterar %m.var para %n"
+msgstr "altera %m.var para %n"
 
 msgid "set instrument to %d.instrument"
-msgstr "alterar o instrumento para %d.instrument"
+msgstr "altera o teu instrumento para %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "direccionar o motor %m.motorDirection"
+msgstr "direcciona o motor %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "alterar potência do motor para %n"
+msgstr "altera a potência do motor para %n%"
 
 msgid "set pen color to %c"
-msgstr "alterar a cor da caneta para %c"
+msgstr "altera a cor da tua caneta para %c"
 
 msgid "set pen color to %n"
-msgstr "alterar a cor da caneta para %c"
+msgstr "altera a cor da tua caneta para %n"
 
 msgid "set pen shade to %n"
-msgstr "alterar o tom da caneta para %n"
+msgstr "altera o tom da tua caneta para %n"
 
 msgid "set pen size to %n"
-msgstr "alterar o tamanho da caneta para %n"
+msgstr "altera a espessura da tua caneta para %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "altera o teu estilo de rotação para %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr "alterar o tamanho para %n%"
+msgstr "altera o teu tamanho para %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "alterar o ritmo para %n bpm"
+msgstr "altera o teu andamento para %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "altera a transparência do vídeo para %n%"
 
 msgid "set volume to %n%"
-msgstr "alterar o volume para %n%"
+msgstr "altera o teu volume para %n%"
 
 msgid "set x to %n"
-msgstr "alterar x para %n"
+msgstr "altera a tua coordenada x para %n"
 
 msgid "set y to %n"
-msgstr "alterar y para %n"
+msgstr "altera a tua coordenada y para %n"
 
 msgid "show"
-msgstr "mostrar"
+msgstr "mostra-te"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "mostra a lista %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "mostra a variável %m.var"
 
 msgid "size"
-msgstr "tamanho"
+msgstr "o tamanho"
 
 msgid "Sound"
-msgstr "som"
+msgstr "Som"
 
 msgid "stamp"
-msgstr "carimbar"
+msgstr "carimba-te"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "pára %m.stop"
 
 msgid "stop all sounds"
-msgstr "parar todos os sons"
+msgstr "pára todos os sons"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "muda o cenário para %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "muda o cenário para %m.backdrop e espera"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "muda o traje para %m.costume"
 
 msgid "tempo"
-msgstr "ritmo"
+msgstr "o andamento"
 
 msgid "think %s"
-msgstr "pensar %s"
+msgstr "pensa %s"
 
 msgid "think %s for %n secs"
-msgstr "pensar %s durante %n segundos"
+msgstr "pensa %s durante %n s"
 
 msgid "tilt"
-msgstr ""
+msgstr "a inclinação"
 
 msgid "timer"
-msgstr "temporizador"
+msgstr "o valor do cronómetro"
 
 msgid "touching %m.touching?"
-msgstr "está a tocar na(o) %m.touching"
+msgstr "estás a tocar em %m.touching"
 
 msgid "touching color %c?"
-msgstr "está a tocar na cor %c"
+msgstr "estás a tocar na cor %c"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "gira @turnLeft %nº"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "gira @turnRight %nº"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "desliga o motor"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "liga o motor"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "ligar motor durante %n segundos"
+msgstr "liga o motor durante %n s"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "altera o estado do vídeo para %m.videoState"
 
-msgid "user id"
-msgstr ""
+msgid "user name"
+msgstr "nome de utilizador"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "%m.videoMotionType do vídeo em %m.stageOrThis"
 
 msgid "volume"
-msgstr "volume"
+msgstr "o volume"
 
 msgid "wait %n secs"
-msgstr "esperar %n segundos"
+msgstr "espera %n s"
 
 msgid "wait until %b"
-msgstr "esperar até que %b"
+msgstr "espera até que %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "o sensor %m.booleanSensor está activo"
+msgstr "Quando o sensor %m.booleanSensor estiver activo"
 
 msgid "when %m.key key pressed"
-msgstr "quando a tecla %m.key for pressionada"
+msgstr "Quando alguém pressionar a tecla %m.key"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "Quando o valor do sensor %m.triggerSensor exceder %n"
 
 msgid "when @greenFlag clicked"
-msgstr "quando a(o) @greenFlag for clicada(o)"
+msgstr "Quando alguém clicar em @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "Quando o cenário mudar para %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "Quando a distância for inferior a %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "Quando receberes a mensagem %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "Quando fores criado como um clone"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "Quando alguém clicar em ti"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "Quando a inclinação for %n"
 
 msgid "x position"
-msgstr "posição x"
+msgstr "a coordenada x da posição"
 
 msgid "y position"
-msgstr "posição y"
+msgstr "a coordenada y  da posição"
+
+#~ msgid "user id"
+#~ msgstr "o identificador do utilizador"
 
 #~ msgid "forever if %b"
 #~ msgstr "se %b, repetir para sempre"

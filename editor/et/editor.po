@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-29 20:51+0200\n"
-"PO-Revision-Date: 2013-02-18 21:54+0200\n"
+"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"PO-Revision-Date: 2013-04-28 13:51+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -13,29 +13,33 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
 
-#~ msgid "#"
-#~ msgstr "#"
-
 msgid "10 ^"
 msgstr "10 ^"
+
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu toetatakse ainult "
+"arve<br>Vestluste ruumid ei ole lubatud ja eemaldatakse<br>Täiendav info, <a "
+"href= target=>vaata pilveandmete FAQ!</a>"
 
 msgid "A connected"
 msgstr "A ühendatud"
 
+msgid "a copy of the project file on your computer."
+msgstr "kopeerida projekt oma arvutisse."
+
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "Konto seaded"
 
 msgid "acos"
 msgstr "acos"
 
-msgid "Add a boolean input:"
+# 90%
+msgid "Add boolean input:"
 msgstr "Lisa loogikaparameeter:"
-
-msgid "Add a number input:"
-msgstr "Lisa arvparameeter:"
-
-msgid "Add a string input:"
-msgstr "Lisa tekstparameeter:"
 
 msgid "add comment"
 msgstr "lisa kommentaar"
@@ -43,14 +47,34 @@ msgstr "lisa kommentaar"
 msgid "Add label text:"
 msgstr "Lisa märgend:"
 
+# 89%
+msgid "Add number input:"
+msgstr "Lisa arvparameeter:"
+
+# 89%
+msgid "Add string input:"
+msgstr "Lisa tekstparameeter:"
+
 msgid "all"
 msgstr "kõik"
+
+msgid "All"
+msgstr "Koik"
 
 msgid "all around"
 msgstr "kõikjal"
 
+msgid "Animal"
+msgstr "Loom"
+
+msgid "Animals"
+msgstr "Loomad"
+
 msgid "asin"
 msgstr "asin"
+
+msgid "assets loaded"
+msgstr "laetud"
 
 msgid "atan"
 msgstr "atan"
@@ -58,14 +82,38 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B on ühendatud"
 
+msgid "Back a layer"
+msgstr "Üks kiht tagasi"
+
+# 88%
+msgid "backdrop"
+msgstr "taust"
+
+# 88%
+# 87%
+msgid "Backdrop"
+msgstr "Taust"
+
 msgid "backdrop #"
 msgstr "taust #"
+
+msgid "Backdrop Library"
+msgstr "Taustade teek"
 
 msgid "backdrop name"
 msgstr "tausta nimi"
 
 msgid "backdrop1"
 msgstr "taust1"
+
+# 88%
+msgid "backdrops"
+msgstr "taustad"
+
+# 88%
+# 88%
+msgid "Backdrops"
+msgstr "Taustad"
 
 msgid "Backpack"
 msgstr "Pagas"
@@ -74,26 +122,43 @@ msgid "Bass"
 msgstr "Bass"
 
 msgid "Bass Drum"
-msgstr "basstrumm"
+msgstr "Basstrumm"
 
 msgid "Bassoon"
 msgstr "Fagott"
 
-#, fuzzy
+msgid "Bitmap"
+msgstr "Raster"
+
+msgid "Bitmap Mode"
+msgstr "Rastergraafika"
+
+msgid "Block help"
+msgstr "Abiinfo plokk"
+
 msgid "Bongo"
-msgstr "bongo"
-
-#~ msgid "bottom-left"
-#~ msgstr "all vasakul"
-
-#~ msgid "bottom-right"
-#~ msgstr "all paremal"
+msgstr "Bongo"
 
 msgid "brightness"
 msgstr "heledus"
 
+msgid "Bring to front"
+msgstr "Too esiplaanile"
+
+msgid "Broadcast"
+msgstr "Teavitus"
+
+msgid "Brush"
+msgstr "Pintsel"
+
 msgid "button pressed"
 msgstr "nupp vajutatud"
+
+msgid "by"
+msgstr "kaupa"
+
+msgid "bytes loaded"
+msgstr "baiti laetud"
 
 msgid "C connected"
 msgstr "C ühendatud"
@@ -104,11 +169,26 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Kaamera"
 
+msgid "can drag in player:"
+msgstr "saab lohistada täitmisel:"
+
+msgid "Cancel"
+msgstr "Katkesta"
+
 msgid "Cannot Delete"
 msgstr "Ei saa kustutada"
 
+msgid "Can’t find network connection or reach server."
+msgstr "Ei leia võrguühendust või serverit."
+
+msgid "Castle"
+msgstr "Loss"
+
+msgid "Category"
+msgstr "Kategooria"
+
 msgid "ceiling"
-msgstr "ceiling"
+msgstr "lagi"
 
 msgid "Cello"
 msgstr "Tšello"
@@ -116,32 +196,78 @@ msgstr "Tšello"
 msgid "Choir"
 msgstr "Koor"
 
+msgid "Circle"
+msgstr "Ring"
+
+msgid "City"
+msgstr "Linn"
+
 msgid "Clarinet"
 msgstr "Klarnet"
 
 msgid "Claves"
 msgstr "Klaves"
 
+msgid "Clear"
+msgstr "Kustuta"
+
 msgid "clear senders/receivers"
 msgstr "kustuta saatjad/saajad"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Klõpsa...uueks katseks või...salvestamiseks"
+
+msgid "Close"
+msgstr "Sulge"
 
 msgid "Closed Hi-Hat"
 msgstr "Suletud Hi-Hat"
 
+msgid "Cloud"
+msgstr "Pilv"
+
+msgid "Cloud data"
+msgstr "Pilveandmed"
+
 msgid "color"
 msgstr "värv"
 
+msgid "Color a shape"
+msgstr "Värvi kujund"
+
 msgid "Conga"
-msgstr ""
+msgstr "Konga"
+
+msgid "Connecting to Cloud data server..."
+msgstr "Ühendamine pilveandmete serveriga..."
+
+msgid "Convert to bitmap"
+msgstr "Teisenda rastergraafikaks"
+
+msgid "Convert to vector"
+msgstr "Teisenda vektorgraafikaks"
+
+msgid "Converting mp3..."
+msgstr "Mp3 teisendamine..."
 
 msgid "copy"
 msgstr "kopeeri"
 
+msgid "Copying..."
+msgstr "Kopeerimine..."
+
 msgid "cos"
 msgstr "cos"
 
+# 75%
+msgid "Costume"
+msgstr "Kostüüm"
+
 msgid "costume #"
 msgstr "kostüüm #"
+
+msgid "Costume Library"
+msgstr "Kostüümide teek"
 
 msgid "costume name"
 msgstr "kostüümi nimi"
@@ -153,11 +279,27 @@ msgstr "kostüüm1"
 msgid "costume2"
 msgstr "kostüüm2"
 
+# 75%
+msgid "Costumes"
+msgstr "Kostüümid"
+
+msgid "Costumes > 1"
+msgstr "Kostüümid > 1"
+
+msgid "Costumes:"
+msgstr "Kostüümid:"
+
 msgid "Cowbell"
 msgstr "Karjakell"
 
 msgid "Crash Cymbal"
 msgstr "Crash Cymbal"
+
+msgid "Creating..."
+msgstr "Loomine..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "Praegu saab pilvemuutujatesse salvestada ainul arve."
 
 msgid "cut"
 msgstr "lõika"
@@ -171,11 +313,22 @@ msgstr "kuupäev"
 msgid "day of week"
 msgstr "nädalapäev"
 
+# 83%
+msgid "Delete"
+msgstr "Eemalda"
+
 msgid "delete"
 msgstr "eemalda"
 
+msgid "delete variable"
+msgstr "eemalda muutuja"
+
 msgid "direction"
 msgstr "suund"
+
+# 90%
+msgid "direction:"
+msgstr "suund:"
 
 msgid "don't rotate"
 msgstr "ei pöördu"
@@ -185,6 +338,12 @@ msgstr "alla"
 
 msgid "down arrow"
 msgstr "allanool"
+
+msgid "Download"
+msgstr "Lae alla"
+
+msgid "Download to your computer"
+msgstr "Lae alla oma arvutisse"
 
 msgid "Duplicate"
 msgstr "Paljunda"
@@ -204,6 +363,9 @@ msgstr "redigeeri"
 msgid "Edit"
 msgstr "Redigeeri"
 
+msgid "Edit Block"
+msgstr "Redigeeri plokk"
+
 msgid "Effects"
 msgstr "Efektid"
 
@@ -213,17 +375,44 @@ msgstr "Elektrikitarr"
 msgid "Electric Piano"
 msgstr "Elektriklaver"
 
+msgid "Electronic"
+msgstr "Elektrooniline"
+
+msgid "Ellipse"
+msgstr "Ellips"
+
+msgid "Erase"
+msgstr "Kustuta"
+
+msgid "Eraser width:"
+msgstr "Kustutaja:"
+
 msgid "fade in"
 msgstr "tuhmumine sisse"
 
 msgid "fade out"
 msgstr "tuhmumine välja"
 
+msgid "Fantasy"
+msgstr "Fantaasia"
+
+msgid "Features"
+msgstr "V'imalused"
+
 msgid "File"
 msgstr "Fail"
 
+msgid "Fill with color"
+msgstr "Täida värviga"
+
 msgid "fisheye"
 msgstr "kalasilm"
+
+msgid "Flip left-right"
+msgstr "Horisontaalne peegeldus"
+
+msgid "Flip up-down"
+msgstr "Vertikaalne peegeldus"
 
 msgid "floor"
 msgstr "põrand"
@@ -231,12 +420,32 @@ msgstr "põrand"
 msgid "Flute"
 msgstr "Flööt"
 
+msgid "Flying"
+msgstr "Lendav"
+
+msgid "For all sprites"
+msgstr "Kõikide spraitide jaoks"
+
+msgid "For this sprite only"
+msgstr "Ainult selle spraidi jaoks"
+
+msgid "Forward a layer"
+msgstr "Üks kiht edasi"
+
 msgid "ghost"
 msgstr "kummitus"
 
-#, fuzzy
+msgid "Go to My Stuff"
+msgstr "Mine Minu Asjad"
+
+msgid "Group"
+msgstr "Grupp"
+
+msgid "Grow"
+msgstr "Kasvata"
+
 msgid "Guiro"
-msgstr "Guiro"
+msgstr "Guro"
 
 msgid "Guitar"
 msgstr "Gitar"
@@ -244,11 +453,29 @@ msgstr "Gitar"
 msgid "Hand Clap"
 msgstr "Käteplagin"
 
+msgid "hide"
+msgstr "peida"
+
 msgid "hour"
 msgstr "tund"
 
+msgid "Human"
+msgstr "Inimene"
+
 msgid "Import"
 msgstr "Impordi"
+
+msgid "Importing sound..."
+msgstr "Heli importimine..."
+
+msgid "Indoors"
+msgstr "Väljas"
+
+msgid "Installing..."
+msgstr "Instaleerimine..."
+
+msgid "Instruments"
+msgstr "Instrumendid"
 
 msgid "last"
 msgstr "viimane"
@@ -268,14 +495,30 @@ msgstr "Teek"
 msgid "light"
 msgstr "heledus"
 
+msgid "limit reached"
+msgstr "on jõutud piirini"
+
+msgid "Line"
+msgstr "Joon"
+
+msgid "Line width:"
+msgstr "Joone paksus:"
+
+# 75%
+msgid "list"
+msgstr "loend"
+
+msgid "List name"
+msgstr "Loendi nimi"
+
 msgid "ln"
 msgstr "sees"
 
+msgid "Loading project..."
+msgstr "Projekti laadimine..."
+
 msgid "log"
 msgstr "log"
-
-msgid "login"
-msgstr "logi sisse"
 
 msgid "louder"
 msgstr "valjemini"
@@ -283,15 +526,32 @@ msgstr "valjemini"
 msgid "loudness"
 msgstr "valjus"
 
+msgid "Make a Block"
+msgstr "Tee plokk"
+
+msgid "Make a List"
+msgstr "Tee loend"
+
+msgid "Make a Variable"
+msgstr "Tee muutuja"
+
 msgid "Marimba"
 msgstr "Marimba"
+
+msgid "Max"
+msgstr "Maks"
+
+msgid "meow"
+msgstr "mäu"
+
+msgid "Message Name"
+msgstr "Teate nimi"
 
 msgid "message1"
 msgstr "teade1"
 
-#, fuzzy
-msgid "middle"
-msgstr "keskel"
+msgid "Min"
+msgstr "Min"
 
 msgid "minute"
 msgstr "minut"
@@ -308,36 +568,71 @@ msgstr "liikumine"
 msgid "mouse-pointer"
 msgstr "hiirekursor"
 
-msgid "Music Box"
-msgstr "Music Box"
+msgid "Multiple"
+msgstr "Mitmekordne"
 
-#, fuzzy
+msgid "Music and Dance"
+msgstr "Muusika ja tants"
+
+msgid "Music Box"
+msgstr "Muusikatoos"
+
+msgid "Music Loops"
+msgstr "Muusikapala"
+
+msgid "My Stuff"
+msgstr "Minu Asjad"
+
 msgid "myself"
 msgstr "ennast"
 
-#~ msgid "name"
-#~ msgstr "nimi"
+msgid "Nature"
+msgstr "Loodus"
 
-#~ msgid "New"
-#~ msgstr "Uus"
+msgid "New"
+msgstr "Uus"
 
-msgid "New backdrop"
-msgstr "Uus taust"
+# 92%
+msgid "New backdrop:"
+msgstr "Uus taust:"
 
-msgid "New costume"
-msgstr "Uus kostüüm"
+# 91%
+msgid "New costume:"
+msgstr "Uus kostüüm:"
+
+msgid "New List"
+msgstr "Uus loend"
 
 msgid "new message..."
 msgstr "uus teade..."
 
-msgid "New sound"
-msgstr "Uus heli"
+msgid "New name"
+msgstr "Uus nimi"
 
-#~ msgid "New sprite:"
-#~ msgstr "Uus sprait:"
+# 90%
+msgid "New sound:"
+msgstr "Uus heli:"
+
+msgid "New sprite:"
+msgstr "Uus sprait:"
+
+msgid "New Variable"
+msgstr "Uus muutuja"
+
+msgid "No motion blocks"
+msgstr "Pole liikumiskäske"
+
+msgid "Not saved; network or server problem."
+msgstr "Ei ole salvestatud: võrgu või serveri probleem."
+
+msgid "of"
+msgstr " "
 
 msgid "off"
 msgstr "väljas"
+
+msgid "OK"
+msgstr "OK"
 
 msgid "on"
 msgstr "sees"
@@ -351,24 +646,43 @@ msgstr "Open Cuica"
 msgid "Open Hi-Hat"
 msgstr "Open Hi-Hat"
 
+msgid "Options"
+msgstr "Valikud"
+
 msgid "Organ"
 msgstr "Orel"
+
+msgid "Other"
+msgstr "Muud"
 
 # 82%
 msgid "other scripts in sprite"
 msgstr "teised spraidi skriptid"
 
-msgid "Paint"
-msgstr "Joonista"
+msgid "Outdoors"
+msgstr "Õues"
 
 msgid "paste"
 msgstr "kleebi"
+
+msgid "Pencil"
+msgstr "Pliiats"
+
+msgid "People"
+msgstr "Inimesed"
+
+msgid "Percussion"
+msgstr "Löökriistad"
 
 msgid "photo1"
 msgstr "foto1"
 
 msgid "Piano"
 msgstr "Klaver"
+
+# 92%
+msgid "Pick up color"
+msgstr "Nopi värv"
 
 msgid "pixelate"
 msgstr "pikselda"
@@ -379,6 +693,12 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "Profile"
+msgstr "Profiil"
+
+msgid "Project not saved!"
+msgstr "Projekt pole salvestatud!"
+
 msgid "random"
 msgstr "juhuslik"
 
@@ -388,11 +708,33 @@ msgstr "Lindista"
 msgid "recording1"
 msgstr "lindistus1"
 
+msgid "Rectangle"
+msgstr "Ristkülik"
+
 msgid "redo"
 msgstr "tee uuesti"
 
+# 75%
+msgid "Redo"
+msgstr "Tee uuesti"
+
 msgid "Remix"
 msgstr "Remiksi"
+
+msgid "Remixing..."
+msgstr "Remiksimine..."
+
+msgid "Rename"
+msgstr "Muuda nime"
+
+msgid "rename variable"
+msgstr "muuda muutuja nime"
+
+msgid "requires sign in"
+msgstr "nõutav sisselogimine"
+
+msgid "Reshape"
+msgstr "Uus kuju"
 
 msgid "resistance-A"
 msgstr "takistus-A"
@@ -407,7 +749,13 @@ msgid "resistance-D"
 msgstr "takistus-D"
 
 msgid "reverse"
-msgstr "reverse"
+msgstr "reevers"
+
+msgid "Revert"
+msgstr "Tagasipööre"
+
+msgid "Reverting..."
+msgstr "Tagasipööramine..."
 
 msgid "right"
 msgstr "parem"
@@ -415,14 +763,46 @@ msgstr "parem"
 msgid "right arrow"
 msgstr "paremnool"
 
+msgid "rotation style:"
+msgstr "pööramise stiil:"
+
+msgid "Run without screen refresh"
+msgstr "Täida ekraani värskendamata"
+
+msgid "Save"
+msgstr "Salvesta"
+
+msgid "Save as a copy"
+msgstr "Salvesta koopiana"
+
+msgid "Save now"
+msgstr "Salvesta nüüd"
+
+msgid "save to local file"
+msgstr "salvesta lokaalsesse faili"
+
+msgid "Saved"
+msgstr "Salvestatud"
+
+msgid "Saving changes..."
+msgstr "Muutuste salvestamine..."
+
+msgid "Saving..."
+msgstr "Salvestamine..."
+
 msgid "Saxophone"
 msgstr "Saksafon"
 
-#~ msgid "say"
-#~ msgstr "ütle"
+# 85%
+msgid "Script"
+msgstr "Skript"
 
-msgid "Scratch Cat"
-msgstr "Kraps"
+msgid "Scripts"
+msgstr "Skriptid"
+
+# 87%
+msgid "Scripts:"
+msgstr "Skriptid:"
 
 msgid "second"
 msgstr "sekund"
@@ -430,15 +810,36 @@ msgstr "sekund"
 msgid "See project page"
 msgstr "Vaata projekti"
 
+msgid "Select"
+msgstr "Selekti"
+
 msgid "select all"
 msgstr "vali kõik"
+
+msgid "Select and duplicate"
+msgstr "Selecti ja paljunda"
+
+msgid "Send to back"
+msgstr "Saada tagaplaanile"
+
+# 88%
+msgid "Set costume center"
+msgstr "Määra kostüümi kese"
+
+msgid "Set Costume Center"
+msgstr "Määra kostüümi kese"
 
 msgid "Share"
 msgstr "Jaga"
 
-#, fuzzy
-msgid "shout"
-msgstr "hüüa"
+msgid "shared"
+msgstr "ühiskasutuses"
+
+msgid "Shift:"
+msgstr "Vahetus:"
+
+msgid "show"
+msgstr "näita"
 
 msgid "show receivers"
 msgstr "näita vastuvõtjaid"
@@ -446,8 +847,23 @@ msgstr "näita vastuvõtjaid"
 msgid "show senders"
 msgstr "näita saatjaid"
 
+msgid "show:"
+msgstr "näita:"
+
+msgid "Shrink"
+msgstr "Kahanda"
+
 msgid "Side Stick"
-msgstr "Side Stick"
+msgstr "Külgepanema"
+
+msgid "Sign in"
+msgstr "Logi sisse"
+
+msgid "Sign in to save"
+msgstr "Salvestamiseks logi sisse"
+
+msgid "Sign out"
+msgstr "Välja logimine"
 
 msgid "silence"
 msgstr "vaikus"
@@ -461,17 +877,55 @@ msgstr "suurus"
 msgid "slider"
 msgstr "liugur"
 
+msgid "Slider Range"
+msgstr "Liuguri vahemik"
+
+msgid "Small stage layout"
+msgstr "Vikene lava"
+
+msgid "Smooth"
+msgstr "Sile"
+
 msgid "Snare Drum"
 msgstr "Snare Drum"
 
 msgid "softer"
 msgstr "pehmem"
 
+# 80%
+msgid "Sound"
+msgstr "Helind"
+
 msgid "sound"
 msgstr "helind"
 
+msgid "Sound Library"
+msgstr "Helindite teek"
+
+msgid "Sounds"
+msgstr "Helid"
+
 msgid "space"
 msgstr "tühik"
+
+# 80%
+msgid "Space"
+msgstr "Tühik"
+
+msgid "Sports"
+msgstr "Sport"
+
+# 85%
+msgid "Sprite"
+msgstr "Sprait"
+
+msgid "Sprite Library"
+msgstr "Spraitide teek"
+
+# 85%
+# 85%
+msgid "Sprite1"
+msgstr "Sprait1"
 
 msgid "Sprites"
 msgstr "Spraidid"
@@ -479,17 +933,27 @@ msgstr "Spraidid"
 msgid "sqrt"
 msgstr "sqrt"
 
+msgid "Square"
+msgstr "Ruut"
+
 msgid "Stage"
 msgstr "Lava"
 
+# 93%
+msgid "Stage selected:"
+msgstr "Lava on valitud:"
+
 msgid "Steel Drum"
-msgstr "Steel Drum"
+msgstr "Terastrumm"
+
+msgid "stored on server"
+msgstr "salvestatud serverisse"
 
 msgid "Synth Lead"
-msgstr "Synth Lead"
+msgstr "Süntesaator"
 
 msgid "Synth Pad"
-msgstr "Synth Pad"
+msgstr "Süntesaator"
 
 msgid "Tambourine"
 msgstr "Tamburiin"
@@ -497,11 +961,27 @@ msgstr "Tamburiin"
 msgid "tan"
 msgstr "tan"
 
+msgid "Text"
+msgstr "Tekst"
+
 msgid "that way"
 msgstr "nii"
 
-#~ msgid "think"
-#~ msgstr "mõtle"
+msgid "Theme"
+msgstr "Teema"
+
+msgid "Things"
+msgstr "Asjad"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr ""
+"Projekt saab \"kasutajanime\" abil teha kindlaks, kes seda kasutab. Oma "
+"identiteedi peitmiseks logige välja enne projekti kasutamist."
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+"Antud projekt kasutab pilveandmeid - võimalus on kättesaadav ainult "
+"sisselogitud kasutajatele."
 
 msgid "this script"
 msgstr "see skript"
@@ -512,6 +992,9 @@ msgstr "see sprait"
 msgid "this way"
 msgstr "sedaviisi"
 
+msgid "Throw away all changes since opening this project?"
+msgstr "Jätke ära kõik muudatused alates antud projekti avamisest?"
+
 msgid "timer"
 msgstr "taimer"
 
@@ -521,11 +1004,8 @@ msgstr "Selgitused"
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "Enne ploki kirjelduse eemaldamist, eemalda kõik ploki kasutused."
 
-#~ msgid "top-left"
-#~ msgstr "ülal vasakul"
-
-#~ msgid "top-right"
-#~ msgstr "ülal paremal"
+msgid "Transportation"
+msgstr "Transportimine"
 
 msgid "Triangle"
 msgstr "Triangel"
@@ -533,14 +1013,68 @@ msgstr "Triangel"
 msgid "Trombone"
 msgstr "Tromboon"
 
+# 90%
+msgid "Turbo mode"
+msgstr "Turborežhiim"
+
+msgid "Turbo Mode"
+msgstr "Turborežhiim"
+
+msgid "Type"
+msgstr "Tüüp"
+
+# 75%
+msgid "Undelete"
+msgstr "Taasta"
+
+msgid "Underwater"
+msgstr "Veealune"
+
+# 75%
+msgid "Undo"
+msgstr "Tagasivõtt"
+
 msgid "undo"
 msgstr "tagasivõtt"
+
+msgid "Undo Revert"
+msgstr "Võta tagasi tagasipööre"
+
+msgid "Ungroup"
+msgstr "Lahtigrupeerimine"
+
+msgid "unshared"
+msgstr "pole jagatud"
 
 msgid "up"
 msgstr "üles"
 
 msgid "up arrow"
 msgstr "ülesnool"
+
+msgid "Upload from your computer"
+msgstr "Lae ülesse oma arvutist"
+
+msgid "Uploading image..."
+msgstr "Pildi üleslaadimine..."
+
+msgid "Uploading sound..."
+msgstr "Helindi üleslaadimine..."
+
+msgid "Uploading sprite..."
+msgstr "Spraidi üleslaadimine..."
+
+msgid "variable"
+msgstr "muutuja"
+
+msgid "Variable name"
+msgstr "Muutuja nimi"
+
+msgid "Vector"
+msgstr "Vektor"
+
+msgid "Vector Mode"
+msgstr "Vektorgraafika"
 
 msgid "Vibraphone"
 msgstr "Vibrafon"
@@ -549,22 +1083,34 @@ msgid "Vibraslap"
 msgstr "Põskvibrafon"
 
 msgid "video motion"
-msgstr ""
+msgstr "videoklipp"
+
+msgid "Video on:"
+msgstr "Video on sees:"
+
+msgid "Vocals"
+msgstr "Vokaalid"
 
 msgid "volume"
 msgstr "helitugevus"
 
+msgid "Walking"
+msgstr "Jalutamine"
+
+msgid "Want to save? Click remix"
+msgstr "Soovid salvestada? Klõpsa remiksi"
+
+msgid "Which column do you want to import"
+msgstr "Mis veergu soovid importida"
+
 msgid "whirl"
 msgstr "keere"
 
-#~ msgid "whisper"
-#~ msgstr "sosin"
-
 msgid "Wood Block"
-msgstr ""
+msgstr "Puiduplokk"
 
 msgid "Wooden Flute"
-msgstr "Wooden Flute"
+msgstr "Puduflööt"
 
 msgid "x position"
 msgstr "x"
@@ -574,6 +1120,73 @@ msgstr "y"
 
 msgid "year"
 msgstr "aasta"
+
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+"Sa ei saa muuta teise projekti pilveandmed<br>Muudatused, mis sa teed "
+"redaktoris on ajutised ja mitte püsivad."
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "Add a boolean input:"
+#~ msgstr "Lisa loogikaparameeter:"
+
+#~ msgid "Add a number input:"
+#~ msgstr "Lisa arvparameeter:"
+
+#~ msgid "Add a string input:"
+#~ msgstr "Lisa tekstparameeter:"
+
+#~ msgid "bottom-left"
+#~ msgstr "all vasakul"
+
+#~ msgid "bottom-right"
+#~ msgstr "all paremal"
+
+#~ msgid "login"
+#~ msgstr "logi sisse"
+
+#, fuzzy
+#~ msgid "middle"
+#~ msgstr "keskel"
+
+#~ msgid "name"
+#~ msgstr "nimi"
+
+#~ msgid "New backdrop"
+#~ msgstr "Uus taust"
+
+#~ msgid "New costume"
+#~ msgstr "Uus kostüüm"
+
+#~ msgid "New sound"
+#~ msgstr "Uus heli"
+
+#~ msgid "Paint"
+#~ msgstr "Joonista"
+
+#~ msgid "say"
+#~ msgstr "ütle"
+
+#~ msgid "Scratch Cat"
+#~ msgstr "Kraps"
+
+#, fuzzy
+#~ msgid "shout"
+#~ msgstr "hüüa"
+
+#~ msgid "think"
+#~ msgstr "mõtle"
+
+#~ msgid "top-left"
+#~ msgstr "ülal vasakul"
+
+#~ msgid "top-right"
+#~ msgstr "ülal paremal"
+
+#~ msgid "whisper"
+#~ msgstr "sosin"
 
 #~ msgid "any"
 #~ msgstr "mõni"
@@ -641,88 +1254,30 @@ msgstr "aasta"
 #~ msgid "Short Guiro"
 #~ msgstr "Short Guiro"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr "1 kiht tahapoole (Shift viib tahaplaanile)"
+#~ msgid "Back a layer (Shift: Send to back)"
+#~ msgstr "1 kiht tahapoole (Shift viib tahaplaanile)"
 
-# 88%
-msgid "backdrop"
-msgstr "taust1"
+#~ msgid "Duplicate (Shift: Multiple)"
+#~ msgstr "Paljunda (Shift: korduvalt)"
 
-# 88%
-msgid "backdrops"
-msgstr "taustad"
+#~ msgid "Ellipse (Shift: Circle)"
+#~ msgstr "ellips (Shift: ring)"
 
-msgid "by"
-msgstr ""
+#~ msgid "Fill"
+#~ msgstr "Täida"
 
-msgid "Duplicate (Shift: Multiple)"
-msgstr "Paljunda (Shift: korduvalt)"
-
-msgid "Ellipse (Shift: Circle)"
-msgstr "ellips (Shift: ring)"
-
-msgid "Erase"
-msgstr "Kustuta"
-
-msgid "Fill"
-msgstr "Täida"
-
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr "1 kiht ettepoole (Shift: esiplaanile)"
-
-msgid "Group"
-msgstr "Grupp"
-
-msgid "Line"
-msgstr "Joon"
+#~ msgid "Forward a layer (Shift: Bring to front)"
+#~ msgstr "1 kiht ettepoole (Shift: esiplaanile)"
 
 # 90%
-msgid "New sprite"
-msgstr "Uus sprait"
+#~ msgid "New sprite"
+#~ msgstr "Uus sprait"
 
-msgid "No motion blocks"
-msgstr "Pole liikumiskäske"
+#~ msgid "Pick up Color"
+#~ msgstr "nopi värv"
 
-msgid "Pencil"
-msgstr "Pliiats"
+#~ msgid "Rectangle (Shift: Square)"
+#~ msgstr "ristkülik (Shift: ruut)"
 
-msgid "Pick up Color"
-msgstr "nopi värv"
-
-msgid "Rectangle (Shift: Square)"
-msgstr "ristkülik (Shift: ruut)"
-
-msgid "Reshape"
-msgstr "Uus kuju"
-
-msgid "Scripts"
-msgstr "Skriptid"
-
-msgid "Select"
-msgstr "Selekti"
-
-msgid "Set Costume Center"
-msgstr "Määra kostüümi kese"
-
-msgid "shared"
-msgstr "ühiskasutuses"
-
-# 85%
-msgid "Sprite"
-msgstr "Sprait"
-
-msgid "Stage selected"
-msgstr "Lava on valitud"
-
-msgid "Text"
-msgstr "Tekst"
-
-msgid "Turbo Mode"
-msgstr "turborežhiim"
-
-#, fuzzy
-msgid "Ungroup"
-msgstr "Lahtigrupeerimine"
-
-msgid "unshared"
-msgstr "pole jagatud"
+#~ msgid "Stage selected"
+#~ msgstr "Lava on valitud"

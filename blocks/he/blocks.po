@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scratch Hebrew Version 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:34+0200\n"
-"PO-Revision-Date: 2013-04-02 16:23+0200\n"
-"Last-Translator: oradwe <orad@scratch.org.il>\n"
+"POT-Creation-Date: 2013-04-26 00:12+0200\n"
+"PO-Revision-Date: 2013-04-29 08:27+0200\n"
+"Last-Translator: MotiB <moti.ben.ari@gmail.com>\n"
 "Language-Team: Scratch Hebrew Translators <moti.ben.ari@gmail.com>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -149,7 +149,7 @@ msgid "glide %n secs to x:%n y:%n"
 msgstr "גלוש %n שניות ל :x %n :y %n"
 
 msgid "go back %n layers"
-msgstr "העבר שיכבה %n לאחור"
+msgstr "העבר %n שכבות לאחור"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "קפוץ אל %m.spriteOrMouse"
@@ -300,7 +300,7 @@ msgid "set %m.var to %s"
 msgstr "קבע %m.var ל %s"
 
 msgid "set instrument to %d.instrument"
-msgstr "קבע כלי נגינה %d.instrument"
+msgstr "קבע כלי נגינה ל %d.instrument"
 
 msgid "set motor direction %m.motorDirection"
 msgstr "קבע כיוון מנוע ל %m.motorDirection"
@@ -415,7 +415,7 @@ msgstr "הפעל מנוע ל %n שניות"
 msgid "turn video %m.videoState"
 msgstr "%m.videoState ל ווידיאו מצב שנה"
 
-msgid "user id"
+msgid "user name"
 msgstr "שם משתמש"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
@@ -453,7 +453,7 @@ msgid "when I receive %m.broadcast"
 msgstr "כשמתקבל מסר %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "כשאני מופעל כשיבוט (כפיל)"
+msgstr "כשאני מופעל ככפיל"
 
 msgid "when this sprite clicked"
 msgstr "כאשר לוחצים על דמות זו"
@@ -466,6 +466,9 @@ msgstr "מיקום על ציר x"
 
 msgid "y position"
 msgstr "מיקום על ציר y"
+
+#~ msgid "user id"
+#~ msgstr "שם משתמש"
 
 #~ msgid "clone startup"
 #~ msgstr "הפעל כפיל"

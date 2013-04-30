@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:34+0200\n"
-"PO-Revision-Date: 2013-04-05 11:06+0200\n"
+"POT-Creation-Date: 2013-04-26 00:12+0200\n"
+"PO-Revision-Date: 2013-04-27 13:26+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -425,8 +425,8 @@ msgstr "activa el motor %n segons"
 msgid "turn video %m.videoState"
 msgstr "posa vídeo %m.videoState"
 
-msgid "user id"
-msgstr "identificació d'usuari"
+msgid "user name"
+msgstr "nom d'usuari"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "%m.videoMotionType de vídeo a %m.stageOrThis"
@@ -476,6 +476,9 @@ msgstr "posició x"
 
 msgid "y position"
 msgstr "posició y"
+
+#~ msgid "user id"
+#~ msgstr "identificació d'usuari"
 
 # Aquest bloc s'executa al crear una copia d'un personatge, per tant cal deixar clar que és l'inici de les accions nomes realitzar la copia
 #~ msgid "clone startup"

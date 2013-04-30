@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-26 00:17+0200\n"
-"PO-Revision-Date: 2013-04-26 23:41+0200\n"
+"PO-Revision-Date: 2013-04-28 23:14+0200\n"
 "Last-Translator: ehermann <everton.hermann@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -412,10 +412,10 @@ msgid "Flying"
 msgstr "Voando"
 
 msgid "For all sprites"
-msgstr "Para todos os personagens"
+msgstr "Para todos os objetos"
 
 msgid "For this sprite only"
-msgstr "Para este personagem apenas"
+msgstr "Para este objeto apenas"
 
 msgid "Forward a layer"
 msgstr "Avançar uma camada"
@@ -598,7 +598,7 @@ msgid "New sound:"
 msgstr "Novo som:"
 
 msgid "New sprite:"
-msgstr "Novo personagem:"
+msgstr "Novo objeto:"
 
 msgid "New Variable"
 msgstr "Nova Variável"
@@ -640,7 +640,7 @@ msgid "Other"
 msgstr "Outro"
 
 msgid "other scripts in sprite"
-msgstr "outros roteiros no objeto"
+msgstr "outros programas do objeto"
 
 msgid "Outdoors"
 msgstr "Exterior"
@@ -778,10 +778,10 @@ msgid "Script"
 msgstr "Roteiros"
 
 msgid "Scripts"
-msgstr "Roteiros"
+msgstr "Programas"
 
 msgid "Scripts:"
-msgstr "Roteiros:"
+msgstr "Programas:"
 
 msgid "second"
 msgstr "segundo"
@@ -871,9 +871,8 @@ msgid "softer"
 msgstr "suavizar"
 
 # 80%
-#, fuzzy
 msgid "Sound"
-msgstr "som"
+msgstr "Som"
 
 msgid "sound"
 msgstr "som"
@@ -895,16 +894,16 @@ msgstr "Esportes"
 
 # 85%
 msgid "Sprite"
-msgstr "Personagens"
+msgstr "Objeto"
 
 msgid "Sprite Library"
-msgstr "Biblioteca de Personagens"
+msgstr "Biblioteca de Objetos"
 
 msgid "Sprite1"
-msgstr "Personagem1"
+msgstr "Objeto1"
 
 msgid "Sprites"
-msgstr "Personagens"
+msgstr "Objetos"
 
 msgid "sqrt"
 msgstr "raiz quadrada"
@@ -963,7 +962,7 @@ msgid "this script"
 msgstr "este roteiro"
 
 msgid "this sprite"
-msgstr "este personagem"
+msgstr "este objeto"
 
 msgid "this way"
 msgstr "neste sentido"

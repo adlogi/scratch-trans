@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:49+0200\n"
+"POT-Creation-Date: 2013-04-26 00:17+0200\n"
 "PO-Revision-Date: 2013-04-09 15:42+0200\n"
 "Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,23 +16,28 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+
 msgid "A connected"
 msgstr "A ansluten"
+
+msgid "a copy of the project file on your computer."
+msgstr ""
 
 msgid "abs"
 msgstr "abs"
 
+msgid "Account settings"
+msgstr ""
+
 msgid "acos"
 msgstr "acos"
 
-msgid "Add a boolean input:"
+# 90%
+#, fuzzy
+msgid "Add boolean input:"
 msgstr "Lägg till ett boolskt värde:"
-
-msgid "Add a number input:"
-msgstr "Lägg till ett numeriskt värde:"
-
-msgid "Add a string input:"
-msgstr "Lägg till ett strängvärde:"
 
 msgid "add comment"
 msgstr "lägg till kommentar"
@@ -40,14 +45,36 @@ msgstr "lägg till kommentar"
 msgid "Add label text:"
 msgstr "Lägg till etikett:"
 
+# 89%
+#, fuzzy
+msgid "Add number input:"
+msgstr "Lägg till ett numeriskt värde:"
+
+# 89%
+#, fuzzy
+msgid "Add string input:"
+msgstr "Lägg till ett strängvärde:"
+
 msgid "all"
 msgstr "alla"
+
+msgid "All"
+msgstr ""
 
 msgid "all around"
 msgstr "över allt"
 
+msgid "Animal"
+msgstr ""
+
+msgid "Animals"
+msgstr ""
+
 msgid "asin"
 msgstr "asin"
+
+msgid "assets loaded"
+msgstr ""
 
 msgid "atan"
 msgstr "atan"
@@ -55,15 +82,24 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B ansluten"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr "Flytta bakåt (Shift: Placera längst bak)"
+msgid "Back a layer"
+msgstr ""
 
 # 88%
 msgid "backdrop"
 msgstr "bakgrund"
 
+# 88%
+# 87%
+#, fuzzy
+msgid "Backdrop"
+msgstr "bakgrund"
+
 msgid "backdrop #"
 msgstr "bakgrund #"
+
+msgid "Backdrop Library"
+msgstr ""
 
 msgid "backdrop name"
 msgstr "bakgrund namn"
@@ -73,6 +109,12 @@ msgstr "bakgrund 1"
 
 # 88%
 msgid "backdrops"
+msgstr "bakgrunder"
+
+# 88%
+# 88%
+#, fuzzy
+msgid "Backdrops"
 msgstr "bakgrunder"
 
 msgid "Backpack"
@@ -87,17 +129,38 @@ msgstr "Bastrumma"
 msgid "Bassoon"
 msgstr "Fagott"
 
+msgid "Bitmap"
+msgstr ""
+
+msgid "Bitmap Mode"
+msgstr ""
+
+msgid "Block help"
+msgstr ""
+
 msgid "Bongo"
 msgstr "Bongo"
 
 msgid "brightness"
 msgstr "ljushet"
 
+msgid "Bring to front"
+msgstr ""
+
+msgid "Broadcast"
+msgstr ""
+
+msgid "Brush"
+msgstr ""
+
 msgid "button pressed"
 msgstr "knapp tryckt"
 
 msgid "by"
 msgstr "av"
+
+msgid "bytes loaded"
+msgstr ""
 
 msgid "C connected"
 msgstr "C ansluten"
@@ -108,8 +171,23 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Kamera"
 
+msgid "can drag in player:"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Kan inte ta bort"
+
+msgid "Can’t find network connection or reach server."
+msgstr ""
+
+msgid "Castle"
+msgstr ""
+
+msgid "Category"
+msgstr ""
 
 msgid "ceiling"
 msgstr "tak"
@@ -120,32 +198,79 @@ msgstr "Cello"
 msgid "Choir"
 msgstr "Kör"
 
+msgid "Circle"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
 msgid "Clarinet"
 msgstr "Klarinett"
 
 msgid "Claves"
 msgstr "Claves"
 
+msgid "Clear"
+msgstr ""
+
 msgid "clear senders/receivers"
 msgstr "tydliga avsändare/mottagare"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr ""
+
+msgid "Close"
+msgstr ""
 
 msgid "Closed Hi-Hat"
 msgstr "Stängd Hi-Hat"
 
+msgid "Cloud"
+msgstr ""
+
+msgid "Cloud data"
+msgstr ""
+
 msgid "color"
 msgstr "färg"
+
+msgid "Color a shape"
+msgstr ""
 
 msgid "Conga"
 msgstr "Conga"
 
+msgid "Connecting to Cloud data server..."
+msgstr ""
+
+msgid "Convert to bitmap"
+msgstr ""
+
+msgid "Convert to vector"
+msgstr ""
+
+msgid "Converting mp3..."
+msgstr ""
+
 msgid "copy"
 msgstr "kopiera"
+
+msgid "Copying..."
+msgstr ""
 
 msgid "cos"
 msgstr "cos"
 
+# 75%
+#, fuzzy
+msgid "Costume"
+msgstr "klädsel1"
+
 msgid "costume #"
 msgstr "klädsel #"
+
+msgid "Costume Library"
+msgstr ""
 
 msgid "costume name"
 msgstr "klädsel namn"
@@ -157,11 +282,28 @@ msgstr "klädsel1"
 msgid "costume2"
 msgstr "klädsel2"
 
+# 75%
+#, fuzzy
+msgid "Costumes"
+msgstr "klädsel1"
+
+msgid "Costumes > 1"
+msgstr ""
+
+msgid "Costumes:"
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Koskälla"
 
 msgid "Crash Cymbal"
 msgstr "Kraschcymbal"
+
+msgid "Creating..."
+msgstr ""
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr ""
 
 msgid "cut"
 msgstr "klipp ut"
@@ -175,10 +317,23 @@ msgstr "datum"
 msgid "day of week"
 msgstr "veckodag"
 
+# 83%
+#, fuzzy
+msgid "Delete"
+msgstr "radera"
+
 msgid "delete"
 msgstr "radera"
 
+msgid "delete variable"
+msgstr ""
+
 msgid "direction"
+msgstr "riktning"
+
+# 90%
+#, fuzzy
+msgid "direction:"
 msgstr "riktning"
 
 msgid "don't rotate"
@@ -190,14 +345,17 @@ msgstr "ned"
 msgid "down arrow"
 msgstr "pil ned"
 
+msgid "Download"
+msgstr ""
+
+msgid "Download to your computer"
+msgstr ""
+
 msgid "Duplicate"
 msgstr "Kopiera"
 
 msgid "duplicate"
 msgstr "kopiera"
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr "Kopiera (Shift: Flera)"
 
 msgid "e ^"
 msgstr "e ^"
@@ -205,11 +363,14 @@ msgstr "e ^"
 msgid "edge"
 msgstr "kant"
 
+msgid "edit"
+msgstr "redigera"
+
 msgid "Edit"
 msgstr "Redigera"
 
-msgid "edit"
-msgstr "redigera"
+msgid "Edit Block"
+msgstr ""
 
 msgid "Effects"
 msgstr "Effekter"
@@ -220,11 +381,17 @@ msgstr "Elgitarr"
 msgid "Electric Piano"
 msgstr "Elpiano"
 
-msgid "Ellipse (Shift: Circle)"
-msgstr "Ellips (Shift: Cirkel)"
+msgid "Electronic"
+msgstr ""
+
+msgid "Ellipse"
+msgstr ""
 
 msgid "Erase"
 msgstr "Radera"
+
+msgid "Eraser width:"
+msgstr ""
 
 msgid "fade in"
 msgstr "tona in"
@@ -232,15 +399,26 @@ msgstr "tona in"
 msgid "fade out"
 msgstr "tona ut"
 
+msgid "Fantasy"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
 msgid "File"
 msgstr "Arkiv"
 
-# 75%
-msgid "Fill"
-msgstr "Fyll"
+msgid "Fill with color"
+msgstr ""
 
 msgid "fisheye"
 msgstr "fisheye"
+
+msgid "Flip left-right"
+msgstr ""
+
+msgid "Flip up-down"
+msgstr ""
 
 msgid "floor"
 msgstr "golv"
@@ -248,14 +426,29 @@ msgstr "golv"
 msgid "Flute"
 msgstr "Flöjt"
 
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr "Flytta framåt (Shift: Placera längst fram)"
+msgid "Flying"
+msgstr ""
+
+msgid "For all sprites"
+msgstr ""
+
+msgid "For this sprite only"
+msgstr ""
+
+msgid "Forward a layer"
+msgstr ""
 
 msgid "ghost"
 msgstr "genomskinlighet"
 
+msgid "Go to My Stuff"
+msgstr ""
+
 msgid "Group"
 msgstr "Grupp"
+
+msgid "Grow"
+msgstr ""
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -266,11 +459,29 @@ msgstr "Gitarr"
 msgid "Hand Clap"
 msgstr "Handklapp"
 
+msgid "hide"
+msgstr ""
+
 msgid "hour"
 msgstr "timme"
 
+msgid "Human"
+msgstr ""
+
 msgid "Import"
 msgstr "Importera"
+
+msgid "Importing sound..."
+msgstr ""
+
+msgid "Indoors"
+msgstr ""
+
+msgid "Installing..."
+msgstr ""
+
+msgid "Instruments"
+msgstr ""
 
 msgid "last"
 msgstr "sista"
@@ -290,17 +501,31 @@ msgstr "Bibliotek"
 msgid "light"
 msgstr "ljus"
 
+msgid "limit reached"
+msgstr ""
+
 msgid "Line"
 msgstr "Linje"
+
+msgid "Line width:"
+msgstr ""
+
+# 75%
+#, fuzzy
+msgid "list"
+msgstr "sista"
+
+msgid "List name"
+msgstr ""
 
 msgid "ln"
 msgstr "Inuti"
 
+msgid "Loading project..."
+msgstr ""
+
 msgid "log"
 msgstr "log"
-
-msgid "login"
-msgstr "logga in"
 
 msgid "louder"
 msgstr "högre"
@@ -308,11 +533,32 @@ msgstr "högre"
 msgid "loudness"
 msgstr "ljudstyrka"
 
+msgid "Make a Block"
+msgstr ""
+
+msgid "Make a List"
+msgstr ""
+
+msgid "Make a Variable"
+msgstr ""
+
 msgid "Marimba"
 msgstr "Marimba"
 
+msgid "Max"
+msgstr ""
+
+msgid "meow"
+msgstr ""
+
+msgid "Message Name"
+msgstr ""
+
 msgid "message1"
 msgstr "meddelande1"
+
+msgid "Min"
+msgstr ""
 
 msgid "minute"
 msgstr "minut"
@@ -329,33 +575,74 @@ msgstr "rörelse"
 msgid "mouse-pointer"
 msgstr "muspekare"
 
+msgid "Multiple"
+msgstr ""
+
+msgid "Music and Dance"
+msgstr ""
+
 msgid "Music Box"
 msgstr "Speldosa"
+
+msgid "Music Loops"
+msgstr ""
+
+msgid "My Stuff"
+msgstr ""
 
 msgid "myself"
 msgstr "mig själv"
 
-msgid "New backdrop"
+msgid "Nature"
+msgstr ""
+
+msgid "New"
+msgstr "Ny"
+
+# 92%
+#, fuzzy
+msgid "New backdrop:"
 msgstr "Ny bakgrund"
 
-msgid "New costume"
+# 91%
+#, fuzzy
+msgid "New costume:"
 msgstr "Ny klädsel"
+
+msgid "New List"
+msgstr ""
 
 msgid "new message..."
 msgstr "nytt meddelande..."
 
-msgid "New sound"
-msgstr "Nytt ljud"
+msgid "New name"
+msgstr ""
 
 # 90%
-msgid "New sprite"
-msgstr "Ny sprite"
+#, fuzzy
+msgid "New sound:"
+msgstr "Nytt ljud"
+
+msgid "New sprite:"
+msgstr "Ny sprite:"
+
+msgid "New Variable"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Inga rörelseblock"
 
+msgid "Not saved; network or server problem."
+msgstr ""
+
+msgid "of"
+msgstr ""
+
 msgid "off"
 msgstr "av"
+
+msgid "OK"
+msgstr ""
 
 msgid "on"
 msgstr "på"
@@ -369,15 +656,21 @@ msgstr "Öppen Cuica"
 msgid "Open Hi-Hat"
 msgstr "Öppen Hi-Hat"
 
+msgid "Options"
+msgstr ""
+
 msgid "Organ"
 msgstr "Orgel"
+
+msgid "Other"
+msgstr ""
 
 # 82%
 msgid "other scripts in sprite"
 msgstr "andra script i sprite"
 
-msgid "Paint"
-msgstr "Måla"
+msgid "Outdoors"
+msgstr ""
 
 msgid "paste"
 msgstr "klistra in"
@@ -385,13 +678,21 @@ msgstr "klistra in"
 msgid "Pencil"
 msgstr "Penna"
 
+msgid "People"
+msgstr ""
+
+msgid "Percussion"
+msgstr ""
+
 msgid "photo1"
 msgstr "foto1"
 
 msgid "Piano"
 msgstr "Piano"
 
-msgid "Pick up Color"
+# 92%
+#, fuzzy
+msgid "Pick up color"
 msgstr "Välj en färg"
 
 msgid "pixelate"
@@ -403,6 +704,12 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "Profile"
+msgstr ""
+
+msgid "Project not saved!"
+msgstr ""
+
 msgid "random"
 msgstr "slumpmässig"
 
@@ -412,14 +719,31 @@ msgstr "Spela in"
 msgid "recording1"
 msgstr "inspelning1"
 
-msgid "Rectangle (Shift: Square)"
-msgstr "Rektangel (Shift: Kvadrat)"
+msgid "Rectangle"
+msgstr ""
 
 msgid "redo"
 msgstr "gör om"
 
+# 75%
+#, fuzzy
+msgid "Redo"
+msgstr "gör om"
+
 msgid "Remix"
 msgstr "Remix"
+
+msgid "Remixing..."
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "rename variable"
+msgstr ""
+
+msgid "requires sign in"
+msgstr ""
 
 msgid "Reshape"
 msgstr "Omforma"
@@ -439,19 +763,59 @@ msgstr "motstånd-D"
 msgid "reverse"
 msgstr "ändra riktning"
 
+msgid "Revert"
+msgstr ""
+
+msgid "Reverting..."
+msgstr ""
+
 msgid "right"
 msgstr "höger"
 
 msgid "right arrow"
 msgstr "pil höger"
 
+msgid "rotation style:"
+msgstr ""
+
+msgid "Run without screen refresh"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save as a copy"
+msgstr ""
+
+msgid "Save now"
+msgstr ""
+
+msgid "save to local file"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Saving changes..."
+msgstr ""
+
+msgid "Saving..."
+msgstr ""
+
 msgid "Saxophone"
 msgstr "Saxofon"
 
-msgid "Scratch Cat"
-msgstr "Scratchkatten"
+# 85%
+#, fuzzy
+msgid "Script"
+msgstr "Script"
 
 msgid "Scripts"
+msgstr "Script"
+
+# 87%
+#, fuzzy
+msgid "Scripts:"
 msgstr "Script"
 
 msgid "second"
@@ -466,6 +830,17 @@ msgstr "Välj"
 msgid "select all"
 msgstr "markera alla"
 
+msgid "Select and duplicate"
+msgstr ""
+
+msgid "Send to back"
+msgstr ""
+
+# 88%
+#, fuzzy
+msgid "Set costume center"
+msgstr "Sätt Klädselns Centrum"
+
 msgid "Set Costume Center"
 msgstr "Sätt Klädselns Centrum"
 
@@ -475,14 +850,35 @@ msgstr "Dela"
 msgid "shared"
 msgstr "delad"
 
+msgid "Shift:"
+msgstr ""
+
+msgid "show"
+msgstr ""
+
 msgid "show receivers"
 msgstr "visa mottagare"
 
 msgid "show senders"
 msgstr "visa avsändare"
 
+msgid "show:"
+msgstr ""
+
+msgid "Shrink"
+msgstr ""
+
 msgid "Side Stick"
 msgstr "Kantslag"
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Sign in to save"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
 
 msgid "silence"
 msgstr "tystnad"
@@ -496,20 +892,57 @@ msgstr "storlek"
 msgid "slider"
 msgstr "reglage"
 
+msgid "Slider Range"
+msgstr ""
+
+msgid "Small stage layout"
+msgstr ""
+
+msgid "Smooth"
+msgstr ""
+
 msgid "Snare Drum"
 msgstr "Virveltrumma"
 
 msgid "softer"
 msgstr "mjukare"
 
+# 80%
+#, fuzzy
+msgid "Sound"
+msgstr "ljud"
+
 msgid "sound"
 msgstr "ljud"
+
+msgid "Sound Library"
+msgstr ""
+
+msgid "Sounds"
+msgstr ""
 
 msgid "space"
 msgstr "mellanslag"
 
+# 80%
+#, fuzzy
+msgid "Space"
+msgstr "mellanslag"
+
+msgid "Sports"
+msgstr ""
+
 # 85%
 msgid "Sprite"
+msgstr "Sprite"
+
+msgid "Sprite Library"
+msgstr ""
+
+# 85%
+# 85%
+#, fuzzy
+msgid "Sprite1"
 msgstr "Sprite"
 
 msgid "Sprites"
@@ -518,14 +951,22 @@ msgstr "Sprites"
 msgid "sqrt"
 msgstr "sqrt"
 
+msgid "Square"
+msgstr ""
+
 msgid "Stage"
 msgstr "Scen"
 
-msgid "Stage selected"
+# 93%
+#, fuzzy
+msgid "Stage selected:"
 msgstr "Scen markerad"
 
 msgid "Steel Drum"
 msgstr "Steel Drum"
+
+msgid "stored on server"
+msgstr ""
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -545,6 +986,18 @@ msgstr "Text"
 msgid "that way"
 msgstr "det sättet"
 
+msgid "Theme"
+msgstr ""
+
+msgid "Things"
+msgstr ""
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr ""
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+
 msgid "this script"
 msgstr "detta script"
 
@@ -553,6 +1006,9 @@ msgstr "denna sprite"
 
 msgid "this way"
 msgstr "detta sätt"
+
+msgid "Throw away all changes since opening this project?"
+msgstr ""
 
 msgid "timer"
 msgstr "timer"
@@ -564,17 +1020,44 @@ msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
 "För att ta bort en blockdefinition, ta först bort all användning av blocket."
 
+msgid "Transportation"
+msgstr ""
+
 msgid "Triangle"
 msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Trombone"
 
+# 90%
+#, fuzzy
+msgid "Turbo mode"
+msgstr "Turboläge"
+
 msgid "Turbo Mode"
 msgstr "Turboläge"
 
+msgid "Type"
+msgstr ""
+
+# 75%
+#, fuzzy
+msgid "Undelete"
+msgstr "radera"
+
+msgid "Underwater"
+msgstr ""
+
+# 75%
+#, fuzzy
+msgid "Undo"
+msgstr "ångra"
+
 msgid "undo"
 msgstr "ångra"
+
+msgid "Undo Revert"
+msgstr ""
 
 msgid "Ungroup"
 msgstr "Dela upp"
@@ -588,6 +1071,30 @@ msgstr "upp"
 msgid "up arrow"
 msgstr "pil upp"
 
+msgid "Upload from your computer"
+msgstr ""
+
+msgid "Uploading image..."
+msgstr ""
+
+msgid "Uploading sound..."
+msgstr ""
+
+msgid "Uploading sprite..."
+msgstr ""
+
+msgid "variable"
+msgstr ""
+
+msgid "Variable name"
+msgstr ""
+
+msgid "Vector"
+msgstr ""
+
+msgid "Vector Mode"
+msgstr ""
+
 msgid "Vibraphone"
 msgstr "Vibrafon"
 
@@ -597,8 +1104,23 @@ msgstr "Vibraslap"
 msgid "video motion"
 msgstr "videorörelse"
 
+msgid "Video on:"
+msgstr ""
+
+msgid "Vocals"
+msgstr ""
+
 msgid "volume"
 msgstr "volym"
+
+msgid "Walking"
+msgstr ""
+
+msgid "Want to save? Click remix"
+msgstr ""
+
+msgid "Which column do you want to import"
+msgstr ""
 
 msgid "whirl"
 msgstr "virvel"
@@ -618,6 +1140,65 @@ msgstr "y-läge"
 msgid "year"
 msgstr "år"
 
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+
+#~ msgid "Add a boolean input:"
+#~ msgstr "Lägg till ett boolskt värde:"
+
+#~ msgid "Add a number input:"
+#~ msgstr "Lägg till ett numeriskt värde:"
+
+#~ msgid "Add a string input:"
+#~ msgstr "Lägg till ett strängvärde:"
+
+#~ msgid "Back a layer (Shift: Send to back)"
+#~ msgstr "Flytta bakåt (Shift: Placera längst bak)"
+
+#~ msgid "Duplicate (Shift: Multiple)"
+#~ msgstr "Kopiera (Shift: Flera)"
+
+#~ msgid "Ellipse (Shift: Circle)"
+#~ msgstr "Ellips (Shift: Cirkel)"
+
+# 75%
+#~ msgid "Fill"
+#~ msgstr "Fyll"
+
+#~ msgid "Forward a layer (Shift: Bring to front)"
+#~ msgstr "Flytta framåt (Shift: Placera längst fram)"
+
+#~ msgid "login"
+#~ msgstr "logga in"
+
+#~ msgid "New backdrop"
+#~ msgstr "Ny bakgrund"
+
+#~ msgid "New costume"
+#~ msgstr "Ny klädsel"
+
+#~ msgid "New sound"
+#~ msgstr "Nytt ljud"
+
+# 90%
+#~ msgid "New sprite"
+#~ msgstr "Ny sprite"
+
+#~ msgid "Paint"
+#~ msgstr "Måla"
+
+#~ msgid "Pick up Color"
+#~ msgstr "Välj en färg"
+
+#~ msgid "Rectangle (Shift: Square)"
+#~ msgstr "Rektangel (Shift: Kvadrat)"
+
+#~ msgid "Scratch Cat"
+#~ msgstr "Scratchkatten"
+
+#~ msgid "Stage selected"
+#~ msgstr "Scen markerad"
+
 #~ msgid "#"
 #~ msgstr "#"
 
@@ -632,12 +1213,6 @@ msgstr "år"
 
 #~ msgid "name"
 #~ msgstr "namn"
-
-#~ msgid "New"
-#~ msgstr "Ny"
-
-#~ msgid "New sprite:"
-#~ msgstr "Ny sprite:"
 
 #~ msgid "say"
 #~ msgstr "säg"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:48+0200\n"
-"PO-Revision-Date: 2013-03-06 19:27+0200\n"
+"POT-Creation-Date: 2013-04-26 00:15+0200\n"
+"PO-Revision-Date: 2013-04-27 13:43+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -16,23 +16,26 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr "<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されません(削除されます)。<br>詳細な情報は <a href="/help/faq/clouddata" target="_blank">クラウドデータFAQを読んでください!</a>"
+
 msgid "A connected"
 msgstr "Aがつながれた"
+
+msgid "a copy of the project file on your computer."
+msgstr "手元のコンピューターにある作品のコピー。"
 
 msgid "abs"
 msgstr "絶対値"
 
+msgid "Account settings"
+msgstr "アカウント設定"
+
 msgid "acos"
 msgstr "acos"
 
-msgid "Add a boolean input:"
-msgstr "真偽値の入力を追加:"
-
-msgid "Add a number input:"
-msgstr "数値の入力を追加:"
-
-msgid "Add a string input:"
-msgstr "文字列の入力を追加:"
+msgid "Add boolean input:"
+msgstr "真偽値の引数を追加:"
 
 msgid "add comment"
 msgstr "コメントを追加"
@@ -40,14 +43,32 @@ msgstr "コメントを追加"
 msgid "Add label text:"
 msgstr "ラベルのテキストを追加:"
 
+msgid "Add number input:"
+msgstr "数値の引数を追加:"
+
+msgid "Add string input:"
+msgstr "文字列の引数を追加:"
+
 msgid "all"
+msgstr "すべて"
+
+msgid "All"
 msgstr "すべて"
 
 msgid "all around"
 msgstr "自由に回転"
 
+msgid "Animal"
+msgstr "動物"
+
+msgid "Animals"
+msgstr "動物"
+
 msgid "asin"
 msgstr "asin"
+
+msgid "assets loaded"
+msgstr "個読み込み"
 
 msgid "atan"
 msgstr "atan"
@@ -55,15 +76,21 @@ msgstr "atan"
 msgid "B connected"
 msgstr "Bがつながれた"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr "後ろに送る (シフト: 最背面にする)"
+msgid "Back a layer"
+msgstr "レイヤーを下げる"
 
 # 88%
 msgid "backdrop"
 msgstr "背景"
 
+msgid "Backdrop"
+msgstr "背景"
+
 msgid "backdrop #"
 msgstr "背景 #"
+
+msgid "Backdrop Library"
+msgstr "背景ライブラリー"
 
 msgid "backdrop name"
 msgstr "背景名"
@@ -73,6 +100,9 @@ msgstr "背景1"
 
 # 88%
 msgid "backdrops"
+msgstr "背景"
+
+msgid "Backdrops"
 msgstr "背景"
 
 msgid "Backpack"
@@ -87,17 +117,38 @@ msgstr "バスドラム"
 msgid "Bassoon"
 msgstr "バスーン"
 
+msgid "Bitmap"
+msgstr "ビットマップ"
+
+msgid "Bitmap Mode"
+msgstr "ビットマップモード"
+
+msgid "Block help"
+msgstr "ブロックのヘルプ"
+
 msgid "Bongo"
 msgstr "ボンゴ"
 
 msgid "brightness"
 msgstr "明るさ"
 
+msgid "Bring to front"
+msgstr "前に出す"
+
+msgid "Broadcast"
+msgstr "ブロードキャスト"
+
+msgid "Brush"
+msgstr "筆"
+
 msgid "button pressed"
 msgstr "ボタンが押された"
 
 msgid "by"
 msgstr "作者"
+
+msgid "bytes loaded"
+msgstr "バイト読み込み"
 
 msgid "C connected"
 msgstr "Cがつながれた"
@@ -108,8 +159,23 @@ msgstr "カバサ"
 msgid "Camera"
 msgstr "カメラ"
 
+msgid "can drag in player:"
+msgstr "プレイヤーでドラッグできるか:"
+
+msgid "Cancel"
+msgstr "取り消し"
+
 msgid "Cannot Delete"
 msgstr "削除不可"
+
+msgid "Can’t find network connection or reach server."
+msgstr "ネットワーク接続が見つからないか到達できません。"
+
+msgid "Castle"
+msgstr "城"
+
+msgid "Category"
+msgstr "カテゴリー"
 
 msgid "ceiling"
 msgstr "床"
@@ -120,32 +186,77 @@ msgstr "チェロ"
 msgid "Choir"
 msgstr "合唱団"
 
+msgid "Circle"
+msgstr "円"
+
+msgid "City"
+msgstr "街"
+
 msgid "Clarinet"
 msgstr "クラリネット"
 
 msgid "Claves"
 msgstr "クラーベ"
 
+msgid "Clear"
+msgstr "消す"
+
 msgid "clear senders/receivers"
 msgstr "センダーとレシーバーを消す"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "「直ちに保存」をクリックして再試行するか、「ダウンロード」で保存してください"
+
+msgid "Close"
+msgstr "閉じる"
 
 msgid "Closed Hi-Hat"
 msgstr "閉じたハイハット"
 
+msgid "Cloud"
+msgstr "クラウド"
+
+msgid "Cloud data"
+msgstr "クラウドデータ"
+
 msgid "color"
 msgstr "色"
+
+msgid "Color a shape"
+msgstr "図形の色"
 
 msgid "Conga"
 msgstr "コンガ"
 
+msgid "Connecting to Cloud data server..."
+msgstr "クラウドデータサーバーに接続しています..."
+
+msgid "Convert to bitmap"
+msgstr "ビットマップに変換"
+
+msgid "Convert to vector"
+msgstr "ベクターに変換"
+
+msgid "Converting mp3..."
+msgstr "MP3に変換しています..."
+
 msgid "copy"
 msgstr "コピー"
+
+msgid "Copying..."
+msgstr "コピー中..."
 
 msgid "cos"
 msgstr "cos"
 
+msgid "Costume"
+msgstr "コスチューム"
+
 msgid "costume #"
 msgstr "コスチューム #"
+
+msgid "Costume Library"
+msgstr "コスチュームライブラリー"
 
 msgid "costume name"
 msgstr "コスチューム名"
@@ -157,11 +268,26 @@ msgstr "コスチューム1"
 msgid "costume2"
 msgstr "コスチューム2"
 
+msgid "Costumes"
+msgstr "コスチューム"
+
+msgid "Costumes > 1"
+msgstr "コスチューム > 1"
+
+msgid "Costumes:"
+msgstr "コスチューム:"
+
 msgid "Cowbell"
 msgstr "カウベル"
 
 msgid "Crash Cymbal"
 msgstr "クラッシュシンバル"
+
+msgid "Creating..."
+msgstr "作成中..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "現在、クラウド変数には数値のみ格納できます。"
 
 msgid "cut"
 msgstr "カット"
@@ -175,11 +301,20 @@ msgstr "日付"
 msgid "day of week"
 msgstr "曜日"
 
+msgid "Delete"
+msgstr "削除"
+
 msgid "delete"
 msgstr "削除"
 
+msgid "delete variable"
+msgstr "変数を削除"
+
 msgid "direction"
 msgstr "向き"
+
+msgid "direction:"
+msgstr "向き:"
 
 msgid "don't rotate"
 msgstr "回転しない"
@@ -190,14 +325,17 @@ msgstr "下"
 msgid "down arrow"
 msgstr "下向き矢印"
 
+msgid "Download"
+msgstr "ダウンロード"
+
+msgid "Download to your computer"
+msgstr "手元のコンピューターにダウンロード"
+
 msgid "Duplicate"
 msgstr "複製"
 
 msgid "duplicate"
 msgstr "複製"
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr "複製 (シフト: 複数回)"
 
 msgid "e ^"
 msgstr "e ^"
@@ -205,11 +343,14 @@ msgstr "e ^"
 msgid "edge"
 msgstr "端"
 
+msgid "edit"
+msgstr "編集"
+
 msgid "Edit"
 msgstr "編集"
 
-msgid "edit"
-msgstr "編集"
+msgid "Edit Block"
+msgstr "ブロックを編集"
 
 msgid "Effects"
 msgstr "効果"
@@ -220,11 +361,17 @@ msgstr "エレキギター"
 msgid "Electric Piano"
 msgstr "電子ピアノ"
 
-msgid "Ellipse (Shift: Circle)"
-msgstr "楕円 (シフト: 円)"
+msgid "Electronic"
+msgstr "電子音"
+
+msgid "Ellipse"
+msgstr "楕円"
 
 msgid "Erase"
 msgstr "消す"
+
+msgid "Eraser width:"
+msgstr "消しゴムの幅:"
 
 msgid "fade in"
 msgstr "フェードイン"
@@ -232,14 +379,26 @@ msgstr "フェードイン"
 msgid "fade out"
 msgstr "フェードアウト"
 
+msgid "Fantasy"
+msgstr "ファンタジー"
+
+msgid "Features"
+msgstr "機能"
+
 msgid "File"
 msgstr "ファイル"
 
-msgid "Fill"
+msgid "Fill with color"
 msgstr "塗りつぶす"
 
 msgid "fisheye"
 msgstr "魚眼レンズ"
+
+msgid "Flip left-right"
+msgstr "左右を反転"
+
+msgid "Flip up-down"
+msgstr "上下を反転"
 
 msgid "floor"
 msgstr "底"
@@ -247,14 +406,29 @@ msgstr "底"
 msgid "Flute"
 msgstr "フルート"
 
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr "前に出す (シフト: 最前面にする)"
+msgid "Flying"
+msgstr "飛ぶ"
+
+msgid "For all sprites"
+msgstr "すべてのスプライト用"
+
+msgid "For this sprite only"
+msgstr "このスプライトのみ"
+
+msgid "Forward a layer"
+msgstr "レイヤーを上げる"
 
 msgid "ghost"
 msgstr "幽霊"
 
+msgid "Go to My Stuff"
+msgstr "私の作品へ行く"
+
 msgid "Group"
 msgstr "グループ"
+
+msgid "Grow"
+msgstr "拡大"
 
 msgid "Guiro"
 msgstr "ギロ"
@@ -265,11 +439,29 @@ msgstr "ギター"
 msgid "Hand Clap"
 msgstr "拍手"
 
+msgid "hide"
+msgstr "隠す"
+
 msgid "hour"
 msgstr "時"
 
+msgid "Human"
+msgstr "人"
+
 msgid "Import"
 msgstr "読み込み"
+
+msgid "Importing sound..."
+msgstr "音を読み込み中..."
+
+msgid "Indoors"
+msgstr "屋内"
+
+msgid "Installing..."
+msgstr "インストール中..."
+
+msgid "Instruments"
+msgstr "楽器"
 
 msgid "last"
 msgstr "最後"
@@ -289,17 +481,29 @@ msgstr "ライブラリ"
 msgid "light"
 msgstr "明るさ"
 
+msgid "limit reached"
+msgstr "限界に到達"
+
 msgid "Line"
 msgstr "直線"
+
+msgid "Line width:"
+msgstr "線の幅:"
+
+msgid "list"
+msgstr "リスト"
+
+msgid "List name"
+msgstr "リスト名"
 
 msgid "ln"
 msgstr "ln"
 
+msgid "Loading project..."
+msgstr "プロジェクトを読み込み中..."
+
 msgid "log"
 msgstr "log"
-
-msgid "login"
-msgstr "ログイン"
 
 msgid "louder"
 msgstr "大きく"
@@ -307,11 +511,32 @@ msgstr "大きく"
 msgid "loudness"
 msgstr "音量"
 
+msgid "Make a Block"
+msgstr "ブロックを作る"
+
+msgid "Make a List"
+msgstr "リストを作る"
+
+msgid "Make a Variable"
+msgstr "変数を作る"
+
 msgid "Marimba"
 msgstr "マリンバ"
 
+msgid "Max"
+msgstr "最大値"
+
+msgid "meow"
+msgstr "ニャー"
+
+msgid "Message Name"
+msgstr "メッセージ名"
+
 msgid "message1"
 msgstr "メッセージ1"
+
+msgid "Min"
+msgstr "最小値"
 
 msgid "minute"
 msgstr "分"
@@ -323,44 +548,79 @@ msgid "mosaic"
 msgstr "モザイク"
 
 msgid "motion"
-msgstr "動き"
+msgstr "モーション"
 
 msgid "mouse-pointer"
 msgstr "マウスのポインター"
 
+msgid "Multiple"
+msgstr "複数"
+
+msgid "Music and Dance"
+msgstr "音楽とダンス"
+
 msgid "Music Box"
 msgstr "ミュージックボックス"
+
+msgid "Music Loops"
+msgstr "音楽のループ"
+
+msgid "My Stuff"
+msgstr "私の作品"
 
 msgid "myself"
 msgstr "自分自身"
 
-msgid "New backdrop"
-msgstr "新しい背景"
+msgid "Nature"
+msgstr "自然"
 
-msgid "New costume"
-msgstr "新しいコスチューム"
+msgid "New"
+msgstr "新規"
+
+msgid "New backdrop:"
+msgstr "新しい背景:"
+
+msgid "New costume:"
+msgstr "新しいコスチューム:"
+
+msgid "New List"
+msgstr "新しいリスト"
 
 msgid "new message..."
 msgstr "新しいメッセージ..."
 
-msgid "New sound"
-msgstr "新しい音"
+msgid "New name"
+msgstr "新しい名前"
 
-# 90%
-msgid "New sprite"
-msgstr "新しいスプライト"
+msgid "New sound:"
+msgstr "新しい音:"
+
+msgid "New sprite:"
+msgstr "新しいスプライト:"
+
+msgid "New Variable"
+msgstr "新しい変数"
 
 msgid "No motion blocks"
 msgstr "動きのブロックはありません"
 
+msgid "Not saved; network or server problem."
+msgstr "保存できません。ネットワークかサーバーに問題があります。"
+
+msgid "of"
+msgstr "の"
+
 msgid "off"
 msgstr "切"
+
+msgid "OK"
+msgstr "OK"
 
 msgid "on"
 msgstr "入"
 
 msgid "on-flipped"
-msgstr "反転したとき"
+msgstr "左右反転"
 
 msgid "Open Cuica"
 msgstr "オープンクイーカ"
@@ -368,15 +628,21 @@ msgstr "オープンクイーカ"
 msgid "Open Hi-Hat"
 msgstr "オープンハイハット"
 
+msgid "Options"
+msgstr "オプション"
+
 msgid "Organ"
 msgstr "オルガン"
+
+msgid "Other"
+msgstr "その他"
 
 # 82%
 msgid "other scripts in sprite"
 msgstr "スプライトの他のスクリプト"
 
-msgid "Paint"
-msgstr "ペイント"
+msgid "Outdoors"
+msgstr "屋外"
 
 msgid "paste"
 msgstr "貼り付け"
@@ -384,13 +650,19 @@ msgstr "貼り付け"
 msgid "Pencil"
 msgstr "鉛筆"
 
+msgid "People"
+msgstr "人"
+
+msgid "Percussion"
+msgstr "打楽器"
+
 msgid "photo1"
 msgstr "写真1"
 
 msgid "Piano"
 msgstr "ピアノ"
 
-msgid "Pick up Color"
+msgid "Pick up color"
 msgstr "色を選ぶ"
 
 msgid "pixelate"
@@ -402,6 +674,12 @@ msgstr "ピチカート"
 msgid "pop"
 msgstr "ポップ"
 
+msgid "Profile"
+msgstr "プロフィール"
+
+msgid "Project not saved!"
+msgstr "作品は保存されていません!"
+
 msgid "random"
 msgstr "乱数"
 
@@ -411,14 +689,29 @@ msgstr "録音"
 msgid "recording1"
 msgstr "録音1"
 
-msgid "Rectangle (Shift: Square)"
-msgstr "長方形 (シフト: 正方形)"
+msgid "Rectangle"
+msgstr "四角形"
 
 msgid "redo"
 msgstr "やり直し"
 
+msgid "Redo"
+msgstr "やり直し"
+
 msgid "Remix"
 msgstr "リミックス"
+
+msgid "Remixing..."
+msgstr "リミックス中..."
+
+msgid "Rename"
+msgstr "名前を変更"
+
+msgid "rename variable"
+msgstr "変数名を変更"
+
+msgid "requires sign in"
+msgstr "サインインが必要です"
 
 msgid "Reshape"
 msgstr "形を変える"
@@ -438,20 +731,56 @@ msgstr "抵抗-D"
 msgid "reverse"
 msgstr "逆向き"
 
+msgid "Revert"
+msgstr "復元"
+
+msgid "Reverting..."
+msgstr "復元中..."
+
 msgid "right"
 msgstr "右"
 
 msgid "right arrow"
 msgstr "右向き矢印"
 
+msgid "rotation style:"
+msgstr "回転の種類:"
+
+msgid "Run without screen refresh"
+msgstr "画面を再描画せずに実行する"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save as a copy"
+msgstr "コピーを保存"
+
+msgid "Save now"
+msgstr "直ちに保存"
+
+msgid "save to local file"
+msgstr "ローカルファイルに保存"
+
+msgid "Saved"
+msgstr "保存しました"
+
+msgid "Saving changes..."
+msgstr "変更を保存..."
+
+msgid "Saving..."
+msgstr "保存中..."
+
 msgid "Saxophone"
 msgstr "サクソフォーン"
 
-msgid "Scratch Cat"
-msgstr "スクラッチキャット"
+msgid "Script"
+msgstr "スクリプト"
 
 msgid "Scripts"
 msgstr "スクリプト"
+
+msgid "Scripts:"
+msgstr "スクリプト:"
 
 msgid "second"
 msgstr "秒"
@@ -465,6 +794,15 @@ msgstr "選択"
 msgid "select all"
 msgstr "すべてを選択"
 
+msgid "Select and duplicate"
+msgstr "選択して複製"
+
+msgid "Send to back"
+msgstr "後ろに送る"
+
+msgid "Set costume center"
+msgstr "コスチュームの中心を設定"
+
 msgid "Set Costume Center"
 msgstr "コスチュームの中心を設定"
 
@@ -474,14 +812,35 @@ msgstr "共有"
 msgid "shared"
 msgstr "共有中"
 
+msgid "Shift:"
+msgstr "シフト:"
+
+msgid "show"
+msgstr "表示する"
+
 msgid "show receivers"
 msgstr "レシーバーを表示"
 
 msgid "show senders"
 msgstr "センダーを表示"
 
+msgid "show:"
+msgstr "表示する:"
+
+msgid "Shrink"
+msgstr "縮小"
+
 msgid "Side Stick"
 msgstr "サイドスティック"
+
+msgid "Sign in"
+msgstr "サインイン"
+
+msgid "Sign in to save"
+msgstr "保存するためにサインイン"
+
+msgid "Sign out"
+msgstr "サインアウト"
 
 msgid "silence"
 msgstr "サイレンス"
@@ -495,21 +854,51 @@ msgstr "大きさ"
 msgid "slider"
 msgstr "スライダー"
 
+msgid "Slider Range"
+msgstr "スライダーの範囲"
+
+msgid "Small stage layout"
+msgstr "小さいステージ"
+
+msgid "Smooth"
+msgstr "滑らか"
+
 msgid "Snare Drum"
 msgstr "スネアドラム"
 
 msgid "softer"
 msgstr "柔らかく"
 
+msgid "Sound"
+msgstr "音"
+
 msgid "sound"
+msgstr "音"
+
+msgid "Sound Library"
+msgstr "音ライブラリー"
+
+msgid "Sounds"
 msgstr "音"
 
 msgid "space"
 msgstr "スペース"
 
+msgid "Space"
+msgstr "宇宙"
+
+msgid "Sports"
+msgstr "スポーツ"
+
 # 85%
 msgid "Sprite"
 msgstr "スプライト"
+
+msgid "Sprite Library"
+msgstr "スプライトライブラリー"
+
+msgid "Sprite1"
+msgstr "スプライト1"
 
 msgid "Sprites"
 msgstr "スプライト"
@@ -517,14 +906,20 @@ msgstr "スプライト"
 msgid "sqrt"
 msgstr "平方根"
 
+msgid "Square"
+msgstr "正方形"
+
 msgid "Stage"
 msgstr "ステージ"
 
-msgid "Stage selected"
-msgstr "選択されたステージ"
+msgid "Stage selected:"
+msgstr "選択されたステージ:"
 
 msgid "Steel Drum"
 msgstr "スチールドラム"
+
+msgid "stored on server"
+msgstr "サーバーへ格納"
 
 msgid "Synth Lead"
 msgstr "シンセリード"
@@ -544,6 +939,18 @@ msgstr "テキスト"
 msgid "that way"
 msgstr "あちら向き"
 
+msgid "Theme"
+msgstr "テーマ"
+
+msgid "Things"
+msgstr "もの"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr "このプロジェクトは「ユーザー名」ブロックを使って、誰が使っているかを検出します。特定されたくない場合はこのプロジェクトを使う前にサインアウトしてください。"
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr "このプロジェクトはクラウドデータを使っています。この機能はサインインしたユーザーだけ使うことができます。"
+
 msgid "this script"
 msgstr "このスクリプト"
 
@@ -553,14 +960,20 @@ msgstr "このスプライト"
 msgid "this way"
 msgstr "こちら向き"
 
+msgid "Throw away all changes since opening this project?"
+msgstr "このプロジェクトを開いた後のすべての変更を捨てますか?"
+
 msgid "timer"
 msgstr "タイマー"
 
 msgid "Tips"
-msgstr "Tips"
+msgstr "ヒント"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "ブロックの定義を削除するには、まずそのブロックを使っている箇所を消してください。"
+
+msgid "Transportation"
+msgstr "乗り物"
 
 msgid "Triangle"
 msgstr "三角形"
@@ -568,11 +981,29 @@ msgstr "三角形"
 msgid "Trombone"
 msgstr "トロンボーン"
 
+msgid "Turbo mode"
+msgstr "ターボモード"
+
 msgid "Turbo Mode"
 msgstr "ターボモード"
 
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Undelete"
+msgstr "削除の取り消し"
+
+msgid "Underwater"
+msgstr "海中"
+
+msgid "Undo"
+msgstr "取り消し"
+
 msgid "undo"
 msgstr "取り消し"
+
+msgid "Undo Revert"
+msgstr "取り消し回復"
 
 msgid "Ungroup"
 msgstr "グループ解除"
@@ -586,6 +1017,30 @@ msgstr "上"
 msgid "up arrow"
 msgstr "上向き矢印"
 
+msgid "Upload from your computer"
+msgstr "手元のコンピューターからアップロード"
+
+msgid "Uploading image..."
+msgstr "画像をアップロード中..."
+
+msgid "Uploading sound..."
+msgstr "音をアップロード中..."
+
+msgid "Uploading sprite..."
+msgstr "スプライトをアップロード中..."
+
+msgid "variable"
+msgstr "変数"
+
+msgid "Variable name"
+msgstr "変数名"
+
+msgid "Vector"
+msgstr "ベクター"
+
+msgid "Vector Mode"
+msgstr "ベクターモード"
+
 msgid "Vibraphone"
 msgstr "ビブラフォン"
 
@@ -595,8 +1050,23 @@ msgstr "ビブラスラップ"
 msgid "video motion"
 msgstr "ビデオモーション"
 
+msgid "Video on:"
+msgstr "ビデオ:"
+
+msgid "Vocals"
+msgstr "ボーカル"
+
 msgid "volume"
 msgstr "ボリューム"
+
+msgid "Walking"
+msgstr "歩行"
+
+msgid "Want to save? Click remix"
+msgstr "保存したいですか? リミックスをクリックしてください"
+
+msgid "Which column do you want to import"
+msgstr "どちらのカラムを取り込みたいですか"
 
 msgid "whirl"
 msgstr "渦巻き"
@@ -616,105 +1086,41 @@ msgstr "y座標"
 msgid "year"
 msgstr "年"
 
-#~ msgid "bottom-left"
-#~ msgstr "左下"
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr "他のプロジェクトのクラウドデータを編集することはできません。<br>エディターで行った変更は一時的なもので永続性はありません。"
 
-#~ msgid "bottom-right"
-#~ msgstr "右下"
+#~ msgid "Add a boolean input:"
+#~ msgstr "真偽値の入力を追加:"
 
-#~ msgid "middle"
-#~ msgstr "中間"
+#~ msgid "Add a number input:"
+#~ msgstr "数値の入力を追加:"
 
-#~ msgid "name"
-#~ msgstr "名前"
+#~ msgid "Add a string input:"
+#~ msgstr "文字列の入力を追加:"
 
-#, fuzzy
-#~ msgid "New"
-#~ msgstr "Nouveau"
+#~ msgid "Back a layer (Shift: Send to back)"
+#~ msgstr "後ろに送る (シフト: 最背面にする)"
 
-#~ msgid "New sprite:"
-#~ msgstr "新しいスプライト:"
+#~ msgid "Duplicate (Shift: Multiple)"
+#~ msgstr "複製 (シフト: 複数回)"
 
-#~ msgid "say"
-#~ msgstr "言う"
+#~ msgid "Ellipse (Shift: Circle)"
+#~ msgstr "楕円 (シフト: 円)"
 
-#~ msgid "shout"
-#~ msgstr "シャウト"
+#~ msgid "Fill"
+#~ msgstr "塗りつぶす"
 
-#~ msgid "think"
-#~ msgstr "考える"
+#~ msgid "Forward a layer (Shift: Bring to front)"
+#~ msgstr "前に出す (シフト: 最前面にする)"
 
-#~ msgid "top-left"
-#~ msgstr "左上"
+#~ msgid "login"
+#~ msgstr "ログイン"
 
-#~ msgid "top-right"
-#~ msgstr "右上"
+#~ msgid "New backdrop"
+#~ msgstr "新しい背景"
 
-#~ msgid "whisper"
-#~ msgstr "ささやき"
+#~ msgid "New costume"
+#~ msgstr "新しいコスチューム"
 
-#~ msgid "any"
-#~ msgstr "どれか"
-
-#~ msgid "Floor Tom"
-#~ msgstr "フロアタム"
-
-#~ msgid "High Bongo"
-#~ msgstr "ハイボンゴ"
-
-#~ msgid "High Tom"
-#~ msgstr "ハイタム"
-
-#~ msgid "High Wood Block"
-#~ msgstr "ハイウッドブロック"
-
-#~ msgid "int"
-#~ msgstr "int"
-
-#~ msgid "Kick Drum"
-#~ msgstr "キックドラム"
-
-#~ msgid "Long Guiro"
-#~ msgstr "長いギロ"
-
-#~ msgid "Low Bongo"
-#~ msgstr "ローボンゴ"
-
-#~ msgid "Low Conga"
-#~ msgstr "ローコンガ"
-
-#~ msgid "Low Tom"
-#~ msgstr "ロータム"
-
-#~ msgid "Low Wood Block"
-#~ msgstr "ローウッドブロック"
-
-#~ msgid "Maracas"
-#~ msgstr "マラカス"
-
-#~ msgid "Mid Tom"
-#~ msgstr "ミッドタム"
-
-#~ msgid "More"
-#~ msgstr "もっと"
-
-#~ msgid "Mute High Conga"
-#~ msgstr "ミュートハイコンガ"
-
-#~ msgid "Mute Triangle"
-#~ msgstr "ミュートトライアングル"
-
-#~ msgid "Open High Conga"
-#~ msgstr "オープンハイコンガ"
-
-#~ msgid "Open Triangle"
-#~ msgstr "オープントライアングル"
-
-#~ msgid "other scripts in stage"
-#~ msgstr "ステージの他のスクリプト"
-
-#~ msgid "Pedal Hi-Hat"
-#~ msgstr "ペダルハイハット"
-
-#~ msgid "Short Guiro"
-#~ msgstr "ショートギロ"
+#~ msgid "New sound"
+#~ msgstr "新しい音"

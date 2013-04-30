@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:49+0200\n"
-"PO-Revision-Date: 2013-04-13 19:01+0200\n"
+"POT-Creation-Date: 2013-04-26 00:17+0200\n"
+"PO-Revision-Date: 2013-04-13 19:02+0200\n"
 "Last-Translator: Milan <milan.cajic@open.telekom.rs>\n"
 "Language-Team: српски <>\n"
 "Language: sr\n"
@@ -21,23 +21,28 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 на степен"
 
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+
 msgid "A connected"
 msgstr "A повезан"
+
+msgid "a copy of the project file on your computer."
+msgstr ""
 
 msgid "abs"
 msgstr "апс"
 
+msgid "Account settings"
+msgstr ""
+
 msgid "acos"
 msgstr "arccos"
 
-msgid "Add a boolean input:"
+# 90%
+#, fuzzy
+msgid "Add boolean input:"
 msgstr "Додај Булов улаз:"
-
-msgid "Add a number input:"
-msgstr "Додај нумерички улаз:"
-
-msgid "Add a string input:"
-msgstr "Додај текст улаз:"
 
 msgid "add comment"
 msgstr "додајте коментар"
@@ -45,14 +50,36 @@ msgstr "додајте коментар"
 msgid "Add label text:"
 msgstr "Додај текст надписа:"
 
+# 89%
+#, fuzzy
+msgid "Add number input:"
+msgstr "Додај нумерички улаз:"
+
+# 89%
+#, fuzzy
+msgid "Add string input:"
+msgstr "Додај текст улаз:"
+
 msgid "all"
 msgstr "све"
+
+msgid "All"
+msgstr ""
 
 msgid "all around"
 msgstr "на све стране"
 
+msgid "Animal"
+msgstr ""
+
+msgid "Animals"
+msgstr ""
+
 msgid "asin"
 msgstr "arcsin"
+
+msgid "assets loaded"
+msgstr ""
 
 msgid "atan"
 msgstr "arctan"
@@ -60,15 +87,24 @@ msgstr "arctan"
 msgid "B connected"
 msgstr "B повезан"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr "Пошаљи слој назат (Shift: сасвим назат)"
+msgid "Back a layer"
+msgstr ""
 
 # 88%
 msgid "backdrop"
 msgstr "позадина"
 
+# 88%
+# 87%
+#, fuzzy
+msgid "Backdrop"
+msgstr "позадина"
+
 msgid "backdrop #"
 msgstr "позадина број"
+
+msgid "Backdrop Library"
+msgstr ""
 
 msgid "backdrop name"
 msgstr "име позадине"
@@ -78,6 +114,12 @@ msgstr "позадина1"
 
 # 88%
 msgid "backdrops"
+msgstr "позадине"
+
+# 88%
+# 88%
+#, fuzzy
+msgid "Backdrops"
 msgstr "позадине"
 
 msgid "Backpack"
@@ -92,17 +134,38 @@ msgstr "Бас бубањ"
 msgid "Bassoon"
 msgstr "Фагот"
 
+msgid "Bitmap"
+msgstr ""
+
+msgid "Bitmap Mode"
+msgstr ""
+
+msgid "Block help"
+msgstr ""
+
 msgid "Bongo"
 msgstr "Бонго"
 
 msgid "brightness"
 msgstr "осветљеност"
 
+msgid "Bring to front"
+msgstr ""
+
+msgid "Broadcast"
+msgstr ""
+
+msgid "Brush"
+msgstr ""
+
 msgid "button pressed"
 msgstr "дугме је притиснуто"
 
 msgid "by"
 msgstr "аутор:"
+
+msgid "bytes loaded"
+msgstr ""
 
 msgid "C connected"
 msgstr "C повезан"
@@ -113,8 +176,23 @@ msgstr "Кабаса"
 msgid "Camera"
 msgstr "Камера"
 
+msgid "can drag in player:"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Не могу да обришем"
+
+msgid "Can’t find network connection or reach server."
+msgstr ""
+
+msgid "Castle"
+msgstr ""
+
+msgid "Category"
+msgstr ""
 
 msgid "ceiling"
 msgstr "цео+1"
@@ -125,32 +203,79 @@ msgstr "Виолончело"
 msgid "Choir"
 msgstr "Хор"
 
+msgid "Circle"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
 msgid "Clarinet"
 msgstr "Кларинет"
 
 msgid "Claves"
 msgstr "Клавес"
 
+msgid "Clear"
+msgstr ""
+
 msgid "clear senders/receivers"
 msgstr "обриши пошиљаоце/примаоце"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr ""
+
+msgid "Close"
+msgstr ""
 
 msgid "Closed Hi-Hat"
 msgstr "Затворена контра-чинела"
 
+msgid "Cloud"
+msgstr ""
+
+msgid "Cloud data"
+msgstr ""
+
 msgid "color"
 msgstr "боја"
+
+msgid "Color a shape"
+msgstr ""
 
 msgid "Conga"
 msgstr "Конга"
 
+msgid "Connecting to Cloud data server..."
+msgstr ""
+
+msgid "Convert to bitmap"
+msgstr ""
+
+msgid "Convert to vector"
+msgstr ""
+
+msgid "Converting mp3..."
+msgstr ""
+
 msgid "copy"
 msgstr "умножи"
+
+msgid "Copying..."
+msgstr ""
 
 msgid "cos"
 msgstr "cos"
 
+# 75%
+#, fuzzy
+msgid "Costume"
+msgstr "костим1"
+
 msgid "costume #"
 msgstr "костим број"
+
+msgid "Costume Library"
+msgstr ""
 
 msgid "costume name"
 msgstr "име костима"
@@ -161,11 +286,28 @@ msgstr "костим1"
 msgid "costume2"
 msgstr "костим2"
 
+# 75%
+#, fuzzy
+msgid "Costumes"
+msgstr "костим1"
+
+msgid "Costumes > 1"
+msgstr ""
+
+msgid "Costumes:"
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Звоно за краве"
 
 msgid "Crash Cymbal"
 msgstr "Креш чинела"
+
+msgid "Creating..."
+msgstr ""
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr ""
 
 msgid "cut"
 msgstr "исеци"
@@ -179,10 +321,23 @@ msgstr "датум"
 msgid "day of week"
 msgstr "дан у недељи"
 
+# 83%
+#, fuzzy
+msgid "Delete"
+msgstr "обриши"
+
 msgid "delete"
 msgstr "обриши"
 
+msgid "delete variable"
+msgstr ""
+
 msgid "direction"
+msgstr "смер"
+
+# 90%
+#, fuzzy
+msgid "direction:"
 msgstr "смер"
 
 msgid "don't rotate"
@@ -194,14 +349,17 @@ msgstr "доле"
 msgid "down arrow"
 msgstr "стрелица доле"
 
+msgid "Download"
+msgstr ""
+
+msgid "Download to your computer"
+msgstr ""
+
 msgid "Duplicate"
 msgstr "Умножи"
 
 msgid "duplicate"
 msgstr "умножи"
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr "Умножи (Shift: вишеструко)"
 
 msgid "e ^"
 msgstr "e на степен"
@@ -209,11 +367,14 @@ msgstr "e на степен"
 msgid "edge"
 msgstr "руб"
 
+msgid "edit"
+msgstr "уреди"
+
 msgid "Edit"
 msgstr "Уреди"
 
-msgid "edit"
-msgstr "уреди"
+msgid "Edit Block"
+msgstr ""
 
 msgid "Effects"
 msgstr "Ефекти"
@@ -224,11 +385,17 @@ msgstr "Електрична гитара"
 msgid "Electric Piano"
 msgstr "Електрични клавир"
 
-msgid "Ellipse (Shift: Circle)"
-msgstr "Елипса (Shift: круг)"
+msgid "Electronic"
+msgstr ""
+
+msgid "Ellipse"
+msgstr ""
 
 msgid "Erase"
 msgstr "Обриши"
+
+msgid "Eraser width:"
+msgstr ""
 
 msgid "fade in"
 msgstr "постепено појављивање"
@@ -236,15 +403,26 @@ msgstr "постепено појављивање"
 msgid "fade out"
 msgstr "постепено исчезавање"
 
+msgid "Fantasy"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
 msgid "File"
 msgstr "Датотека"
 
-# 75%
-msgid "Fill"
-msgstr "Попуни"
+msgid "Fill with color"
+msgstr ""
 
 msgid "fisheye"
 msgstr "рибље око"
+
+msgid "Flip left-right"
+msgstr ""
+
+msgid "Flip up-down"
+msgstr ""
 
 msgid "floor"
 msgstr "цео"
@@ -252,14 +430,29 @@ msgstr "цео"
 msgid "Flute"
 msgstr "Флаута"
 
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr "Слој напред (Shift: сасвим напред)"
+msgid "Flying"
+msgstr ""
+
+msgid "For all sprites"
+msgstr ""
+
+msgid "For this sprite only"
+msgstr ""
+
+msgid "Forward a layer"
+msgstr ""
 
 msgid "ghost"
 msgstr "дух"
 
+msgid "Go to My Stuff"
+msgstr ""
+
 msgid "Group"
 msgstr "Групиши"
+
+msgid "Grow"
+msgstr ""
 
 msgid "Guiro"
 msgstr "Гиро"
@@ -270,11 +463,29 @@ msgstr "Гитара"
 msgid "Hand Clap"
 msgstr "Пљесак дланом"
 
+msgid "hide"
+msgstr ""
+
 msgid "hour"
 msgstr "час"
 
+msgid "Human"
+msgstr ""
+
 msgid "Import"
 msgstr "Увези"
+
+msgid "Importing sound..."
+msgstr ""
+
+msgid "Indoors"
+msgstr ""
+
+msgid "Installing..."
+msgstr ""
+
+msgid "Instruments"
+msgstr ""
 
 msgid "last"
 msgstr "последњи"
@@ -294,17 +505,31 @@ msgstr "Библиотека"
 msgid "light"
 msgstr "светло"
 
+msgid "limit reached"
+msgstr ""
+
 msgid "Line"
 msgstr "Линија"
+
+msgid "Line width:"
+msgstr ""
+
+# 75%
+#, fuzzy
+msgid "list"
+msgstr "последњи"
+
+msgid "List name"
+msgstr ""
 
 msgid "ln"
 msgstr "ln"
 
+msgid "Loading project..."
+msgstr ""
+
 msgid "log"
 msgstr "log"
-
-msgid "login"
-msgstr "пријави се"
 
 msgid "louder"
 msgstr "гласније"
@@ -312,11 +537,32 @@ msgstr "гласније"
 msgid "loudness"
 msgstr "јачина звука"
 
+msgid "Make a Block"
+msgstr ""
+
+msgid "Make a List"
+msgstr ""
+
+msgid "Make a Variable"
+msgstr ""
+
 msgid "Marimba"
 msgstr "Маримба"
 
+msgid "Max"
+msgstr ""
+
+msgid "meow"
+msgstr ""
+
+msgid "Message Name"
+msgstr ""
+
 msgid "message1"
 msgstr "порука1"
+
+msgid "Min"
+msgstr ""
 
 msgid "minute"
 msgstr "минут"
@@ -333,33 +579,74 @@ msgstr "кретање"
 msgid "mouse-pointer"
 msgstr "показивач миша"
 
+msgid "Multiple"
+msgstr ""
+
+msgid "Music and Dance"
+msgstr ""
+
 msgid "Music Box"
 msgstr "Музичка кутија"
+
+msgid "Music Loops"
+msgstr ""
+
+msgid "My Stuff"
+msgstr ""
 
 msgid "myself"
 msgstr "мене"
 
-msgid "New backdrop"
+msgid "Nature"
+msgstr ""
+
+msgid "New"
+msgstr "Ново"
+
+# 92%
+#, fuzzy
+msgid "New backdrop:"
 msgstr "Нова позадина"
 
-msgid "New costume"
+# 91%
+#, fuzzy
+msgid "New costume:"
 msgstr "Нови костим"
+
+msgid "New List"
+msgstr ""
 
 msgid "new message..."
 msgstr "нова порука"
 
-msgid "New sound"
-msgstr "Нови звук"
+msgid "New name"
+msgstr ""
 
 # 90%
-msgid "New sprite"
-msgstr "Нови лик"
+#, fuzzy
+msgid "New sound:"
+msgstr "Нови звук"
+
+msgid "New sprite:"
+msgstr "Нови лик:"
+
+msgid "New Variable"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Нема блокова за кретање"
 
+msgid "Not saved; network or server problem."
+msgstr ""
+
+msgid "of"
+msgstr ""
+
 msgid "off"
 msgstr "искључено"
+
+msgid "OK"
+msgstr ""
 
 msgid "on"
 msgstr "укључено"
@@ -373,14 +660,20 @@ msgstr "Отворена куика"
 msgid "Open Hi-Hat"
 msgstr "Отворена контра-чинела"
 
+msgid "Options"
+msgstr ""
+
 msgid "Organ"
 msgstr "Оргуље"
+
+msgid "Other"
+msgstr ""
 
 msgid "other scripts in sprite"
 msgstr "друге програме лика"
 
-msgid "Paint"
-msgstr "Насликај"
+msgid "Outdoors"
+msgstr ""
 
 msgid "paste"
 msgstr "убаци"
@@ -388,13 +681,21 @@ msgstr "убаци"
 msgid "Pencil"
 msgstr "Оловка"
 
+msgid "People"
+msgstr ""
+
+msgid "Percussion"
+msgstr ""
+
 msgid "photo1"
 msgstr "фотографија1"
 
 msgid "Piano"
 msgstr "Клавир"
 
-msgid "Pick up Color"
+# 92%
+#, fuzzy
+msgid "Pick up color"
 msgstr "Одабери боју"
 
 msgid "pixelate"
@@ -406,6 +707,12 @@ msgstr "Пицикато"
 msgid "pop"
 msgstr "поп"
 
+msgid "Profile"
+msgstr ""
+
+msgid "Project not saved!"
+msgstr ""
+
 msgid "random"
 msgstr "случајан"
 
@@ -415,14 +722,31 @@ msgstr "Сними"
 msgid "recording1"
 msgstr "снимак1"
 
-msgid "Rectangle (Shift: Square)"
-msgstr "Правоугаоник (Shift: квадрат)"
+msgid "Rectangle"
+msgstr ""
 
 msgid "redo"
 msgstr "понови"
 
+# 75%
+#, fuzzy
+msgid "Redo"
+msgstr "понови"
+
 msgid "Remix"
 msgstr "Ремикс"
+
+msgid "Remixing..."
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "rename variable"
+msgstr ""
+
+msgid "requires sign in"
+msgstr ""
 
 msgid "Reshape"
 msgstr "Преобликуј"
@@ -442,19 +766,59 @@ msgstr "отпор-D"
 msgid "reverse"
 msgstr "промени"
 
+msgid "Revert"
+msgstr ""
+
+msgid "Reverting..."
+msgstr ""
+
 msgid "right"
 msgstr "десно"
 
 msgid "right arrow"
 msgstr "стрелица десно"
 
+msgid "rotation style:"
+msgstr ""
+
+msgid "Run without screen refresh"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save as a copy"
+msgstr ""
+
+msgid "Save now"
+msgstr ""
+
+msgid "save to local file"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Saving changes..."
+msgstr ""
+
+msgid "Saving..."
+msgstr ""
+
 msgid "Saxophone"
 msgstr "Саксофон"
 
-msgid "Scratch Cat"
-msgstr "Скрач маца"
+# 85%
+#, fuzzy
+msgid "Script"
+msgstr "Програми"
 
 msgid "Scripts"
+msgstr "Програми"
+
+# 87%
+#, fuzzy
+msgid "Scripts:"
 msgstr "Програми"
 
 msgid "second"
@@ -469,6 +833,17 @@ msgstr "Изабери"
 msgid "select all"
 msgstr "изабери све"
 
+msgid "Select and duplicate"
+msgstr ""
+
+msgid "Send to back"
+msgstr ""
+
+# 88%
+#, fuzzy
+msgid "Set costume center"
+msgstr "Изабери центар лика"
+
 msgid "Set Costume Center"
 msgstr "Изабери центар лика"
 
@@ -478,14 +853,35 @@ msgstr "Објави (дели)"
 msgid "shared"
 msgstr "објављено (дељено)"
 
+msgid "Shift:"
+msgstr ""
+
+msgid "show"
+msgstr ""
+
 msgid "show receivers"
 msgstr "прикажи примаоце"
 
 msgid "show senders"
 msgstr "прикажи пошиљаоце"
 
+msgid "show:"
+msgstr ""
+
+msgid "Shrink"
+msgstr ""
+
 msgid "Side Stick"
 msgstr "Ивица добоша"
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Sign in to save"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
 
 msgid "silence"
 msgstr "тишина"
@@ -499,20 +895,57 @@ msgstr "величина"
 msgid "slider"
 msgstr "клизач"
 
+msgid "Slider Range"
+msgstr ""
+
+msgid "Small stage layout"
+msgstr ""
+
+msgid "Smooth"
+msgstr ""
+
 msgid "Snare Drum"
 msgstr "Добош"
 
 msgid "softer"
 msgstr "мекше"
 
+# 80%
+#, fuzzy
+msgid "Sound"
+msgstr "звук"
+
 msgid "sound"
 msgstr "звук"
+
+msgid "Sound Library"
+msgstr ""
+
+msgid "Sounds"
+msgstr ""
 
 msgid "space"
 msgstr "размак"
 
+# 80%
+#, fuzzy
+msgid "Space"
+msgstr "размак"
+
+msgid "Sports"
+msgstr ""
+
 # 85%
 msgid "Sprite"
+msgstr "Лик"
+
+msgid "Sprite Library"
+msgstr ""
+
+# 85%
+# 85%
+#, fuzzy
+msgid "Sprite1"
 msgstr "Лик"
 
 msgid "Sprites"
@@ -521,14 +954,22 @@ msgstr "Ликови"
 msgid "sqrt"
 msgstr "корен"
 
+msgid "Square"
+msgstr ""
+
 msgid "Stage"
 msgstr "Позорница"
 
-msgid "Stage selected"
+# 93%
+#, fuzzy
+msgid "Stage selected:"
 msgstr "Изабрана је позорница"
 
 msgid "Steel Drum"
 msgstr "Метални бубањ"
+
+msgid "stored on server"
+msgstr ""
 
 msgid "Synth Lead"
 msgstr "Синти вођица"
@@ -548,6 +989,18 @@ msgstr "Текст"
 msgid "that way"
 msgstr "позитиван"
 
+msgid "Theme"
+msgstr ""
+
+msgid "Things"
+msgstr ""
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr ""
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+
 msgid "this script"
 msgstr "овај програм"
 
@@ -556,6 +1009,9 @@ msgstr "овај лик"
 
 msgid "this way"
 msgstr "негативан"
+
+msgid "Throw away all changes since opening this project?"
+msgstr ""
 
 msgid "timer"
 msgstr "тајмер"
@@ -566,17 +1022,44 @@ msgstr "Савети"
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "Да би обрисали дефиницију блока, прво уклоните све употребе блока."
 
+msgid "Transportation"
+msgstr ""
+
 msgid "Triangle"
 msgstr "Троугао"
 
 msgid "Trombone"
 msgstr "Тромбон"
 
+# 90%
+#, fuzzy
+msgid "Turbo mode"
+msgstr "Турбо мод"
+
 msgid "Turbo Mode"
 msgstr "Турбо мод"
 
+msgid "Type"
+msgstr ""
+
+# 75%
+#, fuzzy
+msgid "Undelete"
+msgstr "обриши"
+
+msgid "Underwater"
+msgstr ""
+
+# 75%
+#, fuzzy
+msgid "Undo"
+msgstr "опозови"
+
 msgid "undo"
 msgstr "опозови"
+
+msgid "Undo Revert"
+msgstr ""
 
 msgid "Ungroup"
 msgstr "Разгрупиши"
@@ -590,6 +1073,30 @@ msgstr "горе"
 msgid "up arrow"
 msgstr "стрелица горе"
 
+msgid "Upload from your computer"
+msgstr ""
+
+msgid "Uploading image..."
+msgstr ""
+
+msgid "Uploading sound..."
+msgstr ""
+
+msgid "Uploading sprite..."
+msgstr ""
+
+msgid "variable"
+msgstr ""
+
+msgid "Variable name"
+msgstr ""
+
+msgid "Vector"
+msgstr ""
+
+msgid "Vector Mode"
+msgstr ""
+
 msgid "Vibraphone"
 msgstr "Вибрафон"
 
@@ -599,8 +1106,23 @@ msgstr "Вибраслап"
 msgid "video motion"
 msgstr "видео кретање"
 
+msgid "Video on:"
+msgstr ""
+
+msgid "Vocals"
+msgstr ""
+
 msgid "volume"
 msgstr "јачина звука"
+
+msgid "Walking"
+msgstr ""
+
+msgid "Want to save? Click remix"
+msgstr ""
+
+msgid "Which column do you want to import"
+msgstr ""
 
 msgid "whirl"
 msgstr "вртлог"
@@ -620,6 +1142,65 @@ msgstr "y места"
 msgid "year"
 msgstr "година"
 
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+
+#~ msgid "Add a boolean input:"
+#~ msgstr "Додај Булов улаз:"
+
+#~ msgid "Add a number input:"
+#~ msgstr "Додај нумерички улаз:"
+
+#~ msgid "Add a string input:"
+#~ msgstr "Додај текст улаз:"
+
+#~ msgid "Back a layer (Shift: Send to back)"
+#~ msgstr "Пошаљи слој назат (Shift: сасвим назат)"
+
+#~ msgid "Duplicate (Shift: Multiple)"
+#~ msgstr "Умножи (Shift: вишеструко)"
+
+#~ msgid "Ellipse (Shift: Circle)"
+#~ msgstr "Елипса (Shift: круг)"
+
+# 75%
+#~ msgid "Fill"
+#~ msgstr "Попуни"
+
+#~ msgid "Forward a layer (Shift: Bring to front)"
+#~ msgstr "Слој напред (Shift: сасвим напред)"
+
+#~ msgid "login"
+#~ msgstr "пријави се"
+
+#~ msgid "New backdrop"
+#~ msgstr "Нова позадина"
+
+#~ msgid "New costume"
+#~ msgstr "Нови костим"
+
+#~ msgid "New sound"
+#~ msgstr "Нови звук"
+
+# 90%
+#~ msgid "New sprite"
+#~ msgstr "Нови лик"
+
+#~ msgid "Paint"
+#~ msgstr "Насликај"
+
+#~ msgid "Pick up Color"
+#~ msgstr "Одабери боју"
+
+#~ msgid "Rectangle (Shift: Square)"
+#~ msgstr "Правоугаоник (Shift: квадрат)"
+
+#~ msgid "Scratch Cat"
+#~ msgstr "Скрач маца"
+
+#~ msgid "Stage selected"
+#~ msgstr "Изабрана је позорница"
+
 #~ msgid "#"
 #~ msgstr "број"
 
@@ -634,12 +1215,6 @@ msgstr "година"
 
 #~ msgid "name"
 #~ msgstr "име"
-
-#~ msgid "New"
-#~ msgstr "Ново"
-
-#~ msgid "New sprite:"
-#~ msgstr "Нови лик:"
 
 #~ msgid "say"
 #~ msgstr "кажи"

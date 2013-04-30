@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:49+0200\n"
+"POT-Creation-Date: 2013-04-26 00:16+0200\n"
 "PO-Revision-Date: 2013-02-03 13:16+0200\n"
 "Last-Translator: craftsmaster <pornieks@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,23 +17,28 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+
 msgid "A connected"
 msgstr "A pieslēgts"
+
+msgid "a copy of the project file on your computer."
+msgstr ""
 
 msgid "abs"
 msgstr "abs"
 
+msgid "Account settings"
+msgstr ""
+
 msgid "acos"
 msgstr "acos"
 
-msgid "Add a boolean input:"
+# 90%
+#, fuzzy
+msgid "Add boolean input:"
 msgstr "Pievienot Būla (boolean) ievadi:"
-
-msgid "Add a number input:"
-msgstr "Pievienot skaitļa ievadi:"
-
-msgid "Add a string input:"
-msgstr "Pievienot teksta virknes ievadi:"
 
 msgid "add comment"
 msgstr "pievienot komentāru"
@@ -41,14 +46,36 @@ msgstr "pievienot komentāru"
 msgid "Add label text:"
 msgstr "Pievienot iezīmes tekstu:"
 
+# 89%
+#, fuzzy
+msgid "Add number input:"
+msgstr "Pievienot skaitļa ievadi:"
+
+# 89%
+#, fuzzy
+msgid "Add string input:"
+msgstr "Pievienot teksta virknes ievadi:"
+
 msgid "all"
 msgstr "viss"
+
+msgid "All"
+msgstr ""
 
 msgid "all around"
 msgstr "viss apkārtējais"
 
+msgid "Animal"
+msgstr ""
+
+msgid "Animals"
+msgstr ""
+
 msgid "asin"
 msgstr "asin"
+
+msgid "assets loaded"
+msgstr ""
 
 msgid "atan"
 msgstr "atan"
@@ -56,7 +83,7 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B pieslēgts"
 
-msgid "Back a layer (Shift: Send to back)"
+msgid "Back a layer"
 msgstr ""
 
 # 88%
@@ -64,8 +91,17 @@ msgstr ""
 msgid "backdrop"
 msgstr "fons1"
 
+# 88%
+# 87%
+#, fuzzy
+msgid "Backdrop"
+msgstr "fons1"
+
 msgid "backdrop #"
 msgstr "fons nr"
+
+msgid "Backdrop Library"
+msgstr ""
 
 msgid "backdrop name"
 msgstr "fona nosaukums"
@@ -76,6 +112,12 @@ msgstr "fons1"
 # 88%
 #, fuzzy
 msgid "backdrops"
+msgstr "fons1"
+
+# 88%
+# 88%
+#, fuzzy
+msgid "Backdrops"
 msgstr "fons1"
 
 msgid "Backpack"
@@ -90,16 +132,37 @@ msgstr "Basa bungas"
 msgid "Bassoon"
 msgstr "Fagots"
 
+msgid "Bitmap"
+msgstr ""
+
+msgid "Bitmap Mode"
+msgstr ""
+
+msgid "Block help"
+msgstr ""
+
 msgid "Bongo"
 msgstr "Bongo"
 
 msgid "brightness"
 msgstr "gaišums"
 
+msgid "Bring to front"
+msgstr ""
+
+msgid "Broadcast"
+msgstr ""
+
+msgid "Brush"
+msgstr ""
+
 msgid "button pressed"
 msgstr "nospiesta poga"
 
 msgid "by"
+msgstr ""
+
+msgid "bytes loaded"
 msgstr ""
 
 msgid "C connected"
@@ -111,8 +174,23 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Foto aparāts"
 
+msgid "can drag in player:"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Nevar dzēst"
+
+msgid "Can’t find network connection or reach server."
+msgstr ""
+
+msgid "Castle"
+msgstr ""
+
+msgid "Category"
+msgstr ""
 
 msgid "ceiling"
 msgstr "apaļot uz augšu"
@@ -123,32 +201,79 @@ msgstr "Čells"
 msgid "Choir"
 msgstr "Koris"
 
+msgid "Circle"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
 msgid "Clarinet"
 msgstr "Klarnete"
 
 msgid "Claves"
 msgstr "Klave"
 
+msgid "Clear"
+msgstr ""
+
 msgid "clear senders/receivers"
 msgstr "notīrīt sūtītājus/saņēmējus"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr ""
+
+msgid "Close"
+msgstr ""
 
 msgid "Closed Hi-Hat"
 msgstr "Slēgtai Hi-Hat šķīvji"
 
+msgid "Cloud"
+msgstr ""
+
+msgid "Cloud data"
+msgstr ""
+
 msgid "color"
 msgstr "krāsa"
+
+msgid "Color a shape"
+msgstr ""
 
 msgid "Conga"
 msgstr "Konga"
 
+msgid "Connecting to Cloud data server..."
+msgstr ""
+
+msgid "Convert to bitmap"
+msgstr ""
+
+msgid "Convert to vector"
+msgstr ""
+
+msgid "Converting mp3..."
+msgstr ""
+
 msgid "copy"
 msgstr "kopēt"
+
+msgid "Copying..."
+msgstr ""
 
 msgid "cos"
 msgstr "cos"
 
+# 75%
+#, fuzzy
+msgid "Costume"
+msgstr "tērps1"
+
 msgid "costume #"
 msgstr "tērps nr"
+
+msgid "Costume Library"
+msgstr ""
 
 msgid "costume name"
 msgstr "tērpa nosaukums"
@@ -159,11 +284,28 @@ msgstr "tērps1"
 msgid "costume2"
 msgstr "tērps2"
 
+# 75%
+#, fuzzy
+msgid "Costumes"
+msgstr "tērps1"
+
+msgid "Costumes > 1"
+msgstr ""
+
+msgid "Costumes:"
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Zvans"
 
 msgid "Crash Cymbal"
 msgstr "Crash šķīvji"
+
+msgid "Creating..."
+msgstr ""
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr ""
 
 msgid "cut"
 msgstr "izgriezt"
@@ -177,10 +319,23 @@ msgstr "datums"
 msgid "day of week"
 msgstr "nedēļas diena"
 
+# 83%
+#, fuzzy
+msgid "Delete"
+msgstr "dzēst"
+
 msgid "delete"
 msgstr "dzēst"
 
+msgid "delete variable"
+msgstr ""
+
 msgid "direction"
+msgstr "virziens"
+
+# 90%
+#, fuzzy
+msgid "direction:"
 msgstr "virziens"
 
 msgid "don't rotate"
@@ -192,14 +347,17 @@ msgstr "uz leju"
 msgid "down arrow"
 msgstr "bulta uz leju"
 
+msgid "Download"
+msgstr ""
+
+msgid "Download to your computer"
+msgstr ""
+
 msgid "Duplicate"
 msgstr "Dublēt"
 
 msgid "duplicate"
 msgstr "dublēt"
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr ""
 
 msgid "e ^"
 msgstr "e ^"
@@ -207,11 +365,14 @@ msgstr "e ^"
 msgid "edge"
 msgstr "mala"
 
+msgid "edit"
+msgstr "rediģēt"
+
 msgid "Edit"
 msgstr "Rediģēt"
 
-msgid "edit"
-msgstr "rediģēt"
+msgid "Edit Block"
+msgstr ""
 
 msgid "Effects"
 msgstr "Efekti"
@@ -222,10 +383,16 @@ msgstr "Elektriskā ģitāra"
 msgid "Electric Piano"
 msgstr "Elektriskās klavieres"
 
-msgid "Ellipse (Shift: Circle)"
+msgid "Electronic"
+msgstr ""
+
+msgid "Ellipse"
 msgstr ""
 
 msgid "Erase"
+msgstr ""
+
+msgid "Eraser width:"
 msgstr ""
 
 msgid "fade in"
@@ -234,16 +401,26 @@ msgstr "pakāpeniski parādīties"
 msgid "fade out"
 msgstr "pakāpeniski izzust"
 
+msgid "Fantasy"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
 msgid "File"
 msgstr "Datne"
 
-# 75%
-#, fuzzy
-msgid "Fill"
-msgstr "Datne"
+msgid "Fill with color"
+msgstr ""
 
 msgid "fisheye"
 msgstr "fisheye"
+
+msgid "Flip left-right"
+msgstr ""
+
+msgid "Flip up-down"
+msgstr ""
 
 msgid "floor"
 msgstr "apaļot uz leju"
@@ -251,13 +428,28 @@ msgstr "apaļot uz leju"
 msgid "Flute"
 msgstr "Flauta"
 
-msgid "Forward a layer (Shift: Bring to front)"
+msgid "Flying"
+msgstr ""
+
+msgid "For all sprites"
+msgstr ""
+
+msgid "For this sprite only"
+msgstr ""
+
+msgid "Forward a layer"
 msgstr ""
 
 msgid "ghost"
 msgstr "spoks"
 
+msgid "Go to My Stuff"
+msgstr ""
+
 msgid "Group"
+msgstr ""
+
+msgid "Grow"
 msgstr ""
 
 msgid "Guiro"
@@ -269,11 +461,29 @@ msgstr "Ģitāra"
 msgid "Hand Clap"
 msgstr "Roku plaukšķis"
 
+msgid "hide"
+msgstr ""
+
 msgid "hour"
 msgstr "stunda"
 
+msgid "Human"
+msgstr ""
+
 msgid "Import"
 msgstr "Importēt"
+
+msgid "Importing sound..."
+msgstr ""
+
+msgid "Indoors"
+msgstr ""
+
+msgid "Installing..."
+msgstr ""
+
+msgid "Instruments"
+msgstr ""
 
 msgid "last"
 msgstr "pēdējais"
@@ -293,17 +503,31 @@ msgstr "Bibliotēka"
 msgid "light"
 msgstr "gaisma"
 
+msgid "limit reached"
+msgstr ""
+
 msgid "Line"
+msgstr ""
+
+msgid "Line width:"
+msgstr ""
+
+# 75%
+#, fuzzy
+msgid "list"
+msgstr "pēdējais"
+
+msgid "List name"
 msgstr ""
 
 msgid "ln"
 msgstr "ln"
 
+msgid "Loading project..."
+msgstr ""
+
 msgid "log"
 msgstr "log"
-
-msgid "login"
-msgstr "Ienākt"
 
 msgid "louder"
 msgstr "skaļāk"
@@ -311,11 +535,32 @@ msgstr "skaļāk"
 msgid "loudness"
 msgstr "skaļums"
 
+msgid "Make a Block"
+msgstr ""
+
+msgid "Make a List"
+msgstr ""
+
+msgid "Make a Variable"
+msgstr ""
+
 msgid "Marimba"
 msgstr "Marimba"
 
+msgid "Max"
+msgstr ""
+
+msgid "meow"
+msgstr ""
+
+msgid "Message Name"
+msgstr ""
+
 msgid "message1"
 msgstr "ziņojums1"
+
+msgid "Min"
+msgstr ""
 
 msgid "minute"
 msgstr "minūte"
@@ -332,34 +577,74 @@ msgstr "kustība"
 msgid "mouse-pointer"
 msgstr "peles kursors"
 
+msgid "Multiple"
+msgstr ""
+
+msgid "Music and Dance"
+msgstr ""
+
 msgid "Music Box"
 msgstr "Mūzikas lādīte"
+
+msgid "Music Loops"
+msgstr ""
+
+msgid "My Stuff"
+msgstr ""
 
 msgid "myself"
 msgstr "es pats"
 
-msgid "New backdrop"
+msgid "Nature"
+msgstr ""
+
+msgid "New"
+msgstr "Jauns"
+
+# 92%
+#, fuzzy
+msgid "New backdrop:"
 msgstr "Jauns fons"
 
-msgid "New costume"
+# 91%
+#, fuzzy
+msgid "New costume:"
 msgstr "Jauns tērps"
+
+msgid "New List"
+msgstr ""
 
 msgid "new message..."
 msgstr "jauns ziņojums..."
 
-msgid "New sound"
-msgstr "Jauna skaņa"
+msgid "New name"
+msgstr ""
 
 # 90%
 #, fuzzy
-msgid "New sprite"
+msgid "New sound:"
+msgstr "Jauna skaņa"
+
+msgid "New sprite:"
 msgstr "Jauns gariņš:"
+
+msgid "New Variable"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr ""
 
+msgid "Not saved; network or server problem."
+msgstr ""
+
+msgid "of"
+msgstr ""
+
 msgid "off"
 msgstr "izslēgts"
+
+msgid "OK"
+msgstr ""
 
 msgid "on"
 msgstr "ieslēgts"
@@ -373,19 +658,31 @@ msgstr "Atvērta cuica"
 msgid "Open Hi-Hat"
 msgstr "Atvērti Hi-Hat šķīvji"
 
+msgid "Options"
+msgstr ""
+
 msgid "Organ"
 msgstr "Ērģeles"
+
+msgid "Other"
+msgstr ""
 
 msgid "other scripts in sprite"
 msgstr "citi skripti gariņā"
 
-msgid "Paint"
-msgstr "Krāsa"
+msgid "Outdoors"
+msgstr ""
 
 msgid "paste"
 msgstr "ielīmēt"
 
 msgid "Pencil"
+msgstr ""
+
+msgid "People"
+msgstr ""
+
+msgid "Percussion"
 msgstr ""
 
 msgid "photo1"
@@ -394,7 +691,7 @@ msgstr "foto1"
 msgid "Piano"
 msgstr "Klavieres"
 
-msgid "Pick up Color"
+msgid "Pick up color"
 msgstr ""
 
 msgid "pixelate"
@@ -406,6 +703,12 @@ msgstr "Pičikato"
 msgid "pop"
 msgstr "paukšķis"
 
+msgid "Profile"
+msgstr ""
+
+msgid "Project not saved!"
+msgstr ""
+
 msgid "random"
 msgstr "nejauši"
 
@@ -415,14 +718,31 @@ msgstr "Ieraksts"
 msgid "recording1"
 msgstr "ieraksts1"
 
-msgid "Rectangle (Shift: Square)"
+msgid "Rectangle"
 msgstr ""
 
 msgid "redo"
 msgstr "atcelt atsaukšanu"
 
+# 75%
+#, fuzzy
+msgid "Redo"
+msgstr "atcelt atsaukšanu"
+
 msgid "Remix"
 msgstr "Remix"
+
+msgid "Remixing..."
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "rename variable"
+msgstr ""
+
+msgid "requires sign in"
+msgstr ""
 
 msgid "Reshape"
 msgstr ""
@@ -442,19 +762,55 @@ msgstr "pretestība-D"
 msgid "reverse"
 msgstr "apgriezt pretējā virzienā"
 
+msgid "Revert"
+msgstr ""
+
+msgid "Reverting..."
+msgstr ""
+
 msgid "right"
 msgstr "pa labi"
 
 msgid "right arrow"
 msgstr "bulta pa labi"
 
+msgid "rotation style:"
+msgstr ""
+
+msgid "Run without screen refresh"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save as a copy"
+msgstr ""
+
+msgid "Save now"
+msgstr ""
+
+msgid "save to local file"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Saving changes..."
+msgstr ""
+
+msgid "Saving..."
+msgstr ""
+
 msgid "Saxophone"
 msgstr "Saksofons"
 
-msgid "Scratch Cat"
-msgstr "Scratch kaķis"
+msgid "Script"
+msgstr ""
 
 msgid "Scripts"
+msgstr ""
+
+msgid "Scripts:"
 msgstr ""
 
 msgid "second"
@@ -469,6 +825,15 @@ msgstr ""
 msgid "select all"
 msgstr "iezīmēt visus"
 
+msgid "Select and duplicate"
+msgstr ""
+
+msgid "Send to back"
+msgstr ""
+
+msgid "Set costume center"
+msgstr ""
+
 msgid "Set Costume Center"
 msgstr ""
 
@@ -478,14 +843,35 @@ msgstr "Kopīgot"
 msgid "shared"
 msgstr ""
 
+msgid "Shift:"
+msgstr ""
+
+msgid "show"
+msgstr ""
+
 msgid "show receivers"
 msgstr "parādīt saņēmējus"
 
 msgid "show senders"
 msgstr "parādīt sūtītājus"
 
+msgid "show:"
+msgstr ""
+
+msgid "Shrink"
+msgstr ""
+
 msgid "Side Stick"
 msgstr "Bungu malas piesitiens"
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Sign in to save"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
 
 msgid "silence"
 msgstr "klusums"
@@ -499,21 +885,58 @@ msgstr "izmērs"
 msgid "slider"
 msgstr "slīdnis"
 
+msgid "Slider Range"
+msgstr ""
+
+msgid "Small stage layout"
+msgstr ""
+
+msgid "Smooth"
+msgstr ""
+
 msgid "Snare Drum"
 msgstr "Snare bungas"
 
 msgid "softer"
 msgstr "mīkstāk"
 
+# 80%
+#, fuzzy
+msgid "Sound"
+msgstr "skaņa"
+
 msgid "sound"
 msgstr "skaņa"
+
+msgid "Sound Library"
+msgstr ""
+
+msgid "Sounds"
+msgstr ""
 
 msgid "space"
 msgstr "atstarpe"
 
+# 80%
+#, fuzzy
+msgid "Space"
+msgstr "atstarpe"
+
+msgid "Sports"
+msgstr ""
+
 # 85%
 #, fuzzy
 msgid "Sprite"
+msgstr "Gariņi"
+
+msgid "Sprite Library"
+msgstr ""
+
+# 85%
+# 85%
+#, fuzzy
+msgid "Sprite1"
 msgstr "Gariņi"
 
 msgid "Sprites"
@@ -522,14 +945,20 @@ msgstr "Gariņi"
 msgid "sqrt"
 msgstr "sqrt"
 
+msgid "Square"
+msgstr ""
+
 msgid "Stage"
 msgstr "Skatuve"
 
-msgid "Stage selected"
+msgid "Stage selected:"
 msgstr ""
 
 msgid "Steel Drum"
 msgstr "Metāla bungas"
+
+msgid "stored on server"
+msgstr ""
 
 msgid "Synth Lead"
 msgstr "Vadošais sintezators"
@@ -549,6 +978,18 @@ msgstr ""
 msgid "that way"
 msgstr "tas ceļš"
 
+msgid "Theme"
+msgstr ""
+
+msgid "Things"
+msgstr ""
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr ""
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+
 msgid "this script"
 msgstr "šis skripts"
 
@@ -557,6 +998,9 @@ msgstr "šis gariņš"
 
 msgid "this way"
 msgstr "šis ceļš"
+
+msgid "Throw away all changes since opening this project?"
+msgstr ""
 
 msgid "timer"
 msgstr "taimeris"
@@ -568,17 +1012,42 @@ msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
 "Lai dzēstu bloka definīciju, vispirms izdzēsiet visus šī bloka lietojumus."
 
+msgid "Transportation"
+msgstr ""
+
 msgid "Triangle"
 msgstr "Trijstūris"
 
 msgid "Trombone"
 msgstr "Trombons"
 
+msgid "Turbo mode"
+msgstr ""
+
 msgid "Turbo Mode"
 msgstr ""
 
+msgid "Type"
+msgstr ""
+
+# 75%
+#, fuzzy
+msgid "Undelete"
+msgstr "dzēst"
+
+msgid "Underwater"
+msgstr ""
+
+# 75%
+#, fuzzy
+msgid "Undo"
+msgstr "atsaukt"
+
 msgid "undo"
 msgstr "atsaukt"
+
+msgid "Undo Revert"
+msgstr ""
 
 msgid "Ungroup"
 msgstr ""
@@ -592,6 +1061,30 @@ msgstr "uz augšu"
 msgid "up arrow"
 msgstr "bulta uz augšu"
 
+msgid "Upload from your computer"
+msgstr ""
+
+msgid "Uploading image..."
+msgstr ""
+
+msgid "Uploading sound..."
+msgstr ""
+
+msgid "Uploading sprite..."
+msgstr ""
+
+msgid "variable"
+msgstr ""
+
+msgid "Variable name"
+msgstr ""
+
+msgid "Vector"
+msgstr ""
+
+msgid "Vector Mode"
+msgstr ""
+
 msgid "Vibraphone"
 msgstr "Ksilofons"
 
@@ -601,8 +1094,23 @@ msgstr "Vibra slaperis"
 msgid "video motion"
 msgstr "video kustība"
 
+msgid "Video on:"
+msgstr ""
+
+msgid "Vocals"
+msgstr ""
+
 msgid "volume"
 msgstr "skaļums"
+
+msgid "Walking"
+msgstr ""
+
+msgid "Want to save? Click remix"
+msgstr ""
+
+msgid "Which column do you want to import"
+msgstr ""
 
 msgid "whirl"
 msgstr "virpuļi"
@@ -622,6 +1130,46 @@ msgstr "y pozīcija"
 msgid "year"
 msgstr "gads"
 
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+
+#~ msgid "Add a boolean input:"
+#~ msgstr "Pievienot Būla (boolean) ievadi:"
+
+#~ msgid "Add a number input:"
+#~ msgstr "Pievienot skaitļa ievadi:"
+
+#~ msgid "Add a string input:"
+#~ msgstr "Pievienot teksta virknes ievadi:"
+
+# 75%
+#, fuzzy
+#~ msgid "Fill"
+#~ msgstr "Datne"
+
+#~ msgid "login"
+#~ msgstr "Ienākt"
+
+#~ msgid "New backdrop"
+#~ msgstr "Jauns fons"
+
+#~ msgid "New costume"
+#~ msgstr "Jauns tērps"
+
+#~ msgid "New sound"
+#~ msgstr "Jauna skaņa"
+
+# 90%
+#, fuzzy
+#~ msgid "New sprite"
+#~ msgstr "Jauns gariņš:"
+
+#~ msgid "Paint"
+#~ msgstr "Krāsa"
+
+#~ msgid "Scratch Cat"
+#~ msgstr "Scratch kaķis"
+
 #~ msgid "#"
 #~ msgstr "nr"
 
@@ -636,12 +1184,6 @@ msgstr "gads"
 
 #~ msgid "name"
 #~ msgstr "vārds"
-
-#~ msgid "New"
-#~ msgstr "Jauns"
-
-#~ msgid "New sprite:"
-#~ msgstr "Jauns gariņš:"
 
 #~ msgid "say"
 #~ msgstr "teikt"

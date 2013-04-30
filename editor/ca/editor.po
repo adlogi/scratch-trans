@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-11 10:47+0200\n"
-"PO-Revision-Date: 2013-02-23 21:10+0200\n"
+"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"PO-Revision-Date: 2013-04-27 14:23+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -16,23 +16,31 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment només "
+"s'accepten números<br>Els xats no estan permesos i s'eliminaran<br>Si voleu "
+"més informació, <a href= target=>vegeu les Preguntes Més Freqüents sobre "
+"les dades al núvol!</a>"
+
 msgid "A connected"
 msgstr "A connectat"
+
+msgid "a copy of the project file on your computer."
+msgstr "una còpia del teu projecte al teu ordinador."
 
 msgid "abs"
 msgstr "abs"
 
+msgid "Account settings"
+msgstr "Configuracions del compte"
+
 msgid "acos"
 msgstr "acos"
 
-msgid "Add a boolean input:"
-msgstr "Afegeix una entrada per condicions lògiques:"
-
-msgid "Add a number input:"
-msgstr "Afegeix una entrada per números:"
-
-msgid "Add a string input:"
-msgstr "Afegeix una entrada per text:"
+# 90%
+msgid "Add boolean input:"
+msgstr "Afegeix una condició lògica:"
 
 msgid "add comment"
 msgstr "afegeix un comentari"
@@ -40,14 +48,34 @@ msgstr "afegeix un comentari"
 msgid "Add label text:"
 msgstr "Afegeix una etiqueta de text:"
 
+# 89%
+msgid "Add number input:"
+msgstr "Afegeix una entrada per números:"
+
+# 89%
+msgid "Add string input:"
+msgstr "Afegeix una entrada per text:"
+
 msgid "all"
-msgstr "tots"
+msgstr "tot"
+
+msgid "All"
+msgstr "Tot"
 
 msgid "all around"
 msgstr "al voltant"
 
+msgid "Animal"
+msgstr "Animal"
+
+msgid "Animals"
+msgstr "Animals"
+
 msgid "asin"
 msgstr "asin"
+
+msgid "assets loaded"
+msgstr "actius carregats"
 
 msgid "atan"
 msgstr "atan"
@@ -55,15 +83,23 @@ msgstr "atan"
 msgid "B connected"
 msgstr "B connectat"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr "Capa enrera (Tecla majúscules: Envia darrera)"
+msgid "Back a layer"
+msgstr "Endarrere una capa"
 
 # 88%
 msgid "backdrop"
 msgstr "fons"
 
+# 88%
+# 87%
+msgid "Backdrop"
+msgstr "Fons"
+
 msgid "backdrop #"
 msgstr "fons nr"
+
+msgid "Backdrop Library"
+msgstr "Galeria de fons"
 
 msgid "backdrop name"
 msgstr "nom del fons"
@@ -74,6 +110,11 @@ msgstr "fons1"
 # 88%
 msgid "backdrops"
 msgstr "fons"
+
+# 88%
+# 88%
+msgid "Backdrops"
+msgstr "Fons"
 
 msgid "Backpack"
 msgstr "Motxilla"
@@ -87,17 +128,38 @@ msgstr "Tambor Greu"
 msgid "Bassoon"
 msgstr "Fagot"
 
+msgid "Bitmap"
+msgstr "Mapa de bits"
+
+msgid "Bitmap Mode"
+msgstr "Mode Mapa de bits"
+
+msgid "Block help"
+msgstr "Ajuda del bloc"
+
 msgid "Bongo"
 msgstr "Bongo"
 
 msgid "brightness"
 msgstr "brillantor"
 
+msgid "Bring to front"
+msgstr "Envia al davant"
+
+msgid "Broadcast"
+msgstr "Envia a tots"
+
+msgid "Brush"
+msgstr "Pinzell"
+
 msgid "button pressed"
 msgstr "botó premut"
 
 msgid "by"
 msgstr "per"
+
+msgid "bytes loaded"
+msgstr "bytes carregats"
 
 msgid "C connected"
 msgstr "C connectat"
@@ -108,8 +170,23 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Càmera"
 
+msgid "can drag in player:"
+msgstr "pot ser arrossegat al reproductor:"
+
+msgid "Cancel"
+msgstr "Cancel·lar"
+
 msgid "Cannot Delete"
 msgstr "No es pot esborrar"
+
+msgid "Can’t find network connection or reach server."
+msgstr "No es pot detectar la connexió amb la xarxa o accedir al servidor."
+
+msgid "Castle"
+msgstr "Castell"
+
+msgid "Category"
+msgstr "Categoria"
 
 msgid "ceiling"
 msgstr "sostre"
@@ -120,32 +197,78 @@ msgstr "Violoncel"
 msgid "Choir"
 msgstr "Cor de veus"
 
+msgid "Circle"
+msgstr "Cercle"
+
+msgid "City"
+msgstr "Ciutat"
+
 msgid "Clarinet"
 msgstr "Clarinet"
 
 msgid "Claves"
 msgstr "Claus"
 
+msgid "Clear"
+msgstr "Neteja"
+
 msgid "clear senders/receivers"
 msgstr "neteja emissors/receptors"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Fes clic a  per tornar-ho a intentar o bé  per desar"
+
+msgid "Close"
+msgstr "Tanca"
 
 msgid "Closed Hi-Hat"
 msgstr "Xarles tancat"
 
+msgid "Cloud"
+msgstr "Núvol"
+
+msgid "Cloud data"
+msgstr "Dades al núvol"
+
 msgid "color"
 msgstr "color"
+
+msgid "Color a shape"
+msgstr "Pinta una figura"
 
 msgid "Conga"
 msgstr "Conga"
 
+msgid "Connecting to Cloud data server..."
+msgstr "Connectant al servidor de dades al núvol..."
+
+msgid "Convert to bitmap"
+msgstr "Converteix a mapa de bits"
+
+msgid "Convert to vector"
+msgstr "Converteix a vectorial"
+
+msgid "Converting mp3..."
+msgstr "Convertint mp3..."
+
 msgid "copy"
 msgstr "còpia"
+
+msgid "Copying..."
+msgstr "Copiant..."
 
 msgid "cos"
 msgstr "cos"
 
+# 75%
+msgid "Costume"
+msgstr "Vestit"
+
 msgid "costume #"
 msgstr "vestit nr"
+
+msgid "Costume Library"
+msgstr "Galeria de Vestits"
 
 msgid "costume name"
 msgstr "nom del vestit"
@@ -157,11 +280,27 @@ msgstr "vestit1"
 msgid "costume2"
 msgstr "vestit2"
 
+# 75%
+msgid "Costumes"
+msgstr "Vestits"
+
+msgid "Costumes > 1"
+msgstr "Vestits > 1"
+
+msgid "Costumes:"
+msgstr "Vestits:"
+
 msgid "Cowbell"
 msgstr "Esquella"
 
 msgid "Crash Cymbal"
 msgstr "Platets"
+
+msgid "Creating..."
+msgstr "Creant..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "Actualment, només es poden desar números a les variables al núvol."
 
 msgid "cut"
 msgstr "retalla"
@@ -175,11 +314,22 @@ msgstr "data"
 msgid "day of week"
 msgstr "dia de la setmana"
 
+# 83%
+msgid "Delete"
+msgstr "Esborra"
+
 msgid "delete"
 msgstr "esborra"
 
+msgid "delete variable"
+msgstr "elimina la variable"
+
 msgid "direction"
 msgstr "direcció"
+
+# 90%
+msgid "direction:"
+msgstr "direcció:"
 
 msgid "don't rotate"
 msgstr "no giris"
@@ -190,14 +340,17 @@ msgstr "avall"
 msgid "down arrow"
 msgstr "fletxa avall"
 
+msgid "Download"
+msgstr "Descarrega"
+
+msgid "Download to your computer"
+msgstr "Descarrega al teu ordinador"
+
 msgid "Duplicate"
 msgstr "Duplica"
 
 msgid "duplicate"
 msgstr "duplica"
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr "Duplica (Tecla majúscules: Multiple)"
 
 msgid "e ^"
 msgstr "e ^"
@@ -205,11 +358,14 @@ msgstr "e ^"
 msgid "edge"
 msgstr "vora"
 
+msgid "edit"
+msgstr "edita"
+
 msgid "Edit"
 msgstr "Edita"
 
-msgid "edit"
-msgstr "edita"
+msgid "Edit Block"
+msgstr "Edita el Bloc"
 
 msgid "Effects"
 msgstr "Efectes"
@@ -220,11 +376,17 @@ msgstr "Guitarra elèctrica"
 msgid "Electric Piano"
 msgstr "Piano elèctric"
 
-msgid "Ellipse (Shift: Circle)"
-msgstr "El·lipse (Tecla canvi: Cercle)"
+msgid "Electronic"
+msgstr "Electrònic"
+
+msgid "Ellipse"
+msgstr "El·lipse"
 
 msgid "Erase"
 msgstr "Esborra"
+
+msgid "Eraser width:"
+msgstr "Ample de l'esborrador:"
 
 msgid "fade in"
 msgstr "augmenta"
@@ -232,15 +394,26 @@ msgstr "augmenta"
 msgid "fade out"
 msgstr "disminueix"
 
+msgid "Fantasy"
+msgstr "Fantasia"
+
+msgid "Features"
+msgstr "Característiques"
+
 msgid "File"
 msgstr "Fitxer"
 
-# 75%
-msgid "Fill"
-msgstr "Omple"
+msgid "Fill with color"
+msgstr "Omple amb color"
 
 msgid "fisheye"
 msgstr "ull de peix"
+
+msgid "Flip left-right"
+msgstr "Gira esquerra-dreta"
+
+msgid "Flip up-down"
+msgstr "Gira amunt-avall"
 
 msgid "floor"
 msgstr "part sencera"
@@ -248,14 +421,29 @@ msgstr "part sencera"
 msgid "Flute"
 msgstr "Flauta"
 
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr "Capa endavant (Tecla majúscules: Envia al front)"
+msgid "Flying"
+msgstr "Volant"
+
+msgid "For all sprites"
+msgstr "Per a tots els personatges"
+
+msgid "For this sprite only"
+msgstr "Només per aquest personatge"
+
+msgid "Forward a layer"
+msgstr "Endavant una capa"
 
 msgid "ghost"
 msgstr "transparència"
 
+msgid "Go to My Stuff"
+msgstr "Vés a les Meves Coses"
+
 msgid "Group"
 msgstr "Grup"
+
+msgid "Grow"
+msgstr "Creix"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -266,11 +454,29 @@ msgstr "Guitarra"
 msgid "Hand Clap"
 msgstr "Aplaudiment"
 
+msgid "hide"
+msgstr "amaga"
+
 msgid "hour"
 msgstr "hora"
 
+msgid "Human"
+msgstr "Humà"
+
 msgid "Import"
 msgstr "Importa"
+
+msgid "Importing sound..."
+msgstr "Important so..."
+
+msgid "Indoors"
+msgstr "Interiors"
+
+msgid "Installing..."
+msgstr "Instal·lant..."
+
+msgid "Instruments"
+msgstr "Instruments"
 
 msgid "last"
 msgstr "darrer"
@@ -290,17 +496,30 @@ msgstr "Llibreria"
 msgid "light"
 msgstr "llum"
 
+msgid "limit reached"
+msgstr "límit assolit"
+
 msgid "Line"
 msgstr "Línia"
+
+msgid "Line width:"
+msgstr "Ample de línia:"
+
+# 75%
+msgid "list"
+msgstr "llista"
+
+msgid "List name"
+msgstr "Nom de la Llista"
 
 msgid "ln"
 msgstr "ln"
 
+msgid "Loading project..."
+msgstr "Carregant projecte..."
+
 msgid "log"
 msgstr "log"
-
-msgid "login"
-msgstr "inici de sessió"
 
 msgid "louder"
 msgstr "més fort"
@@ -308,11 +527,32 @@ msgstr "més fort"
 msgid "loudness"
 msgstr "volum del so"
 
+msgid "Make a Block"
+msgstr "Crea un Bloc"
+
+msgid "Make a List"
+msgstr "Crea una Llista"
+
+msgid "Make a Variable"
+msgstr "Crea una Variable"
+
 msgid "Marimba"
 msgstr "Marimba"
 
+msgid "Max"
+msgstr "Màx"
+
+msgid "meow"
+msgstr "meu"
+
+msgid "Message Name"
+msgstr "Nom del Missatge"
+
 msgid "message1"
 msgstr "missatge1"
+
+msgid "Min"
+msgstr "Mín"
 
 msgid "minute"
 msgstr "minut"
@@ -329,33 +569,71 @@ msgstr "moviment"
 msgid "mouse-pointer"
 msgstr "punter del ratolí"
 
+msgid "Multiple"
+msgstr "Múltiple"
+
+msgid "Music and Dance"
+msgstr "Música i Dansa"
+
 msgid "Music Box"
 msgstr "Caixa xinesa"
 
+msgid "Music Loops"
+msgstr "Bucles Musicals"
+
+msgid "My Stuff"
+msgstr "Les Meves Coses"
+
 msgid "myself"
-msgstr "mi mateix"
+msgstr "jo mateix"
 
-msgid "New backdrop"
-msgstr "Nou fons"
+msgid "Nature"
+msgstr "Natura"
 
-msgid "New costume"
-msgstr "Nou vestit"
+msgid "New"
+msgstr "Nou"
+
+# 92%
+msgid "New backdrop:"
+msgstr "Nou fons:"
+
+# 91%
+msgid "New costume:"
+msgstr "Nou vestit:"
+
+msgid "New List"
+msgstr "Nova Llista"
 
 msgid "new message..."
 msgstr "nou missatge..."
 
-msgid "New sound"
-msgstr "Nou so"
+msgid "New name"
+msgstr "Nou nom"
 
 # 90%
-msgid "New sprite"
-msgstr "Nou personatge"
+msgid "New sound:"
+msgstr "Nou so:"
+
+msgid "New sprite:"
+msgstr "Nou personatge:"
+
+msgid "New Variable"
+msgstr "Nova Variable"
 
 msgid "No motion blocks"
 msgstr "Sense blocs de moviment"
 
+msgid "Not saved; network or server problem."
+msgstr "No s'ha desat; problemes a la xarxa o al servidor."
+
+msgid "of"
+msgstr "de"
+
 msgid "off"
 msgstr "apaga"
+
+msgid "OK"
+msgstr "OK"
 
 msgid "on"
 msgstr "activa"
@@ -369,15 +647,21 @@ msgstr "Cuica sonora"
 msgid "Open Hi-Hat"
 msgstr "Xarles obert"
 
+msgid "Options"
+msgstr "Opcions"
+
 msgid "Organ"
 msgstr "Òrgan"
 
+msgid "Other"
+msgstr "Altres"
+
 # 82%
 msgid "other scripts in sprite"
-msgstr "altres programes de l'escenari"
+msgstr "altres programes del personatge"
 
-msgid "Paint"
-msgstr "Dibuixa"
+msgid "Outdoors"
+msgstr "Exteriors"
 
 msgid "paste"
 msgstr "enganxa"
@@ -385,14 +669,21 @@ msgstr "enganxa"
 msgid "Pencil"
 msgstr "Llapis"
 
+msgid "People"
+msgstr "Gent"
+
+msgid "Percussion"
+msgstr "Percussió"
+
 msgid "photo1"
 msgstr "foto1"
 
 msgid "Piano"
 msgstr "Piano"
 
-msgid "Pick up Color"
-msgstr "Escull un Color"
+# 92%
+msgid "Pick up color"
+msgstr "Escull un color"
 
 msgid "pixelate"
 msgstr "pixelar"
@@ -403,6 +694,12 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Project not saved!"
+msgstr "El projecte no s'ha desat!"
+
 msgid "random"
 msgstr "aleatori"
 
@@ -412,14 +709,30 @@ msgstr "Grava"
 msgid "recording1"
 msgstr "gravació1"
 
-msgid "Rectangle (Shift: Square)"
-msgstr "Rectangle (Tecla majúscules: Quadrat)"
+msgid "Rectangle"
+msgstr "Rectangle"
 
 msgid "redo"
 msgstr "torna-hi"
 
+# 75%
+msgid "Redo"
+msgstr "Torna-hi"
+
 msgid "Remix"
 msgstr "Reinventa"
+
+msgid "Remixing..."
+msgstr "Reinventant..."
+
+msgid "Rename"
+msgstr "Canvia el nom"
+
+msgid "rename variable"
+msgstr "canvia el nom de la variable"
+
+msgid "requires sign in"
+msgstr "requereix iniciar la sessió"
 
 msgid "Reshape"
 msgstr "Redibuixa"
@@ -439,20 +752,58 @@ msgstr "resistència-D"
 msgid "reverse"
 msgstr "invertit"
 
+msgid "Revert"
+msgstr "Invertir"
+
+msgid "Reverting..."
+msgstr "Invertint..."
+
 msgid "right"
 msgstr "dreta"
 
 msgid "right arrow"
 msgstr "fletxa dreta"
 
+msgid "rotation style:"
+msgstr "estil de rotació:"
+
+msgid "Run without screen refresh"
+msgstr "Funciona sense refrescar la pantalla"
+
+msgid "Save"
+msgstr "Desa"
+
+msgid "Save as a copy"
+msgstr "Desa una copia"
+
+msgid "Save now"
+msgstr "Desa ara"
+
+msgid "save to local file"
+msgstr "desa a un fitxer local"
+
+msgid "Saved"
+msgstr "Desat"
+
+msgid "Saving changes..."
+msgstr "Desant canvis..."
+
+msgid "Saving..."
+msgstr "Desant..."
+
 msgid "Saxophone"
 msgstr "Saxòfon"
 
-msgid "Scratch Cat"
-msgstr "Gat Scratch"
+# 85%
+msgid "Script"
+msgstr "Programa"
 
 msgid "Scripts"
 msgstr "Programes"
+
+# 87%
+msgid "Scripts:"
+msgstr "Programes:"
 
 msgid "second"
 msgstr "segon"
@@ -466,6 +817,16 @@ msgstr "Selecciona"
 msgid "select all"
 msgstr "selecciona-ho tot"
 
+msgid "Select and duplicate"
+msgstr "Selecciona i duplica"
+
+msgid "Send to back"
+msgstr "Envia endarrere"
+
+# 88%
+msgid "Set costume center"
+msgstr "Fixa el centre del vestit"
+
 msgid "Set Costume Center"
 msgstr "Fixa el Centre del Vestit"
 
@@ -475,14 +836,35 @@ msgstr "Comparteix"
 msgid "shared"
 msgstr "compartit"
 
+msgid "Shift:"
+msgstr "Tecla majúscules:"
+
+msgid "show"
+msgstr "mostra"
+
 msgid "show receivers"
 msgstr "mostra els receptors"
 
 msgid "show senders"
 msgstr "mostra els emissors"
 
+msgid "show:"
+msgstr "mostra:"
+
+msgid "Shrink"
+msgstr "Encongeix"
+
 msgid "Side Stick"
 msgstr "Cop lateral"
+
+msgid "Sign in"
+msgstr "Inicia la sessió"
+
+msgid "Sign in to save"
+msgstr "Inicia la sessió per poder desar"
+
+msgid "Sign out"
+msgstr "Tanca la sessió"
 
 msgid "silence"
 msgstr "silenci"
@@ -496,21 +878,55 @@ msgstr "mida"
 msgid "slider"
 msgstr "lliscador"
 
+msgid "Slider Range"
+msgstr "Rang del Lliscador"
+
+msgid "Small stage layout"
+msgstr "Veure l'escenari més petit"
+
+msgid "Smooth"
+msgstr "Suavitza"
+
 msgid "Snare Drum"
 msgstr "Tambor militar petit"
 
 msgid "softer"
 msgstr "més fluix"
 
+# 80%
+msgid "Sound"
+msgstr "So"
+
 msgid "sound"
 msgstr "so"
+
+msgid "Sound Library"
+msgstr "Galeria de Sons"
+
+msgid "Sounds"
+msgstr "Sons"
 
 msgid "space"
 msgstr "espai"
 
+# 80%
+msgid "Space"
+msgstr "Espai"
+
+msgid "Sports"
+msgstr "Esports"
+
 # 85%
 msgid "Sprite"
 msgstr "Personatge"
+
+msgid "Sprite Library"
+msgstr "Galeria de Personatges"
+
+# 85%
+# 85%
+msgid "Sprite1"
+msgstr "Personatge1"
 
 msgid "Sprites"
 msgstr "Personatges"
@@ -518,14 +934,21 @@ msgstr "Personatges"
 msgid "sqrt"
 msgstr "arrel quadrada"
 
+msgid "Square"
+msgstr "Quadrat"
+
 msgid "Stage"
 msgstr "Escenari"
 
-msgid "Stage selected"
-msgstr "Escenari seleccionat"
+# 93%
+msgid "Stage selected:"
+msgstr "Escenari seleccionat:"
 
 msgid "Steel Drum"
 msgstr "Tambor d'acer"
+
+msgid "stored on server"
+msgstr "desat al servidor"
 
 msgid "Synth Lead"
 msgstr "Sintetitzador solista"
@@ -545,6 +968,23 @@ msgstr "Text"
 msgid "that way"
 msgstr "cap aquí"
 
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Things"
+msgstr "Coses"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgstr ""
+"Aquest projecte pot detectar qui l'està fent servir mitjançant el bloc \"nom "
+"d'usuari\". Per tal d'amagar la teva identitat, tanca la sessió abans d'usar "
+"aquest projecte."
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+"Aquest projecte utilitza dades al núvol. Aquesta opció només està disponible "
+"per a usuaris registrats."
+
 msgid "this script"
 msgstr "aquest programa"
 
@@ -553,6 +993,11 @@ msgstr "aquest personatge"
 
 msgid "this way"
 msgstr "cap allà"
+
+msgid "Throw away all changes since opening this project?"
+msgstr ""
+"Vols eliminar tots els canvis que has fet des de que has obert aquest "
+"projecte?"
 
 msgid "timer"
 msgstr "cronòmetre"
@@ -565,17 +1010,41 @@ msgstr ""
 "Per esborrar la definició d'un bloc, primer cal esborrar-lo de tot arreu on "
 "es faci servir."
 
+msgid "Transportation"
+msgstr "Transport"
+
 msgid "Triangle"
 msgstr "Triangle"
 
 msgid "Trombone"
 msgstr "Trombó"
 
+# 90%
+msgid "Turbo mode"
+msgstr "Mode Turbo"
+
 msgid "Turbo Mode"
 msgstr "Mode Turbo"
 
+msgid "Type"
+msgstr "Tipus"
+
+# 75%
+msgid "Undelete"
+msgstr "Desfés l'esborrament"
+
+msgid "Underwater"
+msgstr "Sota l'aigua"
+
+# 75%
+msgid "Undo"
+msgstr "Desfés"
+
 msgid "undo"
 msgstr "desfés"
+
+msgid "Undo Revert"
+msgstr "Torna a fer"
 
 msgid "Ungroup"
 msgstr "Separar"
@@ -589,6 +1058,30 @@ msgstr "amunt"
 msgid "up arrow"
 msgstr "fletxa amunt"
 
+msgid "Upload from your computer"
+msgstr "Carrega des del teu ordinador"
+
+msgid "Uploading image..."
+msgstr "Pujant imatge..."
+
+msgid "Uploading sound..."
+msgstr "Pujant so..."
+
+msgid "Uploading sprite..."
+msgstr "Pujant personatge..."
+
+msgid "variable"
+msgstr "variable"
+
+msgid "Variable name"
+msgstr "Nom de la Variable"
+
+msgid "Vector"
+msgstr "Vectorial"
+
+msgid "Vector Mode"
+msgstr "Mode Vectorial"
+
 msgid "Vibraphone"
 msgstr "Vibràfon"
 
@@ -598,8 +1091,23 @@ msgstr "Vibraslap"
 msgid "video motion"
 msgstr "moviment de vídeo"
 
+msgid "Video on:"
+msgstr "Vídeo activat:"
+
+msgid "Vocals"
+msgstr "Veus"
+
 msgid "volume"
 msgstr "volum"
+
+msgid "Walking"
+msgstr "Caminant"
+
+msgid "Want to save? Click remix"
+msgstr "Vols desar? Fes clic a reinventa"
+
+msgid "Which column do you want to import"
+msgstr "Quina columna vols importar"
 
 msgid "whirl"
 msgstr "girar"
@@ -619,6 +1127,67 @@ msgstr "posició y"
 msgid "year"
 msgstr "any"
 
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+"No pots editar les dades al núvol del projecte d'algú altre.<br>Qualsevol "
+"canvi que realitzis a l'editor serà temporal i no quedarà emmagatzemat."
+
+#~ msgid "Add a boolean input:"
+#~ msgstr "Afegeix una entrada per condicions lògiques:"
+
+#~ msgid "Add a number input:"
+#~ msgstr "Afegeix una entrada per números:"
+
+#~ msgid "Add a string input:"
+#~ msgstr "Afegeix una entrada per text:"
+
+#~ msgid "Back a layer (Shift: Send to back)"
+#~ msgstr "Capa enrera (Tecla majúscules: Envia darrera)"
+
+#~ msgid "Duplicate (Shift: Multiple)"
+#~ msgstr "Duplica (Tecla majúscules: Multiple)"
+
+#~ msgid "Ellipse (Shift: Circle)"
+#~ msgstr "El·lipse (Tecla canvi: Cercle)"
+
+# 75%
+#~ msgid "Fill"
+#~ msgstr "Omple"
+
+#~ msgid "Forward a layer (Shift: Bring to front)"
+#~ msgstr "Capa endavant (Tecla majúscules: Envia al front)"
+
+#~ msgid "login"
+#~ msgstr "inici de sessió"
+
+#~ msgid "New backdrop"
+#~ msgstr "Nou fons"
+
+#~ msgid "New costume"
+#~ msgstr "Nou vestit"
+
+#~ msgid "New sound"
+#~ msgstr "Nou so"
+
+# 90%
+#~ msgid "New sprite"
+#~ msgstr "Nou personatge"
+
+#~ msgid "Paint"
+#~ msgstr "Dibuixa"
+
+#~ msgid "Pick up Color"
+#~ msgstr "Escull un Color"
+
+#~ msgid "Rectangle (Shift: Square)"
+#~ msgstr "Rectangle (Tecla majúscules: Quadrat)"
+
+#~ msgid "Scratch Cat"
+#~ msgstr "Gat Scratch"
+
+#~ msgid "Stage selected"
+#~ msgstr "Escenari seleccionat"
+
 #~ msgid "#"
 #~ msgstr "#"
 
@@ -633,12 +1202,6 @@ msgstr "any"
 
 #~ msgid "name"
 #~ msgstr "nom"
-
-#~ msgid "New"
-#~ msgstr "Nou"
-
-#~ msgid "New sprite:"
-#~ msgstr "Nou personatge: "
 
 #~ msgid "say"
 #~ msgstr "digues"

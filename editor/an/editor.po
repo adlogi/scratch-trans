@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-23 00:22+0200\n"
-"PO-Revision-Date: 2013-04-17 11:09+0200\n"
+"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"PO-Revision-Date: 2013-04-27 17:11+0200\n"
 "Last-Translator: Juan Pablo <juanpabl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: an\n"
@@ -16,635 +16,1196 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "A connected"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Información sobre variables en a boira</b><br>&nbsp;<br>Por agora, nomás "
+"s'acceptan numers<br>Os chats no se permiten, y se'n eliminarán<br>Ta saber-"
+"ne mas, <a href= target=>puetz leyer a FAQ sobre datos en a boira</a>"
+
+msgid "A connected"
+msgstr "A connectau"
+
+msgid "a copy of the project file on your computer."
+msgstr "una copia d'o fichero de prochecto en o tuyo ordinador."
 
 msgid "abs"
-msgstr ""
+msgstr "abs"
+
+msgid "Account settings"
+msgstr "Achustes d'a cuenta"
 
 msgid "acos"
-msgstr ""
+msgstr "acos"
 
-msgid "Add a boolean input:"
-msgstr ""
-
-msgid "Add a number input:"
-msgstr ""
-
-msgid "Add a string input:"
-msgstr ""
+# 90%
+msgid "Add boolean input:"
+msgstr "Adhibir una dentrada lochica:"
 
 msgid "add comment"
-msgstr ""
+msgstr "adhibir un comentario"
 
 msgid "Add label text:"
-msgstr ""
+msgstr "Adhibir o texto d'a etiqueta:"
+
+# 89%
+msgid "Add number input:"
+msgstr "Adhibir una dentrada numerica:"
+
+# 89%
+msgid "Add string input:"
+msgstr "Adhibir una dentrada de texto:"
 
 msgid "all"
-msgstr ""
+msgstr "totz"
+
+msgid "All"
+msgstr "Totz"
 
 msgid "all around"
-msgstr ""
+msgstr "por tot arreu"
+
+msgid "Animal"
+msgstr "Animal"
+
+msgid "Animals"
+msgstr "Animals"
 
 msgid "asin"
-msgstr ""
+msgstr "asin"
+
+msgid "assets loaded"
+msgstr "s'ha cargau os recursos"
 
 msgid "atan"
-msgstr ""
+msgstr "atan"
 
 msgid "B connected"
-msgstr ""
+msgstr "B connectau"
 
-msgid "Back a layer (Shift: Send to back)"
-msgstr ""
+msgid "Back a layer"
+msgstr "Una capa enta zaga"
 
 msgid "backdrop"
-msgstr ""
+msgstr "fundo"
+
+# 87%
+msgid "Backdrop"
+msgstr "Fundo"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "fundo nº"
+
+msgid "Backdrop Library"
+msgstr "Galería de fundos"
 
 msgid "backdrop name"
-msgstr ""
+msgstr "nombre d'o fundo"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "fundo1"
 
 msgid "backdrops"
-msgstr ""
+msgstr "fundos"
+
+# 88%
+msgid "Backdrops"
+msgstr "Fundos"
 
 msgid "Backpack"
-msgstr ""
+msgstr "Mochila"
 
 msgid "Bass"
-msgstr ""
+msgstr "Baixo"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Bombo"
 
 msgid "Bassoon"
-msgstr ""
+msgstr "Fagot"
+
+msgid "Bitmap"
+msgstr "Mapa de bits"
+
+msgid "Bitmap Mode"
+msgstr "Modo de mapa de bits"
+
+msgid "Block help"
+msgstr "Aduya de bloque"
 
 msgid "Bongo"
-msgstr ""
+msgstr "Bongo"
 
 msgid "brightness"
-msgstr ""
+msgstr "brilor"
+
+msgid "Bring to front"
+msgstr "Ninviar enta debant"
+
+msgid "Broadcast"
+msgstr "Ninviar a totz"
+
+msgid "Brush"
+msgstr "Pincel"
 
 msgid "button pressed"
-msgstr ""
+msgstr "botón pretau"
 
 msgid "by"
-msgstr ""
+msgstr "por"
+
+msgid "bytes loaded"
+msgstr "bytes cargaus"
 
 msgid "C connected"
-msgstr ""
+msgstr "C connectau"
 
 msgid "Cabasa"
-msgstr ""
+msgstr "Cabasa"
 
 msgid "Camera"
-msgstr ""
+msgstr "Camera"
+
+msgid "can drag in player:"
+msgstr "se puede arrocegar enta o reproductor:"
+
+msgid "Cancel"
+msgstr "Cancelar"
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "No se puede borrar"
+
+msgid "Can’t find network connection or reach server."
+msgstr "No se puede detectar a connexión con o ret u accedri ta o servidor."
+
+msgid "Castle"
+msgstr "Castiello"
+
+msgid "Category"
+msgstr "Categoría"
 
 msgid "ceiling"
-msgstr ""
+msgstr "teito"
 
 msgid "Cello"
-msgstr ""
+msgstr "Violonchelo"
 
 msgid "Choir"
-msgstr ""
+msgstr "Coro"
+
+msgid "Circle"
+msgstr "Cerclo"
+
+msgid "City"
+msgstr "Ciudat"
 
 msgid "Clarinet"
-msgstr ""
+msgstr "Clarinet"
 
 msgid "Claves"
-msgstr ""
+msgstr "Claus"
+
+msgid "Clear"
+msgstr "Limpiar"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "limpiar emisors/receptors"
+
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Fer clic  ta tornar a prebar-lo u  ta alzar-lo"
+
+msgid "Close"
+msgstr "Zarrar"
 
 msgid "Closed Hi-Hat"
-msgstr ""
+msgstr "Charles zarrau"
+
+msgid "Cloud"
+msgstr "Boira"
+
+msgid "Cloud data"
+msgstr "Datos en a boira"
 
 msgid "color"
-msgstr ""
+msgstr "color"
+
+msgid "Color a shape"
+msgstr "Dar color a una forma"
 
 msgid "Conga"
-msgstr ""
+msgstr "Conga"
+
+msgid "Connecting to Cloud data server..."
+msgstr "Se ye connectando ta o sevidor de datos en a boira..."
+
+msgid "Convert to bitmap"
+msgstr "Convertir ta mapa de bits"
+
+msgid "Convert to vector"
+msgstr "Convertir ta vectorial"
+
+msgid "Converting mp3..."
+msgstr "Se ye convertindo ta mp3..."
 
 msgid "copy"
-msgstr ""
+msgstr "copiar"
+
+msgid "Copying..."
+msgstr "Se ye copiando..."
 
 msgid "cos"
-msgstr ""
+msgstr "cos"
+
+# 75%
+msgid "Costume"
+msgstr "Vestiu"
 
 msgid "costume #"
-msgstr ""
+msgstr "# de vestiu"
+
+msgid "Costume Library"
+msgstr "Galería de vestius"
 
 msgid "costume name"
-msgstr ""
+msgstr "nombre d'o vestiu"
 
 msgid "costume1"
-msgstr ""
+msgstr "vestiu1"
 
 msgid "costume2"
-msgstr ""
+msgstr "vestiu2"
+
+msgid "Costumes"
+msgstr "Vestius"
+
+msgid "Costumes > 1"
+msgstr "Vestius > 1"
+
+msgid "Costumes:"
+msgstr "Vestius:"
 
 msgid "Cowbell"
-msgstr ""
+msgstr "Esquilla"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Platet Crash"
+
+msgid "Creating..."
+msgstr "Se ye creyando..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "Por agora nomás se puede alzar numers en as variables en a boira."
 
 msgid "cut"
-msgstr ""
+msgstr "retallar"
 
 msgid "D connected"
-msgstr ""
+msgstr "D connectau"
 
 msgid "date"
-msgstr ""
+msgstr "calendata"
 
 msgid "day of week"
-msgstr ""
+msgstr "día d'a semana"
+
+# 83%
+msgid "Delete"
+msgstr "Borrar"
 
 msgid "delete"
-msgstr ""
+msgstr "borrar"
+
+msgid "delete variable"
+msgstr "borrar variable"
 
 msgid "direction"
-msgstr ""
+msgstr "dirección"
+
+# 90%
+msgid "direction:"
+msgstr "dirección:"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "no chirar"
 
 msgid "down"
-msgstr ""
+msgstr "abaixo"
 
 msgid "down arrow"
-msgstr ""
+msgstr "flecha enta abaixo"
+
+msgid "Download"
+msgstr "Descargar"
+
+msgid "Download to your computer"
+msgstr "Descargar enta o tuyo ordinador"
 
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplicar"
 
 msgid "duplicate"
-msgstr ""
-
-msgid "Duplicate (Shift: Multiple)"
-msgstr ""
+msgstr "duplicar"
 
 msgid "e ^"
-msgstr ""
+msgstr "e ^"
 
 msgid "edge"
-msgstr ""
-
-msgid "Edit"
-msgstr ""
+msgstr "canto"
 
 msgid "edit"
-msgstr ""
+msgstr "editar"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edit Block"
+msgstr "Editar o Bloc"
 
 msgid "Effects"
-msgstr ""
+msgstr "Efectos"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Guitarra electrica"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Piano electrico"
 
-msgid "Ellipse (Shift: Circle)"
-msgstr ""
+msgid "Electronic"
+msgstr "Electronico"
+
+msgid "Ellipse"
+msgstr "Elipse"
 
 msgid "Erase"
-msgstr ""
+msgstr "Borrar"
+
+msgid "Eraser width:"
+msgstr "Amplaria d'o borrador:"
 
 msgid "fade in"
-msgstr ""
+msgstr "apareixer"
 
 msgid "fade out"
-msgstr ""
+msgstr "desapareixer"
+
+msgid "Fantasy"
+msgstr "Fantasía"
+
+msgid "Features"
+msgstr "Caracteristicas"
 
 msgid "File"
-msgstr ""
+msgstr "Fichero"
 
-msgid "Fill"
-msgstr ""
+msgid "Fill with color"
+msgstr "Replenar con color"
 
 msgid "fisheye"
-msgstr ""
+msgstr "uello de peix"
+
+msgid "Flip left-right"
+msgstr "Chirar o d'a cucha ent'a dreita"
+
+msgid "Flip up-down"
+msgstr "Chirar o d'alto ta baixo"
 
 msgid "floor"
-msgstr ""
+msgstr "parte entera"
 
 msgid "Flute"
-msgstr ""
+msgstr "Flauta"
 
-msgid "Forward a layer (Shift: Bring to front)"
-msgstr ""
+msgid "Flying"
+msgstr "Volando"
+
+msgid "For all sprites"
+msgstr "Ta totz os obchectos"
+
+msgid "For this sprite only"
+msgstr "Nomás ta iste obchecto"
+
+msgid "Forward a layer"
+msgstr "Una capa enta debant"
 
 msgid "ghost"
-msgstr ""
+msgstr "transparent"
+
+msgid "Go to My Stuff"
+msgstr "Ves ta las Mías Cosas."
 
 msgid "Group"
-msgstr ""
+msgstr "Grupo"
+
+msgid "Grow"
+msgstr "Agrandir"
 
 msgid "Guiro"
-msgstr ""
+msgstr "Güiro"
 
 msgid "Guitar"
-msgstr ""
+msgstr "Guitarra"
 
 msgid "Hand Clap"
-msgstr ""
+msgstr "Palmetada"
+
+msgid "hide"
+msgstr "amagar"
 
 msgid "hour"
-msgstr ""
+msgstr "hora"
+
+msgid "Human"
+msgstr "Humán"
 
 msgid "Import"
-msgstr ""
+msgstr "Importar"
+
+msgid "Importing sound..."
+msgstr "Son important..."
+
+msgid "Indoors"
+msgstr "Interiors"
+
+msgid "Installing..."
+msgstr "Se ye instalando..."
+
+msgid "Instruments"
+msgstr "Trastes"
 
 msgid "last"
-msgstr ""
+msgstr "zaguer"
 
 msgid "left"
-msgstr ""
+msgstr "cucha"
 
 msgid "left arrow"
-msgstr ""
+msgstr "flecha cucha"
 
 msgid "left-right"
-msgstr ""
+msgstr "zurda-dreita"
 
 msgid "Library"
-msgstr ""
+msgstr "Biblioteca"
 
 msgid "light"
-msgstr ""
+msgstr "luz"
+
+msgid "limit reached"
+msgstr "limite alcanzau"
 
 msgid "Line"
-msgstr ""
+msgstr "Linia"
+
+msgid "Line width:"
+msgstr "Amplaria de linia:"
+
+# 75%
+msgid "list"
+msgstr "lista"
+
+msgid "List name"
+msgstr "Nombre d'a lista"
 
 msgid "ln"
-msgstr ""
+msgstr "ln"
+
+msgid "Loading project..."
+msgstr "Cargando o prochecto..."
 
 msgid "log"
-msgstr ""
-
-msgid "login"
-msgstr ""
+msgstr "log"
 
 msgid "louder"
-msgstr ""
+msgstr "mas fuerte"
 
 msgid "loudness"
-msgstr ""
+msgstr "volumen d'o son"
+
+msgid "Make a Block"
+msgstr "Creyar un Bloc"
+
+msgid "Make a List"
+msgstr "Fer una Lista"
+
+msgid "Make a Variable"
+msgstr "Creyar una Variable"
 
 msgid "Marimba"
-msgstr ""
+msgstr "Marimba"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "meow"
+msgstr "miau"
+
+msgid "Message Name"
+msgstr "Nombre d'o mensache"
 
 msgid "message1"
-msgstr ""
+msgstr "mensache1"
+
+msgid "Min"
+msgstr "Min"
 
 msgid "minute"
-msgstr ""
+msgstr "minuto"
 
 msgid "month"
-msgstr ""
+msgstr "mes"
 
 msgid "mosaic"
-msgstr ""
+msgstr "mosaico"
 
 msgid "motion"
-msgstr ""
+msgstr "movimiento"
 
 msgid "mouse-pointer"
-msgstr ""
+msgstr "puntero d'o ratet"
+
+msgid "Multiple"
+msgstr "Multiple"
+
+msgid "Music and Dance"
+msgstr "Musica y Danza"
 
 msgid "Music Box"
-msgstr ""
+msgstr "Caixa musical"
+
+msgid "Music Loops"
+msgstr "Bucles musicals"
+
+msgid "My Stuff"
+msgstr "As Mías Cosetas"
 
 msgid "myself"
-msgstr ""
+msgstr "yo mesmo"
 
-msgid "New backdrop"
-msgstr ""
+msgid "Nature"
+msgstr "Naturaleza"
 
-msgid "New costume"
-msgstr ""
+msgid "New"
+msgstr "Nuevo"
+
+# 92%
+msgid "New backdrop:"
+msgstr "Nuevo fundo:"
+
+# 91%
+msgid "New costume:"
+msgstr "Nuevo vestiu:"
+
+msgid "New List"
+msgstr "Nueva Lista"
 
 msgid "new message..."
-msgstr ""
+msgstr "nuevo mensache..."
 
-msgid "New sound"
-msgstr ""
+msgid "New name"
+msgstr "Nuevo nombre"
 
-msgid "New sprite"
-msgstr ""
+# 90%
+msgid "New sound:"
+msgstr "Nuevo son:"
+
+msgid "New sprite:"
+msgstr "Nuevo obchecto:"
+
+msgid "New Variable"
+msgstr "Nueva Variable"
 
 msgid "No motion blocks"
-msgstr ""
+msgstr "Sin bloques de movimiento"
+
+msgid "Not saved; network or server problem."
+msgstr "No s'ha alzau; problemas en o ret u en o servidor."
+
+msgid "of"
+msgstr "de"
 
 msgid "off"
-msgstr ""
+msgstr "amortau"
+
+msgid "OK"
+msgstr "Acceptar"
 
 msgid "on"
-msgstr ""
+msgstr "enchegau"
 
 msgid "on-flipped"
-msgstr ""
+msgstr "voltiau"
 
 msgid "Open Cuica"
-msgstr ""
+msgstr "Cuica sonora"
 
 msgid "Open Hi-Hat"
-msgstr ""
+msgstr "Charles ubierto"
+
+msgid "Options"
+msgstr "Opcions"
 
 msgid "Organ"
-msgstr ""
+msgstr "Organo"
+
+msgid "Other"
+msgstr "Atros"
 
 msgid "other scripts in sprite"
-msgstr ""
+msgstr "atros programas de l'obchecto"
 
-msgid "Paint"
-msgstr ""
+msgid "Outdoors"
+msgstr "Exteriors"
 
 msgid "paste"
-msgstr ""
+msgstr "apegar"
 
 msgid "Pencil"
-msgstr ""
+msgstr "Lapicero"
+
+msgid "People"
+msgstr "Chent"
+
+msgid "Percussion"
+msgstr "Percusión"
 
 msgid "photo1"
-msgstr ""
+msgstr "foto1"
 
 msgid "Piano"
-msgstr ""
+msgstr "Piano"
 
-msgid "Pick up Color"
-msgstr ""
+# 92%
+msgid "Pick up color"
+msgstr "Pillar una color"
 
 msgid "pixelate"
-msgstr ""
+msgstr "pixelar"
 
 msgid "Pizzicato"
-msgstr ""
+msgstr "Pizzicato"
 
 msgid "pop"
-msgstr ""
+msgstr "pop"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Project not saved!"
+msgstr "O prochecto no s'ha alzau!"
 
 msgid "random"
-msgstr ""
+msgstr "a l'azar"
 
 msgid "Record"
-msgstr ""
+msgstr "Gravar"
 
 msgid "recording1"
-msgstr ""
+msgstr "gravación1"
 
-msgid "Rectangle (Shift: Square)"
-msgstr ""
+msgid "Rectangle"
+msgstr "Rectanglo"
 
 msgid "redo"
-msgstr ""
+msgstr "refer"
+
+# 75%
+msgid "Redo"
+msgstr "Refer"
 
 msgid "Remix"
-msgstr ""
+msgstr "Reinventar"
+
+msgid "Remixing..."
+msgstr "Se ye reinventando..."
+
+msgid "Rename"
+msgstr "Cambiar o nombre"
+
+msgid "rename variable"
+msgstr "cambiar o nombre d'a variable"
+
+msgid "requires sign in"
+msgstr "requiere iniciar a sesión"
 
 msgid "Reshape"
-msgstr ""
+msgstr "Redibuixar"
 
 msgid "resistance-A"
-msgstr ""
+msgstr "resistencia-A"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "resistencia-B"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "resistencia-C"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "resistencia-D"
 
 msgid "reverse"
-msgstr ""
+msgstr "invertiu"
+
+msgid "Revert"
+msgstr "Invertir"
+
+msgid "Reverting..."
+msgstr "Se ye invertindo..."
 
 msgid "right"
-msgstr ""
+msgstr "dreita"
 
 msgid "right arrow"
-msgstr ""
+msgstr "sayeta dreita"
+
+msgid "rotation style:"
+msgstr "estilo de rotación:"
+
+msgid "Run without screen refresh"
+msgstr "Funciona sin refrescar a pantalla"
+
+msgid "Save"
+msgstr "Alzar"
+
+msgid "Save as a copy"
+msgstr "Alzar un acopia"
+
+msgid "Save now"
+msgstr "Alzar agora"
+
+msgid "save to local file"
+msgstr "alzar en un fichero local"
+
+msgid "Saved"
+msgstr "Alzau"
+
+msgid "Saving changes..."
+msgstr "Alzando os cambios..."
+
+msgid "Saving..."
+msgstr "Alzando..."
 
 msgid "Saxophone"
-msgstr ""
+msgstr "Saxofón"
 
-msgid "Scratch Cat"
-msgstr ""
+# 85%
+msgid "Script"
+msgstr "Programa"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Programas"
+
+# 87%
+msgid "Scripts:"
+msgstr "Programas:"
 
 msgid "second"
-msgstr ""
+msgstr "segundo"
 
 msgid "See project page"
-msgstr ""
+msgstr "Veyer a pachina d'o prochecto"
 
 msgid "Select"
-msgstr ""
+msgstr "Seleccionar"
 
 msgid "select all"
-msgstr ""
+msgstr "seleccionar-lo tot"
+
+msgid "Select and duplicate"
+msgstr "Triga y duplica"
+
+msgid "Send to back"
+msgstr "Ninviar enta zaga"
+
+# 88%
+msgid "Set costume center"
+msgstr "Fixar o centro d'o vestiu"
 
 msgid "Set Costume Center"
-msgstr ""
+msgstr "Fixar o centro d'o vestiu"
 
 msgid "Share"
-msgstr ""
+msgstr "Compartir"
 
 msgid "shared"
-msgstr ""
+msgstr "compartiu"
+
+msgid "Shift:"
+msgstr "Tecla Mayusclas:"
+
+msgid "show"
+msgstr "amostrar"
 
 msgid "show receivers"
-msgstr ""
+msgstr "amostrar os receptors"
 
 msgid "show senders"
-msgstr ""
+msgstr "amostrar os emisors"
+
+msgid "show:"
+msgstr "amuestra:"
+
+msgid "Shrink"
+msgstr "Achiquir"
 
 msgid "Side Stick"
-msgstr ""
+msgstr "Truco lateral"
+
+msgid "Sign in"
+msgstr "Inciciar a sesión"
+
+msgid "Sign in to save"
+msgstr "Iniciar a sesión ta poder alzar"
+
+msgid "Sign out"
+msgstr "Zarrar a sesión"
 
 msgid "silence"
-msgstr ""
+msgstr "silencio"
 
 msgid "sin"
-msgstr ""
+msgstr "sin"
 
 msgid "size"
-msgstr ""
+msgstr "mida"
 
 msgid "slider"
-msgstr ""
+msgstr "eslizador"
+
+msgid "Slider Range"
+msgstr "Rango d'o eslizador"
+
+msgid "Small stage layout"
+msgstr "Veyer o scenario mas chicot"
+
+msgid "Smooth"
+msgstr "Suavizar"
 
 msgid "Snare Drum"
-msgstr ""
+msgstr "Tambor de caixa"
 
 msgid "softer"
-msgstr ""
+msgstr "mas floixo"
+
+# 80%
+msgid "Sound"
+msgstr "Son"
 
 msgid "sound"
-msgstr ""
+msgstr "son"
+
+msgid "Sound Library"
+msgstr "Galería de Sons"
+
+msgid "Sounds"
+msgstr "Sons"
 
 msgid "space"
-msgstr ""
+msgstr "espacio"
+
+# 80%
+msgid "Space"
+msgstr "Espacio"
+
+msgid "Sports"
+msgstr "Esportes"
 
 msgid "Sprite"
-msgstr ""
+msgstr "Obchecto"
+
+msgid "Sprite Library"
+msgstr "Galería d'Obchectos"
+
+# 85%
+msgid "Sprite1"
+msgstr "Obchecto1"
 
 msgid "Sprites"
-msgstr ""
+msgstr "Obchectos"
 
 msgid "sqrt"
-msgstr ""
+msgstr "radiz quadrada"
+
+msgid "Square"
+msgstr "Quadrau"
 
 msgid "Stage"
-msgstr ""
+msgstr "Scenario"
 
-msgid "Stage selected"
-msgstr ""
+# 93%
+msgid "Stage selected:"
+msgstr "Scenario trigau:"
 
 msgid "Steel Drum"
-msgstr ""
+msgstr "Tambor d'acero"
+
+msgid "stored on server"
+msgstr "alzau en o servidor"
 
 msgid "Synth Lead"
-msgstr ""
+msgstr "Sintetizador solista"
 
 msgid "Synth Pad"
-msgstr ""
+msgstr "Sintetizador de fundo"
 
 msgid "Tambourine"
-msgstr ""
+msgstr "Pandereta"
 
 msgid "tan"
-msgstr ""
+msgstr "tan"
 
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 msgid "that way"
+msgstr "enta allá"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Things"
+msgstr "Cosas"
+
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
+"Iste prochecto puede detectar quí lo ye fendo servir gracias a o bloque "
+"\"nombre d'usuario\". Ta amagar a tuya identidat, zarra a sesión antes d'usar "
+"iste prochecto."
+
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgstr ""
+"Iste prochecto fa servir datos en a boira. Ista opción nomás ye disponible "
+"ta usuarios rechistraus."
 
 msgid "this script"
-msgstr ""
+msgstr "iste programa"
 
 msgid "this sprite"
-msgstr ""
+msgstr "iste obchecto"
 
 msgid "this way"
+msgstr "enta aquí"
+
+msgid "Throw away all changes since opening this project?"
 msgstr ""
+"Quiers eliminar totz os cambios que has feitos dende que has ubierto iste "
+"prochecto?"
 
 msgid "timer"
-msgstr ""
+msgstr "cronometro"
 
 msgid "Tips"
-msgstr ""
+msgstr "Consellos"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
+"Ta borrar a definción d'un bloque, cal borrar-lo en primeras de totz os "
+"cabos a on se faiga servir."
+
+msgid "Transportation"
+msgstr "Transporte"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Trianglo"
 
 msgid "Trombone"
-msgstr ""
+msgstr "Trombón"
+
+# 90%
+msgid "Turbo mode"
+msgstr "Modo Turbo"
 
 msgid "Turbo Mode"
-msgstr ""
+msgstr "Modo Turbo"
+
+msgid "Type"
+msgstr "Tipo"
+
+# 75%
+msgid "Undelete"
+msgstr "Recuperar o borrau"
+
+msgid "Underwater"
+msgstr "Baixo l'augua"
+
+# 75%
+msgid "Undo"
+msgstr "Desfer"
 
 msgid "undo"
-msgstr ""
+msgstr "desfer"
+
+msgid "Undo Revert"
+msgstr "Tornar a fer"
 
 msgid "Ungroup"
-msgstr ""
+msgstr "Desagrupar"
 
 msgid "unshared"
-msgstr ""
+msgstr "no compartiu"
 
 msgid "up"
-msgstr ""
+msgstr "alto"
 
 msgid "up arrow"
-msgstr ""
+msgstr "flecha enta alto"
+
+msgid "Upload from your computer"
+msgstr "Cargar dende o tuyo ordinador"
+
+msgid "Uploading image..."
+msgstr "Se ye puyando a imachen..."
+
+msgid "Uploading sound..."
+msgstr "Se ye puyando o son..."
+
+msgid "Uploading sprite..."
+msgstr "Se ye puyando un obchecto..."
+
+msgid "variable"
+msgstr "variable"
+
+msgid "Variable name"
+msgstr "Nombre d'a variable"
+
+msgid "Vector"
+msgstr "Vectorial"
+
+msgid "Vector Mode"
+msgstr "Modo vectorial"
 
 msgid "Vibraphone"
-msgstr ""
+msgstr "Vibrafono"
 
 msgid "Vibraslap"
-msgstr ""
+msgstr "Vibraslap"
 
 msgid "video motion"
-msgstr ""
+msgstr "movimiento d'o video"
+
+msgid "Video on:"
+msgstr "Video sobre:"
+
+msgid "Vocals"
+msgstr "Voces"
 
 msgid "volume"
-msgstr ""
+msgstr "volumen"
+
+msgid "Walking"
+msgstr "Caminando"
+
+msgid "Want to save? Click remix"
+msgstr "Lo quiers alzar? Fe clic en reinventar"
+
+msgid "Which column do you want to import"
+msgstr "Qué columna quiers importar?"
 
 msgid "whirl"
-msgstr ""
+msgstr "rechirar"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Bloque de fusta"
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Flauta de fusta"
 
 msgid "x position"
-msgstr ""
+msgstr "posición en x"
 
 msgid "y position"
-msgstr ""
+msgstr "posición en y"
 
 msgid "year"
-msgstr ""
+msgstr "anyo"
 
-msgid "#"
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
+"No puetz editar os datos en a boira d'un prochecto de belatro "
+"usuario.<br>Qualsiquier cambio que faigas en o editor será temporal y no pas "
+"persistent."
 
-msgid "bottom-left"
-msgstr ""
+#~ msgid "Add a boolean input:"
+#~ msgstr "Adhibir una dentrada lochica:"
 
-msgid "bottom-right"
-msgstr ""
+#~ msgid "Add a number input:"
+#~ msgstr "Adhibir una dentrada numerica:"
 
-msgid "middle"
-msgstr ""
+#~ msgid "Add a string input:"
+#~ msgstr "Adhibir una dentrada de texto:"
 
-msgid "name"
-msgstr ""
+#~ msgid "Back a layer (Shift: Send to back)"
+#~ msgstr "Ir una capa enta zaga (Mayusclas: ninviar enta o fundo)"
 
-msgid "New"
-msgstr "Nouveau"
+#~ msgid "Duplicate (Shift: Multiple)"
+#~ msgstr "Duplicar (Mayusclas: Multiple)"
 
-msgid "New sprite:"
-msgstr ""
+#~ msgid "Ellipse (Shift: Circle)"
+#~ msgstr "Elipse (Mayuscla: Cerclo)"
 
-msgid "say"
-msgstr ""
+#~ msgid "Fill"
+#~ msgstr "Emplir"
 
-msgid "shout"
-msgstr ""
+#~ msgid "Forward a layer (Shift: Bring to front)"
+#~ msgstr "Ir una capa enta debant (Mayusclas: ninviar enta o frent)"
 
-msgid "think"
-msgstr ""
+#~ msgid "login"
+#~ msgstr "encetar a sesión"
 
-msgid "top-left"
-msgstr ""
+#~ msgid "New backdrop"
+#~ msgstr "Nuevo fundo"
 
-msgid "top-right"
-msgstr ""
+#~ msgid "New costume"
+#~ msgstr "Nuevo vestiu"
 
-msgid "whisper"
-msgstr ""
+#~ msgid "New sound"
+#~ msgstr "Nuevo son"
+
+#~ msgid "New sprite"
+#~ msgstr "Nuevo obchecto"
+
+#~ msgid "Paint"
+#~ msgstr "Debuixar"
+
+#~ msgid "Pick up Color"
+#~ msgstr "Pillar una color"
+
+#~ msgid "Rectangle (Shift: Square)"
+#~ msgstr "Rectanglo (Mayusclas: Quadrau)"
+
+#~ msgid "Scratch Cat"
+#~ msgstr "Gato de Scratch"
+
+#~ msgid "Stage selected"
+#~ msgstr "Scenario trigau"
+
+#~ msgid "#"
+#~ msgstr "#"
+
+#~ msgid "bottom-left"
+#~ msgstr "abaixo a la zurda"
+
+#~ msgid "bottom-right"
+#~ msgstr "abaixo a la dreita"
+
+#~ msgid "middle"
+#~ msgstr "meyo"
+
+#~ msgid "name"
+#~ msgstr "nombre"
+
+#~ msgid "say"
+#~ msgstr "decir"
+
+#~ msgid "shout"
+#~ msgstr "chilar"
+
+#~ msgid "think"
+#~ msgstr "pensar"
+
+#~ msgid "top-left"
+#~ msgstr "alto a la zurda"
+
+#~ msgid "top-right"
+#~ msgstr "alto a la dreita"
+
+#~ msgid "whisper"
+#~ msgstr "suspirar"
