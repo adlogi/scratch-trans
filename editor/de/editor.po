@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-04-26 00:14+0200\n"
-"PO-Revision-Date: 2013-04-29 02:04+0200\n"
+"PO-Revision-Date: 2013-05-01 00:26+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -149,7 +149,7 @@ msgid "brightness"
 msgstr "Helligkeit"
 
 msgid "Bring to front"
-msgstr "Ganz nach vorne bringen"
+msgstr "Ganz nach vorne"
 
 #, fuzzy
 msgid "Broadcast"
@@ -424,13 +424,11 @@ msgstr "Mit Farbe füllen"
 msgid "fisheye"
 msgstr "Fischauge"
 
-#, fuzzy
 msgid "Flip left-right"
-msgstr "Links-Rechts spiegeln"
+msgstr "Links und Rechts vertauschen"
 
-#, fuzzy
 msgid "Flip up-down"
-msgstr "Oben-Unten spiegeln"
+msgstr "Oben und Unten vertauschen"
 
 msgid "floor"
 msgstr "abrunden"
@@ -753,10 +751,10 @@ msgid "Redo"
 msgstr "Wiederherstellen"
 
 msgid "Remix"
-msgstr "Bearbeiten"
+msgstr "Remixen"
 
 msgid "Remixing..."
-msgstr ""
+msgstr "Erstelle Remix..."
 
 msgid "Rename"
 msgstr ""
@@ -856,10 +854,9 @@ msgid "Select and duplicate"
 msgstr ""
 
 msgid "Send to back"
-msgstr ""
+msgstr "Ganz nach hinten"
 
 # 88%
-#, fuzzy
 msgid "Set costume center"
 msgstr "Drehpunkt des Kostüms setzen"
 
@@ -873,34 +870,34 @@ msgid "shared"
 msgstr "veröffentlicht"
 
 msgid "Shift:"
-msgstr ""
+msgstr "Umschalttaste:"
 
 msgid "show"
-msgstr ""
+msgstr "Anzeigen"
 
 msgid "show receivers"
-msgstr "Kennzeichne alle Empfänger"
+msgstr "Empfänger zeigen"
 
 msgid "show senders"
-msgstr "Kennzeichne alle Sender"
+msgstr "Sender zeigen"
 
 msgid "show:"
-msgstr ""
+msgstr "Zeige:"
 
 msgid "Shrink"
-msgstr ""
+msgstr "Verkleinern"
 
 msgid "Side Stick"
 msgstr "Side-Stick"
 
 msgid "Sign in"
-msgstr ""
+msgstr "Anmelden"
 
 msgid "Sign in to save"
-msgstr ""
+msgstr "Melde dich zum Speichern an"
 
 msgid "Sign out"
-msgstr ""
+msgstr "Abmelden"
 
 # sounds->effects
 msgid "silence"
@@ -916,13 +913,14 @@ msgid "slider"
 msgstr "Schieberegler"
 
 msgid "Slider Range"
-msgstr ""
+msgstr "Reglerbereich"
 
 msgid "Small stage layout"
-msgstr ""
+msgstr "Kleine Bühnengröße"
 
+#, fuzzy
 msgid "Smooth"
-msgstr ""
+msgstr "Glätten"
 
 msgid "Snare Drum"
 msgstr "Snare-Drum"
@@ -932,7 +930,6 @@ msgid "softer"
 msgstr "leiser"
 
 # 80%
-#, fuzzy
 msgid "Sound"
 msgstr "Klang"
 
@@ -940,34 +937,32 @@ msgid "sound"
 msgstr "Klang"
 
 msgid "Sound Library"
-msgstr ""
+msgstr "Klangbibliothek"
 
 msgid "Sounds"
-msgstr ""
+msgstr "Klänge"
 
 msgid "space"
 msgstr "Leertaste"
 
 # 80%
-#, fuzzy
 msgid "Space"
 msgstr "Leertaste"
 
 msgid "Sports"
-msgstr ""
+msgstr "Sport"
 
-# 85%
+# Die Zielgruppe sind Kinder, die Metaphorik ist die des Theaters
 msgid "Sprite"
 msgstr "Figur"
 
 msgid "Sprite Library"
-msgstr ""
+msgstr "Figurenbibliothek"
 
 # 85%
 # 85%
-#, fuzzy
 msgid "Sprite1"
-msgstr "Figur"
+msgstr "Figur1"
 
 msgid "Sprites"
 msgstr "Figuren"
@@ -976,21 +971,20 @@ msgid "sqrt"
 msgstr "Wurzel"
 
 msgid "Square"
-msgstr ""
+msgstr "Quadrat"
 
 msgid "Stage"
 msgstr "Bühne"
 
 # 93%
-#, fuzzy
 msgid "Stage selected:"
-msgstr "Bühne ausgewählt"
+msgstr "Bühne ausgewählt:"
 
 msgid "Steel Drum"
 msgstr "Steel-Drum"
 
 msgid "stored on server"
-msgstr ""
+msgstr "auf dem Server gespeichert"
 
 msgid "Synth Lead"
 msgstr "Lead-Synthesizer"
@@ -1012,16 +1006,21 @@ msgid "that way"
 msgstr "andersherum"
 
 msgid "Theme"
-msgstr ""
+msgstr "Thema"
 
 msgid "Things"
-msgstr ""
+msgstr "Dinge"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
+"Dieses Projekt kann über den \"Benutzername\"-Block feststellen, wer es "
+"benutzt. Willst du deine Identität verbergen, so melde dich vor der "
+"Benutzung des Projekts ab."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
+"Dieses Projekt nutzt Cloud-Daten ‒ eine Funktion, die nur angemeldeten "
+"Benutzern zur Verfügung steht."
 
 msgid "this script"
 msgstr "dieses Skript"
@@ -1034,7 +1033,7 @@ msgid "this way"
 msgstr "soherum"
 
 msgid "Throw away all changes since opening this project?"
-msgstr ""
+msgstr "Alle Änderungen seit dem Öffnen dieses Projekts verwerfen?"
 
 msgid "timer"
 msgstr "Stoppuhr"
@@ -1048,7 +1047,7 @@ msgstr ""
 "allen Skripten entfernt werden, in denen er verwendet wird."
 
 msgid "Transportation"
-msgstr ""
+msgstr "Verkehrsmittel"
 
 msgid "Triangle"
 msgstr "Triangel"
@@ -1057,7 +1056,6 @@ msgid "Trombone"
 msgstr "Posaune"
 
 # 90%
-#, fuzzy
 msgid "Turbo mode"
 msgstr "Turbo-Modus"
 
@@ -1065,18 +1063,16 @@ msgid "Turbo Mode"
 msgstr "Turbo-Modus"
 
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 # 75%
-#, fuzzy
 msgid "Undelete"
-msgstr "Löschen"
+msgstr "Löschen rückgängig"
 
 msgid "Underwater"
-msgstr ""
+msgstr "Unterwasserwelt"
 
 # 75%
-#, fuzzy
 msgid "Undo"
 msgstr "Rückgängig"
 
@@ -1084,7 +1080,7 @@ msgid "undo"
 msgstr "Rückgängig"
 
 msgid "Undo Revert"
-msgstr ""
+msgstr "Zurücksetzen rückgängig machen"
 
 msgid "Ungroup"
 msgstr "Gruppierung aufheben"
@@ -1099,28 +1095,28 @@ msgid "up arrow"
 msgstr "Pfeil nach oben"
 
 msgid "Upload from your computer"
-msgstr ""
+msgstr "Von deinem Computer hochladen"
 
 msgid "Uploading image..."
-msgstr ""
+msgstr "Lade Bild..."
 
 msgid "Uploading sound..."
-msgstr ""
+msgstr "Lade Klang..."
 
 msgid "Uploading sprite..."
-msgstr ""
+msgstr "Lade Figur..."
 
 msgid "variable"
-msgstr ""
+msgstr "Variable"
 
 msgid "Variable name"
-msgstr ""
+msgstr "Variablenname"
 
 msgid "Vector"
-msgstr ""
+msgstr "Vektorgrafik"
 
 msgid "Vector Mode"
-msgstr ""
+msgstr "Vektor-Modus"
 
 msgid "Vibraphone"
 msgstr "Vibraphon"
@@ -1131,23 +1127,24 @@ msgstr "Vibraslap"
 msgid "video motion"
 msgstr "Videobewegung"
 
+#, fuzzy
 msgid "Video on:"
-msgstr ""
+msgstr "Video an:"
 
 msgid "Vocals"
-msgstr ""
+msgstr "Gesang"
 
 msgid "volume"
 msgstr "Lautstärke"
 
 msgid "Walking"
-msgstr ""
+msgstr "Gehen"
 
 msgid "Want to save? Click remix"
-msgstr ""
+msgstr "Du möchtest speichern? Klicke auf Remixen!"
 
 msgid "Which column do you want to import"
-msgstr ""
+msgstr "Welche Zeile willst Du importieren?"
 
 msgid "whirl"
 msgstr "Wirbel"
@@ -1169,6 +1166,9 @@ msgstr "Jahr"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
+"Du kannst keine Cloud-Daten in Projekten von jemand Anderem "
+"editieren.<br>Jede von dir im Editor gemachte Änderung ist temporär und "
+"nicht permanent."
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Füge boolesches Eingabefeld hinzu:"
