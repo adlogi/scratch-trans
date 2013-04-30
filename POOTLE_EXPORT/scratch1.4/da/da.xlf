@@ -1,0 +1,2535 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="da.po" source-language="en-US" datatype="plaintext" target-language="da">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Language-Name">
+        <source>Language-Name</source>
+        <target state="translated">Dansk </target>
+        <note from="translator">##########################################&#13;
+FORMATTING&#13;
+##########################################&#13;
+Language name as you'd like it to appear in the Languages menu&#13;
+(Required)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Language-Direction">
+        <source>Language-Direction</source>
+        <target state="translated">LTR</target>
+        <note from="translator">Directionality of language&#13;
+LTR = Left to Right&#13;
+RTL = Right to Left&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Font-Scale">
+        <source>Font-Scale</source>
+        <target state="translated">1</target>
+        <note from="translator">Scale to apply to font size (2 for twice as large)&#13;
+Use this if the font is too small for legibility on the Scratch interface&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Suppress-Bold">
+        <source>Suppress-Bold</source>
+        <target state="translated">false</target>
+        <note from="translator">Set to 'true' or 'false'&#13;
+Use this if you do not want any of the text to be bolded, for legibility&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Win-Font">
+        <source>Win-Font</source>
+        <target state="translated">Win-Font</target>
+        <note from="translator">Font to use on a Windows system&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mac-Font">
+        <source>Mac-Font</source>
+        <target state="translated">Mac-Font</target>
+        <note from="translator">Font to use on a Mac system&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Linux-Font">
+        <source>Linux-Font</source>
+        <target state="translated">Linux-Font</target>
+        <note from="translator">Font to use on a Linux system&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%H sensor value">
+        <source>%H sensor value</source>
+        <target state="translated">værdien af sensor %H</target>
+        <note from="translator">##########################################&#13;
+BLOCKS&#13;
+##########################################&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%L contains %s">
+        <source>%L contains %s</source>
+        <target state="translated">%L indeholder %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%a of %m">
+        <source>%a of %m</source>
+        <target state="translated">%a af %m</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%b and %b">
+        <source>%b and %b</source>
+        <target state="translated">%b og %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%b or %b">
+        <source>%b or %b</source>
+        <target state="translated">%b eller %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%f of %n">
+        <source>%f of %n</source>
+        <target state="translated">%f af %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%n mod %n">
+        <source>%n mod %n</source>
+        <target state="translated">%n modulus %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="add %s to %L">
+        <source>add %s to %L</source>
+        <target state="translated">tilføj %s til %L</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="answer">
+        <source>answer</source>
+        <target state="translated">svar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ask %s and wait">
+        <source>ask %s and wait</source>
+        <target state="translated">bed om %s og vent</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="background #">
+        <source>background #</source>
+        <target state="translated">baggrund nr.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="broadcast %e">
+        <source>broadcast %e</source>
+        <target state="translated">send %e til alle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="broadcast %e and wait">
+        <source>broadcast %e and wait</source>
+        <target state="translated">send %e til alle og vent</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change %g effect by %n">
+        <source>change %g effect by %n</source>
+        <target state="translated">ændr effekten %g med %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change %v by %n">
+        <source>change %v by %n</source>
+        <target state="translated">ændr %v med %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen color by %n">
+        <source>change pen color by %n</source>
+        <target state="translated">ændr penfarve med %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen shade by %n">
+        <source>change pen shade by %n</source>
+        <target state="translated">ændr penintensitet med %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen size by %n">
+        <source>change pen size by %n</source>
+        <target state="translated">ændr penstørrelse med %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change size by %n">
+        <source>change size by %n</source>
+        <target state="translated">ændr størrelsen med %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change tempo by %n">
+        <source>change tempo by %n</source>
+        <target state="translated">ændr tempo med %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change volume by %n">
+        <source>change volume by %n</source>
+        <target state="translated">ændr lydstyrke med %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change x by %n">
+        <source>change x by %n</source>
+        <target state="translated">ændr x med %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change y by %n">
+        <source>change y by %n</source>
+        <target state="translated">ændr y med %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clear">
+        <source>clear</source>
+        <target state="translated">ryd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clear graphic effects">
+        <source>clear graphic effects</source>
+        <target state="translated">fjern grafiske effekter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="color %C is touching %C?">
+        <source>color %C is touching %C?</source>
+        <target state="translated">berører %C farven %C?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="control">
+        <source>control</source>
+        <target state="translated">styring</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="costume #">
+        <source>costume #</source>
+        <target state="translated">udtryk nr.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="delete %y of %L">
+        <source>delete %y of %L</source>
+        <target state="translated">slet %y fra %L</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="direction">
+        <source>direction</source>
+        <target state="translated">retning</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="distance to %m">
+        <source>distance to %m</source>
+        <target state="translated">afstand til %m</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="else">
+        <source>else</source>
+        <target state="translated">ellers</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="forever">
+        <source>forever</source>
+        <target state="translated">for evigt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="forever if %b">
+        <source>forever if %b</source>
+        <target state="translated">for evigt hvis %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
+        <source>glide %n secs to x:%n y:%n</source>
+        <target state="translated">glid i %n sek. til x:%n y:%n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go back %n layers">
+        <source>go back %n layers</source>
+        <target state="translated">gå %n lag tilbage</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to %m">
+        <source>go to %m</source>
+        <target state="translated">gå til %m</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to front">
+        <source>go to front</source>
+        <target state="translated">kom ind foran</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to x:%n y:%n">
+        <source>go to x:%n y:%n</source>
+        <target state="translated">gå til x:%n y:%n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide">
+        <source>hide</source>
+        <target state="translated">skjul</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide variable %v">
+        <source>hide variable %v</source>
+        <target state="translated">skjul variabel %v</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="if %b">
+        <source>if %b</source>
+        <target state="translated">hvis %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="if on edge, bounce">
+        <source>if on edge, bounce</source>
+        <target state="translated">hop tilbage ved kanten</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="insert %s at %i of %L">
+        <source>insert %s at %i of %L</source>
+        <target state="translated">indsæt %s ved %i plads i %L</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="item %i of %L">
+        <source>item %i of %L</source>
+        <target state="translated">punkt %i på %L</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="join %s %s">
+        <source>join %s %s</source>
+        <target state="translated">%s tilkobles %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="key %k pressed?">
+        <source>key %k pressed?</source>
+        <target state="translated">trykket på tasten %k?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length of %L">
+        <source>length of %L</source>
+        <target state="translated">længden af %L</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length of %s">
+        <source>length of %s</source>
+        <target state="translated">%s længde</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="letter %n of %s">
+        <source>letter %n of %s</source>
+        <target state="translated">bogstav %n af %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="list">
+        <source>list</source>
+        <target state="translated">liste</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="looks">
+        <source>looks</source>
+        <target state="translated">udseende</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="loud?">
+        <source>loud?</source>
+        <target state="translated">høj lyd?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="loudness">
+        <source>loudness</source>
+        <target state="translated">lydniveau</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motion">
+        <source>motion</source>
+        <target state="translated">bevægelse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor direction %W">
+        <source>motor direction %W</source>
+        <target state="translated">motorretning %W</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor off">
+        <source>motor off</source>
+        <target state="translated">sluk motoren</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor on">
+        <source>motor on</source>
+        <target state="translated">start motoren</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor on for %n secs">
+        <source>motor on for %n secs</source>
+        <target state="translated">kør motoren i %n sek.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor power %n">
+        <source>motor power %n</source>
+        <target state="translated">motorkraft %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse down?">
+        <source>mouse down?</source>
+        <target state="translated">trykket på musen?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse x">
+        <source>mouse x</source>
+        <target state="translated">musens x-position</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse y">
+        <source>mouse y</source>
+        <target state="translated">musens y-position</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="move %n steps">
+        <source>move %n steps</source>
+        <target state="translated">gå %n trin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="next background">
+        <source>next background</source>
+        <target state="translated">næste baggrund</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="next costume">
+        <source>next costume</source>
+        <target state="translated">næste udtryk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="not %b">
+        <source>not %b</source>
+        <target state="translated">ikke %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="operators">
+        <source>operators</source>
+        <target state="translated">operatorer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen">
+        <source>pen</source>
+        <target state="translated">pen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen down">
+        <source>pen down</source>
+        <target state="translated">sæt pennen ned</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen up">
+        <source>pen up</source>
+        <target state="translated">tag pennen op</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pick random %n to %n">
+        <source>pick random %n to %n</source>
+        <target state="translated">vælg tilfældigt mellem %n og %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play drum %D for %n beats">
+        <source>play drum %D for %n beats</source>
+        <target state="translated">spil tromme %D i %n slag</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play note %N for %n beats">
+        <source>play note %N for %n beats</source>
+        <target state="translated">spil tone %N i %n slag</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play sound %S">
+        <source>play sound %S</source>
+        <target state="translated">spil lyden %S</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play sound %S until done">
+        <source>play sound %S until done</source>
+        <target state="translated">spil lyden %S indtil færdig</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="point in direction %d">
+        <source>point in direction %d</source>
+        <target state="translated">peg i retning %d</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="point towards %m">
+        <source>point towards %m</source>
+        <target state="translated">peg mod %m</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="repeat %n">
+        <source>repeat %n</source>
+        <target state="translated">gentag %n gange</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="repeat until %b">
+        <source>repeat until %b</source>
+        <target state="translated">gentag indtil %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="replace item %i of %L with %s">
+        <source>replace item %i of %L with %s</source>
+        <target state="translated">erstat %i fra %L med %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="reset timer">
+        <source>reset timer</source>
+        <target state="translated">nulstil stopuret</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="rest for %n beats">
+        <source>rest for %n beats</source>
+        <target state="translated">pause i %n slag</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="round %n">
+        <source>round %n</source>
+        <target state="translated">afrund %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="say %s">
+        <source>say %s</source>
+        <target state="translated">sig %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="say %s for %n secs">
+        <source>say %s for %n secs</source>
+        <target state="translated">sig %s i %n sekunder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sensing">
+        <source>sensing</source>
+        <target state="translated">sansning</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sensor %h?">
+        <source>sensor %h?</source>
+        <target state="translated">sensor %h?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set %g effect to %n">
+        <source>set %g effect to %n</source>
+        <target state="translated">sæt effekten %g til %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set %v to %n">
+        <source>set %v to %n</source>
+        <target state="translated">sæt %v til %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set instrument to %I">
+        <source>set instrument to %I</source>
+        <target state="translated">skift instrument til %I</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen color to %c">
+        <source>set pen color to %c</source>
+        <target state="translated">skift penfarve til %c</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen color to %n">
+        <source>set pen color to %n</source>
+        <target state="translated">skift penfarve til %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen shade to %n">
+        <source>set pen shade to %n</source>
+        <target state="translated">skift penintensitet til %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen size to %n">
+        <source>set pen size to %n</source>
+        <target state="translated">skift penstørrelse til %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set size to %n%">
+        <source>set size to %n%</source>
+        <target state="translated">sæt størrelsen til %n%</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set tempo to %n bpm">
+        <source>set tempo to %n bpm</source>
+        <target state="translated">sæt tempo til %n slag/min.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
+        <source>set volume to %n%</source>
+        <target state="translated">sæt lydstyrke til %n%</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set x to %n">
+        <source>set x to %n</source>
+        <target state="translated">sæt x til %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set y to %n">
+        <source>set y to %n</source>
+        <target state="translated">sæt y til %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show">
+        <source>show</source>
+        <target state="translated">vis</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show variable %v">
+        <source>show variable %v</source>
+        <target state="translated">vis variabel %v</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="size">
+        <source>size</source>
+        <target state="translated">størrelse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sound">
+        <source>sound</source>
+        <target state="translated">lyd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stamp">
+        <source>stamp</source>
+        <target state="translated">sæt som stempel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop all">
+        <source>stop all</source>
+        <target state="translated">stop alle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
+        <source>stop all sounds</source>
+        <target state="translated">stop al lyd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop script">
+        <source>stop script</source>
+        <target state="translated">stop scriptet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch to background %l">
+        <source>switch to background %l</source>
+        <target state="translated">skift til baggrund %l</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch to costume %l">
+        <source>switch to costume %l</source>
+        <target state="translated">skift til udtryk %l</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tempo">
+        <source>tempo</source>
+        <target state="translated">tempo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="think %s">
+        <source>think %s</source>
+        <target state="translated">tænk %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="think %s for %n secs">
+        <source>think %s for %n secs</source>
+        <target state="translated">tænk %s i %n sekunder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="timer">
+        <source>timer</source>
+        <target state="translated">stopur</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="touching %m?">
+        <source>touching %m?</source>
+        <target state="translated">berører %m?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="touching color %C?">
+        <source>touching color %C?</source>
+        <target state="translated">berører farven %C?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn %n degrees">
+        <source>turn %n degrees</source>
+        <target state="translated">drej %n grader</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="variables">
+        <source>variables</source>
+        <target state="translated">variabler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="volume">
+        <source>volume</source>
+        <target state="translated">lydstyrke</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wait %n secs">
+        <source>wait %n secs</source>
+        <target state="translated">vent %n sekunder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wait until %b">
+        <source>wait until %b</source>
+        <target state="translated">vent indtil %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %k key pressed">
+        <source>when %k key pressed</source>
+        <target state="translated">når du trykker på %k</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %m clicked">
+        <source>when %m clicked</source>
+        <target state="translated">når du klikker på %m</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when I receive %e">
+        <source>when I receive %e</source>
+        <target state="translated">når jeg modtager %e</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="x position">
+        <source>x position</source>
+        <target state="translated">x-position</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="y position">
+        <source>y position</source>
+        <target state="translated">y-position</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="(empty)">
+        <source>(empty)</source>
+        <target state="translated">(tom)</target>
+        <note from="translator">##########################################&#13;
+USER INTERFACE&#13;
+##########################################&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="1 script">
+        <source>1 script</source>
+        <target state="translated">1 script</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="About Scratch">
+        <source>About Scratch</source>
+        <target state="translated">Om Scratch</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="About this project:">
+        <source>About this project:</source>
+        <target state="translated">Om dette projekt:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="abs">
+        <source>abs</source>
+        <target state="translated">abs</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="add comment">
+        <source>add comment</source>
+        <target state="translated">tilføj kommentar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="add comment here">
+        <source>add comment here</source>
+        <target state="translated">tilføj kommentar her</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="all">
+        <source>all</source>
+        <target state="translated">alle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="and">
+        <source>and</source>
+        <target state="translated">og</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Animation">
+        <source>Animation</source>
+        <target state="translated">Animation</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="any">
+        <source>any</source>
+        <target state="translated">vilkårlig</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Art">
+        <source>Art</source>
+        <target state="translated">Illustrationer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="background">
+        <source>background</source>
+        <target state="translated">baggrund</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="backgrounds">
+        <source>backgrounds</source>
+        <target state="translated">baggrunde</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Backgrounds">
+        <source>Backgrounds</source>
+        <target state="translated">baggrunde</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="brightness">
+        <source>brightness</source>
+        <target state="translated">klarhed</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brush size: ">
+        <source>Brush size: </source>
+        <target state="translated">penselstørrelse: </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="button">
+        <source>button</source>
+        <target state="translated">knap</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="button pressed">
+        <source>button pressed</source>
+        <target state="translated">trykket på knappen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Camera">
+        <source>Camera</source>
+        <target state="translated">Kamera</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="can rotate">
+        <source>can rotate</source>
+        <target state="translated">kan rotere</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cancel">
+        <source>cancel</source>
+        <target state="translated">annuller</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cancel">
+        <source>Cancel</source>
+        <target state="translated">Annuller</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose a folder">
+        <source>Choose a folder</source>
+        <target state="translated">Vælg en mappe</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose new sprite from file">
+        <source>Choose new sprite from file</source>
+        <target state="translated">Vælg ny sprite fra fil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clean up">
+        <source>clean up</source>
+        <target state="translated">ryd op</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear">
+        <source>Clear</source>
+        <target state="translated">Ryd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear canvas">
+        <source>Clear canvas</source>
+        <target state="translated">Ryd lærredet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close and continue">
+        <source>Close and continue</source>
+        <target state="translated">Luk og fortsæt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close dialog?">
+        <source>Close dialog?</source>
+        <target state="translated">Luk dialogen?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close paint editor?">
+        <source>Close paint editor?</source>
+        <target state="translated">Luk billededitoren?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="close port">
+        <source>close port</source>
+        <target state="translated">luk porten</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close sound recorder?">
+        <source>Close sound recorder?</source>
+        <target state="translated">Luk lydoptageren?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="color">
+        <source>color</source>
+        <target state="translated">farve</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Compress Images">
+        <source>Compress Images</source>
+        <target state="translated">komprimer billeder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Compress Sounds">
+        <source>Compress Sounds</source>
+        <target state="translated">komprimer lyd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Compress sounds and images">
+        <source>Compress sounds and images</source>
+        <target state="translated">komprimer lyd og billeder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Computer">
+        <source>Computer</source>
+        <target state="translated">Denne computer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="connected">
+        <source>connected</source>
+        <target state="translated">tilsluttet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Connecting to ">
+        <source>Connecting to </source>
+        <target state="translated">Kobling til</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy">
+        <source>Copy</source>
+        <target state="translated">Kopier</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="costume">
+        <source>costume</source>
+        <target state="translated">udtryk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="costumes">
+        <source>costumes</source>
+        <target state="translated">udtryk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Costumes">
+        <source>Costumes</source>
+        <target state="translated">udtryk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Could not read">
+        <source>Could not read</source>
+        <target state="translated">Kunne ikke læse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Could not read project; file may be damaged">
+        <source>Could not read project; file may be damaged</source>
+        <target state="translated">Kunne ikke læse projektet; filen er måske beskadiget</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Could not write file">
+        <source>Could not write file</source>
+        <target state="translated">Kunne ikke skrive filen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create account">
+        <source>Create account</source>
+        <target state="translated">Opret konto</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create an empty project">
+        <source>Create an empty project</source>
+        <target state="translated">Opret et tomt projekt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Data sent. Waiting for response...">
+        <source>Data sent. Waiting for response...</source>
+        <target state="translated">Data sendt.  Venter på svar...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="delete">
+        <source>delete</source>
+        <target state="translated">slet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete">
+        <source>Delete</source>
+        <target state="translated">Slet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete a list">
+        <source>Delete a list</source>
+        <target state="translated">Slet en liste</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete a variable">
+        <source>Delete a variable</source>
+        <target state="translated">Slet en variabel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete this background">
+        <source>Delete this background</source>
+        <target state="translated">Slet baggrunden</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete this costume">
+        <source>Delete this costume</source>
+        <target state="translated">Slet dette udtryk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete this sound">
+        <source>Delete this sound</source>
+        <target state="translated">Slet denne lyd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete this sprite">
+        <source>Delete this sprite</source>
+        <target state="translated">Slet spriten</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Desktop">
+        <source>Desktop</source>
+        <target state="translated">Skrivebord</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="disable remote sensor connections">
+        <source>disable remote sensor connections</source>
+        <target state="translated">frakobling af fjernsensorerne</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="distance">
+        <source>distance</source>
+        <target state="translated">afstand</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Documents">
+        <source>Documents</source>
+        <target state="translated">Dokumenter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="don't rotate">
+        <source>don't rotate</source>
+        <target state="translated">roter ikke</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Don't Save">
+        <source>Don't Save</source>
+        <target state="translated">Gem ikke</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Done">
+        <source>Done</source>
+        <target state="translated">Færdig</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="down">
+        <source>down</source>
+        <target state="translated">ned</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="down arrow">
+        <source>down arrow</source>
+        <target state="translated">pil nedad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="drag to resize">
+        <source>drag to resize</source>
+        <target state="translated">træk for at ændre størrelse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="drag to rotate">
+        <source>drag to rotate</source>
+        <target state="translated">træk for at rotere</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="draggable on website?">
+        <source>draggable on website?</source>
+        <target state="translated">trækbar på websiden?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="duplicate">
+        <source>duplicate</source>
+        <target state="translated">mangfoldiggør</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate">
+        <source>Duplicate</source>
+        <target state="translated">mangfoldiggør</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="edge">
+        <source>edge</source>
+        <target state="translated">kant</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Edit">
+        <source>Edit</source>
+        <target state="translated">Editer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ellipse tool (draw outlined or filled ellipse or circle)">
+        <source>Ellipse tool (draw outlined or filled ellipse or circle)</source>
+        <target state="translated">Ellipseværktøj (tegn ellipse eller cirkel)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="enable remote sensor connections">
+        <source>enable remote sensor connections</source>
+        <target state="translated">aktivér forbindelser til fjernføler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enter presentation mode">
+        <source>Enter presentation mode</source>
+        <target state="translated">Skift til fuld skærm</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Eraser">
+        <source>Eraser</source>
+        <target state="translated">Viskelæder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Eraser size">
+        <source>Eraser size</source>
+        <target state="translated">Viskelæderstørrelsen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Error!">
+        <source>Error!</source>
+        <target state="translated">Fejl!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Examples">
+        <source>Examples</source>
+        <target state="translated">Eksempler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Exit presentation">
+        <source>Exit presentation</source>
+        <target state="translated">Forlad fuld skærm</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Exit presentation mode">
+        <source>Exit presentation mode</source>
+        <target state="translated">forlad fuld skærm</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="export">
+        <source>export</source>
+        <target state="translated">eksporter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export Background">
+        <source>Export Background</source>
+        <target state="translated">Eksporter baggrund</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export Costume">
+        <source>Export Costume</source>
+        <target state="translated">Eksporter udtryk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export failed">
+        <source>Export failed</source>
+        <target state="translated">Eksport mislykkedes</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export Sound">
+        <source>Export Sound</source>
+        <target state="translated">Eksporter lyd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export Sprite">
+        <source>Export Sprite</source>
+        <target state="translated">eksporter Sprite</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="export this costume">
+        <source>export this costume</source>
+        <target state="translated">eksporter dette udtryk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="export this sound">
+        <source>export this sound</source>
+        <target state="translated">eksporter denne lyd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="export this sprite">
+        <source>export this sprite</source>
+        <target state="translated">eksporter denne sprite</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extras menu">
+        <source>Extras menu</source>
+        <target state="translated">Ekstramenu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Eyedropper tool (select a color)">
+        <source>Eyedropper tool (select a color)</source>
+        <target state="translated">Øjendråbeværktøj (vælg farve)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Failed:">
+        <source>Failed:</source>
+        <target state="translated">Mislykkedes:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="false">
+        <source>false</source>
+        <target state="translated">falsk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File">
+        <source>File</source>
+        <target state="translated">Fil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File not found">
+        <source>File not found</source>
+        <target state="translated">Filen fandtes ikke</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill tool (fill areas with color or gradient)">
+        <source>Fill tool (fill areas with color or gradient)</source>
+        <target state="translated">Fyldeværktøj (fyld arealer med farver eller graduering)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="first">
+        <source>first</source>
+        <target state="translated">første</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="fisheye">
+        <source>fisheye</source>
+        <target state="translated">fiskeøje</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flash blocks (fast)">
+        <source>Flash blocks (fast)</source>
+        <target state="translated">Flash blocks (hurtige)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flash blocks (slow)">
+        <source>Flash blocks (slow)</source>
+        <target state="translated">Flash blocks (langsomme)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flip horizontally">
+        <source>Flip horizontally</source>
+        <target state="translated">Vend horisontalt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flip vertically">
+        <source>Flip vertically</source>
+        <target state="translated">Vend vertikalt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="For all sprites">
+        <source>For all sprites</source>
+        <target state="translated">For alle sprites</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="For this sprite only">
+        <source>For this sprite only</source>
+        <target state="translated">Kun for denne sprite</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Game">
+        <source>Game</source>
+        <target state="translated">Spil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Get surprise sprite">
+        <source>Get surprise sprite</source>
+        <target state="translated">Få en overraskelses-sprite</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Get the last thing deleted">
+        <source>Get the last thing deleted</source>
+        <target state="translated">Slet den sidste ting</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Getting Started">
+        <source>Getting Started</source>
+        <target state="translated">Kom godt i gang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ghost">
+        <source>ghost</source>
+        <target state="translated">spøgelse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Go To Scratch Website">
+        <source>Go To Scratch Website</source>
+        <target state="translated">Gå til Scratch-websiden</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="grab screen region for new costume">
+        <source>grab screen region for new costume</source>
+        <target state="translated">grib skærmregion til et nyt udtryk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="grab screen region for new sprite">
+        <source>grab screen region for new sprite</source>
+        <target state="translated">grib skærmregion til en ny sprite</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Grow">
+        <source>Grow</source>
+        <target state="translated">Forstør</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Grow sprite">
+        <source>Grow sprite</source>
+        <target state="translated">forstør spriten</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hello ">
+        <source>hello </source>
+        <target state="translated">hej</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hello!">
+        <source>Hello!</source>
+        <target state="translated">Hej!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="help">
+        <source>help</source>
+        <target state="translated">hjælp</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Help">
+        <source>Help</source>
+        <target state="translated">hjælp</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Help Page">
+        <source>Help Page</source>
+        <target state="translated">Hjælpeside</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Help Screens">
+        <source>Help Screens</source>
+        <target state="translated">Hjælpeskærme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hide Motor Blocks">
+        <source>Hide Motor Blocks</source>
+        <target state="translated">Skjul motorklodser</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High (biggest)">
+        <source>High (biggest)</source>
+        <target state="translated">Høj (størst)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hmm...">
+        <source>Hmm...</source>
+        <target state="translated">Hmm...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Home">
+        <source>Home</source>
+        <target state="translated">Hos mig</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Images compressed">
+        <source>Images compressed</source>
+        <target state="translated">Billederne komprimeret</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="import">
+        <source>import</source>
+        <target state="translated">importer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import">
+        <source>Import</source>
+        <target state="translated">Importer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import an image on top of your current canvas">
+        <source>Import an image on top of your current canvas</source>
+        <target state="translated">Importer billede ovenpå nuværende lærred</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Background">
+        <source>Import Background</source>
+        <target state="translated">Importer baggrund</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Costume">
+        <source>Import Costume</source>
+        <target state="translated">Importer udtryk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Image">
+        <source>Import Image</source>
+        <target state="translated">Importer billede</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import List">
+        <source>Import List</source>
+        <target state="translated">Importer listen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Project">
+        <source>Import Project</source>
+        <target state="translated">Importer projekt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="import project">
+        <source>import project</source>
+        <target state="translated">importer projekt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Sound">
+        <source>Import Sound</source>
+        <target state="translated">Importer lyd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Incompatible Scratch file format">
+        <source>Incompatible Scratch file format</source>
+        <target state="translated">Inkompatibelt Scratch-filformat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Is the folder read-only?">
+        <source>Is the folder read-only?</source>
+        <target state="translated">Er mappen kun læsbar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="JPEG Quality (10-100)?">
+        <source>JPEG Quality (10-100)?</source>
+        <target state="translated">JPEG kvalitet (10-100)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="kbytes">
+        <source>kbytes</source>
+        <target state="translated">kbytes</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Language">
+        <source>Language</source>
+        <target state="translated">sprog</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="large readout">
+        <source>large readout</source>
+        <target state="translated">Stort display</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="last">
+        <source>last</source>
+        <target state="translated">sidste</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="left">
+        <source>left</source>
+        <target state="translated">venstre</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="left arrow">
+        <source>left arrow</source>
+        <target state="translated">venstrepil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length">
+        <source>length</source>
+        <target state="translated">længde</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="light">
+        <source>light</source>
+        <target state="translated">lys</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Line tool (draw lines)">
+        <source>Line tool (draw lines)</source>
+        <target state="translated">Linjeværktøj</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="List name?">
+        <source>List name?</source>
+        <target state="translated">Hvad vil du kalde listen?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low">
+        <source>Low</source>
+        <target state="translated">Lav</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lowest (smallest)">
+        <source>Lowest (smallest)</source>
+        <target state="translated">Lavest (mindst)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make a list">
+        <source>Make a list</source>
+        <target state="translated">Lav en ny liste</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make a variable">
+        <source>Make a variable</source>
+        <target state="translated">Lav en ny variabel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Max:">
+        <source>Max:</source>
+        <target state="translated">Maks.:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="meow">
+        <source>meow</source>
+        <target state="translated">mjav</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Message name:">
+        <source>Message name:</source>
+        <target state="translated">Meddelelsenavn:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min:">
+        <source>Min:</source>
+        <target state="translated">Min.:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mod">
+        <source>mod</source>
+        <target state="translated">modulus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="more">
+        <source>more</source>
+        <target state="translated">flere</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="More tags:">
+        <source>More tags:</source>
+        <target state="translated">Flere nøgleord:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mosaic">
+        <source>mosaic</source>
+        <target state="translated">mosaik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse x:">
+        <source>mouse x:</source>
+        <target state="translated">mus x:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse y:">
+        <source>mouse y:</source>
+        <target state="translated">mus y:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse-pointer">
+        <source>mouse-pointer</source>
+        <target state="translated">musepil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Move">
+        <source>Move</source>
+        <target state="translated">flyt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Music">
+        <source>Music</source>
+        <target state="translated">Musik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="My Projects">
+        <source>My Projects</source>
+        <target state="translated">Mine projekter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="new">
+        <source>new</source>
+        <target state="translated">ny</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New">
+        <source>New</source>
+        <target state="translated">ny</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New background:">
+        <source>New background:</source>
+        <target state="translated">Ny baggrund:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New costume:">
+        <source>New costume:</source>
+        <target state="translated">Nyt udtryk:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New file name?">
+        <source>New file name?</source>
+        <target state="translated">Nyt filnavn?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New Filename:">
+        <source>New Filename:</source>
+        <target state="translated">Nyt filnavn:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New sound:">
+        <source>New sound:</source>
+        <target state="translated">Ny lyd:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New Sprite">
+        <source>New Sprite</source>
+        <target state="translated">Ny sprite</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New sprite:">
+        <source>New sprite:</source>
+        <target state="translated">Ny sprite</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No">
+        <source>No</source>
+        <target state="translated">Nej</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No MIDI ports currently available.">
+        <source>No MIDI ports currently available.</source>
+        <target state="translated">Ingen MIDIport tilgængelig.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No motion blocks">
+        <source>No motion blocks</source>
+        <target state="translated">Ingen bevægelsesklodser</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="no scripts">
+        <source>no scripts</source>
+        <target state="translated">ingen scripts</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No serial ports found">
+        <source>No serial ports found</source>
+        <target state="translated">Ingen serieport tilgængelig.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No variables.">
+        <source>No variables.</source>
+        <target state="translated">Ingen variabler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Normal">
+        <source>Normal</source>
+        <target state="translated">Normal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="normal readout">
+        <source>normal readout</source>
+        <target state="translated">normal fremvisning</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Off">
+        <source>Off</source>
+        <target state="translated">Slukket</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="OK">
+        <source>OK</source>
+        <target state="translated">OK</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="On">
+        <source>On</source>
+        <target state="translated">Tændt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="only face left-right">
+        <source>only face left-right</source>
+        <target state="translated">kun imod venstre eller højre</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open">
+        <source>Open</source>
+        <target state="translated">åbn</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open a Scratch project">
+        <source>Open a Scratch project</source>
+        <target state="translated">Åbn et Scratch projekt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Project">
+        <source>Open Project</source>
+        <target state="translated">Åbn projectet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="or">
+        <source>or</source>
+        <target state="translated">eller</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paint">
+        <source>Paint</source>
+        <target state="translated">Mal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paint Editor">
+        <source>Paint Editor</source>
+        <target state="translated">Billededitor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paint new sprite">
+        <source>Paint new sprite</source>
+        <target state="translated">Mal en ny sprite</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paintbrush">
+        <source>Paintbrush</source>
+        <target state="translated">Malerpensel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Password:">
+        <source>Password:</source>
+        <target state="translated">Adgangskode:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Percent? (100 gives original size)">
+        <source>Percent? (100 gives original size)</source>
+        <target state="translated">Procent? (100 giver oprindelig størrelse)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pictures">
+        <source>Pictures</source>
+        <target state="translated">Billeder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pixelate">
+        <source>pixelate</source>
+        <target state="translated">pixeler</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play">
+        <source>play</source>
+        <target state="translated">afspil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Please enter a number">
+        <source>Please enter a number</source>
+        <target state="translated">Angiv et nummer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pop">
+        <source>pop</source>
+        <target state="translated">knald</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Position the cross-hair to set the rotation center">
+        <source>Position the cross-hair to set the rotation center</source>
+        <target state="translated">Sæt trådkors til drejepunktet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Preparing project...">
+        <source>Preparing project...</source>
+        <target state="translated">Forbereder projectet...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project author:">
+        <source>Project author:</source>
+        <target state="translated">Projektforfatter:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project name">
+        <source>Project name</source>
+        <target state="translated">projektnavn</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project Notes">
+        <source>Project Notes</source>
+        <target state="translated">projektbeskrivelse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project notes">
+        <source>Project notes</source>
+        <target state="translated">projektbeskrivelse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project uploaded.">
+        <source>Project uploaded.</source>
+        <target state="translated">Projekt oploadet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Projects">
+        <source>Projects</source>
+        <target state="translated">Projekter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Quit">
+        <source>Quit</source>
+        <target state="translated">Afslut</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Quit Scratch">
+        <source>Quit Scratch</source>
+        <target state="translated">Afslut Scratch</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reading">
+        <source>Reading</source>
+        <target state="translated">Læsning</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="record">
+        <source>record</source>
+        <target state="translated">optag</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Record">
+        <source>Record</source>
+        <target state="translated">optag</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="recording">
+        <source>recording</source>
+        <target state="translated">optagelse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rectangle tool (draw outlined or filled rectangle or square)">
+        <source>Rectangle tool (draw outlined or filled rectangle or square)</source>
+        <target state="translated">Rektangelværktøj (tegn rektangel eller firkant)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Redo">
+        <source>Redo</source>
+        <target state="translated">Gør om</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reference Guide">
+        <source>Reference Guide</source>
+        <target state="translated">Brugervejledning</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Remote sensor connections enabled">
+        <source>Remote sensor connections enabled</source>
+        <target state="translated">Fjernsensorerne tilkoblede</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Remove viewer from stage">
+        <source>Remove viewer from stage</source>
+        <target state="translated">Fjern fra scenen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="resistance">
+        <source>resistance</source>
+        <target state="translated">modstand</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="resize this sprite">
+        <source>resize this sprite</source>
+        <target state="translated">spritens størrelse ændres</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="reverse">
+        <source>reverse</source>
+        <target state="translated">skift retning</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="right">
+        <source>right</source>
+        <target state="translated">højre</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="right arrow">
+        <source>right arrow</source>
+        <target state="translated">højrepil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotate clock-wise">
+        <source>Rotate clock-wise</source>
+        <target state="translated">Roter med uret</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotate counter-clock-wise">
+        <source>Rotate counter-clock-wise</source>
+        <target state="translated">Roter mod uret</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="rotate this sprite">
+        <source>rotate this sprite</source>
+        <target state="translated">roter spriten</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotation degrees?">
+        <source>Rotation degrees?</source>
+        <target state="translated">Rotationsgrader</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save">
+        <source>Save</source>
+        <target state="translated">Gem</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save a copy of the current project">
+        <source>Save a copy of the current project</source>
+        <target state="translated">Gem en kopi af nuværende projekt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save As">
+        <source>Save As</source>
+        <target state="translated">Gem som</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save changes before quitting?">
+        <source>Save changes before quitting?</source>
+        <target state="translated">Skal ændringerne gemmes?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save failed">
+        <source>Save failed</source>
+        <target state="translated">Gem mislykkedes</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="save picture of scripts">
+        <source>save picture of scripts</source>
+        <target state="translated">gem billede af scripts</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="save picture of stage...">
+        <source>save picture of stage...</source>
+        <target state="translated">Gem billede af scenen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save Project">
+        <source>Save Project</source>
+        <target state="translated">Gem projektet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save Scripts Snapshot">
+        <source>Save Scripts Snapshot</source>
+        <target state="translated">Gem scripts-snapshot</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save Stage Shot">
+        <source>Save Stage Shot</source>
+        <target state="translated">Gem scenesnapshot</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save the current project">
+        <source>Save the current project</source>
+        <target state="translated">Gem nuværende projekt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save the current project?">
+        <source>Save the current project?</source>
+        <target state="translated">Gem nuværende projekt?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save this project">
+        <source>Save this project</source>
+        <target state="translated">Gem projektet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scripts">
+        <source>Scripts</source>
+        <target state="translated">scripts</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="select serial/USB port">
+        <source>select serial/USB port</source>
+        <target state="translated">Vælg serial/USB port </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select tool (move, modify, or delete selection)">
+        <source>Select tool (move, modify, or delete selection)</source>
+        <target state="translated">Selektionsværktøj (flyt, ændr, eller annuller de valgte)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set costume center">
+        <source>Set costume center</source>
+        <target state="translated">Bestem udtrykkets centrum</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set language">
+        <source>Set language</source>
+        <target state="translated">Angiv sprog</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set rotation center">
+        <source>Set rotation center</source>
+        <target state="translated">Angiv omdrejningspunkt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Single Stepping">
+        <source>Set Single Stepping</source>
+        <target state="translated">begynd trinvis eksekvering</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set slider min and max">
+        <source>set slider min and max</source>
+        <target state="translated">Sæt skydemodstandens min. og maks.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Share">
+        <source>Share</source>
+        <target state="translated">udgiv</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Share this project">
+        <source>Share this project</source>
+        <target state="translated">Del projektet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Share This Project Online">
+        <source>Share This Project Online</source>
+        <target state="translated">Læg projektet på nettet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Show Motor Blocks">
+        <source>Show Motor Blocks</source>
+        <target state="translated">Vis motorklodser</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show ScratchBoard watcher">
+        <source>show ScratchBoard watcher</source>
+        <target state="translated">Vis Scratchplade display</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shrink">
+        <source>Shrink</source>
+        <target state="translated">Formindsk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shrink sprite">
+        <source>Shrink sprite</source>
+        <target state="translated">formindsk spriten</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Simulation">
+        <source>Simulation</source>
+        <target state="translated">Simulering</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Single-step speed?">
+        <source>Single-step speed?</source>
+        <target state="translated">Hastighed på trinvis eksekvering</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="slider">
+        <source>slider</source>
+        <target state="translated">skydemodstand</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slider range:">
+        <source>Slider range:</source>
+        <target state="translated">Skydemodstandens værdiområde:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sound quality:">
+        <source>Sound quality:</source>
+        <target state="translated">Lydkvalitet:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sound Recorder">
+        <source>Sound Recorder</source>
+        <target state="translated">Lydoptager</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sounds">
+        <source>Sounds</source>
+        <target state="translated">lyde</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sounds compressed">
+        <source>Sounds compressed</source>
+        <target state="translated">Lyd komprimeret</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="space">
+        <source>space</source>
+        <target state="translated">mellemrum</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sprite">
+        <source>Sprite</source>
+        <target state="translated">Sprite</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sprites">
+        <source>Sprites</source>
+        <target state="translated">Sprites</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sqrt">
+        <source>sqrt</source>
+        <target state="translated">kvrod</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stage">
+        <source>Stage</source>
+        <target state="translated">Scene</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stage selected:">
+        <source>Stage selected:</source>
+        <target state="translated">Valgt scene:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stamp tool (select area, then stamp copies of it)">
+        <source>Stamp tool (select area, then stamp copies of it)</source>
+        <target state="translated">Stempelværktøj (vælg areal og lav kopier)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start green flag scripts">
+        <source>Start green flag scripts</source>
+        <target state="translated">Kør scripts med grønt flag</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start Single Stepping">
+        <source>Start Single Stepping</source>
+        <target state="translated">begynd trinvis eksekvering</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop">
+        <source>stop</source>
+        <target state="translated">stands</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stop everything">
+        <source>Stop everything</source>
+        <target state="translated">stands alt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stop Single Stepping">
+        <source>Stop Single Stepping</source>
+        <target state="translated">stands trinvis eksekvering</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Story">
+        <source>Story</source>
+        <target state="translated">Historie</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Support Site">
+        <source>Support Site</source>
+        <target state="translated">Support-hjemmeside</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Switch colors">
+        <source>Switch colors</source>
+        <target state="translated">Byt farverne</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Switch to full stage">
+        <source>Switch to full stage</source>
+        <target state="translated">Skift til større skærm</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Switch to presentation mode">
+        <source>Switch to presentation mode</source>
+        <target state="translated">Skift til fuld skærm</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Switch to small stage">
+        <source>Switch to small stage</source>
+        <target state="translated">Skift til mindre skærm</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tags:">
+        <source>Tags:</source>
+        <target state="translated">Nøgleord:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Text tool (edit text layer)">
+        <source>Text tool (edit text layer)</source>
+        <target state="translated">Tekstværktøj (editer tekstlag)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="That variable name is already in use">
+        <source>That variable name is already in use</source>
+        <target state="translated">Dette variabelnavn er allerede i brug</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="that way">
+        <source>that way</source>
+        <target state="translated">mod uret</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The file name already exists. Overwrite existing file?">
+        <source>The file name already exists. Overwrite existing file?</source>
+        <target state="translated">Filen findes allerede. Skal den eksisterende fil erstattes?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="thing">
+        <source>thing</source>
+        <target state="translated">nogen/noget</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="this way">
+        <source>this way</source>
+        <target state="translated">med uret</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tilt">
+        <source>tilt</source>
+        <target state="translated">hældning</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="true">
+        <source>true</source>
+        <target state="translated">sandt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Turbo speed">
+        <source>Turbo speed</source>
+        <target state="translated">Turbofart</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn into new sprite">
+        <source>turn into new sprite</source>
+        <target state="translated">forvandl til ny sprite</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Undelete">
+        <source>Undelete</source>
+        <target state="translated">Fortryd sletning</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Undo">
+        <source>Undo</source>
+        <target state="translated">fortryd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="up">
+        <source>up</source>
+        <target state="translated">op</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="up arrow">
+        <source>up arrow</source>
+        <target state="translated">pil opad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Updating thumbnails">
+        <source>Updating thumbnails</source>
+        <target state="translated">Opdaterer miniaturebilleder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upload succeeded!">
+        <source>Upload succeeded!</source>
+        <target state="translated">upload lykkedes</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upload to Scratch Server">
+        <source>Upload to Scratch Server</source>
+        <target state="translated">Upload til Scratch Server</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Uploading">
+        <source>Uploading</source>
+        <target state="translated">upload er i gang</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Variable name?">
+        <source>Variable name?</source>
+        <target state="translated">Hvad vil du kalde variablen?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="View on stage">
+        <source>View on stage</source>
+        <target state="translated">Vis på scenen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What's your name?">
+        <source>What's your name?</source>
+        <target state="translated">Hvad hedder du?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="whirl">
+        <source>whirl</source>
+        <target state="translated">vrid</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="world">
+        <source>world</source>
+        <target state="translated">verden</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Write Multiple Project Summaries">
+        <source>Write Multiple Project Summaries</source>
+        <target state="translated">skriv flere projektbeskrivelser</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Write Project Summary">
+        <source>Write Project Summary</source>
+        <target state="translated">skriv projektbeskrivelse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Yes">
+        <source>Yes</source>
+        <target state="translated">Ja</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Your project is now online at">
+        <source>Your project is now online at</source>
+        <target state="translated">Dit projekt er nu online ved</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Your Scratch website login name:">
+        <source>Your Scratch website login name:</source>
+        <target state="translated">Dit brugernavn til Scratch-webside:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom in">
+        <source>Zoom in</source>
+        <target state="translated">Zoom ind</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom out">
+        <source>Zoom out</source>
+        <target state="translated">Zoom ud</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Accordion">
+        <source>Accordion</source>
+        <target state="translated">Harmonika</target>
+        <note from="translator">##########################################&#13;
+MIDI INSTRUMENTS&#13;
+##########################################&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Acoustic Bass">
+        <source>Acoustic Bass</source>
+        <target state="translated">Akustisk bas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Acoustic Bass Drum">
+        <source>Acoustic Bass Drum</source>
+        <target state="translated">Akustisk stortromme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Acoustic Grand">
+        <source>Acoustic Grand</source>
+        <target state="translated">Akustisk flygel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Acoustic Snare">
+        <source>Acoustic Snare</source>
+        <target state="translated">Akustisk lilletromme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Agogo">
+        <source>Agogo</source>
+        <target state="translated">Agogo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Alto Sax">
+        <source>Alto Sax</source>
+        <target state="translated">Altsaxofon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Applause">
+        <source>Applause</source>
+        <target state="translated">Applaus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bagpipe">
+        <source>Bagpipe</source>
+        <target state="translated">Sækkepibe</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Banjo">
+        <source>Banjo</source>
+        <target state="translated">Banjo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Baritone Sax">
+        <source>Baritone Sax</source>
+        <target state="translated">Barytonsaxofon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bass Drum 1">
+        <source>Bass Drum 1</source>
+        <target state="translated">Stortromme 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bassoon">
+        <source>Bassoon</source>
+        <target state="translated">Fagot</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bird Tweet">
+        <source>Bird Tweet</source>
+        <target state="translated">fuglekvidder</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Blown Bottle">
+        <source>Blown Bottle</source>
+        <target state="translated">Pusteflaske</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brass Section">
+        <source>Brass Section</source>
+        <target state="translated">Messingsektion</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Breath Noise">
+        <source>Breath Noise</source>
+        <target state="translated">Åndedræt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bright Acoustic">
+        <source>Bright Acoustic</source>
+        <target state="translated">Lys akustisk klaver</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cabasa">
+        <source>Cabasa</source>
+        <target state="translated">Cabasa</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Celesta">
+        <source>Celesta</source>
+        <target state="translated">Celeste</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cello">
+        <source>Cello</source>
+        <target state="translated">Cello</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Chinese Cymbal">
+        <source>Chinese Cymbal</source>
+        <target state="translated">Kinesisk bækken</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choir Aahs">
+        <source>Choir Aahs</source>
+        <target state="translated">Aah i kor</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Church Organ">
+        <source>Church Organ</source>
+        <target state="translated">Kirkeorgel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clarinet">
+        <source>Clarinet</source>
+        <target state="translated">klarinet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Claves">
+        <source>Claves</source>
+        <target state="translated">Claves</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clavinet">
+        <source>Clavinet</source>
+        <target state="translated">Klavinet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Closed Hi-Hat">
+        <source>Closed Hi-Hat</source>
+        <target state="translated">Lukket high-hat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Contrabass">
+        <source>Contrabass</source>
+        <target state="translated">Kontrabas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cowbell">
+        <source>Cowbell</source>
+        <target state="translated">Koklokke</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Crash Cymbal 1">
+        <source>Crash Cymbal 1</source>
+        <target state="translated">Bækkenbrag 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Crash Cymbal 2">
+        <source>Crash Cymbal 2</source>
+        <target state="translated">Bækkenbrag 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Distortion Guitar">
+        <source>Distortion Guitar</source>
+        <target state="translated">Forvrænget guitar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Drawbar Organ">
+        <source>Drawbar Organ</source>
+        <target state="translated">Registerorgel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Dulcimer">
+        <source>Dulcimer</source>
+        <target state="translated">hakkebræt</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Bass (finger)">
+        <source>Electric Bass (finger)</source>
+        <target state="translated">Elektrisk bas (finger)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Bass (pick)">
+        <source>Electric Bass (pick)</source>
+        <target state="translated">Elektrisk bas (plektron)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Clean Guitar">
+        <source>Electric Clean Guitar</source>
+        <target state="translated">Ren elektrisk guitar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Grand">
+        <source>Electric Grand</source>
+        <target state="translated">Elektrisk flygel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Jazz Guitar">
+        <source>Electric Jazz Guitar</source>
+        <target state="translated">Elektrisk jazzguitar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Muted Guitar">
+        <source>Electric Muted Guitar</source>
+        <target state="translated">Dæmpet elektrisk guitar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Piano 1">
+        <source>Electric Piano 1</source>
+        <target state="translated">Elektrisk klaver 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Piano 2">
+        <source>Electric Piano 2</source>
+        <target state="translated">Elektrisk klaver 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Snare">
+        <source>Electric Snare</source>
+        <target state="translated">Elektrisk lilletromme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="English Horn">
+        <source>English Horn</source>
+        <target state="translated">Engelskhorn</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 1 (rain)">
+        <source>FX 1 (rain)</source>
+        <target state="translated">FX 1 (regn)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 2 (soundtrack)">
+        <source>FX 2 (soundtrack)</source>
+        <target state="translated">FX 2 (lydspor)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 3 (crystal)">
+        <source>FX 3 (crystal)</source>
+        <target state="translated">FX 3 (krystal)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 4 (atmosphere)">
+        <source>FX 4 (atmosphere)</source>
+        <target state="translated">FX 4 (atmosfære)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 5 (brightness)">
+        <source>FX 5 (brightness)</source>
+        <target state="translated">FX 5 (klarhet)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 6 (goblins)">
+        <source>FX 6 (goblins)</source>
+        <target state="translated">FX 6 (nisser)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 7 (echoes)">
+        <source>FX 7 (echoes)</source>
+        <target state="translated">FX 7 (ekkoer)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 8 (sci-fi)">
+        <source>FX 8 (sci-fi)</source>
+        <target state="translated">FX 8 (sci-fi)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fiddle">
+        <source>Fiddle</source>
+        <target state="translated">fiol</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flute">
+        <source>Flute</source>
+        <target state="translated">Fløjte</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="French Horn">
+        <source>French Horn</source>
+        <target state="translated">Valdhorn</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fretless Bass">
+        <source>Fretless Bass</source>
+        <target state="translated">Båndløs bas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Glockenspiel">
+        <source>Glockenspiel</source>
+        <target state="translated">Klokkespil</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Guitar Fret Noise">
+        <source>Guitar Fret Noise</source>
+        <target state="translated">Guitarbånd lyd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Guitar Harmonics">
+        <source>Guitar Harmonics</source>
+        <target state="translated">Guitar overtoner</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gunshot">
+        <source>Gunshot</source>
+        <target state="translated">Skud</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hand Clap">
+        <source>Hand Clap</source>
+        <target state="translated">Håndklap</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Harmonica">
+        <source>Harmonica</source>
+        <target state="translated">Mundharmonika</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Harpsichord">
+        <source>Harpsichord</source>
+        <target state="translated">Cembalo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Helicopter">
+        <source>Helicopter</source>
+        <target state="translated">Helikopter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hi Bongo">
+        <source>Hi Bongo</source>
+        <target state="translated">Høj bongo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hi Wood Block">
+        <source>Hi Wood Block</source>
+        <target state="translated">Høj træklods</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hi-Mid Tom">
+        <source>Hi-Mid Tom</source>
+        <target state="translated">Høj-mid tam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Agogo">
+        <source>High Agogo</source>
+        <target state="translated">Høj Agogo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Floor Tom">
+        <source>High Floor Tom</source>
+        <target state="translated">Høj gulvtam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Timbale">
+        <source>High Timbale</source>
+        <target state="translated">Høj timbale</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Tom">
+        <source>High Tom</source>
+        <target state="translated">Høj tam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Honky-Tonk">
+        <source>Honky-Tonk</source>
+        <target state="translated">Honky-Tonk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Kalimba">
+        <source>Kalimba</source>
+        <target state="translated">Kalimba</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Koto">
+        <source>Koto</source>
+        <target state="translated">Koto</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 1 (square)">
+        <source>Lead 1 (square)</source>
+        <target state="translated">Lead 1 (firkantet bølge)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 2 (sawtooth)">
+        <source>Lead 2 (sawtooth)</source>
+        <target state="translated">Lead 2 (savtand-bølge)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 3 (calliope)">
+        <source>Lead 3 (calliope)</source>
+        <target state="translated">Lead 3 (damporgel)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 4 (chiff)">
+        <source>Lead 4 (chiff)</source>
+        <target state="translated">Lead 4 (chiff)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 5 (charang)">
+        <source>Lead 5 (charang)</source>
+        <target state="translated">Lead 5 (charango)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 6 (voice)">
+        <source>Lead 6 (voice)</source>
+        <target state="translated">Lead 6 (stemme)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 7 (fifths)">
+        <source>Lead 7 (fifths)</source>
+        <target state="translated">Lead 7 (kvinter)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 8 (bass+lead)">
+        <source>Lead 8 (bass+lead)</source>
+        <target state="translated">Lead 8 (bas+lead)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Long Guiro">
+        <source>Long Guiro</source>
+        <target state="translated">Lang guiro</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Long Whistle">
+        <source>Long Whistle</source>
+        <target state="translated">Lang fløjte</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Agogo">
+        <source>Low Agogo</source>
+        <target state="translated">Lav Agogo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Bongo">
+        <source>Low Bongo</source>
+        <target state="translated">Lav Bongo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Conga">
+        <source>Low Conga</source>
+        <target state="translated">Lav Conga</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Floor Tom">
+        <source>Low Floor Tom</source>
+        <target state="translated">Lav gulvtam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Timbale">
+        <source>Low Timbale</source>
+        <target state="translated">Lav Timbale</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Tom">
+        <source>Low Tom</source>
+        <target state="translated">Lav tam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Wood Block">
+        <source>Low Wood Block</source>
+        <target state="translated">Lav træklods</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low-Mid Tom">
+        <source>Low-Mid Tom</source>
+        <target state="translated">Lav-mid tam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maracas">
+        <source>Maracas</source>
+        <target state="translated">Maracas</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Marimba">
+        <source>Marimba</source>
+        <target state="translated">Marimba</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Melodic Tom">
+        <source>Melodic Tom</source>
+        <target state="translated">Melodisk tam-tam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Music Box">
+        <source>Music Box</source>
+        <target state="translated">Spilledåse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mute Cuica">
+        <source>Mute Cuica</source>
+        <target state="translated">Dæmpet cuica</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mute Hi Conga">
+        <source>Mute Hi Conga</source>
+        <target state="translated">Dæmpet høj conga</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mute Triangle">
+        <source>Mute Triangle</source>
+        <target state="translated">Dæmpet triangel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Muted Trumpet">
+        <source>Muted Trumpet</source>
+        <target state="translated">Dæmpet trompet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Nylon String Guitar">
+        <source>Nylon String Guitar</source>
+        <target state="translated">Nylonstrengsguitar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Oboe">
+        <source>Oboe</source>
+        <target state="translated">Obo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ocarina">
+        <source>Ocarina</source>
+        <target state="translated">Okarina</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Cuica">
+        <source>Open Cuica</source>
+        <target state="translated">Åben cuica</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Hi Conga">
+        <source>Open Hi Conga</source>
+        <target state="translated">Åben høj conga</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Hi-Hat">
+        <source>Open Hi-Hat</source>
+        <target state="translated">Åben hi-hat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Triangle">
+        <source>Open Triangle</source>
+        <target state="translated">Åben triangel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Orchestra Hit">
+        <source>Orchestra Hit</source>
+        <target state="translated">Orkesterstød</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Orchestral Strings">
+        <source>Orchestral Strings</source>
+        <target state="translated">Harpe</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Overdriven Guitar">
+        <source>Overdriven Guitar</source>
+        <target state="translated">Overforstærket guitar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 1 (new age)">
+        <source>Pad 1 (new age)</source>
+        <target state="translated">Pad 1 (new age)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 2 (warm)">
+        <source>Pad 2 (warm)</source>
+        <target state="translated">Pad 2 (varm)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 3 (polysynth)">
+        <source>Pad 3 (polysynth)</source>
+        <target state="translated">Pad 3 (polysynth)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 4 (choir)">
+        <source>Pad 4 (choir)</source>
+        <target state="translated">Pad 4 (kor)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 5 (bowed)">
+        <source>Pad 5 (bowed)</source>
+        <target state="translated">Pad 5 (stryget)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 6 (metallic)">
+        <source>Pad 6 (metallic)</source>
+        <target state="translated">Pad 6 (metallisk)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 7 (halo)">
+        <source>Pad 7 (halo)</source>
+        <target state="translated">Pad 7 (halo)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 8 (sweep)">
+        <source>Pad 8 (sweep)</source>
+        <target state="translated">Pad 8 (sweep)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pan Flute">
+        <source>Pan Flute</source>
+        <target state="translated">Panfløjte</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pedal Hi-Hat">
+        <source>Pedal Hi-Hat</source>
+        <target state="translated">Pedal Hi-Hat</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Percussive Organ">
+        <source>Percussive Organ</source>
+        <target state="translated">Slagtøjsorgel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Piccolo">
+        <source>Piccolo</source>
+        <target state="translated">Piccolofløjte</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pizzicato Strings">
+        <source>Pizzicato Strings</source>
+        <target state="translated">Pizzicato på strygeinstrumenter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Recorder">
+        <source>Recorder</source>
+        <target state="translated">Blokfløjte</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reed Organ">
+        <source>Reed Organ</source>
+        <target state="translated">Harmonium</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reverse Cymbal">
+        <source>Reverse Cymbal</source>
+        <target state="translated">Omvendt cymbal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ride Bell">
+        <source>Ride Bell</source>
+        <target state="translated">Ride Bell</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ride Cymbal 1">
+        <source>Ride Cymbal 1</source>
+        <target state="translated">Ride Cymbal 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ride Cymbal 2">
+        <source>Ride Cymbal 2</source>
+        <target state="translated">Ride Cymbal 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rock Organ">
+        <source>Rock Organ</source>
+        <target state="translated">Rockorgel</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Seashore">
+        <source>Seashore</source>
+        <target state="translated">Strandkant</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shakuhachi">
+        <source>Shakuhachi</source>
+        <target state="translated">Shakuhachi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shamisen">
+        <source>Shamisen</source>
+        <target state="translated">Shamisen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shanai">
+        <source>Shanai</source>
+        <target state="translated">Shanai</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Short Guiro">
+        <source>Short Guiro</source>
+        <target state="translated">Kort Guiro</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Short Whistle">
+        <source>Short Whistle</source>
+        <target state="translated">Kort fløjte</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Side Stick">
+        <source>Side Stick</source>
+        <target state="translated">Kantslag</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sitar">
+        <source>Sitar</source>
+        <target state="translated">Sitar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slap Bass 1">
+        <source>Slap Bass 1</source>
+        <target state="translated">Slapbas 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slap Bass 2">
+        <source>Slap Bass 2</source>
+        <target state="translated">Slapbas 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Soprano Sax">
+        <source>Soprano Sax</source>
+        <target state="translated">Sopransaxofon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Splash Cymbal">
+        <source>Splash Cymbal</source>
+        <target state="translated">Splash cymbal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Steel Drums">
+        <source>Steel Drums</source>
+        <target state="translated">Ståltrommer</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Steel String Guitar">
+        <source>Steel String Guitar</source>
+        <target state="translated">Stålstrengsguitar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="String Ensemble 1">
+        <source>String Ensemble 1</source>
+        <target state="translated">Strygeensemble 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="String Ensemble 2">
+        <source>String Ensemble 2</source>
+        <target state="translated">Strygeensemble 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Synth Bass 1">
+        <source>Synth Bass 1</source>
+        <target state="translated">Synth-bas 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Synth Bass 2">
+        <source>Synth Bass 2</source>
+        <target state="translated">Synth-bas 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Synth Drum">
+        <source>Synth Drum</source>
+        <target state="translated">Synth. tromme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Synth Voice">
+        <source>Synth Voice</source>
+        <target state="translated">Synth. stemme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SynthBrass 1">
+        <source>SynthBrass 1</source>
+        <target state="translated">Synth. messing 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SynthBrass 2">
+        <source>SynthBrass 2</source>
+        <target state="translated">Synth. messing 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SynthStrings 1">
+        <source>SynthStrings 1</source>
+        <target state="translated">Synth. strygere 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SynthStrings 2">
+        <source>SynthStrings 2</source>
+        <target state="translated">Synth. strygere 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Taiko Drum">
+        <source>Taiko Drum</source>
+        <target state="translated">Taikotromme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tambourine">
+        <source>Tambourine</source>
+        <target state="translated">Tamburin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tango Accordion">
+        <source>Tango Accordion</source>
+        <target state="translated">Bandoneon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Telephone Ring">
+        <source>Telephone Ring</source>
+        <target state="translated">Telefonringning</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tenor Sax">
+        <source>Tenor Sax</source>
+        <target state="translated">Tenorsaxofon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Timpani">
+        <source>Timpani</source>
+        <target state="translated">Pauker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tinkle Bell">
+        <source>Tinkle Bell</source>
+        <target state="translated">Lille klokke</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tremolo Strings">
+        <source>Tremolo Strings</source>
+        <target state="translated">Tremolo på stygeinstrumenter</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Trombone">
+        <source>Trombone</source>
+        <target state="translated">Trækbasun</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Trumpet">
+        <source>Trumpet</source>
+        <target state="translated">Trompet</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tuba">
+        <source>Tuba</source>
+        <target state="translated">Tuba</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tubular Bells">
+        <source>Tubular Bells</source>
+        <target state="translated">Rørklokker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vibraphone">
+        <source>Vibraphone</source>
+        <target state="translated">Vibrafon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vibraslap">
+        <source>Vibraslap</source>
+        <target state="translated">Vibraslap</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Viola">
+        <source>Viola</source>
+        <target state="translated">Bratsch</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Violin">
+        <source>Violin</source>
+        <target state="translated">Violin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Voice Oohs">
+        <source>Voice Oohs</source>
+        <target state="translated">Uuh-stemme</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Whistle">
+        <source>Whistle</source>
+        <target state="translated">fløjte</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Woodblock">
+        <source>Woodblock</source>
+        <target state="translated">Træklods</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Xylophone">
+        <source>Xylophone</source>
+        <target state="translated">Xylofon</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
