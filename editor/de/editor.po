@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:14+0200\n"
-"PO-Revision-Date: 2013-05-01 00:26+0200\n"
+"POT-Creation-Date: 2013-05-02 05:44+0200\n"
+"PO-Revision-Date: 2013-05-03 01:20+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -39,32 +39,29 @@ msgid "acos"
 msgstr "acos"
 
 # 90%
-#, fuzzy
 msgid "Add boolean input:"
-msgstr "Füge boolesches Eingabefeld hinzu:"
+msgstr "boolesches Feld:"
 
 msgid "add comment"
 msgstr "Kommentar hinzufügen"
 
 msgid "Add label text:"
-msgstr "Füge Beschriftungstext hinzu:"
+msgstr "Beschriftungstext:"
 
 # 89%
-#, fuzzy
 msgid "Add number input:"
-msgstr "Füge Zahleneingabefeld hinzu:"
+msgstr "Zahlenfeld:"
 
 # 89%
-#, fuzzy
 msgid "Add string input:"
-msgstr "Füge Texteingabefeld hinzu:"
-
-msgid "all"
-msgstr "alles"
+msgstr "Textfeld:"
 
 #, fuzzy
 msgid "All"
 msgstr "Alle"
+
+msgid "all"
+msgstr "alles"
 
 # Drehtyp
 msgid "all around"
@@ -93,12 +90,12 @@ msgstr "B angeschlossen"
 msgid "Back a layer"
 msgstr "Eine Ebene nach hinten"
 
-# 88%
-msgid "backdrop"
-msgstr "Bühnenbild"
-
 # 87%
 msgid "Backdrop"
+msgstr "Bühnenbild"
+
+# 88%
+msgid "backdrop"
 msgstr "Bühnenbild"
 
 msgid "backdrop #"
@@ -208,6 +205,18 @@ msgstr "Cello"
 msgid "Choir"
 msgstr "Chor"
 
+msgid "Choose backdrop from library"
+msgstr "Bühnenbild aus der Bibliothek wählen"
+
+msgid "Choose costume from library"
+msgstr "Kostüm aus der Bibliothek wählen"
+
+msgid "Choose sound from library"
+msgstr "Klang aus der Bibliothek wählen"
+
+msgid "Choose sprite from library"
+msgstr "Figur aus der Bibliothek wählen"
+
 msgid "Circle"
 msgstr "Kreis"
 
@@ -225,7 +234,7 @@ msgid "Clear"
 msgstr "Löschen"
 
 msgid "clear senders/receivers"
-msgstr "Beende Kennzeichnung der Sender/Empfänger"
+msgstr "Kennzeichnung der Sender/Empfänger aufheben"
 
 msgid "Click "Save now" to try again or "Download" to save"
 msgstr "Klicke  für einen neuen Versuch oder  zum Speichern"
@@ -234,13 +243,13 @@ msgid "Close"
 msgstr "Schließen"
 
 msgid "Closed Hi-Hat"
-msgstr "Hi-Hat (geschlossen)"
+msgstr "Geschlossenes Hi-Hat"
 
 msgid "Cloud"
 msgstr "Cloud"
 
 msgid "Cloud data"
-msgstr "Claud-Daten"
+msgstr "Cloud-Daten"
 
 msgid "color"
 msgstr "Farbe"
@@ -350,17 +359,16 @@ msgstr "nach unten"
 msgid "down arrow"
 msgstr "Pfeil nach unten"
 
-#, fuzzy
 msgid "Download"
 msgstr "Herunterladen"
 
 msgid "Download to your computer"
-msgstr "Auf deinen Computer herunterladen"
-
-msgid "Duplicate"
-msgstr "Duplizieren"
+msgstr "Herunterladen auf deinen Computer"
 
 msgid "duplicate"
+msgstr "Duplizieren"
+
+msgid "Duplicate"
 msgstr "Duplizieren"
 
 msgid "e ^"
@@ -452,14 +460,13 @@ msgid "ghost"
 msgstr "Durchsichtigkeit"
 
 msgid "Go to My Stuff"
-msgstr "Gehe zu meinen Sachen"
+msgstr "Meine Sachen"
 
 msgid "Group"
 msgstr "Gruppieren"
 
-#, fuzzy
 msgid "Grow"
-msgstr "Wachse"
+msgstr "Vergrößern"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -470,16 +477,14 @@ msgstr "Gitarre"
 msgid "Hand Clap"
 msgstr "Klatschen"
 
-#, fuzzy
 msgid "hide"
 msgstr "Verstecken"
 
 msgid "hour"
 msgstr "Stunde"
 
-#, fuzzy
 msgid "Human"
-msgstr "Menschliches"
+msgstr "Menschen"
 
 msgid "Import"
 msgstr "Importieren"
@@ -488,13 +493,13 @@ msgid "Importing sound..."
 msgstr "Importiere Klang..."
 
 msgid "Indoors"
-msgstr ""
+msgstr "Drinnen"
 
 msgid "Installing..."
-msgstr ""
+msgstr "Installiere..."
 
 msgid "Instruments"
-msgstr ""
+msgstr "Instrumente"
 
 msgid "last"
 msgstr "letztes"
@@ -517,27 +522,26 @@ msgid "light"
 msgstr "Helligkeit"
 
 msgid "limit reached"
-msgstr ""
+msgstr "Grenze erreicht"
 
 msgid "Line"
 msgstr "Linie"
 
 msgid "Line width:"
-msgstr ""
+msgstr "Linienbreite"
 
 # 75%
-#, fuzzy
 msgid "list"
-msgstr "letztes"
+msgstr "Liste"
 
 msgid "List name"
-msgstr ""
+msgstr "Listenname"
 
 msgid "ln"
 msgstr "ln"
 
 msgid "Loading project..."
-msgstr ""
+msgstr "Lade Projekt..."
 
 msgid "log"
 msgstr "log"
@@ -550,31 +554,32 @@ msgid "loudness"
 msgstr "Lautstärke"
 
 msgid "Make a Block"
-msgstr ""
+msgstr "Neuer Block"
 
 msgid "Make a List"
-msgstr ""
+msgstr "Neue Liste"
 
 msgid "Make a Variable"
-msgstr ""
+msgstr "Neue Variable"
 
 msgid "Marimba"
 msgstr "Marimba"
 
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 msgid "meow"
-msgstr ""
+msgstr "Miau"
 
+#, fuzzy
 msgid "Message Name"
-msgstr ""
+msgstr "Nachrichtenname"
 
 msgid "message1"
 msgstr "Nachricht1"
 
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 msgid "minute"
 msgstr "Minute"
@@ -595,72 +600,78 @@ msgid "Multiple"
 msgstr ""
 
 msgid "Music and Dance"
-msgstr ""
+msgstr "Musik und Tanz"
 
 msgid "Music Box"
 msgstr "Musikbox"
 
 msgid "Music Loops"
-msgstr ""
+msgstr "Musikschleifen"
 
 msgid "My Stuff"
-msgstr ""
+msgstr "Meine Sachen"
 
 # "erzeuge Klon von _mir selbst_"
 msgid "myself"
 msgstr "mir selbst"
 
 msgid "Nature"
-msgstr ""
+msgstr "Natur"
 
 msgid "New"
 msgstr "Neu"
 
+msgid "New backdrop from camera"
+msgstr "Neues Bühnenbild von Kamera"
+
 # 92%
-#, fuzzy
 msgid "New backdrop:"
-msgstr "Neues Bühnenbild"
+msgstr "Neues Bühnenbild:"
+
+msgid "New costume from camera"
+msgstr "Neues Kostüm von Kamera"
 
 # 91%
-#, fuzzy
 msgid "New costume:"
-msgstr "Neues Kostüm"
+msgstr "Neues Kostüm:"
 
 msgid "New List"
-msgstr ""
+msgstr "Neue Liste"
 
 msgid "new message..."
 msgstr "neue Nachricht..."
 
 msgid "New name"
-msgstr ""
+msgstr "Neuer Name"
 
 # 90%
-#, fuzzy
 msgid "New sound:"
-msgstr "Neuer Klang"
+msgstr "Neuer Klang:"
+
+msgid "New sprite from camera"
+msgstr "Neue Figur von Kamera"
 
 msgid "New sprite:"
 msgstr "Neue Figur:"
 
 msgid "New Variable"
-msgstr ""
+msgstr "Neue Variable"
 
 msgid "No motion blocks"
 msgstr "Keine Bewegungsblöcke"
 
 msgid "Not saved; network or server problem."
-msgstr ""
+msgstr "Nicht gespeichert: Netzwerk- oder Server-Problem"
 
 msgid "of"
-msgstr ""
+msgstr "von"
 
 # gehört zu 'turn video on/off/on-flipped'
 msgid "off"
 msgstr "aus"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 # gehört zu 'turn video on/off/on-flipped'
 msgid "on"
@@ -671,26 +682,35 @@ msgid "on-flipped"
 msgstr "an-gespiegelt"
 
 msgid "Open Cuica"
-msgstr "Cuica (geöffnet)"
+msgstr "Offene Cuica"
 
 msgid "Open Hi-Hat"
-msgstr "Hi-Hat (geöffnet)"
+msgstr "Offenes Hi-Hat"
 
 msgid "Options"
-msgstr ""
+msgstr "Einstellungen"
 
 msgid "Organ"
 msgstr "Orgel"
 
 msgid "Other"
-msgstr ""
+msgstr "Andere"
 
 # 82%
 msgid "other scripts in sprite"
 msgstr "andere Skripte der Figur"
 
 msgid "Outdoors"
-msgstr ""
+msgstr "Draußen"
+
+msgid "Paint new backdrop"
+msgstr "Neues Bühnenbild zeichnen"
+
+msgid "Paint new costume"
+msgstr "Neues Kostüm zeichnen"
+
+msgid "Paint new sprite"
+msgstr "Neue Figur zeichnen"
 
 msgid "paste"
 msgstr "Einfügen"
@@ -699,10 +719,10 @@ msgid "Pencil"
 msgstr "Stift"
 
 msgid "People"
-msgstr ""
+msgstr "Personen"
 
 msgid "Percussion"
-msgstr ""
+msgstr "Schlagwerk"
 
 msgid "photo1"
 msgstr "Photo1"
@@ -711,7 +731,6 @@ msgid "Piano"
 msgstr "Klavier"
 
 # 92%
-#, fuzzy
 msgid "Pick up color"
 msgstr "Farbpipette"
 
@@ -725,29 +744,31 @@ msgid "pop"
 msgstr "Plopp"
 
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgid "Project not saved!"
-msgstr ""
+msgstr "Das Projekt wurde nicht abgespeichert!"
 
 msgid "random"
 msgstr "zufällig"
 
 msgid "Record"
-msgstr "Aufnehmen"
+msgstr "Aufnahme"
+
+msgid "Record new sound"
+msgstr "Neuen Klang aufzeichnen"
 
 msgid "recording1"
 msgstr "Aufnahme1"
 
 msgid "Rectangle"
-msgstr ""
-
-msgid "redo"
-msgstr "Wiederherstellen"
+msgstr "Rechteck"
 
 # 75%
-#, fuzzy
 msgid "Redo"
+msgstr "Wiederherstellen"
+
+msgid "redo"
 msgstr "Wiederherstellen"
 
 msgid "Remix"
@@ -757,13 +778,13 @@ msgid "Remixing..."
 msgstr "Erstelle Remix..."
 
 msgid "Rename"
-msgstr ""
+msgstr "Umbenennen"
 
 msgid "rename variable"
-msgstr ""
+msgstr "Variable umbenennen"
 
 msgid "requires sign in"
-msgstr ""
+msgstr "Hierzu musst Du angemeldet sein."
 
 msgid "Reshape"
 msgstr "Verformen"
@@ -784,10 +805,10 @@ msgid "reverse"
 msgstr "umkehren"
 
 msgid "Revert"
-msgstr ""
+msgstr "Zurücksetzen"
 
 msgid "Reverting..."
-msgstr ""
+msgstr "Setze Änderungen zurück..."
 
 msgid "right"
 msgstr "rechts"
@@ -796,47 +817,45 @@ msgid "right arrow"
 msgstr "Pfeil nach rechts"
 
 msgid "rotation style:"
-msgstr ""
+msgstr "Drehmodus:"
 
 msgid "Run without screen refresh"
-msgstr ""
+msgstr "Ohne Bildschirmaktualisierung laufen lassen"
 
 msgid "Save"
-msgstr ""
+msgstr "Speichern"
 
 msgid "Save as a copy"
-msgstr ""
+msgstr "Eine Kopie speichern"
 
 msgid "Save now"
-msgstr ""
+msgstr "Jetzt speichern"
 
 msgid "save to local file"
-msgstr ""
+msgstr "Als lokale Datei speichern"
 
 msgid "Saved"
-msgstr ""
+msgstr "Gespeichert"
 
 msgid "Saving changes..."
-msgstr ""
+msgstr "Speichere Änderungen..."
 
 msgid "Saving..."
-msgstr ""
+msgstr "Speichere..."
 
 msgid "Saxophone"
 msgstr "Saxophon"
 
 # 85%
-#, fuzzy
 msgid "Script"
-msgstr "Skripte"
+msgstr "Skript"
 
 msgid "Scripts"
 msgstr "Skripte"
 
 # 87%
-#, fuzzy
 msgid "Scripts:"
-msgstr "Skripte"
+msgstr "Skripte:"
 
 msgid "second"
 msgstr "Sekunde"
@@ -851,7 +870,7 @@ msgid "select all"
 msgstr "Alles auswählen"
 
 msgid "Select and duplicate"
-msgstr ""
+msgstr "Auswählen und Duplizieren"
 
 msgid "Send to back"
 msgstr "Ganz nach hinten"
@@ -882,7 +901,7 @@ msgid "show senders"
 msgstr "Sender zeigen"
 
 msgid "show:"
-msgstr "Zeige:"
+msgstr "sichtbar:"
 
 msgid "Shrink"
 msgstr "Verkleinern"
@@ -929,11 +948,11 @@ msgstr "Snare-Drum"
 msgid "softer"
 msgstr "leiser"
 
-# 80%
-msgid "Sound"
+msgid "sound"
 msgstr "Klang"
 
-msgid "sound"
+# 80%
+msgid "Sound"
 msgstr "Klang"
 
 msgid "Sound Library"
@@ -959,7 +978,6 @@ msgstr "Figur"
 msgid "Sprite Library"
 msgstr "Figurenbibliothek"
 
-# 85%
 # 85%
 msgid "Sprite1"
 msgstr "Figur1"
@@ -1094,8 +1112,20 @@ msgstr "nach oben"
 msgid "up arrow"
 msgstr "Pfeil nach oben"
 
+msgid "Upload backdrop from file"
+msgstr "Bühnenbild aus einer Datei laden"
+
+msgid "Upload costume from file"
+msgstr "Kostüm aus einer Datei laden"
+
 msgid "Upload from your computer"
-msgstr "Von deinem Computer hochladen"
+msgstr "Hochladen von deinem Computer"
+
+msgid "Upload sound from file"
+msgstr "Klang aus einer Datei laden"
+
+msgid "Upload sprite from file"
+msgstr "Figur aus einer Datei laden"
 
 msgid "Uploading image..."
 msgstr "Lade Bild..."
@@ -1167,8 +1197,8 @@ msgstr "Jahr"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
 "Du kannst keine Cloud-Daten in Projekten von jemand Anderem "
-"editieren.<br>Jede von dir im Editor gemachte Änderung ist temporär und "
-"nicht permanent."
+"editieren.<br>Jede von dir im Editor gemachte Änderung ist temporär und geht "
+"verloren."
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Füge boolesches Eingabefeld hinzu:"
