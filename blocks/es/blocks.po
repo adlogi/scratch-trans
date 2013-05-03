@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:12+0200\n"
-"PO-Revision-Date: 2013-04-28 20:22+0200\n"
+"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"PO-Revision-Date: 2013-05-01 05:50+0200\n"
 "Last-Translator: Bastián <technoguyx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -149,7 +149,7 @@ msgid "glide %n secs to x:%n y:%n"
 msgstr "deslizar en %n segs a x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "enviar hacia atrás %n capas"
+msgstr "ir %n capas hacia atrás"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "ir a %m.spriteOrMouse"
@@ -173,7 +173,7 @@ msgid "if %b then"
 msgstr "si %b entonces"
 
 msgid "if on edge, bounce"
-msgstr "rebotar si está tocando un borde"
+msgstr "rebotar si toca un borde"
 
 msgid "insert %s at %d.listItem of %m.list"
 msgstr "insertar %s en %d.listItem de %m.list"
@@ -419,7 +419,9 @@ msgstr "encender motor por %n segundos"
 msgid "turn video %m.videoState"
 msgstr "video %m.videoState"
 
-msgid "user name"
+# 88%
+#, fuzzy
+msgid "username"
 msgstr "nombre de usuario"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
@@ -471,6 +473,9 @@ msgstr "posición en x"
 
 msgid "y position"
 msgstr "posición en y"
+
+#~ msgid "user name"
+#~ msgstr "nombre de usuario"
 
 #~ msgid "user id"
 #~ msgstr "número de usuario"

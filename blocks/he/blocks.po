@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scratch Hebrew Version 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:12+0200\n"
-"PO-Revision-Date: 2013-04-29 08:27+0200\n"
-"Last-Translator: MotiB <moti.ben.ari@gmail.com>\n"
+"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"PO-Revision-Date: 2013-05-02 05:52+0200\n"
+"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: Scratch Hebrew Translators <moti.ben.ari@gmail.com>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -415,7 +415,8 @@ msgstr "הפעל מנוע ל %n שניות"
 msgid "turn video %m.videoState"
 msgstr "%m.videoState ל ווידיאו מצב שנה"
 
-msgid "user name"
+# 88%
+msgid "username"
 msgstr "שם משתמש"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
@@ -466,6 +467,9 @@ msgstr "מיקום על ציר x"
 
 msgid "y position"
 msgstr "מיקום על ציר y"
+
+#~ msgid "user name"
+#~ msgstr "שם משתמש"
 
 #~ msgid "user id"
 #~ msgstr "שם משתמש"

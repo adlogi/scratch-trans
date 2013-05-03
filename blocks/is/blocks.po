@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:12+0200\n"
+"POT-Creation-Date: 2013-05-02 00:56+0200\n"
 "PO-Revision-Date: 2013-04-29 20:20+0200\n"
 "Last-Translator: Stefan Einar <stefaneinar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -419,7 +419,9 @@ msgstr "hreyfill gengur í %n sek"
 msgid "turn video %m.videoState"
 msgstr "snúa hreyfimynd %m.videoState"
 
-msgid "user name"
+# 88%
+#, fuzzy
+msgid "username"
 msgstr "notandanafn"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
@@ -471,6 +473,9 @@ msgstr "x hnit"
 
 msgid "y position"
 msgstr "y hnit"
+
+#~ msgid "user name"
+#~ msgstr "notandanafn"
 
 #~ msgid "user id"
 #~ msgstr "Auðkenni notanda"

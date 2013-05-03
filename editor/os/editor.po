@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:17+0200\n"
+"POT-Creation-Date: 2013-05-02 05:46+0200\n"
 "PO-Revision-Date: 2013-03-20 19:58+0200\n"
 "Last-Translator: soslan <soslanx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,11 +54,11 @@ msgstr "Нымӕц бафтауын:"
 msgid "Add string input:"
 msgstr "Рӕнхъ бафтауын:"
 
-msgid "all"
-msgstr "иууылдӕр"
-
 msgid "All"
 msgstr ""
+
+msgid "all"
+msgstr "иууылдӕр"
 
 msgid "all around"
 msgstr "алыварс"
@@ -84,12 +84,12 @@ msgstr "B иугонд у"
 msgid "Back a layer"
 msgstr ""
 
-msgid "backdrop"
-msgstr "бындур"
-
 # 87%
 #, fuzzy
 msgid "Backdrop"
+msgstr "бындур"
+
+msgid "backdrop"
 msgstr "бындур"
 
 msgid "backdrop #"
@@ -192,6 +192,18 @@ msgid "Cello"
 msgstr ""
 
 msgid "Choir"
+msgstr ""
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
 msgstr ""
 
 msgid "Circle"
@@ -342,10 +354,10 @@ msgstr ""
 msgid "Download to your computer"
 msgstr ""
 
-msgid "Duplicate"
+msgid "duplicate"
 msgstr ""
 
-msgid "duplicate"
+msgid "Duplicate"
 msgstr ""
 
 msgid "e ^"
@@ -588,7 +600,13 @@ msgstr ""
 msgid "New"
 msgstr "Nouveau"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 msgid "New backdrop:"
+msgstr ""
+
+msgid "New costume from camera"
 msgstr ""
 
 msgid "New costume:"
@@ -604,6 +622,9 @@ msgid "New name"
 msgstr ""
 
 msgid "New sound:"
+msgstr ""
+
+msgid "New sprite from camera"
 msgstr ""
 
 msgid "New sprite:"
@@ -654,6 +675,15 @@ msgstr ""
 msgid "Outdoors"
 msgstr ""
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr ""
 
@@ -696,16 +726,19 @@ msgstr ""
 msgid "Record"
 msgstr ""
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr ""
 
 msgid "Rectangle"
 msgstr ""
 
-msgid "redo"
+msgid "Redo"
 msgstr ""
 
-msgid "Redo"
+msgid "redo"
 msgstr ""
 
 msgid "Remix"
@@ -881,10 +914,10 @@ msgstr ""
 msgid "softer"
 msgstr ""
 
-msgid "Sound"
+msgid "sound"
 msgstr ""
 
-msgid "sound"
+msgid "Sound"
 msgstr ""
 
 msgid "Sound Library"
@@ -1030,7 +1063,19 @@ msgstr ""
 msgid "up arrow"
 msgstr ""
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
+msgstr ""
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
 msgstr ""
 
 msgid "Uploading image..."

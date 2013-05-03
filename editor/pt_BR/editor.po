@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:17+0200\n"
+"POT-Creation-Date: 2013-05-02 05:47+0200\n"
 "PO-Revision-Date: 2013-04-28 23:14+0200\n"
 "Last-Translator: ehermann <everton.hermann@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,11 +53,11 @@ msgstr "Adicionar entrada numérica:"
 msgid "Add string input:"
 msgstr "Adicionar entrada de texto:"
 
-msgid "all"
-msgstr "todos"
-
 msgid "All"
 msgstr "Todos"
+
+msgid "all"
+msgstr "todos"
 
 msgid "all around"
 msgstr "em todas as direções"
@@ -83,11 +83,11 @@ msgstr "B conectado"
 msgid "Back a layer"
 msgstr "Descer um nível"
 
-msgid "backdrop"
-msgstr "cenário"
-
 msgid "Backdrop"
 msgstr "Cenário"
+
+msgid "backdrop"
+msgstr "cenário"
 
 msgid "backdrop #"
 msgstr "cenário n°"
@@ -187,6 +187,18 @@ msgstr "Violoncelo"
 
 msgid "Choir"
 msgstr "Coro"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 msgid "Circle"
 msgstr "Círculo"
@@ -333,11 +345,11 @@ msgstr "Baixar"
 msgid "Download to your computer"
 msgstr "Baixar para o seu computador"
 
-msgid "Duplicate"
-msgstr "Duplicar"
-
 msgid "duplicate"
 msgstr "duplicar"
+
+msgid "Duplicate"
+msgstr "Duplicar"
 
 msgid "e ^"
 msgstr "e ^"
@@ -579,8 +591,14 @@ msgstr "Natureza"
 msgid "New"
 msgstr "Novo"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 msgid "New backdrop:"
 msgstr "Novo cenário:"
+
+msgid "New costume from camera"
+msgstr ""
 
 msgid "New costume:"
 msgstr "Novo traje:"
@@ -596,6 +614,9 @@ msgstr "Novo nome"
 
 msgid "New sound:"
 msgstr "Novo som:"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Novo objeto:"
@@ -645,6 +666,15 @@ msgstr "outros programas do objeto"
 msgid "Outdoors"
 msgstr "Exterior"
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "colar"
 
@@ -687,17 +717,20 @@ msgstr "aleatório"
 msgid "Record"
 msgstr "Gravar"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "gravação1"
 
 msgid "Rectangle"
 msgstr "Retângulo"
 
-msgid "redo"
-msgstr "refazer"
-
 msgid "Redo"
 msgstr "Refazer"
+
+msgid "redo"
+msgstr "refazer"
 
 msgid "Remix"
 msgstr "Remix"
@@ -870,12 +903,12 @@ msgstr "Caixa"
 msgid "softer"
 msgstr "suavizar"
 
+msgid "sound"
+msgstr "som"
+
 # 80%
 msgid "Sound"
 msgstr "Som"
-
-msgid "sound"
-msgstr "som"
 
 msgid "Sound Library"
 msgstr "Biblioteca de sons"
@@ -1027,8 +1060,20 @@ msgstr "acima"
 msgid "up arrow"
 msgstr "seta para cima"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
 msgstr "Transferir a partir do computador"
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
 
 msgid "Uploading image..."
 msgstr "Carregando imagem..."

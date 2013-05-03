@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:17+0200\n"
+"POT-Creation-Date: 2013-05-02 05:47+0200\n"
 "PO-Revision-Date: 2013-04-28 00:18+0200\n"
 "Last-Translator: Ziga <ziga@deisinger.si>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,11 +50,11 @@ msgstr "Dodaj število:"
 msgid "Add string input:"
 msgstr ""
 
-msgid "all"
-msgstr "vse"
-
 msgid "All"
 msgstr "Vse"
+
+msgid "all"
+msgstr "vse"
 
 msgid "all around"
 msgstr "vse okoli"
@@ -80,11 +80,11 @@ msgstr "B se je pridružil"
 msgid "Back a layer"
 msgstr ""
 
-msgid "backdrop"
-msgstr "ozadje"
-
 msgid "Backdrop"
 msgstr "Ozadje"
+
+msgid "backdrop"
+msgstr "ozadje"
 
 msgid "backdrop #"
 msgstr "Ozadje številka #"
@@ -185,6 +185,18 @@ msgstr "Čelo"
 msgid "Choir"
 msgstr ""
 
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
+
 msgid "Circle"
 msgstr ""
 
@@ -245,8 +257,10 @@ msgstr "Nov izvod"
 msgid "Copying..."
 msgstr ""
 
+# 75%
+#, fuzzy
 msgid "cos"
-msgstr ""
+msgstr "acos"
 
 msgid "Costume"
 msgstr ""
@@ -290,8 +304,10 @@ msgstr ""
 msgid "cut"
 msgstr ""
 
+# 90%
+#, fuzzy
 msgid "D connected"
-msgstr ""
+msgstr "A se je pridružil"
 
 msgid "date"
 msgstr ""
@@ -331,10 +347,10 @@ msgstr ""
 msgid "Download to your computer"
 msgstr ""
 
-msgid "Duplicate"
+msgid "duplicate"
 msgstr "podvoji"
 
-msgid "duplicate"
+msgid "Duplicate"
 msgstr "podvoji"
 
 msgid "e ^"
@@ -580,7 +596,13 @@ msgstr ""
 msgid "New"
 msgstr "Nouveau"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 msgid "New backdrop:"
+msgstr ""
+
+msgid "New costume from camera"
 msgstr ""
 
 msgid "New costume:"
@@ -596,6 +618,9 @@ msgid "New name"
 msgstr ""
 
 msgid "New sound:"
+msgstr ""
+
+msgid "New sprite from camera"
 msgstr ""
 
 msgid "New sprite:"
@@ -646,6 +671,15 @@ msgstr ""
 msgid "Outdoors"
 msgstr ""
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr ""
 
@@ -688,18 +722,21 @@ msgstr ""
 msgid "Record"
 msgstr "snemaj"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr ""
 
 msgid "Rectangle"
 msgstr ""
 
-msgid "redo"
-msgstr "Obnovi"
-
 # 75%
 #, fuzzy
 msgid "Redo"
+msgstr "Obnovi"
+
+msgid "redo"
 msgstr "Obnovi"
 
 msgid "Remix"
@@ -873,10 +910,10 @@ msgstr ""
 msgid "softer"
 msgstr ""
 
-msgid "Sound"
+msgid "sound"
 msgstr ""
 
-msgid "sound"
+msgid "Sound"
 msgstr ""
 
 msgid "Sound Library"
@@ -904,7 +941,6 @@ msgstr "Sličice"
 msgid "Sprite Library"
 msgstr ""
 
-# 85%
 # 85%
 #, fuzzy
 msgid "Sprite1"
@@ -1031,7 +1067,19 @@ msgstr "gor"
 msgid "up arrow"
 msgstr "tipka gor"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
+msgstr ""
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
 msgstr ""
 
 msgid "Uploading image..."

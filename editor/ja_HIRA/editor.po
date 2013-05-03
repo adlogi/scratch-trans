@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:15+0200\n"
+"POT-Creation-Date: 2013-05-02 05:45+0200\n"
 "PO-Revision-Date: 2013-04-27 13:44+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,8 +16,8 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b>&nbsp;Currently, only numbers are supportedChat rooms are not allowed, and will be removedFor more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-msgstr "<b>クラウドへんすうについて</b>&nbsp;げんざい、すうちのみがサポートされていますチャットルームのさくせいはきょかされません(さくじょされます)。しょうさいなじょうほうは <a href="/help/faq/clouddata" target="_blank">クラウドデータFAQをよんでください!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
 
 msgid "A connected"
 msgstr "Aがつながれた"
@@ -49,10 +49,10 @@ msgstr "すうちのひきすうをついか:"
 msgid "Add string input:"
 msgstr "もじれつのひきすうをついか:"
 
-msgid "all"
+msgid "All"
 msgstr "すべて"
 
-msgid "All"
+msgid "all"
 msgstr "すべて"
 
 msgid "all around"
@@ -79,11 +79,11 @@ msgstr "Bがつながれた"
 msgid "Back a layer"
 msgstr "レイヤーをさげる"
 
-# 88%
-msgid "backdrop"
+msgid "Backdrop"
 msgstr "はいけい"
 
-msgid "Backdrop"
+# 88%
+msgid "backdrop"
 msgstr "はいけい"
 
 msgid "backdrop #"
@@ -185,6 +185,18 @@ msgstr "チェロ"
 
 msgid "Choir"
 msgstr "がっしょうだん"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 msgid "Circle"
 msgstr "えん"
@@ -331,10 +343,10 @@ msgstr "ダウンロード"
 msgid "Download to your computer"
 msgstr "てもとのコンピューターにダウンロード"
 
-msgid "Duplicate"
+msgid "duplicate"
 msgstr "ふくせい"
 
-msgid "duplicate"
+msgid "Duplicate"
 msgstr "ふくせい"
 
 msgid "e ^"
@@ -577,8 +589,14 @@ msgstr "しぜん"
 msgid "New"
 msgstr "しんき"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 msgid "New backdrop:"
 msgstr "あたらしいはいけい:"
+
+msgid "New costume from camera"
+msgstr ""
 
 msgid "New costume:"
 msgstr "あたらしいコスチューム:"
@@ -594,6 +612,9 @@ msgstr "あたらしいなまえ"
 
 msgid "New sound:"
 msgstr "あたらしいおと:"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "あたらしいスプライト:"
@@ -644,6 +665,15 @@ msgstr "スプライトのほかのスクリプト"
 msgid "Outdoors"
 msgstr "おくがい"
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "はりつけ"
 
@@ -686,16 +716,19 @@ msgstr "らんすう"
 msgid "Record"
 msgstr "ろくおん"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "ろくおん1"
 
 msgid "Rectangle"
 msgstr "しかくけい"
 
-msgid "redo"
+msgid "Redo"
 msgstr "やりなおし"
 
-msgid "Redo"
+msgid "redo"
 msgstr "やりなおし"
 
 msgid "Remix"
@@ -869,10 +902,10 @@ msgstr "スネアドラム"
 msgid "softer"
 msgstr "やわらかく"
 
-msgid "Sound"
+msgid "sound"
 msgstr "おと"
 
-msgid "sound"
+msgid "Sound"
 msgstr "おと"
 
 msgid "Sound Library"
@@ -946,7 +979,9 @@ msgid "Things"
 msgstr "もの"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
-msgstr "このプロジェクトは「ユーザーめい」ブロックをつかって、だれがつかっているかをけんしゅつします。とくていされたくないばあいはこのプロジェクトをつかうまえにサインアウトしてください。"
+msgstr ""
+"このプロジェクトは「ユーザーめい」ブロックをつかって、だれがつかっているかをけんしゅつします。とくていされたくないばあいはこのプロジェクトをつかうまえに"
+"サインアウトしてください。"
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr "このプロジェクトはクラウドデータをつかっています。このきのうはサインインしたユーザーだけつかうことができます。"
@@ -1017,8 +1052,20 @@ msgstr "うえ"
 msgid "up arrow"
 msgstr "うわむきやじるし"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
 msgstr "てもとのコンピューターからアップロード"
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
 
 msgid "Uploading image..."
 msgstr "がぞうをアップロードちゅう..."
@@ -1086,8 +1133,14 @@ msgstr "yざひょう"
 msgid "year"
 msgstr "とし"
 
-msgid "You cannot edit cloud data in someone else's project.Any change that you make in the editor will be temporary and not persistent."
-msgstr "ほかのプロジェクトのクラウドデータをへんしゅうすることはできません。エディターでおこなったへんこうはいちじてきなものでえいぞくせいはありません。"
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+
+#~ msgid "<b>Information about Cloud variables</b>&nbsp;Currently, only numbers are supportedChat rooms are not allowed, and will be removedFor more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+#~ msgstr "<b>クラウドへんすうについて</b>&nbsp;げんざい、すうちのみがサポートされていますチャットルームのさくせいはきょかされません(さくじょされます)。しょうさいなじょうほうは <a href="/help/faq/clouddata" target="_blank">クラウドデータFAQをよんでください!</a>"
+
+#~ msgid "You cannot edit cloud data in someone else's project.Any change that you make in the editor will be temporary and not persistent."
+#~ msgstr "ほかのプロジェクトのクラウドデータをへんしゅうすることはできません。エディターでおこなったへんこうはいちじてきなものでえいぞくせいはありません。"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "しんぎちのにゅうりょくをついか:"

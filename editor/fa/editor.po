@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"POT-Creation-Date: 2013-05-02 05:44+0200\n"
 "PO-Revision-Date: 2013-02-01 16:23+0200\n"
 "Last-Translator: ehsansadeghi <m.e.sadeghi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,11 +55,11 @@ msgstr "یک ورودی عددی اضافه کنید:"
 msgid "Add string input:"
 msgstr "یک ورودی رشته ای اضافه کنید:"
 
-msgid "all"
-msgstr "همه"
-
 msgid "All"
 msgstr ""
+
+msgid "all"
+msgstr "همه"
 
 msgid "all around"
 msgstr "همه اطراف"
@@ -85,10 +85,10 @@ msgstr "B وصل است"
 msgid "Back a layer"
 msgstr ""
 
-msgid "backdrop"
+msgid "Backdrop"
 msgstr ""
 
-msgid "Backdrop"
+msgid "backdrop"
 msgstr ""
 
 msgid "backdrop #"
@@ -190,6 +190,18 @@ msgstr "ویلون سل"
 msgid "Choir"
 msgstr "گروه کر"
 
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
+
 msgid "Circle"
 msgstr ""
 
@@ -281,8 +293,11 @@ msgstr "لباس1"
 msgid "Costumes > 1"
 msgstr ""
 
+# 75%
+# 88%
+#, fuzzy
 msgid "Costumes:"
-msgstr ""
+msgstr "لباس1"
 
 msgid "Cowbell"
 msgstr "Cowbell"
@@ -342,11 +357,11 @@ msgstr ""
 msgid "Download to your computer"
 msgstr ""
 
-msgid "Duplicate"
-msgstr "تکثیرکردن"
-
 msgid "duplicate"
 msgstr "تکثیر"
+
+msgid "Duplicate"
+msgstr "تکثیرکردن"
 
 msgid "e ^"
 msgstr "e ^"
@@ -590,7 +605,13 @@ msgstr ""
 msgid "New"
 msgstr "جدید"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 msgid "New backdrop:"
+msgstr ""
+
+msgid "New costume from camera"
 msgstr ""
 
 # 91%
@@ -611,6 +632,9 @@ msgstr ""
 #, fuzzy
 msgid "New sound:"
 msgstr "صدای جدید"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr ""
@@ -660,6 +684,15 @@ msgstr ""
 msgid "Outdoors"
 msgstr ""
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "پیست کن"
 
@@ -702,18 +735,21 @@ msgstr "تصادفی"
 msgid "Record"
 msgstr "رکورد کن"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "رکورد1"
 
 msgid "Rectangle"
 msgstr ""
 
-msgid "redo"
-msgstr "دوباره انجام بده"
-
 # 75%
 #, fuzzy
 msgid "Redo"
+msgstr "دوباره انجام بده"
+
+msgid "redo"
 msgstr "دوباره انجام بده"
 
 msgid "Remix"
@@ -887,19 +923,22 @@ msgstr "Snare Drum"
 msgid "softer"
 msgstr "نرم تر"
 
+msgid "sound"
+msgstr "صدا"
+
 # 80%
 #, fuzzy
 msgid "Sound"
 msgstr "صدا"
 
-msgid "sound"
-msgstr "صدا"
-
 msgid "Sound Library"
 msgstr ""
 
+# 80%
+# 83%
+#, fuzzy
 msgid "Sounds"
-msgstr ""
+msgstr "صدا"
 
 msgid "space"
 msgstr "فاصله"
@@ -1040,7 +1079,19 @@ msgstr "بالا"
 msgid "up arrow"
 msgstr "کلید بالا"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
+msgstr ""
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
 msgstr ""
 
 msgid "Uploading image..."

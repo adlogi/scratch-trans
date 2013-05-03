@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:12+0200\n"
+"POT-Creation-Date: 2013-05-02 00:56+0200\n"
 "PO-Revision-Date: 2013-04-27 13:26+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -425,7 +425,9 @@ msgstr "activa el motor %n segons"
 msgid "turn video %m.videoState"
 msgstr "posa vídeo %m.videoState"
 
-msgid "user name"
+# 88%
+#, fuzzy
+msgid "username"
 msgstr "nom d'usuari"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
@@ -476,6 +478,9 @@ msgstr "posició x"
 
 msgid "y position"
 msgstr "posició y"
+
+#~ msgid "user name"
+#~ msgstr "nom d'usuari"
 
 #~ msgid "user id"
 #~ msgstr "identificació d'usuari"

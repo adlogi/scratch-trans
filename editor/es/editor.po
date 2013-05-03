@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"POT-Creation-Date: 2013-05-02 05:44+0200\n"
 "PO-Revision-Date: 2013-04-27 23:48-0300\n"
 "Last-Translator: Bastián Núñez <bastiannunez.b@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,11 @@ msgid "10 ^"
 msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-msgstr "<b>Información sobre variables de nube</b><br>&nbsp;<br>Ahora, sólo se pueden utilizar números<br>No se permiten las salas de chat; serán removidas<br>Para más información, <a href=\"/help/faq/#clouddata\" target=\"_blank\">revisa las preguntas sobre información de la nube!</a>"
+msgstr ""
+"<b>Información sobre variables de nube</b><br>&nbsp;<br>Ahora, sólo se "
+"pueden utilizar números<br>No se permiten las salas de chat; serán "
+"removidas<br>Para más información, <a href=\"/help/faq/#clouddata\" "
+"target=\"_blank\">revisa las preguntas sobre información de la nube!</a>"
 
 msgid "A connected"
 msgstr "A conectado"
@@ -49,11 +53,11 @@ msgstr "Añadir entrada numérica:"
 msgid "Add string input:"
 msgstr "Añadir entrada de texto:"
 
-msgid "all"
-msgstr "todos"
-
 msgid "All"
 msgstr "Todos"
+
+msgid "all"
+msgstr "todos"
 
 # Se refiere al estilo de rotación, que puede ser fijo, en dos direcciones o todas
 msgid "all around"
@@ -80,11 +84,11 @@ msgstr "B conectado"
 msgid "Back a layer"
 msgstr "Una capa hacia atrás"
 
-msgid "backdrop"
-msgstr "fondo"
-
 msgid "Backdrop"
 msgstr "Fondo"
+
+msgid "backdrop"
+msgstr "fondo"
 
 msgid "backdrop #"
 msgstr "# de fondo"
@@ -185,6 +189,18 @@ msgstr "Violonchelo"
 msgid "Choir"
 msgstr "Coro"
 
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
+
 msgid "Circle"
 msgstr "Círculo"
 
@@ -204,7 +220,9 @@ msgid "clear senders/receivers"
 msgstr "borrar emisores/receptores"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr "Haz clic en \"Guardar ahora\" para intentar de nuevo o en \"Descargar\" para guardar"
+msgstr ""
+"Haz clic en \"Guardar ahora\" para intentar de nuevo o en \"Descargar\" para "
+"guardar"
 
 msgid "Close"
 msgstr "Cerrar"
@@ -329,11 +347,11 @@ msgstr "Descargar"
 msgid "Download to your computer"
 msgstr "Descargar a tu computadora"
 
-msgid "Duplicate"
-msgstr "Duplicar"
-
 msgid "duplicate"
 msgstr "duplicar"
+
+msgid "Duplicate"
+msgstr "Duplicar"
 
 msgid "e ^"
 msgstr "e ^"
@@ -575,8 +593,14 @@ msgstr "Naturaleza"
 msgid "New"
 msgstr "Nuevo"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 msgid "New backdrop:"
 msgstr "Fondo nuevo:"
+
+msgid "New costume from camera"
+msgstr ""
 
 msgid "New costume:"
 msgstr "Disfraz nuevo:"
@@ -592,6 +616,9 @@ msgstr "Nombre nuevo"
 
 msgid "New sound:"
 msgstr "Sonido nuevo"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Nuevo objeto:"
@@ -641,6 +668,15 @@ msgstr "otros programas en el objeto"
 msgid "Outdoors"
 msgstr "Exteriores"
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "pegar"
 
@@ -683,17 +719,20 @@ msgstr "al azar"
 msgid "Record"
 msgstr "Grabar"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "grabación1"
 
 msgid "Rectangle"
 msgstr "Rectángulo"
 
-msgid "redo"
-msgstr "rehacer"
-
 msgid "Redo"
 msgstr "Rehacer"
+
+msgid "redo"
+msgstr "rehacer"
 
 msgid "Remix"
 msgstr "Reinventar"
@@ -868,11 +907,11 @@ msgstr "Tambor de caja"
 msgid "softer"
 msgstr "más suave"
 
-msgid "Sound"
-msgstr "Sonido"
-
 msgid "sound"
 msgstr "sonido"
+
+msgid "Sound"
+msgstr "Sonido"
 
 msgid "Sound Library"
 msgstr "Biblioteca de sonidos"
@@ -944,10 +983,15 @@ msgid "Things"
 msgstr "Cosas"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
-msgstr "Este proyecto puede detectar quién lo usa, usando el bloque \"nombre de usuario\". Para no revelar tu identidad, sal de tu cuenta antes de usar el proyecto."
+msgstr ""
+"Este proyecto puede detectar quién lo usa, usando el bloque \"nombre de "
+"usuario\". Para no revelar tu identidad, sal de tu cuenta antes de usar el "
+"proyecto."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
-msgstr "Este proyecto usa información de nube, una característica sólo para usuarios que hayan ingresado."
+msgstr ""
+"Este proyecto usa información de nube, una característica sólo para usuarios "
+"que hayan ingresado."
 
 msgid "this script"
 msgstr "este programa"
@@ -968,7 +1012,9 @@ msgid "Tips"
 msgstr "Sugerencias"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr "Para borrar una definición de bloque, primero borra todos los usos de éste bloque."
+msgstr ""
+"Para borrar una definición de bloque, primero borra todos los usos de éste "
+"bloque."
 
 msgid "Transportation"
 msgstr "Transportes"
@@ -1016,8 +1062,20 @@ msgstr "arriba"
 msgid "up arrow"
 msgstr "flecha arriba"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
 msgstr "Subir de tu computadora"
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
 
 msgid "Uploading image..."
 msgstr "Subiendo imagen..."
@@ -1087,5 +1145,6 @@ msgid "year"
 msgstr "año"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
-msgstr "No puedes editar información de la nube en el proyecto de otro.<br>Cualquier cambio hecho en el editor será temporal y no persistente."
-
+msgstr ""
+"No puedes editar información de la nube en el proyecto de otro.<br>Cualquier "
+"cambio hecho en el editor será temporal y no persistente."

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:17+0200\n"
-"PO-Revision-Date: 2013-04-27 20:29+0200\n"
+"POT-Creation-Date: 2013-05-02 05:47+0200\n"
+"PO-Revision-Date: 2013-05-02 20:04+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -56,11 +56,11 @@ msgstr "Rakamsal girdi ekle:"
 msgid "Add string input:"
 msgstr "Sözel girdi ekle:"
 
-msgid "all"
-msgstr "hepsini"
-
 msgid "All"
 msgstr "Tümü"
+
+msgid "all"
+msgstr "hepsini"
 
 msgid "all around"
 msgstr "her yöne dönebilsin"
@@ -87,13 +87,13 @@ msgid "Back a layer"
 msgstr "Bir katman alta"
 
 # 88%
-msgid "backdrop"
-msgstr "dekor"
-
-# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Dekor"
+
+# 88%
+msgid "backdrop"
+msgstr "dekor"
 
 msgid "backdrop #"
 msgstr "dekor #"
@@ -111,7 +111,6 @@ msgstr "dekor1"
 msgid "backdrops"
 msgstr "dekorlar"
 
-# 88%
 # 88%
 msgid "Backdrops"
 msgstr "Dekorlar"
@@ -196,6 +195,18 @@ msgstr "Viyolonsel"
 
 msgid "Choir"
 msgstr "Koro"
+
+msgid "Choose backdrop from library"
+msgstr "Dekoru kütüphaneden seç"
+
+msgid "Choose costume from library"
+msgstr "Kılığı kütüphaneden seç"
+
+msgid "Choose sound from library"
+msgstr "Sesi kütüphaneden seç"
+
+msgid "Choose sprite from library"
+msgstr "Kuklayı kütüphaneden seç"
 
 msgid "Circle"
 msgstr "Çember"
@@ -345,11 +356,11 @@ msgstr "İndir"
 msgid "Download to your computer"
 msgstr "Bilgisayarına indir"
 
-msgid "Duplicate"
-msgstr "Kopyasını çıkart"
-
 msgid "duplicate"
 msgstr "kopyasını çıkart"
+
+msgid "Duplicate"
+msgstr "Kopyasını çıkart"
 
 msgid "e ^"
 msgstr "e ^"
@@ -592,9 +603,15 @@ msgstr "Doğa"
 msgid "New"
 msgstr "Yeni"
 
+msgid "New backdrop from camera"
+msgstr "Kameradan yeni dekor oluştur"
+
 # 92%
 msgid "New backdrop:"
 msgstr "Yeni dekor:"
+
+msgid "New costume from camera"
+msgstr "Kameradan yeni kılık oluştur"
 
 # 91%
 msgid "New costume:"
@@ -612,6 +629,9 @@ msgstr "Yeni isim"
 # 90%
 msgid "New sound:"
 msgstr "Yeni ses:"
+
+msgid "New sprite from camera"
+msgstr "Kameradan yeni kukla oluştur"
 
 msgid "New sprite:"
 msgstr "Yeni kukla:"
@@ -661,6 +681,15 @@ msgstr "kuklanın diğer dizilerini"
 msgid "Outdoors"
 msgstr "Bina dışı"
 
+msgid "Paint new backdrop"
+msgstr "Yeni dekoru çiz"
+
+msgid "Paint new costume"
+msgstr "Yeni kılığı çiz"
+
+msgid "Paint new sprite"
+msgstr "Yeni kuklayı çiz"
+
 msgid "paste"
 msgstr "yapıştır"
 
@@ -704,18 +733,21 @@ msgstr "rastgele"
 msgid "Record"
 msgstr "Kaydet"
 
+msgid "Record new sound"
+msgstr "Yeni ses kaydet"
+
 msgid "recording1"
 msgstr "kayıt1"
 
 msgid "Rectangle"
 msgstr "Dikdörtgen"
 
-msgid "redo"
-msgstr "ileri al"
-
 # 75%
 msgid "Redo"
 msgstr "İleri al"
+
+msgid "redo"
+msgstr "ileri al"
 
 msgid "Remix"
 msgstr "Ekleme"
@@ -891,12 +923,12 @@ msgstr "Trampet"
 msgid "softer"
 msgstr "daha yumuşak"
 
+msgid "sound"
+msgstr "ses"
+
 # 80%
 msgid "Sound"
 msgstr "Ses"
-
-msgid "sound"
-msgstr "ses"
 
 msgid "Sound Library"
 msgstr "Ses Kütüphanesi"
@@ -921,7 +953,6 @@ msgstr "Kukla"
 msgid "Sprite Library"
 msgstr "Kukla Kütüphanesi"
 
-# 85%
 # 85%
 msgid "Sprite1"
 msgstr "Kukla1"
@@ -1051,8 +1082,20 @@ msgstr "yukarı"
 msgid "up arrow"
 msgstr "yukarı ok"
 
+msgid "Upload backdrop from file"
+msgstr "Dekoru bilgisayardan seç"
+
+msgid "Upload costume from file"
+msgstr "Kılığı bilgisayardan seç"
+
 msgid "Upload from your computer"
 msgstr "Bilgisayarından yükle"
+
+msgid "Upload sound from file"
+msgstr "Sesi bilgisayaran seç"
+
+msgid "Upload sprite from file"
+msgstr "Kuklayı bilgisayardan seç"
 
 msgid "Uploading image..."
 msgstr "Resmi yüklüyorum..."

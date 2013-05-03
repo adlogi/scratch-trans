@@ -6,29 +6,46 @@
         <source>10 ^</source>
         <target state="translated">10 ^</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="&lt;b&gt;Information about Cloud variables&lt;/b&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;Currently, only numbers are supported&lt;br&gt;Chat rooms are not allowed, and will be removed&lt;br&gt;For more info, &lt;a href= target=&gt;see the cloud data FAQ!&lt;/a&gt;">
+        <source>&lt;b&gt;Information about Cloud variables&lt;/b&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;Currently, only numbers are supported&lt;br&gt;Chat rooms are not allowed, and will be removed&lt;br&gt;For more info, &lt;a href= target=&gt;see the cloud data FAQ!&lt;/a&gt;</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="yoland">
+          <target>&lt;b&gt;警报云变量&lt;/b&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;目前，云变量只支持数字,聊天室不允许的，否则将被删除!!&lt;/a&gt;</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>&lt;b&gt;关于云变量&lt;/b&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;目前，云变量只支持数字,聊天室不允许的，否则将被删除!!&lt;/a&gt;</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="A connected">
         <source>A connected</source>
         <target state="translated">A已连接</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="a copy of the project file on your computer.">
+        <source>a copy of the project file on your computer.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="yoland">
+          <target>您的计算机上的.sb文件的副本。</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="abs">
         <source>abs</source>
         <target state="translated">绝对值</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Account settings">
+        <source>Account settings</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>帐户设置</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="acos">
         <source>acos</source>
         <target state="translated">acos</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Add a boolean input:">
-        <source>Add a boolean input:</source>
-        <target state="translated">输入一个布尔值：</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Add a number input:">
-        <source>Add a number input:</source>
-        <target state="translated">输入一个数字：</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Add a string input:">
-        <source>Add a string input:</source>
-        <target state="translated">输入一个字符串：</target>
+      <trans-unit xml:space="preserve" approved="no" id="Add boolean input:">
+        <source>Add boolean input:</source>
+        <target state="needs-translation">输入一个布尔值：</target>
+        <note from="translator">90%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="add comment">
         <source>add comment</source>
@@ -38,17 +55,43 @@
         <source>Add label text:</source>
         <target state="translated">添加文本标签：</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Add number input:">
+        <source>Add number input:</source>
+        <target state="needs-translation">输入一个数字：</target>
+        <note from="translator">89%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Add string input:">
+        <source>Add string input:</source>
+        <target state="needs-translation">输入一个字符串：</target>
+        <note from="translator">89%</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="all">
         <source>all</source>
         <target state="translated">全部</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="All">
+        <source>All</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="all around">
         <source>all around</source>
         <target state="translated">周围</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Animal">
+        <source>Animal</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Animals">
+        <source>Animals</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="asin">
         <source>asin</source>
         <target state="translated">asin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="assets loaded">
+        <source>assets loaded</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="atan">
         <source>atan</source>
@@ -58,18 +101,34 @@
         <source>B connected</source>
         <target state="translated">B已连接</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Back a layer (Shift: Send to back)">
-        <source>Back a layer (Shift: Send to back)</source>
-        <target state="translated">退后一层 (Shift键：置为底层)</target>
+      <trans-unit xml:space="preserve" approved="yes" id="Back a layer">
+        <source>Back a layer</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>后退一层</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop">
         <source>backdrop</source>
         <target state="translated">背景1</target>
         <note from="translator">88%</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Backdrop">
+        <source>Backdrop</source>
+        <target state="needs-translation">背景1</target>
+        <note from="translator">88%
+87%</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop #">
         <source>backdrop #</source>
         <target state="translated">背景编号</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Backdrop Library">
+        <source>Backdrop Library</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>背景库</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop name">
         <source>backdrop name</source>
@@ -83,6 +142,12 @@
         <source>backdrops</source>
         <target state="translated">背景</target>
         <note from="translator">88%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Backdrops">
+        <source>Backdrops</source>
+        <target state="needs-translation">背景</target>
+        <note from="translator">88%
+88%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Backpack">
         <source>Backpack</source>
@@ -100,6 +165,18 @@
         <source>Bassoon</source>
         <target state="translated">低音管</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bitmap">
+        <source>Bitmap</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bitmap Mode">
+        <source>Bitmap Mode</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Block help">
+        <source>Block help</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Bongo">
         <source>Bongo</source>
         <target state="translated">小手鼓</target>
@@ -108,13 +185,44 @@
         <source>brightness</source>
         <target state="translated">亮度</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bring to front">
+        <source>Bring to front</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>移到第一层</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Broadcast">
+        <source>Broadcast</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>广播</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brush">
+        <source>Brush</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>画笔</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="button pressed">
         <source>button pressed</source>
         <target state="translated">按下按钮</target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>按钮已按下</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="by">
         <source>by</source>
         <target state="translated">通过</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="bytes loaded">
+        <source>bytes loaded</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>字节已装载</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="C connected">
         <source>C connected</source>
@@ -128,9 +236,38 @@
         <source>Camera</source>
         <target state="translated">照相</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="can drag in player:">
+        <source>can drag in player:</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cancel">
+        <source>Cancel</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>取消</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cannot Delete">
         <source>Cannot Delete</source>
         <target state="translated">不能删除</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Can’t find network connection or reach server.">
+        <source>Can’t find network connection or reach server.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>没有网络连接或找不到服务器。</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Castle">
+        <source>Castle</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Category">
+        <source>Category</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>分类</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ceiling">
         <source>ceiling</source>
@@ -144,6 +281,20 @@
         <source>Choir</source>
         <target state="translated">人声合唱</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Circle">
+        <source>Circle</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>圆</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="City">
+        <source>City</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>城市</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Clarinet">
         <source>Clarinet</source>
         <target state="translated">单簧管</target>
@@ -152,33 +303,122 @@
         <source>Claves</source>
         <target state="translated">古钢琴</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear">
+        <source>Clear</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>清除</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clear senders/receivers">
         <source>clear senders/receivers</source>
         <target state="translated">清除发送器/接收器</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Click  to try again or  to save">
+        <source>Click  to try again or  to save</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>点击‘现在保存’重试或‘下载’来保存文件</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close">
+        <source>Close</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>关闭</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Closed Hi-Hat">
         <source>Closed Hi-Hat</source>
         <target state="translated">闭合双面钹</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cloud">
+        <source>Cloud</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>云</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cloud data">
+        <source>Cloud data</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>云数据</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color">
         <source>color</source>
         <target state="translated">颜色</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Color a shape">
+        <source>Color a shape</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>着色形状</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Conga">
         <source>Conga</source>
         <target state="translated">康加鼓</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Connecting to Cloud data server...">
+        <source>Connecting to Cloud data server...</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>正在连接云数据服务器...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Convert to bitmap">
+        <source>Convert to bitmap</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>转换为位图</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Convert to vector">
+        <source>Convert to vector</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>转换为矢量图</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Converting mp3...">
+        <source>Converting mp3...</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>正在转换mp3...</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="copy">
         <source>copy</source>
         <target state="translated">复制</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copying...">
+        <source>Copying...</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>正在复制...</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cos">
         <source>cos</source>
         <target state="translated">cos</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Costume">
+        <source>Costume</source>
+        <target state="needs-translation">造型1</target>
+        <note from="translator">75%</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="costume #">
         <source>costume #</source>
         <target state="translated">造型编号</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Costume Library">
+        <source>Costume Library</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>造型库</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="costume name">
         <source>costume name</source>
@@ -193,6 +433,25 @@
         <target state="translated">造型2</target>
         <note from="translator">87%</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Costumes">
+        <source>Costumes</source>
+        <target state="needs-translation">造型1</target>
+        <note from="translator">75%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Costumes &gt; 1">
+        <source>Costumes &gt; 1</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>角色数 &gt; 1</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Costumes:">
+        <source>Costumes:</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>角色:</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cowbell">
         <source>Cowbell</source>
         <target state="translated">牛铃</target>
@@ -200,6 +459,20 @@
       <trans-unit xml:space="preserve" approved="yes" id="Crash Cymbal">
         <source>Crash Cymbal</source>
         <target state="translated">击钹</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Creating...">
+        <source>Creating...</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>创建中...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Currently, only numbers can be stored in Cloud variables.">
+        <source>Currently, only numbers can be stored in Cloud variables.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>目前云变量只能保存数字类型的数据。</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cut">
         <source>cut</source>
@@ -217,13 +490,30 @@
         <source>day of week</source>
         <target state="translated">星期几</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Delete">
+        <source>Delete</source>
+        <target state="needs-translation">删除</target>
+        <note from="translator">83%</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete">
         <source>delete</source>
         <target state="translated">删除</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="delete variable">
+        <source>delete variable</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>删除变量</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="direction">
         <source>direction</source>
         <target state="translated">方向</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="direction:">
+        <source>direction:</source>
+        <target state="needs-translation">方向</target>
+        <note from="translator">90%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="don't rotate">
         <source>don't rotate</source>
@@ -237,6 +527,20 @@
         <source>down arrow</source>
         <target state="translated">下移键</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Download">
+        <source>Download</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>下载</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Download to your computer">
+        <source>Download to your computer</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>下载到您的计算机</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Duplicate">
         <source>Duplicate</source>
         <target state="translated">复制</target>
@@ -244,10 +548,6 @@
       <trans-unit xml:space="preserve" approved="yes" id="duplicate">
         <source>duplicate</source>
         <target state="translated">复制</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Duplicate (Shift: Multiple)">
-        <source>Duplicate (Shift: Multiple)</source>
-        <target state="translated">复制 (Shift键：多重复制)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="e ^">
         <source>e ^</source>
@@ -257,13 +557,20 @@
         <source>edge</source>
         <target state="translated">边缘</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="edit">
+        <source>edit</source>
+        <target state="translated">编辑</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Edit">
         <source>Edit</source>
         <target state="translated">编辑</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="edit">
-        <source>edit</source>
-        <target state="translated">编辑</target>
+      <trans-unit xml:space="preserve" approved="yes" id="Edit Block">
+        <source>Edit Block</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>编辑块</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Effects">
         <source>Effects</source>
@@ -277,13 +584,27 @@
         <source>Electric Piano</source>
         <target state="translated">电子琴</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Ellipse (Shift: Circle)">
-        <source>Ellipse (Shift: Circle)</source>
-        <target state="translated">椭圆形 (Shift键:圆形)</target>
+      <trans-unit xml:space="preserve" approved="yes" id="Electronic">
+        <source>Electronic</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ellipse">
+        <source>Ellipse</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>椭圆</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Erase">
         <source>Erase</source>
         <target state="translated">擦除</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Eraser width:">
+        <source>Eraser width:</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>橡皮擦宽度:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fade in">
         <source>fade in</source>
@@ -293,18 +614,42 @@
         <source>fade out</source>
         <target state="translated">淡出</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fantasy">
+        <source>Fantasy</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Features">
+        <source>Features</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="File">
         <source>File</source>
         <target state="translated">文件</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Fill">
-        <source>Fill</source>
-        <target state="translated">填充</target>
-        <note from="translator">75%</note>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill with color">
+        <source>Fill with color</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>填充颜色</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fisheye">
         <source>fisheye</source>
         <target state="translated">超广角镜头</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flip left-right">
+        <source>Flip left-right</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>左右翻转</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flip up-down">
+        <source>Flip up-down</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>上下翻转</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="floor">
         <source>floor</source>
@@ -314,17 +659,49 @@
         <source>Flute</source>
         <target state="translated">长笛</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Forward a layer (Shift: Bring to front)">
-        <source>Forward a layer (Shift: Bring to front)</source>
-        <target state="translated">向前一层 (Shift键：置于顶层)</target>
+      <trans-unit xml:space="preserve" approved="yes" id="Flying">
+        <source>Flying</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="For all sprites">
+        <source>For all sprites</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>适用于所有角色(精灵)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="For this sprite only">
+        <source>For this sprite only</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>仅适用于当前角色（精灵）</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Forward a layer">
+        <source>Forward a layer</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>向上移动一层</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ghost">
         <source>ghost</source>
         <target state="translated">虚像</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Go to My Stuff">
+        <source>Go to My Stuff</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>到‘我的作品’</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Group">
         <source>Group</source>
         <target state="translated">分组</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Grow">
+        <source>Grow</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Guiro">
         <source>Guiro</source>
@@ -338,13 +715,52 @@
         <source>Hand Clap</source>
         <target state="translated">拍掌</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide">
+        <source>hide</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>隐藏</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hour">
         <source>hour</source>
         <target state="translated">小时</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Human">
+        <source>Human</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>人类</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Import">
         <source>Import</source>
         <target state="translated">导入</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Importing sound...">
+        <source>Importing sound...</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>导入声音...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Indoors">
+        <source>Indoors</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Installing...">
+        <source>Installing...</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>正在安装...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Instruments">
+        <source>Instruments</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>乐器</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="last">
         <source>last</source>
@@ -370,21 +786,47 @@
         <source>light</source>
         <target state="translated">光线</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="limit reached">
+        <source>limit reached</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Line">
         <source>Line</source>
         <target state="translated">线条</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Line width:">
+        <source>Line width:</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>线宽</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="list">
+        <source>list</source>
+        <target state="needs-translation">末尾</target>
+        <note from="translator">75%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="List name">
+        <source>List name</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>链表名称</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ln">
         <source>ln</source>
         <target state="translated">ln</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Loading project...">
+        <source>Loading project...</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>正在装入项目...</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="log">
         <source>log</source>
         <target state="translated">log</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="login">
-        <source>login</source>
-        <target state="translated">登入</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="louder">
         <source>louder</source>
@@ -394,13 +836,59 @@
         <source>loudness</source>
         <target state="translated">音量</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make a Block">
+        <source>Make a Block</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>新建一个块</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make a List">
+        <source>Make a List</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>新建一个链表</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make a Variable">
+        <source>Make a Variable</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>新建一个变量</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Marimba">
         <source>Marimba</source>
         <target state="translated">立奏木琴</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Max">
+        <source>Max</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>最大</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="meow">
+        <source>meow</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Message Name">
+        <source>Message Name</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>消息名称</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="message1">
         <source>message1</source>
         <target state="translated">消息1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min">
+        <source>Min</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>最小</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="minute">
         <source>minute</source>
@@ -422,42 +910,116 @@
         <source>mouse-pointer</source>
         <target state="translated">鼠标指针</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Multiple">
+        <source>Multiple</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>乘</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Music and Dance">
+        <source>Music and Dance</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>音乐和舞蹈</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Music Box">
         <source>Music Box</source>
         <target state="translated">音乐盒</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Music Loops">
+        <source>Music Loops</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="My Stuff">
+        <source>My Stuff</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>我的作品</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="myself">
         <source>myself</source>
         <target state="translated">我自己</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="New backdrop">
-        <source>New backdrop</source>
-        <target state="translated">新增背景</target>
+      <trans-unit xml:space="preserve" approved="yes" id="Nature">
+        <source>Nature</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>自然</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="New costume">
-        <source>New costume</source>
-        <target state="translated">新增造型</target>
+      <trans-unit xml:space="preserve" approved="yes" id="New">
+        <source>New</source>
+        <target state="translated">新增</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="New backdrop:">
+        <source>New backdrop:</source>
+        <target state="needs-translation">新增背景</target>
+        <note from="translator">92%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="New costume:">
+        <source>New costume:</source>
+        <target state="needs-translation">新增造型</target>
+        <note from="translator">91%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New List">
+        <source>New List</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>新建一个链表</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="new message...">
         <source>new message...</source>
         <target state="translated">新消息...</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="New sound">
-        <source>New sound</source>
-        <target state="translated">新增声音</target>
+      <trans-unit xml:space="preserve" approved="yes" id="New name">
+        <source>New name</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>新名称</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="New sprite">
-        <source>New sprite</source>
-        <target state="translated">新增角色</target>
+      <trans-unit xml:space="preserve" approved="no" id="New sound:">
+        <source>New sound:</source>
+        <target state="needs-translation">新增声音</target>
         <note from="translator">90%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New sprite:">
+        <source>New sprite:</source>
+        <target state="translated">新增角色</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New Variable">
+        <source>New Variable</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>新建变量</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No motion blocks">
         <source>No motion blocks</source>
         <target state="translated">无动作模块</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Not saved; network or server problem.">
+        <source>Not saved; network or server problem.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>保存失败；可能是网络或服务器的问题。</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="of">
+        <source>of</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="off">
         <source>off</source>
         <target state="translated">关闭</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="OK">
+        <source>OK</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="on">
         <source>on</source>
@@ -475,18 +1037,32 @@
         <source>Open Hi-Hat</source>
         <target state="translated">开放双面钹</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Options">
+        <source>Options</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>选项</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Organ">
         <source>Organ</source>
         <target state="translated">风琴</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Other">
+        <source>Other</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>其它</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="other scripts in sprite">
         <source>other scripts in sprite</source>
         <target state="translated">角色的其他脚本</target>
         <note from="translator">82%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Paint">
-        <source>Paint</source>
-        <target state="translated">绘图</target>
+      <trans-unit xml:space="preserve" approved="yes" id="Outdoors">
+        <source>Outdoors</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="paste">
         <source>paste</source>
@@ -496,6 +1072,14 @@
         <source>Pencil</source>
         <target state="translated">铅笔</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="People">
+        <source>People</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Percussion">
+        <source>Percussion</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="photo1">
         <source>photo1</source>
         <target state="translated">照片1</target>
@@ -504,9 +1088,10 @@
         <source>Piano</source>
         <target state="translated">钢琴</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Pick up Color">
-        <source>Pick up Color</source>
-        <target state="translated">取色</target>
+      <trans-unit xml:space="preserve" approved="no" id="Pick up color">
+        <source>Pick up color</source>
+        <target state="needs-translation">取色</target>
+        <note from="translator">92%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pixelate">
         <source>pixelate</source>
@@ -520,6 +1105,20 @@
         <source>pop</source>
         <target state="translated">pop音效</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Profile">
+        <source>Profile</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>属性</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project not saved!">
+        <source>Project not saved!</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>项目未保存</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="random">
         <source>random</source>
         <target state="translated">随机</target>
@@ -532,17 +1131,53 @@
         <source>recording1</source>
         <target state="translated">录音1</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Rectangle (Shift: Square)">
-        <source>Rectangle (Shift: Square)</source>
-        <target state="translated">长方形 (Shift键：正方形)</target>
+      <trans-unit xml:space="preserve" approved="yes" id="Rectangle">
+        <source>Rectangle</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>矩形</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="redo">
         <source>redo</source>
         <target state="translated">重做</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Redo">
+        <source>Redo</source>
+        <target state="needs-translation">重做</target>
+        <note from="translator">75%</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Remix">
         <source>Remix</source>
         <target state="translated">混音</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Remixing...">
+        <source>Remixing...</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>混音中...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rename">
+        <source>Rename</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>重命名</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="rename variable">
+        <source>rename variable</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>重命名变量</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="requires sign in">
+        <source>requires sign in</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>需要先登录</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reshape">
         <source>Reshape</source>
@@ -568,6 +1203,14 @@
         <source>reverse</source>
         <target state="translated">反转</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Revert">
+        <source>Revert</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reverting...">
+        <source>Reverting...</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="right">
         <source>right</source>
         <target state="translated">向右</target>
@@ -576,17 +1219,77 @@
         <source>right arrow</source>
         <target state="translated">右移键</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="rotation style:">
+        <source>rotation style:</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Run without screen refresh">
+        <source>Run without screen refresh</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save">
+        <source>Save</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>保存</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save as a copy">
+        <source>Save as a copy</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>保存一个副本</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save now">
+        <source>Save now</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>现在保存</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="save to local file">
+        <source>save to local file</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>保存到本地文件</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Saved">
+        <source>Saved</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>已保存</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Saving changes...">
+        <source>Saving changes...</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Saving...">
+        <source>Saving...</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>正在保存...</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saxophone">
         <source>Saxophone</source>
         <target state="translated">萨克斯管</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Scratch Cat">
-        <source>Scratch Cat</source>
-        <target state="translated">Scratch猫</target>
+      <trans-unit xml:space="preserve" approved="no" id="Script">
+        <source>Script</source>
+        <target state="needs-translation">脚本</target>
+        <note from="translator">85%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Scripts">
         <source>Scripts</source>
         <target state="translated">脚本</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Scripts:">
+        <source>Scripts:</source>
+        <target state="needs-translation">脚本</target>
+        <note from="translator">87%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="second">
         <source>second</source>
@@ -604,6 +1307,19 @@
         <source>select all</source>
         <target state="translated">全选</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select and duplicate">
+        <source>Select and duplicate</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Send to back">
+        <source>Send to back</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Set costume center">
+        <source>Set costume center</source>
+        <target state="needs-translation">设置造型中心</target>
+        <note from="translator">88%</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Set Costume Center">
         <source>Set Costume Center</source>
         <target state="translated">设置造型中心</target>
@@ -616,6 +1332,14 @@
         <source>shared</source>
         <target state="translated">共享</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shift:">
+        <source>Shift:</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show">
+        <source>show</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show receivers">
         <source>show receivers</source>
         <target state="translated">显示接收器</target>
@@ -624,9 +1348,41 @@
         <source>show senders</source>
         <target state="translated">显示发送器</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show:">
+        <source>show:</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>显示</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shrink">
+        <source>Shrink</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Side Stick">
         <source>Side Stick</source>
         <target state="translated">鼓边敲击</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sign in">
+        <source>Sign in</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>登录</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sign in to save">
+        <source>Sign in to save</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>登录后再保存</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sign out">
+        <source>Sign out</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>退出</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="silence">
         <source>silence</source>
@@ -644,6 +1400,18 @@
         <source>slider</source>
         <target state="translated">滑杆</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slider Range">
+        <source>Slider Range</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Small stage layout">
+        <source>Small stage layout</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Smooth">
+        <source>Smooth</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Snare Drum">
         <source>Snare Drum</source>
         <target state="translated">小军鼓</target>
@@ -652,18 +1420,62 @@
         <source>softer</source>
         <target state="translated">轻一点</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Sound">
+        <source>Sound</source>
+        <target state="needs-translation">声音</target>
+        <note from="translator">80%</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sound">
         <source>sound</source>
         <target state="translated">声音</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sound Library">
+        <source>Sound Library</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>声音库</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sounds">
+        <source>Sounds</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>声音</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="space">
         <source>space</source>
         <target state="translated">空格键</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Space">
+        <source>Space</source>
+        <target state="needs-translation">空格键</target>
+        <note from="translator">80%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sports">
+        <source>Sports</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>运动</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sprite">
         <source>Sprite</source>
         <target state="translated">角色</target>
         <note from="translator">85%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sprite Library">
+        <source>Sprite Library</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>角色库</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Sprite1">
+        <source>Sprite1</source>
+        <target state="needs-translation">角色</target>
+        <note from="translator">85%
+85%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sprites">
         <source>Sprites</source>
@@ -673,17 +1485,32 @@
         <source>sqrt</source>
         <target state="translated">平方根</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Square">
+        <source>Square</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>正方形</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Stage">
         <source>Stage</source>
         <target state="translated">舞台</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Stage selected">
-        <source>Stage selected</source>
-        <target state="translated">选择的舞台</target>
+      <trans-unit xml:space="preserve" approved="no" id="Stage selected:">
+        <source>Stage selected:</source>
+        <target state="needs-translation">选择的舞台</target>
+        <note from="translator">93%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Steel Drum">
         <source>Steel Drum</source>
         <target state="translated">钢鼓</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stored on server">
+        <source>stored on server</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>已保存到服务器</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Synth Lead">
         <source>Synth Lead</source>
@@ -709,6 +1536,31 @@
         <source>that way</source>
         <target state="translated">逆时针</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Theme">
+        <source>Theme</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>主题</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Things">
+        <source>Things</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project.">
+        <source>This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>本项目能通过“用户名”块来检测谁在使用。如果您想隐藏您的个人消息，请退出登录后再使用本项目。</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This project uses Cloud data ‒ a feature that is available only to signed in users.">
+        <source>This project uses Cloud data ‒ a feature that is available only to signed in users.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>本项目使用云数据 - 云数据只有登录后的用户方可访问。</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="this script">
         <source>this script</source>
         <target state="translated">该脚本</target>
@@ -721,6 +1573,16 @@
         <source>this way</source>
         <target state="translated">顺时针</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Throw away all changes since opening this project?">
+        <source>Throw away all changes since opening this project?</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>丢弃本次项目打开后的所有变化？</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>丢弃本次项目打开后的所有改变？</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="timer">
         <source>timer</source>
         <target state="translated">计时器</target>
@@ -732,22 +1594,80 @@
       <trans-unit xml:space="preserve" approved="yes" id="To delete a block definition, first remove all uses of the block.">
         <source>To delete a block definition, first remove all uses of the block.</source>
         <target state="translated">要删除一个模块定义，首先要删除所有使用的模块。</target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>要先删除所有对该模块的使用，才能删除该模块定义。</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Transportation">
+        <source>Transportation</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Triangle">
         <source>Triangle</source>
         <target state="translated">三角铁</target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>三角形</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trombone">
         <source>Trombone</source>
         <target state="translated">长号</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Turbo mode">
+        <source>Turbo mode</source>
+        <target state="needs-translation">涡轮加速模式</target>
+        <note from="translator">90%</note>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>加速模式</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Turbo Mode">
         <source>Turbo Mode</source>
         <target state="translated">涡轮加速模式</target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>加速模式</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Type">
+        <source>Type</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>类型</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Undelete">
+        <source>Undelete</source>
+        <target state="needs-translation">删除</target>
+        <note from="translator">75%</note>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>恢复被删除的文件/数据</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Underwater">
+        <source>Underwater</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>水下</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Undo">
+        <source>Undo</source>
+        <target state="needs-translation">撤销</target>
+        <note from="translator">75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="undo">
         <source>undo</source>
         <target state="translated">撤销</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Undo Revert">
+        <source>Undo Revert</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>取消恢复</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>撤消恢复原状</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ungroup">
         <source>Ungroup</source>
@@ -765,6 +1685,77 @@
         <source>up arrow</source>
         <target state="translated">上移键</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upload from your computer">
+        <source>Upload from your computer</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>从您的计算机中上传</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>从您的计算机上传</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Uploading image...">
+        <source>Uploading image...</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>上传图像中...</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>正在上传图像...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Uploading sound...">
+        <source>Uploading sound...</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>上传声音中...</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>正在上传声音文件...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Uploading sprite...">
+        <source>Uploading sprite...</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>上传角色中...</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>正在上传精灵图片...</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="variable">
+        <source>variable</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>变量</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Variable name">
+        <source>Variable name</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>变量名称</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>变量名</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vector">
+        <source>Vector</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>矢量</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vector Mode">
+        <source>Vector Mode</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>矢量模式</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Vibraphone">
         <source>Vibraphone</source>
         <target state="translated">抖音琴</target>
@@ -777,9 +1768,35 @@
         <source>video motion</source>
         <target state="translated">视频运动</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Video on:">
+        <source>Video on:</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>视频开启:</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="eniac2008">
+          <target>开启视频:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vocals">
+        <source>Vocals</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="volume">
         <source>volume</source>
         <target state="translated">音量</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Walking">
+        <source>Walking</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Want to save? Click remix">
+        <source>Want to save? Click remix</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Which column do you want to import">
+        <source>Which column do you want to import</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="whirl">
         <source>whirl</source>
@@ -804,6 +1821,10 @@
       <trans-unit xml:space="preserve" approved="yes" id="year">
         <source>year</source>
         <target state="translated">年份</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="You cannot edit cloud data in someone else's project.&lt;br&gt;Any change that you make in the editor will be temporary and not persistent.">
+        <source>You cannot edit cloud data in someone else's project.&lt;br&gt;Any change that you make in the editor will be temporary and not persistent.</source>
+        <target state="translated"></target>
       </trans-unit>
     </body>
   </file>

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:17+0200\n"
+"POT-Creation-Date: 2013-05-02 05:47+0200\n"
 "PO-Revision-Date: 2013-04-29 22:16+0200\n"
 "Last-Translator: patarakin <patarakin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,11 +58,11 @@ msgstr "Ввести числовое значение"
 msgid "Add string input:"
 msgstr "Ввести строку"
 
-msgid "all"
-msgstr "все"
-
 msgid "All"
 msgstr "Все"
+
+msgid "all"
+msgstr "все"
 
 msgid "all around"
 msgstr "кругом"
@@ -89,13 +89,13 @@ msgid "Back a layer"
 msgstr "На слой вниз"
 
 # 88%
-msgid "backdrop"
-msgstr "фон"
-
-# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Фон"
+
+# 88%
+msgid "backdrop"
+msgstr "фон"
 
 msgid "backdrop #"
 msgstr "фон #"
@@ -113,7 +113,6 @@ msgstr "фон 1"
 msgid "backdrops"
 msgstr "фоны"
 
-# 88%
 # 88%
 msgid "Backdrops"
 msgstr "Фоны"
@@ -198,6 +197,18 @@ msgstr "Виолончель"
 
 msgid "Choir"
 msgstr "Хор"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 msgid "Circle"
 msgstr "Круг"
@@ -348,10 +359,10 @@ msgstr "Скачать"
 msgid "Download to your computer"
 msgstr "Скачать на свой компьютер"
 
-msgid "Duplicate"
+msgid "duplicate"
 msgstr "дублировать"
 
-msgid "duplicate"
+msgid "Duplicate"
 msgstr "дублировать"
 
 msgid "e ^"
@@ -595,9 +606,15 @@ msgstr "Природа"
 msgid "New"
 msgstr "Новый"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 # 92%
 msgid "New backdrop:"
 msgstr "Новый фон:"
+
+msgid "New costume from camera"
+msgstr ""
 
 # 91%
 msgid "New costume:"
@@ -615,6 +632,9 @@ msgstr "Новое имя"
 # 90%
 msgid "New sound:"
 msgstr "Новый звук:"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Новый объект"
@@ -664,6 +684,15 @@ msgstr "другие скрипты спрайта"
 msgid "Outdoors"
 msgstr "На открытом воздухе"
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "вставить"
 
@@ -707,18 +736,21 @@ msgstr "случайное"
 msgid "Record"
 msgstr "записать"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "запись1"
 
 msgid "Rectangle"
 msgstr "Прямоугольник"
 
-msgid "redo"
-msgstr "Отмена"
-
 # 75%
 msgid "Redo"
 msgstr "Отменить"
+
+msgid "redo"
+msgstr "Отмена"
 
 msgid "Remix"
 msgstr "Ремикс"
@@ -895,12 +927,12 @@ msgstr "Малый барабан"
 msgid "softer"
 msgstr "мягче"
 
+msgid "sound"
+msgstr "звук"
+
 # 80%
 msgid "Sound"
 msgstr "Звук"
-
-msgid "sound"
-msgstr "звук"
 
 msgid "Sound Library"
 msgstr "Библиотека звуков"
@@ -925,7 +957,6 @@ msgstr "Спрайт"
 msgid "Sprite Library"
 msgstr "Библиотека спрайтов"
 
-# 85%
 # 85%
 msgid "Sprite1"
 msgstr "Спрайт1"
@@ -1057,8 +1088,20 @@ msgstr "вверх"
 msgid "up arrow"
 msgstr "стрелка вверх"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
 msgstr "Загрузить с компьютера"
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
 
 msgid "Uploading image..."
 msgstr "Загрузка изображения..."

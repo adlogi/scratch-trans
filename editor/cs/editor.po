@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:14+0200\n"
-"PO-Revision-Date: 2013-04-29 20:01+0200\n"
+"POT-Creation-Date: 2013-05-02 05:43+0200\n"
+"PO-Revision-Date: 2013-05-02 15:22+0200\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -55,11 +55,11 @@ msgstr "Přidat číselný parametr:"
 msgid "Add string input:"
 msgstr "Přidat textový parametr:"
 
-msgid "all"
-msgstr "všechno"
-
 msgid "All"
 msgstr "Všechno"
+
+msgid "all"
+msgstr "všechno"
 
 msgid "all around"
 msgstr "dokola"
@@ -86,13 +86,13 @@ msgid "Back a layer"
 msgstr "Zpět o vrstvu"
 
 # 88%
-msgid "backdrop"
-msgstr "pozadí"
-
-# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Pozadí"
+
+# 88%
+msgid "backdrop"
+msgstr "pozadí"
 
 msgid "backdrop #"
 msgstr "číslo pozadí"
@@ -110,7 +110,6 @@ msgstr "pozadí1"
 msgid "backdrops"
 msgstr "pozadí"
 
-# 88%
 # 88%
 msgid "Backdrops"
 msgstr "Pozadí"
@@ -195,6 +194,18 @@ msgstr "Violoncello"
 
 msgid "Choir"
 msgstr "Sbor"
+
+msgid "Choose backdrop from library"
+msgstr "Vybrat pozadí z knihovny"
+
+msgid "Choose costume from library"
+msgstr "Vybrat kostým z knihovny"
+
+msgid "Choose sound from library"
+msgstr "Vybrat zvuk z knihovny"
+
+msgid "Choose sprite from library"
+msgstr "Vybrat postavu z knihovny"
 
 msgid "Circle"
 msgstr "Kružnice"
@@ -345,11 +356,11 @@ msgstr "Stáhnout"
 msgid "Download to your computer"
 msgstr "Stáhnout do tvého počítače"
 
-msgid "Duplicate"
-msgstr "Kopírovat"
-
 msgid "duplicate"
 msgstr "kopírovat"
+
+msgid "Duplicate"
+msgstr "Kopírovat"
 
 msgid "e ^"
 msgstr "exp"
@@ -593,9 +604,15 @@ msgstr "Příroda"
 msgid "New"
 msgstr "Nový"
 
+msgid "New backdrop from camera"
+msgstr "Nové pozadí z kamery"
+
 # 92%
 msgid "New backdrop:"
 msgstr "Nové pozadí:"
+
+msgid "New costume from camera"
+msgstr "Nový kostým z kamery"
 
 # 91%
 msgid "New costume:"
@@ -613,6 +630,9 @@ msgstr "Nový název"
 # 90%
 msgid "New sound:"
 msgstr "Nový zvuk:"
+
+msgid "New sprite from camera"
+msgstr "Nová postava z kamery"
 
 msgid "New sprite:"
 msgstr "Nová postava:"
@@ -663,6 +683,15 @@ msgstr "jiné scénáře postavy"
 msgid "Outdoors"
 msgstr "Vnější"
 
+msgid "Paint new backdrop"
+msgstr "Nakreslit nové pozadí"
+
+msgid "Paint new costume"
+msgstr "Nakreslit nový kostým"
+
+msgid "Paint new sprite"
+msgstr "Nakreslit novou postavu"
+
 msgid "paste"
 msgstr "vložit"
 
@@ -706,18 +735,21 @@ msgstr "náhodně"
 msgid "Record"
 msgstr "Nahrávat"
 
+msgid "Record new sound"
+msgstr "Nahrát nový zvuk"
+
 msgid "recording1"
 msgstr "záznam1"
 
 msgid "Rectangle"
 msgstr "Čtverec"
 
-msgid "redo"
-msgstr "znovu"
-
 # 75%
 msgid "Redo"
-msgstr "Znovuprovést"
+msgstr "Znovu provést"
+
+msgid "redo"
+msgstr "znovu"
 
 msgid "Remix"
 msgstr "Odvozené"
@@ -893,12 +925,12 @@ msgstr "Malý bubínek virbl"
 msgid "softer"
 msgstr "měkčeji"
 
+msgid "sound"
+msgstr "zvuk"
+
 # 80%
 msgid "Sound"
 msgstr "Zvuk"
-
-msgid "sound"
-msgstr "zvuk"
 
 msgid "Sound Library"
 msgstr "Knihovna zvuků"
@@ -923,7 +955,6 @@ msgstr "Postava"
 msgid "Sprite Library"
 msgstr "Knihovna postav"
 
-# 85%
 # 85%
 msgid "Sprite1"
 msgstr "Postava1"
@@ -1053,8 +1084,20 @@ msgstr "nahoru"
 msgid "up arrow"
 msgstr "šipka nahoru"
 
+msgid "Upload backdrop from file"
+msgstr "Nahrát pozadí ze souboru"
+
+msgid "Upload costume from file"
+msgstr "Nahrát kostým ze souboru"
+
 msgid "Upload from your computer"
 msgstr "Nahrát z tvého počitače"
+
+msgid "Upload sound from file"
+msgstr "Nahrát zvuk ze souboru"
+
+msgid "Upload sprite from file"
+msgstr "Nahrát postavu ze souboru"
 
 msgid "Uploading image..."
 msgstr "Nahrávám obraz..."

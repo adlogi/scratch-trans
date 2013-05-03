@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:14+0200\n"
-"PO-Revision-Date: 2013-04-26 00:06+0200\n"
+"POT-Creation-Date: 2013-05-02 05:43+0200\n"
+"PO-Revision-Date: 2013-05-02 15:27+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -56,10 +56,10 @@ msgstr "إضافة حقل رقمي:"
 msgid "Add string input:"
 msgstr "إضافة حقل نصي:"
 
-msgid "all"
+msgid "All"
 msgstr "الكل"
 
-msgid "All"
+msgid "all"
 msgstr "الكل"
 
 msgid "all around"
@@ -75,7 +75,7 @@ msgid "asin"
 msgstr "الجيب العكسي"
 
 msgid "assets loaded"
-msgstr ""
+msgstr "المكونات التي تم تحميلها"
 
 msgid "atan"
 msgstr "الظل العكسي"
@@ -88,13 +88,12 @@ msgid "Back a layer"
 msgstr "طبقة واحدة إلى الخلف"
 
 # 88%
-msgid "backdrop"
-msgstr "خلفية"
-
-# 88%
-#, fuzzy
 msgid "Backdrop"
 msgstr "الخلفيات"
+
+# 88%
+msgid "backdrop"
+msgstr "خلفية"
 
 msgid "backdrop #"
 msgstr "رقم الخلفية"
@@ -135,7 +134,7 @@ msgid "Bitmap Mode"
 msgstr "وضعية الصور النقطية"
 
 msgid "Block help"
-msgstr ""
+msgstr "مساعدة في اللبنات"
 
 msgid "Bongo"
 msgstr "بونغو"
@@ -199,6 +198,18 @@ msgstr "تشيلو"
 msgid "Choir"
 msgstr "Choir"
 
+msgid "Choose backdrop from library"
+msgstr "اختيار خلفية من المكتبة"
+
+msgid "Choose costume from library"
+msgstr "اختيار مظهر من المكتبة"
+
+msgid "Choose sound from library"
+msgstr "اختيار صوت من المكتبة"
+
+msgid "Choose sprite from library"
+msgstr "اختيار كائن من المكتبة"
+
 msgid "Circle"
 msgstr "دائرة"
 
@@ -230,13 +241,13 @@ msgid "Cloud"
 msgstr "السحابة"
 
 msgid "Cloud data"
-msgstr ""
+msgstr "البيانات السحابية"
 
 msgid "color"
 msgstr "اللون"
 
 msgid "Color a shape"
-msgstr ""
+msgstr "تلوين شكل"
 
 msgid "Conga"
 msgstr "Conga"
@@ -257,7 +268,7 @@ msgid "copy"
 msgstr "نسخ"
 
 msgid "Copying..."
-msgstr ""
+msgstr "النسخ جارٍ..."
 
 msgid "cos"
 msgstr "جيب التمام"
@@ -301,10 +312,10 @@ msgid "Crash Cymbal"
 msgstr "Crash Cymbal"
 
 msgid "Creating..."
-msgstr ""
+msgstr "الإنشاء جارٍ..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr ""
+msgstr "حالياً لا يمكن تخزين إلا الأعداد في المتغيرات السحابية."
 
 msgid "cut"
 msgstr "قص"
@@ -333,9 +344,8 @@ msgid "direction"
 msgstr "الاتجاه"
 
 # 90%
-#, fuzzy
 msgid "direction:"
-msgstr "الاتجاه"
+msgstr "الاتجاه:"
 
 msgid "don't rotate"
 msgstr "لا دوران"
@@ -347,15 +357,15 @@ msgid "down arrow"
 msgstr "السهم السفلي"
 
 msgid "Download"
-msgstr ""
+msgstr "تنزيل"
 
 msgid "Download to your computer"
 msgstr "تنزيل إلى حاسبك"
 
-msgid "Duplicate"
+msgid "duplicate"
 msgstr "مضاعفة"
 
-msgid "duplicate"
+msgid "Duplicate"
 msgstr "مضاعفة"
 
 msgid "e ^"
@@ -392,7 +402,7 @@ msgid "Erase"
 msgstr "مسح"
 
 msgid "Eraser width:"
-msgstr ""
+msgstr "عرض الممحاة:"
 
 msgid "fade in"
 msgstr "تلاشي في البداية"
@@ -410,16 +420,16 @@ msgid "File"
 msgstr "ملف"
 
 msgid "Fill with color"
-msgstr ""
+msgstr "الملء بلون"
 
 msgid "fisheye"
 msgstr "عين السمكة"
 
 msgid "Flip left-right"
-msgstr ""
+msgstr "قلب يمين - يسار"
 
 msgid "Flip up-down"
-msgstr ""
+msgstr "قلب رأساً على عقب"
 
 msgid "floor"
 msgstr "الجزء الصحيح"
@@ -443,13 +453,13 @@ msgid "ghost"
 msgstr "الشبح"
 
 msgid "Go to My Stuff"
-msgstr ""
+msgstr "الذهاب إلى أغراضي"
 
 msgid "Group"
 msgstr "تجميع"
 
 msgid "Grow"
-msgstr ""
+msgstr "تكبير"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -473,13 +483,13 @@ msgid "Import"
 msgstr "استيراد"
 
 msgid "Importing sound..."
-msgstr ""
+msgstr "استيراد الصوت جارٍ..."
 
 msgid "Indoors"
 msgstr "داخلي"
 
 msgid "Installing..."
-msgstr ""
+msgstr "التثبيت جارٍ..."
 
 msgid "Instruments"
 msgstr "آلات موسيقية"
@@ -509,7 +519,7 @@ msgid "Line"
 msgstr "خط مستقيم"
 
 msgid "Line width:"
-msgstr ""
+msgstr "عرض الخط:"
 
 # 75%
 msgid "list"
@@ -522,7 +532,7 @@ msgid "ln"
 msgstr "اللوغارتم الطبيعي"
 
 msgid "Loading project..."
-msgstr ""
+msgstr "تحميل المشروع ..."
 
 msgid "log"
 msgstr "اللوغارتم العشري"
@@ -546,7 +556,7 @@ msgid "Marimba"
 msgstr "Marimba"
 
 msgid "Max"
-msgstr ""
+msgstr "الأعلى"
 
 msgid "meow"
 msgstr "مياو"
@@ -558,7 +568,7 @@ msgid "message1"
 msgstr "الرسالة ١"
 
 msgid "Min"
-msgstr ""
+msgstr "الأدنى"
 
 msgid "minute"
 msgstr "الدقيقة"
@@ -576,7 +586,7 @@ msgid "mouse-pointer"
 msgstr "مؤشر الفأرة"
 
 msgid "Multiple"
-msgstr ""
+msgstr "متعدد"
 
 msgid "Music and Dance"
 msgstr "الموسيقى والرقص"
@@ -588,7 +598,7 @@ msgid "Music Loops"
 msgstr "حلقات موسيقية"
 
 msgid "My Stuff"
-msgstr ""
+msgstr "أغراضي"
 
 msgid "myself"
 msgstr "نفسي"
@@ -599,15 +609,19 @@ msgstr "طبيعة"
 msgid "New"
 msgstr "جديد"
 
+msgid "New backdrop from camera"
+msgstr "خلفية جديدة من آلة التصوير"
+
 # 92%
-#, fuzzy
 msgid "New backdrop:"
-msgstr "خلفية جديدة"
+msgstr "خلفية جديدة:"
+
+msgid "New costume from camera"
+msgstr "مظهر جديد من آلة التصوير"
 
 # 91%
-#, fuzzy
 msgid "New costume:"
-msgstr "مظهر جديد"
+msgstr "مظهر جديد:"
 
 msgid "New List"
 msgstr "لائحة جديدة"
@@ -619,9 +633,11 @@ msgid "New name"
 msgstr "الاسم الجديد"
 
 # 90%
-#, fuzzy
 msgid "New sound:"
-msgstr "صوت جديد"
+msgstr "صوت جديد:"
+
+msgid "New sprite from camera"
+msgstr "كائن جديد من آلة التصوير"
 
 msgid "New sprite:"
 msgstr "كائن جديد:"
@@ -633,10 +649,10 @@ msgid "No motion blocks"
 msgstr "لا توجد لبنات للحركة"
 
 msgid "Not saved; network or server problem."
-msgstr ""
+msgstr "لم يُحفظ المشروع. هناك مشكلة في الشبكة أو المخدّم."
 
 msgid "of"
-msgstr ""
+msgstr "من"
 
 msgid "off"
 msgstr "يتوقف"
@@ -671,6 +687,15 @@ msgstr "المقاطع الأخرى في الكائن"
 msgid "Outdoors"
 msgstr "خارجي"
 
+msgid "Paint new backdrop"
+msgstr "رسم خلفية جديدة"
+
+msgid "Paint new costume"
+msgstr "رسم مظهر جديد"
+
+msgid "Paint new sprite"
+msgstr "رسم كائن جديد"
+
 msgid "paste"
 msgstr "لصق"
 
@@ -690,9 +715,8 @@ msgid "Piano"
 msgstr "بيانو"
 
 # 92%
-#, fuzzy
 msgid "Pick up color"
-msgstr "اختر اللون"
+msgstr "اختيار لون"
 
 msgid "pixelate"
 msgstr "البكسلة"
@@ -704,10 +728,10 @@ msgid "pop"
 msgstr "بُب"
 
 msgid "Profile"
-msgstr ""
+msgstr "الملف الشخصي"
 
 msgid "Project not saved!"
-msgstr ""
+msgstr "لم يُحفظ المشروع!"
 
 msgid "random"
 msgstr "عشوائي"
@@ -715,25 +739,27 @@ msgstr "عشوائي"
 msgid "Record"
 msgstr "تسجيل"
 
+msgid "Record new sound"
+msgstr "تسجيل صوت جديد"
+
 msgid "recording1"
 msgstr "التسجيل ١"
 
 msgid "Rectangle"
 msgstr "مستطيل"
 
-msgid "redo"
+# 75%
+msgid "Redo"
 msgstr "إعادة"
 
-# 75%
-#, fuzzy
-msgid "Redo"
+msgid "redo"
 msgstr "إعادة"
 
 msgid "Remix"
 msgstr "مزج"
 
 msgid "Remixing..."
-msgstr ""
+msgstr "المزج جارٍ..."
 
 msgid "Rename"
 msgstr "إعادة تسمية"
@@ -742,7 +768,6 @@ msgid "rename variable"
 msgstr "إعادة تسمية المتغير"
 
 # 75%
-#, fuzzy
 msgid "requires sign in"
 msgstr "يتطلب تسجيل الدخول"
 
@@ -768,7 +793,7 @@ msgid "Revert"
 msgstr "التراجع إلى الحالة الأصلية"
 
 msgid "Reverting..."
-msgstr ""
+msgstr "العودة إلى الأصل جارية..."
 
 msgid "right"
 msgstr "اليمين"
@@ -777,9 +802,8 @@ msgid "right arrow"
 msgstr "السهم الأيمن"
 
 # 93%
-#, fuzzy
 msgid "rotation style:"
-msgstr "نمط الدوران"
+msgstr "نمط الدوران:"
 
 msgid "Run without screen refresh"
 msgstr "تشغيل دون تحديث الشاشة"
@@ -788,30 +812,28 @@ msgid "Save"
 msgstr "حفظ"
 
 msgid "Save as a copy"
-msgstr ""
+msgstr "حفظ كنسخة"
 
 msgid "Save now"
-msgstr ""
+msgstr "الحفظ الآن"
 
 msgid "save to local file"
 msgstr "حفظ إلى ملف على الحاسب"
 
 # 80%
-#, fuzzy
 msgid "Saved"
-msgstr "حفظ"
+msgstr "تم الحفظ"
 
 msgid "Saving changes..."
-msgstr ""
+msgstr "حفظ التغييرات جارٍ..."
 
 msgid "Saving..."
-msgstr ""
+msgstr "الحفظ جارٍ..."
 
 msgid "Saxophone"
 msgstr "ساكسفون"
 
 # 85%
-#, fuzzy
 msgid "Script"
 msgstr "المقاطع البرمجية"
 
@@ -819,9 +841,8 @@ msgid "Scripts"
 msgstr "المقاطع البرمجية"
 
 # 87%
-#, fuzzy
 msgid "Scripts:"
-msgstr "المقاطع البرمجية"
+msgstr "المقاطع البرمجية:"
 
 msgid "second"
 msgstr "الثانية"
@@ -836,13 +857,12 @@ msgid "select all"
 msgstr "تحديد الكل"
 
 msgid "Select and duplicate"
-msgstr ""
+msgstr "تحديد ومضاعفة"
 
 msgid "Send to back"
 msgstr "إرسال إلى الخلف"
 
 # 88%
-#, fuzzy
 msgid "Set costume center"
 msgstr "تحديد مركز المظهر"
 
@@ -856,9 +876,8 @@ msgid "shared"
 msgstr "تمت المشاركة"
 
 # 83%
-#, fuzzy
 msgid "Shift:"
-msgstr "مع مفتاح Shift"
+msgstr "مع مفتاح Shift:"
 
 msgid "show"
 msgstr "اظهر"
@@ -870,24 +889,23 @@ msgid "show senders"
 msgstr "أظهر المرسلات"
 
 # 80%
-#, fuzzy
 msgid "show:"
-msgstr "اظهر"
+msgstr "اظهار:"
 
 msgid "Shrink"
-msgstr ""
+msgstr "تصغير"
 
 msgid "Side Stick"
 msgstr "Side Stick"
 
 msgid "Sign in"
-msgstr ""
+msgstr "تسجيل الدخول"
 
 msgid "Sign in to save"
-msgstr ""
+msgstr "سجّل الدخول للحفظ"
 
 msgid "Sign out"
-msgstr ""
+msgstr "تسجيل الخروج"
 
 msgid "silence"
 msgstr "صمت"
@@ -902,7 +920,7 @@ msgid "slider"
 msgstr "المنزلقة"
 
 msgid "Slider Range"
-msgstr ""
+msgstr "نطاق المنزلقة"
 
 msgid "Small stage layout"
 msgstr "نمط المنصة الصغيرة"
@@ -916,13 +934,12 @@ msgstr "Snare Drum"
 msgid "softer"
 msgstr "أخفض"
 
-# 83%
-#, fuzzy
-msgid "Sound"
-msgstr "الأصوات"
-
 msgid "sound"
 msgstr "الصوت"
+
+# 83%
+msgid "Sound"
+msgstr "الأصوات"
 
 msgid "Sound Library"
 msgstr "مكتبة الأصوات"
@@ -964,9 +981,8 @@ msgid "Stage"
 msgstr "المنصة"
 
 # 93%
-#, fuzzy
 msgid "Stage selected:"
-msgstr "المنصة محددة"
+msgstr "المنصة محددة:"
 
 msgid "Steel Drum"
 msgstr "Steel Drum"
@@ -1000,9 +1016,12 @@ msgstr "الأشياء"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
+"يمكن لهذا المشروع معرفة من يستخدمه من خلال لبنة \"اسم المستخدم\". لإخفاء هويتك "
+"قم بتسجيل الخروج قبل استخدام المشروع."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
+"يستخدم هذا المشروع بيانات سحابية - وهي ميزة متوفرة فقط بعد تسجيل الدخول."
 
 msgid "this script"
 msgstr "المقطع البرمجي الحالي"
@@ -1014,7 +1033,7 @@ msgid "this way"
 msgstr "هذا الاتجاه"
 
 msgid "Throw away all changes since opening this project?"
-msgstr ""
+msgstr "أتريد التخلص من كافة التغييرات منذ فتح هذا المشروع؟"
 
 msgid "timer"
 msgstr "المؤقت"
@@ -1052,7 +1071,6 @@ msgid "Underwater"
 msgstr "تحت الماء"
 
 # 75%
-#, fuzzy
 msgid "Undo"
 msgstr "تراجع"
 
@@ -1060,7 +1078,7 @@ msgid "undo"
 msgstr "تراجع"
 
 msgid "Undo Revert"
-msgstr ""
+msgstr "التراجع عن مسح كافة التغييرات"
 
 msgid "Ungroup"
 msgstr "فك تجميع"
@@ -1074,17 +1092,29 @@ msgstr "الأعلى"
 msgid "up arrow"
 msgstr "السهم العلوي"
 
+msgid "Upload backdrop from file"
+msgstr "رفع خلفية من ملف"
+
+msgid "Upload costume from file"
+msgstr "رفع مظهر من ملف"
+
 msgid "Upload from your computer"
 msgstr "رفع مشروع من حاسبك"
 
+msgid "Upload sound from file"
+msgstr "رفع صوت من ملف"
+
+msgid "Upload sprite from file"
+msgstr "رفع كائن من ملف"
+
 msgid "Uploading image..."
-msgstr ""
+msgstr "رفع الصورة جارٍ..."
 
 msgid "Uploading sound..."
-msgstr ""
+msgstr "رفع الصوت جارٍ..."
 
 msgid "Uploading sprite..."
-msgstr ""
+msgstr "رفع الكائن جارٍ..."
 
 msgid "variable"
 msgstr "متغير"
@@ -1108,9 +1138,8 @@ msgid "video motion"
 msgstr "حركة الفيديو"
 
 # 88%
-#, fuzzy
 msgid "Video on:"
-msgstr "تشغيل الفيديو"
+msgstr "تشغيل الفيديو:"
 
 msgid "Vocals"
 msgstr "صوتيات"
@@ -1122,7 +1151,7 @@ msgid "Walking"
 msgstr "المشي"
 
 msgid "Want to save? Click remix"
-msgstr ""
+msgstr "أتريد حفظ هذا المشروع؟ انقر \"مزج\""
 
 msgid "Which column do you want to import"
 msgstr ""
@@ -1147,6 +1176,8 @@ msgstr "السنة"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
+"لا يمكنك تعديل البيانات السحابية في مشروع شخص آخر.<br>أي تعديلات تقوم بها في "
+"محرر المشاريع ستكون مؤقتة ولن تدوم."
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "إضافة حقل منطقي:"

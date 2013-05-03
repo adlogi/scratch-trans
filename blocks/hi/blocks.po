@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:12+0200\n"
-"PO-Revision-Date: 2012-11-29 11:01+0200\n"
+"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"PO-Revision-Date: 2013-05-03 12:20+0200\n"
 "Last-Translator: Alisha <panjwani.alisha@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi\n"
@@ -74,7 +74,7 @@ msgid "change pen shade by %n"
 msgstr "%n से पेन का शेड बदले"
 
 msgid "change pen size by %n"
-msgstr "पेन का अाकार %n से बदले"
+msgstr "%n से पेन का अाकार बदले"
 
 msgid "change size by %n"
 msgstr "%n से अाकार बदले"
@@ -98,7 +98,7 @@ msgid "clear graphic effects"
 msgstr "ग्राफ़िक प्रभाव मिटा दे"
 
 msgid "color %c is touching %c?"
-msgstr "अगर %c1 रंग %c2 को छू रहा है?"
+msgstr "अगर %c रंग %c को छू रहा है?"
 
 msgid "Control"
 msgstr "कंट्रोल"
@@ -116,13 +116,13 @@ msgid "Data"
 msgstr "डेटा"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "वर्ष २००० के बाद से दिन"
 
 msgid "define"
 msgstr "स्पष्ट अर्थ बताइए"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "%d.listDeleteItem का %m.list मिटा दे"
+msgstr "%m.list का %d.listDeleteItem मिटा दे"
 
 msgid "delete this clone"
 msgstr "इस क्लोन को डिलिट करें"
@@ -149,28 +149,28 @@ msgid "glide %n secs to x:%n y:%n"
 msgstr "%n सेकेंड से x:%n y:%n पर फिसले"
 
 msgid "go back %n layers"
-msgstr "%n परतों के पिछे जाए"
+msgstr "%n परतों के पिछे जाएँ"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse पर जाए"
+msgstr "%m.spriteOrMouse पर जाएँ"
 
 msgid "go to front"
-msgstr "अागे जाए"
+msgstr "अागे जाएँ"
 
 msgid "go to x:%n y:%n"
-msgstr "x:%n y:%n पर जाए"
+msgstr "x:%n y:%n पर जाएँ"
 
 msgid "hide"
 msgstr "छुपाएँ"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "%m.list सूची को छुपाएँ"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "%m.var चर(वेरिएबल) को छुपाएँ"
 
 msgid "if %b then"
-msgstr ""
+msgstr "अगर %b हो तो"
 
 msgid "if on edge, bounce"
 msgstr "अगर किनारे पर है तो उछाले"
@@ -209,7 +209,7 @@ msgid "Motion"
 msgstr "चाल"
 
 msgid "mouse down?"
-msgstr "माउस नीचे है?"
+msgstr "क्या माउस नीचे है?"
 
 msgid "mouse x"
 msgstr "माउस x"
@@ -246,15 +246,14 @@ msgid "pick random %n to %n"
 msgstr "%n से %n तक क्रमरहित चुनने"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "%d.drum ढोल %n ताल तक बजाए"
+msgstr "%d.drum ढोल %n ताल तक बजाएँ"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "%d.note नोट %n ताल तक बजाए"
+msgstr "नोट %d.note को %n ताल तक बजाएँ"
 
 msgid "play sound %m.sound"
-msgstr "%m.sound बजाए"
+msgstr "%m.sound ध्वनि बजाएँ"
 
 msgid "play sound %m.sound until done"
 msgstr "%m.sound पुरा होने तक बजाते रहे"
@@ -305,14 +304,12 @@ msgid "set instrument to %d.instrument"
 msgstr "%d.instrument पर साधन सेट करे"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "मोटर की %m.motorDirection दिशा"
+msgstr "मोटर की दिशा %m.motorDirection पर सेट करे"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "मोटर की %n शक्ति"
+msgstr "मोटर की शक्ति %n पर सेट करे"
 
 msgid "set pen color to %c"
 msgstr "पेन का रंग %c पर सेट करे"
@@ -327,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "पेन का अाकार %n पर सेट करे"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "रोटेशन की शैली %m.rotationStyle पर सेट करे"
 
 msgid "set size to %n%"
 msgstr "अाकार %n% पर सेट करे"
@@ -350,11 +347,13 @@ msgstr "%n पर y सेट करे"
 msgid "show"
 msgstr "दिखाएं"
 
+# 76%
 msgid "show list %m.list"
-msgstr ""
+msgstr "%m.list लिस्ट को छुपाएँ"
 
+# 80%
 msgid "show variable %m.var"
-msgstr ""
+msgstr "%m.var वेरिएबल को छुपाएँ"
 
 msgid "size"
 msgstr "आकार"
@@ -404,26 +403,25 @@ msgid "touching color %c?"
 msgstr "%c रंग को छू रहा है?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "@turnLeft %n डिग्री से घूम जाए"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "@turnRight %n डिग्री से घूम जाए"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "मोटर बंद करें"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "मोटर चालू करें"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "%n सेकंड के लिए मोटर चालू करे"
+msgstr "%n सेकंड के लिए मोटर चालू करें"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "वीडियो m.videoState% करें"
 
-msgid "user name"
+msgid "username"
 msgstr ""
 
 msgid "video %m.videoMotionType on %m.stageOrThis"

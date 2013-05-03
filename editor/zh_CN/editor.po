@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:18+0200\n"
-"PO-Revision-Date: 2013-02-19 08:15+0200\n"
-"Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
+"POT-Creation-Date: 2013-05-02 05:48+0200\n"
+"PO-Revision-Date: 2013-05-03 07:17+0200\n"
+"Last-Translator: Gang <eniac2008@163.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -55,11 +55,11 @@ msgstr "输入一个数字："
 msgid "Add string input:"
 msgstr "输入一个字符串："
 
-msgid "all"
-msgstr "全部"
-
 msgid "All"
 msgstr ""
+
+msgid "all"
+msgstr "全部"
 
 msgid "all around"
 msgstr "周围"
@@ -86,13 +86,13 @@ msgid "Back a layer"
 msgstr ""
 
 # 88%
-msgid "backdrop"
-msgstr "背景1"
-
-# 88%
 # 87%
 #, fuzzy
 msgid "Backdrop"
+msgstr "背景1"
+
+# 88%
+msgid "backdrop"
 msgstr "背景1"
 
 msgid "backdrop #"
@@ -111,7 +111,6 @@ msgstr "背景1"
 msgid "backdrops"
 msgstr "背景"
 
-# 88%
 # 88%
 #, fuzzy
 msgid "Backdrops"
@@ -197,6 +196,18 @@ msgstr "大提琴"
 
 msgid "Choir"
 msgstr "人声合唱"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 msgid "Circle"
 msgstr ""
@@ -290,8 +301,11 @@ msgstr "造型1"
 msgid "Costumes > 1"
 msgstr ""
 
+# 75%
+# 88%
+#, fuzzy
 msgid "Costumes:"
-msgstr ""
+msgstr "造型1"
 
 msgid "Cowbell"
 msgstr "牛铃"
@@ -351,10 +365,10 @@ msgstr ""
 msgid "Download to your computer"
 msgstr ""
 
-msgid "Duplicate"
+msgid "duplicate"
 msgstr "复制"
 
-msgid "duplicate"
+msgid "Duplicate"
 msgstr "复制"
 
 msgid "e ^"
@@ -599,10 +613,16 @@ msgstr ""
 msgid "New"
 msgstr "新增"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 # 92%
 #, fuzzy
 msgid "New backdrop:"
 msgstr "新增背景"
+
+msgid "New costume from camera"
+msgstr ""
 
 # 91%
 #, fuzzy
@@ -622,6 +642,9 @@ msgstr ""
 #, fuzzy
 msgid "New sound:"
 msgstr "新增声音"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "新增角色"
@@ -672,6 +695,15 @@ msgstr "角色的其他脚本"
 msgid "Outdoors"
 msgstr ""
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "粘贴"
 
@@ -716,18 +748,21 @@ msgstr "随机"
 msgid "Record"
 msgstr "录音"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "录音1"
 
 msgid "Rectangle"
 msgstr ""
 
-msgid "redo"
-msgstr "重做"
-
 # 75%
 #, fuzzy
 msgid "Redo"
+msgstr "重做"
+
+msgid "redo"
 msgstr "重做"
 
 msgid "Remix"
@@ -907,19 +942,22 @@ msgstr "小军鼓"
 msgid "softer"
 msgstr "轻一点"
 
+msgid "sound"
+msgstr "声音"
+
 # 80%
 #, fuzzy
 msgid "Sound"
 msgstr "声音"
 
-msgid "sound"
-msgstr "声音"
-
 msgid "Sound Library"
 msgstr ""
 
+# 80%
+# 83%
+#, fuzzy
 msgid "Sounds"
-msgstr ""
+msgstr "声音"
 
 msgid "space"
 msgstr "空格键"
@@ -939,7 +977,6 @@ msgstr "角色"
 msgid "Sprite Library"
 msgstr ""
 
-# 85%
 # 85%
 #, fuzzy
 msgid "Sprite1"
@@ -1070,7 +1107,19 @@ msgstr "向上"
 msgid "up arrow"
 msgstr "上移键"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
+msgstr ""
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
 msgstr ""
 
 msgid "Uploading image..."

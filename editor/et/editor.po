@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"POT-Creation-Date: 2013-05-02 05:44+0200\n"
 "PO-Revision-Date: 2013-04-28 13:51+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,11 +55,11 @@ msgstr "Lisa arvparameeter:"
 msgid "Add string input:"
 msgstr "Lisa tekstparameeter:"
 
-msgid "all"
-msgstr "kõik"
-
 msgid "All"
 msgstr "Koik"
+
+msgid "all"
+msgstr "kõik"
 
 msgid "all around"
 msgstr "kõikjal"
@@ -86,13 +86,13 @@ msgid "Back a layer"
 msgstr "Üks kiht tagasi"
 
 # 88%
-msgid "backdrop"
-msgstr "taust"
-
-# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Taust"
+
+# 88%
+msgid "backdrop"
+msgstr "taust"
 
 msgid "backdrop #"
 msgstr "taust #"
@@ -110,7 +110,6 @@ msgstr "taust1"
 msgid "backdrops"
 msgstr "taustad"
 
-# 88%
 # 88%
 msgid "Backdrops"
 msgstr "Taustad"
@@ -195,6 +194,18 @@ msgstr "Tšello"
 
 msgid "Choir"
 msgstr "Koor"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 msgid "Circle"
 msgstr "Ring"
@@ -345,11 +356,11 @@ msgstr "Lae alla"
 msgid "Download to your computer"
 msgstr "Lae alla oma arvutisse"
 
-msgid "Duplicate"
-msgstr "Paljunda"
-
 msgid "duplicate"
 msgstr "paljunda"
+
+msgid "Duplicate"
+msgstr "Paljunda"
 
 msgid "e ^"
 msgstr "e ^"
@@ -592,9 +603,15 @@ msgstr "Loodus"
 msgid "New"
 msgstr "Uus"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 # 92%
 msgid "New backdrop:"
 msgstr "Uus taust:"
+
+msgid "New costume from camera"
+msgstr ""
 
 # 91%
 msgid "New costume:"
@@ -612,6 +629,9 @@ msgstr "Uus nimi"
 # 90%
 msgid "New sound:"
 msgstr "Uus heli:"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Uus sprait:"
@@ -662,6 +682,15 @@ msgstr "teised spraidi skriptid"
 msgid "Outdoors"
 msgstr "Õues"
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "kleebi"
 
@@ -705,18 +734,21 @@ msgstr "juhuslik"
 msgid "Record"
 msgstr "Lindista"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "lindistus1"
 
 msgid "Rectangle"
 msgstr "Ristkülik"
 
-msgid "redo"
-msgstr "tee uuesti"
-
 # 75%
 msgid "Redo"
 msgstr "Tee uuesti"
+
+msgid "redo"
+msgstr "tee uuesti"
 
 msgid "Remix"
 msgstr "Remiksi"
@@ -892,12 +924,12 @@ msgstr "Snare Drum"
 msgid "softer"
 msgstr "pehmem"
 
+msgid "sound"
+msgstr "helind"
+
 # 80%
 msgid "Sound"
 msgstr "Helind"
-
-msgid "sound"
-msgstr "helind"
 
 msgid "Sound Library"
 msgstr "Helindite teek"
@@ -922,7 +954,6 @@ msgstr "Sprait"
 msgid "Sprite Library"
 msgstr "Spraitide teek"
 
-# 85%
 # 85%
 msgid "Sprite1"
 msgstr "Sprait1"
@@ -1052,8 +1083,20 @@ msgstr "üles"
 msgid "up arrow"
 msgstr "ülesnool"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
 msgstr "Lae ülesse oma arvutist"
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
 
 msgid "Uploading image..."
 msgstr "Pildi üleslaadimine..."

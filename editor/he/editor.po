@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:15+0200\n"
-"PO-Revision-Date: 2013-04-30 14:58+0200\n"
+"POT-Creation-Date: 2013-05-02 05:45+0200\n"
+"PO-Revision-Date: 2013-05-02 12:36+0200\n"
 "Last-Translator: MotiB <moti.ben.ari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: he\n"
@@ -18,18 +18,20 @@ msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
+"מידע בקשר למשתני ענן.כעת נתמכים רק משתנים. חדרי שיחות אינם מורשים ויימחקו. "
+"למידע נוסף, ראה: שאלות נפוצות."
 
 msgid "A connected"
 msgstr "A מחובר"
 
 msgid "a copy of the project file on your computer."
-msgstr ""
+msgstr "עותק של קובץ פרויקט על המחשב שלך/"
 
 msgid "abs"
 msgstr "abs"
 
 msgid "Account settings"
-msgstr ""
+msgstr "הגדרות של החשבון"
 
 msgid "acos"
 msgstr "acos"
@@ -55,26 +57,26 @@ msgstr "הוסף קלט מספר:"
 msgid "Add string input:"
 msgstr "הוסף קלט מחרוזת:"
 
+msgid "All"
+msgstr "הכל"
+
 msgid "all"
 msgstr "הכל"
 
-msgid "All"
-msgstr ""
-
 msgid "all around"
-msgstr "בכל רחבי"
+msgstr "מסביב"
 
 msgid "Animal"
-msgstr ""
+msgstr "חיות"
 
 msgid "Animals"
-msgstr ""
+msgstr "חיות"
 
 msgid "asin"
 msgstr "asin"
 
 msgid "assets loaded"
-msgstr ""
+msgstr "נכסים טעונים"
 
 msgid "atan"
 msgstr "atan"
@@ -83,21 +85,21 @@ msgid "B connected"
 msgstr "B מחובר"
 
 msgid "Back a layer"
-msgstr ""
-
-msgid "backdrop"
-msgstr "רקע"
+msgstr "שכבה לאחור"
 
 # 87%
 #, fuzzy
 msgid "Backdrop"
 msgstr "רקע"
 
+msgid "backdrop"
+msgstr "רקע"
+
 msgid "backdrop #"
 msgstr "רקע #"
 
 msgid "Backdrop Library"
-msgstr ""
+msgstr "ספריית רקעים"
 
 msgid "backdrop name"
 msgstr "שם הרקע"
@@ -126,13 +128,13 @@ msgid "Bassoon"
 msgstr "בסון"
 
 msgid "Bitmap"
-msgstr ""
+msgstr "מיפוי סיביות"
 
 msgid "Bitmap Mode"
-msgstr ""
+msgstr "מצב מיפוי סיביות"
 
 msgid "Block help"
-msgstr ""
+msgstr "עזרה ללבנים"
 
 msgid "Bongo"
 msgstr "בונגו"
@@ -141,22 +143,22 @@ msgid "brightness"
 msgstr "בהירות"
 
 msgid "Bring to front"
-msgstr ""
+msgstr "שכבה קדימה"
 
 msgid "Broadcast"
-msgstr ""
+msgstr "שדר"
 
 msgid "Brush"
-msgstr ""
+msgstr "מברשת"
 
 msgid "button pressed"
-msgstr "לחצן נלחץ"
+msgstr "כפתור נלחץ"
 
 msgid "by"
-msgstr "ע\"י"
+msgstr "על ידי"
 
 msgid "bytes loaded"
-msgstr ""
+msgstr "בתים טעונים"
 
 msgid "C connected"
 msgstr "C מחובר"
@@ -168,22 +170,22 @@ msgid "Camera"
 msgstr "מצלמה"
 
 msgid "can drag in player:"
-msgstr ""
+msgstr "ניתן לגרור שחקן:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ביטול"
 
 msgid "Cannot Delete"
 msgstr "לא ניתן למחוק"
 
 msgid "Can’t find network connection or reach server."
-msgstr ""
+msgstr "לא ניתן להתחבר לרשת או לשרת"
 
 msgid "Castle"
-msgstr ""
+msgstr "ארמון"
 
 msgid "Category"
-msgstr ""
+msgstr "קטגוריה"
 
 msgid "ceiling"
 msgstr "תקרה"
@@ -194,65 +196,77 @@ msgstr "צ'לו"
 msgid "Choir"
 msgstr "מקהלה"
 
-msgid "Circle"
+msgid "Choose backdrop from library"
 msgstr ""
 
-msgid "City"
+msgid "Choose costume from library"
 msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
+
+msgid "Circle"
+msgstr "עיגול"
+
+msgid "City"
+msgstr "עיר"
 
 msgid "Clarinet"
 msgstr "קלרינט"
 
 msgid "Claves"
-msgstr "מקל הקשה"
+msgstr "מקלות הקשה"
 
 msgid "Clear"
-msgstr ""
+msgstr "נקה"
 
 msgid "clear senders/receivers"
-msgstr "נקה מוסרים וקולטים"
+msgstr "נקה משדרים וקולטים"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr ""
+msgstr "לחץ ... לנסות שנית או ... כדי לשמור"
 
 msgid "Close"
-msgstr ""
+msgstr "סגור"
 
 msgid "Closed Hi-Hat"
 msgstr "סוגר מצילה"
 
 msgid "Cloud"
-msgstr ""
+msgstr "ענן"
 
 msgid "Cloud data"
-msgstr ""
+msgstr "נתוני ענן"
 
 msgid "color"
 msgstr "צבע"
 
 msgid "Color a shape"
-msgstr ""
+msgstr "צבע צורה"
 
 msgid "Conga"
 msgstr "קונגה"
 
 msgid "Connecting to Cloud data server..."
-msgstr ""
+msgstr "מתחבר לשרת הענן..."
 
 msgid "Convert to bitmap"
-msgstr ""
+msgstr "ממיר למיפוי סיביות"
 
 msgid "Convert to vector"
-msgstr ""
+msgstr "ממיר לווקטור"
 
 msgid "Converting mp3..."
-msgstr ""
+msgstr "ממיר ל-mp3..."
 
 msgid "copy"
 msgstr "העתק"
 
 msgid "Copying..."
-msgstr ""
+msgstr "מעתיק..."
 
 msgid "cos"
 msgstr "cos"
@@ -266,7 +280,7 @@ msgid "costume #"
 msgstr "תלבושת #"
 
 msgid "Costume Library"
-msgstr ""
+msgstr "ספריית תלבושות"
 
 msgid "costume name"
 msgstr "שם התלבושת"
@@ -278,15 +292,14 @@ msgid "costume2"
 msgstr "תלבושת2"
 
 # 75%
-#, fuzzy
 msgid "Costumes"
-msgstr "תלבושת1"
+msgstr "תלבושת"
 
 msgid "Costumes > 1"
-msgstr ""
+msgstr "תלבושות > 1"
 
 msgid "Costumes:"
-msgstr ""
+msgstr "תלבושות:"
 
 msgid "Cowbell"
 msgstr "פעמון פרה"
@@ -295,10 +308,10 @@ msgid "Crash Cymbal"
 msgstr "מצילה"
 
 msgid "Creating..."
-msgstr ""
+msgstr "מייצר..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr ""
+msgstr "כעת ניתן לשמור במשתני ענן רק מספרים."
 
 msgid "cut"
 msgstr "גזור"
@@ -321,7 +334,7 @@ msgid "delete"
 msgstr "מחק"
 
 msgid "delete variable"
-msgstr ""
+msgstr "מחק משתנה"
 
 msgid "direction"
 msgstr "כיוון"
@@ -345,10 +358,10 @@ msgstr "הורד"
 msgid "Download to your computer"
 msgstr "הורד למחשב שלך"
 
-msgid "Duplicate"
+msgid "duplicate"
 msgstr "שכפל"
 
-msgid "duplicate"
+msgid "Duplicate"
 msgstr "שכפל"
 
 msgid "e ^"
@@ -364,7 +377,7 @@ msgid "Edit"
 msgstr "ערוך"
 
 msgid "Edit Block"
-msgstr ""
+msgstr "ערוך לבנה"
 
 msgid "Effects"
 msgstr "אפקטים"
@@ -376,16 +389,16 @@ msgid "Electric Piano"
 msgstr "פסנתר חשמלי"
 
 msgid "Electronic"
-msgstr ""
+msgstr "אלקטרוני"
 
 msgid "Ellipse"
-msgstr ""
+msgstr "אליפסה"
 
 msgid "Erase"
 msgstr "מחק"
 
 msgid "Eraser width:"
-msgstr ""
+msgstr "רוחב מחק:"
 
 msgid "fade in"
 msgstr "הצג בהדרגתיות"
@@ -394,7 +407,7 @@ msgid "fade out"
 msgstr "הסתר בהדרגתיות"
 
 msgid "Fantasy"
-msgstr ""
+msgstr "פנטסיה"
 
 msgid "Features"
 msgstr ""
@@ -403,16 +416,16 @@ msgid "File"
 msgstr "קובץ"
 
 msgid "Fill with color"
-msgstr ""
+msgstr "מלא בצבע"
 
 msgid "fisheye"
 msgstr "עין דג"
 
 msgid "Flip left-right"
-msgstr ""
+msgstr "החלף ימין-שמאל"
 
 msgid "Flip up-down"
-msgstr ""
+msgstr "החלף מעלה-מטה"
 
 msgid "floor"
 msgstr "רצפה"
@@ -421,28 +434,28 @@ msgid "Flute"
 msgstr "חליל"
 
 msgid "Flying"
-msgstr ""
+msgstr "טיסה"
 
 msgid "For all sprites"
-msgstr ""
+msgstr "לכל הדמויות"
 
 msgid "For this sprite only"
-msgstr ""
+msgstr "רק לדמות זו"
 
 msgid "Forward a layer"
-msgstr ""
+msgstr "שכבה קדימה"
 
 msgid "ghost"
 msgstr "רוח רפאים"
 
 msgid "Go to My Stuff"
-msgstr ""
+msgstr "לך לחפצים שלי"
 
 msgid "Group"
 msgstr "קבץ"
 
 msgid "Grow"
-msgstr ""
+msgstr "גדל"
 
 msgid "Guiro"
 msgstr "גווירו"
@@ -454,28 +467,28 @@ msgid "Hand Clap"
 msgstr "מחיאת כף"
 
 msgid "hide"
-msgstr ""
+msgstr "הסתר"
 
 msgid "hour"
 msgstr "שעה"
 
 msgid "Human"
-msgstr ""
+msgstr "אנושי"
 
 msgid "Import"
 msgstr "יבא"
 
 msgid "Importing sound..."
-msgstr ""
+msgstr "מייבא צליל"
 
 msgid "Indoors"
-msgstr ""
+msgstr "בפנים"
 
 msgid "Installing..."
-msgstr ""
+msgstr "מתקין..."
 
 msgid "Instruments"
-msgstr ""
+msgstr "כלי נגינה"
 
 msgid "last"
 msgstr "אחרון"
@@ -496,13 +509,13 @@ msgid "light"
 msgstr "אור"
 
 msgid "limit reached"
-msgstr ""
+msgstr "הגעה לקצה"
 
 msgid "Line"
 msgstr "קו"
 
 msgid "Line width:"
-msgstr ""
+msgstr "רוחב קו:"
 
 # 75%
 #, fuzzy
@@ -510,13 +523,13 @@ msgid "list"
 msgstr "אחרון"
 
 msgid "List name"
-msgstr ""
+msgstr "שם רשימה"
 
 msgid "ln"
 msgstr "פנימה"
 
 msgid "Loading project..."
-msgstr ""
+msgstr "טוען פרויקט:"
 
 msgid "log"
 msgstr "log"
@@ -540,19 +553,19 @@ msgid "Marimba"
 msgstr "מרימבה"
 
 msgid "Max"
-msgstr ""
+msgstr "מקסימום"
 
 msgid "meow"
-msgstr ""
+msgstr "מיאו"
 
 msgid "Message Name"
-msgstr ""
+msgstr "שם מסר"
 
 msgid "message1"
 msgstr "מסר1"
 
 msgid "Min"
-msgstr ""
+msgstr "מינימום"
 
 msgid "minute"
 msgstr "דקה"
@@ -570,32 +583,38 @@ msgid "mouse-pointer"
 msgstr "סמן העכבר"
 
 msgid "Multiple"
-msgstr ""
+msgstr "מרובים"
 
 msgid "Music and Dance"
-msgstr ""
+msgstr "מוסיקה וריקוד"
 
 msgid "Music Box"
 msgstr "תיבת נגינה "
 
 msgid "Music Loops"
-msgstr ""
+msgstr "לולאות מוסיקה"
 
 msgid "My Stuff"
-msgstr ""
+msgstr "החפצים שלי"
 
 msgid "myself"
 msgstr "עצמי"
 
 msgid "Nature"
-msgstr ""
+msgstr "טבע"
 
 msgid "New"
 msgstr "חדש"
 
+msgid "New backdrop from camera"
+msgstr "רקע חדש ממצלמה"
+
 # 92%
 msgid "New backdrop:"
 msgstr "רקע חדש:"
+
+msgid "New costume from camera"
+msgstr "תלבושת חדשה ממצלמה"
 
 # 91%
 msgid "New costume:"
@@ -614,6 +633,9 @@ msgstr "שם חדש"
 msgid "New sound:"
 msgstr "צליל חדש:"
 
+msgid "New sprite from camera"
+msgstr "דמות חדשה ממצלמה"
+
 msgid "New sprite:"
 msgstr "דמות חדשה:"
 
@@ -624,16 +646,16 @@ msgid "No motion blocks"
 msgstr "ללא פקודות תנועה"
 
 msgid "Not saved; network or server problem."
-msgstr ""
+msgstr "לא נשמור, בעיה ברשת או בשרת"
 
 msgid "of"
-msgstr ""
+msgstr "של"
 
 msgid "off"
 msgstr "כבה"
 
 msgid "OK"
-msgstr ""
+msgstr "אישור"
 
 msgid "on"
 msgstr "הפעל"
@@ -648,19 +670,28 @@ msgid "Open Hi-Hat"
 msgstr "פתח מצילה"
 
 msgid "Options"
-msgstr ""
+msgstr "אפשרויות"
 
 msgid "Organ"
 msgstr "אורגן"
 
 msgid "Other"
-msgstr ""
+msgstr "אחר"
 
 msgid "other scripts in sprite"
 msgstr "תסריטים אחרים בדמות"
 
 msgid "Outdoors"
-msgstr ""
+msgstr "בחוץ"
+
+msgid "Paint new backdrop"
+msgstr "צייר רקע חדש"
+
+msgid "Paint new costume"
+msgstr "צייר תלבושת חדשה"
+
+msgid "Paint new sprite"
+msgstr "צייר דמות חדשה"
 
 msgid "paste"
 msgstr "הדבק"
@@ -669,10 +700,10 @@ msgid "Pencil"
 msgstr "עיפרון"
 
 msgid "People"
-msgstr ""
+msgstr "אנשים"
 
 msgid "Percussion"
-msgstr ""
+msgstr "כלי הקשה"
 
 msgid "photo1"
 msgstr "תמונה1"
@@ -695,10 +726,10 @@ msgid "pop"
 msgstr "פופ"
 
 msgid "Profile"
-msgstr ""
+msgstr "פרופיל"
 
 msgid "Project not saved!"
-msgstr ""
+msgstr "פרויקט לא נשמר!"
 
 msgid "random"
 msgstr "אקראי"
@@ -706,34 +737,37 @@ msgstr "אקראי"
 msgid "Record"
 msgstr "הקלט"
 
+msgid "Record new sound"
+msgstr "הקלט צליל חדש"
+
 msgid "recording1"
 msgstr "הקלטה1"
 
 msgid "Rectangle"
-msgstr ""
-
-msgid "redo"
-msgstr "בצע מחדש"
+msgstr "מלבן"
 
 # 75%
 #, fuzzy
 msgid "Redo"
 msgstr "בצע מחדש"
 
+msgid "redo"
+msgstr "בצע מחדש"
+
 msgid "Remix"
-msgstr "רמיקס"
+msgstr "ערבב"
 
 msgid "Remixing..."
-msgstr ""
+msgstr "מערבב..."
 
 msgid "Rename"
-msgstr ""
+msgstr "שנה שם"
 
 msgid "rename variable"
-msgstr ""
+msgstr "שנה שם משתנה"
 
 msgid "requires sign in"
-msgstr ""
+msgstr "חובה להתחבר"
 
 msgid "Reshape"
 msgstr "שנה צורה"
@@ -754,10 +788,10 @@ msgid "reverse"
 msgstr "הפוך"
 
 msgid "Revert"
-msgstr ""
+msgstr "חזור לגרסה קודמת"
 
 msgid "Reverting..."
-msgstr ""
+msgstr "חוזר לגרסה קודמת..."
 
 msgid "right"
 msgstr "ימינה"
@@ -766,10 +800,10 @@ msgid "right arrow"
 msgstr "חץ ימני"
 
 msgid "rotation style:"
-msgstr ""
+msgstr "סוג סיבוב:"
 
 msgid "Run without screen refresh"
-msgstr ""
+msgstr "הרץ ללא עדכון מסך"
 
 msgid "Save"
 msgstr "שמור"
@@ -809,7 +843,7 @@ msgid "Scripts:"
 msgstr "תסריטים"
 
 msgid "second"
-msgstr "שני"
+msgstr "שניה"
 
 msgid "See project page"
 msgstr "ראה דף פרויקט"
@@ -821,10 +855,10 @@ msgid "select all"
 msgstr "בחר הכל"
 
 msgid "Select and duplicate"
-msgstr ""
+msgstr "בחר ושכפל"
 
 msgid "Send to back"
-msgstr ""
+msgstr "העבר לאחור"
 
 # 88%
 #, fuzzy
@@ -841,34 +875,35 @@ msgid "shared"
 msgstr "משותף"
 
 msgid "Shift:"
-msgstr ""
+msgstr "הזז:"
 
 msgid "show"
-msgstr ""
+msgstr "הצג"
 
 msgid "show receivers"
 msgstr "הצג קולטים"
 
 msgid "show senders"
-msgstr "הצג מוסרים"
+msgstr "הצג משדרים"
 
+# 80%
 msgid "show:"
-msgstr ""
+msgstr "הצג:"
 
 msgid "Shrink"
-msgstr ""
+msgstr "קבץ"
 
 msgid "Side Stick"
 msgstr "Side Stick"
 
 msgid "Sign in"
-msgstr ""
+msgstr "התחבר"
 
 msgid "Sign in to save"
-msgstr ""
+msgstr "התחבר כדי לשמור"
 
 msgid "Sign out"
-msgstr ""
+msgstr "נתק"
 
 msgid "silence"
 msgstr "שקט"
@@ -883,13 +918,13 @@ msgid "slider"
 msgstr "גולל"
 
 msgid "Slider Range"
-msgstr ""
+msgstr "טווח הגולל"
 
 msgid "Small stage layout"
-msgstr ""
+msgstr "הצג במה קטנה"
 
 msgid "Smooth"
-msgstr ""
+msgstr "חלק"
 
 msgid "Snare Drum"
 msgstr "תוף סנר"
@@ -897,16 +932,16 @@ msgstr "תוף סנר"
 msgid "softer"
 msgstr "חלש יותר"
 
+msgid "sound"
+msgstr "צליל"
+
 # 80%
 #, fuzzy
 msgid "Sound"
 msgstr "צליל"
 
-msgid "sound"
-msgstr "צליל"
-
 msgid "Sound Library"
-msgstr ""
+msgstr "ספריית צלילים"
 
 msgid "Sounds"
 msgstr "צלילים"
@@ -920,20 +955,18 @@ msgid "Space"
 msgstr "מקש רווח"
 
 msgid "Sports"
-msgstr ""
+msgstr "ספורט"
 
 # 85%
 msgid "Sprite"
 msgstr "דמות"
 
 msgid "Sprite Library"
-msgstr ""
+msgstr "ספריית דמויות"
 
 # 85%
-# 85%
-#, fuzzy
 msgid "Sprite1"
-msgstr "דמות"
+msgstr "דמות1"
 
 msgid "Sprites"
 msgstr "דמויות"
@@ -942,21 +975,20 @@ msgid "sqrt"
 msgstr "sqrt"
 
 msgid "Square"
-msgstr ""
+msgstr "ריבוע"
 
 msgid "Stage"
 msgstr "במה"
 
 # 93%
-#, fuzzy
 msgid "Stage selected:"
-msgstr "נבחרה הבמה"
+msgstr "נבחרה הבמה:"
 
 msgid "Steel Drum"
 msgstr "תוף האנג"
 
 msgid "stored on server"
-msgstr ""
+msgstr "נשמר על השרת"
 
 msgid "Synth Lead"
 msgstr "סינתיסייזר"
@@ -977,16 +1009,16 @@ msgid "that way"
 msgstr "בדרך ההיא"
 
 msgid "Theme"
-msgstr ""
+msgstr "תמה"
 
 msgid "Things"
-msgstr ""
+msgstr "חפצים"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
-msgstr ""
+msgstr "הפרויקט מסוגל לזהות אותך. כדי להסתיר את זהותך, נתק"
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
-msgstr ""
+msgstr "פרויקט זה משתמש בנתונים על השרת - השימוש מותר רק למשתמשים שמתחברים"
 
 msgid "this script"
 msgstr "תסריט זה"
@@ -998,7 +1030,7 @@ msgid "this way"
 msgstr "בדרך הזאת"
 
 msgid "Throw away all changes since opening this project?"
-msgstr ""
+msgstr "מחק את כל השינוים מאז פתיחת הפרויקט?"
 
 msgid "timer"
 msgstr "שעון עצר"
@@ -1007,10 +1039,10 @@ msgid "Tips"
 msgstr "טיפים"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr "כדי למחוק את הגדרת הלבנה, הסר קודם את כל השימושים עם הלבנה."
+msgstr "כדי למחוק את הגדרת הלבנה, הסר קודם את כל השימושים של הלבנה."
 
 msgid "Transportation"
-msgstr ""
+msgstr "תחבורה"
 
 msgid "Triangle"
 msgstr "משולש"
@@ -1027,7 +1059,7 @@ msgid "Turbo Mode"
 msgstr "מצב טורבו"
 
 msgid "Type"
-msgstr ""
+msgstr "הקלד"
 
 # 75%
 #, fuzzy
@@ -1035,7 +1067,7 @@ msgid "Undelete"
 msgstr "מחק"
 
 msgid "Underwater"
-msgstr ""
+msgstr "תת-מימי"
 
 # 75%
 #, fuzzy
@@ -1046,7 +1078,7 @@ msgid "undo"
 msgstr "בטל"
 
 msgid "Undo Revert"
-msgstr ""
+msgstr "בטל שחזור גרסה קודמת"
 
 msgid "Ungroup"
 msgstr "בטל קיבוץ"
@@ -1060,17 +1092,29 @@ msgstr "מעלה"
 msgid "up arrow"
 msgstr "חץ מעלה"
 
+msgid "Upload backdrop from file"
+msgstr "העלה רקע מקובץ"
+
+msgid "Upload costume from file"
+msgstr "העלה תלבושת מקובץ"
+
 msgid "Upload from your computer"
 msgstr "העלה מהמחשב שלך"
 
+msgid "Upload sound from file"
+msgstr "העלה צליל מקובץ"
+
+msgid "Upload sprite from file"
+msgstr "העלה דמות מקובץ"
+
 msgid "Uploading image..."
-msgstr ""
+msgstr "מעלה תמונה..."
 
 msgid "Uploading sound..."
-msgstr ""
+msgstr "מעלה צליל..."
 
 msgid "Uploading sprite..."
-msgstr ""
+msgstr "מעלה דמות..."
 
 msgid "variable"
 msgstr "משתנה"
@@ -1079,10 +1123,10 @@ msgid "Variable name"
 msgstr "שם משתנה"
 
 msgid "Vector"
-msgstr ""
+msgstr "ווקטור"
 
 msgid "Vector Mode"
-msgstr ""
+msgstr "מצב ווקטור"
 
 msgid "Vibraphone"
 msgstr "ויברפון"
@@ -1094,22 +1138,22 @@ msgid "video motion"
 msgstr "תנועת וידאו"
 
 msgid "Video on:"
-msgstr ""
+msgstr "וודיאו דלוק:"
 
 msgid "Vocals"
-msgstr ""
+msgstr "קולות"
 
 msgid "volume"
 msgstr "עוצמה"
 
 msgid "Walking"
-msgstr ""
+msgstr "הולך ברגל"
 
 msgid "Want to save? Click remix"
-msgstr ""
+msgstr "רוצה לשמור? לחץ ערבב"
 
 msgid "Which column do you want to import"
-msgstr ""
+msgstr "איזה טור לייבא"
 
 msgid "whirl"
 msgstr "סחרור"
@@ -1130,7 +1174,7 @@ msgid "year"
 msgstr "שנה"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
-msgstr ""
+msgstr "אינך רשאי לערוך משתני ענן של מישהו אחר<br>כל שינוי יהיה זמני."
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "הוסף קלט בוליאני:"

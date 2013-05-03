@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:15+0200\n"
-"PO-Revision-Date: 2013-04-27 07:53+0200\n"
+"POT-Creation-Date: 2013-05-02 05:45+0200\n"
+"PO-Revision-Date: 2013-05-03 11:24+0200\n"
 "Last-Translator: Alisha <panjwani.alisha@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi\n"
@@ -18,120 +18,124 @@ msgstr "१०^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
+"<b>क्लाउड वेरिएबल के बारे में जानकारी</b><br>&nbsp;<br>वर्तमान में केवल "
+"संख्या का समर्थन किया जा रहा हैं<br>चैट रूम की अनुमति नहीं है, और वह निकाल "
+"दिया जाएगा<br>अधिक जानकारी के लिए, <a href= target=> क्लाउड डेटा के बारे में "
+"देखें !</a>"
 
 msgid "A connected"
-msgstr ""
+msgstr "A जुड़ा हुआ हैं"
 
 msgid "a copy of the project file on your computer."
-msgstr ""
+msgstr "आपके कंप्यूटर पर प्रोजेक्ट फाइल की एक एक कॉपी"
 
 msgid "abs"
-msgstr "पेट"
+msgstr ""
 
 msgid "Account settings"
-msgstr ""
+msgstr "खाते की सेटिंग्स"
 
 msgid "acos"
 msgstr ""
 
 msgid "Add boolean input:"
-msgstr ""
+msgstr "बूलियन इनपुट जोड़ें:"
 
 msgid "add comment"
-msgstr ""
+msgstr "कमेंट जोड़ें"
 
 msgid "Add label text:"
-msgstr ""
+msgstr "लेबल टेक्स्ट जोड़ें:"
 
 msgid "Add number input:"
-msgstr ""
+msgstr "संख्या इनपुट जोड़ें:"
 
 msgid "Add string input:"
-msgstr ""
+msgstr "स्ट्रिंग इनपुट जोड़ें:"
+
+msgid "All"
+msgstr "सब"
 
 msgid "all"
 msgstr "सब"
 
-msgid "All"
-msgstr ""
-
 msgid "all around"
-msgstr ""
+msgstr "सब ओर"
 
 msgid "Animal"
-msgstr ""
+msgstr "पशु"
 
 msgid "Animals"
-msgstr ""
+msgstr "पशु"
 
 msgid "asin"
-msgstr ""
+msgstr "असिन"
 
 msgid "assets loaded"
-msgstr ""
+msgstr "संपत्ति भरी हुई हैं"
 
 msgid "atan"
 msgstr ""
 
 msgid "B connected"
-msgstr ""
+msgstr "B जुड़ा हुआ हैं"
 
 msgid "Back a layer"
-msgstr ""
-
-msgid "backdrop"
-msgstr ""
+msgstr "एक परत पीछे"
 
 msgid "Backdrop"
-msgstr ""
+msgstr "पृष्ठभूमि"
+
+msgid "backdrop"
+msgstr "पृष्ठभूमि"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "पृष्ठभूमि #"
 
 msgid "Backdrop Library"
-msgstr ""
+msgstr "पृष्ठभूमि लाइब्रेरी"
 
 msgid "backdrop name"
-msgstr ""
+msgstr "पृष्ठभूमि का नाम"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "पृष्ठभूमि १"
 
 msgid "backdrops"
-msgstr ""
+msgstr "पृष्ठभूमि"
 
 msgid "Backdrops"
-msgstr ""
+msgstr "पृष्ठभूमि"
 
 msgid "Backpack"
-msgstr ""
+msgstr "बैग"
 
 msgid "Bass"
-msgstr ""
+msgstr "बास"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "बास ड्रम"
 
 msgid "Bassoon"
-msgstr ""
+msgstr "अलगोजा"
 
 msgid "Bitmap"
-msgstr ""
+msgstr "बिटमैप"
 
 msgid "Bitmap Mode"
-msgstr ""
+msgstr "बिटमैप मोड"
 
 msgid "Block help"
-msgstr ""
+msgstr "ब्लॉक हेल्प"
 
 msgid "Bongo"
-msgstr ""
+msgstr "बोंगो"
 
 msgid "brightness"
 msgstr "चमक"
 
 msgid "Bring to front"
-msgstr ""
+msgstr "सामने लाएँ"
 
 msgid "Broadcast"
 msgstr ""
@@ -182,6 +186,18 @@ msgid "Cello"
 msgstr ""
 
 msgid "Choir"
+msgstr ""
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
 msgstr ""
 
 msgid "Circle"
@@ -330,10 +346,10 @@ msgstr ""
 msgid "Download to your computer"
 msgstr ""
 
-msgid "Duplicate"
+msgid "duplicate"
 msgstr ""
 
-msgid "duplicate"
+msgid "Duplicate"
 msgstr ""
 
 msgid "e ^"
@@ -576,7 +592,13 @@ msgstr ""
 msgid "New"
 msgstr "Nouveau"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 msgid "New backdrop:"
+msgstr ""
+
+msgid "New costume from camera"
 msgstr ""
 
 msgid "New costume:"
@@ -592,6 +614,9 @@ msgid "New name"
 msgstr ""
 
 msgid "New sound:"
+msgstr ""
+
+msgid "New sprite from camera"
 msgstr ""
 
 msgid "New sprite:"
@@ -642,6 +667,15 @@ msgstr ""
 msgid "Outdoors"
 msgstr ""
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr ""
 
@@ -684,16 +718,19 @@ msgstr ""
 msgid "Record"
 msgstr ""
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr ""
 
 msgid "Rectangle"
 msgstr ""
 
-msgid "redo"
+msgid "Redo"
 msgstr ""
 
-msgid "Redo"
+msgid "redo"
 msgstr ""
 
 msgid "Remix"
@@ -867,10 +904,10 @@ msgstr ""
 msgid "softer"
 msgstr ""
 
-msgid "Sound"
+msgid "sound"
 msgstr ""
 
-msgid "sound"
+msgid "Sound"
 msgstr ""
 
 msgid "Sound Library"
@@ -1016,7 +1053,19 @@ msgstr ""
 msgid "up arrow"
 msgstr ""
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
+msgstr ""
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
 msgstr ""
 
 msgid "Uploading image..."

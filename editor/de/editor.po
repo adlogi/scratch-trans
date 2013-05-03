@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-05-03 01:20+0200\n"
+"PO-Revision-Date: 2013-05-03 01:40+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -56,9 +56,8 @@ msgstr "Zahlenfeld:"
 msgid "Add string input:"
 msgstr "Textfeld:"
 
-#, fuzzy
 msgid "All"
-msgstr "Alle"
+msgstr "Alles"
 
 msgid "all"
 msgstr "alles"
@@ -176,6 +175,7 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Kamera"
 
+#, fuzzy
 msgid "can drag in player:"
 msgstr "zum Ziehen in Abspieler:"
 
@@ -229,7 +229,7 @@ msgstr "Klarinette"
 msgid "Claves"
 msgstr "Claves"
 
-#, fuzzy
+# Paint-Tool
 msgid "Clear"
 msgstr "Löschen"
 
@@ -395,7 +395,6 @@ msgstr "E-Gitarre"
 msgid "Electric Piano"
 msgstr "E-Piano"
 
-#, fuzzy
 msgid "Electronic"
 msgstr "Elektronik"
 
@@ -419,7 +418,6 @@ msgstr "ausblenden"
 msgid "Fantasy"
 msgstr "Fantasie"
 
-#, fuzzy
 msgid "Features"
 msgstr "Eigenschaften"
 
@@ -571,7 +569,6 @@ msgstr "Max"
 msgid "meow"
 msgstr "Miau"
 
-#, fuzzy
 msgid "Message Name"
 msgstr "Nachrichtenname"
 
@@ -596,8 +593,9 @@ msgstr "Bewegung"
 msgid "mouse-pointer"
 msgstr "Mauszeiger"
 
+# Paint-Tool: Stempel
 msgid "Multiple"
-msgstr ""
+msgstr "mehrfach"
 
 msgid "Music and Dance"
 msgstr "Musik und Tanz"
@@ -1157,9 +1155,8 @@ msgstr "Vibraslap"
 msgid "video motion"
 msgstr "Videobewegung"
 
-#, fuzzy
 msgid "Video on:"
-msgstr "Video an:"
+msgstr "Video über:"
 
 msgid "Vocals"
 msgstr "Gesang"

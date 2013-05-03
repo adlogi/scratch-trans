@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:17+0200\n"
+"POT-Creation-Date: 2013-05-02 05:47+0200\n"
 "PO-Revision-Date: 2013-04-26 23:48+0200\n"
 "Last-Translator: Marek <faramir@mat.umk.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,12 +61,12 @@ msgstr "Dodaj parametr liczbowy:"
 msgid "Add string input:"
 msgstr "Dodaj parametr tekstowy:"
 
-msgid "all"
-msgstr "wszystko"
-
 #, fuzzy
 msgid "All"
 msgstr "Wszystko"
+
+msgid "all"
+msgstr "wszystko"
 
 msgid "all around"
 msgstr "wszystko dookoła"
@@ -97,13 +97,13 @@ msgid "Back a layer"
 msgstr "Warstwa do tyłu"
 
 # 88%
-msgid "backdrop"
-msgstr "tło"
-
-# 88%
 # 87%
 #, fuzzy
 msgid "Backdrop"
+msgstr "tło"
+
+# 88%
+msgid "backdrop"
 msgstr "tło"
 
 msgid "backdrop #"
@@ -123,7 +123,6 @@ msgstr "tło1"
 msgid "backdrops"
 msgstr "tła"
 
-# 88%
 # 88%
 #, fuzzy
 msgid "Backdrops"
@@ -219,6 +218,18 @@ msgstr "Wiolonczela"
 
 msgid "Choir"
 msgstr "Chór"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 #, fuzzy
 msgid "Circle"
@@ -386,11 +397,11 @@ msgstr "Pobierz"
 msgid "Download to your computer"
 msgstr "Pobierz na swój komputer"
 
-msgid "Duplicate"
-msgstr "Duplikuj"
-
 msgid "duplicate"
 msgstr "duplikuj"
+
+msgid "Duplicate"
+msgstr "Duplikuj"
 
 msgid "e ^"
 msgstr "e ^"
@@ -653,10 +664,16 @@ msgstr "Natura"
 msgid "New"
 msgstr "Nowy"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 # 92%
 #, fuzzy
 msgid "New backdrop:"
 msgstr "Nowe tło"
+
+msgid "New costume from camera"
+msgstr ""
 
 # 91%
 #, fuzzy
@@ -676,6 +693,9 @@ msgstr "Nowa nazwa"
 #, fuzzy
 msgid "New sound:"
 msgstr "Nowy dźwięk"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Nowy duszek:"
@@ -729,6 +749,15 @@ msgstr "inne skrypty duszka"
 msgid "Outdoors"
 msgstr "Na zewnątrz"
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "wklej"
 
@@ -774,18 +803,21 @@ msgstr "losowo"
 msgid "Record"
 msgstr "Nagraj"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "nagranie1"
 
 msgid "Rectangle"
 msgstr "Prostokąt"
 
-msgid "redo"
-msgstr "ponów"
-
 # 75%
 #, fuzzy
 msgid "Redo"
+msgstr "ponów"
+
+msgid "redo"
 msgstr "ponów"
 
 msgid "Remix"
@@ -976,12 +1008,12 @@ msgstr "Werbel"
 msgid "softer"
 msgstr "ciszej"
 
+msgid "sound"
+msgstr "dźwięk"
+
 # 80%
 #, fuzzy
 msgid "Sound"
-msgstr "dźwięk"
-
-msgid "sound"
 msgstr "dźwięk"
 
 msgid "Sound Library"
@@ -1010,7 +1042,6 @@ msgstr "Duszek"
 msgid "Sprite Library"
 msgstr "Biblioteka duszków"
 
-# 85%
 # 85%
 #, fuzzy
 msgid "Sprite1"
@@ -1152,9 +1183,21 @@ msgstr "góra"
 msgid "up arrow"
 msgstr "strzałka w górę"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 #, fuzzy
 msgid "Upload from your computer"
 msgstr "Wgraj ze swojego komputera"
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
 
 msgid "Uploading image..."
 msgstr "Wgrywanie zdjęcia..."

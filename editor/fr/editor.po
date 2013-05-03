@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:15+0200\n"
+"POT-Creation-Date: 2013-05-02 05:44+0200\n"
 "PO-Revision-Date: 2013-02-21 00:20+0200\n"
 "Last-Translator: Jean-Jacques <i.scool@mac.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,11 +55,11 @@ msgstr "Ajouter entrée nombre"
 msgid "Add string input:"
 msgstr "Ajouter chaîne de caractères"
 
-msgid "all"
-msgstr "tout"
-
 msgid "All"
 msgstr ""
+
+msgid "all"
+msgstr "tout"
 
 msgid "all around"
 msgstr "pivote librement"
@@ -85,12 +85,12 @@ msgstr "B connecté"
 msgid "Back a layer"
 msgstr ""
 
-msgid "backdrop"
-msgstr "arrière-plan"
-
 # 87%
 #, fuzzy
 msgid "Backdrop"
+msgstr "arrière-plan"
+
+msgid "backdrop"
 msgstr "arrière-plan"
 
 msgid "backdrop #"
@@ -109,7 +109,6 @@ msgstr "arrière-plan1"
 msgid "backdrops"
 msgstr "arrière-plans"
 
-# 88%
 # 88%
 #, fuzzy
 msgid "Backdrops"
@@ -195,6 +194,18 @@ msgstr "Violoncelle"
 
 msgid "Choir"
 msgstr "Choeur"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 msgid "Circle"
 msgstr ""
@@ -288,8 +299,11 @@ msgstr "costume1"
 msgid "Costumes > 1"
 msgstr ""
 
+# 75%
+# 88%
+#, fuzzy
 msgid "Costumes:"
-msgstr ""
+msgstr "costume1"
 
 msgid "Cowbell"
 msgstr "Cloches de vache"
@@ -349,11 +363,11 @@ msgstr ""
 msgid "Download to your computer"
 msgstr ""
 
-msgid "Duplicate"
-msgstr "Dupliquer"
-
 msgid "duplicate"
 msgstr "dupliquer"
+
+msgid "Duplicate"
+msgstr "Dupliquer"
 
 msgid "e ^"
 msgstr "e ^"
@@ -597,10 +611,16 @@ msgstr ""
 msgid "New"
 msgstr "Nouveau"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 # 92%
 #, fuzzy
 msgid "New backdrop:"
 msgstr "Nouvel arrière-plan"
+
+msgid "New costume from camera"
+msgstr ""
 
 # 91%
 #, fuzzy
@@ -620,6 +640,9 @@ msgstr ""
 #, fuzzy
 msgid "New sound:"
 msgstr "Nouveau son"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Nouveau lutin"
@@ -670,6 +693,15 @@ msgstr "autres scripts du lutin"
 msgid "Outdoors"
 msgstr ""
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "coller"
 
@@ -714,18 +746,21 @@ msgstr "au hasard"
 msgid "Record"
 msgstr "Enregistrer"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "enregistrement1"
 
 msgid "Rectangle"
 msgstr ""
 
-msgid "redo"
-msgstr "rétablir"
-
 # 75%
 #, fuzzy
 msgid "Redo"
+msgstr "rétablir"
+
+msgid "redo"
 msgstr "rétablir"
 
 msgid "Remix"
@@ -905,19 +940,22 @@ msgstr "Caisse claire"
 msgid "softer"
 msgstr "plus doux"
 
+msgid "sound"
+msgstr "son"
+
 # 80%
 #, fuzzy
 msgid "Sound"
 msgstr "son"
 
-msgid "sound"
-msgstr "son"
-
 msgid "Sound Library"
 msgstr ""
 
+# 80%
+# 83%
+#, fuzzy
 msgid "Sounds"
-msgstr ""
+msgstr "son"
 
 msgid "space"
 msgstr "espace"
@@ -937,7 +975,6 @@ msgstr "Lutin"
 msgid "Sprite Library"
 msgstr ""
 
-# 85%
 # 85%
 #, fuzzy
 msgid "Sprite1"
@@ -1068,7 +1105,19 @@ msgstr "haut"
 msgid "up arrow"
 msgstr "flèche haut"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
+msgstr ""
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
 msgstr ""
 
 msgid "Uploading image..."

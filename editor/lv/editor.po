@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:16+0200\n"
+"POT-Creation-Date: 2013-05-02 05:46+0200\n"
 "PO-Revision-Date: 2013-02-03 13:16+0200\n"
 "Last-Translator: craftsmaster <pornieks@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,11 +56,11 @@ msgstr "Pievienot skaitļa ievadi:"
 msgid "Add string input:"
 msgstr "Pievienot teksta virknes ievadi:"
 
-msgid "all"
-msgstr "viss"
-
 msgid "All"
 msgstr ""
+
+msgid "all"
+msgstr "viss"
 
 msgid "all around"
 msgstr "viss apkārtējais"
@@ -87,14 +87,14 @@ msgid "Back a layer"
 msgstr ""
 
 # 88%
-#, fuzzy
-msgid "backdrop"
-msgstr "fons1"
-
-# 88%
 # 87%
 #, fuzzy
 msgid "Backdrop"
+msgstr "fons1"
+
+# 88%
+#, fuzzy
+msgid "backdrop"
 msgstr "fons1"
 
 msgid "backdrop #"
@@ -114,7 +114,6 @@ msgstr "fons1"
 msgid "backdrops"
 msgstr "fons1"
 
-# 88%
 # 88%
 #, fuzzy
 msgid "Backdrops"
@@ -200,6 +199,18 @@ msgstr "Čells"
 
 msgid "Choir"
 msgstr "Koris"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 msgid "Circle"
 msgstr ""
@@ -292,8 +303,11 @@ msgstr "tērps1"
 msgid "Costumes > 1"
 msgstr ""
 
+# 75%
+# 88%
+#, fuzzy
 msgid "Costumes:"
-msgstr ""
+msgstr "tērps1"
 
 msgid "Cowbell"
 msgstr "Zvans"
@@ -353,11 +367,11 @@ msgstr ""
 msgid "Download to your computer"
 msgstr ""
 
-msgid "Duplicate"
-msgstr "Dublēt"
-
 msgid "duplicate"
 msgstr "dublēt"
+
+msgid "Duplicate"
+msgstr "Dublēt"
 
 msgid "e ^"
 msgstr "e ^"
@@ -601,10 +615,16 @@ msgstr ""
 msgid "New"
 msgstr "Jauns"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 # 92%
 #, fuzzy
 msgid "New backdrop:"
 msgstr "Jauns fons"
+
+msgid "New costume from camera"
+msgstr ""
 
 # 91%
 #, fuzzy
@@ -624,6 +644,9 @@ msgstr ""
 #, fuzzy
 msgid "New sound:"
 msgstr "Jauna skaņa"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Jauns gariņš:"
@@ -673,6 +696,15 @@ msgstr "citi skripti gariņā"
 msgid "Outdoors"
 msgstr ""
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "ielīmēt"
 
@@ -715,18 +747,21 @@ msgstr "nejauši"
 msgid "Record"
 msgstr "Ieraksts"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "ieraksts1"
 
 msgid "Rectangle"
 msgstr ""
 
-msgid "redo"
-msgstr "atcelt atsaukšanu"
-
 # 75%
 #, fuzzy
 msgid "Redo"
+msgstr "atcelt atsaukšanu"
+
+msgid "redo"
 msgstr "atcelt atsaukšanu"
 
 msgid "Remix"
@@ -900,19 +935,22 @@ msgstr "Snare bungas"
 msgid "softer"
 msgstr "mīkstāk"
 
+msgid "sound"
+msgstr "skaņa"
+
 # 80%
 #, fuzzy
 msgid "Sound"
 msgstr "skaņa"
 
-msgid "sound"
-msgstr "skaņa"
-
 msgid "Sound Library"
 msgstr ""
 
+# 80%
+# 83%
+#, fuzzy
 msgid "Sounds"
-msgstr ""
+msgstr "skaņa"
 
 msgid "space"
 msgstr "atstarpe"
@@ -933,7 +971,6 @@ msgstr "Gariņi"
 msgid "Sprite Library"
 msgstr ""
 
-# 85%
 # 85%
 #, fuzzy
 msgid "Sprite1"
@@ -1061,7 +1098,19 @@ msgstr "uz augšu"
 msgid "up arrow"
 msgstr "bulta uz augšu"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
+msgstr ""
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
 msgstr ""
 
 msgid "Uploading image..."

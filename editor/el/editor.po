@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:14+0200\n"
-"PO-Revision-Date: 2013-04-26 20:51+0200\n"
+"POT-Creation-Date: 2013-05-02 05:44+0200\n"
+"PO-Revision-Date: 2013-05-02 13:33+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -54,11 +54,11 @@ msgstr "Εισάγετε ένα αριθμητικό δεδομένο:"
 msgid "Add string input:"
 msgstr "Εισάγετε ένα δεδομένο σειράς λέξεων:"
 
-msgid "all"
-msgstr "όλα"
-
 msgid "All"
 msgstr "Όλα"
+
+msgid "all"
+msgstr "όλα"
 
 msgid "all around"
 msgstr "ελεύθερο"
@@ -84,12 +84,12 @@ msgstr "το B είναι συνδεδεμένο"
 msgid "Back a layer"
 msgstr "Πίσω κατά 1 στρώση"
 
+msgid "Backdrop"
+msgstr "Υπόβαθρο"
+
 # 88%
 msgid "backdrop"
 msgstr "υπόβαθρο"
-
-msgid "Backdrop"
-msgstr "Υπόβαθρο"
 
 msgid "backdrop #"
 msgstr "υπόβαθρο #"
@@ -190,6 +190,18 @@ msgstr "Τσέλο"
 
 msgid "Choir"
 msgstr "Χορωδία "
+
+msgid "Choose backdrop from library"
+msgstr "Διαλέξτε ένα υπόβαθρο από την βιβλιοθήκη"
+
+msgid "Choose costume from library"
+msgstr "Διαλέξτε μια ενδυμασία από την βιβλιοθήκη"
+
+msgid "Choose sound from library"
+msgstr "Διαλέξτε έναν ήχο από την βιβλιοθήκη"
+
+msgid "Choose sprite from library"
+msgstr "Διαλέξτε μια μορφή από την βιβλιοθήκη"
 
 msgid "Circle"
 msgstr "Κύκλος"
@@ -336,11 +348,11 @@ msgstr "Κατέβασμα"
 msgid "Download to your computer"
 msgstr "Κατέβασμα έργου στον υπολογιστή σας"
 
-msgid "Duplicate"
-msgstr "Διπλασιασμός "
-
 msgid "duplicate"
 msgstr "Διπλασιασμός"
+
+msgid "Duplicate"
+msgstr "Διπλασιασμός "
 
 msgid "e ^"
 msgstr "e ^"
@@ -487,7 +499,7 @@ msgid "light"
 msgstr "φως"
 
 msgid "limit reached"
-msgstr ""
+msgstr "Το όριο έχει φταστεί"
 
 msgid "Line"
 msgstr "Γραμμή"
@@ -540,7 +552,6 @@ msgstr "Όνομα μηνύματος"
 msgid "message1"
 msgstr "μήνυμα1"
 
-#, fuzzy
 msgid "Min"
 msgstr "Ελάχιστο"
 
@@ -560,7 +571,7 @@ msgid "mouse-pointer"
 msgstr "δείκτη του ποντικιού"
 
 msgid "Multiple"
-msgstr ""
+msgstr "Πολλαπλάσιο"
 
 msgid "Music and Dance"
 msgstr "Μουσική και Χορός"
@@ -583,8 +594,14 @@ msgstr "Φύση"
 msgid "New"
 msgstr "Νέο"
 
+msgid "New backdrop from camera"
+msgstr "Νέο υπόβαθρο τραβηγμένο από την κάμερα"
+
 msgid "New backdrop:"
 msgstr "Νέο υπόβαθρο:"
+
+msgid "New costume from camera"
+msgstr "Νέα ενδυμασία τραβηγμένη από την κάμερα"
 
 msgid "New costume:"
 msgstr "Νέα ενδυμασία:"
@@ -601,6 +618,9 @@ msgstr "Νέο Όνομα"
 msgid "New sound:"
 msgstr "Νέος Ήχος:"
 
+msgid "New sprite from camera"
+msgstr "Νέα μορφή τραβηγμένη από την κάμερα"
+
 msgid "New sprite:"
 msgstr "Νέα μορφή:"
 
@@ -614,7 +634,7 @@ msgid "Not saved; network or server problem."
 msgstr "Δεν έγινε αποθήκευση, πρόβλημα στο δίκτυο ή στο σέρβερ."
 
 msgid "of"
-msgstr ""
+msgstr "από"
 
 msgid "off"
 msgstr "Κλειστό"
@@ -648,6 +668,15 @@ msgstr "Άλλα σενάρια στη μορφή αυτή"
 
 msgid "Outdoors"
 msgstr "Εξωτερικοί Χώροι"
+
+msgid "Paint new backdrop"
+msgstr "Δημιουργία νέου υποβάθρου"
+
+msgid "Paint new costume"
+msgstr "Δημιουργία νέας ενδυμασίας"
+
+msgid "Paint new sprite"
+msgstr "Δημιουργία νέας μορφής"
 
 msgid "paste"
 msgstr "Επικόλληση"
@@ -691,16 +720,19 @@ msgstr "τυχαία επιλογή"
 msgid "Record"
 msgstr "Ηχογράφηση"
 
+msgid "Record new sound"
+msgstr "Ηχογράφηση νέου ήχου"
+
 msgid "recording1"
 msgstr "ηχογράφηση1"
 
 msgid "Rectangle"
 msgstr "Ορθογώνιο"
 
-msgid "redo"
+msgid "Redo"
 msgstr "Ακύρωση αναίρεσης"
 
-msgid "Redo"
+msgid "redo"
 msgstr "Ακύρωση αναίρεσης"
 
 msgid "Remix"
@@ -734,7 +766,7 @@ msgid "resistance-D"
 msgstr "Αντίσταση-D"
 
 msgid "reverse"
-msgstr "Αντιστοφή"
+msgstr "Αντιστροφή"
 
 msgid "Revert"
 msgstr "Επαναφορά"
@@ -866,7 +898,7 @@ msgid "Small stage layout"
 msgstr "Πλάνο Μικρής Σκηνής"
 
 msgid "Smooth"
-msgstr ""
+msgstr "Εξομάλυνση"
 
 msgid "Snare Drum"
 msgstr "Ταμπούρο"
@@ -874,10 +906,10 @@ msgstr "Ταμπούρο"
 msgid "softer"
 msgstr "Μείωση της έντασης"
 
-msgid "Sound"
+msgid "sound"
 msgstr "Ήχος"
 
-msgid "sound"
+msgid "Sound"
 msgstr "Ήχος"
 
 msgid "Sound Library"
@@ -1028,8 +1060,20 @@ msgstr "Πάνω"
 msgid "up arrow"
 msgstr "Πάνω βέλος"
 
+msgid "Upload backdrop from file"
+msgstr "Μεταφόρτωση υποβάθρου από αρχείο του υπολογιστή"
+
+msgid "Upload costume from file"
+msgstr "Μεταφόρτωση ενδυμασίας από αρχείο του υπολογιστή"
+
 msgid "Upload from your computer"
 msgstr "Ανέβασμα από τον υπολογιστή σας"
+
+msgid "Upload sound from file"
+msgstr "Μεταφόρτωση ήχου από αρχείο του υπολογιστή"
+
+msgid "Upload sprite from file"
+msgstr "Μεταφόρτωση μορφής από αρχείο του υπολογιστή"
 
 msgid "Uploading image..."
 msgstr "Γίνεται ανέβασμα της φωτογραφίας..."
@@ -1059,10 +1103,10 @@ msgid "Vibraslap"
 msgstr "Βίμπρα-σλαπ"
 
 msgid "video motion"
-msgstr "κίνηση στο βίντεο"
+msgstr "κίνηση στην προβολή από κάμερα"
 
 msgid "Video on:"
-msgstr ""
+msgstr "Δυνατότητα προβολής από κάμερα:"
 
 msgid "Vocals"
 msgstr "Φωνητικά"

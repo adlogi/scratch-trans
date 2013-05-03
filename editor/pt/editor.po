@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:17+0200\n"
-"PO-Revision-Date: 2013-04-28 13:33+0200\n"
+"POT-Creation-Date: 2013-05-02 05:47+0200\n"
+"PO-Revision-Date: 2013-05-02 11:56+0200\n"
 "Last-Translator: Manuel <mmsequeira@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt\n"
@@ -19,7 +19,7 @@ msgstr "10 ^"
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informação acerca de variáveis de Nuvem</b><br>&nbsp;<br>De momento só se "
-"suportam números<br>Salas de <i>chat</i> não são permitidas e serão "
+"suportam números<br>Salas de conversa não são permitidas e serão "
 "removidas<br>Para mais informação <a href= target=>veja as PF sobre dados de "
 "nuvem!</a>"
 
@@ -56,11 +56,11 @@ msgstr "Adicionar uma entrada numérica:"
 msgid "Add string input:"
 msgstr "Adicionar uma entrada de texto:"
 
-msgid "all"
-msgstr "todos"
-
 msgid "All"
 msgstr "Todos"
+
+msgid "all"
+msgstr "todos"
 
 msgid "all around"
 msgstr "em todas as direcções"
@@ -86,12 +86,12 @@ msgstr "B conectado"
 msgid "Back a layer"
 msgstr "Recuar uma camada"
 
-msgid "backdrop"
-msgstr "cenário"
-
 # 87%
 msgid "Backdrop"
 msgstr "Cenário"
+
+msgid "backdrop"
+msgstr "cenário"
 
 msgid "backdrop #"
 msgstr "o número do cenário"
@@ -193,6 +193,18 @@ msgstr "Violoncelo"
 msgid "Choir"
 msgstr "Coro"
 
+msgid "Choose backdrop from library"
+msgstr "Escolher cenário a partir de biblioteca"
+
+msgid "Choose costume from library"
+msgstr "Escolher traje a partir de biblioteca"
+
+msgid "Choose sound from library"
+msgstr "Escolher som a partir de biblioteca"
+
+msgid "Choose sprite from library"
+msgstr "Escolher actor a partir de biblioteca"
+
 msgid "Circle"
 msgstr "Círculo"
 
@@ -258,7 +270,7 @@ msgstr "cosseno"
 
 # 75%
 msgid "Costume"
-msgstr "o traje 1"
+msgstr "Traje"
 
 msgid "costume #"
 msgstr "o número do traje"
@@ -341,11 +353,11 @@ msgstr "Descarregar"
 msgid "Download to your computer"
 msgstr "Descarregar para o seu computador"
 
-msgid "Duplicate"
-msgstr "Duplicar"
-
 msgid "duplicate"
 msgstr "duplicar"
+
+msgid "Duplicate"
+msgstr "Duplicar"
 
 msgid "e ^"
 msgstr "a exponencial"
@@ -411,10 +423,10 @@ msgid "Flip up-down"
 msgstr "Inverter verticalmente"
 
 msgid "floor"
-msgstr "chão (o maior inteiro não superior)"
+msgstr "o chão (o maior inteiro não superior)"
 
 msgid "Flute"
-msgstr "Flauta Transversal"
+msgstr "Flauta transversal"
 
 msgid "Flying"
 msgstr "A voar"
@@ -441,7 +453,7 @@ msgid "Grow"
 msgstr "Aumentar"
 
 msgid "Guiro"
-msgstr "Reco-Reco"
+msgstr "Reco-reco"
 
 msgid "Guitar"
 msgstr "Guitarra"
@@ -588,9 +600,15 @@ msgstr "Natureza"
 msgid "New"
 msgstr "Novo"
 
+msgid "New backdrop from camera"
+msgstr "Novo cenário a partir da câmara"
+
 # 92%
 msgid "New backdrop:"
 msgstr "Novo cenário:"
+
+msgid "New costume from camera"
+msgstr "Novo traje a partir da câmara"
 
 # 91%
 msgid "New costume:"
@@ -608,6 +626,9 @@ msgstr "Novo nome"
 # 90%
 msgid "New sound:"
 msgstr "Novo som:"
+
+msgid "New sprite from camera"
+msgstr "Novo actor a partir da câmara"
 
 msgid "New sprite:"
 msgstr "Novo acetato:"
@@ -657,6 +678,15 @@ msgstr "os outros guiões do actor"
 msgid "Outdoors"
 msgstr "Exterior"
 
+msgid "Paint new backdrop"
+msgstr "Pintar novo cenário"
+
+msgid "Paint new costume"
+msgstr "Pintar novo traje"
+
+msgid "Paint new sprite"
+msgstr "Pintar novo actor"
+
 msgid "paste"
 msgstr "colar"
 
@@ -700,18 +730,21 @@ msgstr "ao acaso"
 msgid "Record"
 msgstr "Gravar"
 
+msgid "Record new sound"
+msgstr "Gravar novo som"
+
 msgid "recording1"
 msgstr "a gravação 1"
 
 msgid "Rectangle"
 msgstr "Rectângulo"
 
-msgid "redo"
-msgstr "refazer"
-
 # 75%
 msgid "Redo"
 msgstr "Refazer"
+
+msgid "redo"
+msgstr "refazer"
 
 msgid "Remix"
 msgstr "Remisturar"
@@ -887,12 +920,12 @@ msgstr "Caixa"
 msgid "softer"
 msgstr "suavizar"
 
+msgid "sound"
+msgstr "som"
+
 # 80%
 msgid "Sound"
 msgstr "Som"
-
-msgid "sound"
-msgstr "som"
 
 msgid "Sound Library"
 msgstr "Biblioteca de Sons"
@@ -918,7 +951,6 @@ msgid "Sprite Library"
 msgstr "Biblioteca de Actores"
 
 # 85%
-# 85%
 msgid "Sprite1"
 msgstr "Actor 1"
 
@@ -932,7 +964,7 @@ msgid "Square"
 msgstr "Quadrado"
 
 msgid "Stage"
-msgstr "o palco"
+msgstr "Palco"
 
 # 93%
 msgid "Stage selected:"
@@ -1050,8 +1082,20 @@ msgstr "para cima"
 msgid "up arrow"
 msgstr "seta para cima"
 
+msgid "Upload backdrop from file"
+msgstr "Carregar cenário a partir de arquivo"
+
+msgid "Upload costume from file"
+msgstr "Carregar traje a partir de arquivo"
+
 msgid "Upload from your computer"
 msgstr "Carregar a partir do seu computador"
+
+msgid "Upload sound from file"
+msgstr "Carregar som a partir de arquivo"
+
+msgid "Upload sprite from file"
+msgstr "Carregar actor a partir de arquivo"
 
 msgid "Uploading image..."
 msgstr "A carregar imagem..."

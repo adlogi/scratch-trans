@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:15+0200\n"
+"POT-Creation-Date: 2013-05-02 05:45+0200\n"
 "PO-Revision-Date: 2013-04-30 12:54+0200\n"
 "Last-Translator: Stefan Einar <stefaneinar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,11 +52,11 @@ msgstr "Skrá tölu:"
 msgid "Add string input:"
 msgstr "Skrá streng:"
 
-msgid "all"
-msgstr "öllu"
-
 msgid "All"
 msgstr "Allt"
+
+msgid "all"
+msgstr "öllu"
 
 msgid "all around"
 msgstr "allt í kring"
@@ -82,11 +82,11 @@ msgstr "B tengdur"
 msgid "Back a layer"
 msgstr "Aftur um lag"
 
-msgid "backdrop"
-msgstr "bakgrunnur"
-
 msgid "Backdrop"
 msgstr "Bakgrunnur"
+
+msgid "backdrop"
+msgstr "bakgrunnur"
 
 msgid "backdrop #"
 msgstr "bakgrunnur #"
@@ -186,6 +186,18 @@ msgstr "Selló"
 
 msgid "Choir"
 msgstr "Kór"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 msgid "Circle"
 msgstr "Hringur"
@@ -332,10 +344,10 @@ msgstr "Sækja"
 msgid "Download to your computer"
 msgstr "Hala niður á tölvuna þína"
 
-msgid "Duplicate"
+msgid "duplicate"
 msgstr "tvöfalda"
 
-msgid "duplicate"
+msgid "Duplicate"
 msgstr "tvöfalda"
 
 msgid "e ^"
@@ -579,8 +591,14 @@ msgstr "Náttúra"
 msgid "New"
 msgstr "Nýtt"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 msgid "New backdrop:"
 msgstr "Nýr bakgrunnur"
+
+msgid "New costume from camera"
+msgstr ""
 
 msgid "New costume:"
 msgstr "Nýr búningur:"
@@ -596,6 +614,9 @@ msgstr "Nýtt nafn"
 
 msgid "New sound:"
 msgstr "Nýtt hljóð:"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Ný teikning:"
@@ -645,6 +666,15 @@ msgstr "aðrar stefjur í teikningu"
 msgid "Outdoors"
 msgstr "Utandyra"
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "líma"
 
@@ -687,17 +717,20 @@ msgstr "slembi"
 msgid "Record"
 msgstr "taka upp"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "upptaka1"
 
 msgid "Rectangle"
 msgstr "Ferhyrningur"
 
-msgid "redo"
-msgstr "Framkalla"
-
 # 75%
 msgid "Redo"
+msgstr "Framkalla"
+
+msgid "redo"
 msgstr "Framkalla"
 
 msgid "Remix"
@@ -871,11 +904,11 @@ msgstr ""
 msgid "softer"
 msgstr "mýkra"
 
-msgid "Sound"
-msgstr "Hljóð"
-
 msgid "sound"
 msgstr "hljóð"
+
+msgid "Sound"
+msgstr "Hljóð"
 
 msgid "Sound Library"
 msgstr "Hljóðsafn"
@@ -900,7 +933,6 @@ msgstr "Teikning"
 msgid "Sprite Library"
 msgstr "Teikningasafn"
 
-# 85%
 # 85%
 msgid "Sprite1"
 msgstr "Teikning1"
@@ -929,8 +961,10 @@ msgstr "vistað á miðlara"
 msgid "Synth Lead"
 msgstr "Hljóðgervill aðal"
 
+# 80%
+#, fuzzy
 msgid "Synth Pad"
-msgstr ""
+msgstr "Hljóðgervill aðal"
 
 msgid "Tambourine"
 msgstr "Tambúrína"
@@ -1031,8 +1065,20 @@ msgstr "upp"
 msgid "up arrow"
 msgstr "ör upp"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
 msgstr "Senda frá tölvunni þinni"
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
 
 msgid "Uploading image..."
 msgstr "Senda mynd..."

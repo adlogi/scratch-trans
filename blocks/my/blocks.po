@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:13+0200\n"
+"POT-Creation-Date: 2013-05-02 00:56+0200\n"
 "PO-Revision-Date: 2013-04-27 14:51+0200\n"
 "Last-Translator: Ye Kyaw Thu <wasedakuma@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -424,7 +424,9 @@ msgstr "မော်တာကို  %n စက္ကန့် ဖွင့်"
 msgid "turn video %m.videoState"
 msgstr "ဗီဒီယိုကို %m.videoState အဖြစ် ပြောင်း"
 
-msgid "user name"
+# 88%
+#, fuzzy
+msgid "username"
 msgstr "အသုံးပြုသူ နာမည်"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
@@ -477,6 +479,9 @@ msgstr "xဝင်ရိုး"
 
 msgid "y position"
 msgstr "yဝင်ရိုး"
+
+#~ msgid "user name"
+#~ msgstr "အသုံးပြုသူ နာမည်"
 
 #~ msgid "forever if %b"
 #~ msgstr "အကယ်၍ %b ဆိုရင် အမြဲတမ်း"

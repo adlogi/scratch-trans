@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:16+0200\n"
+"POT-Creation-Date: 2013-05-02 05:46+0200\n"
 "PO-Revision-Date: 2013-04-27 00:31+0200\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,12 +61,12 @@ msgstr "Tallverdi inn:"
 msgid "Add string input:"
 msgstr "Tekst inn:"
 
-msgid "all"
-msgstr "alle"
-
 #, fuzzy
 msgid "All"
 msgstr "Alt"
+
+msgid "all"
+msgstr "alle"
 
 msgid "all around"
 msgstr "fri rotasjon"
@@ -93,13 +93,13 @@ msgid "Back a layer"
 msgstr "Ett lag nedover"
 
 # 88%
-msgid "backdrop"
-msgstr "bakgrunn"
-
-# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Bakgrunn"
+
+# 88%
+msgid "backdrop"
+msgstr "bakgrunn"
 
 msgid "backdrop #"
 msgstr "bakgrunn nr."
@@ -117,7 +117,6 @@ msgstr "bakgrunn1"
 msgid "backdrops"
 msgstr "bakgrunner"
 
-# 88%
 # 88%
 msgid "Backdrops"
 msgstr "Bakgrunner"
@@ -203,6 +202,18 @@ msgstr "Cello"
 
 msgid "Choir"
 msgstr "Kor"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 msgid "Circle"
 msgstr "Sirkel"
@@ -355,11 +366,11 @@ msgstr "Last ned"
 msgid "Download to your computer"
 msgstr "Last ned til datamaskinen"
 
-msgid "Duplicate"
-msgstr "Lag kopi"
-
 msgid "duplicate"
 msgstr "lag kopi"
+
+msgid "Duplicate"
+msgstr "Lag kopi"
 
 msgid "e ^"
 msgstr "e ^"
@@ -607,9 +618,15 @@ msgstr "Natur"
 msgid "New"
 msgstr "Nouveau"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 # 92%
 msgid "New backdrop:"
 msgstr "Ny bakgrunn:"
+
+msgid "New costume from camera"
+msgstr ""
 
 # 91%
 msgid "New costume:"
@@ -627,6 +644,9 @@ msgstr "Nytt navn"
 # 90%
 msgid "New sound:"
 msgstr "Ny lyd:"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Ny figur:"
@@ -677,6 +697,15 @@ msgstr "andre skript i figuren"
 msgid "Outdoors"
 msgstr "Utendørs"
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "lim inn"
 
@@ -720,18 +749,21 @@ msgstr "tilfeldig"
 msgid "Record"
 msgstr "Opptak"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "opptak1"
 
 msgid "Rectangle"
 msgstr "Rektangel"
 
-msgid "redo"
-msgstr "gjør igjen"
-
 # 75%
 msgid "Redo"
 msgstr "Gjør igjen"
+
+msgid "redo"
+msgstr "gjør igjen"
 
 msgid "Remix"
 msgstr "Remiks"
@@ -909,12 +941,12 @@ msgstr "Skarptromme"
 msgid "softer"
 msgstr "lavere"
 
+msgid "sound"
+msgstr "lyd"
+
 # 80%
 msgid "Sound"
 msgstr "Lyd"
-
-msgid "sound"
-msgstr "lyd"
 
 msgid "Sound Library"
 msgstr "Ferdige Lyder"
@@ -939,7 +971,6 @@ msgstr "Figur"
 msgid "Sprite Library"
 msgstr "Ferdige Figurer"
 
-# 85%
 # 85%
 msgid "Sprite1"
 msgstr "Figur1"
@@ -1075,8 +1106,20 @@ msgstr "opp"
 msgid "up arrow"
 msgstr "pil opp"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
 msgstr "Last opp fra maskinen"
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
 
 msgid "Uploading image..."
 msgstr "Laster opp bilde..."

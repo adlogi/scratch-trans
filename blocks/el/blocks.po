@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:12+0200\n"
-"PO-Revision-Date: 2013-04-26 07:16+0200\n"
+"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"PO-Revision-Date: 2013-05-02 13:21+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -333,7 +333,8 @@ msgid "set tempo to %n bpm"
 msgstr "όρισε το ρυθμό σε %n χτύπους το λεπτό"
 
 msgid "set video transparency to %n%"
-msgstr "όρισε τη διαφάνεια του βίντεο σε %n%"
+msgstr "όρισε τη διαφάνεια της προβολής από κάμερα σε "
+"%n%"
 
 msgid "set volume to %n%"
 msgstr "όρισε την ένταση σε %n%"
@@ -417,13 +418,14 @@ msgid "turn motor on for %n secs"
 msgstr "άναψε τον κινητήρα για %n δευτερόλεπτα"
 
 msgid "turn video %m.videoState"
-msgstr "όρισε το βίντεο σε %m.videoState"
+msgstr "όρισε την προβολή από κάμερα σε %m.videoState"
 
-msgid "user name"
+msgid "username"
 msgstr "Όνομα χρήστη"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "η %m.videoMotionType στο βίντεο σε %m.stageOrThis"
+msgstr "η %m.videoMotionType της προβολής από κάμερα "
+"σε %m.stageOrThis"
 
 msgid "volume"
 msgstr "ένταση"
@@ -458,7 +460,7 @@ msgid "when I receive %m.broadcast"
 msgstr "Όταν λάβω το %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "Όταν ξεκινήσω σαν κλώνος"
+msgstr "Όταν ξεκινήσει ο κλώνος"
 
 msgid "when this sprite clicked"
 msgstr "Όταν σε αυτή την μορφή γίνει κλικ"
@@ -471,6 +473,9 @@ msgstr "θέση x"
 
 msgid "y position"
 msgstr "θέση y"
+
+#~ msgid "user name"
+#~ msgstr "Όνομα χρήστη"
 
 #~ msgid "user id"
 #~ msgstr "ταυτότητα χρήστη"

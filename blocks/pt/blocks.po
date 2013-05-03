@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:13+0200\n"
-"PO-Revision-Date: 2013-04-28 13:33+0200\n"
+"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"PO-Revision-Date: 2013-05-02 01:08+0200\n"
 "Last-Translator: Manuel <mmsequeira@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt\n"
@@ -246,7 +246,7 @@ msgid "pick random %n to %n"
 msgstr "um valor ao acaso entre %n e %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "toca o tambor %d.drum durante %n tempos"
+msgstr "toca a percussão %d.drum durante %n tempos"
 
 # 83%
 msgid "play note %d.note for %n beats"
@@ -298,7 +298,7 @@ msgid "set %m.effect effect to %n"
 msgstr "altera o teu efeito %m.effect para %n"
 
 msgid "set %m.var to %s"
-msgstr "altera %m.var para %n"
+msgstr "altera %m.var para %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "altera o teu instrumento para %d.instrument"
@@ -419,7 +419,8 @@ msgstr "liga o motor durante %n s"
 msgid "turn video %m.videoState"
 msgstr "altera o estado do vídeo para %m.videoState"
 
-msgid "user name"
+# 88%
+msgid "username"
 msgstr "nome de utilizador"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
@@ -470,7 +471,10 @@ msgid "x position"
 msgstr "a coordenada x da posição"
 
 msgid "y position"
-msgstr "a coordenada y  da posição"
+msgstr "a coordenada y da posição"
+
+#~ msgid "user name"
+#~ msgstr "nome de utilizador"
 
 #~ msgid "user id"
 #~ msgstr "o identificador do utilizador"

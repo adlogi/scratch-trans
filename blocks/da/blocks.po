@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:12+0200\n"
-"PO-Revision-Date: 2013-04-30 14:44+0200\n"
+"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"PO-Revision-Date: 2013-05-02 19:53+0200\n"
 "Last-Translator: Barry <barry@neville.dk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
@@ -53,7 +53,7 @@ msgstr "bagtæppe nr."
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "bagtæppets navn"
 
 msgid "broadcast %m.broadcast"
 msgstr "send %m.broadcast til alle"
@@ -104,7 +104,7 @@ msgid "Control"
 msgstr "styring"
 
 msgid "costume #"
-msgstr "udtryk nr."
+msgstr "kostume nr."
 
 msgid "create clone of %m.spriteOnly"
 msgstr "opret klon af %m.spriteOnly"
@@ -225,7 +225,7 @@ msgid "next backdrop"
 msgstr "næste bagtæppe"
 
 msgid "next costume"
-msgstr "næste udtryk"
+msgstr "næste kostume"
 
 msgid "not %b"
 msgstr "ikke %b"
@@ -250,7 +250,6 @@ msgstr "spil tromme %d.drum i %n slag"
 
 # 83%
 # 100%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "spil tone %d.note i %n slag"
 
@@ -381,7 +380,7 @@ msgid "switch backdrop to %m.backdrop and wait"
 msgstr "skift bagtæppe til %m.backdrop og vent"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "skift kostume til %m.costume"
 
 msgid "tempo"
 msgstr "tempo"
@@ -405,16 +404,16 @@ msgid "touching color %c?"
 msgstr "berører farven %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "vend @turnLeft %n grader"
+msgstr "drej @turnLeft %n grader"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "drej @turnRight %n grader"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "sluk motoren"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "start motoren"
 
 # 80%
 # 100%
@@ -424,7 +423,8 @@ msgstr "kør motoren i %n sekunder"
 msgid "turn video %m.videoState"
 msgstr "sæt video %m.videoState"
 
-msgid "user name"
+# 88%
+msgid "username"
 msgstr "brugernavn"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
@@ -464,10 +464,10 @@ msgid "when I receive %m.broadcast"
 msgstr "når jeg modtager %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "når jeg starter som klon"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "når denne sprite klikkes"
 
 msgid "when tilt = %n"
 msgstr "når hældningen = %n"
@@ -477,6 +477,9 @@ msgstr "x-position"
 
 msgid "y position"
 msgstr "y-position"
+
+#~ msgid "user name"
+#~ msgstr "brugernavn"
 
 #~ msgid "forever if %b"
 #~ msgstr "for evigt hvis %b"

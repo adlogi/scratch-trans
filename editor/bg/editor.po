@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"POT-Creation-Date: 2013-05-02 05:43+0200\n"
 "PO-Revision-Date: 2013-04-29 16:17+0200\n"
 "Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,11 +56,11 @@ msgstr "Добавяне на числов вход:"
 msgid "Add string input:"
 msgstr "Добавяне на текстов вход:"
 
-msgid "all"
-msgstr "всички"
-
 msgid "All"
 msgstr "Всички"
+
+msgid "all"
+msgstr "всички"
 
 msgid "all around"
 msgstr "на всички посоки"
@@ -86,12 +86,12 @@ msgstr "B свързан"
 msgid "Back a layer"
 msgstr "Назад с един слой"
 
-msgid "backdrop"
-msgstr "декор"
-
 # 87%
 msgid "Backdrop"
 msgstr "Декор"
+
+msgid "backdrop"
+msgstr "декор"
 
 msgid "backdrop #"
 msgstr "декор #"
@@ -192,6 +192,18 @@ msgid "Cello"
 msgstr "Виолончело"
 
 msgid "Choir"
+msgstr ""
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
 msgstr ""
 
 msgid "Circle"
@@ -342,11 +354,11 @@ msgstr "Сваляне"
 msgid "Download to your computer"
 msgstr "Сваляне на вашия компютър"
 
-msgid "Duplicate"
-msgstr "Дублиране"
-
 msgid "duplicate"
 msgstr "копиране"
+
+msgid "Duplicate"
+msgstr "Дублиране"
 
 msgid "e ^"
 msgstr ""
@@ -589,9 +601,15 @@ msgstr "Природа"
 msgid "New"
 msgstr "Нов"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 # 92%
 msgid "New backdrop:"
 msgstr "Нов декор:"
+
+msgid "New costume from camera"
+msgstr ""
 
 # 91%
 msgid "New costume:"
@@ -609,6 +627,9 @@ msgstr "Ново име"
 # 90%
 msgid "New sound:"
 msgstr "Нов звук:"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Нов спрайт:"
@@ -658,6 +679,15 @@ msgstr "другите сценарии на спрайта"
 msgid "Outdoors"
 msgstr ""
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "поставяне"
 
@@ -701,18 +731,21 @@ msgstr "произволен"
 msgid "Record"
 msgstr "Запис"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "запис1"
 
 msgid "Rectangle"
 msgstr "Правоъгълник"
 
-msgid "redo"
-msgstr "повтаряне"
-
 # 75%
 msgid "Redo"
 msgstr "Повтаряне"
+
+msgid "redo"
+msgstr "повтаряне"
 
 msgid "Remix"
 msgstr ""
@@ -834,8 +867,10 @@ msgstr ""
 msgid "Shift:"
 msgstr ""
 
+# 80%
+#, fuzzy
 msgid "show"
-msgstr ""
+msgstr "покажи:"
 
 msgid "show receivers"
 msgstr ""
@@ -888,12 +923,12 @@ msgstr ""
 msgid "softer"
 msgstr "по-слабо"
 
+msgid "sound"
+msgstr "звук"
+
 # 80%
 msgid "Sound"
 msgstr "Звук"
-
-msgid "sound"
-msgstr "звук"
 
 msgid "Sound Library"
 msgstr "Библиотека със звуци"
@@ -918,7 +953,6 @@ msgstr "Спрайт"
 msgid "Sprite Library"
 msgstr "Библиотека със спрайтове"
 
-# 85%
 # 85%
 msgid "Sprite1"
 msgstr "Спрайт1"
@@ -1045,8 +1079,20 @@ msgstr "нагоре"
 msgid "up arrow"
 msgstr "стрелка нагоре"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
 msgstr "Качване от вашия компютър"
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
 
 msgid "Uploading image..."
 msgstr ""

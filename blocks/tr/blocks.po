@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:13+0200\n"
-"PO-Revision-Date: 2013-04-27 11:12+0200\n"
+"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"PO-Revision-Date: 2013-05-02 19:53+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -419,7 +419,8 @@ msgstr "%n saniye motoru çalıştır"
 msgid "turn video %m.videoState"
 msgstr "videoyu %m.videoState"
 
-msgid "user name"
+# 88%
+msgid "username"
 msgstr "kullanıcı adı"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
@@ -471,6 +472,9 @@ msgstr "x konumu"
 
 msgid "y position"
 msgstr "y konumu"
+
+#~ msgid "user name"
+#~ msgstr "kullanıcı adı"
 
 #~ msgid "user id"
 #~ msgstr "kullanıcı kimliği"

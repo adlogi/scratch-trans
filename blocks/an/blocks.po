@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-17 02:03+0200\n"
-"PO-Revision-Date: 2013-04-26 22:59+0200\n"
+"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"PO-Revision-Date: 2013-05-02 01:30+0200\n"
 "Last-Translator: Juan Pablo <juanpabl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: an\n"
@@ -12,6 +12,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Aragonés"
 
 msgid "%b and %b"
 msgstr "%b y %b"
@@ -44,11 +48,9 @@ msgid "ask %s and wait"
 msgstr "preguntar %s y aguardar"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "fondo #"
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "nombre d'o fundo"
@@ -219,7 +221,6 @@ msgid "move %n steps"
 msgstr "mover %n pasos"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "siguient fondo"
 
@@ -365,11 +366,9 @@ msgid "stop all sounds"
 msgstr "aturar totz os sons"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
 msgstr "cambiar o fundo por %m.backdrop"
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
 msgstr "cambiar o fundo por %m.backdrop y aguardar"
@@ -416,8 +415,9 @@ msgstr "enchegar o motor por %n segundos"
 msgid "turn video %m.videoState"
 msgstr "meter o video %m.videoState"
 
-#~ msgid "user id"
-#~ msgstr "identificador d'usuario"
+# 88%
+msgid "username"
+msgstr "nombre d'usuario"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "%m.videoMotionType de video en %m.stageOrThis"
@@ -444,7 +444,6 @@ msgid "when @greenFlag clicked"
 msgstr "en fer clic en @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
 msgstr "quan o fundo cambie a %m.backdrop"
 
@@ -469,6 +468,9 @@ msgstr "posición en x"
 msgid "y position"
 msgstr "posición en y"
 
+#~ msgid "user id"
+#~ msgstr "identificador d'usuario"
+
 #~ msgid "clone startup"
 #~ msgstr "inicio d'a copia"
 
@@ -484,5 +486,5 @@ msgstr "posición en y"
 #~ msgid "Scratch days"
 #~ msgstr "Días de scratch"
 
-msgid "user name"
-msgstr "nombre d'usuario"
+#~ msgid "user name"
+#~ msgstr "nombre d'usuario"

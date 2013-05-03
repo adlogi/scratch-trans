@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"POT-Creation-Date: 2013-05-02 05:44+0200\n"
 "PO-Revision-Date: 2013-04-27 08:56+0200\n"
 "Last-Translator: ukkeli <avuorilehto@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,11 +55,11 @@ msgstr "lisää numerosyöttö"
 msgid "Add string input:"
 msgstr "Lisää tekstisyöttö"
 
-msgid "all"
-msgstr "kaikki"
-
 msgid "All"
 msgstr "Kaikki"
+
+msgid "all"
+msgstr "kaikki"
 
 msgid "all around"
 msgstr "kaikki ympärillä"
@@ -86,13 +86,13 @@ msgid "Back a layer"
 msgstr "Kerros takaisin"
 
 # 88%
-msgid "backdrop"
-msgstr "tausta"
-
-# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Tausta"
+
+# 88%
+msgid "backdrop"
+msgstr "tausta"
 
 msgid "backdrop #"
 msgstr "tausta #"
@@ -110,7 +110,6 @@ msgstr "tausta1"
 msgid "backdrops"
 msgstr "taustat"
 
-# 88%
 # 88%
 msgid "Backdrops"
 msgstr "Taustat"
@@ -195,6 +194,18 @@ msgstr "Sello"
 
 msgid "Choir"
 msgstr "Kuoro"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 msgid "Circle"
 msgstr "Ympyrä"
@@ -345,10 +356,10 @@ msgstr "Lataa"
 msgid "Download to your computer"
 msgstr "Lataa tietokoneeseen"
 
-msgid "Duplicate"
+msgid "duplicate"
 msgstr "kopioi"
 
-msgid "duplicate"
+msgid "Duplicate"
 msgstr "kopioi"
 
 msgid "e ^"
@@ -592,9 +603,15 @@ msgstr "Luonto"
 msgid "New"
 msgstr "Uusi"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 # 92%
 msgid "New backdrop:"
 msgstr "Uusi tausta:"
+
+msgid "New costume from camera"
+msgstr ""
 
 # 91%
 msgid "New costume:"
@@ -612,6 +629,9 @@ msgstr "Uusi nimi"
 # 90%
 msgid "New sound:"
 msgstr "Uusi ääni:"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Uusi hahmo:"
@@ -662,6 +682,15 @@ msgstr "muut hahmossa olevat skriptit"
 msgid "Outdoors"
 msgstr "Ulkone"
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "liitä"
 
@@ -704,18 +733,21 @@ msgstr "satunnainen"
 msgid "Record"
 msgstr "Nauhoita"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "nauhoitus1"
 
 msgid "Rectangle"
 msgstr "Neliö"
 
-msgid "redo"
-msgstr "tee uudelleen"
-
 # 75%
 msgid "Redo"
 msgstr "Tee uudelleen"
+
+msgid "redo"
+msgstr "tee uudelleen"
 
 msgid "Remix"
 msgstr "Remix"
@@ -888,12 +920,12 @@ msgstr "Snare rumpu"
 msgid "softer"
 msgstr "pehmeämmin"
 
+msgid "sound"
+msgstr "ääni"
+
 # 80%
 msgid "Sound"
 msgstr "Ääni"
-
-msgid "sound"
-msgstr "ääni"
 
 msgid "Sound Library"
 msgstr "Äänikirjasto"
@@ -918,7 +950,6 @@ msgstr "Hahmo"
 msgid "Sprite Library"
 msgstr "Hahmokirjasto"
 
-# 85%
 # 85%
 msgid "Sprite1"
 msgstr "Hahmo1"
@@ -1049,8 +1080,20 @@ msgstr "ylös"
 msgid "up arrow"
 msgstr "nuoli ylös"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
 msgstr "Lataa tietokoneestasi"
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
 
 msgid "Uploading image..."
 msgstr "Ladataan kuvaa..."

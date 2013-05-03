@@ -3,19 +3,19 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2009-08-06 11:20-0400\n"
-"Last-Translator: Lis Gøthe í Jákupsstovu <morshus@gmail.com>\n"
+"PO-Revision-Date: 2013-05-03 00:38+0200\n"
+"Last-Translator: karihj <kari.holm.johannesen@gmail.com>\n"
 "Language-Team: \n"
 "Language: fo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 1.2.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
 
-############################################
+# ##########################################
 # FORMATTING
-############################################
-
+# ##########################################
 # Language name as you'd like it to appear in the Languages menu<br />
 # <br />
 # (Required)
@@ -54,10 +54,10 @@ msgstr "Mac-Font"
 msgid "Linux-Font"
 msgstr "Linux-Font"
 
-############################################
+# ##########################################
 # BLOCKS
-############################################
-
+# ##########################################
+# 
 msgid "%H sensor value"
 msgstr ""
 
@@ -92,25 +92,25 @@ msgid "background #"
 msgstr "bakgrund #"
 
 msgid "broadcast %e"
-msgstr "send %e"
+msgstr "send %e til øll"
 
 msgid "broadcast %e and wait"
-msgstr "send %e og bíða"
+msgstr "send %e til øll og bíða"
 
 msgid "change %g effect by %n"
 msgstr "broyt %g effektina við %n"
 
 msgid "change %v by %n"
-msgstr "broyt %v við %n"
+msgstr "legg %v afturat %x "
 
 msgid "change pen color by %n"
-msgstr "broyt pennalit við %n"
+msgstr "broyt lit á penni við %n"
 
 msgid "change pen shade by %n"
-msgstr "broyt pennaskugga við %n"
+msgstr "broyt skugga á penni við %n"
 
 msgid "change pen size by %n"
-msgstr "broyt pennastødd við %n"
+msgstr "broyt stødd á penni við %n"
 
 msgid "change size by %n"
 msgstr "broyt stødd við %n"
@@ -119,7 +119,7 @@ msgid "change tempo by %n"
 msgstr "broyt ferð við %n"
 
 msgid "change volume by %n"
-msgstr "broyt stødd við %n"
+msgstr "broyt ljóðstyrki við %n"
 
 msgid "change x by %n"
 msgstr "broyt x við %n"
@@ -128,31 +128,31 @@ msgid "change y by %n"
 msgstr "broyt y við %n"
 
 msgid "clear"
-msgstr ""
+msgstr "rudda"
 
 msgid "clear graphic effects"
-msgstr ""
+msgstr "rudda grafiskar effektir"
 
 msgid "color %C is touching %C?"
-msgstr ""
+msgstr "nertir liturin %C við %C?"
 
 msgid "control"
-msgstr ""
+msgstr "stýring"
 
 msgid "costume #"
-msgstr ""
+msgstr "búni #"
 
 msgid "delete %y of %L"
-msgstr ""
+msgstr "strika %y frá %L"
 
 msgid "direction"
-msgstr ""
+msgstr "leið"
 
 msgid "distance to %m"
-msgstr ""
+msgstr "fjarstøða til %m"
 
 msgid "else"
-msgstr ""
+msgstr "ella"
 
 msgid "forever"
 msgstr "altíð"
@@ -161,136 +161,136 @@ msgid "forever if %b"
 msgstr "altíð um %b"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr ""
+msgstr "skreið í %n sek til x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr ""
+msgstr "far %n løg aftur"
 
 msgid "go to %m"
-msgstr "far til %m"
+msgstr "flyt til %m"
 
 msgid "go to front"
-msgstr ""
+msgstr "set fremst"
 
 msgid "go to x:%n y:%n"
-msgstr ""
+msgstr "flyt til x:%n y:%n"
 
 msgid "hide"
-msgstr "krógva"
+msgstr "fjal"
 
 msgid "hide variable %v"
-msgstr ""
+msgstr "fjal brigdil %v"
 
 msgid "if %b"
 msgstr "um %b"
 
 msgid "if on edge, bounce"
-msgstr ""
+msgstr "hoppa aftur við kantin"
 
 msgid "insert %s at %i of %L"
-msgstr ""
+msgstr "innset %s við %i av %L"
 
 msgid "item %i of %L"
-msgstr "liður %i av %L"
+msgstr "punkt %i á %L"
 
 msgid "join %s %s"
-msgstr ""
+msgstr "%s sambindir %s"
 
 msgid "key %k pressed?"
-msgstr ""
+msgstr "um trýst er á knøttin %k?"
 
 msgid "length of %L"
-msgstr ""
+msgstr "longd á %L"
 
 msgid "length of %s"
-msgstr "longd av %s"
+msgstr "longd á %s"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "bókstavur %n av %s"
 
 msgid "list"
 msgstr "listi"
 
 msgid "looks"
-msgstr ""
+msgstr "Útsjónd"
 
 msgid "loud?"
-msgstr ""
+msgstr "hart frá?"
 
 msgid "loudness"
-msgstr ""
+msgstr "ljóðstyrki"
 
 msgid "motion"
-msgstr ""
+msgstr "rørsla"
 
 msgid "motor direction %W"
-msgstr ""
+msgstr "leið á motori %w"
 
 msgid "motor off"
-msgstr ""
+msgstr "sløkk motorin"
 
 msgid "motor on"
-msgstr ""
+msgstr "tendra motorin"
 
 msgid "motor on for %n secs"
-msgstr ""
+msgstr "tendra motorin í %n sek"
 
 msgid "motor power %n"
-msgstr ""
+msgstr "motormegi %n"
 
 msgid "mouse down?"
-msgstr ""
+msgstr "trýst á músina?"
 
 msgid "mouse x"
-msgstr ""
+msgstr "x-støða á músini"
 
 msgid "mouse y"
-msgstr ""
+msgstr "y-støða á músini"
 
 msgid "move %n steps"
-msgstr "flyt %n stig"
+msgstr "flyt %n fet"
 
 msgid "next background"
 msgstr "næsta bakgrund"
 
 msgid "next costume"
-msgstr ""
+msgstr "næsti búni"
 
 msgid "not %b"
 msgstr "ikki %b"
 
 msgid "operators"
-msgstr ""
+msgstr "atgerðir"
 
 msgid "pen"
-msgstr ""
+msgstr "pennur"
 
 msgid "pen down"
-msgstr ""
+msgstr "legg pennin niður"
 
 msgid "pen up"
-msgstr ""
+msgstr "lyft pennin upp"
 
 msgid "pick random %n to %n"
-msgstr ""
+msgstr "vel tilvildarligt millium %n og %n"
 
 msgid "play drum %D for %n beats"
-msgstr ""
+msgstr "spæl trummu í %D sløgum "
 
 msgid "play note %N for %n beats"
-msgstr ""
+msgstr "spæl trummu í %D sløgum"
 
 msgid "play sound %S"
-msgstr ""
+msgstr "spæl ljóð %S"
 
 msgid "play sound %S until done"
-msgstr ""
+msgstr "spæl ljóðið %S til tað er liðugt"
 
 msgid "point in direction %d"
-msgstr ""
+msgstr "vend ímóti %d"
 
 msgid "point towards %m"
-msgstr ""
+msgstr "vend ímóti %m"
 
 msgid "repeat %n"
 msgstr "endurtak %n"
@@ -299,13 +299,13 @@ msgid "repeat until %b"
 msgstr "endurtak til %b"
 
 msgid "replace item %i of %L with %s"
-msgstr ""
+msgstr "být %i av %L um við %s"
 
 msgid "reset timer"
-msgstr "tómstilla teljara"
+msgstr "nullstill teljara"
 
 msgid "rest for %n beats"
-msgstr ""
+msgstr "steðga í %n sløgum"
 
 msgid "round %n"
 msgstr "avrunda %n"
@@ -314,55 +314,55 @@ msgid "say %s"
 msgstr "sig %s"
 
 msgid "say %s for %n secs"
-msgstr "sig %s í %n sekund"
+msgstr "sig %s í %n sek"
 
 msgid "sensing"
-msgstr ""
+msgstr "sansing"
 
 msgid "sensor %h?"
-msgstr ""
+msgstr "sensorur %h?"
 
 msgid "set %g effect to %n"
-msgstr ""
+msgstr "set %g effektina til %n"
 
 msgid "set %v to %n"
-msgstr ""
+msgstr "set %v til %n"
 
 msgid "set instrument to %I"
-msgstr ""
+msgstr "set ljóðføri til %l"
 
 msgid "set pen color to %c"
-msgstr ""
+msgstr "set lit á penninum til %c"
 
 msgid "set pen color to %n"
-msgstr ""
+msgstr "set lit á penninum til %n"
 
 msgid "set pen shade to %n"
-msgstr ""
+msgstr "set skugga á penninum til %n"
 
 msgid "set pen size to %n"
-msgstr ""
+msgstr "set støddina á penninum til %n"
 
 msgid "set size to %n%"
-msgstr ""
+msgstr "set støddina til %n%"
 
 msgid "set tempo to %n bpm"
-msgstr ""
+msgstr "set ferðina til %n sløg fyri hvønn minutt"
 
 msgid "set volume to %n%"
-msgstr ""
+msgstr "set ljóðstyrkina til %n%"
 
 msgid "set x to %n"
-msgstr ""
+msgstr "set x til %n"
 
 msgid "set y to %n"
-msgstr ""
+msgstr "set y til %n"
 
 msgid "show"
-msgstr ""
+msgstr "vís"
 
 msgid "show variable %v"
-msgstr ""
+msgstr "vís brigdil %v"
 
 msgid "size"
 msgstr "stødd"
@@ -371,80 +371,80 @@ msgid "sound"
 msgstr "ljóð"
 
 msgid "stamp"
-msgstr ""
+msgstr "stempla"
 
 msgid "stop all"
-msgstr ""
+msgstr "steðga øllum"
 
 msgid "stop all sounds"
-msgstr ""
+msgstr "sløkk øll ljóð"
 
 msgid "stop script"
-msgstr ""
+msgstr "steðga boðrit"
 
 msgid "switch to background %l"
-msgstr ""
+msgstr "skift bakgrundina til %l"
 
 msgid "switch to costume %l"
-msgstr ""
+msgstr "skift búnan til %l"
 
 msgid "tempo"
-msgstr ""
+msgstr "ferð"
 
 msgid "think %s"
-msgstr ""
+msgstr "hugsa %s"
 
 msgid "think %s for %n secs"
-msgstr ""
+msgstr "hugsa %s í %n sek"
 
 msgid "timer"
 msgstr "teljari"
 
 msgid "touching %m?"
-msgstr ""
+msgstr "nertir %m?"
 
 msgid "touching color %C?"
-msgstr ""
+msgstr "nertir litin %C?"
 
 msgid "turn %n degrees"
-msgstr ""
+msgstr "snara %n stig"
 
 msgid "variables"
-msgstr ""
+msgstr "brigdlar"
 
 msgid "volume"
-msgstr ""
+msgstr "ljóðstyrki"
 
 msgid "wait %n secs"
-msgstr ""
+msgstr "bíða %n sek"
 
 msgid "wait until %b"
-msgstr ""
+msgstr "bíða til %b"
 
 msgid "when %k key pressed"
-msgstr ""
+msgstr "tá trýst verður á %k knøttin"
 
 msgid "when %m clicked"
-msgstr ""
+msgstr "tá trýst verður á %m "
 
 msgid "when I receive %e"
-msgstr ""
+msgstr "tá eg taki ímóti %e"
 
 msgid "x position"
-msgstr ""
+msgstr "x-støða"
 
 msgid "y position"
-msgstr ""
+msgstr "y-støða"
 
-############################################
+# ##########################################
 # USER INTERFACE
-############################################
-
+# ##########################################
+# 
 msgid "(empty)"
-msgstr ""
+msgstr "(tómt)"
 
 msgid "1 script"
-msgstr ""
+msgstr "1 boðrit"
 
 msgid "About Scratch"
 msgstr "Um Scratch"
@@ -453,7 +453,7 @@ msgid "About this project:"
 msgstr "Um hesa verkætlan:"
 
 msgid "abs"
-msgstr ""
+msgstr "abs"
 
 msgid "add comment"
 msgstr "ger viðmerking"
@@ -462,133 +462,133 @@ msgid "add comment here"
 msgstr "ger viðmerking her"
 
 msgid "all"
-msgstr ""
+msgstr "allar"
 
 msgid "and"
 msgstr "og"
 
 msgid "Animation"
-msgstr ""
+msgstr "Flytmynd"
 
 msgid "any"
-msgstr ""
+msgstr "allar"
 
 msgid "Art"
-msgstr ""
+msgstr "List"
 
 msgid "background"
-msgstr ""
+msgstr "bakgrund"
 
 msgid "backgrounds"
-msgstr ""
+msgstr "bakgrundir"
 
 msgid "Backgrounds"
-msgstr ""
+msgstr "Bakgrundir"
 
 msgid "brightness"
-msgstr ""
+msgstr "ljósstyrki"
 
 msgid "Brush size: "
-msgstr ""
+msgstr "Stødd á pensli:"
 
 msgid "button"
-msgstr ""
+msgstr "knøttur"
 
 msgid "button pressed"
-msgstr ""
+msgstr "trýst er á knøttin"
 
 msgid "Camera"
-msgstr ""
+msgstr "Myndatól"
 
 msgid "can rotate"
-msgstr ""
+msgstr "kann snarast"
 
 msgid "cancel"
-msgstr "avlýs"
+msgstr "angra"
 
 msgid "Cancel"
-msgstr "Avlýs"
+msgstr "Angra"
 
 msgid "Choose a folder"
-msgstr "Vel ein faldara"
+msgstr "Vel eina mappu"
 
 msgid "Choose new sprite from file"
-msgstr ""
+msgstr "Vel nýggja sprite frá fílu"
 
 msgid "clean up"
-msgstr ""
+msgstr "rudda"
 
 msgid "Clear"
-msgstr ""
+msgstr "Rudda"
 
 msgid "Clear canvas"
-msgstr ""
+msgstr "Rudda lørift"
 
 msgid "Close and continue"
-msgstr ""
+msgstr "Lat aftur og hald á"
 
 msgid "Close dialog?"
-msgstr ""
+msgstr "Lat gluggan aftur?"
 
 msgid "Close paint editor?"
-msgstr ""
+msgstr "Lat myndaritilin aftur?"
 
 msgid "close port"
-msgstr ""
+msgstr "lat portur aftur"
 
 msgid "Close sound recorder?"
-msgstr ""
+msgstr "Lat ljóðupptakaran aftur?"
 
 msgid "color"
 msgstr "litur"
 
 msgid "Compress Images"
-msgstr ""
+msgstr "Komprimera myndir"
 
 msgid "Compress Sounds"
-msgstr ""
+msgstr "Komprimera ljóð"
 
 msgid "Compress sounds and images"
-msgstr ""
+msgstr "Komprimera ljóð og myndir"
 
 msgid "Computer"
-msgstr ""
+msgstr "Telda"
 
 msgid "connected"
-msgstr ""
+msgstr "íbundin"
 
 msgid "Connecting to "
-msgstr ""
+msgstr "Bindur í til"
 
 msgid "Copy"
-msgstr ""
+msgstr "Avrita"
 
 msgid "costume"
-msgstr ""
+msgstr "búni"
 
 msgid "costumes"
-msgstr ""
+msgstr "búnar"
 
 msgid "Costumes"
-msgstr ""
+msgstr "Búnar"
 
 msgid "Could not read"
-msgstr ""
+msgstr "Kundi ikki innlesa"
 
 msgid "Could not read project; file may be damaged"
-msgstr ""
+msgstr "Kundi ikki innlesa verkætlan: fílan kann vera skadd"
 
 msgid "Could not write file"
 msgstr "Fekk ikki skrivað fílu"
 
 msgid "Create account"
-msgstr "Stovna konto"
+msgstr "Stovna kontu"
 
 msgid "Create an empty project"
-msgstr "Stovna eina tóma verkætlan"
+msgstr "Stovna nýggja verkætlan"
 
 msgid "Data sent. Waiting for response..."
-msgstr "Dáta send. Bíðar eftir svari..."
+msgstr "Dátur eru sendar. Bíðar eftir aftursvari..."
 
 msgid "delete"
 msgstr "strika"
@@ -606,76 +606,76 @@ msgid "Delete this background"
 msgstr "Strika hesa bakgrund"
 
 msgid "Delete this costume"
-msgstr "Strika hendan búna"
+msgstr "Strika búnan"
 
 msgid "Delete this sound"
-msgstr "Strika hetta ljóðið"
+msgstr "Strika ljóðið"
 
 msgid "Delete this sprite"
-msgstr ""
+msgstr "Strika tekningina"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Skriviborð"
 
 msgid "disable remote sensor connections"
-msgstr ""
+msgstr "sløkk fjarsensor íbindingar"
 
 msgid "distance"
-msgstr "frástøða"
+msgstr "fjarstøða"
 
 msgid "Documents"
 msgstr "Skjøl"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "ikki snara"
 
 msgid "Don't Save"
-msgstr ""
+msgstr "Goym ikki"
 
 msgid "Done"
 msgstr "Liðugt"
 
 msgid "down"
-msgstr "niður"
+msgstr "niðureftir"
 
 msgid "down arrow"
-msgstr ""
+msgstr "pílur niður"
 
 msgid "drag to resize"
-msgstr ""
+msgstr "drag fyri at broyta stødd"
 
 msgid "drag to rotate"
-msgstr ""
+msgstr "drag fyri at snara"
 
 msgid "draggable on website?"
-msgstr ""
+msgstr "skal kunna flytast á vevsíðuni? "
 
 msgid "duplicate"
-msgstr ""
+msgstr "ger avrit"
 
 msgid "Duplicate"
-msgstr ""
+msgstr "Ger avrit"
 
 msgid "edge"
-msgstr ""
+msgstr "kantur"
 
 msgid "Edit"
 msgstr "Broyt"
 
 msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
-msgstr ""
+msgstr "Amboð til ellipsu (tekna ellipsu ella sirkul)"
 
 msgid "enable remote sensor connections"
-msgstr ""
+msgstr "tendra fjarsensor íbindingar"
 
 msgid "Enter presentation mode"
 msgstr ""
 
 msgid "Eraser"
-msgstr ""
+msgstr "Viskileður"
 
 msgid "Eraser size"
-msgstr ""
+msgstr "Stødd á viskileðri"
 
 msgid "Error!"
 msgstr "Feilur!"
@@ -684,49 +684,49 @@ msgid "Examples"
 msgstr "Dømi"
 
 msgid "Exit presentation"
-msgstr ""
+msgstr "Far úr fullum skermi"
 
 msgid "Exit presentation mode"
-msgstr ""
+msgstr "Far úr fullum skermi"
 
 msgid "export"
-msgstr ""
+msgstr "Flyt út"
 
 msgid "Export Background"
-msgstr "Útles bakgrund"
+msgstr "Flut bakgrund út"
 
 msgid "Export Costume"
-msgstr "Útles búna"
+msgstr "Flyt búna út"
 
 msgid "Export failed"
-msgstr "Útlesing miseydnaðist"
+msgstr "Útflytingin miseydnaðist"
 
 msgid "Export Sound"
-msgstr ""
+msgstr "Flyt ljóð út"
 
 msgid "Export Sprite"
-msgstr ""
+msgstr "Flyt tekning út"
 
 msgid "export this costume"
-msgstr "útles hendan búna"
+msgstr "flyt búnan út"
 
 msgid "export this sound"
-msgstr "útles hetta ljóðið"
+msgstr "flyt ljóðið út"
 
 msgid "export this sprite"
-msgstr ""
+msgstr "flyt tekning út"
 
 msgid "Extras menu"
-msgstr ""
+msgstr "Eyka valmynd"
 
 msgid "Eyedropper tool (select a color)"
-msgstr ""
+msgstr "Amboð til eygnadropar (vel lit)"
 
 msgid "Failed:"
-msgstr ""
+msgstr "Miseydnaðist:"
 
 msgid "false"
-msgstr ""
+msgstr "rangur"
 
 msgid "File"
 msgstr "Fíla"
@@ -735,13 +735,13 @@ msgid "File not found"
 msgstr "Fíla ikki funnin"
 
 msgid "Fill tool (fill areas with color or gradient)"
-msgstr ""
+msgstr "Amboð til ífylling (fyll øki við liti ella gradienti)"
 
 msgid "first"
-msgstr ""
+msgstr "fyrstur"
 
 msgid "fisheye"
-msgstr ""
+msgstr "fiskaeyga"
 
 msgid "Flash blocks (fast)"
 msgstr ""
@@ -777,7 +777,7 @@ msgid "ghost"
 msgstr ""
 
 msgid "Go To Scratch Website"
-msgstr ""
+msgstr "Far til Scratch vevsíðuna"
 
 msgid "grab screen region for new costume"
 msgstr ""
@@ -786,13 +786,13 @@ msgid "grab screen region for new sprite"
 msgstr ""
 
 msgid "Grow"
-msgstr ""
+msgstr "Ger størri"
 
 msgid "Grow sprite"
-msgstr ""
+msgstr "Ger tekning størri"
 
 msgid "hello "
-msgstr ""
+msgstr "hey"
 
 msgid "Hello!"
 msgstr "Hey!"
@@ -804,55 +804,55 @@ msgid "Help"
 msgstr "Hjálp"
 
 msgid "Help Page"
-msgstr ""
+msgstr "Hjálparsíða"
 
 msgid "Help Screens"
-msgstr ""
+msgstr "Hjálparskermur"
 
 msgid "Hide Motor Blocks"
-msgstr ""
+msgstr "Fjal motorkubbar"
 
 msgid "High (biggest)"
-msgstr ""
+msgstr "Høgur (størstur)"
 
 msgid "Hmm..."
-msgstr ""
+msgstr "Hmm..."
 
 msgid "Home"
-msgstr ""
+msgstr "Heim"
 
 msgid "Images compressed"
-msgstr ""
+msgstr "Myndin komprimerað"
 
 msgid "import"
-msgstr "innles"
+msgstr "Flyt inn"
 
 msgid "Import"
-msgstr "Innles"
+msgstr "Flyt inn"
 
 msgid "Import an image on top of your current canvas"
-msgstr "Innles eina mynd omaná títt núverandi lørift"
+msgstr "Flyt eina mynd inn á verandi lørift"
 
 msgid "Import Background"
-msgstr "Innles bakgrund"
+msgstr "Les bakgrund inn"
 
 msgid "Import Costume"
-msgstr "Innles búna"
+msgstr "Flyt búna inn"
 
 msgid "Import Image"
-msgstr "Innles mynd"
+msgstr "Flyt mynd inn"
 
 msgid "Import List"
-msgstr "Innles lista"
+msgstr "Flyt lista inn"
 
 msgid "Import Project"
 msgstr "Innles verkætlan"
 
 msgid "import project"
-msgstr "innles verkætlan"
+msgstr "Flyt verkætlan inn"
 
 msgid "Import Sound"
-msgstr "Innles ljóð"
+msgstr "Flyt ljóð inn"
 
 msgid "Incompatible Scratch file format"
 msgstr ""
@@ -864,22 +864,22 @@ msgid "JPEG Quality (10-100)?"
 msgstr "JPEG góðska (10-100)?"
 
 msgid "kbytes"
-msgstr "kilobýt"
+msgstr "kilobyte"
 
 msgid "Language"
 msgstr "Mál"
 
 msgid "large readout"
-msgstr "stór útlesing"
+msgstr "stór útflyting"
 
 msgid "last"
 msgstr "síðsta"
 
 msgid "left"
-msgstr "vinstra"
+msgstr "vinstru"
 
 msgid "left arrow"
-msgstr "vinstapílur"
+msgstr "vinstipílur"
 
 msgid "length"
 msgstr "longd"
@@ -888,28 +888,28 @@ msgid "light"
 msgstr "ljós"
 
 msgid "Line tool (draw lines)"
-msgstr ""
+msgstr "Amboð til linjur (tekna linjur)"
 
 msgid "List name?"
-msgstr ""
+msgstr "Navn á lista?"
 
 msgid "Low"
-msgstr ""
+msgstr "Lágur"
 
 msgid "Lowest (smallest)"
-msgstr ""
+msgstr "Lægstur (minstur)"
 
 msgid "Make a list"
-msgstr ""
+msgstr "Ger nýggjan lista"
 
 msgid "Make a variable"
-msgstr ""
+msgstr "Ger nýggjan brigdil"
 
 msgid "Max:"
-msgstr ""
+msgstr "Hámark:"
 
 msgid "meow"
-msgstr ""
+msgstr "mjavv"
 
 msgid "Message name:"
 msgstr ""
@@ -969,10 +969,10 @@ msgid "New sound:"
 msgstr ""
 
 msgid "New Sprite"
-msgstr ""
+msgstr "Nýggj tekning"
 
 msgid "New sprite:"
-msgstr ""
+msgstr "Nýggj tekning:"
 
 msgid "No"
 msgstr ""
@@ -984,7 +984,7 @@ msgid "No motion blocks"
 msgstr ""
 
 msgid "no scripts"
-msgstr ""
+msgstr "eingi boðrit"
 
 msgid "No serial ports found"
 msgstr ""
@@ -1029,7 +1029,7 @@ msgid "Paint Editor"
 msgstr ""
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "Tekna nýggja tekning"
 
 msgid "Paintbrush"
 msgstr ""
@@ -1074,7 +1074,7 @@ msgid "Project notes"
 msgstr ""
 
 msgid "Project uploaded."
-msgstr ""
+msgstr "Verkætlanin er nú løgd út."
 
 msgid "Projects"
 msgstr ""
@@ -1122,10 +1122,10 @@ msgid "reverse"
 msgstr ""
 
 msgid "right"
-msgstr ""
+msgstr "høgru"
 
 msgid "right arrow"
-msgstr ""
+msgstr "høgripílur"
 
 msgid "Rotate clock-wise"
 msgstr ""
@@ -1155,7 +1155,7 @@ msgid "Save failed"
 msgstr ""
 
 msgid "save picture of scripts"
-msgstr ""
+msgstr "goym myndir av boðritum"
 
 msgid "save picture of stage..."
 msgstr ""
@@ -1176,22 +1176,22 @@ msgid "Save the current project?"
 msgstr ""
 
 msgid "Save this project"
-msgstr ""
+msgstr "Goym verkætlanina"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Boðrit"
 
 msgid "select serial/USB port"
 msgstr ""
 
 msgid "Select tool (move, modify, or delete selection)"
-msgstr ""
+msgstr "Vel amboð (flyt, broyt ella strika tað ið valt er)"
 
 msgid "Set costume center"
 msgstr ""
 
 msgid "Set language"
-msgstr ""
+msgstr "Áset mál"
 
 msgid "Set rotation center"
 msgstr ""
@@ -1203,13 +1203,13 @@ msgid "set slider min and max"
 msgstr ""
 
 msgid "Share"
-msgstr ""
+msgstr "Deil"
 
 msgid "Share this project"
-msgstr ""
+msgstr "Deil verkætlanina"
 
 msgid "Share This Project Online"
-msgstr ""
+msgstr "Deil verkætlanina á netinum"
 
 msgid "Show Motor Blocks"
 msgstr ""
@@ -1242,13 +1242,13 @@ msgid "Sound Recorder"
 msgstr ""
 
 msgid "Sounds"
-msgstr ""
+msgstr "Ljóð"
 
 msgid "Sounds compressed"
-msgstr ""
+msgstr "Ljóðini eru nú komrimerað"
 
 msgid "space"
-msgstr ""
+msgstr "millumrúm"
 
 msgid "Sprite"
 msgstr ""
@@ -1275,22 +1275,22 @@ msgid "Start Single Stepping"
 msgstr ""
 
 msgid "stop"
-msgstr ""
+msgstr "steðga"
 
 msgid "Stop everything"
-msgstr ""
+msgstr "steðga øllum"
 
 msgid "Stop Single Stepping"
 msgstr ""
 
 msgid "Story"
-msgstr ""
+msgstr "Søga"
 
 msgid "Support Site"
-msgstr ""
+msgstr "Hjálparsíða"
 
 msgid "Switch colors"
-msgstr ""
+msgstr "Skift litir"
 
 msgid "Switch to full stage"
 msgstr ""
@@ -1326,7 +1326,7 @@ msgid "tilt"
 msgstr ""
 
 msgid "true"
-msgstr ""
+msgstr "satt"
 
 msgid "Turbo speed"
 msgstr ""
@@ -1335,43 +1335,43 @@ msgid "turn into new sprite"
 msgstr ""
 
 msgid "Undelete"
-msgstr ""
+msgstr "Angra striking"
 
 msgid "Undo"
-msgstr ""
+msgstr "Angra"
 
 msgid "up"
-msgstr ""
+msgstr "uppeftir"
 
 msgid "up arrow"
-msgstr ""
+msgstr "Pílur upp"
 
 msgid "Updating thumbnails"
-msgstr ""
+msgstr "Dagførir tummilútgávu"
 
 msgid "Upload succeeded!"
-msgstr ""
+msgstr "Tað eydnaðist at leggja út!"
 
 msgid "Upload to Scratch Server"
-msgstr ""
+msgstr "Legg inn á Scratch-ambætaran"
 
 msgid "Uploading"
-msgstr ""
+msgstr "Leggur út"
 
 msgid "Variable name?"
-msgstr ""
+msgstr "Navn á brigdli?"
 
 msgid "View on stage"
 msgstr ""
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Hvussu eitur tú?"
 
 msgid "whirl"
 msgstr ""
 
 msgid "world"
-msgstr ""
+msgstr "heimur"
 
 msgid "Write Multiple Project Summaries"
 msgstr ""
@@ -1380,24 +1380,23 @@ msgid "Write Project Summary"
 msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 msgid "Your project is now online at"
-msgstr ""
+msgstr "Tín verkætlan er nú á netinum á"
 
 msgid "Your Scratch website login name:"
-msgstr ""
+msgstr "Innritingarnavnið til tína Scratch-vevsíðu:"
 
 msgid "Zoom in"
-msgstr ""
+msgstr "Zooma inn"
 
 msgid "Zoom out"
-msgstr ""
+msgstr "Zooma út"
 
 ############################################
 # MIDI INSTRUMENTS
 ############################################
-
 msgid "Accordion"
 msgstr ""
 
@@ -1420,10 +1419,10 @@ msgid "Alto Sax"
 msgstr ""
 
 msgid "Applause"
-msgstr ""
+msgstr "Lógvabrestir"
 
 msgid "Bagpipe"
-msgstr ""
+msgstr "Sekkjapípa"
 
 msgid "Banjo"
 msgstr ""
@@ -1909,16 +1908,16 @@ msgid "Viola"
 msgstr ""
 
 msgid "Violin"
-msgstr ""
+msgstr "Violin"
 
 msgid "Voice Oohs"
 msgstr ""
 
 msgid "Whistle"
-msgstr ""
+msgstr "Floyta"
 
 msgid "Woodblock"
-msgstr ""
+msgstr "Trækubbi"
 
 msgid "Xylophone"
 msgstr ""

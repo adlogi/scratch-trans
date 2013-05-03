@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:15+0200\n"
+"POT-Creation-Date: 2013-05-02 05:45+0200\n"
 "PO-Revision-Date: 2013-04-27 13:43+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,9 @@ msgid "10 ^"
 msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-msgstr "<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されません(削除されます)。<br>詳細な情報は <a href="/help/faq/clouddata" target="_blank">クラウドデータFAQを読んでください!</a>"
+msgstr ""
+"<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されません(削除され"
+"ます)。<br>詳細な情報は <a href= target=>クラウドデータFAQを読んでください!</a>"
 
 msgid "A connected"
 msgstr "Aがつながれた"
@@ -49,10 +51,10 @@ msgstr "数値の引数を追加:"
 msgid "Add string input:"
 msgstr "文字列の引数を追加:"
 
-msgid "all"
+msgid "All"
 msgstr "すべて"
 
-msgid "All"
+msgid "all"
 msgstr "すべて"
 
 msgid "all around"
@@ -79,11 +81,11 @@ msgstr "Bがつながれた"
 msgid "Back a layer"
 msgstr "レイヤーを下げる"
 
-# 88%
-msgid "backdrop"
+msgid "Backdrop"
 msgstr "背景"
 
-msgid "Backdrop"
+# 88%
+msgid "backdrop"
 msgstr "背景"
 
 msgid "backdrop #"
@@ -185,6 +187,18 @@ msgstr "チェロ"
 
 msgid "Choir"
 msgstr "合唱団"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 msgid "Circle"
 msgstr "円"
@@ -331,10 +345,10 @@ msgstr "ダウンロード"
 msgid "Download to your computer"
 msgstr "手元のコンピューターにダウンロード"
 
-msgid "Duplicate"
+msgid "duplicate"
 msgstr "複製"
 
-msgid "duplicate"
+msgid "Duplicate"
 msgstr "複製"
 
 msgid "e ^"
@@ -577,8 +591,14 @@ msgstr "自然"
 msgid "New"
 msgstr "新規"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 msgid "New backdrop:"
 msgstr "新しい背景:"
+
+msgid "New costume from camera"
+msgstr ""
 
 msgid "New costume:"
 msgstr "新しいコスチューム:"
@@ -594,6 +614,9 @@ msgstr "新しい名前"
 
 msgid "New sound:"
 msgstr "新しい音:"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "新しいスプライト:"
@@ -644,6 +667,15 @@ msgstr "スプライトの他のスクリプト"
 msgid "Outdoors"
 msgstr "屋外"
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "貼り付け"
 
@@ -686,16 +718,19 @@ msgstr "乱数"
 msgid "Record"
 msgstr "録音"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "録音1"
 
 msgid "Rectangle"
 msgstr "四角形"
 
-msgid "redo"
+msgid "Redo"
 msgstr "やり直し"
 
-msgid "Redo"
+msgid "redo"
 msgstr "やり直し"
 
 msgid "Remix"
@@ -869,10 +904,10 @@ msgstr "スネアドラム"
 msgid "softer"
 msgstr "柔らかく"
 
-msgid "Sound"
+msgid "sound"
 msgstr "音"
 
-msgid "sound"
+msgid "Sound"
 msgstr "音"
 
 msgid "Sound Library"
@@ -946,7 +981,9 @@ msgid "Things"
 msgstr "もの"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
-msgstr "このプロジェクトは「ユーザー名」ブロックを使って、誰が使っているかを検出します。特定されたくない場合はこのプロジェクトを使う前にサインアウトしてください。"
+msgstr ""
+"このプロジェクトは「ユーザー名」ブロックを使って、誰が使っているかを検出します。特定されたくない場合はこのプロジェクトを使う前にサインアウトしてください"
+"。"
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr "このプロジェクトはクラウドデータを使っています。この機能はサインインしたユーザーだけ使うことができます。"
@@ -1017,8 +1054,20 @@ msgstr "上"
 msgid "up arrow"
 msgstr "上向き矢印"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
 msgstr "手元のコンピューターからアップロード"
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
 
 msgid "Uploading image..."
 msgstr "画像をアップロード中..."

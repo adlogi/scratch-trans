@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:16+0200\n"
+"POT-Creation-Date: 2013-05-02 05:46+0200\n"
 "PO-Revision-Date: 2013-02-22 20:03+0200\n"
 "Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,11 +56,11 @@ msgstr "Skaitinė reikšmė"
 msgid "Add string input:"
 msgstr "Tekstinė reikšmė"
 
-msgid "all"
-msgstr "viskas"
-
 msgid "All"
 msgstr ""
+
+msgid "all"
+msgstr "viskas"
 
 msgid "all around"
 msgstr "aplinkui"
@@ -86,12 +86,12 @@ msgstr "B sujungta"
 msgid "Back a layer"
 msgstr ""
 
-msgid "backdrop"
-msgstr "fonas"
-
 # 87%
 #, fuzzy
 msgid "Backdrop"
+msgstr "fonas"
+
+msgid "backdrop"
 msgstr "fonas"
 
 msgid "backdrop #"
@@ -195,6 +195,18 @@ msgstr "Violončelė"
 msgid "Choir"
 msgstr "Choras"
 
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
+
 msgid "Circle"
 msgstr ""
 
@@ -286,8 +298,11 @@ msgstr "kaukė 1"
 msgid "Costumes > 1"
 msgstr ""
 
+# 75%
+# 88%
+#, fuzzy
 msgid "Costumes:"
-msgstr ""
+msgstr "kaukė 1"
 
 msgid "Cowbell"
 msgstr "Skrabalas"
@@ -347,10 +362,10 @@ msgstr ""
 msgid "Download to your computer"
 msgstr ""
 
-msgid "Duplicate"
+msgid "duplicate"
 msgstr "dubliuoti"
 
-msgid "duplicate"
+msgid "Duplicate"
 msgstr "dubliuoti"
 
 msgid "e ^"
@@ -595,10 +610,16 @@ msgstr ""
 msgid "New"
 msgstr "Nouveau"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 # 92%
 #, fuzzy
 msgid "New backdrop:"
 msgstr "Naujas fonas"
+
+msgid "New costume from camera"
+msgstr ""
 
 # 91%
 #, fuzzy
@@ -618,6 +639,9 @@ msgstr ""
 #, fuzzy
 msgid "New sound:"
 msgstr "Naujas garsas"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Naujas veikėjas:"
@@ -667,6 +691,15 @@ msgstr "kiti veikėjo scenarijai"
 msgid "Outdoors"
 msgstr ""
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "įklijuoti"
 
@@ -711,18 +744,21 @@ msgstr "atsitiktinis"
 msgid "Record"
 msgstr "įrašyti"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "įrašas 1"
 
 msgid "Rectangle"
 msgstr ""
 
-msgid "redo"
-msgstr "Pakartoti"
-
 # 75%
 #, fuzzy
 msgid "Redo"
+msgstr "Pakartoti"
+
+msgid "redo"
 msgstr "Pakartoti"
 
 msgid "Remix"
@@ -902,19 +938,22 @@ msgstr "Mažasis būgnas"
 msgid "softer"
 msgstr "švelniau"
 
+msgid "sound"
+msgstr "garsas"
+
 # 80%
 #, fuzzy
 msgid "Sound"
 msgstr "garsas"
 
-msgid "sound"
-msgstr "garsas"
-
 msgid "Sound Library"
 msgstr ""
 
+# 80%
+# 83%
+#, fuzzy
 msgid "Sounds"
-msgstr ""
+msgstr "garsas"
 
 msgid "space"
 msgstr "<tarpas>"
@@ -1063,7 +1102,19 @@ msgstr "aukštyn"
 msgid "up arrow"
 msgstr "rodyklė aukštyn"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
+msgstr ""
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
 msgstr ""
 
 msgid "Uploading image..."

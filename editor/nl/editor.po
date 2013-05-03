@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:16+0200\n"
-"PO-Revision-Date: 2013-04-27 17:39+0200\n"
+"POT-Creation-Date: 2013-05-02 05:46+0200\n"
+"PO-Revision-Date: 2013-05-03 16:16+0200\n"
 "Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -52,11 +52,11 @@ msgstr "Voeg getalveld toe:"
 msgid "Add string input:"
 msgstr "Voeg tekstvak toe:"
 
-msgid "all"
-msgstr "alle"
-
 msgid "All"
 msgstr "Alle"
+
+msgid "all"
+msgstr "alle"
 
 # wordt waarschijnlijk gebruikt bij rotatiemogelijkheden van een sprite
 msgid "all around"
@@ -83,11 +83,11 @@ msgstr "B verbonden"
 msgid "Back a layer"
 msgstr "Een laag terug"
 
-msgid "backdrop"
-msgstr "achtergrond"
-
 msgid "Backdrop"
 msgstr "Achtergrond"
+
+msgid "backdrop"
+msgstr "achtergrond"
 
 msgid "backdrop #"
 msgstr "achtergrond #"
@@ -188,6 +188,18 @@ msgstr "Cello"
 
 msgid "Choir"
 msgstr "Koor"
+
+msgid "Choose backdrop from library"
+msgstr "Kies achtergrond uit bibliotheek"
+
+msgid "Choose costume from library"
+msgstr "Kies uiterlijk uit bibliotheek"
+
+msgid "Choose sound from library"
+msgstr "Kies geluid uit bibliotheek"
+
+msgid "Choose sprite from library"
+msgstr "Kies sprite uit bibliotheek"
 
 msgid "Circle"
 msgstr "Cirkel"
@@ -336,11 +348,11 @@ msgstr "Download"
 msgid "Download to your computer"
 msgstr "Naar je computer downloaden"
 
-msgid "Duplicate"
-msgstr "Kopie maken"
-
 msgid "duplicate"
 msgstr "kopie maken"
+
+msgid "Duplicate"
+msgstr "Kopie maken"
 
 msgid "e ^"
 msgstr "e ^"
@@ -582,8 +594,14 @@ msgstr "Natuur"
 msgid "New"
 msgstr "Nieuw"
 
+msgid "New backdrop from camera"
+msgstr "Nieuwe achtergrond voor camera"
+
 msgid "New backdrop:"
 msgstr "Nieuwe achtergrond:"
+
+msgid "New costume from camera"
+msgstr "Nieuw uiterlijk voor camera"
 
 # 91%
 msgid "New costume:"
@@ -600,6 +618,9 @@ msgstr "Nieuw naam"
 
 msgid "New sound:"
 msgstr "Nieuw geluid:"
+
+msgid "New sprite from camera"
+msgstr "Nieuwe sprite voor camera"
 
 msgid "New sprite:"
 msgstr "Nieuwe sprite:"
@@ -649,6 +670,15 @@ msgstr "andere scripts in sprite"
 msgid "Outdoors"
 msgstr "Buiten"
 
+msgid "Paint new backdrop"
+msgstr "Teken nieuwe achtergrond"
+
+msgid "Paint new costume"
+msgstr "Teken nieuw uiterlijk"
+
+msgid "Paint new sprite"
+msgstr "Teken nieuwe sprite"
+
 msgid "paste"
 msgstr "plakken"
 
@@ -691,17 +721,20 @@ msgstr "willekeurig"
 msgid "Record"
 msgstr "Opnemen"
 
+msgid "Record new sound"
+msgstr "Neem nieuw geluid op"
+
 msgid "recording1"
 msgstr "opname1"
 
 msgid "Rectangle"
 msgstr "Rechthoek"
 
-msgid "redo"
-msgstr "opnieuw"
-
 msgid "Redo"
 msgstr "Opnieuw"
+
+msgid "redo"
+msgstr "opnieuw"
 
 msgid "Remix"
 msgstr "Remix"
@@ -875,12 +908,12 @@ msgstr "Kleine trom"
 msgid "softer"
 msgstr "zachter"
 
+msgid "sound"
+msgstr "geluid"
+
 # 80%
 msgid "Sound"
 msgstr "Geluid"
-
-msgid "sound"
-msgstr "geluid"
 
 msgid "Sound Library"
 msgstr "Geluidenbibliotheek"
@@ -1031,8 +1064,20 @@ msgstr "omhoog"
 msgid "up arrow"
 msgstr "pijltje omhoog"
 
+msgid "Upload backdrop from file"
+msgstr "Upload achtergrond"
+
+msgid "Upload costume from file"
+msgstr "Upload uiterlijk"
+
 msgid "Upload from your computer"
 msgstr "Uploaden vanaf je computer"
+
+msgid "Upload sound from file"
+msgstr "Upload geluid"
+
+msgid "Upload sprite from file"
+msgstr "Upload sprite"
 
 msgid "Uploading image..."
 msgstr "Afbeelding uploaden..."

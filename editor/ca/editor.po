@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:14+0200\n"
+"POT-Creation-Date: 2013-05-02 05:43+0200\n"
 "PO-Revision-Date: 2013-04-27 14:23+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,11 +56,11 @@ msgstr "Afegeix una entrada per números:"
 msgid "Add string input:"
 msgstr "Afegeix una entrada per text:"
 
-msgid "all"
-msgstr "tot"
-
 msgid "All"
 msgstr "Tot"
+
+msgid "all"
+msgstr "tot"
 
 msgid "all around"
 msgstr "al voltant"
@@ -87,13 +87,13 @@ msgid "Back a layer"
 msgstr "Endarrere una capa"
 
 # 88%
-msgid "backdrop"
-msgstr "fons"
-
-# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Fons"
+
+# 88%
+msgid "backdrop"
+msgstr "fons"
 
 msgid "backdrop #"
 msgstr "fons nr"
@@ -111,7 +111,6 @@ msgstr "fons1"
 msgid "backdrops"
 msgstr "fons"
 
-# 88%
 # 88%
 msgid "Backdrops"
 msgstr "Fons"
@@ -196,6 +195,18 @@ msgstr "Violoncel"
 
 msgid "Choir"
 msgstr "Cor de veus"
+
+msgid "Choose backdrop from library"
+msgstr ""
+
+msgid "Choose costume from library"
+msgstr ""
+
+msgid "Choose sound from library"
+msgstr ""
+
+msgid "Choose sprite from library"
+msgstr ""
 
 msgid "Circle"
 msgstr "Cercle"
@@ -346,11 +357,11 @@ msgstr "Descarrega"
 msgid "Download to your computer"
 msgstr "Descarrega al teu ordinador"
 
-msgid "Duplicate"
-msgstr "Duplica"
-
 msgid "duplicate"
 msgstr "duplica"
+
+msgid "Duplicate"
+msgstr "Duplica"
 
 msgid "e ^"
 msgstr "e ^"
@@ -593,9 +604,15 @@ msgstr "Natura"
 msgid "New"
 msgstr "Nou"
 
+msgid "New backdrop from camera"
+msgstr ""
+
 # 92%
 msgid "New backdrop:"
 msgstr "Nou fons:"
+
+msgid "New costume from camera"
+msgstr ""
 
 # 91%
 msgid "New costume:"
@@ -613,6 +630,9 @@ msgstr "Nou nom"
 # 90%
 msgid "New sound:"
 msgstr "Nou so:"
+
+msgid "New sprite from camera"
+msgstr ""
 
 msgid "New sprite:"
 msgstr "Nou personatge:"
@@ -663,6 +683,15 @@ msgstr "altres programes del personatge"
 msgid "Outdoors"
 msgstr "Exteriors"
 
+msgid "Paint new backdrop"
+msgstr ""
+
+msgid "Paint new costume"
+msgstr ""
+
+msgid "Paint new sprite"
+msgstr ""
+
 msgid "paste"
 msgstr "enganxa"
 
@@ -706,18 +735,21 @@ msgstr "aleatori"
 msgid "Record"
 msgstr "Grava"
 
+msgid "Record new sound"
+msgstr ""
+
 msgid "recording1"
 msgstr "gravació1"
 
 msgid "Rectangle"
 msgstr "Rectangle"
 
-msgid "redo"
-msgstr "torna-hi"
-
 # 75%
 msgid "Redo"
 msgstr "Torna-hi"
+
+msgid "redo"
+msgstr "torna-hi"
 
 msgid "Remix"
 msgstr "Reinventa"
@@ -893,12 +925,12 @@ msgstr "Tambor militar petit"
 msgid "softer"
 msgstr "més fluix"
 
+msgid "sound"
+msgstr "so"
+
 # 80%
 msgid "Sound"
 msgstr "So"
-
-msgid "sound"
-msgstr "so"
 
 msgid "Sound Library"
 msgstr "Galeria de Sons"
@@ -923,7 +955,6 @@ msgstr "Personatge"
 msgid "Sprite Library"
 msgstr "Galeria de Personatges"
 
-# 85%
 # 85%
 msgid "Sprite1"
 msgstr "Personatge1"
@@ -1058,8 +1089,20 @@ msgstr "amunt"
 msgid "up arrow"
 msgstr "fletxa amunt"
 
+msgid "Upload backdrop from file"
+msgstr ""
+
+msgid "Upload costume from file"
+msgstr ""
+
 msgid "Upload from your computer"
 msgstr "Carrega des del teu ordinador"
+
+msgid "Upload sound from file"
+msgstr ""
+
+msgid "Upload sprite from file"
+msgstr ""
 
 msgid "Uploading image..."
 msgstr "Pujant imatge..."

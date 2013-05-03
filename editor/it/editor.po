@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-26 00:15+0200\n"
-"PO-Revision-Date: 2013-04-26 22:52+0200\n"
+"POT-Creation-Date: 2013-05-02 05:45+0200\n"
+"PO-Revision-Date: 2013-05-02 23:20+0200\n"
 "Last-Translator: s_federici <s_federici@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -40,7 +40,7 @@ msgstr "acos"
 
 # 90%
 msgid "Add boolean input:"
-msgstr "Aggiungi un parametro booleano:"
+msgstr "Aggiungi input booleano:"
 
 msgid "add comment"
 msgstr "aggiungi un commento"
@@ -56,14 +56,14 @@ msgstr "Aggiungi un parametro numerico:"
 msgid "Add string input:"
 msgstr "Aggiungi un parametro stringa:"
 
-msgid "all"
-msgstr "tutto"
-
 msgid "All"
 msgstr "Tutto"
 
+msgid "all"
+msgstr "tutto"
+
 msgid "all around"
-msgstr "può rotare"
+msgstr "può ruotare"
 
 msgid "Animal"
 msgstr "Animale"
@@ -87,13 +87,13 @@ msgid "Back a layer"
 msgstr "Indietro di un livello"
 
 # 88%
-msgid "backdrop"
-msgstr "sfondo1"
-
-# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Sfondo"
+
+# 88%
+msgid "backdrop"
+msgstr "sfondo1"
 
 msgid "backdrop #"
 msgstr "numero sfondo"
@@ -111,7 +111,6 @@ msgstr "sfondo1"
 msgid "backdrops"
 msgstr "sfondi"
 
-# 88%
 # 88%
 msgid "Backdrops"
 msgstr "Sfondi"
@@ -196,6 +195,18 @@ msgstr "Violoncello"
 
 msgid "Choir"
 msgstr "Coro"
+
+msgid "Choose backdrop from library"
+msgstr "Scegli uno sfondo dalla libreria"
+
+msgid "Choose costume from library"
+msgstr "Scegli un costume dalla libreria"
+
+msgid "Choose sound from library"
+msgstr "Scegli un suono dalla libreria"
+
+msgid "Choose sprite from library"
+msgstr "Scegli uno sprite dalla libreria"
 
 msgid "Circle"
 msgstr "Cerchio"
@@ -310,7 +321,7 @@ msgid "D connected"
 msgstr "D connesso"
 
 msgid "date"
-msgstr "data"
+msgstr "giorno"
 
 msgid "day of week"
 msgstr "giorno della settimana"
@@ -347,11 +358,11 @@ msgstr "Download"
 msgid "Download to your computer"
 msgstr "Download sul tuo computer"
 
-msgid "Duplicate"
-msgstr "Duplica"
-
 msgid "duplicate"
 msgstr "duplica"
+
+msgid "Duplicate"
+msgstr "Duplica"
 
 msgid "e ^"
 msgstr "e ^"
@@ -565,13 +576,13 @@ msgid "mosaic"
 msgstr "mosaico"
 
 msgid "motion"
-msgstr "Movimento"
+msgstr "movimento"
 
 msgid "mouse-pointer"
 msgstr "puntatore del mouse"
 
 msgid "Multiple"
-msgstr "Multiplo"
+msgstr "Copia Multipla"
 
 msgid "Music and Dance"
 msgstr "Musica e Danza"
@@ -594,9 +605,15 @@ msgstr "Natura"
 msgid "New"
 msgstr "Nuovo"
 
+msgid "New backdrop from camera"
+msgstr "Nuovo sfondo dalla webcam"
+
 # 92%
 msgid "New backdrop:"
 msgstr "Nuovo sfondo:"
+
+msgid "New costume from camera"
+msgstr "Nuovo costume dalla webcam"
 
 # 91%
 msgid "New costume:"
@@ -614,6 +631,9 @@ msgstr "Nuovo nome"
 # 90%
 msgid "New sound:"
 msgstr "Nuovo suono:"
+
+msgid "New sprite from camera"
+msgstr "Nuovo sprite dalla webcam"
 
 msgid "New sprite:"
 msgstr "Nuovo sprite:"
@@ -658,10 +678,19 @@ msgid "Other"
 msgstr "Altro"
 
 msgid "other scripts in sprite"
-msgstr "altri script dello sprite"
+msgstr "tutti gli altri script dello sprite"
 
 msgid "Outdoors"
 msgstr "Esterni"
+
+msgid "Paint new backdrop"
+msgstr "Disegna un nuovo sfondo"
+
+msgid "Paint new costume"
+msgstr "Disegna un nuovo costume"
+
+msgid "Paint new sprite"
+msgstr "Disegna un nuovo sprite"
 
 msgid "paste"
 msgstr "incolla"
@@ -706,18 +735,21 @@ msgstr "a caso"
 msgid "Record"
 msgstr "Registra"
 
+msgid "Record new sound"
+msgstr "Registra un nuovo suono"
+
 msgid "recording1"
 msgstr "registrazione1"
 
 msgid "Rectangle"
 msgstr "Rettangolo"
 
-msgid "redo"
-msgstr "ripristina"
-
 # 75%
 msgid "Redo"
 msgstr "Ripristina"
+
+msgid "redo"
+msgstr "ripristina"
 
 msgid "Remix"
 msgstr "Remix"
@@ -882,7 +914,7 @@ msgid "Slider Range"
 msgstr "Scegli minimo e massimo del Cursore"
 
 msgid "Small stage layout"
-msgstr "Passa alla visualizzazione con Stage piccolo"
+msgstr "Visualizzazione con Stage piccolo"
 
 msgid "Smooth"
 msgstr "Smussa"
@@ -893,12 +925,12 @@ msgstr "Rullante"
 msgid "softer"
 msgstr "meno forte"
 
+msgid "sound"
+msgstr "suono"
+
 # 80%
 msgid "Sound"
 msgstr "Suono"
-
-msgid "sound"
-msgstr "suono"
 
 msgid "Sound Library"
 msgstr "Libreria Suoni"
@@ -923,7 +955,6 @@ msgstr "Sprite"
 msgid "Sprite Library"
 msgstr "Libreria Sprite"
 
-# 85%
 # 85%
 msgid "Sprite1"
 msgstr "Sprite1"
@@ -1056,8 +1087,20 @@ msgstr "su"
 msgid "up arrow"
 msgstr "freccia su"
 
+msgid "Upload backdrop from file"
+msgstr "Carica uno sfondo da un file"
+
+msgid "Upload costume from file"
+msgstr "Carica un costume da un file"
+
 msgid "Upload from your computer"
 msgstr "Carica dal tuo computer"
+
+msgid "Upload sound from file"
+msgstr "Carica un suono da un file"
+
+msgid "Upload sprite from file"
+msgstr "Carica uno sprite da un file"
 
 msgid "Uploading image..."
 msgstr "Caricamento dell'immagine in corso..."
@@ -1090,7 +1133,7 @@ msgid "video motion"
 msgstr "movimento del video"
 
 msgid "Video on:"
-msgstr "video della webcam rispetto a:"
+msgstr "Webcam:"
 
 msgid "Vocals"
 msgstr "Canti"

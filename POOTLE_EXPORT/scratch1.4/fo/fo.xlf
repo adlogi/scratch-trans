@@ -8,31 +8,31 @@
         <note from="translator">##########################################&#13;
 FORMATTING&#13;
 ##########################################&#13;
-Language name as you'd like it to appear in the Languages menu&lt;br /&gt;
-&lt;br /&gt;
+Language name as you'd like it to appear in the Languages menu&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
 (Required)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Language-Direction">
         <source>Language-Direction</source>
         <target state="translated">LTR</target>
-        <note from="translator">Directionality of language&lt;br /&gt;
-&lt;br /&gt;
-LTR = Left to Right&lt;br /&gt;
-&lt;br /&gt;
+        <note from="translator">Directionality of language&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+LTR = Left to Right&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
 RTL = Right to Left</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Font-Scale">
         <source>Font-Scale</source>
         <target state="translated">1</target>
-        <note from="translator">Scale to apply to font size (2 for twice as large)&amp;lt;br /&amp;gt;&lt;br /&gt;
-&amp;lt;br /&amp;gt;&lt;br /&gt;
+        <note from="translator">Scale to apply to font size (2 for twice as large)&amp;lt;br /&amp;gt;&lt;br /&gt;&#13;
+&amp;lt;br /&amp;gt;&lt;br /&gt;&#13;
 Use this if the font is too small for legibility on the Scratch interface</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Suppress-Bold">
         <source>Suppress-Bold</source>
         <target state="translated">false</target>
-        <note from="translator">Set to 'true' or 'false'&amp;lt;br /&amp;gt;&lt;br /&gt;
-&amp;lt;br /&amp;gt;&lt;br /&gt;
+        <note from="translator">Set to 'true' or 'false'&amp;lt;br /&amp;gt;&lt;br /&gt;&#13;
+&amp;lt;br /&amp;gt;&lt;br /&gt;&#13;
 Use this if you do not want any of the text to be bolded, for legibility</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Win-Font">
@@ -55,7 +55,11 @@ Use this if you do not want any of the text to be bolded, for legibility</note>
         <target state="translated"></target>
         <note from="translator">##########################################&#13;
 BLOCKS&#13;
-##########################################&#13;</note>
+##########################################&#13;
+</note>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>virðið á sensorinum %H</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%L contains %s">
         <source>%L contains %s</source>
@@ -80,6 +84,9 @@ BLOCKS&#13;
       <trans-unit xml:space="preserve" approved="yes" id="%n mod %n">
         <source>%n mod %n</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>%n modulus %n</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="add %s to %L">
         <source>add %s to %L</source>
@@ -99,17 +106,11 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %e">
         <source>broadcast %e</source>
-        <target state="translated">send %e</target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>varpa út %e</target>
-        </alt-trans>
+        <target state="translated">send %e til øll</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %e and wait">
         <source>broadcast %e and wait</source>
-        <target state="translated">send %e og bíða</target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>varpa út %e og bíða</target>
-        </alt-trans>
+        <target state="translated">send %e til øll og bíða</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change %g effect by %n">
         <source>change %g effect by %n</source>
@@ -121,24 +122,15 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change pen color by %n">
         <source>change pen color by %n</source>
-        <target state="translated">broyt pennalit við %n</target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>broyt lit á penni við %n</target>
-        </alt-trans>
+        <target state="translated">broyt lit á penni við %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change pen shade by %n">
         <source>change pen shade by %n</source>
-        <target state="translated">broyt pennaskugga við %n</target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>broyt skugga á penni við %n</target>
-        </alt-trans>
+        <target state="translated">broyt skugga á penni við %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change pen size by %n">
         <source>change pen size by %n</source>
-        <target state="translated">broyt pennastødd við %n</target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>broyt stødd á penni við %n</target>
-        </alt-trans>
+        <target state="translated">broyt stødd á penni við %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change size by %n">
         <source>change size by %n</source>
@@ -150,10 +142,7 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change volume by %n">
         <source>change volume by %n</source>
-        <target state="translated">broyt stødd við %n</target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>broyt ljóðstyrki við %n</target>
-        </alt-trans>
+        <target state="translated">broyt ljóðstyrki við %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change x by %n">
         <source>change x by %n</source>
@@ -165,63 +154,39 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clear">
         <source>clear</source>
-        <target state="translated"></target>
+        <target state="translated">rudda</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clear graphic effects">
         <source>clear graphic effects</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>rudda grafiskar effektir</target>
-        </alt-trans>
+        <target state="translated">rudda grafiskar effektir</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color %C is touching %C?">
         <source>color %C is touching %C?</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>liturin %C nertir við %C?</target>
-        </alt-trans>
+        <target state="translated">nertir liturin %C við %C?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="control">
         <source>control</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>stýring</target>
-        </alt-trans>
+        <target state="translated">stýring</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="costume #">
         <source>costume #</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>búni #</target>
-        </alt-trans>
+        <target state="translated">búni #</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete %y of %L">
         <source>delete %y of %L</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>strika %y av %L</target>
-        </alt-trans>
+        <target state="translated">strika %y frá %L</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="direction">
         <source>direction</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>vegur</target>
-        </alt-trans>
+        <target state="translated">leið</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance to %m">
         <source>distance to %m</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>fjarstøða til %m</target>
-        </alt-trans>
+        <target state="translated">fjarstøða til %m</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="else">
         <source>else</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>ella</target>
-        </alt-trans>
+        <target state="translated">ella</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="forever">
         <source>forever</source>
@@ -233,10 +198,7 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
         <source>glide %n secs to x:%n y:%n</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>glíð %n sek til x:%n y:%n</target>
-        </alt-trans>
+        <target state="translated">glíð í %n sek til x:%n y:%n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go back %n layers">
         <source>go back %n layers</source>
@@ -251,22 +213,19 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to front">
         <source>go to front</source>
-        <target state="translated"></target>
+        <target state="translated">far fremst</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to x:%n y:%n">
         <source>go to x:%n y:%n</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="karihj">
-          <target>far til x:%n y:%n</target>
-        </alt-trans>
+        <target state="translated">far til x:%n y:%n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide">
         <source>hide</source>
-        <target state="translated">krógva</target>
+        <target state="translated">fjal</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide variable %v">
         <source>hide variable %v</source>
-        <target state="translated"></target>
+        <target state="translated">fjal brigdil %v</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if %b">
         <source>if %b</source>
@@ -274,35 +233,35 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if on edge, bounce">
         <source>if on edge, bounce</source>
-        <target state="translated"></target>
+        <target state="translated">hoppa aftur við kantin</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="insert %s at %i of %L">
         <source>insert %s at %i of %L</source>
-        <target state="translated"></target>
+        <target state="translated">innset %s við %i av %L</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="item %i of %L">
         <source>item %i of %L</source>
-        <target state="translated">liður %i av %L</target>
+        <target state="translated">punkt %i á %L</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="join %s %s">
         <source>join %s %s</source>
-        <target state="translated"></target>
+        <target state="translated">%s sambindir %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="key %k pressed?">
         <source>key %k pressed?</source>
-        <target state="translated"></target>
+        <target state="translated">um trýst er á knøttin %k?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="length of %L">
         <source>length of %L</source>
-        <target state="translated"></target>
+        <target state="translated">longd á %L</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="length of %s">
         <source>length of %s</source>
-        <target state="translated">longd av %s</target>
+        <target state="translated">longd á %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="letter %n of %s">
         <source>letter %n of %s</source>
-        <target state="translated"></target>
+        <target state="translated">bókstavur %n av %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="list">
         <source>list</source>
@@ -310,51 +269,51 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="looks">
         <source>looks</source>
-        <target state="translated"></target>
+        <target state="translated">útsjónd</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="loud?">
         <source>loud?</source>
-        <target state="translated"></target>
+        <target state="translated">hart frá?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="loudness">
         <source>loudness</source>
-        <target state="translated"></target>
+        <target state="translated">ljóðstyrki</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motion">
         <source>motion</source>
-        <target state="translated"></target>
+        <target state="translated">rørsla</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motor direction %W">
         <source>motor direction %W</source>
-        <target state="translated"></target>
+        <target state="translated">leið á motori %w</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motor off">
         <source>motor off</source>
-        <target state="translated"></target>
+        <target state="translated">sløkk motorin</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motor on">
         <source>motor on</source>
-        <target state="translated"></target>
+        <target state="translated">tendra motorin</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motor on for %n secs">
         <source>motor on for %n secs</source>
-        <target state="translated"></target>
+        <target state="translated">tendra motorin í %n sek</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="motor power %n">
         <source>motor power %n</source>
-        <target state="translated"></target>
+        <target state="translated">motormegi %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse down?">
         <source>mouse down?</source>
-        <target state="translated"></target>
+        <target state="translated">trýst á músina?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse x">
         <source>mouse x</source>
-        <target state="translated"></target>
+        <target state="translated">x-støða á músini</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse y">
         <source>mouse y</source>
-        <target state="translated"></target>
+        <target state="translated">y-støða á músini</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="move %n steps">
         <source>move %n steps</source>
@@ -366,7 +325,7 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="next costume">
         <source>next costume</source>
-        <target state="translated"></target>
+        <target state="translated">næsti búni</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="not %b">
         <source>not %b</source>
@@ -374,47 +333,47 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="operators">
         <source>operators</source>
-        <target state="translated"></target>
+        <target state="translated">operatorar</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pen">
         <source>pen</source>
-        <target state="translated"></target>
+        <target state="translated">pennur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pen down">
         <source>pen down</source>
-        <target state="translated"></target>
+        <target state="translated">legg pennin niður</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pen up">
         <source>pen up</source>
-        <target state="translated"></target>
+        <target state="translated">lyft pennin upp</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pick random %n to %n">
         <source>pick random %n to %n</source>
-        <target state="translated"></target>
+        <target state="translated">vel tilvildarligt millium %n og %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play drum %D for %n beats">
         <source>play drum %D for %n beats</source>
-        <target state="translated"></target>
+        <target state="translated">spæl trummu í %D sløgum </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play note %N for %n beats">
         <source>play note %N for %n beats</source>
-        <target state="translated"></target>
+        <target state="translated">spæl trummu í %D sløgum</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play sound %S">
         <source>play sound %S</source>
-        <target state="translated"></target>
+        <target state="translated">spæl ljóð %S</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play sound %S until done">
         <source>play sound %S until done</source>
-        <target state="translated"></target>
+        <target state="translated">spæl ljóðið %S til tað er liðugt</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="point in direction %d">
         <source>point in direction %d</source>
-        <target state="translated"></target>
+        <target state="translated">peika í leiðina %d</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="point towards %m">
         <source>point towards %m</source>
-        <target state="translated"></target>
+        <target state="translated">peika ímóti %m</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="repeat %n">
         <source>repeat %n</source>
@@ -426,15 +385,18 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="replace item %i of %L with %s">
         <source>replace item %i of %L with %s</source>
-        <target state="translated"></target>
+        <target state="translated">být %i av %L um við %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reset timer">
         <source>reset timer</source>
-        <target state="translated">tómstilla teljara</target>
+        <target state="translated">nullstill teljara</target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>endurstilla teljara</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="rest for %n beats">
         <source>rest for %n beats</source>
-        <target state="translated"></target>
+        <target state="translated">steðga í %n sløgum</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="round %n">
         <source>round %n</source>
@@ -446,71 +408,71 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="say %s for %n secs">
         <source>say %s for %n secs</source>
-        <target state="translated">sig %s í %n sekund</target>
+        <target state="translated">sig %s í %n sek</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sensing">
         <source>sensing</source>
-        <target state="translated"></target>
+        <target state="translated">sansa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sensor %h?">
         <source>sensor %h?</source>
-        <target state="translated"></target>
+        <target state="translated">sensorur %h?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set %g effect to %n">
         <source>set %g effect to %n</source>
-        <target state="translated"></target>
+        <target state="translated">set %g effektina til %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set %v to %n">
         <source>set %v to %n</source>
-        <target state="translated"></target>
+        <target state="translated">set %v til %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set instrument to %I">
         <source>set instrument to %I</source>
-        <target state="translated"></target>
+        <target state="translated">set ljóðføri til %l</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen color to %c">
         <source>set pen color to %c</source>
-        <target state="translated"></target>
+        <target state="translated">set lit á penninum til %c</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen color to %n">
         <source>set pen color to %n</source>
-        <target state="translated"></target>
+        <target state="translated">set lit á penninum til %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen shade to %n">
         <source>set pen shade to %n</source>
-        <target state="translated"></target>
+        <target state="translated">set skugga á penninum til %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen size to %n">
         <source>set pen size to %n</source>
-        <target state="translated"></target>
+        <target state="translated">set støddina á penninum til %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set size to %n%">
         <source>set size to %n%</source>
-        <target state="translated"></target>
+        <target state="translated">set støddina til %n%</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set tempo to %n bpm">
         <source>set tempo to %n bpm</source>
-        <target state="translated"></target>
+        <target state="translated">set ferðina til %n sløg fyri hvønn minutt</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
         <source>set volume to %n%</source>
-        <target state="translated"></target>
+        <target state="translated">set ljóðstyrkina til %n%</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set x to %n">
         <source>set x to %n</source>
-        <target state="translated"></target>
+        <target state="translated">set x til %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set y to %n">
         <source>set y to %n</source>
-        <target state="translated"></target>
+        <target state="translated">set y til %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show">
         <source>show</source>
-        <target state="translated"></target>
+        <target state="translated">vís</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show variable %v">
         <source>show variable %v</source>
-        <target state="translated"></target>
+        <target state="translated">vís brigdil %v</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="size">
         <source>size</source>
@@ -522,39 +484,42 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stamp">
         <source>stamp</source>
-        <target state="translated"></target>
+        <target state="translated">stempla</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop all">
         <source>stop all</source>
-        <target state="translated"></target>
+        <target state="translated">steðga øllum</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
         <source>stop all sounds</source>
-        <target state="translated"></target>
+        <target state="translated">steðga øllum ljóði</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop script">
         <source>stop script</source>
-        <target state="translated"></target>
+        <target state="translated">steðga scriptinum</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch to background %l">
         <source>switch to background %l</source>
-        <target state="translated"></target>
+        <target state="translated">skift bakgrundina til %l</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch to costume %l">
         <source>switch to costume %l</source>
-        <target state="translated"></target>
+        <target state="translated">skift búnan til %l</target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>skift til búnan %l</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tempo">
         <source>tempo</source>
-        <target state="translated"></target>
+        <target state="translated">ferð</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="think %s">
         <source>think %s</source>
-        <target state="translated"></target>
+        <target state="translated">hugsa %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="think %s for %n secs">
         <source>think %s for %n secs</source>
-        <target state="translated"></target>
+        <target state="translated">hugsa %s í %n sek</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="timer">
         <source>timer</source>
@@ -562,62 +527,63 @@ BLOCKS&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="touching %m?">
         <source>touching %m?</source>
-        <target state="translated"></target>
+        <target state="translated">nertir %m?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="touching color %C?">
         <source>touching color %C?</source>
-        <target state="translated"></target>
+        <target state="translated">nertir litin %C?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn %n degrees">
         <source>turn %n degrees</source>
-        <target state="translated"></target>
+        <target state="translated">vend %n stig</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="variables">
         <source>variables</source>
-        <target state="translated"></target>
+        <target state="translated">brigdlar</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="volume">
         <source>volume</source>
-        <target state="translated"></target>
+        <target state="translated">ljóðstyrki</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wait %n secs">
         <source>wait %n secs</source>
-        <target state="translated"></target>
+        <target state="translated">bíða %n sek</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wait until %b">
         <source>wait until %b</source>
-        <target state="translated"></target>
+        <target state="translated">bíða til %b</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %k key pressed">
         <source>when %k key pressed</source>
-        <target state="translated"></target>
+        <target state="translated">tá trýst verður á %k knøttin</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %m clicked">
         <source>when %m clicked</source>
-        <target state="translated"></target>
+        <target state="translated">tá trýst verður á %m </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I receive %e">
         <source>when I receive %e</source>
-        <target state="translated"></target>
+        <target state="translated">tá eg taki ímóti %e</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="x position">
         <source>x position</source>
-        <target state="translated"></target>
+        <target state="translated">x-støða</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="y position">
         <source>y position</source>
-        <target state="translated"></target>
+        <target state="translated">y-støða</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="(empty)">
         <source>(empty)</source>
-        <target state="translated"></target>
+        <target state="translated">(tómt)</target>
         <note from="translator">##########################################&#13;
 USER INTERFACE&#13;
-##########################################&#13;</note>
+##########################################&#13;
+</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="1 script">
         <source>1 script</source>
-        <target state="translated"></target>
+        <target state="translated">1 script</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="About Scratch">
         <source>About Scratch</source>
@@ -629,7 +595,7 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="abs">
         <source>abs</source>
-        <target state="translated"></target>
+        <target state="translated">abs</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="add comment">
         <source>add comment</source>
@@ -641,7 +607,10 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="all">
         <source>all</source>
-        <target state="translated"></target>
+        <target state="translated">allar</target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>tilvildarlig</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="and">
         <source>and</source>
@@ -649,99 +618,111 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Animation">
         <source>Animation</source>
-        <target state="translated"></target>
+        <target state="translated">Flytmynd</target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Animatión</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="any">
         <source>any</source>
-        <target state="translated"></target>
+        <target state="translated">allar</target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>tilvildarlig</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Art">
         <source>Art</source>
-        <target state="translated"></target>
+        <target state="translated">List</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="background">
         <source>background</source>
-        <target state="translated"></target>
+        <target state="translated">bakgrund</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backgrounds">
         <source>backgrounds</source>
-        <target state="translated"></target>
+        <target state="translated">bakgrundir</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Backgrounds">
         <source>Backgrounds</source>
-        <target state="translated"></target>
+        <target state="translated">Bakgrundir</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="brightness">
         <source>brightness</source>
-        <target state="translated"></target>
+        <target state="translated">ljósstyrki</target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>klárleiki</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Brush size: ">
         <source>Brush size: </source>
-        <target state="translated"></target>
+        <target state="translated">Stødd á pensli:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="button">
         <source>button</source>
-        <target state="translated"></target>
+        <target state="translated">knøttur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="button pressed">
         <source>button pressed</source>
-        <target state="translated"></target>
+        <target state="translated">trýst er á knøttin</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Camera">
         <source>Camera</source>
-        <target state="translated"></target>
+        <target state="translated">Myndatól</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="can rotate">
         <source>can rotate</source>
-        <target state="translated"></target>
+        <target state="translated">kann snarast</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cancel">
         <source>cancel</source>
-        <target state="translated">avlýs</target>
+        <target state="translated">ógilda</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cancel">
         <source>Cancel</source>
-        <target state="translated">Avlýs</target>
+        <target state="translated">Ógilda</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose a folder">
         <source>Choose a folder</source>
-        <target state="translated">Vel ein faldara</target>
+        <target state="translated">Vel eina mappu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose new sprite from file">
         <source>Choose new sprite from file</source>
-        <target state="translated"></target>
+        <target state="translated">Vel nýggja tekning frá fílu</target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Vel nýggja sprite frá fílu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clean up">
         <source>clean up</source>
-        <target state="translated"></target>
+        <target state="translated">rudda</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Clear">
         <source>Clear</source>
-        <target state="translated"></target>
+        <target state="translated">Rudda</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Clear canvas">
         <source>Clear canvas</source>
-        <target state="translated"></target>
+        <target state="translated">Rudda lørift</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Close and continue">
         <source>Close and continue</source>
-        <target state="translated"></target>
+        <target state="translated">Lat aftur og hald á</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Close dialog?">
         <source>Close dialog?</source>
-        <target state="translated"></target>
+        <target state="translated">Lat gluggan aftur?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Close paint editor?">
         <source>Close paint editor?</source>
-        <target state="translated"></target>
+        <target state="translated">Lat myndaritilin aftur?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="close port">
         <source>close port</source>
-        <target state="translated"></target>
+        <target state="translated">lat portur aftur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Close sound recorder?">
         <source>Close sound recorder?</source>
-        <target state="translated"></target>
+        <target state="translated">Lat ljóðupptakaran aftur?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color">
         <source>color</source>
@@ -749,67 +730,70 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Compress Images">
         <source>Compress Images</source>
-        <target state="translated"></target>
+        <target state="translated">Komprimera myndir</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Compress Sounds">
         <source>Compress Sounds</source>
-        <target state="translated"></target>
+        <target state="translated">Komprimera ljóð</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Compress sounds and images">
         <source>Compress sounds and images</source>
-        <target state="translated"></target>
+        <target state="translated">Komprimera ljóð og myndir</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Computer">
         <source>Computer</source>
-        <target state="translated"></target>
+        <target state="translated">Telda</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="connected">
         <source>connected</source>
-        <target state="translated"></target>
+        <target state="translated">íbundin</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Connecting to ">
         <source>Connecting to </source>
-        <target state="translated"></target>
+        <target state="translated">Bindur í til</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Copy">
         <source>Copy</source>
-        <target state="translated"></target>
+        <target state="translated">Avrita</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="costume">
         <source>costume</source>
-        <target state="translated"></target>
+        <target state="translated">búni</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="costumes">
         <source>costumes</source>
-        <target state="translated"></target>
+        <target state="translated">búnar</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Costumes">
         <source>Costumes</source>
-        <target state="translated"></target>
+        <target state="translated">Búnar</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Could not read">
         <source>Could not read</source>
-        <target state="translated"></target>
+        <target state="translated">Kundi ikki innlesa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Could not read project; file may be damaged">
         <source>Could not read project; file may be damaged</source>
-        <target state="translated"></target>
+        <target state="translated">Kundi ikki innlesa verkætlan: fílan kann vera skadd</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Could not write file">
         <source>Could not write file</source>
         <target state="translated">Fekk ikki skrivað fílu</target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Fekk ikki skriva fílu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create account">
         <source>Create account</source>
-        <target state="translated">Stovna konto</target>
+        <target state="translated">Stovna kontu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create an empty project">
         <source>Create an empty project</source>
-        <target state="translated">Stovna eina tóma verkætlan</target>
+        <target state="translated">Stovna nýggja verkætlan</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Data sent. Waiting for response...">
         <source>Data sent. Waiting for response...</source>
-        <target state="translated">Dáta send. Bíðar eftir svari...</target>
+        <target state="translated">Dátur eru sendar. Bíðar eftir aftursvari...</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete">
         <source>delete</source>
@@ -833,27 +817,30 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Delete this costume">
         <source>Delete this costume</source>
-        <target state="translated">Strika hendan búna</target>
+        <target state="translated">Strika búnan</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Delete this sound">
         <source>Delete this sound</source>
-        <target state="translated">Strika hetta ljóðið</target>
+        <target state="translated">Strika ljóðið</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Delete this sprite">
         <source>Delete this sprite</source>
-        <target state="translated"></target>
+        <target state="translated">Strika tekningina</target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Strika hesa tekning</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Desktop">
         <source>Desktop</source>
-        <target state="translated"></target>
+        <target state="translated">Skriviborð</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="disable remote sensor connections">
         <source>disable remote sensor connections</source>
-        <target state="translated"></target>
+        <target state="translated">sløkk fjarsensor íbindingar</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance">
         <source>distance</source>
-        <target state="translated">frástøða</target>
+        <target state="translated">fjarstøða</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Documents">
         <source>Documents</source>
@@ -861,11 +848,11 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="don't rotate">
         <source>don't rotate</source>
-        <target state="translated"></target>
+        <target state="translated">ikki snara</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Don't Save">
         <source>Don't Save</source>
-        <target state="translated"></target>
+        <target state="translated">Goym ikki</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Done">
         <source>Done</source>
@@ -877,31 +864,37 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="down arrow">
         <source>down arrow</source>
-        <target state="translated"></target>
+        <target state="translated">pílur niður</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="drag to resize">
         <source>drag to resize</source>
-        <target state="translated"></target>
+        <target state="translated">drag fyri at broyta stødd</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="drag to rotate">
         <source>drag to rotate</source>
-        <target state="translated"></target>
+        <target state="translated">drag fyri at snara</target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>toga fyri at snara</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="draggable on website?">
         <source>draggable on website?</source>
-        <target state="translated"></target>
+        <target state="translated">skal kunna flytast á vevsíðuni? </target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>skal kunna dragast á vevsíðuni?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="duplicate">
         <source>duplicate</source>
-        <target state="translated"></target>
+        <target state="translated">ger avrit</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Duplicate">
         <source>Duplicate</source>
-        <target state="translated"></target>
+        <target state="translated">Ger avrit</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="edge">
         <source>edge</source>
-        <target state="translated"></target>
+        <target state="translated">kantur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Edit">
         <source>Edit</source>
@@ -909,11 +902,11 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ellipse tool (draw outlined or filled ellipse or circle)">
         <source>Ellipse tool (draw outlined or filled ellipse or circle)</source>
-        <target state="translated"></target>
+        <target state="translated">Amboð til ellipsu (tekna ellipsu ella sirkul)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="enable remote sensor connections">
         <source>enable remote sensor connections</source>
-        <target state="translated"></target>
+        <target state="translated">tendra fjarsensor íbindingar</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter presentation mode">
         <source>Enter presentation mode</source>
@@ -921,11 +914,11 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Eraser">
         <source>Eraser</source>
-        <target state="translated"></target>
+        <target state="translated">Viskileður</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Eraser size">
         <source>Eraser size</source>
-        <target state="translated"></target>
+        <target state="translated">Stødd á viskileðri</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error!">
         <source>Error!</source>
@@ -937,63 +930,63 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit presentation">
         <source>Exit presentation</source>
-        <target state="translated"></target>
+        <target state="translated">Far úr fullum skermi</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit presentation mode">
         <source>Exit presentation mode</source>
-        <target state="translated"></target>
+        <target state="translated">Far úr fullum skermi</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="export">
         <source>export</source>
-        <target state="translated"></target>
+        <target state="translated">Flyt út</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Export Background">
         <source>Export Background</source>
-        <target state="translated">Útles bakgrund</target>
+        <target state="translated">Flut bakgrund út</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Export Costume">
         <source>Export Costume</source>
-        <target state="translated">Útles búna</target>
+        <target state="translated">Flyt búna út</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Export failed">
         <source>Export failed</source>
-        <target state="translated">Útlesing miseydnaðist</target>
+        <target state="translated">Útflytingin miseydnaðist</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Export Sound">
         <source>Export Sound</source>
-        <target state="translated"></target>
+        <target state="translated">Flyt ljóð út</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Export Sprite">
         <source>Export Sprite</source>
-        <target state="translated"></target>
+        <target state="translated">Flyt tekning út</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="export this costume">
         <source>export this costume</source>
-        <target state="translated">útles hendan búna</target>
+        <target state="translated">flyt búnan út</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="export this sound">
         <source>export this sound</source>
-        <target state="translated">útles hetta ljóðið</target>
+        <target state="translated">flyt ljóðið út</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="export this sprite">
         <source>export this sprite</source>
-        <target state="translated"></target>
+        <target state="translated">flyt tekning út</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Extras menu">
         <source>Extras menu</source>
-        <target state="translated"></target>
+        <target state="translated">Eyka valmynd</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Eyedropper tool (select a color)">
         <source>Eyedropper tool (select a color)</source>
-        <target state="translated"></target>
+        <target state="translated">Amboð til eygnadropar (vel lit)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed:">
         <source>Failed:</source>
-        <target state="translated"></target>
+        <target state="translated">Miseydnaðist:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="false">
         <source>false</source>
-        <target state="translated"></target>
+        <target state="translated">rangur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="File">
         <source>File</source>
@@ -1005,15 +998,15 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fill tool (fill areas with color or gradient)">
         <source>Fill tool (fill areas with color or gradient)</source>
-        <target state="translated"></target>
+        <target state="translated">Amboð til ífylling (fyll øki við liti ella gradienti)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="first">
         <source>first</source>
-        <target state="translated"></target>
+        <target state="translated">fyrstur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fisheye">
         <source>fisheye</source>
-        <target state="translated"></target>
+        <target state="translated">fiskaeyga</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Flash blocks (fast)">
         <source>Flash blocks (fast)</source>
@@ -1061,7 +1054,7 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Go To Scratch Website">
         <source>Go To Scratch Website</source>
-        <target state="translated"></target>
+        <target state="translated">Far til Scratch vevsíðuna</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="grab screen region for new costume">
         <source>grab screen region for new costume</source>
@@ -1073,15 +1066,15 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Grow">
         <source>Grow</source>
-        <target state="translated"></target>
+        <target state="translated">Ger størri</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Grow sprite">
         <source>Grow sprite</source>
-        <target state="translated"></target>
+        <target state="translated">Ger tekning størri</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hello ">
         <source>hello </source>
-        <target state="translated"></target>
+        <target state="translated">hey</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hello!">
         <source>Hello!</source>
@@ -1097,59 +1090,59 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Help Page">
         <source>Help Page</source>
-        <target state="translated"></target>
+        <target state="translated">Hjálparsíða</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Help Screens">
         <source>Help Screens</source>
-        <target state="translated"></target>
+        <target state="translated">Hjálparskermur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hide Motor Blocks">
         <source>Hide Motor Blocks</source>
-        <target state="translated"></target>
+        <target state="translated">Fjal motorkubbar</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="High (biggest)">
         <source>High (biggest)</source>
-        <target state="translated"></target>
+        <target state="translated">Høgur (størstur)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hmm...">
         <source>Hmm...</source>
-        <target state="translated"></target>
+        <target state="translated">Hmm...</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Home">
         <source>Home</source>
-        <target state="translated"></target>
+        <target state="translated">Heim</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Images compressed">
         <source>Images compressed</source>
-        <target state="translated"></target>
+        <target state="translated">Myndin komprimerað</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="import">
         <source>import</source>
-        <target state="translated">innles</target>
+        <target state="translated">Flyt inn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Import">
         <source>Import</source>
-        <target state="translated">Innles</target>
+        <target state="translated">Flyt inn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Import an image on top of your current canvas">
         <source>Import an image on top of your current canvas</source>
-        <target state="translated">Innles eina mynd omaná títt núverandi lørift</target>
+        <target state="translated">Flyt eina mynd inn á verandi lørift</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Import Background">
         <source>Import Background</source>
-        <target state="translated">Innles bakgrund</target>
+        <target state="translated">Les bakgrund inn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Import Costume">
         <source>Import Costume</source>
-        <target state="translated">Innles búna</target>
+        <target state="translated">Flyt búna inn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Import Image">
         <source>Import Image</source>
-        <target state="translated">Innles mynd</target>
+        <target state="translated">Flyt mynd inn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Import List">
         <source>Import List</source>
-        <target state="translated">Innles lista</target>
+        <target state="translated">Flyt lista inn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Import Project">
         <source>Import Project</source>
@@ -1157,11 +1150,11 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="import project">
         <source>import project</source>
-        <target state="translated">innles verkætlan</target>
+        <target state="translated">Flyt verkætlan inn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Import Sound">
         <source>Import Sound</source>
-        <target state="translated">Innles ljóð</target>
+        <target state="translated">Flyt ljóð inn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Incompatible Scratch file format">
         <source>Incompatible Scratch file format</source>
@@ -1177,7 +1170,7 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="kbytes">
         <source>kbytes</source>
-        <target state="translated">kilobýt</target>
+        <target state="translated">kilobyte</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Language">
         <source>Language</source>
@@ -1185,7 +1178,7 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="large readout">
         <source>large readout</source>
-        <target state="translated">stór útlesing</target>
+        <target state="translated">stór útflyting</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="last">
         <source>last</source>
@@ -1197,7 +1190,7 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="left arrow">
         <source>left arrow</source>
-        <target state="translated">vinstapílur</target>
+        <target state="translated">vinstipílur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="length">
         <source>length</source>
@@ -1209,35 +1202,35 @@ USER INTERFACE&#13;
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Line tool (draw lines)">
         <source>Line tool (draw lines)</source>
-        <target state="translated"></target>
+        <target state="translated">Amboð til linjur (tekna linjur)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="List name?">
         <source>List name?</source>
-        <target state="translated"></target>
+        <target state="translated">Navn á lista?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Low">
         <source>Low</source>
-        <target state="translated"></target>
+        <target state="translated">Lágur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Lowest (smallest)">
         <source>Lowest (smallest)</source>
-        <target state="translated"></target>
+        <target state="translated">Lægstur (minstur)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Make a list">
         <source>Make a list</source>
-        <target state="translated"></target>
+        <target state="translated">Ger nýggjan lista</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Make a variable">
         <source>Make a variable</source>
-        <target state="translated"></target>
+        <target state="translated">Ger nýggjan brigdil</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Max:">
         <source>Max:</source>
-        <target state="translated"></target>
+        <target state="translated">Hámark:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="meow">
         <source>meow</source>
-        <target state="translated"></target>
+        <target state="translated">mjavv</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Message name:">
         <source>Message name:</source>
@@ -1726,6 +1719,9 @@ USER INTERFACE&#13;
       <trans-unit xml:space="preserve" approved="yes" id="stop">
         <source>stop</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>steðga</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Stop everything">
         <source>Stop everything</source>
@@ -1738,6 +1734,9 @@ USER INTERFACE&#13;
       <trans-unit xml:space="preserve" approved="yes" id="Story">
         <source>Story</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Søga</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Support Site">
         <source>Support Site</source>
@@ -1810,34 +1809,58 @@ USER INTERFACE&#13;
       <trans-unit xml:space="preserve" approved="yes" id="Undo">
         <source>Undo</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Angra</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="up">
         <source>up</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Upp</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="up arrow">
         <source>up arrow</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Pílur upp</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Updating thumbnails">
         <source>Updating thumbnails</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Dagførir tummilútgávu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Upload succeeded!">
         <source>Upload succeeded!</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Tað er eydnast at leggja inn!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Upload to Scratch Server">
         <source>Upload to Scratch Server</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Legg inn á Scratch-ambætaran</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Uploading">
         <source>Uploading</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Leggur inn</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Variable name?">
         <source>Variable name?</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Navn á brigdli?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="View on stage">
         <source>View on stage</source>
@@ -1846,6 +1869,9 @@ USER INTERFACE&#13;
       <trans-unit xml:space="preserve" approved="yes" id="What's your name?">
         <source>What's your name?</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Hvussu eitur tú?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="whirl">
         <source>whirl</source>
@@ -1854,6 +1880,9 @@ USER INTERFACE&#13;
       <trans-unit xml:space="preserve" approved="yes" id="world">
         <source>world</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>heimur</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Write Multiple Project Summaries">
         <source>Write Multiple Project Summaries</source>
@@ -1866,22 +1895,37 @@ USER INTERFACE&#13;
       <trans-unit xml:space="preserve" approved="yes" id="Yes">
         <source>Yes</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Ja</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your project is now online at">
         <source>Your project is now online at</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Tín verkætlan er nú á netinum á</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your Scratch website login name:">
         <source>Your Scratch website login name:</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Innritingarnavnið til tína  Scratch-vevsíðu:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Zoom in">
         <source>Zoom in</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Zooma inn</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Zoom out">
         <source>Zoom out</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Zooma út</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Accordion">
         <source>Accordion</source>
@@ -2545,10 +2589,16 @@ MIDI INSTRUMENTS&#13;
       <trans-unit xml:space="preserve" approved="yes" id="Trumpet">
         <source>Trumpet</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Trompet</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tuba">
         <source>Tuba</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Tuba</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tubular Bells">
         <source>Tubular Bells</source>
@@ -2569,14 +2619,23 @@ MIDI INSTRUMENTS&#13;
       <trans-unit xml:space="preserve" approved="yes" id="Violin">
         <source>Violin</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Violin</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Voice Oohs">
         <source>Voice Oohs</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Rødd Ááh</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Whistle">
         <source>Whistle</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="karihj">
+          <target>Floyt</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Woodblock">
         <source>Woodblock</source>
