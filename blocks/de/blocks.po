@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-05 16:08+0200\n"
+"PO-Revision-Date: 2013-05-05 21:42+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -237,16 +237,17 @@ msgstr "nicht %b"
 msgid "Operators"
 msgstr "Operatoren"
 
+# (Markus S.) war "Malstift"
 msgid "Pen"
-msgstr "Malstift"
+msgstr "Stiftspuren"
 
-# (Markus S.) war 'setze Stift auf'
+# (Markus S.) war 'zeichne Spur'; war 'setze Stift auf'
 msgid "pen down"
-msgstr "zeichne Spur"
+msgstr "beginne zu zeichnen"
 
-# (Markus S.) war 'hebe Stift an'
+# (Markus S.) war 'zeichne nicht'; war 'hebe Stift an'
 msgid "pen up"
-msgstr "zeichne nicht"
+msgstr "zeichne nicht mehr"
 
 msgid "pick random %n to %n"
 msgstr "Zufallszahl von %n bis %n"
@@ -268,7 +269,7 @@ msgid "point in direction %d.direction"
 msgstr "zeige in Richtung %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "zeige zu %m.spriteOrMouse"
+msgstr "drehe dich zu %m.spriteOrMouse"
 
 msgid "repeat %n"
 msgstr "wiederhole %n mal"
@@ -330,7 +331,7 @@ msgid "set pen size to %n"
 msgstr "setze Stiftdicke auf %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "setze Drehtyp %m.rotationStyle"
+msgstr "setze Drehtyp auf %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "setze Größe auf %n%"
@@ -408,10 +409,10 @@ msgid "touching color %c?"
 msgstr "wird Farbe %c berührt?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "drehe dich @turnLeft %n Grad"
+msgstr "drehe dich um %n Grad @turnLeft "
 
 msgid "turn @turnRight %n degrees"
-msgstr "drehe dich @turnRight %n Grad"
+msgstr "drehe dich um %n Grad @turnRight"
 
 msgid "turn motor off"
 msgstr "schalte Motor aus"
@@ -469,7 +470,7 @@ msgid "when I start as a clone"
 msgstr "Wenn ich als Klon starte"
 
 msgid "when this sprite clicked"
-msgstr "Wenn Ich angeklickt werde"
+msgstr "Wenn ich angeklickt werde"
 
 msgid "when tilt = %n"
 msgstr "Wenn Neigung = %n"
