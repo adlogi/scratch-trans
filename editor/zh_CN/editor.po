@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:48+0200\n"
-"PO-Revision-Date: 2013-05-03 07:17+0200\n"
-"Last-Translator: Gang <eniac2008@163.com>\n"
+"PO-Revision-Date: 2013-05-06 04:41+0200\n"
+"Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -18,26 +18,27 @@ msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
+"<b>关于云变量的说明</b><br>&nbsp;<br>目前，只支持数值类型的数据<br>不允许使用云变量来创建聊天室，否则将被删除<br>更多信息请"
+"参考<a href= target=>关于云数据的常见问题(FAQ)！</a>"
 
 msgid "A connected"
 msgstr "A已连接"
 
 msgid "a copy of the project file on your computer."
-msgstr ""
+msgstr "您计算机上的项目文件的副本。"
 
 msgid "abs"
 msgstr "绝对值"
 
 msgid "Account settings"
-msgstr ""
+msgstr "帐号设置"
 
 msgid "acos"
 msgstr "acos"
 
 # 90%
-#, fuzzy
 msgid "Add boolean input:"
-msgstr "输入一个布尔值："
+msgstr "添加一个布尔参数："
 
 msgid "add comment"
 msgstr "添加注释"
@@ -46,35 +47,33 @@ msgid "Add label text:"
 msgstr "添加文本标签："
 
 # 89%
-#, fuzzy
 msgid "Add number input:"
-msgstr "输入一个数字："
+msgstr "添加一个数字参数："
 
 # 89%
-#, fuzzy
 msgid "Add string input:"
 msgstr "输入一个字符串："
 
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 msgid "all"
 msgstr "全部"
 
 msgid "all around"
-msgstr "周围"
+msgstr "四周"
 
 msgid "Animal"
-msgstr ""
+msgstr "动物"
 
 msgid "Animals"
-msgstr ""
+msgstr "动物"
 
 msgid "asin"
 msgstr "asin"
 
 msgid "assets loaded"
-msgstr ""
+msgstr "资源已装载"
 
 msgid "atan"
 msgstr "atan"
@@ -83,23 +82,22 @@ msgid "B connected"
 msgstr "B已连接"
 
 msgid "Back a layer"
-msgstr ""
+msgstr "下移一层"
 
 # 88%
 # 87%
-#, fuzzy
 msgid "Backdrop"
-msgstr "背景1"
+msgstr "背景"
 
 # 88%
 msgid "backdrop"
-msgstr "背景1"
+msgstr "背景"
 
 msgid "backdrop #"
 msgstr "背景编号"
 
 msgid "Backdrop Library"
-msgstr ""
+msgstr "背景库"
 
 msgid "backdrop name"
 msgstr "背景名称"
@@ -112,7 +110,6 @@ msgid "backdrops"
 msgstr "背景"
 
 # 88%
-#, fuzzy
 msgid "Backdrops"
 msgstr "背景"
 
@@ -129,13 +126,13 @@ msgid "Bassoon"
 msgstr "低音管"
 
 msgid "Bitmap"
-msgstr ""
+msgstr "位图"
 
 msgid "Bitmap Mode"
-msgstr ""
+msgstr "位图模式"
 
 msgid "Block help"
-msgstr ""
+msgstr "功能块帮助"
 
 msgid "Bongo"
 msgstr "小手鼓"
@@ -144,22 +141,22 @@ msgid "brightness"
 msgstr "亮度"
 
 msgid "Bring to front"
-msgstr ""
+msgstr "移到第一层"
 
 msgid "Broadcast"
-msgstr ""
+msgstr "广播"
 
 msgid "Brush"
-msgstr ""
+msgstr "画笔"
 
 msgid "button pressed"
-msgstr "按下按钮"
+msgstr "按钮已按下"
 
 msgid "by"
-msgstr "通过"
+msgstr "由"
 
 msgid "bytes loaded"
-msgstr ""
+msgstr "字节已装载"
 
 msgid "C connected"
 msgstr "C已连接"
@@ -171,25 +168,25 @@ msgid "Camera"
 msgstr "照相"
 
 msgid "can drag in player:"
-msgstr ""
+msgstr "可以在播放器中拖动:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Cannot Delete"
 msgstr "不能删除"
 
 msgid "Can’t find network connection or reach server."
-msgstr ""
+msgstr "找不到网络连接或服务器连接不上。"
 
 msgid "Castle"
-msgstr ""
+msgstr "古堡"
 
 msgid "Category"
-msgstr ""
+msgstr "分类"
 
 msgid "ceiling"
-msgstr "上限"
+msgstr "向上取整"
 
 msgid "Cello"
 msgstr "大提琴"
@@ -198,22 +195,22 @@ msgid "Choir"
 msgstr "人声合唱"
 
 msgid "Choose backdrop from library"
-msgstr ""
+msgstr "从背景库中选择背景"
 
 msgid "Choose costume from library"
-msgstr ""
+msgstr "从造型库中选取造型"
 
 msgid "Choose sound from library"
-msgstr ""
+msgstr "从声音库中选取声音"
 
 msgid "Choose sprite from library"
-msgstr ""
+msgstr "从角色库中选取角色"
 
 msgid "Circle"
-msgstr ""
+msgstr "圆"
 
 msgid "City"
-msgstr ""
+msgstr "城市"
 
 msgid "Clarinet"
 msgstr "单簧管"
@@ -222,66 +219,65 @@ msgid "Claves"
 msgstr "古钢琴"
 
 msgid "Clear"
-msgstr ""
+msgstr "清除"
 
 msgid "clear senders/receivers"
 msgstr "清除发送器/接收器"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr ""
+msgstr "点击  重新尝试或  保存"
 
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 msgid "Closed Hi-Hat"
 msgstr "闭合双面钹"
 
 msgid "Cloud"
-msgstr ""
+msgstr "云"
 
 msgid "Cloud data"
-msgstr ""
+msgstr "云数据"
 
 msgid "color"
 msgstr "颜色"
 
 msgid "Color a shape"
-msgstr ""
+msgstr "为形状填色"
 
 msgid "Conga"
 msgstr "康加鼓"
 
 msgid "Connecting to Cloud data server..."
-msgstr ""
+msgstr "正在连接云数据服务器..."
 
 msgid "Convert to bitmap"
-msgstr ""
+msgstr "转换成位图编辑模式"
 
 msgid "Convert to vector"
-msgstr ""
+msgstr "转换成矢量编辑模式"
 
 msgid "Converting mp3..."
-msgstr ""
+msgstr "正在转换mp3..."
 
 msgid "copy"
 msgstr "复制"
 
 msgid "Copying..."
-msgstr ""
+msgstr "正在复制..."
 
 msgid "cos"
 msgstr "cos"
 
 # 75%
-#, fuzzy
 msgid "Costume"
-msgstr "造型1"
+msgstr "造型"
 
 msgid "costume #"
 msgstr "造型编号"
 
 msgid "Costume Library"
-msgstr ""
+msgstr "造型库"
 
 msgid "costume name"
 msgstr "造型名称"
@@ -294,18 +290,16 @@ msgid "costume2"
 msgstr "造型2"
 
 # 75%
-#, fuzzy
 msgid "Costumes"
-msgstr "造型1"
+msgstr "造型"
 
 msgid "Costumes > 1"
-msgstr ""
+msgstr "造型数 > 1"
 
 # 75%
 # 88%
-#, fuzzy
 msgid "Costumes:"
-msgstr "造型1"
+msgstr "造型："
 
 msgid "Cowbell"
 msgstr "牛铃"
@@ -314,10 +308,10 @@ msgid "Crash Cymbal"
 msgstr "击钹"
 
 msgid "Creating..."
-msgstr ""
+msgstr "创建中..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr ""
+msgstr "目前，云变量只能保存数字类型的数据。"
 
 msgid "cut"
 msgstr "剪切"
@@ -329,10 +323,9 @@ msgid "date"
 msgstr "日期"
 
 msgid "day of week"
-msgstr "星期几"
+msgstr "星期"
 
 # 83%
-#, fuzzy
 msgid "Delete"
 msgstr "删除"
 
@@ -340,15 +333,14 @@ msgid "delete"
 msgstr "删除"
 
 msgid "delete variable"
-msgstr ""
+msgstr "删除变量"
 
 msgid "direction"
 msgstr "方向"
 
 # 90%
-#, fuzzy
 msgid "direction:"
-msgstr "方向"
+msgstr "方向:"
 
 msgid "don't rotate"
 msgstr "不旋转"
@@ -360,10 +352,10 @@ msgid "down arrow"
 msgstr "下移键"
 
 msgid "Download"
-msgstr ""
+msgstr "下载"
 
 msgid "Download to your computer"
-msgstr ""
+msgstr "下载到您的计算机"
 
 msgid "duplicate"
 msgstr "复制"
@@ -384,7 +376,7 @@ msgid "Edit"
 msgstr "编辑"
 
 msgid "Edit Block"
-msgstr ""
+msgstr "编辑功能块"
 
 msgid "Effects"
 msgstr "效果"
@@ -396,16 +388,16 @@ msgid "Electric Piano"
 msgstr "电子琴"
 
 msgid "Electronic"
-msgstr ""
+msgstr "电子声"
 
 msgid "Ellipse"
-msgstr ""
+msgstr "椭圆"
 
 msgid "Erase"
 msgstr "擦除"
 
 msgid "Eraser width:"
-msgstr ""
+msgstr "橡皮擦宽度:"
 
 msgid "fade in"
 msgstr "淡入"
@@ -414,55 +406,55 @@ msgid "fade out"
 msgstr "淡出"
 
 msgid "Fantasy"
-msgstr ""
+msgstr "奇幻"
 
 msgid "Features"
-msgstr ""
+msgstr "特点"
 
 msgid "File"
 msgstr "文件"
 
 msgid "Fill with color"
-msgstr ""
+msgstr "用颜色填充"
 
 msgid "fisheye"
 msgstr "超广角镜头"
 
 msgid "Flip left-right"
-msgstr ""
+msgstr "左右翻转"
 
 msgid "Flip up-down"
-msgstr ""
+msgstr "上下翻转"
 
 msgid "floor"
-msgstr "地板"
+msgstr "向下取整"
 
 msgid "Flute"
 msgstr "长笛"
 
 msgid "Flying"
-msgstr ""
+msgstr "飞行"
 
 msgid "For all sprites"
-msgstr ""
+msgstr "适用于所有角色"
 
 msgid "For this sprite only"
-msgstr ""
+msgstr "仅适用于当前角色"
 
 msgid "Forward a layer"
-msgstr ""
+msgstr "上移一层"
 
 msgid "ghost"
 msgstr "虚像"
 
 msgid "Go to My Stuff"
-msgstr ""
+msgstr "转到个人项目中心"
 
 msgid "Group"
 msgstr "分组"
 
 msgid "Grow"
-msgstr ""
+msgstr "放大"
 
 msgid "Guiro"
 msgstr "锯琴"
@@ -474,28 +466,28 @@ msgid "Hand Clap"
 msgstr "拍掌"
 
 msgid "hide"
-msgstr ""
+msgstr "隐藏"
 
 msgid "hour"
 msgstr "小时"
 
 msgid "Human"
-msgstr ""
+msgstr "人声"
 
 msgid "Import"
 msgstr "导入"
 
 msgid "Importing sound..."
-msgstr ""
+msgstr "导入声音..."
 
 msgid "Indoors"
-msgstr ""
+msgstr "室内"
 
 msgid "Installing..."
-msgstr ""
+msgstr "正在安装..."
 
 msgid "Instruments"
-msgstr ""
+msgstr "乐器"
 
 msgid "last"
 msgstr "末尾"
@@ -507,7 +499,7 @@ msgid "left arrow"
 msgstr "左移键"
 
 msgid "left-right"
-msgstr "左-右"
+msgstr "左-右翻转"
 
 msgid "Library"
 msgstr "库"
@@ -516,27 +508,26 @@ msgid "light"
 msgstr "光线"
 
 msgid "limit reached"
-msgstr ""
+msgstr "已达到限制"
 
 msgid "Line"
-msgstr "线条"
+msgstr "线段"
 
 msgid "Line width:"
-msgstr ""
+msgstr "线宽："
 
 # 75%
-#, fuzzy
 msgid "list"
-msgstr "末尾"
+msgstr "链表"
 
 msgid "List name"
-msgstr ""
+msgstr "链表名称"
 
 msgid "ln"
 msgstr "ln"
 
 msgid "Loading project..."
-msgstr ""
+msgstr "正在装载项目..."
 
 msgid "log"
 msgstr "log"
@@ -548,37 +539,37 @@ msgid "loudness"
 msgstr "音量"
 
 msgid "Make a Block"
-msgstr ""
+msgstr "新建功能块"
 
 msgid "Make a List"
-msgstr ""
+msgstr "新建链表"
 
 msgid "Make a Variable"
-msgstr ""
+msgstr "新建变量"
 
 msgid "Marimba"
 msgstr "立奏木琴"
 
 msgid "Max"
-msgstr ""
+msgstr "最大"
 
 msgid "meow"
-msgstr ""
+msgstr "喵"
 
 msgid "Message Name"
-msgstr ""
+msgstr "消息名称"
 
 msgid "message1"
 msgstr "消息1"
 
 msgid "Min"
-msgstr ""
+msgstr "最小"
 
 msgid "minute"
-msgstr "分钟"
+msgstr "分"
 
 msgid "month"
-msgstr "月份"
+msgstr "月"
 
 msgid "mosaic"
 msgstr "马赛克"
@@ -590,82 +581,79 @@ msgid "mouse-pointer"
 msgstr "鼠标指针"
 
 msgid "Multiple"
-msgstr ""
+msgstr "多个"
 
 msgid "Music and Dance"
-msgstr ""
+msgstr "音乐和舞蹈"
 
 msgid "Music Box"
 msgstr "音乐盒"
 
 msgid "Music Loops"
-msgstr ""
+msgstr "循环音乐"
 
 msgid "My Stuff"
-msgstr ""
+msgstr "我的项目中心"
 
 msgid "myself"
 msgstr "我自己"
 
 msgid "Nature"
-msgstr ""
+msgstr "自然"
 
 msgid "New"
-msgstr "新增"
+msgstr "新建项目"
 
 msgid "New backdrop from camera"
-msgstr ""
+msgstr "拍摄照片当作背景"
 
 # 92%
-#, fuzzy
 msgid "New backdrop:"
-msgstr "新增背景"
+msgstr "新建背景"
 
 msgid "New costume from camera"
-msgstr ""
+msgstr "拍摄照片当作造型"
 
 # 91%
-#, fuzzy
 msgid "New costume:"
-msgstr "新增造型"
+msgstr "新建造型"
 
 msgid "New List"
-msgstr ""
+msgstr "新建链表"
 
 msgid "new message..."
 msgstr "新消息..."
 
 msgid "New name"
-msgstr ""
+msgstr "新名称"
 
 # 90%
-#, fuzzy
 msgid "New sound:"
-msgstr "新增声音"
+msgstr "新建声音"
 
 msgid "New sprite from camera"
-msgstr ""
+msgstr "拍摄照片当作角色"
 
 msgid "New sprite:"
-msgstr "新增角色"
+msgstr "新建角色:"
 
 msgid "New Variable"
-msgstr ""
+msgstr "新建变量"
 
 msgid "No motion blocks"
 msgstr "无动作模块"
 
 msgid "Not saved; network or server problem."
-msgstr ""
+msgstr "保存失败，可能是网络或服务器出了问题。"
 
 msgid "of"
-msgstr ""
+msgstr "的"
 
 msgid "off"
 msgstr "关闭"
 
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 msgid "on"
 msgstr "开启"
@@ -680,29 +668,29 @@ msgid "Open Hi-Hat"
 msgstr "开放双面钹"
 
 msgid "Options"
-msgstr ""
+msgstr "选项"
 
 msgid "Organ"
 msgstr "风琴"
 
 msgid "Other"
-msgstr ""
+msgstr "其它"
 
 # 82%
 msgid "other scripts in sprite"
 msgstr "角色的其他脚本"
 
 msgid "Outdoors"
-msgstr ""
+msgstr "户外"
 
 msgid "Paint new backdrop"
-msgstr ""
+msgstr "绘制新背景"
 
 msgid "Paint new costume"
-msgstr ""
+msgstr "绘制新造型"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "绘制新角色"
 
 msgid "paste"
 msgstr "粘贴"
@@ -711,10 +699,10 @@ msgid "Pencil"
 msgstr "铅笔"
 
 msgid "People"
-msgstr ""
+msgstr "人物"
 
 msgid "Percussion"
-msgstr ""
+msgstr "打击乐"
 
 msgid "photo1"
 msgstr "照片1"
@@ -723,7 +711,6 @@ msgid "Piano"
 msgstr "钢琴"
 
 # 92%
-#, fuzzy
 msgid "Pick up color"
 msgstr "取色"
 
@@ -737,10 +724,10 @@ msgid "pop"
 msgstr "pop音效"
 
 msgid "Profile"
-msgstr ""
+msgstr "资料"
 
 msgid "Project not saved!"
-msgstr ""
+msgstr "项目未保存!"
 
 msgid "random"
 msgstr "随机"
@@ -749,16 +736,15 @@ msgid "Record"
 msgstr "录音"
 
 msgid "Record new sound"
-msgstr ""
+msgstr "录制新声音"
 
 msgid "recording1"
 msgstr "录音1"
 
 msgid "Rectangle"
-msgstr ""
+msgstr "矩形"
 
 # 75%
-#, fuzzy
 msgid "Redo"
 msgstr "重做"
 
@@ -766,22 +752,22 @@ msgid "redo"
 msgstr "重做"
 
 msgid "Remix"
-msgstr "混音"
+msgstr "再创作"
 
 msgid "Remixing..."
-msgstr ""
+msgstr "再创作中..."
 
 msgid "Rename"
-msgstr ""
+msgstr "重命名"
 
 msgid "rename variable"
-msgstr ""
+msgstr "重命名变量"
 
 msgid "requires sign in"
-msgstr ""
+msgstr "需要登录"
 
 msgid "Reshape"
-msgstr "再成形"
+msgstr "变形"
 
 msgid "resistance-A"
 msgstr "阻力-A"
@@ -799,10 +785,10 @@ msgid "reverse"
 msgstr "反转"
 
 msgid "Revert"
-msgstr ""
+msgstr "恢复到原始状态"
 
 msgid "Reverting..."
-msgstr ""
+msgstr "正在将项目恢复到原始状态..."
 
 msgid "right"
 msgstr "向右"
@@ -811,37 +797,36 @@ msgid "right arrow"
 msgstr "右移键"
 
 msgid "rotation style:"
-msgstr ""
+msgstr "旋转模式："
 
 msgid "Run without screen refresh"
-msgstr ""
+msgstr "运行时不刷新屏幕"
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgid "Save as a copy"
-msgstr ""
+msgstr "保存副本"
 
 msgid "Save now"
-msgstr ""
+msgstr "立即保存"
 
 msgid "save to local file"
-msgstr ""
+msgstr "保存到本地文件"
 
 msgid "Saved"
-msgstr ""
+msgstr "已保存"
 
 msgid "Saving changes..."
-msgstr ""
+msgstr "正在保存修改..."
 
 msgid "Saving..."
-msgstr ""
+msgstr "正在保存..."
 
 msgid "Saxophone"
 msgstr "萨克斯管"
 
 # 85%
-#, fuzzy
 msgid "Script"
 msgstr "脚本"
 
@@ -849,15 +834,14 @@ msgid "Scripts"
 msgstr "脚本"
 
 # 87%
-#, fuzzy
 msgid "Scripts:"
-msgstr "脚本"
+msgstr "脚本："
 
 msgid "second"
 msgstr "秒"
 
 msgid "See project page"
-msgstr "见作品页"
+msgstr "见项目页"
 
 msgid "Select"
 msgstr "选择"
@@ -866,13 +850,12 @@ msgid "select all"
 msgstr "全选"
 
 msgid "Select and duplicate"
-msgstr ""
+msgstr "选择并复制"
 
 msgid "Send to back"
-msgstr ""
+msgstr "移到最下层"
 
 # 88%
-#, fuzzy
 msgid "Set costume center"
 msgstr "设置造型中心"
 
@@ -886,34 +869,34 @@ msgid "shared"
 msgstr "共享"
 
 msgid "Shift:"
-msgstr ""
+msgstr "Shift:"
 
 msgid "show"
-msgstr ""
+msgstr "显示"
 
 msgid "show receivers"
-msgstr "显示接收器"
+msgstr "显示接收者"
 
 msgid "show senders"
-msgstr "显示发送器"
+msgstr "显示发送者"
 
 msgid "show:"
-msgstr ""
+msgstr "显示:"
 
 msgid "Shrink"
-msgstr ""
+msgstr "缩小"
 
 msgid "Side Stick"
 msgstr "鼓边敲击"
 
 msgid "Sign in"
-msgstr ""
+msgstr "登录"
 
 msgid "Sign in to save"
-msgstr ""
+msgstr "登录后再保存"
 
 msgid "Sign out"
-msgstr ""
+msgstr "退出系统"
 
 msgid "silence"
 msgstr "无声"
@@ -928,13 +911,13 @@ msgid "slider"
 msgstr "滑杆"
 
 msgid "Slider Range"
-msgstr ""
+msgstr "滑杆值范围"
 
 msgid "Small stage layout"
-msgstr ""
+msgstr "小舞台布局模式"
 
 msgid "Smooth"
-msgstr ""
+msgstr "光滑"
 
 msgid "Snare Drum"
 msgstr "小军鼓"
@@ -946,16 +929,14 @@ msgid "sound"
 msgstr "声音"
 
 # 80%
-#, fuzzy
 msgid "Sound"
 msgstr "声音"
 
 msgid "Sound Library"
-msgstr ""
+msgstr "声音库"
 
 # 80%
 # 83%
-#, fuzzy
 msgid "Sounds"
 msgstr "声音"
 
@@ -963,47 +944,44 @@ msgid "space"
 msgstr "空格键"
 
 # 80%
-#, fuzzy
 msgid "Space"
-msgstr "空格键"
+msgstr "太空"
 
 msgid "Sports"
-msgstr ""
+msgstr "运动"
 
 # 85%
 msgid "Sprite"
 msgstr "角色"
 
 msgid "Sprite Library"
-msgstr ""
+msgstr "角色库"
 
 # 85%
-#, fuzzy
 msgid "Sprite1"
-msgstr "角色"
+msgstr "角色1"
 
 msgid "Sprites"
-msgstr "角色集"
+msgstr "角色"
 
 msgid "sqrt"
 msgstr "平方根"
 
 msgid "Square"
-msgstr ""
+msgstr "正方形"
 
 msgid "Stage"
 msgstr "舞台"
 
 # 93%
-#, fuzzy
 msgid "Stage selected:"
-msgstr "选择的舞台"
+msgstr "选中的舞台"
 
 msgid "Steel Drum"
 msgstr "钢鼓"
 
 msgid "stored on server"
-msgstr ""
+msgstr "保存在服务器上"
 
 msgid "Synth Lead"
 msgstr "合成领奏"
@@ -1018,25 +996,25 @@ msgid "tan"
 msgstr "tan"
 
 msgid "Text"
-msgstr "文本"
+msgstr "文字"
 
 msgid "that way"
 msgstr "逆时针"
 
 msgid "Theme"
-msgstr ""
+msgstr "主题"
 
 msgid "Things"
-msgstr ""
+msgstr "物品"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
-msgstr ""
+msgstr "本项目可以通过“用户名”功能块检测到使用者信息。如果想隐藏您的个人身份，请退出登录后再运行本项目。"
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
-msgstr ""
+msgstr "本项目使用云数据 - 云数据只有登录后的用户方可访问。"
 
 msgid "this script"
-msgstr "该脚本"
+msgstr "当前脚本"
 
 msgid "this sprite"
 msgstr "该角色"
@@ -1045,47 +1023,44 @@ msgid "this way"
 msgstr "顺时针"
 
 msgid "Throw away all changes since opening this project?"
-msgstr ""
+msgstr "丢弃本次项目打开后的所有改变？"
 
 msgid "timer"
 msgstr "计时器"
 
 msgid "Tips"
-msgstr "贴士"
+msgstr "帮助"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr "要删除一个模块定义，首先要删除所有使用的模块。"
+msgstr "要删除一个模块定义，首先要删除所有对该模块的引用。"
 
 msgid "Transportation"
-msgstr ""
+msgstr "运输工具"
 
 msgid "Triangle"
-msgstr "三角铁"
+msgstr "三角形"
 
 msgid "Trombone"
 msgstr "长号"
 
 # 90%
-#, fuzzy
 msgid "Turbo mode"
-msgstr "涡轮加速模式"
+msgstr "加速模式"
 
 msgid "Turbo Mode"
-msgstr "涡轮加速模式"
+msgstr "加速模式"
 
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 # 75%
-#, fuzzy
 msgid "Undelete"
-msgstr "删除"
+msgstr "撤消删除"
 
 msgid "Underwater"
-msgstr ""
+msgstr "水下"
 
 # 75%
-#, fuzzy
 msgid "Undo"
 msgstr "撤销"
 
@@ -1093,7 +1068,7 @@ msgid "undo"
 msgstr "撤销"
 
 msgid "Undo Revert"
-msgstr ""
+msgstr "撤消恢复原状"
 
 msgid "Ungroup"
 msgstr "取消分组"
@@ -1108,40 +1083,40 @@ msgid "up arrow"
 msgstr "上移键"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "从本地文件中上传背景"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "从本地文件中上传造型"
 
 msgid "Upload from your computer"
-msgstr ""
+msgstr "从您的计算机中上传"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "从本地文件中上传声音"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "从本地文件中上传角色"
 
 msgid "Uploading image..."
-msgstr ""
+msgstr "正在上传图像..."
 
 msgid "Uploading sound..."
-msgstr ""
+msgstr "正在上传声音文件..."
 
 msgid "Uploading sprite..."
-msgstr ""
+msgstr "正在上传角色..."
 
 msgid "variable"
-msgstr ""
+msgstr "变量"
 
 msgid "Variable name"
-msgstr ""
+msgstr "变量名"
 
 msgid "Vector"
-msgstr ""
+msgstr "矢量"
 
 msgid "Vector Mode"
-msgstr ""
+msgstr "矢量模式"
 
 msgid "Vibraphone"
 msgstr "抖音琴"
@@ -1150,25 +1125,25 @@ msgid "Vibraslap"
 msgstr "颤击"
 
 msgid "video motion"
-msgstr "视频运动"
+msgstr "视频移动"
 
 msgid "Video on:"
-msgstr ""
+msgstr "视频开启:"
 
 msgid "Vocals"
-msgstr ""
+msgstr "声乐"
 
 msgid "volume"
 msgstr "音量"
 
 msgid "Walking"
-msgstr ""
+msgstr "行走"
 
 msgid "Want to save? Click remix"
-msgstr ""
+msgstr "您想保存吗？请点击再创作"
 
 msgid "Which column do you want to import"
-msgstr ""
+msgstr "想导入哪一列"
 
 msgid "whirl"
 msgstr "旋转"
@@ -1186,10 +1161,10 @@ msgid "y position"
 msgstr "y坐标"
 
 msgid "year"
-msgstr "年份"
+msgstr "年"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
-msgstr ""
+msgstr "您不能修改其它用户项目中的云变量。<br>本次编辑过程中的所有修改都是临时且不能永久保存的。"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "输入一个布尔值："
