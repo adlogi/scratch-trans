@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-06 21:39+0200\n"
+"PO-Revision-Date: 2013-05-08 20:15+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -239,15 +239,15 @@ msgstr "Operatoren"
 
 # (Markus S.) war "Malstift"
 msgid "Pen"
-msgstr "Stiftspuren"
+msgstr "Malstift"
 
 # (Markus S.) war 'zeichne Spur'; war 'setze Stift auf'
 msgid "pen down"
-msgstr "beginne zu zeichnen"
+msgstr "schalte Stift ein"
 
 # (Markus S.) war 'zeichne nicht'; war 'hebe Stift an'
 msgid "pen up"
-msgstr "zeichne nicht mehr"
+msgstr "schalte Stift aus"
 
 msgid "pick random %n to %n"
 msgstr "Zufallszahl von %n bis %n"
@@ -468,7 +468,7 @@ msgid "when I receive %m.broadcast"
 msgstr "Wenn ich %m.broadcast empfange"
 
 msgid "when I start as a clone"
-msgstr "Wenn ich als Klon starte"
+msgstr "Wenn ich als Klon entstehe"
 
 msgid "when this sprite clicked"
 msgstr "Wenn ich angeklickt werde"
