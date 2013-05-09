@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:46+0200\n"
-"PO-Revision-Date: 2013-04-27 00:31+0200\n"
+"PO-Revision-Date: 2013-05-09 16:16+0200\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nb\n"
@@ -16,13 +16,11 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-#, fuzzy
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
-"<b>Informasjon om varige data på nett</b><br>&nbsp;<br>Inntil videre er det "
-"bare mulig å lagre tall<br>Chat-funksjoner er ikke tillatt og vil bli "
-"slettet<br>For mer informasjon, se <a href= target=>spørsmål og svar om "
-"varige data!</a>"
+"<b>Informasjon om nettdata</b><br>&nbsp;<br>Inntil videre er det bare mulig "
+"å lagre tall<br>Chat-funksjoner er ikke tillatt og vil bli slettet<br>For "
+"mer informasjon, se <a href= target=>spørsmål og svar om varige data!</a>"
 
 msgid "A connected"
 msgstr "A tilkoblet"
@@ -37,7 +35,7 @@ msgid "Account settings"
 msgstr "Brukerkonto-innstillinger"
 
 msgid "acos"
-msgstr "acos"
+msgstr "arccos"
 
 # 90%
 #, fuzzy
@@ -78,13 +76,13 @@ msgid "Animals"
 msgstr "Dyr"
 
 msgid "asin"
-msgstr "asin"
+msgstr "arcsin"
 
 msgid "assets loaded"
 msgstr "objekter lest inn"
 
 msgid "atan"
-msgstr "atan"
+msgstr "arctan"
 
 msgid "B connected"
 msgstr "B tilkoblet"
@@ -105,7 +103,7 @@ msgid "backdrop #"
 msgstr "bakgrunn nr."
 
 msgid "Backdrop Library"
-msgstr "Ferdige Bakgrunner"
+msgstr "Bakgrunner i biblioteket"
 
 msgid "backdrop name"
 msgstr "bakgrunnsnavn"
@@ -186,7 +184,7 @@ msgid "Cannot Delete"
 msgstr "Kan ikke slette"
 
 msgid "Can’t find network connection or reach server."
-msgstr "Ingen nettforbindelse"
+msgstr "Ingen nettforbindelse."
 
 msgid "Castle"
 msgstr "Slott"
@@ -204,16 +202,16 @@ msgid "Choir"
 msgstr "Kor"
 
 msgid "Choose backdrop from library"
-msgstr ""
+msgstr "Velg en ferdig bakgrunn"
 
 msgid "Choose costume from library"
-msgstr ""
+msgstr "Velg drakt fra biblioteket"
 
 msgid "Choose sound from library"
-msgstr ""
+msgstr "Velg lyd fra biblioteket"
 
 msgid "Choose sprite from library"
-msgstr ""
+msgstr "Velg figur fra biblioteket"
 
 msgid "Circle"
 msgstr "Sirkel"
@@ -288,7 +286,7 @@ msgid "costume #"
 msgstr "drakt nr."
 
 msgid "Costume Library"
-msgstr "Ferdige Drakter"
+msgstr "Drakter i biblioteket"
 
 msgid "costume name"
 msgstr "draktnavn"
@@ -619,14 +617,14 @@ msgid "New"
 msgstr "Nouveau"
 
 msgid "New backdrop from camera"
-msgstr ""
+msgstr "Ny bakgrunn fra kamera"
 
 # 92%
 msgid "New backdrop:"
 msgstr "Ny bakgrunn:"
 
 msgid "New costume from camera"
-msgstr ""
+msgstr "Ny drakt fra kamera"
 
 # 91%
 msgid "New costume:"
@@ -646,7 +644,7 @@ msgid "New sound:"
 msgstr "Ny lyd:"
 
 msgid "New sprite from camera"
-msgstr ""
+msgstr "Ny figur fra kamera"
 
 msgid "New sprite:"
 msgstr "Ny figur:"
@@ -698,13 +696,13 @@ msgid "Outdoors"
 msgstr "Utendørs"
 
 msgid "Paint new backdrop"
-msgstr ""
+msgstr "Tegn ny bakgrunn"
 
 msgid "Paint new costume"
-msgstr ""
+msgstr "Tegn ny drakt"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "Tegn ny figur"
 
 msgid "paste"
 msgstr "lim inn"
@@ -750,7 +748,7 @@ msgid "Record"
 msgstr "Opptak"
 
 msgid "Record new sound"
-msgstr ""
+msgstr "Spill inn en ny lyd"
 
 msgid "recording1"
 msgstr "opptak1"
@@ -949,7 +947,7 @@ msgid "Sound"
 msgstr "Lyd"
 
 msgid "Sound Library"
-msgstr "Ferdige Lyder"
+msgstr "Lyder i biblioteket"
 
 msgid "Sounds"
 msgstr "Lyder"
@@ -969,7 +967,7 @@ msgid "Sprite"
 msgstr "Figur"
 
 msgid "Sprite Library"
-msgstr "Ferdige Figurer"
+msgstr "Figurer i biblioteket"
 
 # 85%
 msgid "Sprite1"
@@ -1001,7 +999,6 @@ msgstr "lagret på nett"
 msgid "Synth Lead"
 msgstr "Synt"
 
-#, fuzzy
 msgid "Synth Pad"
 msgstr "Synth Pad"
 
@@ -1107,19 +1104,19 @@ msgid "up arrow"
 msgstr "pil opp"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "Last opp bakgrunn fra fil"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "Last opp drakt fra fil"
 
 msgid "Upload from your computer"
 msgstr "Last opp fra maskinen"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "Last opp lyd fra fil"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "Last opp figur fra fil"
 
 msgid "Uploading image..."
 msgstr "Laster opp bilde..."
@@ -1169,7 +1166,7 @@ msgid "Want to save? Click remix"
 msgstr "Vil du lagre? Klikk remiks"
 
 msgid "Which column do you want to import"
-msgstr "Hvilken kolonne vil du importere?"
+msgstr "Hvilken kolonne vil du importere"
 
 msgid "whirl"
 msgstr "virvel"
