@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-04-29 10:09+0200\n"
+"PO-Revision-Date: 2013-05-07 14:46+0200\n"
 "Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
@@ -336,7 +336,7 @@ msgid "set tempo to %n bpm"
 msgstr "избери темпо %n удара в минута"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "избери прозрачност на видео %n%"
 
 msgid "set volume to %n%"
 msgstr "избери сила на звука %n%"
@@ -421,15 +421,14 @@ msgid "turn motor on for %n secs"
 msgstr "включи мотора за %n сек"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "превключи към видео %m.videoState"
 
 # 88%
-#, fuzzy
 msgid "username"
 msgstr "потребителско име"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "видео %m.videoMotionType на %m.stageOrThis"
 
 msgid "volume"
 msgstr "сила на звука"

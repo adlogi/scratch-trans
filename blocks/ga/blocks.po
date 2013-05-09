@@ -1,0 +1,474 @@
+# Rinne Íde Ruaidh aistriúchán ar leagan 1.4;
+# bhain mé úsáid as a haistriúcháin nuair a bhí mé in ann
+msgid ""
+msgstr ""
+"Project-Id-Version: Scratch 2.0 Block\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-05 23:56+0200\n"
+"PO-Revision-Date: 2013-05-05 23:57+0200\n"
+"Last-Translator: Kevin Scannell\n"
+"Language-Team: Irish\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+# ###########################################
+# FORMATTING
+# ###########################################
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "Gaeilge"
+
+msgid "%b and %b"
+msgstr "%b agus %b"
+
+msgid "%b or %b"
+msgstr "%b nó %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.aitreabúid de %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list: tá %s ann"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp de %n"
+
+msgid "%m.sensor sensor value"
+msgstr "luach an bhraiteora %m.sensor"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "cuir %s le %m.list"
+
+msgid "answer"
+msgstr "freagra"
+
+msgid "ask %s and wait"
+msgstr "fiafraigh %s agus fan"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "cúlra #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "ainm an chúlra"
+
+msgid "broadcast %m.broadcast"
+msgstr "craol %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "craol %m.broadcast agus fan"
+
+msgid "change %m.effect effect by %n"
+msgstr "athraigh maisíocht %m.effect de %n"
+
+msgid "change %m.var by %n"
+msgstr "athraigh %m.var de %n"
+
+msgid "change pen color by %n"
+msgstr "athraigh dath an phinn de %n"
+
+msgid "change pen shade by %n"
+msgstr "athraigh doimhneacht dhath an phinn de %n"
+
+msgid "change pen size by %n"
+msgstr "athraigh méid an phinn de %n"
+
+msgid "change size by %n"
+msgstr "athraigh an méid de %n"
+
+msgid "change tempo by %n"
+msgstr "athraigh an luas de %n"
+
+msgid "change volume by %n"
+msgstr "athraigh airde na fuaime de %n"
+
+msgid "change x by %n"
+msgstr "athraigh x de %n"
+
+msgid "change y by %n"
+msgstr "athraigh y de %n"
+
+msgid "clear"
+msgstr "glan"
+
+msgid "clear graphic effects"
+msgstr "glan na maisíochtaí graifice"
+
+msgid "color %c is touching %c?"
+msgstr "dath %c i dteagmháil le %c?"
+
+msgid "Control"
+msgstr "Rialú"
+
+msgid "costume #"
+msgstr "culaith #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "cruthaigh cóip de %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "%m.timeAndDate faoi láthair"
+
+msgid "Data"
+msgstr "Sonraí"
+
+msgid "days since 2000"
+msgstr "laethanta ó 2000"
+
+msgid "define"
+msgstr "sainmhínigh"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "scrios %d.listDeleteItem ó %m.list"
+
+msgid "delete this clone"
+msgstr "scrios an chóip seo"
+
+msgid "direction"
+msgstr "treo"
+
+msgid "distance"
+msgstr "fad slí"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "fad go %m.spriteOrMouse"
+
+msgid "else"
+msgstr "seachas sin"
+
+msgid "Events"
+msgstr "Teagmhais"
+
+msgid "forever"
+msgstr "go deo"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "sleamhnaigh %n soicind go x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "téigh siar %n sraith"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "téigh go %m.spriteOrMouse"
+
+msgid "go to front"
+msgstr "téigh chun tosaigh"
+
+msgid "go to x:%n y:%n"
+msgstr "téigh go x:%n y:%n"
+
+msgid "hide"
+msgstr "cuir i bhfolach"
+
+msgid "hide list %m.list"
+msgstr "cuir liosta %m.list i bhfolach"
+
+msgid "hide variable %m.var"
+msgstr "cuir athróg %m.var i bhfolach"
+
+msgid "if %b then"
+msgstr "más %b ansin"
+
+msgid "if on edge, bounce"
+msgstr "más ar an imeall, preab"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "ionsáigh %s ag %d.listItem i %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "mír %d.listItem i %m.list"
+
+msgid "join %s %s"
+msgstr "ceangail %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "eochair %m.key brúite?"
+
+msgid "length of %m.list"
+msgstr "fad %m.list"
+
+msgid "length of %s"
+msgstr "fad %s"
+
+msgid "letter %n of %s"
+msgstr "litir %n de %s"
+
+msgid "Looks"
+msgstr "Cuma"
+
+msgid "loudness"
+msgstr "treise"
+
+msgid "More Blocks"
+msgstr "Tuilleadh Blocanna"
+
+msgid "Motion"
+msgstr "Gluaiseacht"
+
+msgid "mouse down?"
+msgstr "luchóg síos?"
+
+msgid "mouse x"
+msgstr "luchóg x"
+
+msgid "mouse y"
+msgstr "luchóg y"
+
+msgid "move %n steps"
+msgstr "bog %n coiscéim"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "an chéad chúlra eile"
+
+msgid "next costume"
+msgstr "an chéad chulaith eile"
+
+msgid "not %b"
+msgstr "ní %b"
+
+msgid "Operators"
+msgstr "Oibreoirí"
+
+msgid "Pen"
+msgstr "Peann"
+
+msgid "pen down"
+msgstr "peann síos"
+
+msgid "pen up"
+msgstr "peann suas"
+
+msgid "pick random %n to %n"
+msgstr "roghnaigh go randamach idir %n agus %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "seinn druma %d.drum ar feadh %n buille"
+
+msgid "play note %d.note for %n beats"
+msgstr "seinn nóta %d.note ar feadh %n buille"
+
+msgid "play sound %m.sound"
+msgstr "seinn fuaim %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "seinn fuaim %m.sound go dtí a deireadh"
+
+msgid "point in direction %d.direction"
+msgstr "tabhair aghaidh ar %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "tabhair aghaidh ar %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "déan %n uair"
+
+msgid "repeat until %b"
+msgstr "athdhéan go %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "cuir %s in ionad mír %d.list i %m.list"
+
+msgid "reset timer"
+msgstr "athshocraigh an t-amadóir"
+
+msgid "rest for %n beats"
+msgstr "tóg sos ar feadh %n buille"
+
+msgid "round %n"
+msgstr "slánaigh %n"
+
+msgid "say %s"
+msgstr "abair %s"
+
+msgid "say %s for %n secs"
+msgstr "abair %s ar feadh %n soicind"
+
+msgid "Sensing"
+msgstr "Brath"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "braiteoir %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "socraigh maisíocht %m.effect: %n"
+
+msgid "set %m.var to %s"
+msgstr "socraigh %m.var: %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "socraigh ionstraim: %d.instrument"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "socraigh treo an mhótair: %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "socraigh cumhacht an mhótair: %n"
+
+msgid "set pen color to %c"
+msgstr "socraigh dath an phinn: %c"
+
+msgid "set pen color to %n"
+msgstr "socraigh dath an phinn: %n"
+
+msgid "set pen shade to %n"
+msgstr "socraigh doimhneacht dhath an phinn: %n"
+
+msgid "set pen size to %n"
+msgstr "socraigh méid an phinn: %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "socraigh an stíl rothlaithe: %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "socraigh an méid: %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "socraigh an luas: %n bsn"
+
+msgid "set video transparency to %n%"
+msgstr "socraigh trédhearcacht físe: %n%"
+
+msgid "set volume to %n%"
+msgstr "socraigh airde na fuaime: %n%"
+
+msgid "set x to %n"
+msgstr "socraigh x: %n"
+
+msgid "set y to %n"
+msgstr "socraigh y: %n"
+
+msgid "show"
+msgstr "taispeáin"
+
+msgid "show list %m.list"
+msgstr "taispeáin liosta %m.list"
+
+msgid "show variable %m.var"
+msgstr "taispeáin athróg %m.var"
+
+msgid "size"
+msgstr "méid"
+
+msgid "Sound"
+msgstr "Fuaim"
+
+msgid "stamp"
+msgstr "stampa"
+
+msgid "stop %m.stop"
+msgstr "stop %m.stop"
+
+msgid "stop all sounds"
+msgstr "stop gach fuaim"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "athraigh an cúlra go %m.backdrop"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "athraigh an cúlra go %m.backdrop agus fan"
+
+msgid "switch costume to %m.costume"
+msgstr "athraigh an chulaith go %m.costume"
+
+msgid "tempo"
+msgstr "luas"
+
+msgid "think %s"
+msgstr "smaoinigh %s"
+
+msgid "think %s for %n secs"
+msgstr "smaoinigh %s ar feadh %n soicind"
+
+msgid "tilt"
+msgstr "claon"
+
+msgid "timer"
+msgstr "amadóir"
+
+msgid "touching %m.touching?"
+msgstr "i dteagmháil le %m.touching?"
+
+msgid "touching color %c?"
+msgstr "i dteagmháil le dath %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "rothlaigh @turnLeft %n céim"
+
+msgid "turn @turnRight %n degrees"
+msgstr "rothlaigh @turnRight %n céim"
+
+msgid "turn motor off"
+msgstr "stop an mótar"
+
+msgid "turn motor on"
+msgstr "cuir an mótar ar siúl"
+
+msgid "turn motor on for %n secs"
+msgstr "cuir an mótar ar siúl ar feadh %n soicind"
+
+msgid "turn video %m.videoState"
+msgstr "cuir an físeán %m.videoState"
+
+msgid "username"
+msgstr "ainm úsáideora"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "físeán %m.videoMotionType ar %m.stageOrThis"
+
+msgid "volume"
+msgstr "airde"
+
+msgid "wait %n secs"
+msgstr "fan %n soicind"
+
+msgid "wait until %b"
+msgstr "fan go %b"
+
+msgid "when %m.booleanSensor"
+msgstr "nuair a %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "nuair a bhrúitear eochair %m.key"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "nuair a bhíonn %m.triggerSensor > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "nuair a chliceáiltear @greenFlag"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "nuair a chuirtear %m.backdrop suas"
+
+msgid "when distance < %n"
+msgstr "nuair a bhíonn fad < %n"
+
+msgid "when I receive %m.broadcast"
+msgstr "nuair a fhaighim %m.broadcast"
+
+msgid "when I start as a clone"
+msgstr "nuair a thosaím mar chóip"
+
+msgid "when this sprite clicked"
+msgstr "nuair a chliceáiltear an sprid seo"
+
+msgid "when tilt = %n"
+msgstr "nuair atá claon = %n"
+
+msgid "x position"
+msgstr "ionad x"
+
+msgid "y position"
+msgstr "ionad y"
+

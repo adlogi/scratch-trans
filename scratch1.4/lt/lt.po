@@ -3,25 +3,22 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2007-12-06\n"
-"PO-Revision-Date: 2010-03-06 09:17-0400\n"
-"Last-Translator: Jurgis Pralgauskis <jurgis.pralgauskis@gmail.com>\n"
+"PO-Revision-Date: 2013-05-05 21:35+0200\n"
+"Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"(n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 1.2.1\n"
-"X-Poedit-Language: Lithuanian\n"
-"X-Poedit-Country: LITHUANIA\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%"
+"100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.1.6\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Bookmarks: 190,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 ############################################
 # FORMATTING
 ############################################
-
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
 msgid "Language-Name"
@@ -59,15 +56,16 @@ msgstr "Mona"
 ############################################
 # BLOCKS
 ############################################
-
 msgid "%H sensor value"
 msgstr "%H"
 
 msgid "%L contains %s"
 msgstr "sąraše %L yra %s?"
 
+# veikėjo %m %a
+#, fuzzy
 msgid "%a of %m"
-msgstr "veikėjo %m %a"
+msgstr "%a pas veikėją %m"
 
 msgid "%b and %b"
 msgstr "%b ir %b"
@@ -81,8 +79,10 @@ msgstr "%f(%n)"
 msgid "%n mod %n"
 msgstr "%n iš %n dalybos liekana"
 
+# į sąrašą %L pridėk %s 
+#, fuzzy
 msgid "add %s to %L"
-msgstr "į sąrašą %L pridėk %s "
+msgstr "pridėk %s į sąrašą %L "
 
 msgid "answer"
 msgstr "atsakymas"
@@ -115,7 +115,7 @@ msgid "change pen size by %n"
 msgstr "pieštuko storį padidink %n"
 
 msgid "change size by %n"
-msgstr "padidėk %n taškų"
+msgstr "padidėk %n % (originalaus dydžio)"
 
 msgid "change tempo by %n"
 msgstr "tempą padidink %n"
@@ -144,8 +144,9 @@ msgstr "veikimo logika"
 msgid "costume #"
 msgstr "kaukės nr."
 
+# iš %L ištrink nr. %y 
 msgid "delete %y of %L"
-msgstr "iš %L ištrink nr. %y "
+msgstr "ištrink nr. %y iš %L"
 
 msgid "direction"
 msgstr "kryptis"
@@ -191,11 +192,13 @@ msgstr "jeigu %b:"
 msgid "if on edge, bounce"
 msgstr "jeigu priėjai kraštą, atšok"
 
+# į %L vietą %i įterpk %s
 msgid "insert %s at %i of %L"
-msgstr "į %L vietą %i įterpk %s"
+msgstr "įterpk %s į %i %L vietą"
 
+# sąrašo %L nr. %i
 msgid "item %i of %L"
-msgstr "sąrašo %L nr. %i"
+msgstr " %i -tasis  %L elementas"
 
 msgid "join %s %s"
 msgstr "sujunk %s ir %s"
@@ -209,8 +212,9 @@ msgstr "sąrašo %L ilgis"
 msgid "length of %s"
 msgstr "%s ilgis"
 
+# %s %n-oji raidė
 msgid "letter %n of %s"
-msgstr "%s %n-oji raidė"
+msgstr "%n -oji %s raidė"
 
 msgid "list"
 msgstr "sąrašas"
@@ -228,20 +232,19 @@ msgid "motion"
 msgstr "judėjimas"
 
 msgid "motor direction %W"
-msgstr "variklinių kryptimi %W"
+msgstr "variklio kryptis %W"
 
 msgid "motor off"
-msgstr "variklio išjungimo"
+msgstr "Išjunk variklį"
 
 msgid "motor on"
-msgstr "dėl motorinių"
+msgstr "įjunk variklį"
 
-#, fuzzy
 msgid "motor on for %n secs"
-msgstr "dėl motorinių už %n secs"
+msgstr "įjunk variklį %n sekundžių"
 
 msgid "motor power %n"
-msgstr "Variklio %n"
+msgstr "variklio galia %n"
 
 msgid "mouse down?"
 msgstr "pelė paspausta?"
@@ -256,7 +259,7 @@ msgid "move %n steps"
 msgstr "eik %n žingsnius(-ių)"
 
 msgid "next background"
-msgstr "kitas  fonas"
+msgstr "kitas fonas"
 
 msgid "next costume"
 msgstr "kita kaukė"
@@ -277,7 +280,7 @@ msgid "pen up"
 msgstr "pakelk pieštuką"
 
 msgid "pick random %n to %n"
-msgstr "bet kuris sk. nuo %n iki %n"
+msgstr "atsitiktinis sk. nuo %n iki %n"
 
 # ?? daugiskaitinė forma
 msgid "play drum %D for %n beats"
@@ -304,8 +307,9 @@ msgstr "kartok %n:"
 msgid "repeat until %b"
 msgstr "kartok, kol atsitiks %b:"
 
+# pakeisk %L nr. %i į %s
 msgid "replace item %i of %L with %s"
-msgstr "pakeisk %L nr. %i į %s"
+msgstr "pakeisk %i -ąjį %L elementą į %s"
 
 msgid "reset timer"
 msgstr "iš naujo paleisk laikmatį"
@@ -445,7 +449,6 @@ msgstr "y koordinatė"
 ############################################
 # USER INTERFACE
 ############################################
-
 msgid "(empty)"
 msgstr "(tuščia)"
 
@@ -541,8 +544,9 @@ msgid "Close paint editor?"
 msgstr "Užverti grafikos rengyklę?"
 
 # (??)
+# 
 msgid "close port"
-msgstr "užverti prievadas"
+msgstr "užverti prievadą"
 
 msgid "Close sound recorder?"
 msgstr "Užverti garso įrašymo langą?"
@@ -676,10 +680,10 @@ msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
 msgstr "Elipsė (piešia apskritimą arba elipsę -- užpildytą arba tik kontūrą)"
 
 msgid "enable remote sensor connections"
-msgstr "leisti nuotoliniu davikliu jungtis"
+msgstr "leisti nuotolinio jutiklio jungtis"
 
 msgid "Enter presentation mode"
-msgstr "Pateikties/pristatymo režimas"
+msgstr "Demonstravimo būsena"
 
 msgid "Eraser"
 msgstr "Trintukas"
@@ -698,7 +702,7 @@ msgid "Exit presentation"
 msgstr "Baigti demonstravimą"
 
 msgid "Exit presentation mode"
-msgstr "Baigti pristatymą"
+msgstr "Baigti demonstravimą"
 
 msgid "export"
 msgstr "eksportuoti"
@@ -922,9 +926,9 @@ msgid "Make a variable"
 msgstr "Sukurti kintamąjį"
 
 # ??
-#, fuzzy
+# 
 msgid "Max:"
-msgstr "Max:"
+msgstr "Maks:"
 
 msgid "meow"
 msgstr "miau"
@@ -933,6 +937,7 @@ msgid "Message name:"
 msgstr "Žinutės pavadinimas:"
 
 # ??
+# 
 #, fuzzy
 msgid "Min:"
 msgstr "Min:"
@@ -1077,8 +1082,10 @@ msgid "Please enter a number"
 msgstr "Įveskite skaičių"
 
 # ??  (pop)
+# 
+#, fuzzy
 msgid "pop"
-msgstr "paskutinis"
+msgstr "paimk paskutinį"
 
 msgid "Position the cross-hair to set the rotation center"
 msgstr "Pažymėkite sukimosi centrą"
@@ -1242,9 +1249,9 @@ msgstr "Publikuoti projektą internete"
 msgid "Show Motor Blocks"
 msgstr "Rodyti „Motor“ komandas"
 
-#, fuzzy
+# http://ictmindtools.net/scratch/scratch_boards.htm
 msgid "show ScratchBoard watcher"
-msgstr "rodyti ScratchBoard watcher"
+msgstr "rodyti ScratchBoard reikšmes"
 
 msgid "Shrink"
 msgstr "Sutraukti/sumažinti"
@@ -1432,7 +1439,6 @@ msgstr "Sumažinti"
 ############################################
 # MIDI INSTRUMENTS
 ############################################
-
 # lietuviški MIDI instrumentų vertimai derinami
 # http://spreadsheets.google.com/ccc?key=rekcWGglJahVzE7jbuudfCQ&hl=lt
 # http://spreadsheets.google.com/pub?key=rekcWGglJahVzE7jbuudfCQ&output=html

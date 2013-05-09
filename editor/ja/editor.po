@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:45+0200\n"
-"PO-Revision-Date: 2013-04-27 13:43+0200\n"
+"PO-Revision-Date: 2013-05-04 11:54+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -17,9 +17,7 @@ msgid "10 ^"
 msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-msgstr ""
-"<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されません(削除され"
-"ます)。<br>詳細な情報は <a href= target=>クラウドデータFAQを読んでください!</a>"
+msgstr "<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されません(削除されます)。<br>詳細な情報は <a href= target=>クラウドデータFAQを読んでください!</a>"
 
 msgid "A connected"
 msgstr "Aがつながれた"
@@ -189,16 +187,16 @@ msgid "Choir"
 msgstr "合唱団"
 
 msgid "Choose backdrop from library"
-msgstr ""
+msgstr "ライブラリーから背景を選択"
 
 msgid "Choose costume from library"
-msgstr ""
+msgstr "ライブラリーからコスチュームを選択"
 
 msgid "Choose sound from library"
-msgstr ""
+msgstr "音をライブラリーから選択"
 
 msgid "Choose sprite from library"
-msgstr ""
+msgstr "スプライトをライブラリーから選択"
 
 msgid "Circle"
 msgstr "円"
@@ -592,13 +590,13 @@ msgid "New"
 msgstr "新規"
 
 msgid "New backdrop from camera"
-msgstr ""
+msgstr "カメラから新しい背景を作る"
 
 msgid "New backdrop:"
 msgstr "新しい背景:"
 
 msgid "New costume from camera"
-msgstr ""
+msgstr "カメラから新しいコスチュームを作る"
 
 msgid "New costume:"
 msgstr "新しいコスチューム:"
@@ -616,7 +614,7 @@ msgid "New sound:"
 msgstr "新しい音:"
 
 msgid "New sprite from camera"
-msgstr ""
+msgstr "カメラから新しいスプライトを作る"
 
 msgid "New sprite:"
 msgstr "新しいスプライト:"
@@ -668,13 +666,13 @@ msgid "Outdoors"
 msgstr "屋外"
 
 msgid "Paint new backdrop"
-msgstr ""
+msgstr "新しい背景を描く"
 
 msgid "Paint new costume"
-msgstr ""
+msgstr "新しいコスチュームを描く"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "新しいスプライトを描く"
 
 msgid "paste"
 msgstr "貼り付け"
@@ -719,7 +717,7 @@ msgid "Record"
 msgstr "録音"
 
 msgid "Record new sound"
-msgstr ""
+msgstr "新しい音を録音"
 
 msgid "recording1"
 msgstr "録音1"
@@ -981,9 +979,7 @@ msgid "Things"
 msgstr "もの"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
-msgstr ""
-"このプロジェクトは「ユーザー名」ブロックを使って、誰が使っているかを検出します。特定されたくない場合はこのプロジェクトを使う前にサインアウトしてください"
-"。"
+msgstr "このプロジェクトは「ユーザー名」ブロックを使って、誰が使っているかを検出します。特定されたくない場合はこのプロジェクトを使う前にサインアウトしてください。"
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr "このプロジェクトはクラウドデータを使っています。この機能はサインインしたユーザーだけ使うことができます。"
@@ -1055,19 +1051,19 @@ msgid "up arrow"
 msgstr "上向き矢印"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "ファイルから新しい背景をアップロード"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "ファイルから新しいコスチュームをアップロード"
 
 msgid "Upload from your computer"
 msgstr "手元のコンピューターからアップロード"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "ファイルから新しい音をアップロード"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "ファイルから新しいスプライトをアップロード"
 
 msgid "Uploading image..."
 msgstr "画像をアップロード中..."
@@ -1136,16 +1132,16 @@ msgid "year"
 msgstr "年"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
-msgstr "他のプロジェクトのクラウドデータを編集することはできません。<br>エディターで行った変更は一時的なもので永続性はありません。"
+msgstr "他の人のプロジェクトのクラウドデータを編集することはできません。<br>エディターで行った変更は一時的なもので永続性はありません。"
 
 #~ msgid "Add a boolean input:"
-#~ msgstr "真偽値の入力を追加:"
+#~ msgstr "真偽値の引数を追加:"
 
 #~ msgid "Add a number input:"
-#~ msgstr "数値の入力を追加:"
+#~ msgstr "数値の引数を追加:"
 
 #~ msgid "Add a string input:"
-#~ msgstr "文字列の入力を追加:"
+#~ msgstr "文字列の引数を追加:"
 
 #~ msgid "Back a layer (Shift: Send to back)"
 #~ msgstr "後ろに送る (シフト: 最背面にする)"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-02 13:21+0200\n"
+"PO-Revision-Date: 2013-05-07 16:48+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -77,7 +77,7 @@ msgid "change pen size by %n"
 msgstr "άλλαξε το μέγεθος της πένας κατά %n"
 
 msgid "change size by %n"
-msgstr "άλλαξε το μέγεθος κατά %n"
+msgstr "άλλαξε το μέγεθος του αντικειμένου κατά %n"
 
 msgid "change tempo by %n"
 msgstr "άλλαξε το ρυθμό κατά %n"
@@ -95,7 +95,7 @@ msgid "clear"
 msgstr "καθάρισε"
 
 msgid "clear graphic effects"
-msgstr "καθάρισε τα γραφικά εφέ"
+msgstr "επανάφερε τα γραφικά εφέ"
 
 msgid "color %c is touching %c?"
 msgstr "το χρώμα %c αγγίζει το χρώμα %c"
@@ -146,22 +146,22 @@ msgid "forever"
 msgstr "για πάντα"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "κινήσου ομαλά για %n δευτ. στη θέση x:%n και y:%n"
+msgstr "πήγαινε αργά για %n δευτ. στη θέση x:%n και y:%n"
 
 msgid "go back %n layers"
 msgstr "πήγαινε πίσω %n επίπεδα"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "πήγαινε στο %m.spriteOrMouse"
+msgstr "πήγαινε στη θέση του %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "πήγαινε στην μπροστινή στρώση"
 
 msgid "go to x:%n y:%n"
-msgstr "πήγαινε στη θέση x:%n y:%n"
+msgstr "πήγαινε στη θέση x:%n και y:%n"
 
 msgid "hide"
-msgstr "κρύψου"
+msgstr "εξαφανίσου"
 
 msgid "hide list %m.list"
 msgstr "απόκρυψε τη λίστα %m.list"
@@ -206,7 +206,7 @@ msgid "More Blocks"
 msgstr "Περισσ. Τετράγωνα Εντολών"
 
 msgid "Motion"
-msgstr "Κίνηση"
+msgstr "Κινήσεις"
 
 msgid "mouse down?"
 msgstr "πατήθηκε το ποντίκι"
@@ -222,19 +222,19 @@ msgstr "κινήσου %n βήματα"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr "επόμενο υπόβαθρο"
+msgstr "άλλαξε στο επόμενο υπόβαθρο"
 
 msgid "next costume"
-msgstr "επόμενη ενδυμασία"
+msgstr "άλλαξε στην επόμενη ενδυμασία"
 
 msgid "not %b"
-msgstr "όχι %b"
+msgstr "δεν ισχύει ότι %b"
 
 msgid "Operators"
 msgstr "Τελεστές"
 
 msgid "Pen"
-msgstr "Πένα"
+msgstr "Σχεδιασμοί με Πένα"
 
 msgid "pen down"
 msgstr "κατέβασε την πένα"
@@ -256,13 +256,13 @@ msgid "play sound %m.sound"
 msgstr "παίξε τον ήχο %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr "παίξε τον ήχο %m.sound μέχρι τέλους"
+msgstr "παίξε τον ήχο %m.sound μέχρι το τέλος"
 
 msgid "point in direction %d.direction"
-msgstr "κοίτα προς τα %d.direction"
+msgstr "στρίψε προς την κατεύθυνση των %d.direction μοιρών"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "κοίτα προς %m.spriteOrMouse"
+msgstr "στρίψε προς το %m.spriteOrMouse"
 
 msgid "repeat %n"
 msgstr "επανάλαβε %n"
@@ -301,7 +301,7 @@ msgid "set %m.var to %s"
 msgstr "όρισε το %m.var σε %s"
 
 msgid "set instrument to %d.instrument"
-msgstr "όρισε το όργανο σε %d.instrument"
+msgstr "όρισε το μουσικό όργανο σε %d.instrument"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
@@ -327,7 +327,7 @@ msgid "set rotation style %m.rotationStyle"
 msgstr "όρισε τον άξονα περιστροφής σε %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr "όρισε το μέγεθος σε %n%"
+msgstr "όρισε το μέγεθος του αντικειμένου σε %n%"
 
 msgid "set tempo to %n bpm"
 msgstr "όρισε το ρυθμό σε %n χτύπους το λεπτό"
@@ -358,7 +358,7 @@ msgid "size"
 msgstr "μέγεθος"
 
 msgid "Sound"
-msgstr "Ήχος"
+msgstr "Ήχοι"
 
 msgid "stamp"
 msgstr "κάνε μία στάμπα"
@@ -463,16 +463,16 @@ msgid "when I start as a clone"
 msgstr "Όταν ξεκινήσει ο κλώνος"
 
 msgid "when this sprite clicked"
-msgstr "Όταν σε αυτή την μορφή γίνει κλικ"
+msgstr "Όταν σε αυτό το αντικείμενο γίνει κλικ"
 
 msgid "when tilt = %n"
 msgstr "Όταν η κλίση = %n"
 
 msgid "x position"
-msgstr "θέση x"
+msgstr "θέση του x"
 
 msgid "y position"
-msgstr "θέση y"
+msgstr "θέση του y"
 
 #~ msgid "user name"
 #~ msgstr "Όνομα χρήστη"
@@ -487,7 +487,7 @@ msgstr "θέση y"
 #~ msgstr "για πάντα εάν %b"
 
 #~ msgid "hide all sprites"
-#~ msgstr "απόκρυψε όλες τις μορφές"
+#~ msgstr "απόκρυψε όλα τα αντικείμενα"
 
 #~ msgid "if %b"
 #~ msgstr "εάν %b"

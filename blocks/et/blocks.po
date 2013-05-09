@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-04-28 15:34+0200\n"
+"PO-Revision-Date: 2013-05-05 07:20+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -123,7 +123,7 @@ msgid "define"
 msgstr "defineeri"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "eemalda %m.list %d.listDeleteItem"
+msgstr "eemalda %d listDeleteItem %m.list"
 
 msgid "delete this clone"
 msgstr "eemalda see kloon"
@@ -177,13 +177,13 @@ msgid "if on edge, bounce"
 msgstr "kui äärel, põrka"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "sisesta %m.list %d -ks %s"
+msgstr "sisesta %s liige %d.listItem %m loendisse"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list %d.listItem . element"
+msgstr "liige %d..listItem %m.list"
 
 msgid "join %s %s"
-msgstr "ühenda %s %s"
+msgstr "%s + %s"
 
 msgid "key %m.key pressed?"
 msgstr "klahv %m.key all?"
@@ -195,7 +195,7 @@ msgid "length of %s"
 msgstr "%s pikkus"
 
 msgid "letter %n of %s"
-msgstr "%s %n . täht"
+msgstr "märk %n sõnas %s"
 
 msgid "Looks"
 msgstr "Välimus"
@@ -272,7 +272,7 @@ msgid "repeat until %b"
 msgstr "korda kuni %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "võta %m.list %d.listItem = %s"
+msgstr "asenda %d.listItem %m -s list %s -ga"
 
 msgid "reset timer"
 msgstr "taimer algseisu"
@@ -325,7 +325,7 @@ msgid "set pen size to %n"
 msgstr "võta pliiatsi suuruseks %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "määra pöörlemisstiil %m.rotationStyle"
+msgstr "pöörlemisstiil %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "võta suuruseks %n%"
@@ -421,7 +421,6 @@ msgid "turn video %m.videoState"
 msgstr "lülita video %m.videoState"
 
 # 88%
-#, fuzzy
 msgid "username"
 msgstr "kasutajanimi"
 
@@ -432,7 +431,7 @@ msgid "volume"
 msgstr "helitugevus"
 
 msgid "wait %n secs"
-msgstr "oota %n sek"
+msgstr "paus %n sek"
 
 msgid "wait until %b"
 msgstr "oota kuni %b"
@@ -458,13 +457,13 @@ msgid "when distance < %n"
 msgstr "kui kaugus < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr "kui saabub teade %m broadcast"
+msgstr "kui teade %m broadcast"
 
 msgid "when I start as a clone"
-msgstr "kui alustan kloonina"
+msgstr "kui alustan kloonimist"
 
 msgid "when this sprite clicked"
-msgstr "kui seda spraiti klõpsati"
+msgstr "kui spraiti klõpsati"
 
 msgid "when tilt = %n"
 msgstr "kui kalle = %n"

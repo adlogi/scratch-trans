@@ -3,14 +3,15 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2008-05-02\n"
-"PO-Revision-Date: 2010-01-09 11:58+0900\n"
-"Last-Translator: Kazuhiro ABE <abee@squeakland.jp>\n"
+"PO-Revision-Date: 2013-05-04 11:29+0200\n"
+"Last-Translator: Kazuhiro Abe <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ja_HIRA\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 1.2.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
 
 ############################################
 # FORMATTING
@@ -38,15 +39,15 @@ msgstr "false"
 
 # Font to use on a Windows system
 msgid "Win-Font"
-msgstr ""
+msgstr "Tahoma"
 
 # Font to use on a Mac system
 msgid "Mac-Font"
-msgstr ""
+msgstr "times"
 
 # Font to use on a Linux system
 msgid "Linux-Font"
-msgstr ""
+msgstr "Mona"
 
 ############################################
 # BLOCKS
@@ -73,7 +74,7 @@ msgid "%n mod %n"
 msgstr "%n を %n でわったあまり"
 
 msgid "add %s to %L"
-msgstr "%s を %L についか"
+msgstr "%s を %L についかする"
 
 msgid "answer"
 msgstr "こたえ"
@@ -136,7 +137,7 @@ msgid "costume #"
 msgstr "コスチュームのばんごう"
 
 msgid "delete %y of %L"
-msgstr "%y ばんめを %L からさくじょ"
+msgstr "%y ばんめを %L からさくじょする"
 
 msgid "direction"
 msgstr "むき"
@@ -226,7 +227,7 @@ msgid "motor on"
 msgstr "モーターをオンにする"
 
 msgid "motor on for %n secs"
-msgstr "モーターを %n 秒オンにする"
+msgstr "モーターを %n びょうオンにする"
 
 msgid "motor power %n"
 msgstr "モーターのパワーを %n にする"
@@ -241,7 +242,7 @@ msgid "mouse y"
 msgstr "マウスのyざひょう"
 
 msgid "move %n steps"
-msgstr "%n ぽうごかす"
+msgstr "%n ほうごかす"
 
 msgid "next background"
 msgstr "つぎのはいけいにする"
@@ -355,7 +356,7 @@ msgid "show"
 msgstr "ひょうじする"
 
 msgid "show variable %v"
-msgstr "へんすう %v をひょうじ"
+msgstr "へんすう %v をひょうじする"
 
 msgid "size"
 msgstr "おおきさ"
@@ -433,7 +434,7 @@ msgstr "yざひょう"
 # USER INTERFACE
 ############################################
 msgid "(empty)"
-msgstr "(から)"
+msgstr "(そら)"
 
 msgid "1 script"
 msgstr "1 スクリプト"
@@ -523,7 +524,7 @@ msgid "Close dialog?"
 msgstr "ダイアログをとじますか?"
 
 msgid "Close paint editor?"
-msgstr "ペイントエディタをとじますか?"
+msgstr "ペイントエディターをとじますか?"
 
 msgid "close port"
 msgstr "ポートをとじる"
@@ -568,7 +569,7 @@ msgid "Could not read"
 msgstr "よめません"
 
 msgid "Could not read project; file may be damaged"
-msgstr "プロジェクトがよめません。たぶんファイルが壊れています"
+msgstr "プロジェクトをよめません。たぶんファイルがこわれています"
 
 msgid "Could not write file"
 msgstr "ファイルにかけません"
@@ -577,7 +578,7 @@ msgid "Create account"
 msgstr "アカウントをつくる"
 
 msgid "Create an empty project"
-msgstr "からのプロジェクトをつくる"
+msgstr "そらのプロジェクトをつくる"
 
 msgid "Data sent. Waiting for response..."
 msgstr "データをそうしんしました。おうとうをまっています..."
@@ -589,7 +590,7 @@ msgid "Delete"
 msgstr "さくじょ"
 
 msgid "Delete a list"
-msgstr "リストをさくじょ"
+msgstr "リストをさくじょする"
 
 msgid "Delete a variable"
 msgstr "へんすうをさくじょ"
@@ -640,7 +641,7 @@ msgid "drag to rotate"
 msgstr "ドラッグしてかいてん"
 
 msgid "draggable on website?"
-msgstr "Webサイト上でドラッグできるか?"
+msgstr "Webサイトじょうでドラッグできるか?"
 
 msgid "duplicate"
 msgstr "ふくせい"
@@ -655,7 +656,7 @@ msgid "Edit"
 msgstr "へんしゅう"
 
 msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
-msgstr "だえんツール (だえんやえんのりんかくやぬりつぶしたものをかく)"
+msgstr "だえんツール (だえんやえんのりんかくやぬりつぶしたものをえがく)"
 
 msgid "enable remote sensor connections"
 msgstr "えんかくセンサーせつぞくをゆうこうにする"
@@ -664,10 +665,10 @@ msgid "Enter presentation mode"
 msgstr "はっぴょうモードにはいる"
 
 msgid "Eraser"
-msgstr "けしごむ"
+msgstr "けしゴム"
 
 msgid "Eraser size"
-msgstr "けしごむのおおきさ"
+msgstr "けしゴムのおおきさ"
 
 msgid "Error!"
 msgstr "エラー!"
@@ -757,7 +758,7 @@ msgid "Game"
 msgstr "ゲーム"
 
 msgid "Get surprise sprite"
-msgstr "どれかのスプライトをだす"
+msgstr "なにがでるかなスプライト"
 
 msgid "Get the last thing deleted"
 msgstr "さいごにけしたものをもどす"
@@ -991,13 +992,13 @@ msgid "normal readout"
 msgstr "ふつうのひょうじ"
 
 msgid "Off"
-msgstr "オフ"
+msgstr "せつ"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "On"
-msgstr "オン"
+msgstr "にゅう"
 
 msgid "only face left-right"
 msgstr "さゆうにはんてんするだけ"
@@ -1018,10 +1019,10 @@ msgid "Paint"
 msgstr "ペイント"
 
 msgid "Paint Editor"
-msgstr "ペイントエディタ"
+msgstr "ペイントエディター"
 
 msgid "Paint new sprite"
-msgstr "あたらしいスプライトをかく"
+msgstr "あたらしいスプライトをえがく"
 
 msgid "Paintbrush"
 msgstr "えふで"
@@ -1075,7 +1076,7 @@ msgid "Quit"
 msgstr "しゅうりょう"
 
 msgid "Quit Scratch"
-msgstr "Scratrchをしゅうりょう"
+msgstr "Scratchをしゅうりょう"
 
 msgid "Reading"
 msgstr "Reading"
@@ -1090,7 +1091,7 @@ msgid "recording"
 msgstr "ろくおん"
 
 msgid "Rectangle tool (draw outlined or filled rectangle or square)"
-msgstr "しかくけいツール (しかくけいやせいほうけいのりんかくやぬりつぶしたものをかく)"
+msgstr "しかくけいツール (しかくけいやせいほうけいのりんかくやぬりつぶしたものをえがく)"
 
 msgid "Redo"
 msgstr "やりなおし"
@@ -1201,7 +1202,7 @@ msgid "Share this project"
 msgstr "このプロジェクトをきょうゆうする"
 
 msgid "Share This Project Online"
-msgstr "オンラインでこのプロジェクトをきょうゆう"
+msgstr "ネットワークじょうでこのプロジェクトをきょうゆう"
 
 msgid "Show Motor Blocks"
 msgstr "モーターのブロックをひょうじする"
@@ -1306,7 +1307,7 @@ msgid "that way"
 msgstr "あちらむき"
 
 msgid "The file name already exists. Overwrite existing file?"
-msgstr "このファイルめいはすでにそんざいします。きぞんのファイルをうわがきしてもよいですか?"
+msgstr "このファイルめいはすでにそんざいします。きそんのファイルをうわがきしてもよいですか?"
 
 msgid "thing"
 msgstr "なにか"
@@ -1357,7 +1358,7 @@ msgid "View on stage"
 msgstr "ステージのうえにひょうじ"
 
 msgid "What's your name?"
-msgstr "あなたのなまえはなにですか?"
+msgstr "あなたのなまえはなんですか?"
 
 msgid "whirl"
 msgstr "うずまき"
@@ -1366,10 +1367,10 @@ msgid "world"
 msgstr "ワールド"
 
 msgid "Write Multiple Project Summaries"
-msgstr "ふくすうのプロジェクトのまとめをかく"
+msgstr "ふくすうのプロジェクトのまとめをかきだす"
 
 msgid "Write Project Summary"
-msgstr "プロジェクトのまとめをかく"
+msgstr "プロジェクトのまとめをかきだす"
 
 msgid "Yes"
 msgstr "はい"
@@ -1513,10 +1514,10 @@ msgid "Electric Muted Guitar"
 msgstr "エレキミュートギター"
 
 msgid "Electric Piano 1"
-msgstr "でんしぴあの 1"
+msgstr "でんしピアノ 1"
 
 msgid "Electric Piano 2"
-msgstr "でんしぴあの 2"
+msgstr "でんしピアノ 2"
 
 msgid "Electric Snare"
 msgstr "でんしスネア"
@@ -1540,7 +1541,7 @@ msgid "FX 5 (brightness)"
 msgstr "こうかおん 5 (あかるさ)"
 
 msgid "FX 6 (goblins)"
-msgstr "こうかおん 6 (こおに)"
+msgstr "こうかおん 6 (しょうおに)"
 
 msgid "FX 7 (echoes)"
 msgstr "こうかおん 7 (こだま)"
@@ -1633,16 +1634,16 @@ msgid "Lead 6 (voice)"
 msgstr "リード 6 (こえ)"
 
 msgid "Lead 7 (fifths)"
-msgstr "リード 7 (5ど)"
+msgstr "リード 7 (５ど)"
 
 msgid "Lead 8 (bass+lead)"
 msgstr "リード 8 (ベースとリード)"
 
 msgid "Long Guiro"
-msgstr "ながいギロ"
+msgstr "ロングギロ"
 
 msgid "Long Whistle"
-msgstr "ながいホイッスル"
+msgstr "ロングホイッスル"
 
 msgid "Low Agogo"
 msgstr "ローアゴーゴー"
@@ -1726,7 +1727,7 @@ msgid "Pad 1 (new age)"
 msgstr "パッド 1 (ニューエイジ)"
 
 msgid "Pad 2 (warm)"
-msgstr "パッド 2 (あたたかい)"
+msgstr "パッド 2 (だんかい)"
 
 msgid "Pad 3 (polysynth)"
 msgstr "パッド 3 (ポリシンセ)"
@@ -1795,10 +1796,10 @@ msgid "Shanai"
 msgstr "シャナイ"
 
 msgid "Short Guiro"
-msgstr "みじかいギロ"
+msgstr "ショートギロ"
 
 msgid "Short Whistle"
-msgstr "みじかいホイッスル"
+msgstr "ショートホイッスル"
 
 msgid "Side Stick"
 msgstr "サイドスティック"
@@ -1913,4 +1914,3 @@ msgstr "ウッドブロック"
 
 msgid "Xylophone"
 msgstr "シロホン"
-

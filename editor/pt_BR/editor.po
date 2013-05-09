@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:47+0200\n"
-"PO-Revision-Date: 2013-05-04 12:31+0200\n"
+"PO-Revision-Date: 2013-05-05 16:21+0200\n"
 "Last-Translator: ehermann <everton.hermann@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -30,13 +30,13 @@ msgid "a copy of the project file on your computer."
 msgstr "uma copia do arquivo do projeto em seu computador."
 
 msgid "abs"
-msgstr "abs"
+msgstr "módulo"
 
 msgid "Account settings"
 msgstr "Minha conta"
 
 msgid "acos"
-msgstr "acos"
+msgstr "arco cosseno"
 
 msgid "Add boolean input:"
 msgstr "Adicionar entrada lógica:"
@@ -69,13 +69,13 @@ msgid "Animals"
 msgstr "Animais"
 
 msgid "asin"
-msgstr "asen"
+msgstr "arco seno "
 
 msgid "assets loaded"
 msgstr "elementos carregados"
 
 msgid "atan"
-msgstr "atan"
+msgstr "arco tangente"
 
 msgid "B connected"
 msgstr "B conectado"
@@ -162,7 +162,7 @@ msgid "Camera"
 msgstr "Câmera"
 
 msgid "can drag in player:"
-msgstr "pode arrastar no player:"
+msgstr "pode ser arrastado:"
 
 msgid "Cancel"
 msgstr "Cancelar"
@@ -180,7 +180,7 @@ msgid "Category"
 msgstr "Categoria"
 
 msgid "ceiling"
-msgstr "teto"
+msgstr "arredondar para cima"
 
 msgid "Cello"
 msgstr "Violoncelo"
@@ -261,7 +261,7 @@ msgid "Copying..."
 msgstr "Copiando..."
 
 msgid "cos"
-msgstr "cos"
+msgstr "cosseno"
 
 msgid "Costume"
 msgstr "Traje1"
@@ -415,7 +415,7 @@ msgid "Flip up-down"
 msgstr "Espelhar verticalmente"
 
 msgid "floor"
-msgstr "chão"
+msgstr "arredondar para baixo"
 
 msgid "Flute"
 msgstr "Flauta Transversal"
@@ -511,13 +511,13 @@ msgid "List name"
 msgstr "Nome da lista"
 
 msgid "ln"
-msgstr "ln"
+msgstr "logarítmo natural de"
 
 msgid "Loading project..."
 msgstr "Carregando projeto..."
 
 msgid "log"
-msgstr "log"
+msgstr "logarítmo"
 
 msgid "louder"
 msgstr "mais forte"
@@ -658,7 +658,7 @@ msgid "Organ"
 msgstr "Órgão"
 
 msgid "Other"
-msgstr "Outro"
+msgstr "Outros"
 
 msgid "other scripts in sprite"
 msgstr "outros programas do objeto"
@@ -778,7 +778,7 @@ msgid "right arrow"
 msgstr "seta para a direita"
 
 msgid "rotation style:"
-msgstr "type de rotação:"
+msgstr "tipo de rotação:"
 
 msgid "Run without screen refresh"
 msgstr "Executar sem atualizar tela"
@@ -808,7 +808,7 @@ msgid "Saxophone"
 msgstr "Saxofone"
 
 msgid "Script"
-msgstr "Roteiros"
+msgstr "Programa"
 
 msgid "Scripts"
 msgstr "Programas"
@@ -966,7 +966,7 @@ msgid "Tambourine"
 msgstr "Pandeirola"
 
 msgid "tan"
-msgstr "tan"
+msgstr "tangente"
 
 msgid "Text"
 msgstr "Texto"
@@ -992,7 +992,7 @@ msgstr ""
 "para usuários conectados."
 
 msgid "this script"
-msgstr "este roteiro"
+msgstr "este programa"
 
 msgid "this sprite"
 msgstr "este objeto"
@@ -1037,7 +1037,7 @@ msgid "Undelete"
 msgstr "Recuperar"
 
 msgid "Underwater"
-msgstr "Submarino"
+msgstr "Debaixo d'água"
 
 msgid "Undo"
 msgstr "Desfazer"
@@ -1106,7 +1106,7 @@ msgid "video motion"
 msgstr "movimento de vídeo"
 
 msgid "Video on:"
-msgstr "Vídeo em:"
+msgstr "Vídeo ligado:"
 
 msgid "Vocals"
 msgstr "Vocais"

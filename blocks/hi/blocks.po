@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-03 12:20+0200\n"
+"PO-Revision-Date: 2013-05-07 11:17+0200\n"
 "Last-Translator: Alisha <panjwani.alisha@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi\n"
@@ -116,7 +116,7 @@ msgid "Data"
 msgstr "डेटा"
 
 msgid "days since 2000"
-msgstr "वर्ष २००० के बाद से दिन"
+msgstr "वर्ष 2000 के बाद से दिन"
 
 msgid "define"
 msgstr "स्पष्ट अर्थ बताइए"
@@ -164,10 +164,10 @@ msgid "hide"
 msgstr "छुपाएँ"
 
 msgid "hide list %m.list"
-msgstr "%m.list सूची को छुपाएँ"
+msgstr "सूची %m.list को छुपाएँ"
 
 msgid "hide variable %m.var"
-msgstr "%m.var चर(वेरिएबल) को छुपाएँ"
+msgstr "चर/वेरिएबल %m.var को छुपाएँ"
 
 msgid "if %b then"
 msgstr "अगर %b हो तो"
@@ -176,7 +176,7 @@ msgid "if on edge, bounce"
 msgstr "अगर किनारे पर है तो उछाले"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "%s %L का %d.listItem पर डाले"
+msgstr "%s को %m.list के %d.listItem पर डाले"
 
 msgid "item %d.listItem of %m.list"
 msgstr "%m.list की %d.listItem चीज"
@@ -422,10 +422,10 @@ msgid "turn video %m.videoState"
 msgstr "वीडियो m.videoState% करें"
 
 msgid "username"
-msgstr ""
+msgstr "यूजर नेम"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "%m.stageOrThis पर वीडियो %m.videoMotionType"
 
 msgid "volume"
 msgstr "अावाज"
@@ -437,15 +437,14 @@ msgid "wait until %b"
 msgstr "%b होने तक ठहरे"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "सेंसर %m.booleanSensor?"
+msgstr "जब %m.booleanSensor हो"
 
 msgid "when %m.key key pressed"
 msgstr "जब %m.key बटन दबा हुआ है"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "जब %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "जब @greenFlag क्लिक किया गया हो"
@@ -455,19 +454,19 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "जब पृष्ठभूमि % m.backdrop में बदल जाए"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "जब दूरी< %n"
 
 msgid "when I receive %m.broadcast"
-msgstr "जब मुझे %m.broadcast मिले"
+msgstr "मुझे %m.broadcast मिलने पर"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "मेरे एक क्लोन के रूप में शुरू होने पर"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "इस स्प्राईट को क्लिक करने पर"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "जब झुकाव = %n"
 
 msgid "x position"
 msgstr "x स्थिति"

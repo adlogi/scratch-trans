@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-05-03 08:32+0200\n"
+"PO-Revision-Date: 2013-05-07 21:23+0200\n"
 "Last-Translator: Barry <barry@neville.dk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
@@ -59,7 +59,7 @@ msgid "all"
 msgstr "alle"
 
 msgid "all around"
-msgstr "hele vejen rundt"
+msgstr "op og ned"
 
 msgid "Animal"
 msgstr "Dyr"
@@ -71,7 +71,7 @@ msgid "asin"
 msgstr "arcsin"
 
 msgid "assets loaded"
-msgstr ""
+msgstr "komponenter indlæst"
 
 msgid "atan"
 msgstr "arctan"
@@ -80,7 +80,7 @@ msgid "B connected"
 msgstr "B opkoblet"
 
 msgid "Back a layer"
-msgstr ""
+msgstr "Flyt ned et lag"
 
 msgid "Backdrop"
 msgstr "Bagtæppe"
@@ -122,7 +122,7 @@ msgid "Bitmap"
 msgstr "Bitmap"
 
 msgid "Bitmap Mode"
-msgstr ""
+msgstr "Bitmapformat"
 
 msgid "Block help"
 msgstr "Hjælp til kloderne"
@@ -134,10 +134,10 @@ msgid "brightness"
 msgstr "klarhed"
 
 msgid "Bring to front"
-msgstr ""
+msgstr "Flyt foran"
 
 msgid "Broadcast"
-msgstr ""
+msgstr "Udsendelse"
 
 msgid "Brush"
 msgstr "Pensel"
@@ -146,10 +146,10 @@ msgid "button pressed"
 msgstr "trykket på knappen"
 
 msgid "by"
-msgstr ""
+msgstr "af"
 
 msgid "bytes loaded"
-msgstr ""
+msgstr "bytes læst"
 
 msgid "C connected"
 msgstr "C opkoblet"
@@ -200,10 +200,10 @@ msgid "Choose sprite from library"
 msgstr "Vælg sprite fra biblioteket"
 
 msgid "Circle"
-msgstr ""
+msgstr "Cirkel"
 
 msgid "City"
-msgstr ""
+msgstr "By"
 
 msgid "Clarinet"
 msgstr "Klarinet"
@@ -212,57 +212,56 @@ msgid "Claves"
 msgstr "Claves"
 
 msgid "Clear"
-msgstr ""
+msgstr "Ryd"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "ryd afsendere/modtagere"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr ""
+msgstr "Klik  for at prøve igen eller  for at gemme"
 
 msgid "Close"
-msgstr ""
+msgstr "Luk"
 
 msgid "Closed Hi-Hat"
 msgstr "Lukket high-hat"
 
 msgid "Cloud"
-msgstr ""
+msgstr "Sky"
 
 msgid "Cloud data"
-msgstr ""
+msgstr "Skydata"
 
 msgid "color"
 msgstr "farve"
 
 msgid "Color a shape"
-msgstr ""
+msgstr "Farvelæg en figur"
 
 msgid "Conga"
-msgstr ""
+msgstr "Conga"
 
 msgid "Connecting to Cloud data server..."
-msgstr ""
+msgstr "Opkobling til Skydataserver..."
 
 msgid "Convert to bitmap"
-msgstr ""
+msgstr "Konverter til bitmap"
 
 msgid "Convert to vector"
-msgstr ""
+msgstr "Konverter til vektor"
 
 msgid "Converting mp3..."
-msgstr ""
+msgstr "Konvertering mp3..."
 
 msgid "copy"
-msgstr "Kopier"
+msgstr "kopier"
 
 msgid "Copying..."
-msgstr ""
+msgstr "Kopierer..."
 
 # 75%
-#, fuzzy
 msgid "cos"
-msgstr "arccos"
+msgstr "cos"
 
 msgid "Costume"
 msgstr "Kostume"
@@ -307,18 +306,17 @@ msgid "cut"
 msgstr ""
 
 msgid "D connected"
-msgstr ""
+msgstr "D opkoblet"
 
 msgid "date"
-msgstr ""
+msgstr "dato"
 
 msgid "day of week"
-msgstr ""
+msgstr "ugedag"
 
 # 83%
-#, fuzzy
 msgid "Delete"
-msgstr "slet"
+msgstr "Slet"
 
 msgid "delete"
 msgstr "slet"
@@ -469,16 +467,16 @@ msgid "Import"
 msgstr "importer"
 
 msgid "Importing sound..."
-msgstr ""
+msgstr "Importerer lyd..."
 
 msgid "Indoors"
-msgstr ""
+msgstr "Indendørs"
 
 msgid "Installing..."
-msgstr ""
+msgstr "Installerer..."
 
 msgid "Instruments"
-msgstr ""
+msgstr "Instrumenter"
 
 msgid "last"
 msgstr "sidste"
@@ -490,10 +488,10 @@ msgid "left arrow"
 msgstr "venstrepil"
 
 msgid "left-right"
-msgstr ""
+msgstr "venstre-højre"
 
 msgid "Library"
-msgstr ""
+msgstr "Bibliotek"
 
 msgid "light"
 msgstr "lys"
@@ -502,10 +500,10 @@ msgid "limit reached"
 msgstr ""
 
 msgid "Line"
-msgstr ""
+msgstr "Linje"
 
 msgid "Line width:"
-msgstr ""
+msgstr "Linjebredde:"
 
 # 75%
 msgid "list"
@@ -515,19 +513,19 @@ msgid "List name"
 msgstr "Listenavn"
 
 msgid "ln"
-msgstr ""
+msgstr "ln"
 
 msgid "Loading project..."
-msgstr ""
+msgstr "Indlæser projektet..."
 
 msgid "log"
-msgstr ""
+msgstr "log"
 
 msgid "louder"
-msgstr ""
+msgstr "højere"
 
 msgid "loudness"
-msgstr ""
+msgstr "lydstyrke"
 
 msgid "Make a Block"
 msgstr ""
@@ -590,22 +588,22 @@ msgid "myself"
 msgstr ""
 
 msgid "Nature"
-msgstr ""
+msgstr "Natur"
 
 msgid "New"
 msgstr "Ny"
 
 msgid "New backdrop from camera"
-msgstr ""
+msgstr "Nyt bagtæppe fra kamera"
 
 msgid "New backdrop:"
-msgstr "Ny bagtæppe"
+msgstr "Nyt bagtæppe:"
 
 msgid "New costume from camera"
-msgstr ""
+msgstr "Nyt kostume fra kamera"
 
 msgid "New costume:"
-msgstr "Ny kostume"
+msgstr "Nyt kostume:"
 
 msgid "New List"
 msgstr "Ny liste"
@@ -614,16 +612,16 @@ msgid "new message..."
 msgstr "ny meddelese..."
 
 msgid "New name"
-msgstr "Ny navn"
+msgstr "Nyt navn"
 
 msgid "New sound:"
-msgstr "New lyd"
+msgstr "Ny lyd"
 
 msgid "New sprite from camera"
-msgstr ""
+msgstr "Ny sprite fra kamera"
 
 msgid "New sprite:"
-msgstr "Ny sprite"
+msgstr "Ny sprite:"
 
 msgid "New Variable"
 msgstr "Ny variabel"
@@ -662,34 +660,34 @@ msgid "Organ"
 msgstr "Orgel"
 
 msgid "Other"
-msgstr ""
+msgstr "Andre"
 
 msgid "other scripts in sprite"
 msgstr ""
 
 msgid "Outdoors"
-msgstr ""
+msgstr "Udendørs"
 
 msgid "Paint new backdrop"
-msgstr ""
+msgstr "Tegn nyt bagtæppe "
 
 msgid "Paint new costume"
-msgstr ""
+msgstr "Tegn nyt kostume"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "Tegn ny sprite"
 
 msgid "paste"
-msgstr ""
+msgstr "klistr"
 
 msgid "Pencil"
-msgstr ""
+msgstr "Blyant"
 
 msgid "People"
 msgstr "Mennesker"
 
 msgid "Percussion"
-msgstr ""
+msgstr "Slagtøj"
 
 msgid "photo1"
 msgstr ""
@@ -928,7 +926,7 @@ msgstr "mellemrum"
 
 # 80%
 msgid "Space"
-msgstr "Rumvæsner "
+msgstr "Rum"
 
 msgid "Sports"
 msgstr "Sport"

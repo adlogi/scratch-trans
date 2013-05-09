@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-04-28 13:51+0200\n"
+"PO-Revision-Date: 2013-05-05 08:15+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -26,7 +26,7 @@ msgid "A connected"
 msgstr "A ühendatud"
 
 msgid "a copy of the project file on your computer."
-msgstr "kopeerida projekt oma arvutisse."
+msgstr "kopeeri projekt oma arvutisse."
 
 msgid "abs"
 msgstr "abs"
@@ -56,13 +56,13 @@ msgid "Add string input:"
 msgstr "Lisa tekstparameeter:"
 
 msgid "All"
-msgstr "Koik"
+msgstr "Kõik"
 
 msgid "all"
 msgstr "kõik"
 
 msgid "all around"
-msgstr "kõikjal"
+msgstr "ksuvaline"
 
 msgid "Animal"
 msgstr "Loom"
@@ -154,7 +154,7 @@ msgid "button pressed"
 msgstr "nupp vajutatud"
 
 msgid "by"
-msgstr "kaupa"
+msgstr "autor"
 
 msgid "bytes loaded"
 msgstr "baiti laetud"
@@ -196,16 +196,16 @@ msgid "Choir"
 msgstr "Koor"
 
 msgid "Choose backdrop from library"
-msgstr ""
+msgstr "Vali taust teegist"
 
 msgid "Choose costume from library"
-msgstr ""
+msgstr "Vali kostüüm teegist"
 
 msgid "Choose sound from library"
-msgstr ""
+msgstr "Vali helind teegist"
 
 msgid "Choose sprite from library"
-msgstr ""
+msgstr "Vali sprait teegist"
 
 msgid "Circle"
 msgstr "Ring"
@@ -226,7 +226,7 @@ msgid "clear senders/receivers"
 msgstr "kustuta saatjad/saajad"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr "Klõpsa...uueks katseks või...salvestamiseks"
+msgstr "Klõpsa.uueks katseks või..salvestamiseks"
 
 msgid "Close"
 msgstr "Sulge"
@@ -253,10 +253,10 @@ msgid "Connecting to Cloud data server..."
 msgstr "Ühendamine pilveandmete serveriga..."
 
 msgid "Convert to bitmap"
-msgstr "Teisenda rastergraafikaks"
+msgstr "Muuda rastergraafikaks"
 
 msgid "Convert to vector"
-msgstr "Teisenda vektorgraafikaks"
+msgstr "Muuda vektorgraafikaks"
 
 msgid "Converting mp3..."
 msgstr "Mp3 teisendamine..."
@@ -295,7 +295,7 @@ msgid "Costumes"
 msgstr "Kostüümid"
 
 msgid "Costumes > 1"
-msgstr "Kostüümid > 1"
+msgstr "Kostüüme > 1"
 
 msgid "Costumes:"
 msgstr "Kostüümid:"
@@ -319,7 +319,7 @@ msgid "D connected"
 msgstr "D ühendatud"
 
 msgid "date"
-msgstr "kuupäev"
+msgstr "päev"
 
 msgid "day of week"
 msgstr "nädalapäev"
@@ -604,14 +604,14 @@ msgid "New"
 msgstr "Uus"
 
 msgid "New backdrop from camera"
-msgstr ""
+msgstr "Uus taust kaameraga"
 
 # 92%
 msgid "New backdrop:"
 msgstr "Uus taust:"
 
 msgid "New costume from camera"
-msgstr ""
+msgstr "Uus kostüüm kaameraga"
 
 # 91%
 msgid "New costume:"
@@ -631,7 +631,7 @@ msgid "New sound:"
 msgstr "Uus heli:"
 
 msgid "New sprite from camera"
-msgstr ""
+msgstr "Uus sprait kaameraga"
 
 msgid "New sprite:"
 msgstr "Uus sprait:"
@@ -683,13 +683,13 @@ msgid "Outdoors"
 msgstr "Õues"
 
 msgid "Paint new backdrop"
-msgstr ""
+msgstr "Uue tausta joonistamine"
 
 msgid "Paint new costume"
-msgstr ""
+msgstr "Uue kostüümi joonistamine"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "Uue spraidi joonistamine"
 
 msgid "paste"
 msgstr "kleebi"
@@ -735,7 +735,7 @@ msgid "Record"
 msgstr "Lindista"
 
 msgid "Record new sound"
-msgstr ""
+msgstr "Uue helindi lindistamine"
 
 msgid "recording1"
 msgstr "lindistus1"
@@ -1084,19 +1084,19 @@ msgid "up arrow"
 msgstr "ülesnool"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "Tausta laadimine failist"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "Kostüümi laadimine failist"
 
 msgid "Upload from your computer"
 msgstr "Lae ülesse oma arvutist"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "Helindi laadimine failist"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "Spraidi laadimine failist"
 
 msgid "Uploading image..."
 msgstr "Pildi üleslaadimine..."

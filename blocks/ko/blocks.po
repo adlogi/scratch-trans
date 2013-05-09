@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-01-31 17:04+0200\n"
-"Last-Translator: janggoons <janggoons@gmail.com>\n"
+"PO-Revision-Date: 2013-05-09 11:29+0200\n"
+"Last-Translator: Dohyeong <goodideal@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -45,16 +45,16 @@ msgid "answer"
 msgstr "대답"
 
 msgid "ask %s and wait"
-msgstr "%s을(를) 묻고 기다리기"
+msgstr "%s 을(를) 묻고 기다리기"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #, fuzzy
 msgid "backdrop #"
-msgstr "배경 #"
+msgstr "배경 번호"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "배경 이름"
 
 msgid "broadcast %m.broadcast"
 msgstr "%m.broadcast 방송하기"
@@ -114,13 +114,13 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
-msgstr ""
+msgstr "데이터"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "2000년 이후의 날짜"
 
 msgid "define"
-msgstr ""
+msgstr "정의하기"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "%m.list 에서 %d.listDeleteItem 위치의 아이템 삭제하기"
@@ -132,7 +132,7 @@ msgid "direction"
 msgstr "방향"
 
 msgid "distance"
-msgstr ""
+msgstr "거리"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "%m.spriteOrMouse 까지 거리"
@@ -141,7 +141,7 @@ msgid "else"
 msgstr "그렇지 않으면"
 
 msgid "Events"
-msgstr ""
+msgstr "이벤트"
 
 msgid "forever"
 msgstr "무한 반복"
@@ -165,13 +165,13 @@ msgid "hide"
 msgstr "숨기기"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "%m.list 리스트 숨기기"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "%m.var 변수 숨기기"
 
 msgid "if %b then"
-msgstr ""
+msgstr "만약 %b 라면"
 
 msgid "if on edge, bounce"
 msgstr "벽에 닿으면 튀어나오기"
@@ -183,7 +183,7 @@ msgid "item %d.listItem of %m.list"
 msgstr "%m.list %i 위치의 아이템"
 
 msgid "join %s %s"
-msgstr "%s %s 결합하기"
+msgstr "%s 와 %s 결합하기"
 
 msgid "key %m.key pressed?"
 msgstr "%m.key 키 클릭하기?"
@@ -204,7 +204,7 @@ msgid "loudness"
 msgstr "음량"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "추가 블록"
 
 msgid "Motion"
 msgstr "동작"
@@ -253,7 +253,7 @@ msgstr "%d.drum 드럼 %n 박자로 연주하기"
 # 83%
 #, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "%d.note 음계 %n 박자로 연주하기"
+msgstr "%d.note 음계를 %n 박자로 연주하기"
 
 msgid "play sound %m.sound"
 msgstr "%m.sound 소리내기"
@@ -309,12 +309,12 @@ msgstr "%d.instrument 번 악기 사용하기"
 # 89%
 #, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "모터 %m.motorDirection 회전"
+msgstr "모터 방향을 %m.motorDirection 쪽으로 정하기"
 
 # 77%
 #, fuzzy
 msgid "set motor power %n"
-msgstr "모터 파워 %n"
+msgstr "%n 로 모터 파워 정하기"
 
 msgid "set pen color to %c"
 msgstr "펜 색상 %c 로 정하기"
@@ -329,7 +329,7 @@ msgid "set pen size to %n"
 msgstr "펜 굵기 %n 로 정하기"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "회전방식을 %m.rotationStyle 로 정하기"
 
 msgid "set size to %n%"
 msgstr "크기 %n% 로 정하기"
@@ -338,7 +338,7 @@ msgid "set tempo to %n bpm"
 msgstr "템포 %n BPM로 맞추기"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "비디오 투명도 %n% 로 정하기"
 
 msgid "set volume to %n%"
 msgstr "음량 %n% 로 맞추기"
@@ -353,10 +353,10 @@ msgid "show"
 msgstr "보이기"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "리스트 %m.list 보이기"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "변수 %m.var 보이기"
 
 msgid "size"
 msgstr "크기"
@@ -368,21 +368,21 @@ msgid "stamp"
 msgstr "스탬프"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "%m.stop 멈추기"
 
 msgid "stop all sounds"
 msgstr "모든 소리 끄기"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "%m.backdrop 로 배경 바꾸기"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "%m.backdrop 로 배경 바꾸고 기다리기"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "%m.costume (으)로 모양 바꾸기"
 
 msgid "tempo"
 msgstr "템포"
@@ -412,21 +412,21 @@ msgid "turn @turnRight %n degrees"
 msgstr ""
 
 msgid "turn motor off"
-msgstr ""
+msgstr "모터 끄기"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "모터 켜기"
 
 # 80%
 #, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "%n초 동안 모터 켜기"
+msgstr "%n 초 동안 모터 켜기"
 
 msgid "turn video %m.videoState"
 msgstr ""
 
 msgid "username"
-msgstr ""
+msgstr "사용자 이름"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr ""
@@ -456,10 +456,10 @@ msgstr "@greenFlag 클릭될 때"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "배경이 %m.backdrop 로 바뀔 때"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "거리가 %n보다 작을 때"
 
 msgid "when I receive %m.broadcast"
 msgstr ""
@@ -468,7 +468,7 @@ msgid "when I start as a clone"
 msgstr ""
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "이 스프라이트를 눌렀을 때"
 
 msgid "when tilt = %n"
 msgstr ""

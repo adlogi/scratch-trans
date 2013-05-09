@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:57+0200\n"
-"PO-Revision-Date: 2013-05-03 06:44+0200\n"
-"Last-Translator: Gang <eniac2008@163.com>\n"
+"PO-Revision-Date: 2013-05-08 03:38+0200\n"
+"Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -92,13 +92,13 @@ msgid "change y by %n"
 msgstr "将y坐标增加 %n"
 
 msgid "clear"
-msgstr "清除所有画笔"
+msgstr "清空"
 
 msgid "clear graphic effects"
 msgstr "清除所有图形特效"
 
 msgid "color %c is touching %c?"
-msgstr "颜色 %c接触 %c?"
+msgstr "颜色%c碰到%c?"
 
 msgid "Control"
 msgstr "控制"
@@ -107,7 +107,7 @@ msgid "costume #"
 msgstr "造型 #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "创建 %m.spriteOnly的克隆"
+msgstr "克隆 %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "当前时间 %m.timeAndDate"
@@ -125,7 +125,7 @@ msgid "delete %d.listDeleteItem of %m.list"
 msgstr "删除 %m.list 的 %d.listDeleteItem"
 
 msgid "delete this clone"
-msgstr "删除这个克隆"
+msgstr "删除本克隆体"
 
 msgid "direction"
 msgstr "方向"
@@ -146,7 +146,7 @@ msgid "forever"
 msgstr "重复执行"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "在 %n 秒内，平滑移动到 x:%n y:%n"
+msgstr "在 %n 秒内平滑移动到 x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "下移 %n 层"
@@ -176,10 +176,10 @@ msgid "if on edge, bounce"
 msgstr "碰到边缘就反弹"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "将 %s 插入到列表 %m.list的 %d.listItem 位置"
+msgstr "将 %s 插入到链表 %m.list的 %d.listItem 位置"
 
 msgid "item %d.listItem of %m.list"
-msgstr "列表 %m.list的第 %d.listItem 项"
+msgstr "链表 %m.list的第 %d.listItem 项"
 
 msgid "join %s %s"
 msgstr "将 %s 加入到 %s 的后面"
@@ -194,7 +194,7 @@ msgid "length of %s"
 msgstr "%s 的长度"
 
 msgid "letter %n of %s"
-msgstr "%s 的第 %n个字母"
+msgstr "后面字符串中第 %n 个字符 %s"
 
 msgid "Looks"
 msgstr "外观"
@@ -240,7 +240,7 @@ msgid "pen down"
 msgstr "落笔"
 
 msgid "pen up"
-msgstr "停笔"
+msgstr "抬笔"
 
 msgid "pick random %n to %n"
 msgstr "在 %n 到 %n 间随机选一个数"
@@ -298,7 +298,7 @@ msgid "set %m.effect effect to %n"
 msgstr "将 %m.effect 特效设定为 %n"
 
 msgid "set %m.var to %s"
-msgstr "将 %m.var 设定为 %n"
+msgstr "将 %m.var 设定为 %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "设定乐器为 %d.instrument"
@@ -315,7 +315,7 @@ msgid "set pen color to %c"
 msgstr "将画笔的颜色设定为 %c"
 
 msgid "set pen color to %n"
-msgstr "将画笔的色值设定为 %n"
+msgstr "将画笔的颜色设定为 %n"
 
 msgid "set pen shade to %n"
 msgstr "将画笔的色度设定为 %n"
@@ -370,14 +370,14 @@ msgstr "停止所有声音"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "将背景转换成 %m.backdrop"
+msgstr "将背景切换为 %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "将背景转换成 %m.backdrop 并等待"
+msgstr "将背景切换为 %m.backdrop 并等待"
 
 msgid "switch costume to %m.costume"
-msgstr "将造型转换成 %m.costume"
+msgstr "将造型切换为 %m.costume"
 
 msgid "tempo"
 msgstr "节奏"
@@ -395,10 +395,10 @@ msgid "timer"
 msgstr "计时器"
 
 msgid "touching %m.touching?"
-msgstr "接触 %m.touching?"
+msgstr "碰到%m.touching?"
 
 msgid "touching color %c?"
-msgstr "接触颜色%c?"
+msgstr "碰到颜色%c?"
 
 msgid "turn @turnLeft %n degrees"
 msgstr "向左旋转 @turnLeft %n 度"
@@ -420,7 +420,7 @@ msgid "turn video %m.videoState"
 msgstr "将摄像头 %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "用户名"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "录制 %m.stageOrThis 的 %m.videoMotionType"
@@ -449,7 +449,7 @@ msgstr "当 @greenFlag 被点击"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "当背景转换成 %m.backdrop"
+msgstr "当背景切换到 %m.backdrop"
 
 msgid "when distance < %n"
 msgstr "当距离 < %n"
@@ -458,7 +458,7 @@ msgid "when I receive %m.broadcast"
 msgstr "当接收到 %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "当我作为一个克隆开始"
+msgstr "当我作为一个克隆体启动时"
 
 msgid "when this sprite clicked"
 msgstr "当点击该角色时"

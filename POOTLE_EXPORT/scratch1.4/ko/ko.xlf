@@ -1,0 +1,2711 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="ko.po" source-language="en-US" datatype="plaintext" target-language="ko">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Language-Name">
+        <source>Language-Name</source>
+        <target state="translated">한국어</target>
+        <note from="translator">##########################################&#13;
+FORMATTING&#13;
+##########################################&#13;
+Language name as you'd like it to appear in the Languages menu&#13;
+(Required)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Language-Direction">
+        <source>Language-Direction</source>
+        <target state="translated">LTR</target>
+        <note from="translator">Directionality of language&#13;
+LTR = Left to Right&#13;
+RTL = Right to Left&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Font-Scale">
+        <source>Font-Scale</source>
+        <target state="translated">1.1</target>
+        <note from="translator">Scale to apply to font size (2 for twice as large)&#13;
+Use this if the font is too small for legibility on the Scratch interface&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Suppress-Bold">
+        <source>Suppress-Bold</source>
+        <target state="translated">false</target>
+        <note from="translator">Set to 'true' or 'false'&lt;br /&gt;
+&lt;br /&gt;
+Use this if you do not want any of the text to be bolded, for legibility</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Win-Font">
+        <source>Win-Font</source>
+        <target state="translated">Gulim</target>
+        <note from="translator">Font to use on a Windows system&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mac-Font">
+        <source>Mac-Font</source>
+        <target state="translated">Gothic</target>
+        <note from="translator">Font to use on a Mac system&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Linux-Font">
+        <source>Linux-Font</source>
+        <target state="translated">Mona</target>
+        <note from="translator">Font to use on a Linux system</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%H sensor value">
+        <source>%H sensor value</source>
+        <target state="translated">%H센서값</target>
+        <note from="translator">##########################################&#13;
+BLOCKS&#13;
+##########################################&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%L contains %s">
+        <source>%L contains %s</source>
+        <target state="translated">%L 에 %s 포함?</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%a of %m">
+        <source>%a of %m</source>
+        <target state="translated">%m 의 %a</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%b and %b">
+        <source>%b and %b</source>
+        <target state="translated">%b 그리고 %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%b or %b">
+        <source>%b or %b</source>
+        <target state="translated">%b 또는 %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%f of %n">
+        <source>%f of %n</source>
+        <target state="translated">%n 의 %f</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%n mod %n">
+        <source>%n mod %n</source>
+        <target state="translated">%n / %n 의 나머지</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="add %s to %L">
+        <source>add %s to %L</source>
+        <target state="translated">%L에 %s 추가하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="answer">
+        <source>answer</source>
+        <target state="translated">대답</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ask %s and wait">
+        <source>ask %s and wait</source>
+        <target state="translated">%s을(를) 묻고 기다리기</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="background #">
+        <source>background #</source>
+        <target state="translated">배경 #</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="broadcast %e">
+        <source>broadcast %e</source>
+        <target state="translated">%e 방송하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&lt;br /&gt;&#13;
+모든 스프라이트에게 동일한 메시지를 전달하는 것이므로 "방송하기"가 더 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="broadcast %e and wait">
+        <source>broadcast %e and wait</source>
+        <target state="translated">%e 방송하고 기다리기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+모든 스프라이트에게 동일한 메시지를 전달하는 것이므로 "방송하기"가 더 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change %g effect by %n">
+        <source>change %g effect by %n</source>
+        <target state="translated">%g 효과 %n 만큼 바꾸기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change %v by %n">
+        <source>change %v by %n</source>
+        <target state="translated">%v 에 %n 씩 누적하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+"변경하기"로 번역하면 다소 오해의 소지가 있을 수 있음. "누적하기"가 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen color by %n">
+        <source>change pen color by %n</source>
+        <target state="translated">펜 색상 %n 만큼 바꾸기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen shade by %n">
+        <source>change pen shade by %n</source>
+        <target state="translated">펜 농도 %n 만큼 바꾸기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen size by %n">
+        <source>change pen size by %n</source>
+        <target state="translated">펜 굵기 %n 만큼 바꾸기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change size by %n">
+        <source>change size by %n</source>
+        <target state="translated">크기 %n 만큼 바꾸기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change tempo by %n">
+        <source>change tempo by %n</source>
+        <target state="translated">템포 %n 만큼 바꾸기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change volume by %n">
+        <source>change volume by %n</source>
+        <target state="translated">음량 %n 만큼 바꾸기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change x by %n">
+        <source>change x by %n</source>
+        <target state="translated">x좌표 %n 만큼 바꾸기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change y by %n">
+        <source>change y by %n</source>
+        <target state="translated">y좌표 %n 만큼 바꾸기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clear">
+        <source>clear</source>
+        <target state="translated">지우기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clear graphic effects">
+        <source>clear graphic effects</source>
+        <target state="translated">그래픽 효과 지우기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="color %C is touching %C?">
+        <source>color %C is touching %C?</source>
+        <target state="translated">%C 색이 %C 색에 닿기?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="control">
+        <source>control</source>
+        <target state="translated">제어</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="costume #">
+        <source>costume #</source>
+        <target state="translated">모양 #</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&lt;br /&gt;&#13;
+costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="delete %y of %L">
+        <source>delete %y of %L</source>
+        <target state="translated">%L 에서 %y 위치의 아이템 삭제하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="direction">
+        <source>direction</source>
+        <target state="translated">방향</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="distance to %m">
+        <source>distance to %m</source>
+        <target state="translated">%m 까지 거리</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="else">
+        <source>else</source>
+        <target state="translated">그렇지 않으면</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="forever">
+        <source>forever</source>
+        <target state="translated">무한 반복</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="forever if %b">
+        <source>forever if %b</source>
+        <target state="translated">반복 %b 계속 확인</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&lt;br /&gt;&#13;
+"forever if"는 조건이 참인 동안 반복하되, 조건이 거짓인 경우에도 조건이 참이 되는지 무한히 확인하므로, 이에 대한 직관적인 번역이 필요함&#13;
+won0c@naver.com 이 수정(09.06.23)
+"forever if"는 조건이 참인 동안 반복하되, 조건이 거짓인 경우에도 조건이 참이 되는지 무한히 확인하므로, 이에 대한 직관적인 번역이 필요함</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
+        <source>glide %n secs to x:%n y:%n</source>
+        <target state="translated">x:%n, y:%n 로 %n 초간 움직이기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go back %n layers">
+        <source>go back %n layers</source>
+        <target state="translated">%n 번째로 물러나기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to %m">
+        <source>go to %m</source>
+        <target state="translated">%m 위치로 가기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to front">
+        <source>go to front</source>
+        <target state="translated">맨 앞으로 나오기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to x:%n y:%n">
+        <source>go to x:%n y:%n</source>
+        <target state="translated">x:%n, y:%n 로 가기</target>
+        <note from="translator"># won0c@naver.com 이 수정(09.08.13)
+won0c@naver.com 이 수정(09.08.13)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide">
+        <source>hide</source>
+        <target state="translated">숨기기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide variable %v">
+        <source>hide variable %v</source>
+        <target state="translated">변수 %v 숨기기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="if %b">
+        <source>if %b</source>
+        <target state="translated">만약 %b 라면</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="if on edge, bounce">
+        <source>if on edge, bounce</source>
+        <target state="translated">벽에 닿으면 튀어나오기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="insert %s at %i of %L">
+        <source>insert %s at %i of %L</source>
+        <target state="translated">%L 의 %i 위치에 %s 넣기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="item %i of %L">
+        <source>item %i of %L</source>
+        <target state="translated">%L %i 위치의 아이템</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="join %s %s">
+        <source>join %s %s</source>
+        <target state="translated">%s %s 결합하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="key %k pressed?">
+        <source>key %k pressed?</source>
+        <target state="translated">%k 키 클릭하기?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length of %L">
+        <source>length of %L</source>
+        <target state="translated">%L 의 크기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length of %s">
+        <source>length of %s</source>
+        <target state="translated">%s 의 길이</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;
+&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="letter %n of %s">
+        <source>letter %n of %s</source>
+        <target state="translated">%s의 %n 번째 글자</target>
+        <note from="translator">1.4에서 확인 필요. 정보창의교육연구소에서 수정(09.05.31)
+1.4에서 확인 필요.&amp;lt;span class="translation-space"&amp;gt; &amp;lt;/span&amp;gt;
+정보창의교육연구소에서 수정(09.05.31)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="list">
+        <source>list</source>
+        <target state="translated">리스트</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="looks">
+        <source>looks</source>
+        <target state="translated">형태</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="loud?">
+        <source>loud?</source>
+        <target state="translated">소리들리기?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="loudness">
+        <source>loudness</source>
+        <target state="translated">음량</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motion">
+        <source>motion</source>
+        <target state="translated">동작</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor direction %W">
+        <source>motor direction %W</source>
+        <target state="translated">모터 %W 회전</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor off">
+        <source>motor off</source>
+        <target state="translated">모터 끄기</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor on">
+        <source>motor on</source>
+        <target state="translated">모터 켜기</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&amp;lt;br /&amp;gt;&lt;br /&gt;
+&amp;lt;br /&amp;gt;
+정보창의교육연구소에서 수정(09.05.31)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor on for %n secs">
+        <source>motor on for %n secs</source>
+        <target state="translated">%n초 동안 모터 켜기</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;
+&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="motor power %n">
+        <source>motor power %n</source>
+        <target state="translated">모터 파워 %n</target>
+        <note from="translator">이건 어떤 의미의 명령일까?&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse down?">
+        <source>mouse down?</source>
+        <target state="translated">마우스 클릭하기?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse x">
+        <source>mouse x</source>
+        <target state="translated">마우스 x좌표</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse y">
+        <source>mouse y</source>
+        <target state="translated">마우스 y좌표</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="move %n steps">
+        <source>move %n steps</source>
+        <target state="translated">%n 만큼 움직이기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="next background">
+        <source>next background</source>
+        <target state="translated">다음 배경</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="next costume">
+        <source>next costume</source>
+        <target state="translated">다음 모양</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="not %b">
+        <source>not %b</source>
+        <target state="translated">%b (이)가 아니다</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="operators">
+        <source>operators</source>
+        <target state="translated">연산</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen">
+        <source>pen</source>
+        <target state="translated">펜</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen down">
+        <source>pen down</source>
+        <target state="translated">펜 내리기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen up">
+        <source>pen up</source>
+        <target state="translated">펜 올리기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pick random %n to %n">
+        <source>pick random %n to %n</source>
+        <target state="translated">%n 부터 %n 사이의 난수</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play drum %D for %n beats">
+        <source>play drum %D for %n beats</source>
+        <target state="translated">%D 드럼 %n 박자로 연주하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play note %N for %n beats">
+        <source>play note %N for %n beats</source>
+        <target state="translated">%N 음계 %n 박자로 연주하기</target>
+        <note from="translator">note가 음계와 박자의 합이라서 %N에는 음계, %n에는 박자를 붙였습니다. &#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play sound %S">
+        <source>play sound %S</source>
+        <target state="translated">%S 소리내기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play sound %S until done">
+        <source>play sound %S until done</source>
+        <target state="translated">%S 끝까지 소리내기 </target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="point in direction %d">
+        <source>point in direction %d</source>
+        <target state="translated">%d 도 방향 보기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="point towards %m">
+        <source>point towards %m</source>
+        <target state="translated">%m 쪽 보기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="repeat %n">
+        <source>repeat %n</source>
+        <target state="translated">반복 %n 회</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="repeat until %b">
+        <source>repeat until %b</source>
+        <target state="translated">반복 %b 까지</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="replace item %i of %L with %s">
+        <source>replace item %i of %L with %s</source>
+        <target state="translated">%L %i 위치의 아이템을 %s 로 바꾸기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="reset timer">
+        <source>reset timer</source>
+        <target state="translated">타이머 초기화</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="rest for %n beats">
+        <source>rest for %n beats</source>
+        <target state="translated">%n 박자 쉬기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="round %n">
+        <source>round %n</source>
+        <target state="translated">%n 반올림</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="say %s">
+        <source>say %s</source>
+        <target state="translated">%s 말하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="say %s for %n secs">
+        <source>say %s for %n secs</source>
+        <target state="translated">%s %n 초간 말하기</target>
+        <note from="translator"># won0c@naver.com 이 수정(09.10.22)
+won0c@naver.com 이 수정(09.08.13)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sensing">
+        <source>sensing</source>
+        <target state="translated">관찰</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sensor %h?">
+        <source>sensor %h?</source>
+        <target state="translated">센서의 %h?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set %g effect to %n">
+        <source>set %g effect to %n</source>
+        <target state="translated">%g 효과 %n 로 정하기</target>
+        <note from="translator"># won0c@naver.com 이 수정(09.07.19)
+"%g 효과 %n 만큼 주기"로 하면, change %g effect to %n" 블록과 그 기능상의 차이점을 명확히 알 수 없음
+won0c@naver.com 이 수정(09.07.19)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set %v to %n">
+        <source>set %v to %n</source>
+        <target state="translated">%v 에 %n 저장하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set instrument to %I">
+        <source>set instrument to %I</source>
+        <target state="translated">%I 번 악기 사용하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen color to %c">
+        <source>set pen color to %c</source>
+        <target state="translated">펜 색상 %c 로 정하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen color to %n">
+        <source>set pen color to %n</source>
+        <target state="translated">펜 색상 %n 로 정하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen shade to %n">
+        <source>set pen shade to %n</source>
+        <target state="translated">펜 농도 %n 로 정하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen size to %n">
+        <source>set pen size to %n</source>
+        <target state="translated">펜 굵기 %n 로 정하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set size to %n%">
+        <source>set size to %n%</source>
+        <target state="translated">크기 %n% 로 정하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set tempo to %n bpm">
+        <source>set tempo to %n bpm</source>
+        <target state="translated">템포 %n BPM로 맞추기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
+        <source>set volume to %n%</source>
+        <target state="translated">음량 %n% 로 맞추기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set x to %n">
+        <source>set x to %n</source>
+        <target state="translated">x좌표 %n 로 정하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set y to %n">
+        <source>set y to %n</source>
+        <target state="translated">y좌표 %n 로 정하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show">
+        <source>show</source>
+        <target state="translated">보이기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show variable %v">
+        <source>show variable %v</source>
+        <target state="translated">변수 %v 보이기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="size">
+        <source>size</source>
+        <target state="translated">크기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sound">
+        <source>sound</source>
+        <target state="translated">소리</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stamp">
+        <source>stamp</source>
+        <target state="translated">스탬프</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop all">
+        <source>stop all</source>
+        <target state="translated">모두 멈추기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
+        <source>stop all sounds</source>
+        <target state="translated">모든 소리 끄기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop script">
+        <source>stop script</source>
+        <target state="translated">스크립트 멈추기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch to background %l">
+        <source>switch to background %l</source>
+        <target state="translated">배경 %l 로 바꾸기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch to costume %l">
+        <source>switch to costume %l</source>
+        <target state="translated">모양 %l 로 바꾸기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&lt;br /&gt;&#13;
+costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tempo">
+        <source>tempo</source>
+        <target state="translated">템포</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="think %s">
+        <source>think %s</source>
+        <target state="translated">%s 생각하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="think %s for %n secs">
+        <source>think %s for %n secs</source>
+        <target state="translated">%s %n 초간 생각하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="timer">
+        <source>timer</source>
+        <target state="translated">타이머</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="touching %m?">
+        <source>touching %m?</source>
+        <target state="translated">%m 에 닿기?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="touching color %C?">
+        <source>touching color %C?</source>
+        <target state="translated">%C 색에 닿기?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn %n degrees">
+        <source>turn %n degrees</source>
+        <target state="translated">%n 도 회전하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="variables">
+        <source>variables</source>
+        <target state="translated">변수</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="volume">
+        <source>volume</source>
+        <target state="translated">음량</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wait %n secs">
+        <source>wait %n secs</source>
+        <target state="translated">%n 초 기다리기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wait until %b">
+        <source>wait until %b</source>
+        <target state="translated">%b 까지 기다리기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %k key pressed">
+        <source>when %k key pressed</source>
+        <target state="translated">%k 키 눌릴 때</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %m clicked">
+        <source>when %m clicked</source>
+        <target state="translated">%m 클릭될 때</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when I receive %e">
+        <source>when I receive %e</source>
+        <target state="translated">%e 수신할 때</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)
+"받을 때"는 너무 포괄적임. 방송한 메시지를 수신하는 것이므로, "수신할 때"가 더 직관적임</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="x position">
+        <source>x position</source>
+        <target state="translated">x좌표</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="y position">
+        <source>y position</source>
+        <target state="translated">y좌표</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="(empty)">
+        <source>(empty)</source>
+        <target state="translated">(비어 있음)</target>
+        <note from="translator">##########################################&#13;
+USER INTERFACE&#13;
+##########################################&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="1 script">
+        <source>1 script</source>
+        <target state="translated">1 스크립트</target>
+        <note from="translator">설정, 지정&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="About Scratch">
+        <source>About Scratch</source>
+        <target state="translated">스크래치란?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="About this project:">
+        <source>About this project:</source>
+        <target state="translated">프로젝트 정보</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="abs">
+        <source>abs</source>
+        <target state="translated">절대값</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="add comment">
+        <source>add comment</source>
+        <target state="translated">주석 추가하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="add comment here">
+        <source>add comment here</source>
+        <target state="translated">여기에 주석 추가하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="all">
+        <source>all</source>
+        <target state="translated">모두</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="and">
+        <source>and</source>
+        <target state="translated">그리고</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Animation">
+        <source>Animation</source>
+        <target state="translated">애니메이션</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="any">
+        <source>any</source>
+        <target state="translated">아무</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Art">
+        <source>Art</source>
+        <target state="translated">예술</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="background">
+        <source>background</source>
+        <target state="translated">배경</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="backgrounds">
+        <source>backgrounds</source>
+        <target state="translated">배경</target>
+        <note from="translator">배경들 -&gt; 배경&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Backgrounds">
+        <source>Backgrounds</source>
+        <target state="translated">배경</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="brightness">
+        <source>brightness</source>
+        <target state="translated">밝기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brush size: ">
+        <source>Brush size: </source>
+        <target state="translated">붓 크기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="button">
+        <source>button</source>
+        <target state="translated">버튼</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="button pressed">
+        <source>button pressed</source>
+        <target state="translated">버튼 누르기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Camera">
+        <source>Camera</source>
+        <target state="translated">카메라</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;
+&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="can rotate">
+        <source>can rotate</source>
+        <target state="translated">회전 가능</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cancel">
+        <source>cancel</source>
+        <target state="translated">취소</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cancel">
+        <source>Cancel</source>
+        <target state="translated">취소</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose a folder">
+        <source>Choose a folder</source>
+        <target state="translated">폴더를 고르세요</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose new sprite from file">
+        <source>Choose new sprite from file</source>
+        <target state="translated">새로운 스프라이트 파일 선택하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clean up">
+        <source>clean up</source>
+        <target state="translated">스크립트 정리하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear">
+        <source>Clear</source>
+        <target state="translated">지우기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clear canvas">
+        <source>Clear canvas</source>
+        <target state="translated">캔버스 지우기</target>
+        <note from="translator">1.3 에서는 깨끗하게 지우기 였음&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close and continue">
+        <source>Close and continue</source>
+        <target state="translated">닫기 및 계속</target>
+        <note from="translator">어디에 쓰이는 명령일까요?&lt;span class="translation-space"&gt; &lt;/span&gt;
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close dialog?">
+        <source>Close dialog?</source>
+        <target state="translated">창을 닫을까요?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close paint editor?">
+        <source>Close paint editor?</source>
+        <target state="translated">그림판을 닫을까요?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="close port">
+        <source>close port</source>
+        <target state="translated">포트 닫기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Close sound recorder?">
+        <source>Close sound recorder?</source>
+        <target state="translated">녹음기를 닫을까요?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="color">
+        <source>color</source>
+        <target state="translated">색깔</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Compress Images">
+        <source>Compress Images</source>
+        <target state="translated">이미지 압축하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Compress Sounds">
+        <source>Compress Sounds</source>
+        <target state="translated">소리 압축하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Compress sounds and images">
+        <source>Compress sounds and images</source>
+        <target state="translated">소리/이미지 압축하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Computer">
+        <source>Computer</source>
+        <target state="translated">내 컴퓨터</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="connected">
+        <source>connected</source>
+        <target state="translated">연결되기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Connecting to ">
+        <source>Connecting to </source>
+        <target state="translated">연결 중</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Copy">
+        <source>Copy</source>
+        <target state="translated">복사</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="costume">
+        <source>costume</source>
+        <target state="translated">모양</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&lt;br /&gt;&#13;
+costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="costumes">
+        <source>costumes</source>
+        <target state="translated">모양</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&lt;br /&gt;&#13;
+costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Costumes">
+        <source>Costumes</source>
+        <target state="translated">모양</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&lt;br /&gt;&#13;
+costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Could not read">
+        <source>Could not read</source>
+        <target state="translated">읽을 수 없습니다</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Could not read project; file may be damaged">
+        <source>Could not read project; file may be damaged</source>
+        <target state="translated">프로젝트를 읽을 수 없습니다. 파일이 손상된 것 같습니다.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Could not write file">
+        <source>Could not write file</source>
+        <target state="translated">파일에 쓸 수 없습니다</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create account">
+        <source>Create account</source>
+        <target state="translated">계정 만들기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Create an empty project">
+        <source>Create an empty project</source>
+        <target state="translated">새로운 프로젝트 만들기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Data sent. Waiting for response...">
+        <source>Data sent. Waiting for response...</source>
+        <target state="translated">데이터를 보냈습니다. 결과를 기다리는 중...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="delete">
+        <source>delete</source>
+        <target state="translated">삭제</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete">
+        <source>Delete</source>
+        <target state="translated">삭제</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete a list">
+        <source>Delete a list</source>
+        <target state="translated">리스트 삭제</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete a variable">
+        <source>Delete a variable</source>
+        <target state="translated">변수 삭제</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete this background">
+        <source>Delete this background</source>
+        <target state="translated">삭제</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+삭제 버튼에 대한 풍선 도움말이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete this costume">
+        <source>Delete this costume</source>
+        <target state="translated">삭제</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+삭제 버튼에 대한 풍선 도움말이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete this sound">
+        <source>Delete this sound</source>
+        <target state="translated">삭제</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+삭제 버튼에 대한 풍선 도움말이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete this sprite">
+        <source>Delete this sprite</source>
+        <target state="translated">삭제</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+삭제 버튼에 대한 풍선 도움말이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Desktop">
+        <source>Desktop</source>
+        <target state="translated">바탕화면</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="disable remote sensor connections">
+        <source>disable remote sensor connections</source>
+        <target state="translated">원격 센서 연결 끄기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="distance">
+        <source>distance</source>
+        <target state="translated">거리</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Documents">
+        <source>Documents</source>
+        <target state="translated">내 문서</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="don't rotate">
+        <source>don't rotate</source>
+        <target state="translated">회전할 수 없습니다</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Don't Save">
+        <source>Don't Save</source>
+        <target state="translated">저장하지 않기</target>
+        <note from="translator">어디에 쓰일까?&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Done">
+        <source>Done</source>
+        <target state="translated">완료</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="down">
+        <source>down</source>
+        <target state="translated">아래</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="down arrow">
+        <source>down arrow</source>
+        <target state="translated">아래쪽 화살표</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.23)
+won0c@naver.com 이 수정(09.08.13)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="drag to resize">
+        <source>drag to resize</source>
+        <target state="translated">드래그해서 크기 조절하기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="drag to rotate">
+        <source>drag to rotate</source>
+        <target state="translated">드래그해서 회전시키기</target>
+        <note from="translator"># won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="draggable on website?">
+        <source>draggable on website?</source>
+        <target state="translated">온라인 공유시 드래그 가능?</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="duplicate">
+        <source>duplicate</source>
+        <target state="translated">복사</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Duplicate">
+        <source>Duplicate</source>
+        <target state="translated">복사</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="edge">
+        <source>edge</source>
+        <target state="translated">벽</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Edit">
+        <source>Edit</source>
+        <target state="translated">편집</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ellipse tool (draw outlined or filled ellipse or circle)">
+        <source>Ellipse tool (draw outlined or filled ellipse or circle)</source>
+        <target state="translated">원그리기 도구(테두리, 꽉 찬 타원, 원형 그리기)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="enable remote sensor connections">
+        <source>enable remote sensor connections</source>
+        <target state="translated">원격 센서 연결 활성화</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enter presentation mode">
+        <source>Enter presentation mode</source>
+        <target state="translated">프레젠테이션 모드</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Eraser">
+        <source>Eraser</source>
+        <target state="translated">지우개</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Eraser size">
+        <source>Eraser size</source>
+        <target state="translated">지우개 크기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Error!">
+        <source>Error!</source>
+        <target state="translated">에러!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Examples">
+        <source>Examples</source>
+        <target state="translated">예제</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Exit presentation">
+        <source>Exit presentation</source>
+        <target state="translated">프레젠테이션 끝내기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Exit presentation mode">
+        <source>Exit presentation mode</source>
+        <target state="translated">프레젠테이션 모드 끝내기</target>
+        <note from="translator">1.3 번역 : 프레젠테이션 모드를 빠진다&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="export">
+        <source>export</source>
+        <target state="translated">내보내기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export Background">
+        <source>Export Background</source>
+        <target state="translated">배경 내보내기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export Costume">
+        <source>Export Costume</source>
+        <target state="translated">모양 내보내기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export failed">
+        <source>Export failed</source>
+        <target state="translated">내보내기 실패</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export Sound">
+        <source>Export Sound</source>
+        <target state="translated">소리 내보내기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Export Sprite">
+        <source>Export Sprite</source>
+        <target state="translated">스프라이트 내보내기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="export this costume">
+        <source>export this costume</source>
+        <target state="translated">내보내기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&lt;br /&gt;&#13;
+costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임&#13;
+"내보내기"에 대한 팝업 메뉴이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="export this sound">
+        <source>export this sound</source>
+        <target state="translated">내보내기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+"내보내기"에 대한 팝업 메뉴이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="export this sprite">
+        <source>export this sprite</source>
+        <target state="translated">내보내기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+"내보내기"에 대한 팝업 메뉴이므로, 보다 직관적인 이해를 위해 다른 불필요한 단어는 삭제함&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extras menu">
+        <source>Extras menu</source>
+        <target state="translated">기타 메뉴</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Eyedropper tool (select a color)">
+        <source>Eyedropper tool (select a color)</source>
+        <target state="translated">색 고르기 도구(원하는 색을 선택하세요)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Failed:">
+        <source>Failed:</source>
+        <target state="translated">실패:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="false">
+        <source>false</source>
+        <target state="translated">거짓</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File">
+        <source>File</source>
+        <target state="translated">파일</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File not found">
+        <source>File not found</source>
+        <target state="translated">파일이 없습니다</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fill tool (fill areas with color or gradient)">
+        <source>Fill tool (fill areas with color or gradient)</source>
+        <target state="translated">채우기 도구(색이나 그라데이션 입히기)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="first">
+        <source>first</source>
+        <target state="translated">첫번째</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="fisheye">
+        <source>fisheye</source>
+        <target state="translated">어안 렌즈</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flash blocks (fast)">
+        <source>Flash blocks (fast)</source>
+        <target state="translated">블록 깜박이기 (빠르게)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flash blocks (slow)">
+        <source>Flash blocks (slow)</source>
+        <target state="translated">블록을 깜박이기 (느리게)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flip horizontally">
+        <source>Flip horizontally</source>
+        <target state="translated">수평으로 뒤집기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flip vertically">
+        <source>Flip vertically</source>
+        <target state="translated">수직으로 뒤집기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="For all sprites">
+        <source>For all sprites</source>
+        <target state="translated">모든 스프라이트에 대해</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="For this sprite only">
+        <source>For this sprite only</source>
+        <target state="translated">이 스프라이트에 대해</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Game">
+        <source>Game</source>
+        <target state="translated">게임</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Get surprise sprite">
+        <source>Get surprise sprite</source>
+        <target state="translated">무작위로 스프라이트 가져오기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Get the last thing deleted">
+        <source>Get the last thing deleted</source>
+        <target state="translated">마지막 작업 되돌리기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Getting Started">
+        <source>Getting Started</source>
+        <target state="translated">시작하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ghost">
+        <source>ghost</source>
+        <target state="translated">반투명</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Go To Scratch Website">
+        <source>Go To Scratch Website</source>
+        <target state="translated">스크래치 사이트 가기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="grab screen region for new costume">
+        <source>grab screen region for new costume</source>
+        <target state="translated">화면 영역을 캡처해서 새로운 모양 만들기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&lt;br /&gt;&#13;
+"grab"은 일상 용어에서 "화면 캡처"로 사용됨&#13;
+또한, costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="grab screen region for new sprite">
+        <source>grab screen region for new sprite</source>
+        <target state="translated">화면 영역을 캡처해서 새로운 스프라이트 만들기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+"grab"은 일상 용어에서 "화면 캡처"로 사용됨&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Grow">
+        <source>Grow</source>
+        <target state="translated">확대</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Grow sprite">
+        <source>Grow sprite</source>
+        <target state="translated">스프라이트 확대</target>
+        <note from="translator">1.3 확대&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hello ">
+        <source>hello </source>
+        <target state="translated">안녕 </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hello!">
+        <source>Hello!</source>
+        <target state="translated">안녕!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="help">
+        <source>help</source>
+        <target state="translated">블록 도움말</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Help">
+        <source>Help</source>
+        <target state="translated">도움말</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Help Page">
+        <source>Help Page</source>
+        <target state="translated">도움말 페이지</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Help Screens">
+        <source>Help Screens</source>
+        <target state="translated">블록 사용 도움말</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hide Motor Blocks">
+        <source>Hide Motor Blocks</source>
+        <target state="translated">모터 블록 감추기</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High (biggest)">
+        <source>High (biggest)</source>
+        <target state="translated">높다 (최대)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hmm...">
+        <source>Hmm...</source>
+        <target state="translated">흠... </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Home">
+        <source>Home</source>
+        <target state="translated">홈</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Images compressed">
+        <source>Images compressed</source>
+        <target state="translated">압축된 화상</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="import">
+        <source>import</source>
+        <target state="translated">가져오기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import">
+        <source>Import</source>
+        <target state="translated">가져오기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import an image on top of your current canvas">
+        <source>Import an image on top of your current canvas</source>
+        <target state="translated">현재의 캔버스 위로 그림 가져오기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Background">
+        <source>Import Background</source>
+        <target state="translated">배경 가져오기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Costume">
+        <source>Import Costume</source>
+        <target state="translated">모양 가져오기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Image">
+        <source>Import Image</source>
+        <target state="translated">그림 가져오기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import List">
+        <source>Import List</source>
+        <target state="translated">리스트 가져오기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Project">
+        <source>Import Project</source>
+        <target state="translated">프로젝트 가져오기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="import project">
+        <source>import project</source>
+        <target state="translated">프로젝트 가져오기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Import Sound">
+        <source>Import Sound</source>
+        <target state="translated">소리 가져오기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Incompatible Scratch file format">
+        <source>Incompatible Scratch file format</source>
+        <target state="translated">Scratch의 파일 형식 호환되지 않습니다</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Is the folder read-only?">
+        <source>Is the folder read-only?</source>
+        <target state="translated">이 폴더는 읽기 전용 아닙니까?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="JPEG Quality (10-100)?">
+        <source>JPEG Quality (10-100)?</source>
+        <target state="translated">JPEG의 품질 (10-100)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="kbytes">
+        <source>kbytes</source>
+        <target state="translated">킬로 바이트</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Language">
+        <source>Language</source>
+        <target state="translated">언어</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="large readout">
+        <source>large readout</source>
+        <target state="translated">크게 보기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="last">
+        <source>last</source>
+        <target state="translated">마지막</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="left">
+        <source>left</source>
+        <target state="translated">왼쪽</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="left arrow">
+        <source>left arrow</source>
+        <target state="translated">왼쪽 화살표</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length">
+        <source>length</source>
+        <target state="translated">길이</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="light">
+        <source>light</source>
+        <target state="translated">빛</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Line tool (draw lines)">
+        <source>Line tool (draw lines)</source>
+        <target state="translated">선그리기 도구 (선을 그립니다)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="List name?">
+        <source>List name?</source>
+        <target state="translated">리스트 이름 ?</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low">
+        <source>Low</source>
+        <target state="translated">낮다</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lowest (smallest)">
+        <source>Lowest (smallest)</source>
+        <target state="translated">가장 낮다 (최소)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make a list">
+        <source>Make a list</source>
+        <target state="translated">리스트 만들기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Make a variable">
+        <source>Make a variable</source>
+        <target state="translated">변수 만들기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Max:">
+        <source>Max:</source>
+        <target state="translated">최대값:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="meow">
+        <source>meow</source>
+        <target state="translated">냐옹</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Message name:">
+        <source>Message name:</source>
+        <target state="translated">메세지의 이름:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Min:">
+        <source>Min:</source>
+        <target state="translated">최소값:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mod">
+        <source>mod</source>
+        <target state="translated">나머지</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="more">
+        <source>more</source>
+        <target state="translated">더</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="More tags:">
+        <source>More tags:</source>
+        <target state="translated">태그 추가하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mosaic">
+        <source>mosaic</source>
+        <target state="translated">모자이크</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse x:">
+        <source>mouse x:</source>
+        <target state="translated">마우스의 x좌표:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse y:">
+        <source>mouse y:</source>
+        <target state="translated">마우스의 y좌표:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse-pointer">
+        <source>mouse-pointer</source>
+        <target state="translated">마우스의 포인터</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Move">
+        <source>Move</source>
+        <target state="translated">이동</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Music">
+        <source>Music</source>
+        <target state="translated">내 음악</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="My Projects">
+        <source>My Projects</source>
+        <target state="translated">내 프로젝트</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="new">
+        <source>new</source>
+        <target state="translated">새로 만들기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New">
+        <source>New</source>
+        <target state="translated">새로 만들기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New background:">
+        <source>New background:</source>
+        <target state="translated">새로운 배경:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New costume:">
+        <source>New costume:</source>
+        <target state="translated">새로운 모양</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New file name?">
+        <source>New file name?</source>
+        <target state="translated">새 파일 이름을?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New Filename:">
+        <source>New Filename:</source>
+        <target state="translated">새로운 파일이름</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New sound:">
+        <source>New sound:</source>
+        <target state="translated">새로운 소리</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New Sprite">
+        <source>New Sprite</source>
+        <target state="translated">새로운 스프라이트</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="New sprite:">
+        <source>New sprite:</source>
+        <target state="translated">새로운 스프라이트:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No">
+        <source>No</source>
+        <target state="translated">아니오</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No MIDI ports currently available.">
+        <source>No MIDI ports currently available.</source>
+        <target state="translated">현재 사용할 수 있는 MIDI 포트가 없습니다.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No motion blocks">
+        <source>No motion blocks</source>
+        <target state="translated">움직이는 블록이 없습니다.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="no scripts">
+        <source>no scripts</source>
+        <target state="translated">스크립트가 없습니다.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No serial ports found">
+        <source>No serial ports found</source>
+        <target state="translated">시리얼 포트가 없습니다.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="No variables.">
+        <source>No variables.</source>
+        <target state="translated">변수가 없습니다.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Normal">
+        <source>Normal</source>
+        <target state="translated">보통</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="normal readout">
+        <source>normal readout</source>
+        <target state="translated">보통 읽기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Off">
+        <source>Off</source>
+        <target state="translated">끄기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="OK">
+        <source>OK</source>
+        <target state="translated">확인</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&lt;br /&gt;&#13;
+"예"가 아니고, "확인"이 맞음&#13;
+won0c@naver.com 이 수정(09.06.23)
+"예"가 아니고, "확인"이 맞음</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="On">
+        <source>On</source>
+        <target state="translated">켜기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="only face left-right">
+        <source>only face left-right</source>
+        <target state="translated">왼쪽에서 오른쪽으로만</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open">
+        <source>Open</source>
+        <target state="translated">열기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open a Scratch project">
+        <source>Open a Scratch project</source>
+        <target state="translated">프로젝트 열기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Project">
+        <source>Open Project</source>
+        <target state="translated">프로젝트 열기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="or">
+        <source>or</source>
+        <target state="translated">또는</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paint">
+        <source>Paint</source>
+        <target state="translated">그리기</target>
+        <note from="translator">won0c@naver.com 이 수정(09.10.22)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paint Editor">
+        <source>Paint Editor</source>
+        <target state="translated">그림판</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paint new sprite">
+        <source>Paint new sprite</source>
+        <target state="translated">새로운 스프라이트 그리기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Paintbrush">
+        <source>Paintbrush</source>
+        <target state="translated">그림 붓</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Password:">
+        <source>Password:</source>
+        <target state="translated">암호</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Percent? (100 gives original size)">
+        <source>Percent? (100 gives original size)</source>
+        <target state="translated">퍼센트? (기본크기는 100 입니다)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pictures">
+        <source>Pictures</source>
+        <target state="translated">그림</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pixelate">
+        <source>pixelate</source>
+        <target state="translated">픽셀화</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play">
+        <source>play</source>
+        <target state="translated">재생</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Please enter a number">
+        <source>Please enter a number</source>
+        <target state="translated">숫자를 넣어 주세요</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pop">
+        <source>pop</source>
+        <target state="translated">꺼내기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Position the cross-hair to set the rotation center">
+        <source>Position the cross-hair to set the rotation center</source>
+        <target state="translated">회전 중심을 설정하기 위한 십자가의 위치</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Preparing project...">
+        <source>Preparing project...</source>
+        <target state="translated">프로젝트 준비중...</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project author:">
+        <source>Project author:</source>
+        <target state="translated">만든 사람</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project name">
+        <source>Project name</source>
+        <target state="translated">프로젝트 이름</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project Notes">
+        <source>Project Notes</source>
+        <target state="translated">프로젝트 메모</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project notes">
+        <source>Project notes</source>
+        <target state="translated">프로젝트 메모</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Project uploaded.">
+        <source>Project uploaded.</source>
+        <target state="translated">업로드된 프로젝트.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Projects">
+        <source>Projects</source>
+        <target state="translated">프로젝트</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Quit">
+        <source>Quit</source>
+        <target state="translated">끝내기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Quit Scratch">
+        <source>Quit Scratch</source>
+        <target state="translated">스크래치 끝내기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reading">
+        <source>Reading</source>
+        <target state="translated">읽기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="record">
+        <source>record</source>
+        <target state="translated">녹음</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Record">
+        <source>Record</source>
+        <target state="translated">녹음</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="recording">
+        <source>recording</source>
+        <target state="translated">녹음중</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rectangle tool (draw outlined or filled rectangle or square)">
+        <source>Rectangle tool (draw outlined or filled rectangle or square)</source>
+        <target state="translated">사각형 도구 (테두리, 꽉 찬 사각형, 정사각형 그리기) </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Redo">
+        <source>Redo</source>
+        <target state="translated">재시도</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reference Guide">
+        <source>Reference Guide</source>
+        <target state="translated">참고사항 안내</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Remote sensor connections enabled">
+        <source>Remote sensor connections enabled</source>
+        <target state="translated">원격 센서 연결 켜기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Remove viewer from stage">
+        <source>Remove viewer from stage</source>
+        <target state="translated">무대로부터 뷰어를 지운다</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="resistance">
+        <source>resistance</source>
+        <target state="translated">저항</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="resize this sprite">
+        <source>resize this sprite</source>
+        <target state="translated">스프라이트 크기 조절</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="reverse">
+        <source>reverse</source>
+        <target state="translated">역방향</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="right">
+        <source>right</source>
+        <target state="translated">오른쪽</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="right arrow">
+        <source>right arrow</source>
+        <target state="translated">오른쪽 화살표</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotate clock-wise">
+        <source>Rotate clock-wise</source>
+        <target state="translated">시계 방향으로 회전</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotate counter-clock-wise">
+        <source>Rotate counter-clock-wise</source>
+        <target state="translated">반시계방향으로 회전</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="rotate this sprite">
+        <source>rotate this sprite</source>
+        <target state="translated">스프라이트 회전 조절</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;
+&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rotation degrees?">
+        <source>Rotation degrees?</source>
+        <target state="translated">회전 각도</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save">
+        <source>Save</source>
+        <target state="translated">저장</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save a copy of the current project">
+        <source>Save a copy of the current project</source>
+        <target state="translated">현재 프로젝트를 다른 이름으로 저장</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save As">
+        <source>Save As</source>
+        <target state="translated">다른 이름으로 저장</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save changes before quitting?">
+        <source>Save changes before quitting?</source>
+        <target state="translated">끝내기전에 변경된 내용을 저장 할까요?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save failed">
+        <source>Save failed</source>
+        <target state="translated">저장 실패</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="save picture of scripts">
+        <source>save picture of scripts</source>
+        <target state="translated">스크립트를 그림으로 저장</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="save picture of stage...">
+        <source>save picture of stage...</source>
+        <target state="translated">무대를 그림으로 저장...</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save Project">
+        <source>Save Project</source>
+        <target state="translated">프로젝트 저장</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save Scripts Snapshot">
+        <source>Save Scripts Snapshot</source>
+        <target state="translated">스크립트를 그림으로 저장</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save Stage Shot">
+        <source>Save Stage Shot</source>
+        <target state="translated">무대 사진을 저장</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save the current project">
+        <source>Save the current project</source>
+        <target state="translated">현재 프로젝트를 저장할까요</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save the current project?">
+        <source>Save the current project?</source>
+        <target state="translated">현재 프로젝트를 저장할까요?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Save this project">
+        <source>Save this project</source>
+        <target state="translated">프로젝트 저장</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scripts">
+        <source>Scripts</source>
+        <target state="translated">스크립트</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="select serial/USB port">
+        <source>select serial/USB port</source>
+        <target state="translated">시리얼/USB 포트 선택</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select tool (move, modify, or delete selection)">
+        <source>Select tool (move, modify, or delete selection)</source>
+        <target state="translated">선택 도구(이동, 수정 또는 지우는 영역)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set costume center">
+        <source>Set costume center</source>
+        <target state="translated">모양의 중심 설정</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+costume을 "그림"으로 번역하면 다소 명확하지 않을 수 있음. Costume이란 스프라이트의 다양한 모양을 나타내므로, "모양"이 직관적임&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set language">
+        <source>Set language</source>
+        <target state="translated">언어 선택</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set rotation center">
+        <source>Set rotation center</source>
+        <target state="translated">회전 중심 설정</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Set Single Stepping">
+        <source>Set Single Stepping</source>
+        <target state="translated">단계별 실행 설정</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set slider min and max">
+        <source>set slider min and max</source>
+        <target state="translated">슬라이더의 최소값 최대값 설정</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Share">
+        <source>Share</source>
+        <target state="translated">공유</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Share this project">
+        <source>Share this project</source>
+        <target state="translated">프로젝트 공유</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Share This Project Online">
+        <source>Share This Project Online</source>
+        <target state="translated">프로젝트 온라인 공유</target>
+        <note from="translator">1.3 온라인 공유&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Show Motor Blocks">
+        <source>Show Motor Blocks</source>
+        <target state="translated">모터 블록 보기</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show ScratchBoard watcher">
+        <source>show ScratchBoard watcher</source>
+        <target state="translated">ScratchBoard 감시판 보이기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shrink">
+        <source>Shrink</source>
+        <target state="translated">축소</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shrink sprite">
+        <source>Shrink sprite</source>
+        <target state="translated">스프라이트 축소</target>
+        <note from="translator">스프라이트 축소?&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Simulation">
+        <source>Simulation</source>
+        <target state="translated">시뮬레이션</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Single-step speed?">
+        <source>Single-step speed?</source>
+        <target state="translated">단계별 실행 속도</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="slider">
+        <source>slider</source>
+        <target state="translated">슬라이더</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slider range:">
+        <source>Slider range:</source>
+        <target state="translated">슬라이더의 범위:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sound quality:">
+        <source>Sound quality:</source>
+        <target state="translated">소리 품질:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sound Recorder">
+        <source>Sound Recorder</source>
+        <target state="translated">녹음기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sounds">
+        <source>Sounds</source>
+        <target state="translated">소리</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sounds compressed">
+        <source>Sounds compressed</source>
+        <target state="translated">압축된 소리</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="space">
+        <source>space</source>
+        <target state="translated">스페이스</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sprite">
+        <source>Sprite</source>
+        <target state="translated">스프라이트</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sprites">
+        <source>Sprites</source>
+        <target state="translated">스프라이트</target>
+        <note from="translator">그냥 스프라이트 일것 같진 않구. 음.. 어떤 상황에서 쓰는지 봐야겠네요 --동희&lt;span class="translation-space"&gt; &lt;/span&gt;&#13;
+&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sqrt">
+        <source>sqrt</source>
+        <target state="translated">제곱근</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stage">
+        <source>Stage</source>
+        <target state="translated">무대</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stage selected:">
+        <source>Stage selected:</source>
+        <target state="translated">선택된 무대</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stamp tool (select area, then stamp copies of it)">
+        <source>Stamp tool (select area, then stamp copies of it)</source>
+        <target state="translated">도장 (선택한 영역의 복사본으로 도장찍기)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start green flag scripts">
+        <source>Start green flag scripts</source>
+        <target state="translated">시작</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start Single Stepping">
+        <source>Start Single Stepping</source>
+        <target state="translated">단계별 실행 시작</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop">
+        <source>stop</source>
+        <target state="translated">중지</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stop everything">
+        <source>Stop everything</source>
+        <target state="translated">모두 중지</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stop Single Stepping">
+        <source>Stop Single Stepping</source>
+        <target state="translated">단계별 실행 중지</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Story">
+        <source>Story</source>
+        <target state="translated">이야기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Support Site">
+        <source>Support Site</source>
+        <target state="translated">지원 사이트</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Switch colors">
+        <source>Switch colors</source>
+        <target state="translated">색 바꾸기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Switch to full stage">
+        <source>Switch to full stage</source>
+        <target state="translated">무대화면 크게 보기</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Switch to presentation mode">
+        <source>Switch to presentation mode</source>
+        <target state="translated">프리젠테이션 화면</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;
+&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Switch to small stage">
+        <source>Switch to small stage</source>
+        <target state="translated">무대화면 작게 보기</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tags:">
+        <source>Tags:</source>
+        <target state="translated">태그:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Text tool (edit text layer)">
+        <source>Text tool (edit text layer)</source>
+        <target state="translated">텍스트 도구 (텍스트층을 편집)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="That variable name is already in use">
+        <source>That variable name is already in use</source>
+        <target state="translated">변수 이름은 이미 사용되고 있습니다.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="that way">
+        <source>that way</source>
+        <target state="translated">반시계방향</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The file name already exists. Overwrite existing file?">
+        <source>The file name already exists. Overwrite existing file?</source>
+        <target state="translated">파일 이름이 이미 존재합니다. 기존의 파일을 덮어쓰겠습니까?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="thing">
+        <source>thing</source>
+        <target state="translated">    </target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;
+thing은 굳이 번역할 필요 없음. 억지로 번역하려고 하면 더 이상할 수 있으므로...&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="this way">
+        <source>this way</source>
+        <target state="translated">시계방향</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tilt">
+        <source>tilt</source>
+        <target state="translated">기울기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="true">
+        <source>true</source>
+        <target state="translated">참</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Turbo speed">
+        <source>Turbo speed</source>
+        <target state="translated">터보 스피드</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn into new sprite">
+        <source>turn into new sprite</source>
+        <target state="translated">새로운 스프라이트로 변하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Undelete">
+        <source>Undelete</source>
+        <target state="translated">삭제 취소</target>
+        <note from="translator">정보창의교육연구소에서 수정(09.05.31)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Undo">
+        <source>Undo</source>
+        <target state="translated">되돌리기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="up">
+        <source>up</source>
+        <target state="translated">위</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="up arrow">
+        <source>up arrow</source>
+        <target state="translated">위쪽 화살표</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Updating thumbnails">
+        <source>Updating thumbnails</source>
+        <target state="translated">썸네일 업로드 중</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upload succeeded!">
+        <source>Upload succeeded!</source>
+        <target state="translated">업로드 성공!</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Upload to Scratch Server">
+        <source>Upload to Scratch Server</source>
+        <target state="translated">공유하기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Uploading">
+        <source>Uploading</source>
+        <target state="translated">업로드 중</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Variable name?">
+        <source>Variable name?</source>
+        <target state="translated">변수 이름 ?</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="View on stage">
+        <source>View on stage</source>
+        <target state="translated">무대 위에 표시</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="What's your name?">
+        <source>What's your name?</source>
+        <target state="translated">당신의 이름은?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="whirl">
+        <source>whirl</source>
+        <target state="translated">소용돌이</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="world">
+        <source>world</source>
+        <target state="translated">세계</target>
+        <note from="translator">세계?</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Write Multiple Project Summaries">
+        <source>Write Multiple Project Summaries</source>
+        <target state="translated">여러 프로젝트의 설명을 쓰시오</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Write Project Summary">
+        <source>Write Project Summary</source>
+        <target state="translated">프로젝트의 설명을 쓰시오</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Yes">
+        <source>Yes</source>
+        <target state="translated">네</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Your project is now online at">
+        <source>Your project is now online at</source>
+        <target state="translated">당신의 프로젝트는 현재 온라인상에 있습니다</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Your Scratch website login name:">
+        <source>Your Scratch website login name:</source>
+        <target state="translated">Scratch 사이트 ID:</target>
+        <note from="translator">won0c@naver.com 이 수정(09.06.23)&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom in">
+        <source>Zoom in</source>
+        <target state="translated">확대</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Zoom out">
+        <source>Zoom out</source>
+        <target state="translated">축소</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Accordion">
+        <source>Accordion</source>
+        <target state="translated">아코디언</target>
+        <note from="translator">##########################################&#13;
+MIDI INSTRUMENTS&#13;
+##########################################&#13;
+##########################################
+FORMATTING
+BLOCKS
+USER INTERFACE
+MIDI INSTRUMENTS
+참고: http://vod.ssem.or.kr:8080/cd_files/F06/ele/mus/e_%ED%83%80%EC%95%85%EA%B8%B0/intro.htm&#13;
+http://www.icanpiano.com/board/board.html?code=dp_1&amp;page=1&amp;type=v&amp;num1=999974&amp;num2=00000&amp;lock=N&#13;</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Acoustic Bass">
+        <source>Acoustic Bass</source>
+        <target state="translated">어쿠스틱 베이스</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Acoustic Bass Drum">
+        <source>Acoustic Bass Drum</source>
+        <target state="translated">어쿠스틱 베이스 드럼</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Acoustic Grand">
+        <source>Acoustic Grand</source>
+        <target state="translated">어쿠스틱 그랜드 피아노</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Acoustic Snare">
+        <source>Acoustic Snare</source>
+        <target state="translated">어쿠스틱 스내어</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Agogo">
+        <source>Agogo</source>
+        <target state="translated">아고고</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Alto Sax">
+        <source>Alto Sax</source>
+        <target state="translated">알토 색소폰</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Applause">
+        <source>Applause</source>
+        <target state="translated">갈채</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bagpipe">
+        <source>Bagpipe</source>
+        <target state="translated">백파이프</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Banjo">
+        <source>Banjo</source>
+        <target state="translated">밴조</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Baritone Sax">
+        <source>Baritone Sax</source>
+        <target state="translated">바리톤 색소폰</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bass Drum 1">
+        <source>Bass Drum 1</source>
+        <target state="translated">베이스 드럼 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bassoon">
+        <source>Bassoon</source>
+        <target state="translated">바순</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bird Tweet">
+        <source>Bird Tweet</source>
+        <target state="translated">작은새의 지저귐</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Blown Bottle">
+        <source>Blown Bottle</source>
+        <target state="translated">병 불기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brass Section">
+        <source>Brass Section</source>
+        <target state="translated">금관악기 섹션</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Breath Noise">
+        <source>Breath Noise</source>
+        <target state="translated">숨소리</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Bright Acoustic">
+        <source>Bright Acoustic</source>
+        <target state="translated">밝은 음색의 피아노</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cabasa">
+        <source>Cabasa</source>
+        <target state="translated">카바사</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Celesta">
+        <source>Celesta</source>
+        <target state="translated">체레스타</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cello">
+        <source>Cello</source>
+        <target state="translated">첼로</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Chinese Cymbal">
+        <source>Chinese Cymbal</source>
+        <target state="translated">차이니즈 심벌즈</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choir Aahs">
+        <source>Choir Aahs</source>
+        <target state="translated">합창「아―」</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Church Organ">
+        <source>Church Organ</source>
+        <target state="translated">교회 오르간</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clarinet">
+        <source>Clarinet</source>
+        <target state="translated">클라리넷</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Claves">
+        <source>Claves</source>
+        <target state="translated">클라베스</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clavinet">
+        <source>Clavinet</source>
+        <target state="translated">클라비넷</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Closed Hi-Hat">
+        <source>Closed Hi-Hat</source>
+        <target state="translated">닫힌 하이-햇</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Contrabass">
+        <source>Contrabass</source>
+        <target state="translated">콘트라베이스</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cowbell">
+        <source>Cowbell</source>
+        <target state="translated">카우벨</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Crash Cymbal 1">
+        <source>Crash Cymbal 1</source>
+        <target state="translated">심벌즈 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Crash Cymbal 2">
+        <source>Crash Cymbal 2</source>
+        <target state="translated">심벌즈 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Distortion Guitar">
+        <source>Distortion Guitar</source>
+        <target state="translated">뒤틀린소리의 기타</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Drawbar Organ">
+        <source>Drawbar Organ</source>
+        <target state="translated">드로우바 오르간</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Dulcimer">
+        <source>Dulcimer</source>
+        <target state="translated">덜시머</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Bass (finger)">
+        <source>Electric Bass (finger)</source>
+        <target state="translated">일렉 베이스 (손가락)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Bass (pick)">
+        <source>Electric Bass (pick)</source>
+        <target state="translated">일렉 베이스 (피크)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Clean Guitar">
+        <source>Electric Clean Guitar</source>
+        <target state="translated">일렉 클린 기타</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Grand">
+        <source>Electric Grand</source>
+        <target state="translated">일렉 그랜드 피아노</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Jazz Guitar">
+        <source>Electric Jazz Guitar</source>
+        <target state="translated">전자 재즈 기타</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Muted Guitar">
+        <source>Electric Muted Guitar</source>
+        <target state="translated">전자 뮤트 기타</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Piano 1">
+        <source>Electric Piano 1</source>
+        <target state="translated">전자 피아노 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Piano 2">
+        <source>Electric Piano 2</source>
+        <target state="translated">전자 피아노 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Electric Snare">
+        <source>Electric Snare</source>
+        <target state="translated">전자 스내어</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="English Horn">
+        <source>English Horn</source>
+        <target state="translated">영국식 호른</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 1 (rain)">
+        <source>FX 1 (rain)</source>
+        <target state="translated">효과음 1 (비)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 2 (soundtrack)">
+        <source>FX 2 (soundtrack)</source>
+        <target state="translated">효과음 2 (사운드트랙)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 3 (crystal)">
+        <source>FX 3 (crystal)</source>
+        <target state="translated">효과음 3 (크리스탈)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 4 (atmosphere)">
+        <source>FX 4 (atmosphere)</source>
+        <target state="translated">효과음 4 (분위기)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 5 (brightness)">
+        <source>FX 5 (brightness)</source>
+        <target state="translated">효과음 5 (밝기)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 6 (goblins)">
+        <source>FX 6 (goblins)</source>
+        <target state="translated">효과음 6 (고블린)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 7 (echoes)">
+        <source>FX 7 (echoes)</source>
+        <target state="translated">효과음 7 (메아리)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FX 8 (sci-fi)">
+        <source>FX 8 (sci-fi)</source>
+        <target state="translated">효과음 8 (SF)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fiddle">
+        <source>Fiddle</source>
+        <target state="translated">피들</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Flute">
+        <source>Flute</source>
+        <target state="translated">플룻</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="French Horn">
+        <source>French Horn</source>
+        <target state="translated">프랑스식 호른</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fretless Bass">
+        <source>Fretless Bass</source>
+        <target state="translated">플렛리스 베이스</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Glockenspiel">
+        <source>Glockenspiel</source>
+        <target state="translated">글로켄슈필</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Guitar Fret Noise">
+        <source>Guitar Fret Noise</source>
+        <target state="translated">기타의 플렛 노이즈</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Guitar Harmonics">
+        <source>Guitar Harmonics</source>
+        <target state="translated">기타 화음</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gunshot">
+        <source>Gunshot</source>
+        <target state="translated">총소리</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hand Clap">
+        <source>Hand Clap</source>
+        <target state="translated">박수</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Harmonica">
+        <source>Harmonica</source>
+        <target state="translated">하모니카</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Harpsichord">
+        <source>Harpsichord</source>
+        <target state="translated">하프시코드</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Helicopter">
+        <source>Helicopter</source>
+        <target state="translated">헬리콥터</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hi Bongo">
+        <source>Hi Bongo</source>
+        <target state="translated">하이 봉고</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hi Wood Block">
+        <source>Hi Wood Block</source>
+        <target state="translated">하이 우드 블록</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hi-Mid Tom">
+        <source>Hi-Mid Tom</source>
+        <target state="translated">하이-미드 탐</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Agogo">
+        <source>High Agogo</source>
+        <target state="translated">하이 아고고</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Floor Tom">
+        <source>High Floor Tom</source>
+        <target state="translated">하이 플로어 탐</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Timbale">
+        <source>High Timbale</source>
+        <target state="translated">하이 팀벌</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="High Tom">
+        <source>High Tom</source>
+        <target state="translated">하이 탐</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Honky-Tonk">
+        <source>Honky-Tonk</source>
+        <target state="translated">홍키 퐁크 피아노</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Kalimba">
+        <source>Kalimba</source>
+        <target state="translated">칼림바</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Koto">
+        <source>Koto</source>
+        <target state="translated">가야금</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 1 (square)">
+        <source>Lead 1 (square)</source>
+        <target state="translated">리드 1 (사각파)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 2 (sawtooth)">
+        <source>Lead 2 (sawtooth)</source>
+        <target state="translated">리드 2 (톱니)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 3 (calliope)">
+        <source>Lead 3 (calliope)</source>
+        <target state="translated">리드 3 (증기오르간)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 4 (chiff)">
+        <source>Lead 4 (chiff)</source>
+        <target state="translated">리드 4 (치프노이즈)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 5 (charang)">
+        <source>Lead 5 (charang)</source>
+        <target state="translated">리드 5 (차랑고)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 6 (voice)">
+        <source>Lead 6 (voice)</source>
+        <target state="translated">리드 6 (목소리)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 7 (fifths)">
+        <source>Lead 7 (fifths)</source>
+        <target state="translated">리드 7 (5도 음정)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lead 8 (bass+lead)">
+        <source>Lead 8 (bass+lead)</source>
+        <target state="translated">리드 8 (베이스와 리드)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Long Guiro">
+        <source>Long Guiro</source>
+        <target state="translated">긴 귀로</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Long Whistle">
+        <source>Long Whistle</source>
+        <target state="translated">긴 휘파람</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Agogo">
+        <source>Low Agogo</source>
+        <target state="translated">로우 아고고</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Bongo">
+        <source>Low Bongo</source>
+        <target state="translated">로우 봉고</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Conga">
+        <source>Low Conga</source>
+        <target state="translated">로우 콩가</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Floor Tom">
+        <source>Low Floor Tom</source>
+        <target state="translated">로우 플로어 탐</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Timbale">
+        <source>Low Timbale</source>
+        <target state="translated">로우 팀벌</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Tom">
+        <source>Low Tom</source>
+        <target state="translated">로우 탐</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low Wood Block">
+        <source>Low Wood Block</source>
+        <target state="translated">로우 나무블록</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low-Mid Tom">
+        <source>Low-Mid Tom</source>
+        <target state="translated">로우-미드 탐</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maracas">
+        <source>Maracas</source>
+        <target state="translated">마라카스</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Marimba">
+        <source>Marimba</source>
+        <target state="translated">마림바</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Melodic Tom">
+        <source>Melodic Tom</source>
+        <target state="translated">멜로디 톰</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Music Box">
+        <source>Music Box</source>
+        <target state="translated">뮤직 박스</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mute Cuica">
+        <source>Mute Cuica</source>
+        <target state="translated">뮤트 퀴카</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mute Hi Conga">
+        <source>Mute Hi Conga</source>
+        <target state="translated">뮤트 하이 콩가</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mute Triangle">
+        <source>Mute Triangle</source>
+        <target state="translated">뮤트 트라이앵글</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Muted Trumpet">
+        <source>Muted Trumpet</source>
+        <target state="translated">뮤트 트럼펫</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Nylon String Guitar">
+        <source>Nylon String Guitar</source>
+        <target state="translated">나일론줄 기타</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Oboe">
+        <source>Oboe</source>
+        <target state="translated">오보에</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ocarina">
+        <source>Ocarina</source>
+        <target state="translated">오카리나</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Cuica">
+        <source>Open Cuica</source>
+        <target state="translated">오픈 퀴카</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Hi Conga">
+        <source>Open Hi Conga</source>
+        <target state="translated">오픈 하이 콩가</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Hi-Hat">
+        <source>Open Hi-Hat</source>
+        <target state="translated">오픈 하이-햇</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Open Triangle">
+        <source>Open Triangle</source>
+        <target state="translated">오픈 트라이앵글</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Orchestra Hit">
+        <source>Orchestra Hit</source>
+        <target state="translated">오케스트라 히트</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Orchestral Strings">
+        <source>Orchestral Strings</source>
+        <target state="translated">오케스트라의 현악기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Overdriven Guitar">
+        <source>Overdriven Guitar</source>
+        <target state="translated">오버 드라이브 기타</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 1 (new age)">
+        <source>Pad 1 (new age)</source>
+        <target state="translated">패드 1 (뉴 에이지)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 2 (warm)">
+        <source>Pad 2 (warm)</source>
+        <target state="translated">패드 2 (따뜻하다)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 3 (polysynth)">
+        <source>Pad 3 (polysynth)</source>
+        <target state="translated">패드 3 (폴리신디)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 4 (choir)">
+        <source>Pad 4 (choir)</source>
+        <target state="translated">패드 4 (합창)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 5 (bowed)">
+        <source>Pad 5 (bowed)</source>
+        <target state="translated">패드 5 (활)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 6 (metallic)">
+        <source>Pad 6 (metallic)</source>
+        <target state="translated">패드 6 (메탈)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 7 (halo)">
+        <source>Pad 7 (halo)</source>
+        <target state="translated">패드 7 (할로)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pad 8 (sweep)">
+        <source>Pad 8 (sweep)</source>
+        <target state="translated">패드 8 (스위프)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pan Flute">
+        <source>Pan Flute</source>
+        <target state="translated">팬 플룻</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pedal Hi-Hat">
+        <source>Pedal Hi-Hat</source>
+        <target state="translated">페달 하이 햇</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Percussive Organ">
+        <source>Percussive Organ</source>
+        <target state="translated">퍼커시브 오르간</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Piccolo">
+        <source>Piccolo</source>
+        <target state="translated">피콜로</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pizzicato Strings">
+        <source>Pizzicato Strings</source>
+        <target state="translated">손가락으로 퉁기는 현악 연주</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Recorder">
+        <source>Recorder</source>
+        <target state="translated">리코더</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reed Organ">
+        <source>Reed Organ</source>
+        <target state="translated">리드 오르간</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reverse Cymbal">
+        <source>Reverse Cymbal</source>
+        <target state="translated">리버스 심벌즈</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ride Bell">
+        <source>Ride Bell</source>
+        <target state="translated">라이드 벨</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ride Cymbal 1">
+        <source>Ride Cymbal 1</source>
+        <target state="translated">라이드 심벌즈 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ride Cymbal 2">
+        <source>Ride Cymbal 2</source>
+        <target state="translated">라이드 심벌즈 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rock Organ">
+        <source>Rock Organ</source>
+        <target state="translated">락 오르간</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Seashore">
+        <source>Seashore</source>
+        <target state="translated">해변</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shakuhachi">
+        <source>Shakuhachi</source>
+        <target state="translated">퉁소</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shamisen">
+        <source>Shamisen</source>
+        <target state="translated">샤미센</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shanai">
+        <source>Shanai</source>
+        <target state="translated">샤나이</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Short Guiro">
+        <source>Short Guiro</source>
+        <target state="translated">짧은 귀로</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Short Whistle">
+        <source>Short Whistle</source>
+        <target state="translated">짧은 휘파람</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Side Stick">
+        <source>Side Stick</source>
+        <target state="translated">사이드 스틱</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sitar">
+        <source>Sitar</source>
+        <target state="translated">시타르</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slap Bass 1">
+        <source>Slap Bass 1</source>
+        <target state="translated">슬랩 베이스 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Slap Bass 2">
+        <source>Slap Bass 2</source>
+        <target state="translated">슬랩 베이스 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Soprano Sax">
+        <source>Soprano Sax</source>
+        <target state="translated">소프라노 색소폰</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Splash Cymbal">
+        <source>Splash Cymbal</source>
+        <target state="translated">스플래쉬 심벌즈</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Steel Drums">
+        <source>Steel Drums</source>
+        <target state="translated">스틸 드럼</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Steel String Guitar">
+        <source>Steel String Guitar</source>
+        <target state="translated">쇠줄 기타</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="String Ensemble 1">
+        <source>String Ensemble 1</source>
+        <target state="translated">현악 합주 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="String Ensemble 2">
+        <source>String Ensemble 2</source>
+        <target state="translated">현악 합주 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Synth Bass 1">
+        <source>Synth Bass 1</source>
+        <target state="translated">신디 베이스 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Synth Bass 2">
+        <source>Synth Bass 2</source>
+        <target state="translated">신디 베이스 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Synth Drum">
+        <source>Synth Drum</source>
+        <target state="translated">신디 드럼</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Synth Voice">
+        <source>Synth Voice</source>
+        <target state="translated">신디 보이스</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SynthBrass 1">
+        <source>SynthBrass 1</source>
+        <target state="translated">신디 브라스 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SynthBrass 2">
+        <source>SynthBrass 2</source>
+        <target state="translated">신디 브라스 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SynthStrings 1">
+        <source>SynthStrings 1</source>
+        <target state="translated">신디 스트링 1</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SynthStrings 2">
+        <source>SynthStrings 2</source>
+        <target state="translated">신디 스트링 2</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Taiko Drum">
+        <source>Taiko Drum</source>
+        <target state="translated">타이코 드럼</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tambourine">
+        <source>Tambourine</source>
+        <target state="translated">탬버린</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tango Accordion">
+        <source>Tango Accordion</source>
+        <target state="translated">탱고 아코디언</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Telephone Ring">
+        <source>Telephone Ring</source>
+        <target state="translated">전화 벨</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tenor Sax">
+        <source>Tenor Sax</source>
+        <target state="translated">테너 색소폰</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Timpani">
+        <source>Timpani</source>
+        <target state="translated">팀파니</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tinkle Bell">
+        <source>Tinkle Bell</source>
+        <target state="translated">방울소리</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tremolo Strings">
+        <source>Tremolo Strings</source>
+        <target state="translated">트레몰로 스트링</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Trombone">
+        <source>Trombone</source>
+        <target state="translated">트럼본</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Trumpet">
+        <source>Trumpet</source>
+        <target state="translated">트럼펫</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tuba">
+        <source>Tuba</source>
+        <target state="translated">튜바</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tubular Bells">
+        <source>Tubular Bells</source>
+        <target state="translated">튜블러 벨</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vibraphone">
+        <source>Vibraphone</source>
+        <target state="translated">비브라폰</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Vibraslap">
+        <source>Vibraslap</source>
+        <target state="translated">비브라슬랩</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Viola">
+        <source>Viola</source>
+        <target state="translated">비올라</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Violin">
+        <source>Violin</source>
+        <target state="translated">바이올린</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Voice Oohs">
+        <source>Voice Oohs</source>
+        <target state="translated">오~</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Whistle">
+        <source>Whistle</source>
+        <target state="translated">휘파람</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Woodblock">
+        <source>Woodblock</source>
+        <target state="translated">나무블록</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Xylophone">
+        <source>Xylophone</source>
+        <target state="translated">실로폰</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-02-22 18:35+0200\n"
+"PO-Revision-Date: 2013-05-05 21:53+0200\n"
 "Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lt\n"
@@ -39,8 +39,9 @@ msgstr "%m.sensor"
 msgid "%n mod %n"
 msgstr "%n / %n liekana"
 
+# į %m.list pridėk %s
 msgid "add %s to %m.list"
-msgstr "į %m.list pridėk %s"
+msgstr "pridėk %s į %m.list"
 
 msgid "answer"
 msgstr "atsakymas"
@@ -122,8 +123,9 @@ msgstr "dienos nuo 2000 m. pradžios"
 msgid "define"
 msgstr "komanda"
 
+# iš %m.list ištrink nr. %d.listDeleteItem
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "iš %m.list ištrink nr. %d.listDeleteItem"
+msgstr "ištrink %d.listDeleteItem-tąjį elementą iš %m.list "
 
 msgid "delete this clone"
 msgstr "išnyk (jei esi klonas)"
@@ -186,7 +188,7 @@ msgid "item %d.listItem of %m.list"
 msgstr "%m.list nr. %d.listItem"
 
 msgid "join %s %s"
-msgstr "sujunk tekstus %s ir %s"
+msgstr "sujunk tekstą %s ir %s"
 
 msgid "key %m.key pressed?"
 msgstr "paspausta %m.key ?"
@@ -197,8 +199,9 @@ msgstr "sąrašo %m.list ilgis"
 msgid "length of %s"
 msgstr "teksto %s ilgis"
 
+# teksto %s %n raidė
 msgid "letter %n of %s"
-msgstr "teksto %s %n raidė"
+msgstr "%n-oji %s raidė"
 
 msgid "Looks"
 msgstr "Išvaizda"
@@ -222,7 +225,7 @@ msgid "mouse y"
 msgstr "pelės y"
 
 msgid "move %n steps"
-msgstr "eik %n"
+msgstr "eik %n (taškus)"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
@@ -278,8 +281,9 @@ msgstr "kartok %n :"
 msgid "repeat until %b"
 msgstr "kartok, kol atsitiks %b :"
 
+#  %m.list nr. %d.listItem = %s
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr " %m.list nr. %d.listItem = %s"
+msgstr "priskirk %d.listItem-tąjam  %m.list elementui %s"
 
 msgid "reset timer"
 msgstr "iš naujo paleisk laikmatį"
@@ -429,7 +433,7 @@ msgid "turn video %m.videoState"
 msgstr "vaizdo sekimas = %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "naudotojo vardas"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "sekamo vaizdo %m.videoMotionType virš %m.stageOrThis"
