@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:46+0200\n"
-"PO-Revision-Date: 2013-05-09 16:16+0200\n"
+"PO-Revision-Date: 2013-05-10 00:26+0200\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nb\n"
@@ -20,7 +20,7 @@ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only num
 msgstr ""
 "<b>Informasjon om nettdata</b><br>&nbsp;<br>Inntil videre er det bare mulig "
 "å lagre tall<br>Chat-funksjoner er ikke tillatt og vil bli slettet<br>For "
-"mer informasjon, se <a href= target=>spørsmål og svar om varige data!</a>"
+"mer informasjon, se <a href= target=>spørsmål og svar om nettdata!</a>"
 
 msgid "A connected"
 msgstr "A tilkoblet"
@@ -32,30 +32,26 @@ msgid "abs"
 msgstr "abs"
 
 msgid "Account settings"
-msgstr "Brukerkonto-innstillinger"
+msgstr "Brukerinnstillinger"
 
 msgid "acos"
 msgstr "arccos"
 
 # 90%
-#, fuzzy
 msgid "Add boolean input:"
 msgstr "Logisk verdi inn:"
 
 msgid "add comment"
 msgstr "skriv kommentar"
 
-#, fuzzy
 msgid "Add label text:"
-msgstr "Navn:"
+msgstr "Tekst i blokken:"
 
 # 89%
-#, fuzzy
 msgid "Add number input:"
 msgstr "Tallverdi inn:"
 
 # 89%
-#, fuzzy
 msgid "Add string input:"
 msgstr "Tekst inn:"
 
@@ -239,19 +235,19 @@ msgid "Close"
 msgstr "Lukk"
 
 msgid "Closed Hi-Hat"
-msgstr "Lukket high-hat"
+msgstr "Lukket hi-hat"
 
 msgid "Cloud"
 msgstr "Nett"
 
 msgid "Cloud data"
-msgstr "Varige data på nett"
+msgstr "Nettdata"
 
 msgid "color"
 msgstr "farge"
 
 msgid "Color a shape"
-msgstr "Fargelegg en form"
+msgstr "Fyll farge"
 
 msgid "Conga"
 msgstr "Conga"
@@ -260,11 +256,10 @@ msgid "Connecting to Cloud data server..."
 msgstr "Kobler til nettdatatjener..."
 
 msgid "Convert to bitmap"
-msgstr "Gjør om til punkgrafikk"
+msgstr "Bytt til punkgrafikk"
 
-#, fuzzy
 msgid "Convert to vector"
-msgstr "Gjør om til vektorgrafikk"
+msgstr "Bytt til vektorgrafikk"
 
 msgid "Converting mp3..."
 msgstr "Konverterer mp3..."
@@ -321,7 +316,7 @@ msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr "På nett kan du bare lagre tall nå."
 
 msgid "cut"
-msgstr "kutt"
+msgstr "klipp ut"
 
 msgid "D connected"
 msgstr "D tilkoblet"
@@ -365,10 +360,10 @@ msgid "Download to your computer"
 msgstr "Last ned til datamaskinen"
 
 msgid "duplicate"
-msgstr "lag kopi"
+msgstr "lag en kopi"
 
 msgid "Duplicate"
-msgstr "Lag kopi"
+msgstr "Lag en kopi"
 
 msgid "e ^"
 msgstr "e ^"
@@ -459,13 +454,11 @@ msgstr "gjennomsiktig"
 msgid "Go to My Stuff"
 msgstr "Gå til Mine Ting"
 
-#, fuzzy
 msgid "Group"
-msgstr "Gruppe"
+msgstr "Lag gruppe"
 
-#, fuzzy
 msgid "Grow"
-msgstr "Større"
+msgstr "Gjør større"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -614,7 +607,7 @@ msgid "Nature"
 msgstr "Natur"
 
 msgid "New"
-msgstr "Nouveau"
+msgstr "Ny"
 
 msgid "New backdrop from camera"
 msgstr "Ny bakgrunn fra kamera"
@@ -727,7 +720,7 @@ msgid "Pick up color"
 msgstr "Plukk opp farge"
 
 msgid "pixelate"
-msgstr "piksler"
+msgstr "piksel"
 
 msgid "Pizzicato"
 msgstr "Pizzicato"
@@ -794,7 +787,7 @@ msgid "resistance-D"
 msgstr "motstand-D"
 
 msgid "reverse"
-msgstr "snu"
+msgstr "baklengs"
 
 msgid "Revert"
 msgstr "Gå tilbake"
@@ -868,12 +861,11 @@ msgid "Send to back"
 msgstr "Legg nederst"
 
 # 88%
-#, fuzzy
 msgid "Set costume center"
-msgstr "Sett drakt-senter"
+msgstr "Velg senterpunkt"
 
 msgid "Set Costume Center"
-msgstr "Sett Drakt-senter"
+msgstr "Velg senterpunkt"
 
 msgid "Share"
 msgstr "Legg ut"
@@ -881,7 +873,6 @@ msgstr "Legg ut"
 msgid "shared"
 msgstr "lagt ut"
 
-#, fuzzy
 msgid "Shift:"
 msgstr "Skift:"
 
@@ -1012,7 +1003,7 @@ msgid "Text"
 msgstr "Tekst"
 
 msgid "that way"
-msgstr "den veien"
+msgstr "mot klokken"
 
 #, fuzzy
 msgid "Theme"
@@ -1029,8 +1020,8 @@ msgstr ""
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
-"Dette prosjektet bruker varige data på nett, som bare er tilgjengelige for "
-"registrerte brukere."
+"Dette prosjektet bruker nettdata, som bare er tilgjengelige for registrerte "
+"brukere."
 
 msgid "this script"
 msgstr "dette skriptet"
@@ -1039,7 +1030,7 @@ msgid "this sprite"
 msgstr "denne figuren"
 
 msgid "this way"
-msgstr "denne veien"
+msgstr "med klokken"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Du vil miste endringene som er gjort, er det OK?"
@@ -1048,7 +1039,7 @@ msgid "timer"
 msgstr "tid"
 
 msgid "Tips"
-msgstr "Tips"
+msgstr "Hjelp"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
@@ -1136,7 +1127,6 @@ msgstr "Variabelnavn"
 msgid "Vector"
 msgstr "Vektor"
 
-#, fuzzy
 msgid "Vector Mode"
 msgstr "Vektorgrafikk"
 
@@ -1146,7 +1136,6 @@ msgstr "Vibrafon"
 msgid "Vibraslap"
 msgstr "Vibraslap"
 
-#, fuzzy
 msgid "video motion"
 msgstr "videobevegelse"
 
@@ -1188,8 +1177,8 @@ msgstr "år"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
-"Du kan ikke redigere varige nettdata i andres prosjekter.<br>Endringer du "
-"gjør her vil være midlertidige og blir ikke lagret."
+"Du kan ikke redigere nettdata i andres prosjekter.<br>Endringer du gjør her "
+"vil være midlertidige og blir ikke lagret."
 
 #, fuzzy
 #~ msgid "Add a boolean input:"

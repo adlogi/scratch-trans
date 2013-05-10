@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-05-07 21:23+0200\n"
+"PO-Revision-Date: 2013-05-10 18:00+0200\n"
 "Last-Translator: Barry <barry@neville.dk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
@@ -161,7 +161,7 @@ msgid "Camera"
 msgstr "Kamera"
 
 msgid "can drag in player:"
-msgstr ""
+msgstr "kan hentes på banen:"
 
 msgid "Cancel"
 msgstr "Annuller"
@@ -294,16 +294,16 @@ msgid "Cowbell"
 msgstr "Koklokke"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Bækken"
 
 msgid "Creating..."
-msgstr ""
+msgstr "Opretter..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr ""
+msgstr "Aktuelt kan kun tal gemmes i skyvariabler. "
 
 msgid "cut"
-msgstr ""
+msgstr "klip"
 
 msgid "D connected"
 msgstr "D opkoblet"
@@ -322,16 +322,16 @@ msgid "delete"
 msgstr "slet"
 
 msgid "delete variable"
-msgstr ""
+msgstr "slet variablen"
 
 msgid "direction"
-msgstr ""
+msgstr "retning"
 
 msgid "direction:"
-msgstr ""
+msgstr "retning:"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "drej ikke"
 
 msgid "down"
 msgstr "ned"
@@ -364,10 +364,10 @@ msgid "Edit"
 msgstr "Editer"
 
 msgid "Edit Block"
-msgstr ""
+msgstr "Rediger klodsen"
 
 msgid "Effects"
-msgstr ""
+msgstr "Effekter"
 
 msgid "Electric Guitar"
 msgstr "Elektrisk Guitar"
@@ -376,47 +376,46 @@ msgid "Electric Piano"
 msgstr "Elektrisk Klaver"
 
 msgid "Electronic"
-msgstr ""
+msgstr "Elektronisk"
 
 msgid "Ellipse"
-msgstr ""
+msgstr "Ellipse"
 
 msgid "Erase"
-msgstr ""
+msgstr "Slet"
 
 msgid "Eraser width:"
-msgstr ""
+msgstr "Viskelæderets bredde:"
 
 msgid "fade in"
-msgstr ""
+msgstr "opton"
 
 msgid "fade out"
-msgstr ""
+msgstr "udton"
 
-#, fuzzy
 msgid "Fantasy"
 msgstr "Fantasi"
 
 msgid "Features"
-msgstr ""
+msgstr "Egenskaber"
 
 msgid "File"
 msgstr "Fil"
 
 msgid "Fill with color"
-msgstr ""
+msgstr "Fyld med farve"
 
 msgid "fisheye"
 msgstr "fiskeøje"
 
 msgid "Flip left-right"
-msgstr ""
+msgstr "Vend venstre-højre"
 
 msgid "Flip up-down"
-msgstr ""
+msgstr "Vend op og ned"
 
 msgid "floor"
-msgstr ""
+msgstr "gulv"
 
 msgid "Flute"
 msgstr "Fløjte"
@@ -425,28 +424,28 @@ msgid "Flying"
 msgstr "Flyvning"
 
 msgid "For all sprites"
-msgstr ""
+msgstr "For alle sprites"
 
 msgid "For this sprite only"
-msgstr ""
+msgstr "Kun for denne sprite"
 
 msgid "Forward a layer"
-msgstr ""
+msgstr "Frem et lag"
 
 msgid "ghost"
 msgstr "spøgelse"
 
 msgid "Go to My Stuff"
-msgstr ""
+msgstr "Mine sager"
 
 msgid "Group"
-msgstr ""
+msgstr "Grupper"
 
 msgid "Grow"
-msgstr ""
+msgstr "Forstør"
 
 msgid "Guiro"
-msgstr ""
+msgstr "Guiro"
 
 msgid "Guitar"
 msgstr "Guitar"
@@ -455,13 +454,13 @@ msgid "Hand Clap"
 msgstr "Håndklap"
 
 msgid "hide"
-msgstr ""
+msgstr "skjul"
 
 msgid "hour"
-msgstr ""
+msgstr "time"
 
 msgid "Human"
-msgstr ""
+msgstr "Menneskelig"
 
 msgid "Import"
 msgstr "importer"
@@ -497,7 +496,7 @@ msgid "light"
 msgstr "lys"
 
 msgid "limit reached"
-msgstr ""
+msgstr "grænsen er nået"
 
 msgid "Line"
 msgstr "Linje"
@@ -528,49 +527,49 @@ msgid "loudness"
 msgstr "lydstyrke"
 
 msgid "Make a Block"
-msgstr ""
+msgstr "Skab en Klods"
 
 msgid "Make a List"
-msgstr ""
+msgstr "Lav en Liste"
 
 msgid "Make a Variable"
-msgstr ""
+msgstr "Lav en Variabel"
 
 msgid "Marimba"
 msgstr "Marimba"
 
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 msgid "meow"
-msgstr ""
+msgstr "mjav"
 
 msgid "Message Name"
-msgstr ""
+msgstr "Meddelelse Navn"
 
 msgid "message1"
-msgstr ""
+msgstr "meddelelse1"
 
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 msgid "minute"
-msgstr ""
+msgstr "minut"
 
 msgid "month"
-msgstr ""
+msgstr "måned"
 
 msgid "mosaic"
 msgstr "mosaik"
 
 msgid "motion"
-msgstr ""
+msgstr "bevægelse"
 
 msgid "mouse-pointer"
 msgstr "musepil"
 
 msgid "Multiple"
-msgstr ""
+msgstr "Flere"
 
 msgid "Music and Dance"
 msgstr "Musik og dans"
@@ -579,13 +578,13 @@ msgid "Music Box"
 msgstr "Spilledåse"
 
 msgid "Music Loops"
-msgstr ""
+msgstr "Musik Sløjfer"
 
 msgid "My Stuff"
-msgstr ""
+msgstr "Mine sager"
 
 msgid "myself"
-msgstr ""
+msgstr "mig selv"
 
 msgid "Nature"
 msgstr "Natur"
@@ -627,7 +626,7 @@ msgid "New Variable"
 msgstr "Ny variabel"
 
 msgid "No motion blocks"
-msgstr ""
+msgstr "Ingen bevægelses klodser "
 
 msgid "Not saved; network or server problem."
 msgstr "Ikke gemt; netværk eller server problem."
@@ -639,13 +638,13 @@ msgid "off"
 msgstr "Slukket"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "on"
 msgstr "Tændt"
 
 msgid "on-flipped"
-msgstr ""
+msgstr "når omvendt"
 
 msgid "Open Cuica"
 msgstr "Åben cuica"
@@ -654,7 +653,7 @@ msgid "Open Hi-Hat"
 msgstr "Åben hi-hat"
 
 msgid "Options"
-msgstr ""
+msgstr "Valgmuligheder"
 
 msgid "Organ"
 msgstr "Orgel"
@@ -663,7 +662,7 @@ msgid "Other"
 msgstr "Andre"
 
 msgid "other scripts in sprite"
-msgstr ""
+msgstr "andre script i sprite"
 
 msgid "Outdoors"
 msgstr "Udendørs"
@@ -690,13 +689,13 @@ msgid "Percussion"
 msgstr "Slagtøj"
 
 msgid "photo1"
-msgstr ""
+msgstr "foto1"
 
 msgid "Piano"
 msgstr "Klaver"
 
 msgid "Pick up color"
-msgstr ""
+msgstr "Hent farve"
 
 msgid "pixelate"
 msgstr "pixeler"
@@ -708,63 +707,62 @@ msgid "pop"
 msgstr "knald"
 
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgid "Project not saved!"
-msgstr ""
+msgstr "Projektet er ikke gemt!"
 
 msgid "random"
-msgstr ""
+msgstr "tilfældig"
 
 msgid "Record"
 msgstr "optag"
 
 msgid "Record new sound"
-msgstr ""
+msgstr "Optag ny lyd"
 
 msgid "recording1"
-msgstr ""
+msgstr "optagelse1"
 
 msgid "Rectangle"
-msgstr ""
+msgstr "Rektangel"
 
 # 75%
-#, fuzzy
 msgid "Redo"
 msgstr "Gør om"
 
 msgid "redo"
-msgstr "Gør om"
+msgstr "gør om"
 
 msgid "Remix"
-msgstr ""
+msgstr "Remix"
 
 msgid "Remixing..."
-msgstr ""
+msgstr "Remixer..."
 
 msgid "Rename"
-msgstr ""
+msgstr "Omdøb"
 
 msgid "rename variable"
-msgstr ""
+msgstr "omdøb variabelnavn"
 
 msgid "requires sign in"
-msgstr ""
+msgstr "kræver log-in"
 
 msgid "Reshape"
-msgstr ""
+msgstr "Omform"
 
 msgid "resistance-A"
-msgstr ""
+msgstr "modstand-A"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "modstand-B"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "modstand-C"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "modstand-D"
 
 msgid "reverse"
 msgstr "skift retning"
@@ -782,10 +780,10 @@ msgid "right arrow"
 msgstr "højrepil"
 
 msgid "rotation style:"
-msgstr ""
+msgstr "rotationsstil:"
 
 msgid "Run without screen refresh"
-msgstr ""
+msgstr "Kør uden skærmopdatering"
 
 msgid "Save"
 msgstr "Gem"
@@ -812,99 +810,98 @@ msgid "Saxophone"
 msgstr "Saxofon"
 
 msgid "Script"
-msgstr ""
+msgstr "Script"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Script"
 
 msgid "Scripts:"
-msgstr ""
+msgstr "Script:"
 
 msgid "second"
-msgstr ""
+msgstr "sekund"
 
 msgid "See project page"
-msgstr ""
+msgstr "Se projektside"
 
 msgid "Select"
-msgstr ""
+msgstr "Marker"
 
 msgid "select all"
-msgstr ""
+msgstr "marker alt"
 
 msgid "Select and duplicate"
-msgstr ""
+msgstr "Marker og kopier"
 
 msgid "Send to back"
-msgstr ""
+msgstr "Flyt længst tilbage"
 
 msgid "Set costume center"
-msgstr ""
+msgstr "Sæt kostumets center"
 
 msgid "Set Costume Center"
-msgstr ""
+msgstr "Sæt Kostumets Center"
 
 msgid "Share"
-msgstr ""
+msgstr "Del"
 
 msgid "shared"
-msgstr ""
+msgstr "delt"
 
 msgid "Shift:"
-msgstr ""
+msgstr "Skift:"
 
 msgid "show"
-msgstr ""
+msgstr "vis"
 
 msgid "show receivers"
-msgstr ""
+msgstr "vis modtagere"
 
 msgid "show senders"
-msgstr ""
+msgstr "vis afsendere"
 
 msgid "show:"
-msgstr ""
+msgstr "vis:"
 
 msgid "Shrink"
-msgstr ""
+msgstr "Formindsk"
 
 msgid "Side Stick"
 msgstr "Kantslag"
 
 msgid "Sign in"
-msgstr ""
+msgstr "Log på"
 
 msgid "Sign in to save"
-msgstr ""
+msgstr "Log på for at gemme"
 
 msgid "Sign out"
-msgstr ""
+msgstr "Log ud"
 
 msgid "silence"
-msgstr ""
+msgstr "tavshed"
 
 # 75%
-#, fuzzy
 msgid "sin"
-msgstr "arcsin"
+msgstr "sin"
 
 msgid "size"
-msgstr ""
+msgstr "størrelse"
 
 msgid "slider"
 msgstr "skydemodstand"
 
 msgid "Slider Range"
-msgstr ""
+msgstr "Skydemodstands Rækkevidde"
 
 msgid "Small stage layout"
 msgstr "Lille scene opsætning"
 
 msgid "Smooth"
-msgstr ""
+msgstr "Glat ud"
 
 msgid "Snare Drum"
-msgstr ""
+msgstr "Lilletromme"
 
 msgid "softer"
 msgstr ""
