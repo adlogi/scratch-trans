@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-05 20:17+0200\n"
+"PO-Revision-Date: 2013-05-15 22:19+0200\n"
 "Last-Translator: ehermann <everton.hermann@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -113,7 +113,7 @@ msgid "current %m.timeAndDate"
 msgstr "%m.timeAndDate atual"
 
 msgid "Data"
-msgstr "Dados"
+msgstr "Variáveis"
 
 msgid "days since 2000"
 msgstr "dias desde 2000"
@@ -146,7 +146,7 @@ msgid "forever"
 msgstr "sempre"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "deslize durante %n segundos até  x:%n y:%n"
+msgstr "deslize por %n segundos até x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "deça %n camadas"
@@ -277,7 +277,7 @@ msgid "reset timer"
 msgstr "zere o cronômetro"
 
 msgid "rest for %n beats"
-msgstr "silencio durante %n batidas"
+msgstr "silencio por %n batidas"
 
 msgid "round %n"
 msgstr "arredonde %n"
@@ -286,7 +286,7 @@ msgid "say %s"
 msgstr "diga %s"
 
 msgid "say %s for %n secs"
-msgstr "diga %s durante %n segundos"
+msgstr "diga %s por %n segundos"
 
 msgid "Sensing"
 msgstr "Sensores"
@@ -324,25 +324,25 @@ msgid "set pen size to %n"
 msgstr "mude o tamanho da caneta para %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "use o estilo de rotação %m.rotationStyle"
+msgstr "mude o estilo de rotação para %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "mude o tamanho para %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "defina a frequência como %n bpm"
+msgstr "mude a frequência para %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr "defina a transparência do vídeo como %n%"
+msgstr "mude a transparência do vídeo para %n%"
 
 msgid "set volume to %n%"
-msgstr "defina o volume como %n%"
+msgstr "mude o volume para %n%"
 
 msgid "set x to %n"
-msgstr "atribua %n a x"
+msgstr "mude x para %n"
 
 msgid "set y to %n"
-msgstr "atribua %n a y"
+msgstr "mude y para %n"
 
 msgid "show"
 msgstr "apareça"
@@ -415,7 +415,7 @@ msgstr "ligue o motor"
 
 # 80%
 msgid "turn motor on for %n secs"
-msgstr "ligue o motor durante %n segundos"
+msgstr "ligue o motor por %n segundos"
 
 msgid "turn video %m.videoState"
 msgstr "ative o vídeo %m.videoState"
