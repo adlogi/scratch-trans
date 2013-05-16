@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-02 01:08+0200\n"
+"PO-Revision-Date: 2013-05-12 22:27+0200\n"
 "Last-Translator: Manuel <mmsequeira@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt\n"
@@ -62,10 +62,10 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "difunde a mensagem %m.broadcast e espera"
 
 msgid "change %m.effect effect by %n"
-msgstr "adiciona %n ao teu efeito %m.effect"
+msgstr "adiciona ao teu efeito %m.effect o valor %n"
 
 msgid "change %m.var by %n"
-msgstr "adiciona %n a %m.var"
+msgstr "adiciona a %m.var o valor %n"
 
 msgid "change pen color by %n"
 msgstr "adiciona %n à cor da tua caneta"
@@ -146,7 +146,7 @@ msgid "forever"
 msgstr "para sempre,"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "desliza em %n s para as coordenadas (x:%n, y:%n)"
+msgstr "desliza em %n s para as coordenadas (x:%n , y:%n )"
 
 msgid "go back %n layers"
 msgstr "recua %n camadas"
@@ -158,7 +158,7 @@ msgid "go to front"
 msgstr "vem para a frente"
 
 msgid "go to x:%n y:%n"
-msgstr "vai para as coordenadas (x:%n, y:%n)"
+msgstr "vai para as coordenadas (x:%n , y:%n )"
 
 msgid "hide"
 msgstr "esconde-te"
@@ -170,13 +170,13 @@ msgid "hide variable %m.var"
 msgstr "esconde a variável %m.var"
 
 msgid "if %b then"
-msgstr "se %b, então"
+msgstr "se %b , então"
 
 msgid "if on edge, bounce"
 msgstr "se estiveres a bater na borda, ressalta"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "insere %s antes de %d.listItem de %m.list"
+msgstr "insere %s como %d.listItem de %m.list"
 
 msgid "item %d.listItem of %m.list"
 msgstr "%d.listItem de %m.list"
@@ -259,7 +259,7 @@ msgid "play sound %m.sound until done"
 msgstr "toca o som %m.sound até terminar"
 
 msgid "point in direction %d.direction"
-msgstr "altera a tua direcção para %d.directionº"
+msgstr "altera a tua direcção para %d.direction º"
 
 msgid "point towards %m.spriteOrMouse"
 msgstr "aponta em direcção a %m.spriteOrMouse"
@@ -268,7 +268,7 @@ msgid "repeat %n"
 msgstr "repete %n vezes"
 
 msgid "repeat until %b"
-msgstr "até que %b, repete"
+msgstr "até que %b , repete"
 
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr "substitui %d.listItem de %m.list por %s"
@@ -401,10 +401,10 @@ msgid "touching color %c?"
 msgstr "estás a tocar na cor %c"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "gira @turnLeft %nº"
+msgstr "gira @turnLeft %n º"
 
 msgid "turn @turnRight %n degrees"
-msgstr "gira @turnRight %nº"
+msgstr "gira @turnRight %n º"
 
 msgid "turn motor off"
 msgstr "desliga o motor"
@@ -421,7 +421,7 @@ msgstr "altera o estado do vídeo para %m.videoState"
 
 # 88%
 msgid "username"
-msgstr "nome de utilizador"
+msgstr "o nome de utilizador"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "%m.videoMotionType do vídeo em %m.stageOrThis"

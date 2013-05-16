@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-02 19:53+0200\n"
+"PO-Revision-Date: 2013-05-14 07:27+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -24,7 +24,7 @@ msgid "%b or %b"
 msgstr "%b veya %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribute sı %m.spriteOrStage in"
+msgstr "%m.attribute, %m.spriteOrStage 'in"
 
 msgid "%m.list contains %s"
 msgstr "%m.list listesinde %s var (mı?)"
@@ -65,7 +65,7 @@ msgid "change %m.effect effect by %n"
 msgstr "%m.effect etkisini %n arttır"
 
 msgid "change %m.var by %n"
-msgstr "%m.var'i %n arttır"
+msgstr "%m.var 'i %n arttır"
 
 msgid "change pen color by %n"
 msgstr "kalem rengini %n arttır"
@@ -143,7 +143,7 @@ msgid "Events"
 msgstr "Olaylar"
 
 msgid "forever"
-msgstr "sürekli"
+msgstr "sürekli tekrarla"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr "%n saniyede x:%n y:%n a git"
@@ -203,7 +203,7 @@ msgid "loudness"
 msgstr "ses şiddeti"
 
 msgid "More Blocks"
-msgstr "Kendi Bloklarım"
+msgstr "Özel Taşlar"
 
 msgid "Motion"
 msgstr "Hareket"
@@ -298,7 +298,7 @@ msgid "set %m.effect effect to %n"
 msgstr "%m.effect etkisini %n yap"
 
 msgid "set %m.var to %s"
-msgstr "%m.var, %s olsun"
+msgstr "%m.var , %s olsun"
 
 msgid "set instrument to %d.instrument"
 msgstr "çalgıyı %d.instrument yap"
@@ -333,7 +333,7 @@ msgid "set tempo to %n bpm"
 msgstr "tempoyu %n vuruş/dk yap"
 
 msgid "set video transparency to %n%"
-msgstr "video saydamlığını %n% yap"
+msgstr "video saydamlığını % %n yap"
 
 msgid "set volume to %n%"
 msgstr "ses şiddetini % %n yap"
@@ -424,7 +424,7 @@ msgid "username"
 msgstr "kullanıcı adı"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "video %m.videoMotionType, %m.stageOrThis üzerindeki"
+msgstr "video %m.videoMotionType , %m.stageOrThis üzerindeki"
 
 msgid "volume"
 msgstr "ses şiddeti"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-05-10 18:00+0200\n"
+"PO-Revision-Date: 2013-05-11 07:57+0200\n"
 "Last-Translator: Barry <barry@neville.dk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
@@ -38,13 +38,13 @@ msgid "acos"
 msgstr "arccos"
 
 msgid "Add boolean input:"
-msgstr "Tilføj boolesk inddata"
+msgstr "Tilføj boolesk inddata:"
 
 msgid "add comment"
 msgstr "tilføj kommentar"
 
 msgid "Add label text:"
-msgstr "Tilføj mærkningstekst"
+msgstr "Tilføj mærkningstekst:"
 
 msgid "Add number input:"
 msgstr "Tilføj inddata-tal:"
@@ -300,7 +300,7 @@ msgid "Creating..."
 msgstr "Opretter..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr "Aktuelt kan kun tal gemmes i skyvariabler. "
+msgstr "Aktuelt kan kun tal gemmes i skyvariabler."
 
 msgid "cut"
 msgstr "klip"
@@ -463,7 +463,7 @@ msgid "Human"
 msgstr "Menneskelig"
 
 msgid "Import"
-msgstr "importer"
+msgstr "Importer"
 
 msgid "Importing sound..."
 msgstr "Importerer lyd..."
@@ -614,7 +614,7 @@ msgid "New name"
 msgstr "Nyt navn"
 
 msgid "New sound:"
-msgstr "Ny lyd"
+msgstr "Ny lyd:"
 
 msgid "New sprite from camera"
 msgstr "Ny sprite fra kamera"
@@ -626,7 +626,7 @@ msgid "New Variable"
 msgstr "Ny variabel"
 
 msgid "No motion blocks"
-msgstr "Ingen bevægelses klodser "
+msgstr "Ingen bevægelses klodser"
 
 msgid "Not saved; network or server problem."
 msgstr "Ikke gemt; netværk eller server problem."
@@ -635,13 +635,13 @@ msgid "of"
 msgstr "af"
 
 msgid "off"
-msgstr "Slukket"
+msgstr "slukket"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "on"
-msgstr "Tændt"
+msgstr "tændt"
 
 msgid "on-flipped"
 msgstr "når omvendt"
@@ -668,7 +668,7 @@ msgid "Outdoors"
 msgstr "Udendørs"
 
 msgid "Paint new backdrop"
-msgstr "Tegn nyt bagtæppe "
+msgstr "Tegn nyt bagtæppe"
 
 msgid "Paint new costume"
 msgstr "Tegn nyt kostume"
@@ -716,7 +716,7 @@ msgid "random"
 msgstr "tilfældig"
 
 msgid "Record"
-msgstr "optag"
+msgstr "Optag"
 
 msgid "Record new sound"
 msgstr "Optag ny lyd"
@@ -904,19 +904,19 @@ msgid "Snare Drum"
 msgstr "Lilletromme"
 
 msgid "softer"
-msgstr ""
+msgstr "lavere"
 
 msgid "sound"
-msgstr ""
+msgstr "lyd"
 
 msgid "Sound"
-msgstr ""
+msgstr "Lyd"
 
 msgid "Sound Library"
-msgstr ""
+msgstr "Lydbibliotek"
 
 msgid "Sounds"
-msgstr ""
+msgstr "Lyde"
 
 msgid "space"
 msgstr "mellemrum"
@@ -946,25 +946,25 @@ msgid "sqrt"
 msgstr "kvrod"
 
 msgid "Square"
-msgstr ""
+msgstr "Firkant"
 
 msgid "Stage"
 msgstr "Scene"
 
 msgid "Stage selected:"
-msgstr ""
+msgstr "Udvalgt scene:"
 
 msgid "Steel Drum"
 msgstr "Ståltromme"
 
 msgid "stored on server"
-msgstr ""
+msgstr "gemt på serveren"
 
 msgid "Synth Lead"
-msgstr ""
+msgstr "Synth Lead"
 
 msgid "Synth Pad"
-msgstr ""
+msgstr "Synth Pad"
 
 msgid "Tambourine"
 msgstr "Tamburin"
@@ -974,7 +974,7 @@ msgid "tan"
 msgstr "tan"
 
 msgid "Text"
-msgstr ""
+msgstr "Tekst"
 
 msgid "that way"
 msgstr "mod uret"
@@ -992,9 +992,11 @@ msgstr ""
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
+"Projektet anvender Skydata ‒ en funktion kun tilgængelig hvis man er logget "
+"på."
 
 msgid "this script"
-msgstr ""
+msgstr "dette script"
 
 msgid "this sprite"
 msgstr "denne sprite"
@@ -1012,13 +1014,13 @@ msgid "Tips"
 msgstr "Idéer"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr ""
+msgstr "For at slette en klodsdefination, fjern først alt brug af klodsen."
 
 msgid "Transportation"
 msgstr "Transportmidler"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Trækbasun"
@@ -1050,10 +1052,10 @@ msgid "Undo Revert"
 msgstr "Fortryd tilbagevending"
 
 msgid "Ungroup"
-msgstr ""
+msgstr "Opsplit"
 
 msgid "unshared"
-msgstr ""
+msgstr "ikke delt"
 
 msgid "up"
 msgstr "op"
@@ -1062,40 +1064,40 @@ msgid "up arrow"
 msgstr "pil opad"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "Upload bagtæppe fra fil"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "Upload kostume fra fil"
 
 msgid "Upload from your computer"
 msgstr "Upload fra din computer"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "Upload lyd fra fil"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "Upload sprite fra fil"
 
 msgid "Uploading image..."
-msgstr ""
+msgstr "Uploader billede..."
 
 msgid "Uploading sound..."
-msgstr ""
+msgstr "Uploader lyd..."
 
 msgid "Uploading sprite..."
-msgstr ""
+msgstr "Uploader sprite..."
 
 msgid "variable"
-msgstr ""
+msgstr "variabel"
 
 msgid "Variable name"
-msgstr ""
+msgstr "Variabelnavn"
 
 msgid "Vector"
 msgstr "Vektor"
 
 msgid "Vector Mode"
-msgstr ""
+msgstr "Vektorformat"
 
 msgid "Vibraphone"
 msgstr "Vibrafon"
@@ -1104,46 +1106,48 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video motion"
-msgstr ""
+msgstr "videobevægelse"
 
 msgid "Video on:"
-msgstr ""
+msgstr "Video på:"
 
 msgid "Vocals"
-msgstr ""
+msgstr "Stemmer"
 
 msgid "volume"
-msgstr ""
+msgstr "lydstyrke"
 
 msgid "Walking"
 msgstr "Gående"
 
 msgid "Want to save? Click remix"
-msgstr ""
+msgstr "Vil du gemme? Klick remix"
 
 msgid "Which column do you want to import"
-msgstr ""
+msgstr "Hvilken kolonne vil du importere"
 
 msgid "whirl"
 msgstr "vrid"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Træklods"
 
 msgid "Wooden Flute"
 msgstr "Træfløjte"
 
 msgid "x position"
-msgstr ""
+msgstr "x-position"
 
 msgid "y position"
-msgstr ""
+msgstr "y-position"
 
 msgid "year"
-msgstr ""
+msgstr "år"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
+"Du kan ikke editere skydata i en andens projekt.<br>Eventuelle ændringer "
+"bliver kun midlertidige, ikke vedvarende."
 
 # 90%
 #, fuzzy

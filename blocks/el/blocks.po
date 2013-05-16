@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-07 16:48+0200\n"
+"PO-Revision-Date: 2013-05-12 12:28+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -333,8 +333,7 @@ msgid "set tempo to %n bpm"
 msgstr "όρισε το ρυθμό σε %n χτύπους το λεπτό"
 
 msgid "set video transparency to %n%"
-msgstr "όρισε τη διαφάνεια της προβολής από κάμερα σε "
-"%n%"
+msgstr "όρισε τη διαφάνεια προβολής κάμερας σε %n%"
 
 msgid "set volume to %n%"
 msgstr "όρισε την ένταση σε %n%"
@@ -408,24 +407,23 @@ msgid "turn @turnRight %n degrees"
 msgstr "στρίψε @turnRight %n μοίρες"
 
 msgid "turn motor off"
-msgstr "σβήσε τον κινητήρα"
+msgstr "απενεργοποίησε τον κινητήρα"
 
 msgid "turn motor on"
-msgstr "άναψε τον κινητήρα"
+msgstr "ενεργοποίησε τον κινητήρα"
 
 # 80%
 msgid "turn motor on for %n secs"
-msgstr "άναψε τον κινητήρα για %n δευτερόλεπτα"
+msgstr "ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα"
 
 msgid "turn video %m.videoState"
-msgstr "όρισε την προβολή από κάμερα σε %m.videoState"
+msgstr "%m.videoState την προβολή κάμερας"
 
 msgid "username"
 msgstr "Όνομα χρήστη"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "η %m.videoMotionType της προβολής από κάμερα "
-"σε %m.stageOrThis"
+msgstr "%m.videoMotionType προβολής κάμερας στο %m.stageOrThis"
 
 msgid "volume"
 msgstr "ένταση"

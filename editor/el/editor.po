@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-05-07 16:32+0200\n"
+"PO-Revision-Date: 2013-05-14 00:38+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -18,7 +18,7 @@ msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
-"<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud!</b><br>&nbsp;<br>Προς το "
+"<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud</b><br>&nbsp;<br>Προς το "
 "παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
 "συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
 "διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
@@ -73,7 +73,7 @@ msgid "asin"
 msgstr "asin"
 
 msgid "assets loaded"
-msgstr "Στοιχεία που έχουν φορτωθεί"
+msgstr "στοιχεία που έχουν φορτωθεί"
 
 msgid "atan"
 msgstr "atan"
@@ -129,7 +129,7 @@ msgid "Bitmap Mode"
 msgstr "Λειτουργία Bitmap"
 
 msgid "Block help"
-msgstr "Βοήθεια σχετικά με τα τετράγωνα εντολών"
+msgstr "Βοήθεια"
 
 msgid "Bongo"
 msgstr "Μπόγκο"
@@ -165,7 +165,7 @@ msgid "Camera"
 msgstr "Κάμερα"
 
 msgid "can drag in player:"
-msgstr "Δυνατότητα μετακίνησης κατά το τρέξιμο του έργου:"
+msgstr "Δυνατότητα μετακίνησης:"
 
 msgid "Cancel"
 msgstr "Ακύρωση"
@@ -331,7 +331,7 @@ msgid "direction"
 msgstr "κατεύθυνση"
 
 msgid "direction:"
-msgstr "κατεύθυνση:"
+msgstr "Κατεύθυνση:"
 
 msgid "don't rotate"
 msgstr "[να μην γίνεται περιστροφή]"
@@ -592,7 +592,7 @@ msgid "Nature"
 msgstr "Φύση"
 
 msgid "New"
-msgstr "Νέο"
+msgstr "Νέο Έργο"
 
 msgid "New backdrop from camera"
 msgstr "Νέο υπόβαθρο τραβηγμένο από την κάμερα"
@@ -637,13 +637,13 @@ msgid "of"
 msgstr "από"
 
 msgid "off"
-msgstr "Κλειστό"
+msgstr "Απενεργοποίησε"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "on"
-msgstr "Ανοικτό"
+msgstr "Ενεργοποίησε"
 
 msgid "on-flipped"
 msgstr "καθρεφτισμένο"
@@ -895,7 +895,7 @@ msgid "Slider Range"
 msgstr "Φάσμα Μετακύλισης"
 
 msgid "Small stage layout"
-msgstr "Πλάνο Μικρής Σκηνής"
+msgstr "Μικρό Σκηνικό"
 
 msgid "Smooth"
 msgstr "Εξομάλυνση"
@@ -922,7 +922,7 @@ msgid "space"
 msgstr "space"
 
 msgid "Space"
-msgstr "Space"
+msgstr "Διάστημα"
 
 msgid "Sports"
 msgstr "Αθλήματα"
@@ -996,7 +996,7 @@ msgid "this script"
 msgstr "αυτό το σενάριο"
 
 msgid "this sprite"
-msgstr "αυτό το αντικείμενο"
+msgstr "αντικείμενο αυτό"
 
 msgid "this way"
 msgstr "προς αυτήν την κατεύθυνση"
@@ -1076,13 +1076,13 @@ msgid "Upload sprite from file"
 msgstr "Μεταφόρτωση αντικειμένου από τον υπολογιστή"
 
 msgid "Uploading image..."
-msgstr "Γίνεται ανέβασμα της φωτογραφίας..."
+msgstr "Γίνεται μεταφόρτωση της φωτογραφίας..."
 
 msgid "Uploading sound..."
-msgstr "Γίνεται ανέβασμα του ήχου..."
+msgstr "Γίνεται μεταφόρτωση του ήχου..."
 
 msgid "Uploading sprite..."
-msgstr "Γίνεται ανέβασμα του αντικειμένου..."
+msgstr "Γίνεται μεταφόρτωση του αντικειμένου..."
 
 msgid "variable"
 msgstr "Μεταβλητή"
@@ -1124,7 +1124,7 @@ msgid "Which column do you want to import"
 msgstr "Ποια στήλη θέλετε να εισάγετε;"
 
 msgid "whirl"
-msgstr "στροβιλίσματος"
+msgstr "περιστροφής"
 
 msgid "Wood Block"
 msgstr "Τουβλάκι από ξύλο"
@@ -1143,8 +1143,8 @@ msgstr "χρόνος"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
-"Δεν μπορείτε να επεξεργαστείτε δεδομένα Cloud σε έργο κάποιου "
-"άλλου.<br>Οποιαδήποτε αλλαγή κάνετε στον Επεξεργαστή Έργων είναι προσωρινή "
+"Δεν μπορείτε να επεξεργαστείτε δεδομένα Cloud σε έργο άλλου "
+"χρήστη.<br>Οποιαδήποτε αλλαγή κάνετε στον Επεξεργαστή Έργων είναι προσωρινή "
 "και όχι μόνιμη."
 
 #~ msgid "Add a boolean input:"
