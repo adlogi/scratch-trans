@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-15 22:19+0200\n"
+"PO-Revision-Date: 2013-05-19 10:55+0200\n"
 "Last-Translator: ehermann <everton.hermann@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -49,11 +49,11 @@ msgstr "pergunte %s e espere a resposta"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "cenário #"
+msgstr "fundo de tela n°"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "nome do cenário"
+msgstr "nome do fundo de tela"
 
 msgid "broadcast %m.broadcast"
 msgstr "envie %m.broadcast a todo mundo"
@@ -98,7 +98,7 @@ msgid "clear graphic effects"
 msgstr "apague os efeitos gráficos"
 
 msgid "color %c is touching %c?"
-msgstr "a cor %c está encostando na cor %c?"
+msgstr "a cor %c está tocando na cor %c?"
 
 msgid "Control"
 msgstr "Controle"
@@ -222,7 +222,7 @@ msgstr "mova %n passos"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr "próximo cenário"
+msgstr "próximo fundo de tela"
 
 msgid "next costume"
 msgstr "próximo traje"
@@ -250,7 +250,7 @@ msgstr "toque o tambor %d.drum por %n batidas"
 
 # 83%
 msgid "play note %d.note for %n beats"
-msgstr "toque a nota %d.note durante %n batidas"
+msgstr "toque a nota %d.note por %n batidas"
 
 msgid "play sound %m.sound"
 msgstr "toque o  som %m.sound"
@@ -370,11 +370,11 @@ msgstr "pare todos os sons"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "mude para o cenário %m.backdrop"
+msgstr "mude para o fundo de tela %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "mude para cenário %m.backdrop e espere"
+msgstr "mude para o fundo de tela %m.backdrop e espere"
 
 msgid "switch costume to %m.costume"
 msgstr "mude para o traje %m.costume"
@@ -395,10 +395,10 @@ msgid "timer"
 msgstr "cronômetro"
 
 msgid "touching %m.touching?"
-msgstr "encostando em %m.touching?"
+msgstr "tocando em %m.touching?"
 
 msgid "touching color %c?"
-msgstr "encostando na cor %c?"
+msgstr "tocando na cor %c?"
 
 msgid "turn @turnLeft %n degrees"
 msgstr "gire @turnLeft %n graus"
@@ -451,7 +451,7 @@ msgstr "quando clicar em @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "quando o cenário mudar para %m.backdrop"
+msgstr "quando o fundo de tela mudar para %m.backdrop"
 
 msgid "when distance < %n"
 msgstr "quando a distância for < %n"
