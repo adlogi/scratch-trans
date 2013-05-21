@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-05-17 22:25+0200\n"
+"PO-Revision-Date: 2013-05-21 15:50+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -475,8 +475,10 @@ msgstr "Gitarre"
 msgid "Hand Clap"
 msgstr "Klatschen"
 
+# sollte als Menüeintrag 'Verstecken' sein, kollidiert aber mit hide in blocks.po
+#, fuzzy
 msgid "hide"
-msgstr "Verstecken"
+msgstr "verstecke dich"
 
 msgid "hour"
 msgstr "Stunde"
@@ -889,8 +891,10 @@ msgstr "veröffentlicht"
 msgid "Shift:"
 msgstr "Umschalttaste:"
 
+# sollte als Menüeintrag 'Anzeigen' oder 'Zeigen' heißen, kollidiert aber mit show in blocks.po
+#, fuzzy
 msgid "show"
-msgstr "Anzeigen"
+msgstr "zeige dich"
 
 msgid "show receivers"
 msgstr "Empfänger zeigen"
