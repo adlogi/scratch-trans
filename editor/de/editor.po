@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-05-22 21:45+0200\n"
+"PO-Revision-Date: 2013-05-22 22:08+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -40,7 +40,7 @@ msgstr "acos"
 
 # 90%
 msgid "Add boolean input:"
-msgstr "boolesches Feld:"
+msgstr "Boolesches Feld:"
 
 msgid "add comment"
 msgstr "Kommentar hinzufügen"
@@ -255,7 +255,7 @@ msgid "color"
 msgstr "Farbe"
 
 msgid "Color a shape"
-msgstr "Färbe eine Form ein"
+msgstr "Eine Kontur einfärben"
 
 msgid "Conga"
 msgstr "Conga"
@@ -694,7 +694,7 @@ msgid "Organ"
 msgstr "Orgel"
 
 msgid "Other"
-msgstr "Andere"
+msgstr "Sonstiges"
 
 # 82%
 msgid "other scripts in sprite"
@@ -725,7 +725,7 @@ msgid "Percussion"
 msgstr "Schlagwerk"
 
 msgid "photo1"
-msgstr "Photo1"
+msgstr "Foto1"
 
 msgid "Piano"
 msgstr "Klavier"
@@ -1017,8 +1017,9 @@ msgstr "Tamburin"
 msgid "tan"
 msgstr "tan"
 
+# im Rastermodus nur hinzufügen, im Vektormodus auch bearbeiten
 msgid "Text"
-msgstr "Text"
+msgstr "Textwerkzeug"
 
 # Motordrehsinn
 msgid "that way"
@@ -1062,7 +1063,7 @@ msgstr "Tipps"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
-"Ehe die Blockdefinition gelöscht werden kann, muss der Block zuerst aus "
+"Bevor die Blockdefinition gelöscht werden kann, muss der Block zuerst aus "
 "allen Skripten entfernt werden, in denen er verwendet wird."
 
 msgid "Transportation"
