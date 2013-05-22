@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Scratch Hebrew Version 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-02 05:52+0200\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"PO-Revision-Date: 2013-05-20 09:04+0200\n"
+"Last-Translator: MotiB <moti.ben.ari@gmail.com>\n"
 "Language-Team: Scratch Hebrew Translators <moti.ben.ari@gmail.com>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -110,7 +110,7 @@ msgid "create clone of %m.spriteOnly"
 msgstr "צור כפיל של %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr "%m.timeAndDate נוכחי"
+msgstr "%m.timeAndDate נוכחית"
 
 msgid "Data"
 msgstr "נתונים"
@@ -276,7 +276,7 @@ msgid "reset timer"
 msgstr "אפס מונה"
 
 msgid "rest for %n beats"
-msgstr "נח למשך %n פעימות"
+msgstr "נוח למשך %n פעימות"
 
 msgid "round %n"
 msgstr "עגל %n"
@@ -330,7 +330,7 @@ msgid "set tempo to %n bpm"
 msgstr "קבע קצב ל %n פעימות לדקה"
 
 msgid "set video transparency to %n%"
-msgstr "% %n ל ווידיאו שקיפות קבע"
+msgstr "קבע שקיפות וודיאיו ל %n%"
 
 msgid "set volume to %n%"
 msgstr "קבע עוצמת קול ל %n%"
@@ -413,14 +413,14 @@ msgid "turn motor on for %n secs"
 msgstr "הפעל מנוע ל %n שניות"
 
 msgid "turn video %m.videoState"
-msgstr "%m.videoState ל ווידיאו מצב שנה"
+msgstr "שנה מצב ווידיו ל %m.videoState"
 
 # 88%
 msgid "username"
 msgstr "שם משתמש"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "וודיאו %m.videoMotionType ב %m.stageOrThis"
+msgstr " %m.videoMotionType וודיאו של %m.stageOrThis"
 
 msgid "volume"
 msgstr "עוצמת קול"
@@ -451,7 +451,7 @@ msgid "when distance < %n"
 msgstr "כאשר מרחק > %n"
 
 msgid "when I receive %m.broadcast"
-msgstr "כשמתקבל מסר %m.broadcast"
+msgstr "כאשר מתקבל מסר %m.broadcast"
 
 msgid "when I start as a clone"
 msgstr "כשאני מופעל ככפיל"

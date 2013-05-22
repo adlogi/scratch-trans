@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-05-05 08:15+0200\n"
+"PO-Revision-Date: 2013-05-19 15:32+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -18,7 +18,7 @@ msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
-"<b>info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu toetatakse ainult "
+"<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu toetatakse ainult "
 "arve<br>Vestluste ruumid ei ole lubatud ja eemaldatakse<br>Täiendav info, <a "
 "href= target=>vaata pilveandmete FAQ!</a>"
 
@@ -62,7 +62,7 @@ msgid "all"
 msgstr "kõik"
 
 msgid "all around"
-msgstr "ksuvaline"
+msgstr "suvaline"
 
 msgid "Animal"
 msgstr "Loom"
@@ -115,7 +115,7 @@ msgid "Backdrops"
 msgstr "Taustad"
 
 msgid "Backpack"
-msgstr "Pagas"
+msgstr "Seljakott"
 
 msgid "Bass"
 msgstr "Bass"
@@ -133,7 +133,7 @@ msgid "Bitmap Mode"
 msgstr "Rastergraafika"
 
 msgid "Block help"
-msgstr "Abiinfo plokk"
+msgstr "Info ploki kohta"
 
 msgid "Bongo"
 msgstr "Bongo"
@@ -187,7 +187,7 @@ msgid "Category"
 msgstr "Kategooria"
 
 msgid "ceiling"
-msgstr "lagi"
+msgstr "ceiling"
 
 msgid "Cello"
 msgstr "Tšello"
@@ -253,10 +253,10 @@ msgid "Connecting to Cloud data server..."
 msgstr "Ühendamine pilveandmete serveriga..."
 
 msgid "Convert to bitmap"
-msgstr "Muuda rastergraafikaks"
+msgstr "Rastergraafikasse"
 
 msgid "Convert to vector"
-msgstr "Muuda vektorgraafikaks"
+msgstr "Vektorgraafikasse"
 
 msgid "Converting mp3..."
 msgstr "Mp3 teisendamine..."
@@ -304,7 +304,7 @@ msgid "Cowbell"
 msgstr "Karjakell"
 
 msgid "Crash Cymbal"
-msgstr "Crash Cymbal"
+msgstr "Löögi taldrikut"
 
 msgid "Creating..."
 msgstr "Loomine..."
@@ -375,7 +375,7 @@ msgid "Edit"
 msgstr "Redigeeri"
 
 msgid "Edit Block"
-msgstr "Redigeeri plokk"
+msgstr "Redigeeri ploki"
 
 msgid "Effects"
 msgstr "Efektid"
@@ -396,7 +396,7 @@ msgid "Erase"
 msgstr "Kustuta"
 
 msgid "Eraser width:"
-msgstr "Kustutaja:"
+msgstr "Kustutaja laius:"
 
 msgid "fade in"
 msgstr "tuhmumine sisse"
@@ -408,7 +408,7 @@ msgid "Fantasy"
 msgstr "Fantaasia"
 
 msgid "Features"
-msgstr "V'imalused"
+msgstr "Võimalused"
 
 msgid "File"
 msgstr "Fail"
@@ -426,7 +426,7 @@ msgid "Flip up-down"
 msgstr "Vertikaalne peegeldus"
 
 msgid "floor"
-msgstr "põrand"
+msgstr "floor"
 
 msgid "Flute"
 msgstr "Flööt"
@@ -441,7 +441,7 @@ msgid "For this sprite only"
 msgstr "Ainult selle spraidi jaoks"
 
 msgid "Forward a layer"
-msgstr "Üks kiht edasi"
+msgstr "Üks kiht ettepoole"
 
 msgid "ghost"
 msgstr "kummitus"
@@ -480,7 +480,7 @@ msgid "Importing sound..."
 msgstr "Heli importimine..."
 
 msgid "Indoors"
-msgstr "Väljas"
+msgstr "Õues"
 
 msgid "Installing..."
 msgstr "Instaleerimine..."
@@ -550,7 +550,7 @@ msgid "Marimba"
 msgstr "Marimba"
 
 msgid "Max"
-msgstr "Maks"
+msgstr "Max"
 
 msgid "meow"
 msgstr "mäu"
@@ -628,7 +628,7 @@ msgstr "Uus nimi"
 
 # 90%
 msgid "New sound:"
-msgstr "Uus heli:"
+msgstr "Uus helind:"
 
 msgid "New sprite from camera"
 msgstr "Uus sprait kaameraga"
@@ -646,7 +646,7 @@ msgid "Not saved; network or server problem."
 msgstr "Ei ole salvestatud: võrgu või serveri probleem."
 
 msgid "of"
-msgstr " "
+msgstr "  "
 
 msgid "off"
 msgstr "väljas"
@@ -796,7 +796,7 @@ msgid "right arrow"
 msgstr "paremnool"
 
 msgid "rotation style:"
-msgstr "pööramise stiil:"
+msgstr "pööramisstiil:"
 
 msgid "Run without screen refresh"
 msgstr "Täida ekraani värskendamata"
@@ -849,7 +849,7 @@ msgid "select all"
 msgstr "vali kõik"
 
 msgid "Select and duplicate"
-msgstr "Selecti ja paljunda"
+msgstr "Selekti ja paljunda"
 
 msgid "Send to back"
 msgstr "Saada tagaplaanile"
@@ -865,10 +865,10 @@ msgid "Share"
 msgstr "Jaga"
 
 msgid "shared"
-msgstr "ühiskasutuses"
+msgstr "jagatud"
 
 msgid "Shift:"
-msgstr "Vahetus:"
+msgstr "Shift klahv:"
 
 msgid "show"
 msgstr "näita"
@@ -883,7 +883,7 @@ msgid "show:"
 msgstr "näita:"
 
 msgid "Shrink"
-msgstr "Kahanda"
+msgstr "Vähenda"
 
 msgid "Side Stick"
 msgstr "Külgepanema"
@@ -913,13 +913,13 @@ msgid "Slider Range"
 msgstr "Liuguri vahemik"
 
 msgid "Small stage layout"
-msgstr "Vikene lava"
+msgstr "Väikene lava"
 
 msgid "Smooth"
 msgstr "Sile"
 
 msgid "Snare Drum"
-msgstr "Snare Drum"
+msgstr "Soolotrumm"
 
 msgid "softer"
 msgstr "pehmem"
@@ -935,7 +935,7 @@ msgid "Sound Library"
 msgstr "Helindite teek"
 
 msgid "Sounds"
-msgstr "Helid"
+msgstr "Helindid"
 
 msgid "space"
 msgstr "tühik"
@@ -1006,7 +1006,7 @@ msgstr "Asjad"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Projekt saab \"kasutajanime\" abil teha kindlaks, kes seda kasutab. Oma "
+"Projekt saab “kasutajanime” abil teha kindlaks, kes seda kasutab. Oma "
 "identiteedi peitmiseks logige välja enne projekti kasutamist."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
@@ -1166,7 +1166,7 @@ msgstr "aasta"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
-"Sa ei saa muuta teise projekti pilveandmed<br>Muudatused, mis sa teed "
+"Sa ei saa muuta teise projekti pilveandmeid<br>Muudatused, mis sa teed "
 "redaktoris on ajutised ja mitte püsivad."
 
 #~ msgid "#"

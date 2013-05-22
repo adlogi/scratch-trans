@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:45+0200\n"
-"PO-Revision-Date: 2013-05-07 07:53+0200\n"
+"PO-Revision-Date: 2013-05-20 09:07+0200\n"
 "Last-Translator: MotiB <moti.ben.ari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: he\n"
@@ -37,7 +37,6 @@ msgid "acos"
 msgstr "acos"
 
 # 90%
-#, fuzzy
 msgid "Add boolean input:"
 msgstr "הוסף קלט בוליאני:"
 
@@ -48,12 +47,10 @@ msgid "Add label text:"
 msgstr "הוסף מחרוזת תווית:"
 
 # 89%
-#, fuzzy
 msgid "Add number input:"
 msgstr "הוסף קלט מספר:"
 
 # 89%
-#, fuzzy
 msgid "Add string input:"
 msgstr "הוסף קלט מחרוזת:"
 
@@ -88,7 +85,6 @@ msgid "Back a layer"
 msgstr "שכבה לאחור"
 
 # 87%
-#, fuzzy
 msgid "Backdrop"
 msgstr "רקע"
 
@@ -111,7 +107,6 @@ msgid "backdrops"
 msgstr "רקעים"
 
 # 88%
-#, fuzzy
 msgid "Backdrops"
 msgstr "רקעים"
 
@@ -197,16 +192,16 @@ msgid "Choir"
 msgstr "מקהלה"
 
 msgid "Choose backdrop from library"
-msgstr ""
+msgstr "בחר רקע המספריה"
 
 msgid "Choose costume from library"
-msgstr ""
+msgstr "בחר תלבושת מהספריה"
 
 msgid "Choose sound from library"
-msgstr ""
+msgstr "בחר צליל מהספריה"
 
 msgid "Choose sprite from library"
-msgstr ""
+msgstr "בחר דמות מהספריה"
 
 msgid "Circle"
 msgstr "עיגול"
@@ -272,7 +267,6 @@ msgid "cos"
 msgstr "cos"
 
 # 75%
-#, fuzzy
 msgid "Costume"
 msgstr "תלבושת1"
 
@@ -326,7 +320,6 @@ msgid "day of week"
 msgstr "יום בשבוע"
 
 # 83%
-#, fuzzy
 msgid "Delete"
 msgstr "מחק"
 
@@ -410,7 +403,7 @@ msgid "Fantasy"
 msgstr "פנטסיה"
 
 msgid "Features"
-msgstr ""
+msgstr "אפשרויות"
 
 msgid "File"
 msgstr "קובץ"
@@ -449,13 +442,13 @@ msgid "ghost"
 msgstr "רוח רפאים"
 
 msgid "Go to My Stuff"
-msgstr "לך לחפצים שלי"
+msgstr "לך לדברים שלי"
 
 msgid "Group"
 msgstr "קבץ"
 
 msgid "Grow"
-msgstr "גדל"
+msgstr "הגדל"
 
 msgid "Guiro"
 msgstr "גווירו"
@@ -518,9 +511,8 @@ msgid "Line width:"
 msgstr "רוחב קו:"
 
 # 75%
-#, fuzzy
 msgid "list"
-msgstr "אחרון"
+msgstr "רשימה"
 
 msgid "List name"
 msgstr "שם רשימה"
@@ -583,7 +575,7 @@ msgid "mouse-pointer"
 msgstr "סמן העכבר"
 
 msgid "Multiple"
-msgstr "מרובים"
+msgstr "בחירה מרובה"
 
 msgid "Music and Dance"
 msgstr "מוסיקה וריקוד"
@@ -595,7 +587,7 @@ msgid "Music Loops"
 msgstr "לולאות מוסיקה"
 
 msgid "My Stuff"
-msgstr "החפצים שלי"
+msgstr "הדברים שלי"
 
 msgid "myself"
 msgstr "עצמי"
@@ -712,7 +704,6 @@ msgid "Piano"
 msgstr "פסנתר"
 
 # 92%
-#, fuzzy
 msgid "Pick up color"
 msgstr "בחר צבע"
 
@@ -747,7 +738,6 @@ msgid "Rectangle"
 msgstr "מלבן"
 
 # 75%
-#, fuzzy
 msgid "Redo"
 msgstr "בצע מחדש"
 
@@ -830,7 +820,6 @@ msgid "Saxophone"
 msgstr "סקסופון"
 
 # 85%
-#, fuzzy
 msgid "Script"
 msgstr "תסריטים"
 
@@ -838,9 +827,8 @@ msgid "Scripts"
 msgstr "תסריטים"
 
 # 87%
-#, fuzzy
 msgid "Scripts:"
-msgstr "תסריטים"
+msgstr "תסריטים:"
 
 msgid "second"
 msgstr "שניה"
@@ -861,7 +849,6 @@ msgid "Send to back"
 msgstr "העבר לאחור"
 
 # 88%
-#, fuzzy
 msgid "Set costume center"
 msgstr "קבע את מרכז התלבושת"
 
@@ -875,7 +862,7 @@ msgid "shared"
 msgstr "משותף"
 
 msgid "Shift:"
-msgstr "הזז:"
+msgstr "אות גדולה:"
 
 msgid "show"
 msgstr "הצג"
@@ -891,7 +878,7 @@ msgid "show:"
 msgstr "הצג:"
 
 msgid "Shrink"
-msgstr "קבץ"
+msgstr "הקטן"
 
 msgid "Side Stick"
 msgstr "Side Stick"
@@ -936,7 +923,6 @@ msgid "sound"
 msgstr "צליל"
 
 # 80%
-#, fuzzy
 msgid "Sound"
 msgstr "צליל"
 
@@ -947,12 +933,11 @@ msgid "Sounds"
 msgstr "צלילים"
 
 msgid "space"
-msgstr "מקש רווח"
+msgstr "רווח"
 
 # 80%
-#, fuzzy
 msgid "Space"
-msgstr "מקש רווח"
+msgstr "רווח"
 
 msgid "Sports"
 msgstr "ספורט"
@@ -1051,7 +1036,6 @@ msgid "Trombone"
 msgstr "טרומבון"
 
 # 90%
-#, fuzzy
 msgid "Turbo mode"
 msgstr "מצב טורבו"
 
@@ -1062,7 +1046,6 @@ msgid "Type"
 msgstr "הקלד"
 
 # 75%
-#, fuzzy
 msgid "Undelete"
 msgstr "מחק"
 
@@ -1070,7 +1053,6 @@ msgid "Underwater"
 msgstr "תת-מימי"
 
 # 75%
-#, fuzzy
 msgid "Undo"
 msgstr "בטל"
 

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-14 07:27+0200\n"
+"PO-Revision-Date: 2013-05-22 10:38+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -98,13 +98,13 @@ msgid "clear graphic effects"
 msgstr "görsel etkileri temizle"
 
 msgid "color %c is touching %c?"
-msgstr "%c rengi %c rengine değdi mi?"
+msgstr "%c rengi %c rengine değdi (mi?)"
 
 msgid "Control"
 msgstr "Kontrol"
 
 msgid "costume #"
-msgstr "kılık #"
+msgstr "kılık no"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "%m.spriteOnly in ikizini yarat"
@@ -146,13 +146,13 @@ msgid "forever"
 msgstr "sürekli tekrarla"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n saniyede x:%n y:%n a git"
+msgstr "%n sn.de x:%n y:%n a süzül"
 
 msgid "go back %n layers"
 msgstr "%n katman alta in"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse 'ne git"
+msgstr "%m.spriteOrMouse 'na git"
 
 msgid "go to front"
 msgstr "üste çık"
@@ -395,10 +395,10 @@ msgid "timer"
 msgstr "süre ölçer"
 
 msgid "touching %m.touching?"
-msgstr "%m.touching a değdi mi?"
+msgstr "%m.touching a değdi (mi?)"
 
 msgid "touching color %c?"
-msgstr "%c rengine değdi mi?"
+msgstr "%c rengine değdi (mi?)"
 
 msgid "turn @turnLeft %n degrees"
 msgstr "@turnLeft %n derece dön"

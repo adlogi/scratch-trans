@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-05 21:53+0200\n"
+"PO-Revision-Date: 2013-05-16 12:48+0200\n"
 "Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lt\n"
@@ -24,8 +24,10 @@ msgstr "%b ir %b"
 msgid "%b or %b"
 msgstr "%b arba %b"
 
+# veikėjo %m.spriteOrStage %m.attribute
+#, fuzzy
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "veikėjo %m.spriteOrStage %m.attribute"
+msgstr " %m.attribute veikėjo %m.spriteOrStage"
 
 msgid "%m.list contains %s"
 msgstr "sąraše %m.list yra %s?"
@@ -179,13 +181,14 @@ msgstr "jeigu %b :"
 msgid "if on edge, bounce"
 msgstr "jeigu priėjai kraštą, atšok"
 
+# į %m.list vietą %d.listItem įterpk %s
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "į %m.list vietą %d.listItem įterpk %s"
+msgstr "įterpk %s į %d.listItem vietą %m.list sąraše"
 
 # alternative: "elementas nr. %d.listItem iš %m.list"
 # or: %m.list [ %d.listItem ]
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list nr. %d.listItem"
+msgstr "%d.listItem-tais elementas iš %m.list"
 
 msgid "join %s %s"
 msgstr "sujunk tekstą %s ir %s"
@@ -429,8 +432,9 @@ msgstr "įjunk variklį"
 msgid "turn motor on for %n secs"
 msgstr "įjunk variklį %n sekundėms"
 
+#, fuzzy
 msgid "turn video %m.videoState"
-msgstr "vaizdo sekimas = %m.videoState"
+msgstr "filmuojamo vaizdo sekimą %m.videoState"
 
 msgid "username"
 msgstr "naudotojo vardas"

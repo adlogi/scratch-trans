@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-05 17:12+0200\n"
+"PO-Revision-Date: 2013-05-21 00:43+0200\n"
 "Last-Translator: karihj <kari.holm.johannesen@gmail.com>\n"
 "Language-Team: \n"
 "Language: fo\n"
@@ -59,7 +59,7 @@ msgstr "Linux-Font"
 # ##########################################
 # 
 msgid "%H sensor value"
-msgstr ""
+msgstr "virðið á sensorinum %H"
 
 msgid "%L contains %s"
 msgstr "%L inniheldur %s"
@@ -77,7 +77,7 @@ msgid "%f of %n"
 msgstr "%f av %n"
 
 msgid "%n mod %n"
-msgstr ""
+msgstr "%n modulus %n"
 
 msgid "add %s to %L"
 msgstr "legg %s afturat %L"
@@ -197,7 +197,7 @@ msgid "join %s %s"
 msgstr "%s sambindir %s"
 
 msgid "key %k pressed?"
-msgstr "um trýst er á knøttin %k?"
+msgstr "um trýst er á %k?"
 
 msgid "length of %L"
 msgstr "longd á %L"
@@ -422,7 +422,7 @@ msgid "wait until %b"
 msgstr "bíða til %b"
 
 msgid "when %k key pressed"
-msgstr "tá trýst verður á %k knøttin"
+msgstr "tá trýst verður á %k"
 
 msgid "when %m clicked"
 msgstr "tá trýst verður á %m "
@@ -669,7 +669,7 @@ msgid "enable remote sensor connections"
 msgstr "tendra fjarsensor íbindingar"
 
 msgid "Enter presentation mode"
-msgstr ""
+msgstr "Vís sum framløgu"
 
 msgid "Eraser"
 msgstr "Viskileður"
@@ -750,16 +750,16 @@ msgid "Flash blocks (slow)"
 msgstr ""
 
 msgid "Flip horizontally"
-msgstr ""
+msgstr "Vend vatnrætt"
 
 msgid "Flip vertically"
-msgstr ""
+msgstr "Vend loddrætt"
 
 msgid "For all sprites"
-msgstr ""
+msgstr "Fyri allar tekningar"
 
 msgid "For this sprite only"
-msgstr ""
+msgstr "Bara fyri hesa tekningina"
 
 msgid "Game"
 msgstr "Spæl"
@@ -771,10 +771,10 @@ msgid "Get the last thing deleted"
 msgstr ""
 
 msgid "Getting Started"
-msgstr ""
+msgstr "Soleiðis byrjar tú"
 
 msgid "ghost"
-msgstr ""
+msgstr "spøkilsi"
 
 msgid "Go To Scratch Website"
 msgstr "Far til Scratch vevsíðuna"
@@ -912,28 +912,28 @@ msgid "meow"
 msgstr "mjavv"
 
 msgid "Message name:"
-msgstr ""
+msgstr "Navn á boði:"
 
 msgid "Min:"
-msgstr ""
+msgstr "Min:"
 
 msgid "mod"
-msgstr ""
+msgstr "mod"
 
 msgid "more"
-msgstr ""
+msgstr "meira"
 
 msgid "More tags:"
-msgstr ""
+msgstr "Fleiri frámerki:"
 
 msgid "mosaic"
-msgstr ""
+msgstr "mosaik"
 
 msgid "mouse x:"
-msgstr ""
+msgstr "mús x:"
 
 msgid "mouse y:"
-msgstr ""
+msgstr "mús y:"
 
 msgid "mouse-pointer"
 msgstr ""
@@ -948,25 +948,25 @@ msgid "My Projects"
 msgstr ""
 
 msgid "new"
-msgstr ""
+msgstr "nýtt"
 
 msgid "New"
-msgstr ""
+msgstr "Nýtt"
 
 msgid "New background:"
-msgstr ""
+msgstr "Nýggj bakgrund:"
 
 msgid "New costume:"
-msgstr ""
+msgstr "Nýggjur búni:"
 
 msgid "New file name?"
-msgstr ""
+msgstr "Nýggja navnið á fíluni?"
 
 msgid "New Filename:"
-msgstr ""
+msgstr "Nýtt navn á fílu:"
 
 msgid "New sound:"
-msgstr ""
+msgstr "Nýtt ljóð:"
 
 msgid "New Sprite"
 msgstr "Nýggj tekning"
@@ -975,43 +975,43 @@ msgid "New sprite:"
 msgstr "Nýggj tekning:"
 
 msgid "No"
-msgstr ""
+msgstr "Nei"
 
 msgid "No MIDI ports currently available."
-msgstr ""
+msgstr "Eingi MIDI portur eru tøk í løtuni."
 
 msgid "No motion blocks"
-msgstr ""
+msgstr "Eingir rørslu-blokkar"
 
 msgid "no scripts"
 msgstr "eingi boðrit"
 
 msgid "No serial ports found"
-msgstr ""
+msgstr "Eingi serial-portur eru funnin"
 
 msgid "No variables."
-msgstr ""
+msgstr "Eingir brigdlar."
 
 msgid "Normal"
-msgstr ""
+msgstr "Vanligt"
 
 msgid "normal readout"
 msgstr ""
 
 msgid "Off"
-msgstr ""
+msgstr "Sløkk"
 
 msgid "OK"
-msgstr ""
+msgstr "Í lagi"
 
 msgid "On"
-msgstr ""
+msgstr "Tendrað"
 
 msgid "only face left-right"
 msgstr ""
 
 msgid "Open"
-msgstr ""
+msgstr "Lat upp"
 
 msgid "Open a Scratch project"
 msgstr ""
@@ -1020,52 +1020,52 @@ msgid "Open Project"
 msgstr ""
 
 msgid "or"
-msgstr ""
+msgstr "ella"
 
 msgid "Paint"
-msgstr ""
+msgstr "Tekna"
 
 msgid "Paint Editor"
-msgstr ""
+msgstr "Tekni-ritil"
 
 msgid "Paint new sprite"
 msgstr "Tekna nýggja tekning"
 
 msgid "Paintbrush"
-msgstr ""
+msgstr "Málipensil"
 
 msgid "Password:"
-msgstr ""
+msgstr "Loyniorð:"
 
 msgid "Percent? (100 gives original size)"
-msgstr ""
+msgstr "Prosent? (100 vísir upprunastøddina)"
 
 msgid "Pictures"
-msgstr ""
+msgstr "Myndir"
 
 msgid "pixelate"
-msgstr ""
+msgstr "pixelera"
 
 msgid "play"
-msgstr ""
+msgstr "spæl"
 
 msgid "Please enter a number"
-msgstr ""
+msgstr "Vinaliga skriva eitt nummar"
 
 msgid "pop"
-msgstr ""
+msgstr "poppur"
 
 msgid "Position the cross-hair to set the rotation center"
 msgstr ""
 
 msgid "Preparing project..."
-msgstr ""
+msgstr "Fyrireikar verkætlan..."
 
 msgid "Project author:"
-msgstr ""
+msgstr "Høvundur á verkætlanini:"
 
 msgid "Project name"
-msgstr ""
+msgstr "Navn á verkætlan"
 
 msgid "Project Notes"
 msgstr ""
@@ -1077,31 +1077,32 @@ msgid "Project uploaded."
 msgstr "Verkætlanin er nú løgd út."
 
 msgid "Projects"
-msgstr ""
+msgstr "Verkætlanir"
 
 msgid "Quit"
-msgstr ""
+msgstr "Sløkk"
 
 msgid "Quit Scratch"
-msgstr ""
+msgstr "Sløkk Scratch"
 
 msgid "Reading"
-msgstr ""
+msgstr "Innlesur"
 
 msgid "record"
-msgstr ""
+msgstr "tak upp"
 
 msgid "Record"
-msgstr ""
+msgstr "Tak upp"
 
 msgid "recording"
-msgstr ""
+msgstr "tekur upp"
 
 msgid "Rectangle tool (draw outlined or filled rectangle or square)"
 msgstr ""
+"Amboð til rætthyrningar (tekna kant ella fyltan ferhyrning ella rætthyrning)"
 
 msgid "Redo"
-msgstr ""
+msgstr "Ger aftur"
 
 msgid "Reference Guide"
 msgstr ""
@@ -1116,7 +1117,7 @@ msgid "resistance"
 msgstr ""
 
 msgid "resize this sprite"
-msgstr ""
+msgstr "broyt støddina á tekningini"
 
 msgid "reverse"
 msgstr ""
@@ -1128,10 +1129,10 @@ msgid "right arrow"
 msgstr "høgripílur"
 
 msgid "Rotate clock-wise"
-msgstr ""
+msgstr "Snara við klokkuni"
 
 msgid "Rotate counter-clock-wise"
-msgstr ""
+msgstr "Snara móti klokkuni"
 
 msgid "rotate this sprite"
 msgstr ""
@@ -1143,43 +1144,43 @@ msgid "Save"
 msgstr "Goym"
 
 msgid "Save a copy of the current project"
-msgstr ""
+msgstr "Goym eitt avrit av verkætkanini"
 
 msgid "Save As"
 msgstr "Goym sum"
 
 msgid "Save changes before quitting?"
-msgstr ""
+msgstr "Goym broytingarnar áðrenn tú sløkkir?"
 
 msgid "Save failed"
-msgstr ""
+msgstr "Tað eydnaðist ikki at goyma"
 
 msgid "save picture of scripts"
-msgstr "goym myndir av boðritum"
+msgstr "goym eina mynd av boðritum"
 
 msgid "save picture of stage..."
-msgstr ""
+msgstr "goym myndir av pallinum..."
 
 msgid "Save Project"
-msgstr ""
+msgstr "Goym verkætlan"
 
 msgid "Save Scripts Snapshot"
-msgstr ""
+msgstr "Goym snarmynd av boðriti"
 
 msgid "Save Stage Shot"
 msgstr ""
 
 msgid "Save the current project"
-msgstr ""
+msgstr "Goym verkætlanina"
 
 msgid "Save the current project?"
-msgstr ""
+msgstr "Goyma verkætlanina?"
 
 msgid "Save this project"
 msgstr "Goym verkætlanina"
 
 msgid "Scripts"
-msgstr "Rit við boðum"
+msgstr "Boðrit"
 
 msgid "select serial/USB port"
 msgstr ""
@@ -1269,7 +1270,7 @@ msgid "Stamp tool (select area, then stamp copies of it)"
 msgstr ""
 
 msgid "Start green flag scripts"
-msgstr ""
+msgstr "Byrja grønt flag boðrit"
 
 msgid "Start Single Stepping"
 msgstr ""
