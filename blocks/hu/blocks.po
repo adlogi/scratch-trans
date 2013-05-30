@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-19 10:12+0200\n"
-"Last-Translator: Péter <bernatp@hotmail.hu>\n"
+"PO-Revision-Date: 2013-05-30 14:45+0200\n"
+"Last-Translator: rudolfwg <rudolf.wg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -50,7 +50,7 @@ msgstr "kérdezd meg: %s és várj"
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #, fuzzy
 msgid "backdrop #"
-msgstr "háttér"
+msgstr "háttér sorszáma"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
@@ -108,31 +108,31 @@ msgid "costume #"
 msgstr "jelmez"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "%m.spriteOnly klónozása"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "jelenlegi %m.timeAndDate"
 
 msgid "Data"
 msgstr "Adatok"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "napok 2000 óta"
 
 msgid "define"
-msgstr ""
+msgstr "legyen"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "töröld %m.list %y elemét"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "ez a klón törlődjön"
 
 msgid "direction"
 msgstr "irány"
 
 msgid "distance"
-msgstr ""
+msgstr "távolság"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "távolság: %m.spriteOrMouse"
@@ -165,13 +165,13 @@ msgid "hide"
 msgstr "tűnj el"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "%m.list tűnjön el"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "%m.var tűnjön el"
 
 msgid "if %b then"
-msgstr ""
+msgstr "ha %b akkor"
 
 msgid "if on edge, bounce"
 msgstr "ha szélen vagy, pattanj vissza"
@@ -204,7 +204,7 @@ msgid "loudness"
 msgstr "hangerő"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Egyebek"
 
 msgid "Motion"
 msgstr "Mozgás"
@@ -222,9 +222,8 @@ msgid "move %n steps"
 msgstr "menj %n lépést"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
-msgstr "válts hátteret"
+msgstr "következő háttér"
 
 msgid "next costume"
 msgstr "válts jelmezt"
@@ -251,9 +250,8 @@ msgid "play drum %d.drum for %n beats"
 msgstr "dobolj %d.drum%n ütemig"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "szóljon %d.note%n ütemig"
+msgstr "%d.note szóljon %n ütemig"
 
 msgid "play sound %m.sound"
 msgstr "játszd le: %m.sound"
@@ -309,18 +307,18 @@ msgstr "hangszer legyen %d.instrument"
 # 89%
 #, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "motort irányba %m.motorDirection"
+msgstr "motor iránya legyen %m.motorDirection"
 
 # 77%
 #, fuzzy
 msgid "set motor power %n"
-msgstr "motor teljesítmény %n"
+msgstr "motor teljesítmény legyen %n"
 
 msgid "set pen color to %c"
 msgstr "tollszín legyen %c"
 
 msgid "set pen color to %n"
-msgstr "tollszín legyen %c"
+msgstr "tollszín legyen %n"
 
 msgid "set pen shade to %n"
 msgstr "tollárnyalat legyen %n"
@@ -353,10 +351,10 @@ msgid "show"
 msgstr "jelenj meg"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "%m.list látsszon"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "%m.var látsszon"
 
 msgid "size"
 msgstr "méret"
@@ -375,14 +373,14 @@ msgstr "minden hangot állíts le"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "a háttér legyen %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
 msgstr ""
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "jelmez legyen %m.costume"
 
 msgid "tempo"
 msgstr "tempó"
@@ -394,7 +392,7 @@ msgid "think %s for %n secs"
 msgstr "gondold: %s%n mp-ig"
 
 msgid "tilt"
-msgstr ""
+msgstr "dőlés"
 
 msgid "timer"
 msgstr "óra"
@@ -406,7 +404,7 @@ msgid "touching color %c?"
 msgstr "érintesz %c színt?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "fordulj @turnLeft %n fokot"
 
 msgid "turn @turnRight %n degrees"
 msgstr ""
@@ -426,7 +424,7 @@ msgid "turn video %m.videoState"
 msgstr ""
 
 msgid "username"
-msgstr ""
+msgstr "felhasználónév"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr ""
@@ -449,29 +447,29 @@ msgid "when %m.key key pressed"
 msgstr "%m.key lenyomásakor"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "amikor %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "@greenFlag kattintásakor"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "amikor a háttér erre vált: %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "amikor távolság < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "amikor %m.broadcast-t kapok"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "amikor klónként indulok"
 
 msgid "when this sprite clicked"
 msgstr ""
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "amikor dőlés = %n"
 
 msgid "x position"
 msgstr "x hely"
