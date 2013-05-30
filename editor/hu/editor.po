@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:45+0200\n"
-"PO-Revision-Date: 2013-05-30 15:51+0200\n"
+"PO-Revision-Date: 2013-05-30 18:04+0200\n"
 "Last-Translator: rudolfwg <rudolf.wg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -56,7 +56,7 @@ msgid "all"
 msgstr "minden"
 
 msgid "all around"
-msgstr ""
+msgstr "körbefordítható"
 
 msgid "Animal"
 msgstr "Állat"
@@ -92,13 +92,14 @@ msgid "Backdrop Library"
 msgstr "Háttérkönyvtár"
 
 msgid "backdrop name"
-msgstr ""
+msgstr "háttér neve"
 
 msgid "backdrop1"
 msgstr "háttér1"
 
+# Egyes számban, mert "<db> háttér" alakban jelenik meg.
 msgid "backdrops"
-msgstr ""
+msgstr "háttér"
 
 msgid "Backdrops"
 msgstr "Hátterek"
@@ -116,7 +117,7 @@ msgid "Bassoon"
 msgstr "Fagott"
 
 msgid "Bitmap"
-msgstr ""
+msgstr "Raszter"
 
 msgid "Bitmap Mode"
 msgstr "Raszterkép mód"
@@ -209,7 +210,7 @@ msgid "Claves"
 msgstr "Claves"
 
 msgid "Clear"
-msgstr ""
+msgstr "Törlés"
 
 msgid "clear senders/receivers"
 msgstr ""
@@ -224,10 +225,11 @@ msgid "Closed Hi-Hat"
 msgstr "Zárt cin"
 
 msgid "Cloud"
-msgstr ""
+msgstr "Felhő"
 
+#, fuzzy
 msgid "Cloud data"
-msgstr ""
+msgstr "Felhő adat"
 
 msgid "color"
 msgstr "szín"
@@ -305,10 +307,10 @@ msgid "D connected"
 msgstr ""
 
 msgid "date"
-msgstr ""
+msgstr "dátum"
 
 msgid "day of week"
-msgstr ""
+msgstr "hét napja"
 
 # 83%
 #, fuzzy
@@ -322,13 +324,13 @@ msgid "delete variable"
 msgstr ""
 
 msgid "direction"
-msgstr ""
+msgstr "irány"
 
 msgid "direction:"
-msgstr ""
+msgstr "irány:"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "forgathatatlan"
 
 msgid "down"
 msgstr "le"
@@ -373,7 +375,7 @@ msgid "Electric Piano"
 msgstr ""
 
 msgid "Electronic"
-msgstr ""
+msgstr "Elektromos"
 
 msgid "Ellipse"
 msgstr "Ellipszis"
@@ -390,8 +392,9 @@ msgstr ""
 msgid "fade out"
 msgstr ""
 
+#, fuzzy
 msgid "Fantasy"
-msgstr ""
+msgstr "Fantasy"
 
 msgid "Features"
 msgstr ""
@@ -406,10 +409,10 @@ msgid "fisheye"
 msgstr "halszem"
 
 msgid "Flip left-right"
-msgstr ""
+msgstr "Jobb-bal tükrözés"
 
 msgid "Flip up-down"
-msgstr ""
+msgstr "Fel-le tükrözés"
 
 msgid "floor"
 msgstr "lekerekítve"
@@ -418,13 +421,13 @@ msgid "Flute"
 msgstr "Fuvola"
 
 msgid "Flying"
-msgstr ""
+msgstr "Repülés"
 
 msgid "For all sprites"
-msgstr ""
+msgstr "Minden szereplőnek"
 
 msgid "For this sprite only"
-msgstr ""
+msgstr "Csak ennek a szereplőnek"
 
 msgid "Forward a layer"
 msgstr ""
@@ -439,7 +442,7 @@ msgid "Group"
 msgstr ""
 
 msgid "Grow"
-msgstr ""
+msgstr "Nagyítás"
 
 msgid "Guiro"
 msgstr ""
@@ -454,10 +457,10 @@ msgid "hide"
 msgstr ""
 
 msgid "hour"
-msgstr ""
+msgstr "óra"
 
 msgid "Human"
-msgstr ""
+msgstr "Emberi"
 
 msgid "Import"
 msgstr "betöltés"
@@ -484,7 +487,7 @@ msgid "left arrow"
 msgstr "balra gomb"
 
 msgid "left-right"
-msgstr ""
+msgstr "jobbra-balra"
 
 msgid "Library"
 msgstr "Könyvtár"
@@ -507,25 +510,26 @@ msgid "list"
 msgstr "utolsó"
 
 msgid "List name"
-msgstr ""
+msgstr "Lista neve"
 
 msgid "ln"
-msgstr ""
+msgstr "ln"
 
 msgid "Loading project..."
 msgstr ""
 
 msgid "log"
-msgstr ""
+msgstr "log"
 
 msgid "louder"
-msgstr ""
+msgstr "hangosabb"
 
 msgid "loudness"
-msgstr ""
+msgstr "hangerő"
 
+#, fuzzy
 msgid "Make a Block"
-msgstr ""
+msgstr "Kocka létrehozása"
 
 msgid "Make a List"
 msgstr "Lista létrehozása"
@@ -561,7 +565,7 @@ msgid "mosaic"
 msgstr "mozaik"
 
 msgid "motion"
-msgstr ""
+msgstr "mozgás"
 
 msgid "mouse-pointer"
 msgstr "egérmutató"
@@ -570,7 +574,7 @@ msgid "Multiple"
 msgstr ""
 
 msgid "Music and Dance"
-msgstr ""
+msgstr "Zene és tánc"
 
 msgid "Music Box"
 msgstr "Zenedoboz"
@@ -582,7 +586,7 @@ msgid "My Stuff"
 msgstr ""
 
 msgid "myself"
-msgstr ""
+msgstr "önmagam"
 
 msgid "Nature"
 msgstr "Természet"
@@ -603,7 +607,7 @@ msgid "New costume:"
 msgstr "Új jelmez:"
 
 msgid "New List"
-msgstr ""
+msgstr "Új lista"
 
 msgid "new message..."
 msgstr ""
@@ -621,7 +625,7 @@ msgid "New sprite:"
 msgstr "Új szereplő:"
 
 msgid "New Variable"
-msgstr ""
+msgstr "Új változó"
 
 msgid "No motion blocks"
 msgstr ""
@@ -651,13 +655,13 @@ msgid "Open Hi-Hat"
 msgstr "Nyitott cin"
 
 msgid "Options"
-msgstr ""
+msgstr "Beállítások"
 
 msgid "Organ"
-msgstr ""
+msgstr "Orgona"
 
 msgid "Other"
-msgstr ""
+msgstr "Egyéb"
 
 msgid "other scripts in sprite"
 msgstr ""
@@ -726,12 +730,11 @@ msgid "Rectangle"
 msgstr "Téglalap"
 
 # 75%
-#, fuzzy
 msgid "Redo"
-msgstr "Ismét"
+msgstr "Mégis"
 
 msgid "redo"
-msgstr "Ismét"
+msgstr "mégis"
 
 msgid "Remix"
 msgstr ""
@@ -763,6 +766,9 @@ msgstr ""
 msgid "resistance-D"
 msgstr ""
 
+# This string is used in two separate places (motor and sound), and I'd rather give two separate translations! :(
+# 
+#, fuzzy
 msgid "reverse"
 msgstr "hátra"
 
@@ -797,13 +803,13 @@ msgid "save to local file"
 msgstr ""
 
 msgid "Saved"
-msgstr ""
+msgstr "Mentve"
 
 msgid "Saving changes..."
-msgstr ""
+msgstr "Mentés folyamatban..."
 
 msgid "Saving..."
-msgstr ""
+msgstr "Mentés folyamatban..."
 
 msgid "Saxophone"
 msgstr "Szakszofon"
@@ -824,10 +830,10 @@ msgid "See project page"
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "Kijelölés"
 
 msgid "select all"
-msgstr ""
+msgstr "minden kiválasztása"
 
 msgid "Select and duplicate"
 msgstr ""
@@ -836,7 +842,7 @@ msgid "Send to back"
 msgstr ""
 
 msgid "Set costume center"
-msgstr ""
+msgstr "Jelmez közepének beállítása"
 
 msgid "Set Costume Center"
 msgstr ""
@@ -884,7 +890,7 @@ msgid "sin"
 msgstr ""
 
 msgid "size"
-msgstr ""
+msgstr "méret"
 
 msgid "slider"
 msgstr "csúszka"
@@ -902,10 +908,10 @@ msgid "Snare Drum"
 msgstr "Pergődob"
 
 msgid "softer"
-msgstr ""
+msgstr "halkabb"
 
 msgid "sound"
-msgstr ""
+msgstr "hang"
 
 msgid "Sound"
 msgstr ""
@@ -957,7 +963,7 @@ msgid "Steel Drum"
 msgstr ""
 
 msgid "stored on server"
-msgstr ""
+msgstr "szerveren tárolt"
 
 msgid "Synth Lead"
 msgstr ""
@@ -972,13 +978,13 @@ msgid "tan"
 msgstr ""
 
 msgid "Text"
-msgstr ""
+msgstr "Szöveg"
 
 msgid "that way"
-msgstr "Ily módon"
+msgstr "arra"
 
 msgid "Theme"
-msgstr ""
+msgstr "Téma"
 
 msgid "Things"
 msgstr ""
@@ -993,10 +999,10 @@ msgid "this script"
 msgstr ""
 
 msgid "this sprite"
-msgstr ""
+msgstr "aktuális szereplő"
 
 msgid "this way"
-msgstr "Ily módon"
+msgstr "erre"
 
 msgid "Throw away all changes since opening this project?"
 msgstr ""
@@ -1005,7 +1011,7 @@ msgid "timer"
 msgstr ""
 
 msgid "Tips"
-msgstr ""
+msgstr "Tippek"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
@@ -1014,19 +1020,19 @@ msgid "Transportation"
 msgstr "Szállítás"
 
 msgid "Triangle"
-msgstr "Háromszög"
+msgstr "Triangulum"
 
 msgid "Trombone"
 msgstr "Harsona"
 
 msgid "Turbo mode"
-msgstr ""
+msgstr "Turbo mód"
 
 msgid "Turbo Mode"
 msgstr ""
 
 msgid "Type"
-msgstr ""
+msgstr "Típus"
 
 # 75%
 #, fuzzy
@@ -1034,15 +1040,14 @@ msgid "Undelete"
 msgstr "törlés"
 
 msgid "Underwater"
-msgstr ""
+msgstr "Vízalatti"
 
 # 75%
-#, fuzzy
 msgid "Undo"
-msgstr "Visszavonás"
+msgstr "Mégse"
 
 msgid "undo"
-msgstr "Visszavonás"
+msgstr "mégse"
 
 msgid "Undo Revert"
 msgstr ""
@@ -1060,31 +1065,31 @@ msgid "up arrow"
 msgstr "fel gomb"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "Háttér feltöltése"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "Jelmez feltöltése"
 
 msgid "Upload from your computer"
-msgstr ""
+msgstr "Feltöltés saját gépről"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "Hang feltöltése"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "Szereplő feltöltése"
 
 msgid "Uploading image..."
-msgstr ""
+msgstr "Kép feltöltése folyamatban..."
 
 msgid "Uploading sound..."
-msgstr ""
+msgstr "Hang feltöltése folyamatban..."
 
 msgid "Uploading sprite..."
-msgstr ""
+msgstr "Szereplő feltöltése folyamatban..."
 
 msgid "variable"
-msgstr ""
+msgstr "változó"
 
 msgid "Variable name"
 msgstr "Változónév"
@@ -1111,10 +1116,10 @@ msgid "Vocals"
 msgstr ""
 
 msgid "volume"
-msgstr ""
+msgstr "hangerő"
 
 msgid "Walking"
-msgstr ""
+msgstr "Gyalog"
 
 msgid "Want to save? Click remix"
 msgstr ""
