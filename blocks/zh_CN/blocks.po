@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:57+0200\n"
-"PO-Revision-Date: 2013-05-13 13:36+0200\n"
-"Last-Translator: Gang <eniac2008@163.com>\n"
+"PO-Revision-Date: 2013-05-23 05:01+0200\n"
+"Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -27,10 +27,10 @@ msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage 的 %m.attribute"
 
 msgid "%m.list contains %s"
-msgstr "%m.list 包含 %s"
+msgstr "%m.list 包含 %s ?"
 
 msgid "%m.mathOp of %n"
-msgstr "%n 的 %m.mathOp"
+msgstr "%m.mathOp %n"
 
 msgid "%m.sensor sensor value"
 msgstr "%m.sensor 传感器的值"
@@ -39,7 +39,7 @@ msgid "%n mod %n"
 msgstr "%n 除以 %n 的余数"
 
 msgid "add %s to %m.list"
-msgstr "将 %s 加入列表 %m.list"
+msgstr "将 %s 加到链表 %m.list 末尾"
 
 msgid "answer"
 msgstr "回答"
@@ -98,7 +98,7 @@ msgid "clear graphic effects"
 msgstr "清除所有图形特效"
 
 msgid "color %c is touching %c?"
-msgstr "颜色%c碰到%c?"
+msgstr "颜色 %c 碰到 %c?"
 
 msgid "Control"
 msgstr "控制"
@@ -122,7 +122,7 @@ msgid "define"
 msgstr "定义"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "删除 %m.list 的 %d.listDeleteItem"
+msgstr "删除第 %d.listDeleteItem 项，从链表: %m.list "
 
 msgid "delete this clone"
 msgstr "删除本克隆体"
@@ -146,7 +146,7 @@ msgid "forever"
 msgstr "重复执行"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "在 %n 秒内平滑移动到 x:%n y:%n"
+msgstr "在 %n 秒内滑行到 x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "下移 %n 层"
@@ -164,7 +164,7 @@ msgid "hide"
 msgstr "隐藏"
 
 msgid "hide list %m.list"
-msgstr "隐藏列表 %m.list"
+msgstr "隐藏链表 %m.list"
 
 msgid "hide variable %m.var"
 msgstr "隐藏变量 %m.var"
@@ -176,31 +176,31 @@ msgid "if on edge, bounce"
 msgstr "碰到边缘就反弹"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "将 %s 插入到链表 %m.list的 %d.listItem 位置"
+msgstr "插入: %s 位置: %d.listItem 到链表: %m.list "
 
 msgid "item %d.listItem of %m.list"
-msgstr "链表 %m.list的第 %d.listItem 项"
+msgstr "第 %d.listItem 项 %m.list"
 
 msgid "join %s %s"
-msgstr "将 %s 加入到 %s 的后面"
+msgstr "将 %s 加到 %s 的后面"
 
 msgid "key %m.key pressed?"
 msgstr "按键 %m.key 是否按下？"
 
 msgid "length of %m.list"
-msgstr "列表 %m.list 的长度"
+msgstr "链表 %m.list 的长度"
 
 msgid "length of %s"
 msgstr "%s 的长度"
 
 msgid "letter %n of %s"
-msgstr "后面字符串中第 %n 个字符 %s"
+msgstr "第 %n 个字符： %s"
 
 msgid "Looks"
 msgstr "外观"
 
 msgid "loudness"
-msgstr "音量值"
+msgstr "响度"
 
 msgid "More Blocks"
 msgstr "更多模块"
@@ -271,7 +271,7 @@ msgid "repeat until %b"
 msgstr "重复执行直到 %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "把 %m.list 的第 %d.listItem 项替换为 %s"
+msgstr "替换位置：%d.listItem 链表: %m.list 内容: %s"
 
 msgid "reset timer"
 msgstr "计时器归零"
@@ -324,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "将画笔的大小设定为 %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "将旋转方式设定为 %m.rotationStyle"
+msgstr "将旋转模式设定为 %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "将角色的大小设定为 %n"
@@ -348,7 +348,7 @@ msgid "show"
 msgstr "显示"
 
 msgid "show list %m.list"
-msgstr "显示列表 %m.list"
+msgstr "显示链表 %m.list"
 
 msgid "show variable %m.var"
 msgstr "显示变量 %m.var"
@@ -423,7 +423,7 @@ msgid "username"
 msgstr "用户名"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "录制 %m.stageOrThis 的 %m.videoMotionType"
+msgstr "视频侦测 %m.videoMotionType 在 %m.stageOrThis 上"
 
 msgid "volume"
 msgstr "音量"
@@ -458,10 +458,10 @@ msgid "when I receive %m.broadcast"
 msgstr "当接收到 %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "当我作为一个克隆体启动时"
+msgstr "当作为克隆体启动时"
 
 msgid "when this sprite clicked"
-msgstr "当点击该角色时"
+msgstr "当角色被点击时"
 
 msgid "when tilt = %n"
 msgstr "当倾角 = %n"

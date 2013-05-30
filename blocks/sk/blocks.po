@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-16 08:24+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-05-24 10:37+0200\n"
+"Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -42,19 +42,18 @@ msgid "add %s to %m.list"
 msgstr "pridaj %s k %m.list"
 
 msgid "answer"
-msgstr "odpovedz"
+msgstr "odpoveď"
 
 msgid "ask %s and wait"
 msgstr "spýtaj sa %s a počkaj"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "číslo pozadia"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "meno pozadia"
 
 msgid "broadcast %m.broadcast"
 msgstr "pošli všetkým správu %m.broadcast"
@@ -102,37 +101,37 @@ msgid "color %c is touching %c?"
 msgstr "farba %c je na farbe %c?"
 
 msgid "Control"
-msgstr "ovládanie"
+msgstr "Ovládanie"
 
 msgid "costume #"
 msgstr "číslo kostýmu"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "naklonuj %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "aktuálny %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Údaje"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "dní od roku 2000"
 
 msgid "define"
-msgstr ""
+msgstr "blok"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "vymaž %d.listDeleteItem z %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "zmaž tento klon"
 
 msgid "direction"
 msgstr "smer"
 
 msgid "distance"
-msgstr ""
+msgstr "vzdialenosť"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "vzdialenosť od %m.spriteOrMouse"
@@ -141,13 +140,13 @@ msgid "else"
 msgstr "inak"
 
 msgid "Events"
-msgstr ""
+msgstr "Udalosti"
 
 msgid "forever"
 msgstr "stále opakuj"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n sekúnd sa presúvaj na pozíciu x: %n  y: %n"
+msgstr "%n sekúnd sa presúvaj na pozíciu x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "späť o %n vrstiev"
@@ -159,19 +158,19 @@ msgid "go to front"
 msgstr "choď do popredia"
 
 msgid "go to x:%n y:%n"
-msgstr "choď na pozíciu x: %n  y: %n"
+msgstr "choď na pozíciu x:%n y:%n"
 
 msgid "hide"
 msgstr "skry sa"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "schovaj zoznam %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "schovaj premennú %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "ak %b tak"
 
 msgid "if on edge, bounce"
 msgstr "ak narazíš na okraj, odraz sa"
@@ -186,7 +185,7 @@ msgid "join %s %s"
 msgstr "pridaj sa ku %s %s"
 
 msgid "key %m.key pressed?"
-msgstr "je kláves %m.key stlačený?"
+msgstr "je klávesa %m.key stlačená?"
 
 msgid "length of %m.list"
 msgstr "dĺžka %m.list"
@@ -195,19 +194,19 @@ msgid "length of %s"
 msgstr "dĺžka %s"
 
 msgid "letter %n of %s"
-msgstr "%n . písmeno z %s"
+msgstr "%n písmeno z %s"
 
 msgid "Looks"
-msgstr "vzhľad"
+msgstr "Vzhľad"
 
 msgid "loudness"
 msgstr "hlasitosť"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Bloky"
 
 msgid "Motion"
-msgstr "pohyb"
+msgstr "Pohyb"
 
 msgid "mouse down?"
 msgstr "stlačené tlačidlo myši?"
@@ -222,7 +221,6 @@ msgid "move %n steps"
 msgstr "posuň sa o %n krokov"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "nasledujúce pozadie"
 
@@ -233,10 +231,10 @@ msgid "not %b"
 msgstr "nie je %b"
 
 msgid "Operators"
-msgstr "operátory"
+msgstr "Operátory"
 
 msgid "Pen"
-msgstr "pero"
+msgstr "Pero"
 
 msgid "pen down"
 msgstr "pero dolu"
@@ -251,9 +249,8 @@ msgid "play drum %d.drum for %n beats"
 msgstr "zabubnuj %d.drum %n dôb"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "hraj tón %d.note %n dôb "
+msgstr "hraj tón %d.note %n dôb"
 
 msgid "play sound %m.sound"
 msgstr "zahraj zvuk %m.sound"
@@ -292,7 +289,7 @@ msgid "say %s for %n secs"
 msgstr "hovor %s ďalších %n sekúnd"
 
 msgid "Sensing"
-msgstr "vnímanie"
+msgstr "Vnímanie"
 
 msgid "sensor %m.booleanSensor?"
 msgstr "senzor %m.booleanSensor?"
@@ -301,26 +298,24 @@ msgid "set %m.effect effect to %n"
 msgstr "nastav efekt %m.effect na %n"
 
 msgid "set %m.var to %s"
-msgstr "nastav %m.var na %n"
+msgstr "nastav %m.var na %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "nastav nástroj na %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "smer motora %m.motorDirection"
+msgstr "nastav smer motora na %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "sila motora %n"
+msgstr "nastav silu motora na %n"
 
 msgid "set pen color to %c"
 msgstr "nastav farbu pera na %c"
 
 msgid "set pen color to %n"
-msgstr "nastav farbu pera na %c"
+msgstr "nastav farbu pera na %n"
 
 msgid "set pen shade to %n"
 msgstr "nastav odtieň pera na %n"
@@ -329,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "nastav hrúbku pera na %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "nastav štýl otáčania na %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "nastav veľkosť na %n%"
@@ -338,7 +333,7 @@ msgid "set tempo to %n bpm"
 msgstr "nastav tempo na %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "nastav priehľadnosť videa na %n%"
 
 msgid "set volume to %n%"
 msgstr "nastav hlasitosť na %n%"
@@ -353,36 +348,36 @@ msgid "show"
 msgstr "ukáž sa"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "zobraz zoznam %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "zobraz premennú %m.var"
 
 msgid "size"
 msgstr "veľkosť"
 
 msgid "Sound"
-msgstr "zvuk"
+msgstr "Zvuk"
 
 msgid "stamp"
 msgstr "opečiatkuj sa"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "zastav %m.stop"
 
 msgid "stop all sounds"
 msgstr "zastav všetky zvuky"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "zmeň pozadie na %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "zmeň pozadie na %m.backdrop a čakaj"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "zmeň kostým na %m.costume"
 
 msgid "tempo"
 msgstr "tempo"
@@ -394,7 +389,7 @@ msgid "think %s for %n secs"
 msgstr "mysli si %s ďalších %n sekúnd"
 
 msgid "tilt"
-msgstr ""
+msgstr "sklon"
 
 msgid "timer"
 msgstr "časovač"
@@ -406,30 +401,29 @@ msgid "touching color %c?"
 msgstr "dotýka sa farby %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "otoč sa o @turnLeft %n stupňov"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "otoč sa o @turnRight %n stupňov"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "vypni motor"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "zapni motor"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "zapni motor na %n sekúnd"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "prepni video na %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "používateľské meno"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "video %m.videoMotionType na %m.stageOrThis"
 
 msgid "volume"
 msgstr "hlasitosť"
@@ -441,37 +435,36 @@ msgid "wait until %b"
 msgstr "počkaj kým nenastane %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "senzor %m.booleanSensor?"
+msgstr "keď senzor %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr "po stlačení klávesu %m.key"
+msgstr "po stlačení klávesy %m.key"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "ak %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "po kliknutí na @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "ak sa pozadie zmení na %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "ak je vzdialenosť < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "po prijatí správy %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "keď štartujem ako klon"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "po kliknutí na mňa"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "ak sa sklon = %n"
 
 msgid "x position"
 msgstr "pozícia x"
