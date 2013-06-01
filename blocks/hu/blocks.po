@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-30 14:45+0200\n"
+"PO-Revision-Date: 2013-06-01 10:49+0200\n"
 "Last-Translator: rudolfwg <rudolf.wg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -24,7 +24,7 @@ msgid "%b or %b"
 msgstr "%b vagy %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.spriteOrStage %a értéke"
+msgstr "%m.spriteOrStage %m.attribute értéke"
 
 msgid "%m.list contains %s"
 msgstr "%m.list tartalmazza: %s"
@@ -33,13 +33,13 @@ msgid "%m.mathOp of %n"
 msgstr "%m.mathOp%n"
 
 msgid "%m.sensor sensor value"
-msgstr "szenzor %m.sensor értéke"
+msgstr "%m.sensor szenzor értéke"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr "add %m.list listához: %s"
+msgstr "add %2$m.list listához: %1$s"
 
 msgid "answer"
 msgstr "válasz"
@@ -48,7 +48,6 @@ msgid "ask %s and wait"
 msgstr "kérdezd meg: %s és várj"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "háttér sorszáma"
 
@@ -102,10 +101,10 @@ msgid "color %c is touching %c?"
 msgstr "%c érint %c színt?"
 
 msgid "Control"
-msgstr "vezérlés"
+msgstr "Vezérlés"
 
 msgid "costume #"
-msgstr "jelmez"
+msgstr "jelmez sorszáma"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "%m.spriteOnly klónozása"
@@ -123,7 +122,7 @@ msgid "define"
 msgstr "legyen"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "töröld %m.list %y elemét"
+msgstr "töröld %2$m.list %1$d.listDeleteItem elemét"
 
 msgid "delete this clone"
 msgstr "ez a klón törlődjön"
@@ -177,13 +176,13 @@ msgid "if on edge, bounce"
 msgstr "ha szélen vagy, pattanj vissza"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "szúrd be %m.list %i helyére: %s"
+msgstr "szúrd be %3$m.list %2$d.listItem helyére: %1$s"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list %i eleme"
+msgstr "%2$m.list %1$d.listItem eleme"
 
 msgid "join %s %s"
-msgstr "csatlakozik %s %s"
+msgstr "%s %s együtt"
 
 msgid "key %m.key pressed?"
 msgstr "%m.key lenyomva?"
@@ -195,7 +194,7 @@ msgid "length of %s"
 msgstr "%s hossza"
 
 msgid "letter %n of %s"
-msgstr "%s %n betűje"
+msgstr "%2$s %1$n betűje"
 
 msgid "Looks"
 msgstr "Kinézet"
@@ -232,10 +231,10 @@ msgid "not %b"
 msgstr "nem %b"
 
 msgid "Operators"
-msgstr "műveletek"
+msgstr "Műveletek"
 
 msgid "Pen"
-msgstr "toll"
+msgstr "Toll"
 
 msgid "pen down"
 msgstr "tollat tedd le"
@@ -272,7 +271,7 @@ msgid "repeat until %b"
 msgstr "ismételd eddig: %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "cseréld le %m.list %i elemét: %s"
+msgstr "cseréld le %2$m.list %1$d.listItem elemét: %3$s"
 
 msgid "reset timer"
 msgstr "nullázd az órát"
@@ -281,7 +280,7 @@ msgid "rest for %n beats"
 msgstr "szünetelj %n ütemig"
 
 msgid "round %n"
-msgstr "kerekítve %n"
+msgstr "%n kerekítve"
 
 msgid "say %s"
 msgstr "mondd: %s"
@@ -299,18 +298,16 @@ msgid "set %m.effect effect to %n"
 msgstr "%m.effect hatás legyen %n"
 
 msgid "set %m.var to %s"
-msgstr "%m.var legyen %n"
+msgstr "%m.var legyen %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "hangszer legyen %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "motor iránya legyen %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
 msgstr "motor teljesítmény legyen %n"
 
@@ -327,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "tollméret legyen %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "forgási stílus legyen %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "méret legyen %n%"
@@ -336,7 +333,7 @@ msgid "set tempo to %n bpm"
 msgstr "tempó legyen %n ütem/perc"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "videó áttetszősége legyen %n%"
 
 msgid "set volume to %n%"
 msgstr "hangerő legyen %n%"
@@ -360,13 +357,13 @@ msgid "size"
 msgstr "méret"
 
 msgid "Sound"
-msgstr "hang"
+msgstr "Hang"
 
 msgid "stamp"
 msgstr "készíts lenyomatot"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "%m.stop álljon le"
 
 msgid "stop all sounds"
 msgstr "minden hangot állíts le"
@@ -376,8 +373,9 @@ msgid "switch backdrop to %m.backdrop"
 msgstr "a háttér legyen %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "a háttér legyen %m.backdrop, várd meg"
 
 msgid "switch costume to %m.costume"
 msgstr "jelmez legyen %m.costume"
@@ -407,13 +405,13 @@ msgid "turn @turnLeft %n degrees"
 msgstr "fordulj @turnLeft %n fokot"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "fordulj @turnRight %n fokot"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "motor kikapcsolása"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "motor bekapcsolása"
 
 # 80%
 #, fuzzy
@@ -421,7 +419,7 @@ msgid "turn motor on for %n secs"
 msgstr "motor be %n mp-ig"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "videót kapcsold %m.videoState"
 
 msgid "username"
 msgstr "felhasználónév"
@@ -439,9 +437,8 @@ msgid "wait until %b"
 msgstr "várj eddig: %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "szenzoron %m.booleanSensor?"
+msgstr "amikor %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "%m.key lenyomásakor"
@@ -466,7 +463,7 @@ msgid "when I start as a clone"
 msgstr "amikor klónként indulok"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "amikor e szereplőre kattintanak"
 
 msgid "when tilt = %n"
 msgstr "amikor dőlés = %n"
