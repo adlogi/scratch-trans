@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-19 10:59+0200\n"
+"PO-Revision-Date: 2013-05-30 18:56+0200\n"
 "Last-Translator: ehermann <everton.hermann@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -36,10 +36,10 @@ msgid "%m.sensor sensor value"
 msgstr "valor do sensor %m.sensor"
 
 msgid "%n mod %n"
-msgstr "resto de %n por %n"
+msgstr "resto da divisão de %n por %n"
 
 msgid "add %s to %m.list"
-msgstr "adicione %s a %m.list"
+msgstr "adiciona %s a %m.list"
 
 msgid "answer"
 msgstr "resposta"
@@ -62,34 +62,34 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "anuncie %m.broadcast para todos e espere"
 
 msgid "change %m.effect effect by %n"
-msgstr "some ao efeito %m.effect  %n"
+msgstr "soma ao efeito %m.effect  %n"
 
 msgid "change %m.var by %n"
-msgstr "some a %m.var %n"
+msgstr "soma a %m.var %n"
 
 msgid "change pen color by %n"
-msgstr "some %n à cor da caneta"
+msgstr "soma %n à cor da caneta"
 
 msgid "change pen shade by %n"
-msgstr "some %n ao tom da caneta"
+msgstr "soma %n à intensidade da caneta"
 
 msgid "change pen size by %n"
-msgstr "some %n ao tamanho da caneta"
+msgstr "soma %n ao tamanho da caneta"
 
 msgid "change size by %n"
-msgstr "some %n ao tamanho"
+msgstr "soma %n ao tamanho"
 
 msgid "change tempo by %n"
-msgstr "some %n ao tempo"
+msgstr "soma %n ao ritmo"
 
 msgid "change volume by %n"
-msgstr "some %n ao volume"
+msgstr "soma %n ao volume"
 
 msgid "change x by %n"
-msgstr "some %n a x"
+msgstr "soma %n a x"
 
 msgid "change y by %n"
-msgstr "some %n a y"
+msgstr "soma %n a y"
 
 msgid "clear"
 msgstr "apague tudo"
@@ -104,10 +104,10 @@ msgid "Control"
 msgstr "Controle"
 
 msgid "costume #"
-msgstr "n° do traje"
+msgstr "traje n° "
 
 msgid "create clone of %m.spriteOnly"
-msgstr "crie clone de %m.spriteOnly"
+msgstr "cria clone de %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "%m.timeAndDate atual"
@@ -122,10 +122,10 @@ msgid "define"
 msgstr "define"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "apague %d.listDeleteItem de %m.list"
+msgstr "apaga %d.listDeleteItem de %m.list"
 
 msgid "delete this clone"
-msgstr "apague este clone"
+msgstr "apaga este clone"
 
 msgid "direction"
 msgstr "direção"
@@ -149,7 +149,7 @@ msgid "glide %n secs to x:%n y:%n"
 msgstr "deslize por %n segundos até x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "deça %n camadas"
+msgstr "desça %n camadas"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "vá para %m.spriteOrMouse"
@@ -164,10 +164,10 @@ msgid "hide"
 msgstr "desapareça"
 
 msgid "hide list %m.list"
-msgstr "esconda a lista %m.list"
+msgstr "esconde lista %m.list"
 
 msgid "hide variable %m.var"
-msgstr "esconda a variável %m.var"
+msgstr "esconde variável %m.var"
 
 msgid "if %b then"
 msgstr "se %b então"
@@ -176,7 +176,7 @@ msgid "if on edge, bounce"
 msgstr "se tocar na borda, volte"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "insira %s na posição %d.listItem da lista %m.list"
+msgstr "insere %s na posição %d.listItem da lista %m.list"
 
 msgid "item %d.listItem of %m.list"
 msgstr "item %d.listItem de %m.list"
@@ -191,7 +191,7 @@ msgid "length of %m.list"
 msgstr "tamanho de %m.list"
 
 msgid "length of %s"
-msgstr "tamanho de %s"
+msgstr "letras em %s"
 
 msgid "letter %n of %s"
 msgstr "letra %n de %s"
@@ -237,13 +237,13 @@ msgid "Pen"
 msgstr "Caneta"
 
 msgid "pen down"
-msgstr "baixe a caneta"
+msgstr "abaixe a caneta"
 
 msgid "pen up"
 msgstr "levante a caneta"
 
 msgid "pick random %n to %n"
-msgstr "sorteie um número entre %n e %n"
+msgstr "sorteie número entre %n e %n"
 
 msgid "play drum %d.drum for %n beats"
 msgstr "toque o tambor %d.drum por %n batidas"
@@ -271,7 +271,7 @@ msgid "repeat until %b"
 msgstr "repita até  que %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "substitua o item %d.listItem da lista %m.list por %s"
+msgstr "substitui o item %d.listItem da lista %m.list por %s"
 
 msgid "reset timer"
 msgstr "zere o cronômetro"
@@ -330,10 +330,10 @@ msgid "set size to %n%"
 msgstr "mude o tamanho para %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "mude a frequência para %n bpm"
+msgstr "mude o ritmo para %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr "mude a transparência do vídeo para %n%"
+msgstr "muda a transparência do vídeo para %n%"
 
 msgid "set volume to %n%"
 msgstr "mude o volume para %n%"
@@ -348,10 +348,10 @@ msgid "show"
 msgstr "apareça"
 
 msgid "show list %m.list"
-msgstr "mostre a lista %m.list"
+msgstr "mostra lista %m.list"
 
 msgid "show variable %m.var"
-msgstr "mostre a variável %m.var"
+msgstr "mostra variável %m.var"
 
 msgid "size"
 msgstr "tamanho"
@@ -380,7 +380,7 @@ msgid "switch costume to %m.costume"
 msgstr "mude para o traje %m.costume"
 
 msgid "tempo"
-msgstr "frequência"
+msgstr "ritmo"
 
 msgid "think %s"
 msgstr "pense %s"
@@ -418,11 +418,11 @@ msgid "turn motor on for %n secs"
 msgstr "ligue o motor por %n segundos"
 
 msgid "turn video %m.videoState"
-msgstr "ative o vídeo %m.videoState"
+msgstr "vídeo %m.videoState"
 
 # 88%
 msgid "username"
-msgstr "nome de Usuário"
+msgstr "nome de usuário"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "%m.videoMotionType do vídeo em %m.stageOrThis"
