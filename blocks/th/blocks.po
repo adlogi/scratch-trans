@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-02 00:56+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-06-06 00:06+0200\n"
+"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
@@ -48,13 +48,12 @@ msgid "ask %s and wait"
 msgstr "ถาม %s และคอย"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "พื้นหลัง #"
+msgstr "ฉากหลัง #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "ชื่อฉากหลัง"
 
 msgid "broadcast %m.broadcast"
 msgstr "ส่งกระจาย %m.broadcast"
@@ -114,13 +113,13 @@ msgid "current %m.timeAndDate"
 msgstr ""
 
 msgid "Data"
-msgstr ""
+msgstr "ข้อมูล"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "จำนวนวันตั้งแต่ปี ค.ศ 2000"
 
 msgid "define"
-msgstr ""
+msgstr "กำหนด"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "ลบ %d.listDeleteItem ของ %m.list"
@@ -132,7 +131,7 @@ msgid "direction"
 msgstr "ทิศทาง"
 
 msgid "distance"
-msgstr ""
+msgstr "ระยะห่าง"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "ระยะห่างจาก %m.spriteOrMouse"
@@ -141,13 +140,13 @@ msgid "else"
 msgstr "มิฉะนั้น"
 
 msgid "Events"
-msgstr ""
+msgstr "เหตุการณ์"
 
 msgid "forever"
 msgstr "วนซ้ำตลอด"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "ไป %n วินาที ที่ x:%n y:%n"
+msgstr "ร่อน %n วินาที ไปที่ x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "กลับไป %n ชั้น"
@@ -168,10 +167,10 @@ msgid "hide list %m.list"
 msgstr ""
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "ซ่อนตัวแปล %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "ถ้า %b แล้ว"
 
 msgid "if on edge, bounce"
 msgstr "ถ้าชนขอบให้สะท้อนกลับ"
@@ -251,7 +250,6 @@ msgid "play drum %d.drum for %n beats"
 msgstr "เล่น กลอง %d.drum เป็น %n จังหวะ"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "เล่น โน้ต %d.note เป็น %n จังหวะ"
 
@@ -307,12 +305,10 @@ msgid "set instrument to %d.instrument"
 msgstr "ตั้งค่าเครื่องดนตรีเป็น %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "ทิศทางของมอเตอร์ %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
 msgstr "พลังงานมอเตอร์ %n"
 
@@ -329,7 +325,7 @@ msgid "set pen size to %n"
 msgstr "ตั้งค่าขนาดปากกาเป็น %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "ตั้งรูปแบบการหมุน %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "ตั้งค่าขนาดเป็น %n%"
@@ -338,7 +334,7 @@ msgid "set tempo to %n bpm"
 msgstr "ตั้งค่าความเร็วไปเป็น %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "ตั้งค่าความโปร่งใสเป็น %n%"
 
 msgid "set volume to %n%"
 msgstr "ตั้งค่าระดับเสียงเป็น %n%"
@@ -353,7 +349,7 @@ msgid "show"
 msgstr "แสดง"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "แสดงรายการ %m.list"
 
 msgid "show variable %m.var"
 msgstr ""
@@ -368,21 +364,21 @@ msgid "stamp"
 msgstr "ประทับ"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "หยุด %m.stop"
 
 msgid "stop all sounds"
 msgstr "หยุดเสียงทั้งหมด"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "สลับฉากหลังเป็น %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "สลับฉากหลังเป็น %m.backdrop และคอย"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "สลับชุดเป็น %m.costume"
 
 msgid "tempo"
 msgstr "จังหวะ"
@@ -406,24 +402,23 @@ msgid "touching color %c?"
 msgstr "สัมผัสสี %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "หมุน @turnLeft %n องศา"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "หมุน @turnRight %n องศา"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "ปิดมอเตอร์"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "เืปิดมอเตอร์"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "เปิดมอเตอร์เป็นเวลา %n วินาที"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "เปิดวิดีโอ %m.videoState"
 
 msgid "username"
 msgstr ""
@@ -441,28 +436,27 @@ msgid "wait until %b"
 msgstr "รอจนกระทั้ง %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "เซนเซอร์ %m.booleanSensor?"
+msgstr "เมื่อ %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "เมื่อคีย์ %m.key ถูกกด"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "เมื่อ %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "เมื่อ @greenFlag ถูกคลิก"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "เมื่อฉากหลังเปลี่ยนเป็น %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "เมื่อระยะห่าง < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "เมื่อฉันได้รับ %m.broadcast"
 
 msgid "when I start as a clone"
 msgstr ""

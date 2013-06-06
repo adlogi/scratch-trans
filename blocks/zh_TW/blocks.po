@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:57+0200\n"
-"PO-Revision-Date: 2013-05-09 17:56+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-06-06 03:01+0200\n"
+"Last-Translator: stone_shih <stone1.shih@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -48,13 +48,12 @@ msgid "ask %s and wait"
 msgstr "提問 %s 並等待"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "背景編號"
+msgstr "背景編號 #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "背景名稱"
 
 msgid "broadcast %m.broadcast"
 msgstr "廣播 %m.broadcast"
@@ -63,34 +62,34 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "廣播 %m.broadcast 並等待"
 
 msgid "change %m.effect effect by %n"
-msgstr "將 %m.effect 特效增加 %n"
+msgstr "將 %m.effect 特效改變 %n"
 
 msgid "change %m.var by %n"
-msgstr "將變數 %m.var 的值增加 %n"
+msgstr "將變數 %m.var 的值改變 %n"
 
 msgid "change pen color by %n"
-msgstr "將畫筆的顏色值增加 %n"
+msgstr "將畫筆的顏色值改變 %n"
 
 msgid "change pen shade by %n"
-msgstr "將畫筆的亮度增加 %n"
+msgstr "將畫筆的亮度改變 %n"
 
 msgid "change pen size by %n"
-msgstr "將畫筆的大小增加 %n"
+msgstr "將畫筆的大小改變 %n"
 
 msgid "change size by %n"
-msgstr "將大小增加 %n ％"
+msgstr "將大小改變 %n "
 
 msgid "change tempo by %n"
-msgstr "將節奏加快 %n"
+msgstr "將節奏改變 %n"
 
 msgid "change volume by %n"
-msgstr "將音量增加 %n"
+msgstr "將音量改變 %n"
 
 msgid "change x by %n"
-msgstr "將x座標增加 %n"
+msgstr "將x座標改變 %n"
 
 msgid "change y by %n"
-msgstr "將y座標增加 %n"
+msgstr "將y座標改變 %n"
 
 msgid "clear"
 msgstr "清除所有筆跡"
@@ -99,7 +98,7 @@ msgid "clear graphic effects"
 msgstr "清除所有圖形特效"
 
 msgid "color %c is touching %c?"
-msgstr "顏色 %c 碰到 顏色 %c"
+msgstr "顏色 %c 碰到 顏色 %c ?"
 
 msgid "Control"
 msgstr "控制"
@@ -108,31 +107,31 @@ msgid "costume #"
 msgstr "造型編號"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "創造角色  %m.spriteOnly  的分身"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "目前的 %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "資料"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "從2000年起算的天數"
 
 msgid "define"
-msgstr ""
+msgstr "定義"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "將第 %d.listDeleteItem 項從 %m.list 中移除"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "刪除這個分身"
 
 msgid "direction"
 msgstr "方向"
 
 msgid "distance"
-msgstr ""
+msgstr "距離"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "到 %m.spriteOrMouse 的距離"
@@ -141,16 +140,16 @@ msgid "else"
 msgstr "否則"
 
 msgid "Events"
-msgstr ""
+msgstr "事件"
 
 msgid "forever"
-msgstr "重複執行"
+msgstr "不停重複"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr "在 %n 秒內，滑行到 x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "下移 %n 層"
+msgstr "往回走 %n 層"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "移到 %m.spriteOrMouse"
@@ -165,13 +164,13 @@ msgid "hide"
 msgstr "隱藏"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "隱藏列表 %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "隱藏變數 %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "如果 %b 就"
 
 msgid "if on edge, bounce"
 msgstr "碰到邊緣就反彈"
@@ -180,13 +179,13 @@ msgid "insert %s at %d.listItem of %m.list"
 msgstr "將 %s 加到 %m.list 的第 %d.listItem 項"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list 的第 %d.listItem 項"
+msgstr "%m.list 中的 %d.listItem "
 
 msgid "join %s %s"
 msgstr "合併 %s 和 %s"
 
 msgid "key %m.key pressed?"
-msgstr "按下 %m.key 鍵"
+msgstr "%m.key 鍵被按下了嗎  ?"
 
 msgid "length of %m.list"
 msgstr "%m.list 的長度"
@@ -204,13 +203,13 @@ msgid "loudness"
 msgstr "音量值"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "更多積木"
 
 msgid "Motion"
 msgstr "動作"
 
 msgid "mouse down?"
-msgstr "按下滑鼠"
+msgstr "滑鼠鍵被按下了嗎 ?"
 
 msgid "mouse x"
 msgstr "滑鼠的x座標"
@@ -222,7 +221,6 @@ msgid "move %n steps"
 msgstr "移動 %n 步"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "下一個背景"
 
@@ -251,7 +249,6 @@ msgid "play drum %d.drum for %n beats"
 msgstr "彈奏鼓聲 %d.drum %n 拍"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "彈奏音符 %d.note %n 拍"
 
@@ -268,10 +265,10 @@ msgid "point towards %m.spriteOrMouse"
 msgstr "面向 %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr "重複執行 %n 次"
+msgstr "重複 %n 次"
 
 msgid "repeat until %b"
-msgstr "重複執行直到 %b"
+msgstr "直到 %b  前都不斷重複"
 
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr "將 %m.list 的第 %d.listItem 項替換為 %s"
@@ -295,26 +292,24 @@ msgid "Sensing"
 msgstr "偵測"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "偵測器 %m.booleanSensor"
+msgstr "偵測器 %m.booleanSensor ?"
 
 msgid "set %m.effect effect to %n"
 msgstr "將 %m.effect 特效設定為 %n"
 
 msgid "set %m.var to %s"
-msgstr "將變數 %m.var 的值設為 %n"
+msgstr "將變數 %m.var 的值設為 %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "設定樂器為 %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "馬達運轉方向 %m.motorDirection"
+msgstr "設定馬達運轉方向 %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "馬達動力 %n"
+msgstr "設定馬達動力 %n"
 
 msgid "set pen color to %c"
 msgstr "將畫筆顏色設定為 %c"
@@ -329,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "將畫筆大小設為 %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "將旋轉方式設為 %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "將大小設定為 %n ％"
@@ -338,10 +333,10 @@ msgid "set tempo to %n bpm"
 msgstr "將節奏設定為 %n 拍/分鐘"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "將視訊的透明度設定為 %n%"
 
 msgid "set volume to %n%"
-msgstr "將音量設定為 %n"
+msgstr "將音量設定為 %n%"
 
 msgid "set x to %n"
 msgstr "將x座標設定為 %n"
@@ -353,10 +348,10 @@ msgid "show"
 msgstr "顯示"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "顯示列表  %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "顯示變數 %m.var"
 
 msgid "size"
 msgstr "大小"
@@ -368,21 +363,21 @@ msgid "stamp"
 msgstr "蓋章"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "停止 %m.stop"
 
 msgid "stop all sounds"
 msgstr "停止所有聲音"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "將背景設定為  %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "將背景設定為 %m.backdrop 然後等待"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "將造型設定為 %m.costume"
 
 msgid "tempo"
 msgstr "節奏"
@@ -394,42 +389,41 @@ msgid "think %s for %n secs"
 msgstr "想著 %s %n 秒"
 
 msgid "tilt"
-msgstr ""
+msgstr "傾斜"
 
 msgid "timer"
 msgstr "計時器"
 
 msgid "touching %m.touching?"
-msgstr "碰到 %m.touching"
+msgstr "碰到 %m.touching ?"
 
 msgid "touching color %c?"
-msgstr "碰到顏色 %c"
+msgstr "碰到顏色 %c ?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "將 @turnLeft 轉 %n 度"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "將 @turnRight 轉 %n 度"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "關閉馬達"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "啟動馬達"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "開啟馬達運轉 %n 秒"
+msgstr "啟動馬達運轉 %n 秒"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "將視訊設定為 %m.videoState "
 
 msgid "username"
-msgstr ""
+msgstr "帳戶名稱"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "%m.stageOrThis 的視訊 %m.videoMotionType"
 
 msgid "volume"
 msgstr "音量"
@@ -438,40 +432,39 @@ msgid "wait %n secs"
 msgstr "等待 %n 秒"
 
 msgid "wait until %b"
-msgstr "直到 %b 前都等待著"
+msgstr "等待 %b "
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "偵測器 %m.booleanSensor"
+msgstr "當偵測器 %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "當按下 %m.key 鍵"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "當 %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "當 @greenFlag 被點一下"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "當背景切換為 %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "當距離 < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "當我接收到 %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "當分身產生時"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "當角色被點一下"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "當傾斜度 = %n"
 
 msgid "x position"
 msgstr "x座標"

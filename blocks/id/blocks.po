@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-02 00:56+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-06-06 06:21+0200\n"
+"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -48,13 +48,12 @@ msgid "ask %s and wait"
 msgstr "tanya %s dan tunggu"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "latar belakang #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "nama latar belakang"
 
 msgid "broadcast %m.broadcast"
 msgstr "siarkan pesan %m.broadcast"
@@ -108,31 +107,31 @@ msgid "costume #"
 msgstr "kostum #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "buat kloning dari %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "saat ini %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "data"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "hari sejak 2000"
 
 msgid "define"
-msgstr ""
+msgstr "definisikan"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "hapus %d.listDeleteItem dari %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "hapus kloning ini"
 
 msgid "direction"
 msgstr "arah"
 
 msgid "distance"
-msgstr ""
+msgstr "jarak"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "jarak ke %m.spriteOrMouse"
@@ -141,7 +140,7 @@ msgid "else"
 msgstr "selain itu"
 
 msgid "Events"
-msgstr ""
+msgstr "kejadian"
 
 msgid "forever"
 msgstr "selamanya"
@@ -165,13 +164,13 @@ msgid "hide"
 msgstr "sembunyikan"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "sembunyikan daftar %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "sembunyikan variable %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "jika %b kemudian"
 
 msgid "if on edge, bounce"
 msgstr "jika di pinggir, pantulkan"
@@ -204,7 +203,7 @@ msgid "loudness"
 msgstr "volume suara"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Lebih banyak Blok"
 
 msgid "Motion"
 msgstr "gerakan"
@@ -222,7 +221,6 @@ msgid "move %n steps"
 msgstr "pindah %n langkah"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "latar belakang berikutnya"
 
@@ -251,7 +249,6 @@ msgid "play drum %d.drum for %n beats"
 msgstr "mainkan drum %d.drum sebanyak %n ketukan"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "mainkan nada %d.note sebanyak %n ketukan"
 
@@ -301,26 +298,24 @@ msgid "set %m.effect effect to %n"
 msgstr "set efek %m.effect ke %n"
 
 msgid "set %m.var to %s"
-msgstr "set %m.var ke %n"
+msgstr "set %m.var ke %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "set alat musik ke %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "arah motor %m.motorDirection"
+msgstr "atur arah motor %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "daya motor %n"
+msgstr "atur daya motor %n"
 
 msgid "set pen color to %c"
 msgstr "set warna pena ke %c"
 
 msgid "set pen color to %n"
-msgstr "set warna pena ke %c"
+msgstr "set warna pena ke %n"
 
 msgid "set pen shade to %n"
 msgstr "set bayangan pena ke %n"
@@ -329,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "set ukuran pena ke %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "atur gaya rotasi %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "set ukuran ke %n%"
@@ -338,7 +333,7 @@ msgid "set tempo to %n bpm"
 msgstr "set tempo ke %n ketukan per menit"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "atur transparansi video ke %n%"
 
 msgid "set volume to %n%"
 msgstr "set volume ke %n%"
@@ -353,10 +348,10 @@ msgid "show"
 msgstr "tampilkan"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "tunjukkan daftar %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "tunjukkan variabel %m.var"
 
 msgid "size"
 msgstr "ukuran"
@@ -368,21 +363,21 @@ msgid "stamp"
 msgstr "cap"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "berhenti %m.stop"
 
 msgid "stop all sounds"
 msgstr "hentikan semua suara"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "ganti latar blakang ke %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "ganti latar belakang ke %m.backdrop dan tunggu"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "ganti pakaian ke %m.costume"
 
 msgid "tempo"
 msgstr "tempo"
@@ -394,7 +389,7 @@ msgid "think %s for %n secs"
 msgstr "berpikir %s selama %n detik"
 
 msgid "tilt"
-msgstr ""
+msgstr "miringkan"
 
 msgid "timer"
 msgstr "timer"
@@ -406,30 +401,29 @@ msgid "touching color %c?"
 msgstr "menyentuh warna %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "putar @turnLeft %n derajad"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "putar @turnRight %n derajad"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "matikan motor"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "hidupkan motor"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "hidupkan motor selama %n detik"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "putar video %m.videoState"
 
 msgid "username"
 msgstr ""
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "video %m.videoMotionType pada %m.stageOrThis"
 
 msgid "volume"
 msgstr "volume"
@@ -441,22 +435,21 @@ msgid "wait until %b"
 msgstr "tunggu sampai %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "sensor %m.booleanSensor?"
+msgstr "ketika %m.booleanSensor?"
 
 msgid "when %m.key key pressed"
 msgstr "bila tombol %m.key ditekan"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "ketika %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "bila @greenFlag diklik"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "ketika latar belakang diganti menjadi %m.backdrop"
 
 msgid "when distance < %n"
 msgstr ""

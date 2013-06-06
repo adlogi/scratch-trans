@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:45+0200\n"
-"PO-Revision-Date: 2013-05-30 18:04+0200\n"
+"PO-Revision-Date: 2013-05-30 22:01+0200\n"
 "Last-Translator: rudolfwg <rudolf.wg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -18,6 +18,9 @@ msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Felhőváltozókat illető információk</b><br>&nbsp;<br>Jelenleg csak számok "
+"vannak támogatva<br>Chat szobák létrehozása szigorúan tilos<br>További "
+"információkért <a href= target=>lásd a felhőadat GYIK-et.</a>"
 
 msgid "A connected"
 msgstr ""
@@ -32,13 +35,13 @@ msgid "Account settings"
 msgstr "Fiókbeállítások"
 
 msgid "acos"
-msgstr ""
+msgstr "arccos"
 
 msgid "Add boolean input:"
 msgstr "Új logikai bemenet:"
 
 msgid "add comment"
-msgstr ""
+msgstr "megjegyzés hozzáadása"
 
 msgid "Add label text:"
 msgstr "Új szöveges címke:"
@@ -65,13 +68,13 @@ msgid "Animals"
 msgstr "Állatok"
 
 msgid "asin"
-msgstr ""
+msgstr "arcsin"
 
 msgid "assets loaded"
 msgstr ""
 
 msgid "atan"
-msgstr ""
+msgstr "arctg"
 
 msgid "B connected"
 msgstr ""
@@ -144,7 +147,7 @@ msgid "button pressed"
 msgstr "gomb lenyomva"
 
 msgid "by"
-msgstr ""
+msgstr "készítette:"
 
 msgid "bytes loaded"
 msgstr ""
@@ -168,7 +171,7 @@ msgid "Cannot Delete"
 msgstr ""
 
 msgid "Can’t find network connection or reach server."
-msgstr ""
+msgstr "A hálózat vagy a szerver nem elérhető."
 
 msgid "Castle"
 msgstr "Kastély"
@@ -237,8 +240,9 @@ msgstr "szín"
 msgid "Color a shape"
 msgstr ""
 
+#, fuzzy
 msgid "Conga"
-msgstr ""
+msgstr "Konga"
 
 msgid "Connecting to Cloud data server..."
 msgstr ""
@@ -298,7 +302,7 @@ msgid "Creating..."
 msgstr ""
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr ""
+msgstr "Jelenleg a felhőváltozók csak számokat tárolhatnak."
 
 msgid "cut"
 msgstr "kivágás"
@@ -313,15 +317,14 @@ msgid "day of week"
 msgstr "hét napja"
 
 # 83%
-#, fuzzy
 msgid "Delete"
-msgstr "törlés"
+msgstr "Törlés"
 
 msgid "delete"
 msgstr "törlés"
 
 msgid "delete variable"
-msgstr ""
+msgstr "változó törlése"
 
 msgid "direction"
 msgstr "irány"
@@ -746,7 +749,7 @@ msgid "Rename"
 msgstr ""
 
 msgid "rename variable"
-msgstr ""
+msgstr "változó átnevezése"
 
 msgid "requires sign in"
 msgstr ""
@@ -940,9 +943,8 @@ msgid "Sprite Library"
 msgstr "Szereplőkönyvtár"
 
 # 85%
-#, fuzzy
 msgid "Sprite1"
-msgstr "Szereplők"
+msgstr "Szereplő1"
 
 msgid "Sprites"
 msgstr "Szereplők"
@@ -975,7 +977,7 @@ msgid "Tambourine"
 msgstr "Tamburin"
 
 msgid "tan"
-msgstr ""
+msgstr "tg"
 
 msgid "Text"
 msgstr "Szöveg"
@@ -1029,15 +1031,14 @@ msgid "Turbo mode"
 msgstr "Turbo mód"
 
 msgid "Turbo Mode"
-msgstr ""
+msgstr "Turbo mód"
 
 msgid "Type"
 msgstr "Típus"
 
 # 75%
-#, fuzzy
 msgid "Undelete"
-msgstr "törlés"
+msgstr "Törlés visszavonása"
 
 msgid "Underwater"
 msgstr "Vízalatti"
@@ -1056,7 +1057,7 @@ msgid "Ungroup"
 msgstr ""
 
 msgid "unshared"
-msgstr ""
+msgstr "megosztatlan"
 
 msgid "up"
 msgstr "fel"

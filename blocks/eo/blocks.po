@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-11 15:50+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-06-05 20:33+0200\n"
+"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
@@ -48,13 +48,12 @@ msgid "ask %s and wait"
 msgstr "demandu %s kaj atendu"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "numero de la fono"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "nomo de la fono"
 
 msgid "broadcast %m.broadcast"
 msgstr "elsendu %m.broadcast al ĉiuj"
@@ -108,31 +107,31 @@ msgid "costume #"
 msgstr "kostumo nombro"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "krei klonon de %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "aktuala %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Datumoj"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "tagoj depost 2000"
 
 msgid "define"
-msgstr ""
+msgstr "difini"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "forigu %d.listDeleteItem el %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "forigi tiun ĉi klonon"
 
 msgid "direction"
 msgstr "direkto"
 
 msgid "distance"
-msgstr ""
+msgstr "distanco"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "distanco de %m.spriteOrMouse"
@@ -141,7 +140,7 @@ msgid "else"
 msgstr "alie"
 
 msgid "Events"
-msgstr ""
+msgstr "Eventoj"
 
 msgid "forever"
 msgstr "ripetu eterne"
@@ -165,13 +164,13 @@ msgid "hide"
 msgstr "kaŝiĝu"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "kaŝi la liston %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "kaŝi la variablon %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "se %b tiam"
 
 msgid "if on edge, bounce"
 msgstr "reĵetiĝu de la rando"
@@ -204,7 +203,7 @@ msgid "loudness"
 msgstr "laŭteco"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Pli da blokoj"
 
 msgid "Motion"
 msgstr "movado"
@@ -222,7 +221,6 @@ msgid "move %n steps"
 msgstr "iru %n paŝojn"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "sekva fono"
 
@@ -251,9 +249,8 @@ msgid "play drum %d.drum for %n beats"
 msgstr "aŭdigu tamburon %d.drum dum %n taktoj"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "aŭdigu noton %d.note dum %n taktoj"
+msgstr "aŭdigi noton %d.note dum %n taktoj"
 
 msgid "play sound %m.sound"
 msgstr "aŭdigu sonon %m.sound"
@@ -307,14 +304,12 @@ msgid "set instrument to %d.instrument"
 msgstr "metu instrumenton al %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "motordirekto %m.motorDirection"
+msgstr "valorigi motordirekton al %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "motorforto %n"
+msgstr "valorigi motorforton al %n"
 
 msgid "set pen color to %c"
 msgstr "metu skribilkoloron al %c"
@@ -329,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "metu skribildikecon al %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "elekti turnstilon %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "metu grandecon al %n%"
@@ -338,7 +333,7 @@ msgid "set tempo to %n bpm"
 msgstr "metu rapidecon al %n taktoj minute"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "valorigi video-travideblecon al %n%"
 
 msgid "set volume to %n%"
 msgstr "metu laŭtecon al %n%"
@@ -353,10 +348,10 @@ msgid "show"
 msgstr "montriĝu"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "montri liston %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "montri variablon %m.var"
 
 msgid "size"
 msgstr "grandeco"
@@ -368,21 +363,21 @@ msgid "stamp"
 msgstr "stampi"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "haltigi %m.stop"
 
 msgid "stop all sounds"
 msgstr "finigu ĉiujn sonojn"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "ŝanĝi fonon al %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "ŝanĝi fonon al %m.backdrop kaj atendi"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "ŝanĝi kostumon al %m.costume"
 
 msgid "tempo"
 msgstr "rapideco"
@@ -394,7 +389,7 @@ msgid "think %s for %n secs"
 msgstr "pensu %s dum %n sekundoj"
 
 msgid "tilt"
-msgstr ""
+msgstr "klini"
 
 msgid "timer"
 msgstr "klikhorloĝo"
@@ -406,30 +401,29 @@ msgid "touching color %c?"
 msgstr "koloro %c estas tuŝita?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "turni @turnLeft je %n gradoj"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "turni @turnRight je %n gradoj"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "malŝalti motoron"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "ŝalti motoron"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "enŝaltu motoron dum %n sekundoj"
+msgstr "ŝalti motoron dum %n sekundoj"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "video iĝu %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "uzantnomo"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "video %m.videoMotionType sur %m.stageOrThis"
 
 msgid "volume"
 msgstr "laŭteco"
@@ -441,37 +435,36 @@ msgid "wait until %b"
 msgstr "atendu ĝis %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "sentilo %m.booleanSensor?"
+msgstr "kiam %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "kiam klavo %m.key estas premita"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "kiam %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "kiam @greenFlag estas alklakita"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "kiam fono ŝanĝiĝas al %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "kiam distanco < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "kiam mi ricevas %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "kiam mi komenciĝas kiel klono"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "kiam tiu ĉi rolulo estas alklakita"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "kiam klino = %n"
 
 msgid "x position"
 msgstr "x pozicio"
