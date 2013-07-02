@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:45+0200\n"
-"PO-Revision-Date: 2013-06-02 20:10+0200\n"
-"Last-Translator: Dohyeong <goodideal@gmail.com>\n"
+"PO-Revision-Date: 2013-06-21 11:40+0200\n"
+"Last-Translator: janggoons <janggoons@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +35,7 @@ msgid "acos"
 msgstr ""
 
 msgid "Add boolean input:"
-msgstr ""
+msgstr "논리값 매개변수 추가하기:"
 
 msgid "add comment"
 msgstr ""
@@ -44,10 +44,10 @@ msgid "Add label text:"
 msgstr ""
 
 msgid "Add number input:"
-msgstr ""
+msgstr "숫자 매개변수 추가하기:"
 
 msgid "Add string input:"
-msgstr ""
+msgstr "문자열 매개변수 추가하기:"
 
 msgid "All"
 msgstr ""
@@ -86,7 +86,7 @@ msgid "backdrop"
 msgstr "배경"
 
 msgid "backdrop #"
-msgstr "배경 #"
+msgstr "배경 번호"
 
 msgid "Backdrop Library"
 msgstr "배경 저장소"
@@ -257,13 +257,13 @@ msgid "Copying..."
 msgstr ""
 
 msgid "cos"
-msgstr ""
+msgstr "cos"
 
 msgid "Costume"
 msgstr "모양"
 
 msgid "costume #"
-msgstr "모양 #"
+msgstr "모양 번호"
 
 msgid "Costume Library"
 msgstr "모양 저장소"
@@ -305,10 +305,10 @@ msgid "D connected"
 msgstr ""
 
 msgid "date"
-msgstr ""
+msgstr "일"
 
 msgid "day of week"
-msgstr ""
+msgstr "요일"
 
 # 83%
 msgid "Delete"
@@ -366,7 +366,7 @@ msgid "Effects"
 msgstr "효과"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "전자 기타"
 
 msgid "Electric Piano"
 msgstr "전자 피아노"
@@ -405,10 +405,10 @@ msgid "fisheye"
 msgstr "어안 렌즈"
 
 msgid "Flip left-right"
-msgstr ""
+msgstr "좌우 반전"
 
 msgid "Flip up-down"
-msgstr ""
+msgstr "상하반전"
 
 msgid "floor"
 msgstr "바닥 함수"
@@ -420,10 +420,10 @@ msgid "Flying"
 msgstr ""
 
 msgid "For all sprites"
-msgstr "모든 스프라이트"
+msgstr "모든 스프라이트에서 사용"
 
 msgid "For this sprite only"
-msgstr "이 스프라이트에서만"
+msgstr "이 스프라이트에서만 사용"
 
 msgid "Forward a layer"
 msgstr ""
@@ -450,19 +450,19 @@ msgid "Hand Clap"
 msgstr "박수"
 
 msgid "hide"
-msgstr ""
+msgstr "숨기기"
 
 msgid "hour"
-msgstr ""
+msgstr "시"
 
 msgid "Human"
-msgstr ""
+msgstr "인간"
 
 msgid "Import"
 msgstr "가져오기"
 
 msgid "Importing sound..."
-msgstr ""
+msgstr "소리 가져오기..."
 
 msgid "Indoors"
 msgstr ""
@@ -471,7 +471,7 @@ msgid "Installing..."
 msgstr ""
 
 msgid "Instruments"
-msgstr ""
+msgstr "악기들"
 
 msgid "last"
 msgstr "마지막"
@@ -520,16 +520,16 @@ msgid "louder"
 msgstr ""
 
 msgid "loudness"
-msgstr ""
+msgstr "음량"
 
 msgid "Make a Block"
-msgstr ""
+msgstr "블록 만들기"
 
 msgid "Make a List"
-msgstr ""
+msgstr "리스트 만들기"
 
 msgid "Make a Variable"
-msgstr ""
+msgstr "변수 만들기"
 
 msgid "Marimba"
 msgstr "마림바"
@@ -550,10 +550,10 @@ msgid "Min"
 msgstr ""
 
 msgid "minute"
-msgstr ""
+msgstr "분"
 
 msgid "month"
-msgstr ""
+msgstr "달"
 
 msgid "mosaic"
 msgstr "모자이크"
@@ -592,40 +592,40 @@ msgid "New backdrop from camera"
 msgstr ""
 
 msgid "New backdrop:"
-msgstr ""
+msgstr "새로운 배경:"
 
 msgid "New costume from camera"
-msgstr ""
+msgstr "카메라로 새로운 모양 만들기"
 
 msgid "New costume:"
-msgstr ""
+msgstr "새로운 모양:"
 
 msgid "New List"
-msgstr ""
+msgstr "새로운 리스트"
 
 msgid "new message..."
-msgstr ""
+msgstr "새 메시지..."
 
 msgid "New name"
-msgstr ""
+msgstr "새로운 이름"
 
 msgid "New sound:"
-msgstr ""
+msgstr "새로운 소리:"
 
 msgid "New sprite from camera"
-msgstr "카메라로부터 새 스프라이트"
+msgstr "카메라로부터 새 스프라이트 만들기"
 
 msgid "New sprite:"
-msgstr "새 스프라이트:"
+msgstr "새로운 스프라이트:"
 
 msgid "New Variable"
-msgstr ""
+msgstr "새로운 변수"
 
 msgid "No motion blocks"
 msgstr ""
 
 msgid "Not saved; network or server problem."
-msgstr ""
+msgstr "네트워크 또는 서버 문제로 저장되지 않음."
 
 msgid "of"
 msgstr ""
@@ -634,13 +634,13 @@ msgid "off"
 msgstr "끄기"
 
 msgid "OK"
-msgstr ""
+msgstr "확인"
 
 msgid "on"
 msgstr "켜기"
 
 msgid "on-flipped"
-msgstr ""
+msgstr "켜기-좌우반전"
 
 msgid "Open Cuica"
 msgstr "오픈 퀴카"
@@ -649,7 +649,7 @@ msgid "Open Hi-Hat"
 msgstr "오픈 하이-햇"
 
 msgid "Options"
-msgstr ""
+msgstr "선택사항"
 
 msgid "Organ"
 msgstr ""
@@ -700,7 +700,7 @@ msgid "Pizzicato"
 msgstr "피치카토"
 
 msgid "pop"
-msgstr "꺼내기"
+msgstr ""
 
 msgid "Profile"
 msgstr ""
@@ -715,7 +715,7 @@ msgid "Record"
 msgstr "녹음"
 
 msgid "Record new sound"
-msgstr ""
+msgstr "새로운 소리 기록하기"
 
 msgid "recording1"
 msgstr ""
@@ -777,58 +777,58 @@ msgid "right arrow"
 msgstr "오른쪽 화살표"
 
 msgid "rotation style:"
-msgstr ""
+msgstr "회전 방식:"
 
 msgid "Run without screen refresh"
-msgstr ""
+msgstr "화면 새로고침 없이 실행하기"
 
 msgid "Save"
-msgstr ""
+msgstr "저장하기"
 
 msgid "Save as a copy"
-msgstr ""
+msgstr "복사본 저장하기"
 
 msgid "Save now"
 msgstr ""
 
 msgid "save to local file"
-msgstr ""
+msgstr "로컬파일로 저장하기"
 
 msgid "Saved"
-msgstr ""
+msgstr "저장됨"
 
 msgid "Saving changes..."
 msgstr ""
 
 msgid "Saving..."
-msgstr ""
+msgstr "저장중..."
 
 msgid "Saxophone"
 msgstr "색소폰"
 
 msgid "Script"
-msgstr ""
+msgstr "스크립트"
 
 msgid "Scripts"
-msgstr ""
+msgstr "스크립트들"
 
 msgid "Scripts:"
-msgstr ""
+msgstr "스크립트들:"
 
 msgid "second"
-msgstr ""
+msgstr "초"
 
 msgid "See project page"
-msgstr ""
+msgstr "프로젝트 페이지 보기"
 
 msgid "Select"
-msgstr ""
+msgstr "선택하기"
 
 msgid "select all"
-msgstr ""
+msgstr "모두 선택하기"
 
 msgid "Select and duplicate"
-msgstr ""
+msgstr "선택하고 복사하기"
 
 msgid "Send to back"
 msgstr "뒤로 보내기"
@@ -840,16 +840,16 @@ msgid "Set Costume Center"
 msgstr ""
 
 msgid "Share"
-msgstr ""
+msgstr "공유하기"
 
 msgid "shared"
-msgstr ""
+msgstr "공유됨"
 
 msgid "Shift:"
 msgstr ""
 
 msgid "show"
-msgstr ""
+msgstr "보이기"
 
 msgid "show receivers"
 msgstr ""
@@ -873,7 +873,7 @@ msgid "Sign in to save"
 msgstr "로그인 저장"
 
 msgid "Sign out"
-msgstr ""
+msgstr "로그아웃"
 
 msgid "silence"
 msgstr ""
@@ -882,13 +882,13 @@ msgid "sin"
 msgstr ""
 
 msgid "size"
-msgstr ""
+msgstr "크기"
 
 msgid "slider"
 msgstr "슬라이더"
 
 msgid "Slider Range"
-msgstr ""
+msgstr "슬라이더 범위"
 
 msgid "Small stage layout"
 msgstr ""
@@ -903,10 +903,10 @@ msgid "softer"
 msgstr ""
 
 msgid "sound"
-msgstr ""
+msgstr "소리"
 
 msgid "Sound"
-msgstr ""
+msgstr "소리"
 
 msgid "Sound Library"
 msgstr ""
@@ -976,7 +976,7 @@ msgid "that way"
 msgstr "반시계방향"
 
 msgid "Theme"
-msgstr ""
+msgstr "테마"
 
 msgid "Things"
 msgstr ""
@@ -985,10 +985,10 @@ msgid "This project can detect who is using it, through the “username” block
 msgstr ""
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
-msgstr "이 프로젝트는 클라우드 데이터를 사용합니다. - 로그인한 사용자에게만 가능 합니다."
+msgstr "이 프로젝트는 클라우드 데이터를 사용합니다. - 로그인한 사용자만 실행할 수 있습니다."
 
 msgid "this script"
-msgstr ""
+msgstr "이 스크립트"
 
 msgid "this sprite"
 msgstr "이 스프라이트"
@@ -1000,13 +1000,13 @@ msgid "Throw away all changes since opening this project?"
 msgstr ""
 
 msgid "timer"
-msgstr ""
+msgstr "타이머"
 
 msgid "Tips"
-msgstr ""
+msgstr "도움말"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr ""
+msgstr "이 블록 정의를 삭제하기 위해서는, 먼저 사용된 이 블록을 모두 삭제해야 합니다."
 
 msgid "Transportation"
 msgstr ""
@@ -1058,40 +1058,40 @@ msgid "up arrow"
 msgstr "위쪽 화살표"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "배경 파일 업로드하기"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "모양 파일 업로드하기"
 
 msgid "Upload from your computer"
 msgstr "내 컴퓨터에서 올리기"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "소리 파일 업로드하기"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "스프라이트 파일 업로드하기"
 
 msgid "Uploading image..."
-msgstr ""
+msgstr "이미지 업로드 중..."
 
 msgid "Uploading sound..."
-msgstr ""
+msgstr "소리 업로드 중..."
 
 msgid "Uploading sprite..."
-msgstr "스프라이트 올리는중..."
+msgstr "스프라이트 업로드 중..."
 
 msgid "variable"
-msgstr ""
+msgstr "변수"
 
 msgid "Variable name"
 msgstr "변수 이름"
 
 msgid "Vector"
-msgstr ""
+msgstr "벡터"
 
 msgid "Vector Mode"
-msgstr ""
+msgstr "벡터 모드"
 
 msgid "Vibraphone"
 msgstr "비브라폰"
@@ -1100,10 +1100,10 @@ msgid "Vibraslap"
 msgstr "비브라슬랩"
 
 msgid "video motion"
-msgstr ""
+msgstr "비디오 동작"
 
 msgid "Video on:"
-msgstr ""
+msgstr "비디오 켜기:"
 
 msgid "Vocals"
 msgstr ""
@@ -1130,7 +1130,7 @@ msgid "Wooden Flute"
 msgstr ""
 
 msgid "x position"
-msgstr ""
+msgstr "x 좌표"
 
 msgid "y position"
 msgstr "y 좌표"

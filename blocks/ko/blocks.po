@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-31 07:50+0200\n"
+"PO-Revision-Date: 2013-06-21 11:17+0200\n"
 "Last-Translator: janggoons <janggoons@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -27,7 +27,7 @@ msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage 의 %m.attribute"
 
 msgid "%m.list contains %s"
-msgstr "%m.list 에 %s 포함여부"
+msgstr "%m.list 리스트에 %s 이(가) 포함되었는가?"
 
 msgid "%m.mathOp of %n"
 msgstr "%n 의 %m.mathOp"
@@ -39,7 +39,7 @@ msgid "%n mod %n"
 msgstr "%n / %n 의 나머지"
 
 msgid "add %s to %m.list"
-msgstr "%m.list 에 %s 추가하기"
+msgstr "%m.list 리스트에 %s 추가하기"
 
 msgid "answer"
 msgstr "대답"
@@ -68,10 +68,10 @@ msgid "change %m.var by %n"
 msgstr "%m.var 를 %n 만큼 바꾸기"
 
 msgid "change pen color by %n"
-msgstr "펜 색상을 %n 만큼 바꾸기"
+msgstr "펜 색깔을 %n 만큼 바꾸기"
 
 msgid "change pen shade by %n"
-msgstr "펜 농도를 %n 만큼 바꾸기"
+msgstr "펜 음영을 %n 만큼 바꾸기"
 
 msgid "change pen size by %n"
 msgstr "펜 굵기를 %n 만큼 바꾸기"
@@ -98,7 +98,7 @@ msgid "clear graphic effects"
 msgstr "그래픽 효과 지우기"
 
 msgid "color %c is touching %c?"
-msgstr "%c 색이 %c 색에 닿기?"
+msgstr "%c 색이 %c 색에 닿았는가?"
 
 msgid "Control"
 msgstr "제어"
@@ -116,13 +116,13 @@ msgid "Data"
 msgstr "데이터"
 
 msgid "days since 2000"
-msgstr "2000년 이후의 날짜"
+msgstr "2000년 이후 경과일"
 
 msgid "define"
 msgstr "정의하기"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "%m.list 의 %d.listDeleteItem 위치 아이템 삭제하기"
+msgstr "%m.list 리스트의 %d.listDeleteItem 번째 항목 삭제하기"
 
 msgid "delete this clone"
 msgstr "이 복제본 삭제하기"
@@ -176,19 +176,19 @@ msgid "if on edge, bounce"
 msgstr "벽에 닿으면 튕기기"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "%m.list 의 %d.listItem 위치에 %s 넣기"
+msgstr "%m.list 리스트의 %d.listItem 번째에 %s 넣기"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list 의 %d.listItem 위치 아이템"
+msgstr "%m.list 리스트의 %d.listItem 번째 항목"
 
 msgid "join %s %s"
-msgstr "%s 와 %s 결합하기"
+msgstr "%s 과 %s 을(를) 결합하기"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key 키 클릭?"
+msgstr "%m.key 키를 클릭했는가?"
 
 msgid "length of %m.list"
-msgstr "%m.list 의 크기"
+msgstr "%m.list 리스트의 크기"
 
 msgid "length of %s"
 msgstr "%s 의 길이"
@@ -209,7 +209,7 @@ msgid "Motion"
 msgstr "동작"
 
 msgid "mouse down?"
-msgstr "마우스 클릭?"
+msgstr "마우스를 클릭했는가?"
 
 msgid "mouse x"
 msgstr "마우스의 x좌표"
@@ -228,7 +228,7 @@ msgid "next costume"
 msgstr "다음 모양으로 바꾸기"
 
 msgid "not %b"
-msgstr "%b 아니다"
+msgstr "%b 이(가) 아니다"
 
 msgid "Operators"
 msgstr "연산"
@@ -271,7 +271,7 @@ msgid "repeat until %b"
 msgstr "%b 까지 반복하기"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "%m.list 의 %d.listItem 위치 아이템을 %s 로 바꾸기"
+msgstr "%m.list 리스트의 %d.listItem 번째 항목을 %s (으)로 바꾸기"
 
 msgid "reset timer"
 msgstr "타이머 초기화"
@@ -312,13 +312,13 @@ msgid "set motor power %n"
 msgstr "모터 파워를 %n (으)로 정하기"
 
 msgid "set pen color to %c"
-msgstr "펜 색상을 %c (으)로 정하기"
+msgstr "펜 색깔을 %c (으)로 정하기"
 
 msgid "set pen color to %n"
-msgstr "펜 색상을 %n (으)로 정하기"
+msgstr "펜 색깔을 %n (으)로 정하기"
 
 msgid "set pen shade to %n"
-msgstr "펜 농도를 %n (으)로 정하기"
+msgstr "펜 음영을 %n (으)로 정하기"
 
 msgid "set pen size to %n"
 msgstr "펜 굵기를 %n (으)로 정하기"
@@ -348,10 +348,10 @@ msgid "show"
 msgstr "보이기"
 
 msgid "show list %m.list"
-msgstr "리스트 %m.list 보이기"
+msgstr "%m.list 리스트 보이기"
 
 msgid "show variable %m.var"
-msgstr "변수 %m.var 보이기"
+msgstr "%m.var 변수 보이기"
 
 msgid "size"
 msgstr "크기"
@@ -360,7 +360,7 @@ msgid "Sound"
 msgstr "소리"
 
 msgid "stamp"
-msgstr "도장"
+msgstr "도장찍기"
 
 msgid "stop %m.stop"
 msgstr "%m.stop 멈추기"
@@ -401,10 +401,10 @@ msgid "touching color %c?"
 msgstr "%c 색에 닿았는가?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "@turnLeft %n 도 돌기"
+msgstr "%n @turnLeft 도 돌기"
 
 msgid "turn @turnRight %n degrees"
-msgstr "@turnRight %n 도 돌기"
+msgstr "%n @turnRight 도 돌기"
 
 msgid "turn motor off"
 msgstr "모터 끄기"
@@ -423,7 +423,7 @@ msgid "username"
 msgstr "사용자이름"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "%m.stageOrThis 에서 비디오 %m.videoMotionType"
+msgstr "%m.stageOrThis 위에서의 비디오 %m.videoMotionType"
 
 msgid "volume"
 msgstr "음량"
