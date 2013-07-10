@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:45+0200\n"
-"PO-Revision-Date: 2013-05-02 23:20+0200\n"
+"POT-Creation-Date: 2013-07-05 06:56+0200\n"
+"PO-Revision-Date: 2013-07-09 18:11+0200\n"
 "Last-Translator: s_federici <s_federici@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -93,13 +93,13 @@ msgstr "Sfondo"
 
 # 88%
 msgid "backdrop"
-msgstr "sfondo1"
+msgstr "sfondo"
 
 msgid "backdrop #"
 msgstr "numero sfondo"
 
 msgid "Backdrop Library"
-msgstr "Libreria sfondi"
+msgstr "Libreria Sfondi"
 
 msgid "backdrop name"
 msgstr "nome sfondo"
@@ -126,6 +126,12 @@ msgstr "Grancassa"
 
 msgid "Bassoon"
 msgstr "Bassoon"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"Siccome sei un nuovo utente di Scratch, qualunque cambiamento ai dati cloud "
+"non verrà salvato. Continuando a partecipare sul sito potrai usare i dati "
+"cloud molto presto!"
 
 msgid "Bitmap"
 msgstr "Bitmap"
@@ -397,8 +403,12 @@ msgstr "Ellisse"
 msgid "Erase"
 msgstr "Cancella"
 
-msgid "Eraser width:"
-msgstr "Dimensione della gomma:"
+# 92%
+msgid "Eraser width"
+msgstr "Dimensione della gomma"
+
+msgid "Error!"
+msgstr "Errore!"
 
 msgid "fade in"
 msgstr "ingresso"
@@ -469,6 +479,9 @@ msgstr "Battimano"
 msgid "hide"
 msgstr "nasconditi"
 
+msgid "High C"
+msgstr "Do Alto"
+
 msgid "hour"
 msgstr "ora"
 
@@ -514,8 +527,9 @@ msgstr "limite raggiunto"
 msgid "Line"
 msgstr "Linea"
 
-msgid "Line width:"
-msgstr "Dimensione della linea:"
+# 90%
+msgid "Line width"
+msgstr "Spessore della linea"
 
 # 75%
 msgid "list"
@@ -538,6 +552,9 @@ msgstr "più forte"
 
 msgid "loudness"
 msgstr "rumorosità"
+
+msgid "Low C"
+msgstr "Do Basso"
 
 msgid "Make a Block"
 msgstr "Crea un Blocco"
@@ -562,6 +579,12 @@ msgstr "Nome del Messaggio"
 
 msgid "message1"
 msgstr "messaggio1"
+
+msgid "Microphone Volume:"
+msgstr "Volume del Microfono:"
+
+msgid "Middle C"
+msgstr "Do Medio"
 
 msgid "Min"
 msgstr "Minimo"
@@ -647,6 +670,9 @@ msgstr "Nessun blocco di movimento"
 msgid "Not saved; network or server problem."
 msgstr "Il salvataggio è fallito: problema sulla rete o sul server."
 
+msgid "Not saved; project did not load."
+msgstr "Il salvataggio è fallito; il progetto non è stato caricato."
+
 msgid "of"
 msgstr "di"
 
@@ -725,6 +751,9 @@ msgstr "pop"
 
 msgid "Profile"
 msgstr "Profilo"
+
+msgid "Project did not load."
+msgstr "Il progetto non è stato caricato."
 
 msgid "Project not saved!"
 msgstr "Il progetto non è stato salvato!"
@@ -1173,6 +1202,12 @@ msgstr ""
 "Non puoi modificare i dati cloud di un progetto creato da qualcun "
 "altro.<br>Qualunque cambiamento che apporti all'interno dell'editor è "
 "infatti temporaneo e non permanente."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Dimensione della gomma:"
+
+#~ msgid "Line width:"
+#~ msgstr "Dimensione della linea:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Aggiungi un parametro booleano:"

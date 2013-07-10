@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:44+0200\n"
+"POT-Creation-Date: 2013-07-05 06:55+0200\n"
 "PO-Revision-Date: 2013-04-27 08:56+0200\n"
 "Last-Translator: ukkeli <avuorilehto@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -125,6 +125,9 @@ msgstr "Bassorumpu"
 
 msgid "Bassoon"
 msgstr "Bassoon"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "Bittikartta"
@@ -395,8 +398,13 @@ msgstr "Ellipsi"
 msgid "Erase"
 msgstr "Kumita"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "Kumin leveys"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "vaimenna alku"
@@ -467,6 +475,9 @@ msgstr "Taputus"
 msgid "hide"
 msgstr "piilota"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "tunti"
 
@@ -512,7 +523,9 @@ msgstr "raja saavutettu"
 msgid "Line"
 msgstr "Viiva"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Viivanleveys:"
 
 # 75%
@@ -537,6 +550,9 @@ msgstr "voimakkaammin"
 msgid "loudness"
 msgstr "voimakkuus"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "Tee palikka"
 
@@ -560,6 +576,12 @@ msgstr "Viestinnimi"
 
 msgid "message1"
 msgstr "viesti1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "Minimi"
@@ -645,6 +667,9 @@ msgstr "Ei liikelohkoja"
 msgid "Not saved; network or server problem."
 msgstr "Ei tallennettu; verkko- tai palvelinongelmia."
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr "määrästä"
 
@@ -723,6 +748,9 @@ msgstr "pop"
 
 msgid "Profile"
 msgstr "Profiili"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "Projektia ei ole tallennettu!"
@@ -1165,6 +1193,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Et voi muokata pilvitietoa jonkun toisen projektissa.<b>Kaikki muutokset "
 "joita teet ovat paikallisia eivät tallennu."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Kumin leveys"
+
+#~ msgid "Line width:"
+#~ msgstr "Viivanleveys:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "lisää boolean input"

@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:47+0200\n"
-"PO-Revision-Date: 2013-05-05 11:38+0200\n"
+"POT-Creation-Date: 2013-07-05 06:59+0200\n"
+"PO-Revision-Date: 2013-07-06 16:00+0200\n"
 "Last-Translator: Milan <milan.cajic@open.telekom.rs>\n"
 "Language-Team: српски <>\n"
 "Language: sr\n"
@@ -131,6 +131,12 @@ msgstr "Бас бубањ"
 
 msgid "Bassoon"
 msgstr "Фагот"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"Због тога што је твој Скрач налог нов, било која промена Интернет података у "
+"облаку се неће сачувати. Настави да учествујеш на сајту и омогућиће ти се "
+"да користиш Интернет податке у облаку ускоро!"
 
 msgid "Bitmap"
 msgstr "Растер"
@@ -404,8 +410,11 @@ msgstr "Елипса"
 msgid "Erase"
 msgstr "Обриши"
 
-msgid "Eraser width:"
-msgstr "Обриши употребом:"
+msgid "Eraser width"
+msgstr "Величина брисача"
+
+msgid "Error!"
+msgstr "Грешка!"
 
 msgid "fade in"
 msgstr "постепено појављивање"
@@ -476,6 +485,9 @@ msgstr "Пљесак дланом"
 msgid "hide"
 msgstr "сакриј"
 
+msgid "High C"
+msgstr "Високо це"
+
 msgid "hour"
 msgstr "час"
 
@@ -521,8 +533,8 @@ msgstr "достигнута је граница"
 msgid "Line"
 msgstr "Линија"
 
-msgid "Line width:"
-msgstr "Ширина линије:"
+msgid "Line width"
+msgstr "Ширина линије"
 
 # 75%
 msgid "list"
@@ -545,6 +557,9 @@ msgstr "гласније"
 
 msgid "loudness"
 msgstr "јачина звука"
+
+msgid "Low C"
+msgstr "Ниско це"
 
 msgid "Make a Block"
 msgstr "Направи блок"
@@ -569,6 +584,12 @@ msgstr "Име поруке"
 
 msgid "message1"
 msgstr "порука1"
+
+msgid "Microphone Volume:"
+msgstr "Осетљивост микрофона:"
+
+msgid "Middle C"
+msgstr "Средње це"
 
 msgid "Min"
 msgstr "Најмање"
@@ -654,6 +675,9 @@ msgstr "Нема блокова за кретање"
 msgid "Not saved; network or server problem."
 msgstr "Није сачувано. Проблем са везом или сервером."
 
+msgid "Not saved; project did not load."
+msgstr "Није сачувано; пројекат се није учитао."
+
 msgid "of"
 msgstr "од"
 
@@ -732,6 +756,9 @@ msgstr "поп"
 
 msgid "Profile"
 msgstr "Профил"
+
+msgid "Project did not load."
+msgstr "Пројекат се није учитао."
 
 msgid "Project not saved!"
 msgstr "Пројекат није сачуван!"
@@ -1178,6 +1205,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Не можеш да уређујеш интернет податке у облаку у туђем пројекту.<br>Свака "
 "промена коју направиш у едитору биће привремена а не трајна."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Обриши употребом:"
+
+#~ msgid "Line width:"
+#~ msgstr "Ширина линије:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Додај Булов улаз:"

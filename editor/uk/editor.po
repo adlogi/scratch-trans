@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:48+0200\n"
-"PO-Revision-Date: 2013-06-18 18:50+0200\n"
+"POT-Creation-Date: 2013-07-05 06:59+0200\n"
+"PO-Revision-Date: 2013-07-07 20:37+0200\n"
 "Last-Translator: gromko <ggromko@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uk\n"
@@ -127,6 +127,12 @@ msgstr "Великий басовий барабан"
 
 msgid "Bassoon"
 msgstr "Фагот"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"Оскільки ви є новим членом спільноти, то будь-які зміни в \"хмарних\" даних не "
+"будуть збережені. Приймайте участь у роботі спільноти на сайті і ви зможете "
+"використовувати \"хмарні\" дані!"
 
 msgid "Bitmap"
 msgstr "Растр"
@@ -397,8 +403,12 @@ msgstr "Овал"
 msgid "Erase"
 msgstr "Очистити"
 
-msgid "Eraser width:"
+# 92%
+msgid "Eraser width"
 msgstr "Розмір гумки:"
+
+msgid "Error!"
+msgstr "Помилка!"
 
 msgid "fade in"
 msgstr "посилювати"
@@ -469,6 +479,9 @@ msgstr "Плескіт долонь"
 msgid "hide"
 msgstr "сховати"
 
+msgid "High C"
+msgstr "Високий С"
+
 msgid "hour"
 msgstr "година"
 
@@ -514,8 +527,9 @@ msgstr "досягнуто межі"
 msgid "Line"
 msgstr "Лінія"
 
-msgid "Line width:"
-msgstr "Ширина лінії:"
+# 90%
+msgid "Line width"
+msgstr "Ширина лінії"
 
 # 75%
 msgid "list"
@@ -538,6 +552,9 @@ msgstr "голосніше"
 
 msgid "loudness"
 msgstr "гучність"
+
+msgid "Low C"
+msgstr "Низький С"
 
 msgid "Make a Block"
 msgstr "Створити блок"
@@ -562,6 +579,12 @@ msgstr "Ім’я повідомлення"
 
 msgid "message1"
 msgstr "повідомлення1"
+
+msgid "Microphone Volume:"
+msgstr "Гучність мікрофона:"
+
+msgid "Middle C"
+msgstr "Середній С"
 
 msgid "Min"
 msgstr "Min"
@@ -647,6 +670,9 @@ msgstr "Немає блоків руху"
 msgid "Not saved; network or server problem."
 msgstr "Не збережено: проблеми з мережею чи сервером."
 
+msgid "Not saved; project did not load."
+msgstr "Не збережено, проект не завантажено."
+
 msgid "of"
 msgstr "з"
 
@@ -726,6 +752,9 @@ msgstr "поп"
 
 msgid "Profile"
 msgstr "Профіль"
+
+msgid "Project did not load."
+msgstr "Проект не завантажено."
 
 msgid "Project not saved!"
 msgstr "Проект не збережено!"
@@ -1170,6 +1199,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Ви не можете редагувати хмарні дані в чужих проектах.<br>Будь-які зміни, які "
 "ви робите в редакторі будуть тимчасовими, а не постійними."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Розмір гумки:"
+
+#~ msgid "Line width:"
+#~ msgstr "Ширина лінії:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Додати введення логічного значення:"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-05-17 21:26+0200\n"
+"POT-Creation-Date: 2013-07-05 06:55+0200\n"
+"PO-Revision-Date: 2013-07-05 14:43+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -121,6 +121,12 @@ msgstr "Μπάσσο Τύμπανο"
 
 msgid "Bassoon"
 msgstr "Φαγκότο"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"Επειδή ο λογαριασμός σας στο Scratch είναι πρόσφατος, οποιαδήποτε αλλαγή στα "
+"δεδομένα cloud δεν θα αποθηκευτεί. Συνεχίστε να προσφέρετε στην κοινότητα "
+"και θα μπορείτε να χρησιμοποιείτε δεδομένα cloud σύντομα!"
 
 msgid "Bitmap"
 msgstr "Bitmap"
@@ -387,8 +393,12 @@ msgstr "Έλλειψη"
 msgid "Erase"
 msgstr "Σβήσιμο"
 
-msgid "Eraser width:"
+# 92%
+msgid "Eraser width"
 msgstr "Πλάτος γόμας"
+
+msgid "Error!"
+msgstr "Σφάλμα!"
 
 msgid "fade in"
 msgstr "Σταδιακή αύξηση της έντασης"
@@ -459,6 +469,9 @@ msgstr "Χειροκρότημα"
 msgid "hide"
 msgstr "Απόκρυψη"
 
+msgid "High C"
+msgstr "Υψηλή C"
+
 msgid "hour"
 msgstr "ώρα"
 
@@ -504,7 +517,8 @@ msgstr "Το όριο έχει φταστεί"
 msgid "Line"
 msgstr "Γραμμή"
 
-msgid "Line width:"
+# 90%
+msgid "Line width"
 msgstr "Πλάτος γραμμής"
 
 msgid "list"
@@ -527,6 +541,9 @@ msgstr "Αύξηση της έντασης"
 
 msgid "loudness"
 msgstr "ένταση"
+
+msgid "Low C"
+msgstr "Χαμηλή C"
 
 msgid "Make a Block"
 msgstr "Δημιουργήστε ένα τετράγωνο εντολών"
@@ -551,6 +568,12 @@ msgstr "Όνομα μηνύματος"
 
 msgid "message1"
 msgstr "μήνυμα1"
+
+msgid "Microphone Volume:"
+msgstr "Ένταση Μικροφώνου:"
+
+msgid "Middle C"
+msgstr "Μεσαία C"
 
 msgid "Min"
 msgstr "Ελάχιστο"
@@ -633,6 +656,9 @@ msgstr "Κανένα τετράγωνο εντολών κίνησης"
 msgid "Not saved; network or server problem."
 msgstr "Δεν έγινε αποθήκευση, πρόβλημα στο δίκτυο ή στο σέρβερ."
 
+msgid "Not saved; project did not load."
+msgstr "Δεν έγινε αποθήκευση, το έργο δεν φορτώθηκε."
+
 msgid "of"
 msgstr "από"
 
@@ -710,6 +736,9 @@ msgstr "μπουμ"
 
 msgid "Profile"
 msgstr "Προφίλ"
+
+msgid "Project did not load."
+msgstr "Το έργο δεν φορτώθηκε."
 
 msgid "Project not saved!"
 msgstr "Το έργο δεν αποθηκεύτηκε!"
@@ -1146,6 +1175,12 @@ msgstr ""
 "Δεν μπορείτε να επεξεργαστείτε δεδομένα Cloud σε έργο άλλου "
 "χρήστη.<br>Οποιαδήποτε αλλαγή κάνετε στον Επεξεργαστή Έργων είναι προσωρινή "
 "και όχι μόνιμη."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Πλάτος γόμας"
+
+#~ msgid "Line width:"
+#~ msgstr "Πλάτος γραμμής"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Προσθέστε μια τιμή boolean:"

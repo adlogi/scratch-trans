@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:46+0200\n"
+"POT-Creation-Date: 2013-07-05 06:57+0200\n"
 "PO-Revision-Date: 2013-05-16 12:47+0200\n"
 "Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -125,6 +125,9 @@ msgstr "Bosinis Būgnas"
 
 msgid "Bassoon"
 msgstr "Fagotas"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 #, fuzzy
 msgid "Bitmap"
@@ -406,8 +409,13 @@ msgstr "Elipsė"
 msgid "Erase"
 msgstr "Trintukas"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "Trintuko plotis:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "sustiprinti"
@@ -482,6 +490,9 @@ msgstr "Pliaukštelėjimas delnais"
 msgid "hide"
 msgstr "paslėpti"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "valanda"
 
@@ -530,7 +541,9 @@ msgstr "pasiekta riba"
 msgid "Line"
 msgstr "Linija"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Linijos plotis:"
 
 # 75%
@@ -555,6 +568,9 @@ msgstr "garsiau"
 msgid "loudness"
 msgstr "garsumas"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "Sukurti komandą"
 
@@ -578,6 +594,12 @@ msgstr "Žinutės pavadinimas"
 
 msgid "message1"
 msgstr "žinia 1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "Min"
@@ -668,6 +690,9 @@ msgstr "Be judėjimo komandų"
 msgid "Not saved; network or server problem."
 msgstr "Neišsaugota - interneto ryšio arba serverio problema"
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 #, fuzzy
 msgid "of"
 msgstr "iš"
@@ -751,6 +776,9 @@ msgstr "paskutinis"
 
 msgid "Profile"
 msgstr "Profilis"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "Projektas neišsaugotas!"
@@ -1214,6 +1242,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Jūs negalite keisti \"debesyje\" saugomų duomenų iš kitų žmonių projektų. "
 "<br>Bet kokie pakeitimai bus laikini ir neišsaugoti."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Trintuko plotis:"
+
+#~ msgid "Line width:"
+#~ msgstr "Linijos plotis:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Loginė reikšmė"

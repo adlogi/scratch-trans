@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:46+0200\n"
+"POT-Creation-Date: 2013-07-05 06:57+0200\n"
 "PO-Revision-Date: 2013-06-20 22:01+0200\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -125,6 +125,9 @@ msgstr "Stortromme"
 
 msgid "Bassoon"
 msgstr "Fagott"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "Punktgrafikk"
@@ -395,8 +398,13 @@ msgstr "Ellipse"
 msgid "Erase"
 msgstr "Slett"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "Viskelærbredde:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "inntoning"
@@ -467,6 +475,9 @@ msgstr "Håndklapp"
 msgid "hide"
 msgstr "skjul"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "time"
 
@@ -512,7 +523,9 @@ msgstr "ved grensen"
 msgid "Line"
 msgstr "Linje"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Linjebredde:"
 
 # 75%
@@ -537,6 +550,9 @@ msgstr "høyere"
 msgid "loudness"
 msgstr "lydstyrke"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "Lag en Blokk"
 
@@ -560,6 +576,12 @@ msgstr "Meldingsnavn"
 
 msgid "message1"
 msgstr "melding1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "Min"
@@ -645,6 +667,9 @@ msgstr "Ingen bevegelsesklosser"
 msgid "Not saved; network or server problem."
 msgstr "Ikke lagret, nettverksproblemer."
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr "av"
 
@@ -724,6 +749,9 @@ msgstr "plopp"
 
 msgid "Profile"
 msgstr "Profil"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "Prosjekt ikke lagret!"
@@ -1170,6 +1198,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Du kan ikke redigere nettdata i andres prosjekter.<br>Endringer du gjør her "
 "vil være midlertidige og blir ikke lagret."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Viskelærbredde:"
+
+#~ msgid "Line width:"
+#~ msgstr "Linjebredde:"
 
 #, fuzzy
 #~ msgid "Add a boolean input:"

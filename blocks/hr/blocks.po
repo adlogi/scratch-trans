@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-07-01 22:27+0200\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"PO-Revision-Date: 2013-07-10 16:48+0200\n"
+"Last-Translator: zeta11 <tajana.toto@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
@@ -34,7 +34,7 @@ msgid "%m.mathOp of %n"
 msgstr "%m.mathOp od %n"
 
 msgid "%m.sensor sensor value"
-msgstr "osjetilo %m.sensor"
+msgstr "%m.sensor vrijednost osjetila"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
@@ -49,7 +49,6 @@ msgid "ask %s and wait"
 msgstr "pitaj %s i čekaj"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "pozadina #"
 
@@ -58,40 +57,40 @@ msgid "backdrop name"
 msgstr "naziv pozadine"
 
 msgid "broadcast %m.broadcast"
-msgstr "razglasi %m.broadcast"
+msgstr "pošalji %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "razglasi %m.broadcast i čekaj"
+msgstr "pošalji %m.broadcast i čekaj"
 
 msgid "change %m.effect effect by %n"
-msgstr "povećaj efekt %m.effect za %n"
+msgstr "promjeni efekt %m.effect za %n"
 
 msgid "change %m.var by %n"
-msgstr "uvećaj %m.var za %n"
+msgstr "promjeni %m.var za %n"
 
 msgid "change pen color by %n"
-msgstr "promijeni boju olovke za %n"
+msgstr "promjeni boju olovke za %n"
 
 msgid "change pen shade by %n"
-msgstr "promijeni sjenu olovke za %n"
+msgstr "promjeni sjenu olovke za %n"
 
 msgid "change pen size by %n"
-msgstr "podebljaj olovku za %n"
+msgstr "promjeni debljinu olovke za %n"
 
 msgid "change size by %n"
-msgstr "promijenite za %n"
+msgstr "promjeni veličinu za %n"
 
 msgid "change tempo by %n"
-msgstr "ubrzaj za %n"
+msgstr "promjeni tempo za %n"
 
 msgid "change volume by %n"
-msgstr "pojačaj za %n"
+msgstr "promjeni glasnoću za %n"
 
 msgid "change x by %n"
-msgstr "dodaj %n na x"
+msgstr "promjeni x za %n"
 
 msgid "change y by %n"
-msgstr "dodaj %n na y"
+msgstr "promjeni y za %n"
 
 msgid "clear"
 msgstr "obriši"
@@ -103,13 +102,13 @@ msgid "color %c is touching %c?"
 msgstr "boja %c dodiruje %c?"
 
 msgid "Control"
-msgstr "upravljanje"
+msgstr "Upravljanje"
 
 msgid "costume #"
 msgstr "kostim #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "klioniraj %m.spriteOnly"
+msgstr "umnoži %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "trenutno %m.timeAndDate"
@@ -124,10 +123,10 @@ msgid "define"
 msgstr "definiraj"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "izbaci %d.listDeleteItem iz %m.list"
+msgstr "obriši %d.listDeleteItem iz %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "izbriši kopiju"
 
 msgid "direction"
 msgstr "smjer"
@@ -172,7 +171,7 @@ msgid "hide variable %m.var"
 msgstr "sakrij varijablu %m.var"
 
 msgid "if %b then"
-msgstr "ako je %b onda"
+msgstr "ako %b onda"
 
 msgid "if on edge, bounce"
 msgstr "ako si na rubu, okreni se"
@@ -199,7 +198,7 @@ msgid "letter %n of %s"
 msgstr "slovo %n od %s"
 
 msgid "Looks"
-msgstr "izgled"
+msgstr "Izgled"
 
 msgid "loudness"
 msgstr "glasnoća"
@@ -208,10 +207,10 @@ msgid "More Blocks"
 msgstr "Više Blokova"
 
 msgid "Motion"
-msgstr "kretanje"
+msgstr "Kretanje"
 
 msgid "mouse down?"
-msgstr "miš pritisnut"
+msgstr "miš pritisnut?"
 
 msgid "mouse x"
 msgstr "miš x"
@@ -223,7 +222,6 @@ msgid "move %n steps"
 msgstr "idi %n koraka"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "sljedeća pozadina"
 
@@ -234,10 +232,10 @@ msgid "not %b"
 msgstr "nije %b"
 
 msgid "Operators"
-msgstr "operacije"
+msgstr "Operacije"
 
 msgid "Pen"
-msgstr "olovka"
+msgstr "Olovka"
 
 msgid "pen down"
 msgstr "spusti olovku"
@@ -251,19 +249,18 @@ msgstr "slučajni broj od %n do %n"
 msgid "play drum %d.drum for %n beats"
 msgstr "bubnjaj po %d.drum %n puta"
 
-# 83%
-#, fuzzy
+# 83% - cini mi se da je ton primjereniji od note. Opet, nisam siguran
 msgid "play note %d.note for %n beats"
-msgstr "sviraj notu %d.note %n puta"
+msgstr "sviraj ton %d.note %n puta"
 
 msgid "play sound %m.sound"
-msgstr "zasviraj %m.sound"
+msgstr "sviraj zvuk %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr "sviraj %m.sound do kraja"
+msgstr "sviraj zvuk %m.sound do kraja"
 
 msgid "point in direction %d.direction"
-msgstr "okreni se %d.direction"
+msgstr "okreni se u smjeru %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
 msgstr "okreni se k %m.spriteOrMouse"
@@ -293,7 +290,7 @@ msgid "say %s for %n secs"
 msgstr "govori %s %n sekundi"
 
 msgid "Sensing"
-msgstr "očitanja"
+msgstr "Očitanja"
 
 msgid "sensor %m.booleanSensor?"
 msgstr "osjetilo %m.booleanSensor?"
@@ -302,18 +299,16 @@ msgid "set %m.effect effect to %n"
 msgstr "postavi efekt %m.effect na %n"
 
 msgid "set %m.var to %s"
-msgstr "postavi %m.var na %n"
+msgstr "postavi %m.var na %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "postavi instrument na %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "smjer motora %m.motorDirection"
+msgstr "postavi smjer motora %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
 msgstr "postavi snagu motora %n"
 
@@ -321,7 +316,7 @@ msgid "set pen color to %c"
 msgstr "postavi boju olovke na %c"
 
 msgid "set pen color to %n"
-msgstr "postavi boju olovke na %c"
+msgstr "postavi boju olovke na %n"
 
 msgid "set pen shade to %n"
 msgstr "postavi sjenu olovke na %n"
@@ -330,13 +325,13 @@ msgid "set pen size to %n"
 msgstr "postavi debljinu olovke na %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "postavite stil rotacije %m.rotationStyle"
+msgstr "postavi stil rotacije %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "postavi veličinu na %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "postavite brzinu na %n upm"
+msgstr "postavi brzinu na %n upm"
 
 msgid "set video transparency to %n%"
 msgstr "postavi prozirnost videa na %n%"
@@ -351,10 +346,10 @@ msgid "set y to %n"
 msgstr "postavi y na %n"
 
 msgid "show"
-msgstr "pokažite"
+msgstr "prikaži"
 
 msgid "show list %m.list"
-msgstr "prikažite listu %m.list"
+msgstr "prikaži listu %m.list"
 
 msgid "show variable %m.var"
 msgstr "prikaži varijablu %m.var"
@@ -363,13 +358,13 @@ msgid "size"
 msgstr "veličina"
 
 msgid "Sound"
-msgstr "zvuk"
+msgstr "Zvuk"
 
 msgid "stamp"
 msgstr "žig"
 
 msgid "stop %m.stop"
-msgstr "zaustavite %m.stop"
+msgstr "zaustavi %m.stop"
 
 msgid "stop all sounds"
 msgstr "tišina"
@@ -380,10 +375,10 @@ msgstr "promijeni pozadinu na %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "promijeni pozadinu na %m.backdrop i čekaj"
+msgstr "promijeni pozadinu na %m.backdrop i pričekajte"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "promijeni kostim u %m.costume"
 
 msgid "tempo"
 msgstr "brzina"
@@ -395,7 +390,7 @@ msgid "think %s for %n secs"
 msgstr "razmišljaj %s %n sekundi"
 
 msgid "tilt"
-msgstr "nagnite"
+msgstr "nagni"
 
 msgid "timer"
 msgstr "alarm"
@@ -413,18 +408,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "skreni @turnRight %n stupnjeva"
 
 msgid "turn motor off"
-msgstr "ugasi motor"
+msgstr "isključite motor"
 
 msgid "turn motor on"
-msgstr "upali motor"
+msgstr "uključite motor"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "upali motor na %n sekunda"
+msgstr "uključite motor na %n sekundi"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "uključite video %m.videoState"
 
 msgid "username"
 msgstr "korisničko ime"
@@ -436,15 +430,14 @@ msgid "volume"
 msgstr "glasnoća"
 
 msgid "wait %n secs"
-msgstr "čekajte %n sekundi"
+msgstr "čekaj %n sekundi"
 
 msgid "wait until %b"
-msgstr "čekajte do %b"
+msgstr "čekaj do %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "osjetilo %m.booleanSensor?"
+msgstr "kada je %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "kada je tipka %m.key pritisnuta"
@@ -466,19 +459,19 @@ msgid "when I receive %m.broadcast"
 msgstr "kada primim %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "kada startam kao kopija"
 
 msgid "when this sprite clicked"
-msgstr "kada je lik kliknut"
+msgstr "kada je lik označen"
 
 msgid "when tilt = %n"
 msgstr "kad je nagib = %n"
 
 msgid "x position"
-msgstr "položaj x"
+msgstr "x položaj"
 
 msgid "y position"
-msgstr "položaj y"
+msgstr "y položaj"
 
 #~ msgid "forever if %b"
 #~ msgstr "ponavljaj ako je %b"

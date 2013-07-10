@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:45+0200\n"
+"POT-Creation-Date: 2013-07-05 06:57+0200\n"
 "PO-Revision-Date: 2013-06-21 11:40+0200\n"
 "Last-Translator: janggoons <janggoons@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,8 +31,10 @@ msgstr "절대값"
 msgid "Account settings"
 msgstr "계정 설정"
 
+# 75%
+#, fuzzy
 msgid "acos"
-msgstr ""
+msgstr "cos"
 
 msgid "Add boolean input:"
 msgstr "논리값 매개변수 추가하기:"
@@ -73,8 +75,10 @@ msgstr ""
 msgid "atan"
 msgstr ""
 
+# 90%
+#, fuzzy
 msgid "B connected"
-msgstr ""
+msgstr "A 연결됨"
 
 msgid "Back a layer"
 msgstr ""
@@ -114,6 +118,9 @@ msgstr "베이스 드럼"
 
 msgid "Bassoon"
 msgstr "바순"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "비트맵"
@@ -187,11 +194,15 @@ msgstr ""
 msgid "Choose backdrop from library"
 msgstr ""
 
+# 77%
+#, fuzzy
 msgid "Choose costume from library"
-msgstr ""
+msgstr "라이브러리에서 스프라이트 선택"
 
+# 80%
+#, fuzzy
 msgid "Choose sound from library"
-msgstr ""
+msgstr "라이브러리에서 스프라이트 선택"
 
 msgid "Choose sprite from library"
 msgstr "라이브러리에서 스프라이트 선택"
@@ -283,8 +294,10 @@ msgstr "모양들"
 msgid "Costumes > 1"
 msgstr ""
 
+# 88%
+#, fuzzy
 msgid "Costumes:"
-msgstr ""
+msgstr "모양들"
 
 msgid "Cowbell"
 msgstr "카우벨"
@@ -301,8 +314,10 @@ msgstr ""
 msgid "cut"
 msgstr ""
 
+# 90%
+#, fuzzy
 msgid "D connected"
-msgstr ""
+msgstr "A 연결됨"
 
 msgid "date"
 msgstr "일"
@@ -380,7 +395,10 @@ msgstr ""
 msgid "Erase"
 msgstr ""
 
-msgid "Eraser width:"
+msgid "Eraser width"
+msgstr ""
+
+msgid "Error!"
 msgstr ""
 
 msgid "fade in"
@@ -452,6 +470,9 @@ msgstr "박수"
 msgid "hide"
 msgstr "숨기기"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "시"
 
@@ -497,7 +518,7 @@ msgstr ""
 msgid "Line"
 msgstr ""
 
-msgid "Line width:"
+msgid "Line width"
 msgstr ""
 
 # 75%
@@ -522,6 +543,9 @@ msgstr ""
 msgid "loudness"
 msgstr "음량"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "블록 만들기"
 
@@ -545,6 +569,12 @@ msgstr ""
 
 msgid "message1"
 msgstr "메시지1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr ""
@@ -627,6 +657,9 @@ msgstr ""
 msgid "Not saved; network or server problem."
 msgstr "네트워크 또는 서버 문제로 저장되지 않음."
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr ""
 
@@ -703,6 +736,9 @@ msgid "pop"
 msgstr ""
 
 msgid "Profile"
+msgstr ""
+
+msgid "Project did not load."
 msgstr ""
 
 msgid "Project not saved!"
@@ -857,8 +893,10 @@ msgstr ""
 msgid "show senders"
 msgstr ""
 
+# 80%
+#, fuzzy
 msgid "show:"
-msgstr ""
+msgstr "보이기"
 
 msgid "Shrink"
 msgstr "축소"
@@ -911,8 +949,10 @@ msgstr "소리"
 msgid "Sound Library"
 msgstr ""
 
+# 83%
+#, fuzzy
 msgid "Sounds"
-msgstr ""
+msgstr "소리"
 
 msgid "space"
 msgstr "스페이스"
@@ -1048,8 +1088,10 @@ msgstr ""
 msgid "Ungroup"
 msgstr ""
 
+# 75%
+#, fuzzy
 msgid "unshared"
-msgstr ""
+msgstr "공유됨"
 
 msgid "up"
 msgstr "위"

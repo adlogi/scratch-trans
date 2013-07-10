@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:47+0200\n"
+"POT-Creation-Date: 2013-07-05 06:58+0200\n"
 "PO-Revision-Date: 2013-06-04 11:55+0200\n"
 "Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,6 +117,9 @@ msgstr "Veľký bubon"
 
 msgid "Bassoon"
 msgstr "Fagot"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "Bitmapa"
@@ -383,8 +386,13 @@ msgstr "Elipsa"
 msgid "Erase"
 msgstr "Zmazanie"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "Šírka gumy:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "rozjasniť"
@@ -455,6 +463,9 @@ msgstr "Tlesknutie"
 msgid "hide"
 msgstr "skryť"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "hodín"
 
@@ -500,7 +511,9 @@ msgstr "limit dosiahnutý"
 msgid "Line"
 msgstr "Úsečka"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Šírka úsečky:"
 
 # 75%
@@ -525,6 +538,9 @@ msgstr "hlasnejšie"
 msgid "loudness"
 msgstr "hlasitosť"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "Vytvoriť blok"
 
@@ -548,6 +564,12 @@ msgstr "Názov správy"
 
 msgid "message1"
 msgstr "správa1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "Minimum"
@@ -630,6 +652,9 @@ msgstr "Žiadne bloky pohybu"
 msgid "Not saved; network or server problem."
 msgstr "Neuložené; problém so sieťou, alebo serverom."
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr "z"
 
@@ -707,6 +732,9 @@ msgstr "pop"
 
 msgid "Profile"
 msgstr "Profil"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "Projekt nie je uložený!"
@@ -1145,6 +1173,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Nemôžeš upravovať údaje v cloude v projekte niekoho iného.<br>Každá zmena "
 "ktorú spravíš v editore bude len dočasná."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Šírka gumy:"
+
+#~ msgid "Line width:"
+#~ msgstr "Šírka úsečky:"
 
 # 90%
 #, fuzzy

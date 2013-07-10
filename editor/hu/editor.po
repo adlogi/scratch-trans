@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:45+0200\n"
+"POT-Creation-Date: 2013-07-05 06:56+0200\n"
 "PO-Revision-Date: 2013-06-08 12:59+0200\n"
 "Last-Translator: rudolfwg <rudolf.wg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,8 +85,10 @@ msgstr ""
 msgid "Backdrop"
 msgstr "Háttér"
 
+# 88%
+#, fuzzy
 msgid "backdrop"
-msgstr ""
+msgstr "háttér1"
 
 msgid "backdrop #"
 msgstr "háttér sorszáma"
@@ -118,6 +120,9 @@ msgstr "Basszusdob"
 
 msgid "Bassoon"
 msgstr "Fagott"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "Raszter"
@@ -262,8 +267,10 @@ msgstr "másolás"
 msgid "Copying..."
 msgstr ""
 
+# 75%
+#, fuzzy
 msgid "cos"
-msgstr ""
+msgstr "arccos"
 
 msgid "Costume"
 msgstr "Jelmez"
@@ -277,11 +284,15 @@ msgstr "Jelmezkönyvtár"
 msgid "costume name"
 msgstr ""
 
+# 77%
+#, fuzzy
 msgid "costume1"
-msgstr ""
+msgstr "jelmez sorszáma"
 
+# 77%
+#, fuzzy
 msgid "costume2"
-msgstr ""
+msgstr "jelmez sorszáma"
 
 msgid "Costumes"
 msgstr "Jelmezek"
@@ -289,8 +300,10 @@ msgstr "Jelmezek"
 msgid "Costumes > 1"
 msgstr ""
 
+# 88%
+#, fuzzy
 msgid "Costumes:"
-msgstr ""
+msgstr "Jelmezek"
 
 msgid "Cowbell"
 msgstr "Kolomp"
@@ -386,8 +399,13 @@ msgstr "Ellipszis"
 msgid "Erase"
 msgstr "Radír"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "Radír vastagsága:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr ""
@@ -459,6 +477,9 @@ msgstr "Taps"
 msgid "hide"
 msgstr ""
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "óra"
 
@@ -504,7 +525,9 @@ msgstr ""
 msgid "Line"
 msgstr "Vonal"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Vonalvastagság:"
 
 # 75%
@@ -530,6 +553,9 @@ msgstr "hangosabb"
 msgid "loudness"
 msgstr "hangerő"
 
+msgid "Low C"
+msgstr ""
+
 #, fuzzy
 msgid "Make a Block"
 msgstr "Kocka létrehozása"
@@ -553,6 +579,12 @@ msgid "Message Name"
 msgstr ""
 
 msgid "message1"
+msgstr ""
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
 msgstr ""
 
 msgid "Min"
@@ -636,6 +668,9 @@ msgstr ""
 msgid "Not saved; network or server problem."
 msgstr ""
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr ""
 
@@ -714,6 +749,9 @@ msgstr "pukk"
 msgid "Profile"
 msgstr ""
 
+msgid "Project did not load."
+msgstr ""
+
 msgid "Project not saved!"
 msgstr ""
 
@@ -770,7 +808,7 @@ msgid "resistance-D"
 msgstr ""
 
 # This string is used in two separate places (motor and sound), and I'd rather give two separate translations! :(
-# 
+#
 #, fuzzy
 msgid "reverse"
 msgstr "hátra"
@@ -793,8 +831,10 @@ msgstr ""
 msgid "Run without screen refresh"
 msgstr ""
 
+# 80%
+#, fuzzy
 msgid "Save"
-msgstr ""
+msgstr "Mentve"
 
 msgid "Save as a copy"
 msgstr "Mentés másolatként"
@@ -847,14 +887,18 @@ msgstr ""
 msgid "Set costume center"
 msgstr "Jelmez közepének beállítása"
 
+# 88%
+#, fuzzy
 msgid "Set Costume Center"
-msgstr ""
+msgstr "Jelmez közepének beállítása"
 
 msgid "Share"
 msgstr "Megosztás"
 
+# 75%
+#, fuzzy
 msgid "shared"
-msgstr ""
+msgstr "megosztatlan"
 
 msgid "Shift:"
 msgstr "Shift:"
@@ -889,8 +933,10 @@ msgstr "Kijelentkezés"
 msgid "silence"
 msgstr "csend"
 
+# 75%
+#, fuzzy
 msgid "sin"
-msgstr ""
+msgstr "arcsin"
 
 msgid "size"
 msgstr "méret"
@@ -916,8 +962,10 @@ msgstr "halkabb"
 msgid "sound"
 msgstr "hang"
 
+# 83%
+#, fuzzy
 msgid "Sound"
-msgstr ""
+msgstr "Hangok"
 
 msgid "Sound Library"
 msgstr "Hangkönyvtár"
@@ -1148,6 +1196,12 @@ msgstr "év"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
+
+#~ msgid "Eraser width:"
+#~ msgstr "Radír vastagsága:"
+
+#~ msgid "Line width:"
+#~ msgstr "Vonalvastagság:"
 
 # 90%
 #, fuzzy

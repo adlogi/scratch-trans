@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:43+0200\n"
+"POT-Creation-Date: 2013-07-05 06:54+0200\n"
 "PO-Revision-Date: 2013-05-06 20:29+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -126,6 +126,9 @@ msgstr "Tambor Greu"
 
 msgid "Bassoon"
 msgstr "Fagot"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "Mapa de bits"
@@ -396,8 +399,13 @@ msgstr "El·lipse"
 msgid "Erase"
 msgstr "Esborra"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "Ample de l'esborrador:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "augmenta"
@@ -468,6 +476,9 @@ msgstr "Aplaudiment"
 msgid "hide"
 msgstr "amaga"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "hora"
 
@@ -513,7 +524,9 @@ msgstr "límit assolit"
 msgid "Line"
 msgstr "Línia"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Ample de línia:"
 
 # 75%
@@ -538,6 +551,9 @@ msgstr "més fort"
 msgid "loudness"
 msgstr "volum del so"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "Crea un Bloc"
 
@@ -561,6 +577,12 @@ msgstr "Nom del Missatge"
 
 msgid "message1"
 msgstr "missatge1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "Mín"
@@ -646,6 +668,9 @@ msgstr "Sense blocs de moviment"
 msgid "Not saved; network or server problem."
 msgstr "No s'ha desat; problemes a la xarxa o al servidor."
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr "de"
 
@@ -725,6 +750,9 @@ msgstr "pop"
 
 msgid "Profile"
 msgstr "Perfil"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "El projecte no s'ha desat!"
@@ -1174,6 +1202,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "No pots editar les dades al núvol del projecte d'algú altre.<br>Qualsevol "
 "canvi que realitzis a l'editor serà temporal i no quedarà emmagatzemat."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Ample de l'esborrador:"
+
+#~ msgid "Line width:"
+#~ msgstr "Ample de línia:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Afegeix una entrada per condicions lògiques:"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:48+0200\n"
-"PO-Revision-Date: 2013-05-23 05:04+0200\n"
+"POT-Creation-Date: 2013-07-05 06:59+0200\n"
+"PO-Revision-Date: 2013-07-05 08:04+0200\n"
 "Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -124,6 +124,9 @@ msgstr "低音鼓"
 
 msgid "Bassoon"
 msgstr "低音管"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr "因为您的Sratch账户较新，暂时不能保存云数据的更改。请继续参与本网站，您不久之后就可以使用云数据了！"
 
 msgid "Bitmap"
 msgstr "位图"
@@ -396,8 +399,12 @@ msgstr "椭圆"
 msgid "Erase"
 msgstr "擦除"
 
-msgid "Eraser width:"
-msgstr "橡皮擦宽度:"
+# 92%
+msgid "Eraser width"
+msgstr "橡皮擦宽度"
+
+msgid "Error!"
+msgstr "错误！"
 
 msgid "fade in"
 msgstr "淡入"
@@ -468,6 +475,9 @@ msgstr "拍掌"
 msgid "hide"
 msgstr "隐藏"
 
+msgid "High C"
+msgstr "高音C"
+
 msgid "hour"
 msgstr "小时"
 
@@ -513,8 +523,9 @@ msgstr "已达到限制"
 msgid "Line"
 msgstr "线段"
 
-msgid "Line width:"
-msgstr "线宽："
+# 90%
+msgid "Line width"
+msgstr "线宽"
 
 # 75%
 msgid "list"
@@ -537,6 +548,9 @@ msgstr "响一点"
 
 msgid "loudness"
 msgstr "响度"
+
+msgid "Low C"
+msgstr "低音C"
 
 msgid "Make a Block"
 msgstr "新建功能块"
@@ -561,6 +575,12 @@ msgstr "消息名称"
 
 msgid "message1"
 msgstr "消息1"
+
+msgid "Microphone Volume:"
+msgstr "麦克风音量："
+
+msgid "Middle C"
+msgstr "中央C"
 
 msgid "Min"
 msgstr "最小"
@@ -646,6 +666,9 @@ msgstr "无动作模块"
 msgid "Not saved; network or server problem."
 msgstr "保存失败，可能是网络或服务器出了问题。"
 
+msgid "Not saved; project did not load."
+msgstr "未被保存；项目未加载。"
+
 msgid "of"
 msgstr "的"
 
@@ -725,6 +748,9 @@ msgstr "pop音效"
 
 msgid "Profile"
 msgstr "资料"
+
+msgid "Project did not load."
+msgstr "项目未加载。"
 
 msgid "Project not saved!"
 msgstr "项目未保存!"
@@ -1165,6 +1191,12 @@ msgstr "年"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr "您不能修改其它用户项目中的云变量。<br>本次编辑过程中的所有修改都是临时且不能永久保存的。"
+
+#~ msgid "Eraser width:"
+#~ msgstr "橡皮擦宽度:"
+
+#~ msgid "Line width:"
+#~ msgstr "线宽："
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "输入一个布尔值："

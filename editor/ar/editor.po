@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:43+0200\n"
-"PO-Revision-Date: 2013-06-06 06:36+0200\n"
+"POT-Creation-Date: 2013-07-05 06:54+0200\n"
+"PO-Revision-Date: 2013-07-06 18:02+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -126,6 +126,12 @@ msgstr "Bass Drum"
 
 msgid "Bassoon"
 msgstr "Bassoon"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"لأن حسابك على سكراتش جديد، فإن أي تغييرات على المتغيرات السحابية لن تُحفظ. "
+"استمر بالمشاركة على الموقع وستكون قادراً قريباً على استخدام المتغيرات "
+"السحابية!"
 
 msgid "Bitmap"
 msgstr "صورة نقطية"
@@ -401,8 +407,12 @@ msgstr "إهليلج"
 msgid "Erase"
 msgstr "مسح"
 
-msgid "Eraser width:"
-msgstr "عرض الممحاة:"
+# 92%
+msgid "Eraser width"
+msgstr "عرض الممحاة"
+
+msgid "Error!"
+msgstr "خطأ!"
 
 msgid "fade in"
 msgstr "تلاشي في البداية"
@@ -473,6 +483,9 @@ msgstr "صفقة"
 msgid "hide"
 msgstr "اختف"
 
+msgid "High C"
+msgstr "High C"
+
 msgid "hour"
 msgstr "الساعة"
 
@@ -518,8 +531,9 @@ msgstr "وصلت الحد الأقصى"
 msgid "Line"
 msgstr "خط مستقيم"
 
-msgid "Line width:"
-msgstr "عرض الخط:"
+# 90%
+msgid "Line width"
+msgstr "عرض الخط"
 
 # 75%
 msgid "list"
@@ -542,6 +556,9 @@ msgstr "أعلى"
 
 msgid "loudness"
 msgstr "شدة الصوت"
+
+msgid "Low C"
+msgstr "Low C"
 
 msgid "Make a Block"
 msgstr "إنشاء لبنة"
@@ -566,6 +583,12 @@ msgstr "اسم الرسالة"
 
 msgid "message1"
 msgstr "الرسالة ١"
+
+msgid "Microphone Volume:"
+msgstr "ارتفاع صوت الميكروفون:"
+
+msgid "Middle C"
+msgstr "Middle C"
 
 msgid "Min"
 msgstr "الأدنى"
@@ -651,6 +674,9 @@ msgstr "لا توجد لبنات للحركة"
 msgid "Not saved; network or server problem."
 msgstr "لم يُحفظ المشروع. هناك مشكلة في الشبكة أو المخدّم."
 
+msgid "Not saved; project did not load."
+msgstr "لم يتم الحفظ، ولم يتم تحميل المشروع."
+
 msgid "of"
 msgstr "من"
 
@@ -729,6 +755,9 @@ msgstr "بُب"
 
 msgid "Profile"
 msgstr "الملف الشخصي"
+
+msgid "Project did not load."
+msgstr "لم يتم تحميل المشروع."
 
 msgid "Project not saved!"
 msgstr "لم يُحفظ المشروع!"
@@ -1178,6 +1207,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "لا يمكنك تعديل البيانات السحابية في مشروع شخص آخر.<br>أي تعديلات تقوم بها في "
 "محرر المشاريع ستكون مؤقتة ولن تدوم."
+
+#~ msgid "Eraser width:"
+#~ msgstr "عرض الممحاة:"
+
+#~ msgid "Line width:"
+#~ msgstr "عرض الخط:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "إضافة حقل منطقي:"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:45+0200\n"
+"POT-Creation-Date: 2013-07-05 06:56+0200\n"
 "PO-Revision-Date: 2013-06-29 06:35+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,9 @@ msgid "10 ^"
 msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-msgstr "<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されません(削除されます)。<br>詳細な情報は <a href= target=>クラウドデータFAQを読んでください!</a>"
+msgstr ""
+"<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されません(削除され"
+"ます)。<br>詳細な情報は <a href= target=>クラウドデータFAQを読んでください!</a>"
 
 msgid "A connected"
 msgstr "Aがつながれた"
@@ -116,6 +118,9 @@ msgstr "バスドラム"
 
 msgid "Bassoon"
 msgstr "バスーン"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "ビットマップ"
@@ -382,8 +387,13 @@ msgstr "楕円"
 msgid "Erase"
 msgstr "消す"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "消しゴムの幅:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "フェードイン"
@@ -454,6 +464,9 @@ msgstr "拍手"
 msgid "hide"
 msgstr "隠す"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "時"
 
@@ -499,7 +512,9 @@ msgstr "限界に到達"
 msgid "Line"
 msgstr "直線"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "線の幅:"
 
 msgid "list"
@@ -522,6 +537,9 @@ msgstr "大きく"
 
 msgid "loudness"
 msgstr "音量"
+
+msgid "Low C"
+msgstr ""
 
 msgid "Make a Block"
 msgstr "ブロックを作る"
@@ -546,6 +564,12 @@ msgstr "メッセージ名"
 
 msgid "message1"
 msgstr "メッセージ1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "最小値"
@@ -628,6 +652,9 @@ msgstr "動きのブロックはありません"
 msgid "Not saved; network or server problem."
 msgstr "保存できません。ネットワークかサーバーに問題があります。"
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr "の"
 
@@ -706,6 +733,9 @@ msgstr "ポップ"
 
 msgid "Profile"
 msgstr "プロフィール"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "作品は保存されていません!"
@@ -979,7 +1009,9 @@ msgid "Things"
 msgstr "もの"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
-msgstr "このプロジェクトは「ユーザー名」ブロックを使って、誰が使っているかを検出します。特定されたくない場合はこのプロジェクトを使う前にサインアウトしてください。"
+msgstr ""
+"このプロジェクトは「ユーザー名」ブロックを使って、誰が使っているかを検出します。特定されたくない場合はこのプロジェクトを使う前にサインアウトしてください"
+"。"
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr "このプロジェクトはクラウドデータを使っています。この機能はサインインしたユーザーだけ使うことができます。"
@@ -1133,6 +1165,12 @@ msgstr "年"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr "他の人のプロジェクトのクラウドデータを編集することはできません。<br>エディターで行った変更は一時的なもので永続性はありません。"
+
+#~ msgid "Eraser width:"
+#~ msgstr "消しゴムの幅:"
+
+#~ msgid "Line width:"
+#~ msgstr "線の幅:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "真偽値の引数を追加:"

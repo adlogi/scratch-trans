@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-05-11 07:57+0200\n"
+"POT-Creation-Date: 2013-07-05 06:55+0200\n"
+"PO-Revision-Date: 2013-07-09 17:37+0200\n"
 "Last-Translator: Barry <barry@neville.dk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
@@ -117,6 +117,11 @@ msgstr "Stortromme"
 
 msgid "Bassoon"
 msgstr "Fagot"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"Fordi du har en ny Scratchkonto, vil ændringer i skydata ikke bliver gemt "
+"endnu. Fortsæt med at bruge websiden og du vil snart kunne bruge skydata! "
 
 msgid "Bitmap"
 msgstr "Bitmap"
@@ -384,8 +389,12 @@ msgstr "Ellipse"
 msgid "Erase"
 msgstr "Slet"
 
-msgid "Eraser width:"
-msgstr "Viskelæderets bredde:"
+# 92%
+msgid "Eraser width"
+msgstr "Viskelæderets bredde"
+
+msgid "Error!"
+msgstr "Fejl!"
 
 msgid "fade in"
 msgstr "opton"
@@ -456,6 +465,9 @@ msgstr "Håndklap"
 msgid "hide"
 msgstr "skjul"
 
+msgid "High C"
+msgstr "Det høje C"
+
 msgid "hour"
 msgstr "time"
 
@@ -501,8 +513,9 @@ msgstr "grænsen er nået"
 msgid "Line"
 msgstr "Linje"
 
-msgid "Line width:"
-msgstr "Linjebredde:"
+# 90%
+msgid "Line width"
+msgstr "Linjebredde"
 
 # 75%
 msgid "list"
@@ -525,6 +538,9 @@ msgstr "højere"
 
 msgid "loudness"
 msgstr "lydstyrke"
+
+msgid "Low C"
+msgstr "Det lave C"
 
 msgid "Make a Block"
 msgstr "Skab en Klods"
@@ -549,6 +565,12 @@ msgstr "Meddelelse Navn"
 
 msgid "message1"
 msgstr "meddelelse1"
+
+msgid "Microphone Volume:"
+msgstr "Mikrofonstyrke:"
+
+msgid "Middle C"
+msgstr "Midter C"
 
 msgid "Min"
 msgstr "Min"
@@ -631,6 +653,9 @@ msgstr "Ingen bevægelses klodser"
 msgid "Not saved; network or server problem."
 msgstr "Ikke gemt; netværk eller server problem."
 
+msgid "Not saved; project did not load."
+msgstr "Ikke gemt; projektet ikke indlæst."
+
 msgid "of"
 msgstr "af"
 
@@ -708,6 +733,9 @@ msgstr "knald"
 
 msgid "Profile"
 msgstr "Profil"
+
+msgid "Project did not load."
+msgstr "Projektet er ikke indlæst."
 
 msgid "Project not saved!"
 msgstr "Projektet er ikke gemt!"
@@ -1148,6 +1176,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Du kan ikke editere skydata i en andens projekt.<br>Eventuelle ændringer "
 "bliver kun midlertidige, ikke vedvarende."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Viskelæderets bredde:"
+
+#~ msgid "Line width:"
+#~ msgstr "Linjebredde:"
 
 # 90%
 #, fuzzy

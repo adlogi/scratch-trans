@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-05-22 22:53+0200\n"
+"POT-Creation-Date: 2013-07-05 06:55+0200\n"
+"PO-Revision-Date: 2013-07-05 09:16+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -125,6 +125,11 @@ msgstr "Basstrumm"
 
 msgid "Bassoon"
 msgstr "Fagott"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"Kuna sul on uus Scratchi konto, siis  pilveandmete muudatusi veel ei "
+"salvestata. Hoides osalust leheküljel saad kasutada pilveandmeid edaspidi!!"
 
 msgid "Bitmap"
 msgstr "Raster"
@@ -395,8 +400,12 @@ msgstr "Ellips"
 msgid "Erase"
 msgstr "Kustuta"
 
-msgid "Eraser width:"
-msgstr "Kustutaja laius:"
+# 92%
+msgid "Eraser width"
+msgstr "Kustutaja laius"
+
+msgid "Error!"
+msgstr "Viga!"
 
 msgid "fade in"
 msgstr "tuhmumine sisse"
@@ -467,6 +476,9 @@ msgstr "Käteplagin"
 msgid "hide"
 msgstr "peida"
 
+msgid "High C"
+msgstr "Kõrge C"
+
 msgid "hour"
 msgstr "tund"
 
@@ -512,8 +524,9 @@ msgstr "on jõutud piirini"
 msgid "Line"
 msgstr "Joon"
 
-msgid "Line width:"
-msgstr "Joone paksus:"
+# 90%
+msgid "Line width"
+msgstr "Joone paksus"
 
 # 75%
 msgid "list"
@@ -536,6 +549,9 @@ msgstr "valjemini"
 
 msgid "loudness"
 msgstr "valjus"
+
+msgid "Low C"
+msgstr "Madal C"
 
 msgid "Make a Block"
 msgstr "Tee plokk"
@@ -560,6 +576,12 @@ msgstr "Teate nimi"
 
 msgid "message1"
 msgstr "teade1"
+
+msgid "Microphone Volume:"
+msgstr "Mikrofoni tugevus:"
+
+msgid "Middle C"
+msgstr "Keskmine C"
 
 msgid "Min"
 msgstr "Min"
@@ -645,6 +667,9 @@ msgstr "Pole liikumiskäske"
 msgid "Not saved; network or server problem."
 msgstr "Ei ole salvestatud: võrgu või serveri probleem."
 
+msgid "Not saved; project did not load."
+msgstr "Pole salvestanud; projekt ei ole laaditud."
+
 msgid "of"
 msgstr "  "
 
@@ -724,6 +749,9 @@ msgstr "pop"
 
 msgid "Profile"
 msgstr "Profiil"
+
+msgid "Project did not load."
+msgstr "Projekt ei ole laaditud."
 
 msgid "Project not saved!"
 msgstr "Projekt pole salvestatud!"
@@ -1168,6 +1196,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Sa ei saa muuta teise projekti pilveandmeid<br>Muudatused, mis sa teed "
 "redaktoris on ajutised ja mitte püsivad."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Kustutaja laius:"
+
+#~ msgid "Line width:"
+#~ msgstr "Joone paksus:"
 
 #~ msgid "#"
 #~ msgstr "#"

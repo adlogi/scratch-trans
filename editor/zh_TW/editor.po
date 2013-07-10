@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:48+0200\n"
+"POT-Creation-Date: 2013-07-05 06:59+0200\n"
 "PO-Revision-Date: 2013-06-06 03:50+0200\n"
 "Last-Translator: stone_shih <stone1.shih@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -116,6 +116,9 @@ msgstr "低音鼓"
 
 msgid "Bassoon"
 msgstr "低音管"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "點矩陣圖"
@@ -382,8 +385,13 @@ msgstr "橢圓"
 msgid "Erase"
 msgstr "擦除"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "橡皮擦寬度"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "淡入"
@@ -454,6 +462,9 @@ msgstr "拍掌"
 msgid "hide"
 msgstr "隱藏"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "小時"
 
@@ -499,7 +510,9 @@ msgstr "抵達上(下)限"
 msgid "Line"
 msgstr "線"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "線條寬度"
 
 # 75%
@@ -524,6 +537,9 @@ msgstr "更大聲"
 msgid "loudness"
 msgstr "音量值"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "新增積木指令"
 
@@ -547,6 +563,12 @@ msgstr "訊息名稱"
 
 msgid "message1"
 msgstr "訊息1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "最小值"
@@ -629,6 +651,9 @@ msgstr "本區無動作積木"
 msgid "Not saved; network or server problem."
 msgstr "沒有儲存；網路或伺服器有問題"
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr "的"
 
@@ -706,6 +731,9 @@ msgstr "pop聲"
 
 msgid "Profile"
 msgstr "基本資料"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "專案未儲存"
@@ -1145,6 +1173,12 @@ msgstr "年"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr "你不能編輯別人專案的雲端資料。<br>你改的任何東西，都只是暫時的，不會被儲存。"
+
+#~ msgid "Eraser width:"
+#~ msgstr "橡皮擦寬度"
+
+#~ msgid "Line width:"
+#~ msgstr "線條寬度"
 
 # 90%
 #, fuzzy

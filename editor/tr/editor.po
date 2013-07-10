@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:47+0200\n"
+"POT-Creation-Date: 2013-07-05 06:59+0200\n"
 "PO-Revision-Date: 2013-05-17 22:11+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -126,6 +126,9 @@ msgstr "Bas Davul"
 
 msgid "Bassoon"
 msgstr "Fagot"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "Noktasal"
@@ -395,8 +398,13 @@ msgstr "Elips"
 msgid "Erase"
 msgstr "Sil"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "Silgi genişliği:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "giderek yükselt"
@@ -467,6 +475,9 @@ msgstr "El Çırpma"
 msgid "hide"
 msgstr "gizle"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "saat"
 
@@ -512,7 +523,9 @@ msgstr "limite ulaşıldı"
 msgid "Line"
 msgstr "Çizgi"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Çizgi kalınlığı:"
 
 # 75%
@@ -537,6 +550,9 @@ msgstr "daha yüksek sesli"
 msgid "loudness"
 msgstr "ses şiddeti"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "Bir Taş Oluştur"
 
@@ -560,6 +576,12 @@ msgstr "Haberin Adı"
 
 msgid "message1"
 msgstr "haber1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "En küçüğü"
@@ -645,6 +667,9 @@ msgstr "Hareket bloğu yok"
 msgid "Not saved; network or server problem."
 msgstr "Kaydedilmedi; ağ veya sunucuda sorun var."
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr "of"
 
@@ -723,6 +748,9 @@ msgstr "pop"
 
 msgid "Profile"
 msgstr "Profil"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "Proje kaydedilmedi!"
@@ -1167,6 +1195,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Başkasının projesindeki bulut verisini değiştiremezsin.<br>Bu verilerde "
 "yaptığın her değişiklik kalıcı olamayacak."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Silgi genişliği:"
+
+#~ msgid "Line width:"
+#~ msgstr "Çizgi kalınlığı:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Boole girdi ekle"

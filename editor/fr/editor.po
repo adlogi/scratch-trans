@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:44+0200\n"
-"PO-Revision-Date: 2013-05-20 18:32+0200\n"
+"POT-Creation-Date: 2013-07-05 06:55+0200\n"
+"PO-Revision-Date: 2013-07-07 00:06+0200\n"
 "Last-Translator: Jean-Jacques <i.scool@mac.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -124,6 +124,12 @@ msgstr "Grosse caisse"
 
 msgid "Bassoon"
 msgstr "Basson"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"Parce que vous avez un nouveau compte Scratch, toute modification des "
+"données en nuage ne ​​sera pas encore enregistrée. Continuer à participer "
+"sur le site, vous serez en mesure d'utiliser les données du cloud bientôt!"
 
 msgid "Bitmap"
 msgstr "Bitmap"
@@ -398,8 +404,12 @@ msgstr "Ellipse"
 msgid "Erase"
 msgstr "Effacer"
 
-msgid "Eraser width:"
-msgstr "Effacer avec:"
+# 92%
+msgid "Eraser width"
+msgstr "Effacer avec"
+
+msgid "Error!"
+msgstr "Erreur!"
 
 msgid "fade in"
 msgstr "fondu en ouverture"
@@ -470,6 +480,9 @@ msgstr "Claquement de main"
 msgid "hide"
 msgstr "cacher"
 
+msgid "High C"
+msgstr "Do Soprano"
+
 msgid "hour"
 msgstr "heure"
 
@@ -515,8 +528,9 @@ msgstr "limite atteinte"
 msgid "Line"
 msgstr "Ligne"
 
-msgid "Line width:"
-msgstr "Largeur de la ligne:"
+# 90%
+msgid "Line width"
+msgstr "Largeur de la ligne"
 
 # 75%
 msgid "list"
@@ -539,6 +553,9 @@ msgstr "plus fort"
 
 msgid "loudness"
 msgstr "volume sonore"
+
+msgid "Low C"
+msgstr "Do Basse"
 
 msgid "Make a Block"
 msgstr "Créer un bloc"
@@ -563,6 +580,12 @@ msgstr "Nom du message"
 
 msgid "message1"
 msgstr "message1"
+
+msgid "Microphone Volume:"
+msgstr "Volume du microphone:"
+
+msgid "Middle C"
+msgstr "Do Médian"
 
 msgid "Min"
 msgstr "Min"
@@ -648,6 +671,9 @@ msgstr "Aucun bloc de mouvement"
 msgid "Not saved; network or server problem."
 msgstr "Non sauvegardé; réseau ou serveur indisponible."
 
+msgid "Not saved; project did not load."
+msgstr "Pas sauvegardé; le projet n'a pas été chargé."
+
 msgid "of"
 msgstr "de"
 
@@ -727,6 +753,9 @@ msgstr "pop"
 
 msgid "Profile"
 msgstr "Profil"
+
+msgid "Project did not load."
+msgstr "Le projet n'a pas été chargé."
 
 msgid "Project not saved!"
 msgstr "Projet non sauvegardé!"
@@ -1175,6 +1204,12 @@ msgstr ""
 "Vous ne pouvez pas modifier les données du Cloud ​​dans le projet de "
 "quelqu'un d'autre. <br> Toute modification que vous faites dans l'éditeur "
 "sera temporaire et non permanente."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Effacer avec:"
+
+#~ msgid "Line width:"
+#~ msgstr "Largeur de la ligne:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Ajouter entrée booléenne"

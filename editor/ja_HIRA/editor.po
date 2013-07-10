@@ -16,8 +16,8 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<B>Information about Cloud variables</B><BR>&nbsp;<BR>Currently, only numbers are supported<BR>Chat rooms are not allowed, and will be removed<BR>For more info, <A href="file:///C:/help/faq/#clouddata" target=_blank>see the cloud data FAQ!</A>"
-msgstr "<B>クラウドへんすうについて</B><BR>&nbsp;<BR>げんざい、すうちのみがサポートされています<BR>チャットルームのさくせいはきょかされません(さくじょされます)。<BR>しょうさいなじょうほうは <A href="file:///C:/Users/abee/Desktop/editor-ja%20(1)/target=">クラウドデータFAQをよんでください!</A>"
+#~ msgid "<B>Information about Cloud variables</B><BR>&nbsp;<BR>Currently, only numbers are supported<BR>Chat rooms are not allowed, and will be removed<BR>For more info, <A href="file:///C:/help/faq/#clouddata" target=_blank>see the cloud data FAQ!</A>"
+#~ msgstr "<B>クラウドへんすうについて</B><BR>&nbsp;<BR>げんざい、すうちのみがサポートされています<BR>チャットルームのさくせいはきょかされません(さくじょされます)。<BR>しょうさいなじょうほうは <A href="file:///C:/Users/abee/Desktop/editor-ja%20(1)/target=">クラウドデータFAQをよんでください!</A>"
 
 msgid "A connected"
 msgstr "Aがつながれた"
@@ -283,8 +283,8 @@ msgstr "コスチューム2"
 msgid "Costumes"
 msgstr "コスチューム"
 
-msgid "Costumes &gt; 1"
-msgstr "コスチューム &gt; 1"
+#~ msgid "Costumes &gt; 1"
+#~ msgstr "コスチューム &gt; 1"
 
 msgid "Costumes:"
 msgstr "コスチューム:"
@@ -382,8 +382,8 @@ msgstr "だえん"
 msgid "Erase"
 msgstr "けす"
 
-msgid "Eraser width:"
-msgstr "けしゴムのはば:"
+#~ msgid "Eraser width:"
+#~ msgstr "けしゴムのはば:"
 
 msgid "fade in"
 msgstr "フェードイン"
@@ -499,8 +499,8 @@ msgstr "げんかいにとうたつ"
 msgid "Line"
 msgstr "ちょくせん"
 
-msgid "Line width:"
-msgstr "せんのはば:"
+#~ msgid "Line width:"
+#~ msgstr "せんのはば:"
 
 msgid "list"
 msgstr "リスト"
@@ -981,8 +981,8 @@ msgstr "もの"
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr "このプロジェクトは「ユーザーめい」ブロックをつかって、だれがつかっているかをけんしゅつします。とくていされたくないばあいはこのプロジェクトをつかうまえにサインアウトしてください。"
 
-msgid "This project uses Cloud data ??? a feature that is available only to signed in users."
-msgstr "このプロジェクトはクラウドデータをつかっています。このきのうはサインインしたユーザーだけつかうことができます。"
+#~ msgid "This project uses Cloud data ??? a feature that is available only to signed in users."
+#~ msgstr "このプロジェクトはクラウドデータをつかっています。このきのうはサインインしたユーザーだけつかうことができます。"
 
 msgid "this script"
 msgstr "このスクリプト"
@@ -1131,8 +1131,8 @@ msgstr "yざひょう"
 msgid "year"
 msgstr "とし"
 
-msgid "You cannot edit cloud data in someone else's project.<BR>Any change that you make in the editor will be temporary and not persistent."
-msgstr "ほかのひとのプロジェクトのクラウドデータをへんしゅうすることはできません。<BR>エディターでいったへんこうはいちじてきなものでえいぞくせいはありません。"
+#~ msgid "You cannot edit cloud data in someone else's project.<BR>Any change that you make in the editor will be temporary and not persistent."
+#~ msgstr "ほかのひとのプロジェクトのクラウドデータをへんしゅうすることはできません。<BR>エディターでいったへんこうはいちじてきなものでえいぞくせいはありません。"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "しんぎちのひきすうをついか:"
@@ -1169,3 +1169,51 @@ msgstr "ほかのひとのプロジェクトのクラウドデータをへんし
 
 #~ msgid "New sound"
 #~ msgstr "あたらしいおと"
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
+msgstr ""
+
+# 92%
+#, fuzzy
+msgid "Eraser width"
+msgstr "けしゴムのはば:"
+
+msgid "Error!"
+msgstr ""
+
+msgid "High C"
+msgstr ""
+
+# 90%
+#, fuzzy
+msgid "Line width"
+msgstr "せんのはば:"
+
+msgid "Low C"
+msgstr ""
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
+
+msgid "Not saved; project did not load."
+msgstr ""
+
+msgid "Project did not load."
+msgstr ""
+
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
+msgstr ""

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:43+0200\n"
-"PO-Revision-Date: 2013-05-09 10:28+0200\n"
+"POT-Creation-Date: 2013-07-05 06:54+0200\n"
+"PO-Revision-Date: 2013-07-05 10:53+0200\n"
 "Last-Translator: Juan Pablo <juanpabl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: an\n"
@@ -122,6 +122,12 @@ msgstr "Bombo"
 
 msgid "Bassoon"
 msgstr "Fagot"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"Como tiens una cuenta de Scratch nueva, totz os cambios feitos ta os datos "
+"de boira no s'alzarán encara. Sigue participando en o puesto y luego podrás "
+"fer servir os datos de boira."
 
 msgid "Bitmap"
 msgstr "Mapa de bits"
@@ -390,8 +396,11 @@ msgstr "Elipse"
 msgid "Erase"
 msgstr "Borrar"
 
-msgid "Eraser width:"
-msgstr "Amplaria d'o borrador:"
+msgid "Eraser width"
+msgstr "Amplaria d'o borrador"
+
+msgid "Error!"
+msgstr "Error!"
 
 msgid "fade in"
 msgstr "apareixer"
@@ -462,6 +471,9 @@ msgstr "Palmetada"
 msgid "hide"
 msgstr "amagar"
 
+msgid "High C"
+msgstr "Do Alta"
+
 msgid "hour"
 msgstr "hora"
 
@@ -507,8 +519,9 @@ msgstr "limite alcanzau"
 msgid "Line"
 msgstr "Linia"
 
-msgid "Line width:"
-msgstr "Amplaria de linia:"
+# 90%
+msgid "Line width"
+msgstr "Amplaria de linia"
 
 # 75%
 msgid "list"
@@ -531,6 +544,9 @@ msgstr "mas fuerte"
 
 msgid "loudness"
 msgstr "volumen d'o son"
+
+msgid "Low C"
+msgstr "Do baixa"
 
 msgid "Make a Block"
 msgstr "Creyar un Bloc"
@@ -555,6 +571,12 @@ msgstr "Nombre d'o mensache"
 
 msgid "message1"
 msgstr "mensache1"
+
+msgid "Microphone Volume:"
+msgstr "Volumen d'o microfono:"
+
+msgid "Middle C"
+msgstr "Do central"
 
 msgid "Min"
 msgstr "Min"
@@ -640,6 +662,9 @@ msgstr "Sin bloques de movimiento"
 msgid "Not saved; network or server problem."
 msgstr "No s'ha alzau; problemas en o ret u en o servidor."
 
+msgid "Not saved; project did not load."
+msgstr "No alzau; no s'ha cargau o prochecto."
+
 msgid "of"
 msgstr "de"
 
@@ -718,6 +743,9 @@ msgstr "pop"
 
 msgid "Profile"
 msgstr "Perfil"
+
+msgid "Project did not load."
+msgstr "O prochecto no s'ha cargau."
 
 msgid "Project not saved!"
 msgstr "O prochecto no s'ha alzau!"
@@ -1167,6 +1195,12 @@ msgstr ""
 "No puetz editar os datos en a boira d'un prochecto de belatro "
 "usuario.<br>Qualsiquier cambio que faigas en o editor será temporal y no pas "
 "persistent."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Amplaria d'o borrador:"
+
+#~ msgid "Line width:"
+#~ msgstr "Amplaria de linia:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Adhibir una dentrada lochica:"

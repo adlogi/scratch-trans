@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:47+0200\n"
+"POT-Creation-Date: 2013-07-05 06:58+0200\n"
 "PO-Revision-Date: 2013-05-20 13:17+0200\n"
 "Last-Translator: Marek <faramir@mat.umk.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -139,6 +139,9 @@ msgstr "Bęben wielki"
 
 msgid "Bassoon"
 msgstr "Fagot"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 #, fuzzy
 msgid "Bitmap"
@@ -437,9 +440,13 @@ msgstr "Elipsa"
 msgid "Erase"
 msgstr "Wyczyść"
 
+# 92%
 #, fuzzy
-msgid "Eraser width:"
+msgid "Eraser width"
 msgstr "Szerokość gumki:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "wzmocnij"
@@ -519,6 +526,9 @@ msgstr "Klaskanie"
 msgid "hide"
 msgstr "ukryj"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "godzina"
 
@@ -567,7 +577,9 @@ msgstr "limit osiągnięty"
 msgid "Line"
 msgstr "Linia"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Szerokość linii:"
 
 # 75%
@@ -593,6 +605,9 @@ msgstr "głośniej"
 msgid "loudness"
 msgstr "głośność"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "Stwórz blok"
 
@@ -617,6 +632,12 @@ msgstr "Nazwa wiadomości"
 
 msgid "message1"
 msgstr "komunikat1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "Min"
@@ -710,6 +731,9 @@ msgstr "Brak bloków ruchu"
 msgid "Not saved; network or server problem."
 msgstr "Nie zapisano, błąd sieci lub serwera.."
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 #, fuzzy
 msgid "of"
 msgstr "z"
@@ -792,6 +816,9 @@ msgstr "pop"
 
 msgid "Profile"
 msgstr "Profil"
+
+msgid "Project did not load."
+msgstr ""
 
 #, fuzzy
 msgid "Project not saved!"
@@ -1276,6 +1303,13 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Nie możesz edytować danych w Chmurze w kogoś innego projekcie.<br>Wszystkie "
 "zmiany które dokonasz w edytorze będą tymczasowe i nietrwałe."
+
+#, fuzzy
+#~ msgid "Eraser width:"
+#~ msgstr "Szerokość gumki:"
+
+#~ msgid "Line width:"
+#~ msgstr "Szerokość linii:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Dodaj parametr logiczny:"

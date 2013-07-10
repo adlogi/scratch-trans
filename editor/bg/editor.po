@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:43+0200\n"
+"POT-Creation-Date: 2013-07-05 06:54+0200\n"
 "PO-Revision-Date: 2013-06-25 15:15+0200\n"
 "Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -123,6 +123,9 @@ msgstr ""
 
 msgid "Bassoon"
 msgstr "Фагот"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "Растерни"
@@ -392,8 +395,13 @@ msgstr "Елипса"
 msgid "Erase"
 msgstr "Изтриване"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "Широчина на гумата:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "усилване"
@@ -464,6 +472,9 @@ msgstr "Ръкопляскане"
 msgid "hide"
 msgstr "скрий"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "час"
 
@@ -509,7 +520,9 @@ msgstr "достигнат е лимита"
 msgid "Line"
 msgstr "Линия"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Широчина на линията:"
 
 # 75%
@@ -534,6 +547,9 @@ msgstr "по-силно"
 msgid "loudness"
 msgstr "шумно"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "Създаване на блок"
 
@@ -557,6 +573,12 @@ msgstr "Име на съобщение"
 
 msgid "message1"
 msgstr "съобщение1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr ""
@@ -642,6 +664,9 @@ msgstr "Няма блокове за движение"
 msgid "Not saved; network or server problem."
 msgstr "Не е записано; мрежов или сървърен проблем."
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr ""
 
@@ -720,6 +745,9 @@ msgstr "пук"
 
 msgid "Profile"
 msgstr "Профил"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "Проектът не е записан!"
@@ -1164,6 +1192,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Не можете да редактирате облачни данни в чужд проект.<br>Всички промени, "
 "коите ще направите в редактора ще бъдат временни, а не постоянни."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Широчина на гумата:"
+
+#~ msgid "Line width:"
+#~ msgstr "Широчина на линията:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Добавяне на логически вход:"

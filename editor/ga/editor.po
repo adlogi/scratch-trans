@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scratch Editor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-05 23:56+0200\n"
-"PO-Revision-Date: 2013-05-05 23:57+0200\n"
-"Last-Translator: Kevin Scannell\n"
+"POT-Creation-Date: 2013-07-05 06:56+0200\n"
+"PO-Revision-Date: 2013-05-09 07:17+0200\n"
+"Last-Translator: Kevin <kscanne@gmail.com>\n"
 "Language-Team: Irish\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
+"X-Generator: Pootle 2.1.6\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -121,6 +122,12 @@ msgstr "Dord-Druma"
 
 msgid "Bassoon"
 msgstr "Basún"
+
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
+msgstr "Toisc go bhfuil cuntas nua Scratch agat, ní shábhálfar néalsonraí fós. Lean ort ar feadh tamaill agus beidh cead agat néalsonraí a úsáid go luath!"
 
 msgid "Bitmap"
 msgstr "Mapa Giotáin"
@@ -388,8 +395,11 @@ msgstr "Éilips"
 msgid "Erase"
 msgstr "Bánaigh"
 
-msgid "Eraser width:"
-msgstr "Leithead an léirscriosáin:"
+msgid "Eraser width"
+msgstr "Leithead an léirscriosáin"
+
+msgid "Error!"
+msgstr "Earráid!"
 
 msgid "fade in"
 msgstr "céimnigh isteach"
@@ -460,6 +470,9 @@ msgstr "Bualadh Bos"
 msgid "hide"
 msgstr "cuir i bhfolach"
 
+msgid "High C"
+msgstr "C ard"
+
 msgid "hour"
 msgstr "uair"
 
@@ -505,8 +518,8 @@ msgstr "teorainn sroichte"
 msgid "Line"
 msgstr "Líne"
 
-msgid "Line width:"
-msgstr "Leithead líne:"
+msgid "Line width"
+msgstr "Leithead líne"
 
 msgid "list"
 msgstr "liosta"
@@ -528,6 +541,9 @@ msgstr "níos airde"
 
 msgid "loudness"
 msgstr "treise"
+
+msgid "Low C"
+msgstr "C íseal"
 
 msgid "Make a Block"
 msgstr "Cruthaigh Bloc"
@@ -552,6 +568,12 @@ msgstr "Ainm na Teachtaireachta"
 
 msgid "message1"
 msgstr "teachtaireacht1"
+
+msgid "Microphone Volume:"
+msgstr "Airde an mhicreafóin:"
+
+msgid "Middle C"
+msgstr "C meánach"
 
 msgid "Min"
 msgstr "Íos"
@@ -634,6 +656,9 @@ msgstr "Gan bloic gluaiseachta"
 msgid "Not saved; network or server problem."
 msgstr "Níor sábháladh é; fadhb leis an líonra nó leis an bhfreastalaí."
 
+msgid "Not saved; project did not load."
+msgstr "Gan sábháil; ní raibh an tionscadal luchtaithe."
+
 msgid "of"
 msgstr "as"
 
@@ -711,6 +736,9 @@ msgstr "pléasc"
 
 msgid "Profile"
 msgstr "Próifíl"
+
+msgid "Project did not load."
+msgstr "Ní raibh an tionscadal luchtaithe."
 
 msgid "Project not saved!"
 msgstr "Tionscadal gan sábháil!"

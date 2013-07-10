@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:47+0200\n"
+"POT-Creation-Date: 2013-07-05 06:59+0200\n"
 "PO-Revision-Date: 2013-06-20 18:39+0200\n"
 "Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -125,6 +125,9 @@ msgstr "Bastrumma"
 
 msgid "Bassoon"
 msgstr "Fagott"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "Bitmap"
@@ -397,8 +400,13 @@ msgstr "Ellips"
 msgid "Erase"
 msgstr "Radera"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "Suddgummi bredd:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "tona in"
@@ -469,6 +477,9 @@ msgstr "Handklapp"
 msgid "hide"
 msgstr "göm"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "timme"
 
@@ -514,7 +525,9 @@ msgstr "gränsen är nådd"
 msgid "Line"
 msgstr "Linje"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Linjebredd:"
 
 # 75%
@@ -539,6 +552,9 @@ msgstr "högre"
 msgid "loudness"
 msgstr "ljudstyrka"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "Skapa ett Block"
 
@@ -562,6 +578,12 @@ msgstr "Meddelande Namn"
 
 msgid "message1"
 msgstr "meddelande1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "Min"
@@ -647,6 +669,9 @@ msgstr "Inga rörelseblock"
 msgid "Not saved; network or server problem."
 msgstr "Sparades inte; nätverks- eller serverproblem."
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr "av"
 
@@ -726,6 +751,9 @@ msgstr "pop"
 
 msgid "Profile"
 msgstr "Profil"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "Projektet är inte sparat!"
@@ -1173,6 +1201,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Du kan inte redigera molndata i någon annans projekt.<br>Alla ändringar du "
 "gör blir tillfälliga och sparas inte."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Suddgummi bredd:"
+
+#~ msgid "Line width:"
+#~ msgstr "Linjebredd:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Lägg till ett boolskt värde:"

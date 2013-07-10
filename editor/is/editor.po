@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:45+0200\n"
+"POT-Creation-Date: 2013-07-05 06:56+0200\n"
 "PO-Revision-Date: 2013-05-16 23:32+0200\n"
 "Last-Translator: Stefan Einar <stefaneinar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,6 +117,9 @@ msgstr "Bassatromma"
 
 msgid "Bassoon"
 msgstr "Fagott"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "Teikning"
@@ -383,8 +386,13 @@ msgstr "Sporbaugur"
 msgid "Erase"
 msgstr "Eyða"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "Þvermál strokleðurs:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "fjara inn"
@@ -455,6 +463,9 @@ msgstr "Klapp"
 msgid "hide"
 msgstr "fela"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "klst"
 
@@ -500,7 +511,9 @@ msgstr "marki náð"
 msgid "Line"
 msgstr "Lína"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Linubreidd:"
 
 # 75%
@@ -525,6 +538,9 @@ msgstr "hærra"
 msgid "loudness"
 msgstr "hljóðstyrkur"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "Smíða blokk"
 
@@ -548,6 +564,12 @@ msgstr "Heiti skilaboða"
 
 msgid "message1"
 msgstr "skilaboð1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "Min"
@@ -630,6 +652,9 @@ msgstr "Engar hreyfiblokkir"
 msgid "Not saved; network or server problem."
 msgstr "Ekki vistað. Net- eða miðlaravandamál."
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr "af"
 
@@ -707,6 +732,9 @@ msgstr "popp"
 
 msgid "Profile"
 msgstr "Yfirlit"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "Verkefni ekki vistað!"
@@ -1149,6 +1177,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Þú getur ekki breytt gögnum í Skýinu sem eru hluti af verkefnum "
 "annara.<br>Breytingar sem þú gerir verða aðeins tímabundnar."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Þvermál strokleðurs:"
+
+#~ msgid "Line width:"
+#~ msgstr "Linubreidd:"
 
 # 90%
 #, fuzzy

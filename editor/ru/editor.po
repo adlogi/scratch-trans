@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:47+0200\n"
+"POT-Creation-Date: 2013-07-05 06:58+0200\n"
 "PO-Revision-Date: 2013-05-06 10:27+0200\n"
 "Last-Translator: patarakin <patarakin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -128,6 +128,9 @@ msgstr "Большой басовый барабан"
 
 msgid "Bassoon"
 msgstr "Фагот"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "Битовая карта"
@@ -398,8 +401,13 @@ msgstr "Эллипс"
 msgid "Erase"
 msgstr "Вырезать"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "Ширина ластика:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "увеличивать"
@@ -470,6 +478,9 @@ msgstr "Хлопок ладоней"
 msgid "hide"
 msgstr "скрыть"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "час"
 
@@ -515,7 +526,9 @@ msgstr "достигнут предел"
 msgid "Line"
 msgstr "Линия"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Ширина линии:"
 
 # 75%
@@ -540,6 +553,9 @@ msgstr "громче"
 msgid "loudness"
 msgstr "громкость"
 
+msgid "Low C"
+msgstr ""
+
 msgid "Make a Block"
 msgstr "Создать блок"
 
@@ -563,6 +579,12 @@ msgstr "Имя сообщения"
 
 msgid "message1"
 msgstr "сообщение1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "Минимум"
@@ -648,6 +670,9 @@ msgstr "Нет блоков движения"
 msgid "Not saved; network or server problem."
 msgstr "Не сохранено; проблема с сетью или сервером"
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr "от"
 
@@ -726,6 +751,9 @@ msgstr "поп"
 
 msgid "Profile"
 msgstr "Профиль"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "Проект не сохранён!"
@@ -1171,6 +1199,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Вы не можете редактировать облачные данные в чужих проектах.<br>Любые "
 "изменения, которые внесете в режиме редактирования будут временными."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Ширина ластика:"
+
+#~ msgid "Line width:"
+#~ msgstr "Ширина линии:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Добавить логическое значение"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:46+0200\n"
+"POT-Creation-Date: 2013-07-05 06:58+0200\n"
 "PO-Revision-Date: 2013-05-21 17:02+0200\n"
 "Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -118,6 +118,9 @@ msgstr "Bass Drum"
 
 msgid "Bassoon"
 msgstr "Fagot"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "Afbeelding"
@@ -387,8 +390,13 @@ msgstr "Ovaal"
 msgid "Erase"
 msgstr "Wissen"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "Gum-breedte:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "fade in"
@@ -459,6 +467,9 @@ msgstr "Handenklap"
 msgid "hide"
 msgstr "verbergen"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "uur"
 
@@ -504,7 +515,9 @@ msgstr "limiet bereikt"
 msgid "Line"
 msgstr "Lijn"
 
-msgid "Line width:"
+# 90%
+#, fuzzy
+msgid "Line width"
 msgstr "Lijn-breedte:"
 
 msgid "list"
@@ -527,6 +540,9 @@ msgstr "luider"
 
 msgid "loudness"
 msgstr "luidheid"
+
+msgid "Low C"
+msgstr ""
 
 msgid "Make a Block"
 msgstr "Maak een blok"
@@ -551,6 +567,12 @@ msgstr "Berichtnaam"
 
 msgid "message1"
 msgstr "bericht1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "Min"
@@ -634,6 +656,9 @@ msgstr "Geen beweegblokken"
 msgid "Not saved; network or server problem."
 msgstr "Niet opgeslagen; netwerk- of serverprobleem."
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr "van"
 
@@ -711,6 +736,9 @@ msgstr "plop"
 
 msgid "Profile"
 msgstr "Profiel"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "Project niet opgeslagen!"
@@ -1150,6 +1178,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Je kunt geen clouddata van iemand anders veranderen.<br>Elke verandering die "
 "je maakt in de editor is tijdelijk en wordt niet bewaard."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Gum-breedte:"
+
+#~ msgid "Line width:"
+#~ msgstr "Lijn-breedte:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Voeg boolean-veld toe:"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:43+0200\n"
-"PO-Revision-Date: 2013-05-13 09:01+0200\n"
+"POT-Creation-Date: 2013-07-05 06:55+0200\n"
+"PO-Revision-Date: 2013-07-08 15:20+0200\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -125,6 +125,12 @@ msgstr "Velký buben"
 
 msgid "Bassoon"
 msgstr "Fagot"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"Protože máš nový účet Scratch, žádné změny do cloud dat nebudou zatím "
+"ukládány. Vytrvej ve spoluúčasti na webserveru a brzy budeš moci využívat "
+"cloud data!"
 
 msgid "Bitmap"
 msgstr "Bitmapa"
@@ -395,8 +401,12 @@ msgstr "Elipsa"
 msgid "Erase"
 msgstr "Smazání"
 
-msgid "Eraser width:"
-msgstr "Šířka gumy:"
+# 92%
+msgid "Eraser width"
+msgstr "Šířka gumy"
+
+msgid "Error!"
+msgstr "Chyba!"
 
 msgid "fade in"
 msgstr "rozednívat"
@@ -467,6 +477,9 @@ msgstr "Tlesknutí"
 msgid "hide"
 msgstr "skrýt"
 
+msgid "High C"
+msgstr "Vysoké C"
+
 msgid "hour"
 msgstr "hodin"
 
@@ -512,8 +525,9 @@ msgstr "dosáhlo limitu"
 msgid "Line"
 msgstr "Úsečka"
 
-msgid "Line width:"
-msgstr "Šířka úsečky: "
+# 90%
+msgid "Line width"
+msgstr "Šířka úsečky"
 
 # 75%
 msgid "list"
@@ -536,6 +550,9 @@ msgstr "hlasitěji"
 
 msgid "loudness"
 msgstr "hlasitost"
+
+msgid "Low C"
+msgstr "Hluboké C"
 
 msgid "Make a Block"
 msgstr "Vytvořit blok"
@@ -560,6 +577,12 @@ msgstr "Název zprávy"
 
 msgid "message1"
 msgstr "zpráva1"
+
+msgid "Microphone Volume:"
+msgstr "Hlasitost mikrofonu:"
+
+msgid "Middle C"
+msgstr "Základní C"
 
 msgid "Min"
 msgstr "Minimum"
@@ -646,6 +669,9 @@ msgstr "Žádné bloky pohybu"
 msgid "Not saved; network or server problem."
 msgstr "Neuloženo; problém se sítí nebo serverem."
 
+msgid "Not saved; project did not load."
+msgstr "Neuloženo; projekt nebyl stažen."
+
 msgid "of"
 msgstr "z"
 
@@ -725,6 +751,9 @@ msgstr "pop"
 
 msgid "Profile"
 msgstr "Profil"
+
+msgid "Project did not load."
+msgstr "Projekt nebyl stažen."
 
 msgid "Project not saved!"
 msgstr "Projekt není uložen!"
@@ -1169,6 +1198,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Nemůžeš editovat cloud data v projektu někoho jiného.<br>Každá změna kterou "
 "uděláš v editoru bude jen dočasná, ne trvalá."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Šířka gumy:"
+
+#~ msgid "Line width:"
+#~ msgstr "Šířka úsečky: "
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Přidat logický parametr:"

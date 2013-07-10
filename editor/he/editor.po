@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:45+0200\n"
-"PO-Revision-Date: 2013-05-30 14:23+0200\n"
-"Last-Translator: MotiB <moti.ben.ari@gmail.com>\n"
+"POT-Creation-Date: 2013-07-05 06:56+0200\n"
+"PO-Revision-Date: 2013-07-10 16:36+0200\n"
+"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
@@ -121,6 +121,9 @@ msgstr "תוף בס"
 
 msgid "Bassoon"
 msgstr "בסון"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
 
 msgid "Bitmap"
 msgstr "מיפוי סיביות"
@@ -390,8 +393,13 @@ msgstr "אליפסה"
 msgid "Erase"
 msgstr "מחק"
 
-msgid "Eraser width:"
+# 92%
+#, fuzzy
+msgid "Eraser width"
 msgstr "רוחב מחק:"
+
+msgid "Error!"
+msgstr ""
 
 msgid "fade in"
 msgstr "הצג בהדרגתיות"
@@ -462,6 +470,9 @@ msgstr "מחיאת כף"
 msgid "hide"
 msgstr "הסתר"
 
+msgid "High C"
+msgstr ""
+
 msgid "hour"
 msgstr "שעה"
 
@@ -507,8 +518,9 @@ msgstr "הגעה לקצה"
 msgid "Line"
 msgstr "קו"
 
-msgid "Line width:"
-msgstr "רוחב קו:"
+# 90%
+msgid "Line width"
+msgstr "רוחב קו"
 
 # 75%
 msgid "list"
@@ -531,6 +543,9 @@ msgstr "חזק יותר"
 
 msgid "loudness"
 msgstr "עוצמה"
+
+msgid "Low C"
+msgstr ""
 
 msgid "Make a Block"
 msgstr "צור לבנה"
@@ -555,6 +570,12 @@ msgstr "שם מסר"
 
 msgid "message1"
 msgstr "מסר1"
+
+msgid "Microphone Volume:"
+msgstr ""
+
+msgid "Middle C"
+msgstr ""
 
 msgid "Min"
 msgstr "מינימום"
@@ -640,6 +661,9 @@ msgstr "ללא פקודות תנועה"
 msgid "Not saved; network or server problem."
 msgstr "לא נשמור, בעיה ברשת או בשרת."
 
+msgid "Not saved; project did not load."
+msgstr ""
+
 msgid "of"
 msgstr "של"
 
@@ -718,6 +742,9 @@ msgstr "פופ"
 
 msgid "Profile"
 msgstr "פרופיל"
+
+msgid "Project did not load."
+msgstr ""
 
 msgid "Project not saved!"
 msgstr "פרויקט לא נשמר!"
@@ -1157,6 +1184,12 @@ msgstr "שנה"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr "אינך רשאי לערוך משתני ענן של מישהו אחר<br>כל שינוי יהיה זמני."
+
+#~ msgid "Eraser width:"
+#~ msgstr "רוחב מחק:"
+
+#~ msgid "Line width:"
+#~ msgstr "רוחב קו:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "הוסף קלט בוליאני:"
