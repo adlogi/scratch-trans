@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 05:47+0200\n"
-"PO-Revision-Date: 2013-06-10 06:35+0200\n"
+"PO-Revision-Date: 2013-07-07 21:04+0200\n"
 "Last-Translator: ehermann <everton.hermann@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -17,17 +17,13 @@ msgid "10 ^"
 msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informações sobre variáveis do Cloud</b><br>&nbsp;<br>Atualmente, apenas "
-"números são suportados<br>Salas de bate-papo não são autorizadas, e serão "
-"removidas<br>Para mais informação, <a href= target=>veja a FAQ sobre dados "
-"do Cloud!</a>"
+msgstr "<b>Informações sobre variáveis em Nuvem</b><br>&nbsp;<br>Atualmente, apenas números são suportados<br>Salas de bate-papo não são autorizadas, e serão removidas<br>Para mais informação, <a href= target=>veja a FAQ sobre dados da Nuvem!</a>"
 
 msgid "A connected"
 msgstr "A conectado"
 
 msgid "a copy of the project file on your computer."
-msgstr "uma copia do arquivo do projeto em seu computador."
+msgstr "uma cópia do arquivo do projeto em seu computador."
 
 msgid "abs"
 msgstr "módulo"
@@ -84,28 +80,28 @@ msgid "Back a layer"
 msgstr "Descer um nível"
 
 msgid "Backdrop"
-msgstr "Fundo de tela"
+msgstr "Pano de fundo"
 
 msgid "backdrop"
-msgstr "fundo de tela"
+msgstr "pano de fundo"
 
 msgid "backdrop #"
-msgstr "num do fundo"
+msgstr "n° do fundo"
 
 msgid "Backdrop Library"
-msgstr "Biblioteca de fundos de tela"
+msgstr "Biblioteca de panos de fundo"
 
 msgid "backdrop name"
-msgstr "nome do fundo de tela"
+msgstr "nome do pano de fundo"
 
 msgid "backdrop1"
 msgstr "fundo1"
 
 msgid "backdrops"
-msgstr "fundos de tela"
+msgstr "panos de fundo"
 
 msgid "Backdrops"
-msgstr "Fundos de tela"
+msgstr "Panos de fundo"
 
 msgid "Backpack"
 msgstr "Mochila"
@@ -118,6 +114,12 @@ msgstr "Bumbo"
 
 msgid "Bassoon"
 msgstr "Fagote"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"Como você tem uma nova conta do Scratch, as alterações feitas aos dados da "
+"nuvem não serão guardadas. Continue usando o Scratch e em breve poderá usar "
+"os dados da nuvem."
 
 msgid "Bitmap"
 msgstr "Bitmap"
@@ -189,16 +191,16 @@ msgid "Choir"
 msgstr "Coro"
 
 msgid "Choose backdrop from library"
-msgstr "Escolha um fundo a partir da biblioteca"
+msgstr "Importar fundo da biblioteca"
 
 msgid "Choose costume from library"
-msgstr "Escolha um traje a partir da biblioteca"
+msgstr "Importar fantasia da biblioteca"
 
 msgid "Choose sound from library"
-msgstr "Escolha um som a partir da biblioteca"
+msgstr "Importar som da biblioteca"
 
 msgid "Choose sprite from library"
-msgstr "Escolha um objeto a partir da biblioteca"
+msgstr "Importar ator da biblioteca"
 
 msgid "Circle"
 msgstr "Círculo"
@@ -219,7 +221,7 @@ msgid "clear senders/receivers"
 msgstr "apagar emissores/receptores"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr "Clique para tentar novamente ou  salvar"
+msgstr "Clique "Salvar" para tentar novamente ou "Baixar" para baixar o arquivo"
 
 msgid "Close"
 msgstr "Fechar"
@@ -228,10 +230,10 @@ msgid "Closed Hi-Hat"
 msgstr "Chimbal fechado"
 
 msgid "Cloud"
-msgstr "Cloud"
+msgstr "Nuvem"
 
 msgid "Cloud data"
-msgstr "Dados do Cloud"
+msgstr "Dados em Nuvem"
 
 msgid "color"
 msgstr "cor"
@@ -243,7 +245,7 @@ msgid "Conga"
 msgstr "Conga"
 
 msgid "Connecting to Cloud data server..."
-msgstr "Conectando ao servidor de dados do Cloud..."
+msgstr "Conectando ao servidor de dados da Nuvem..."
 
 msgid "Convert to bitmap"
 msgstr "Converter para bitmap"
@@ -264,31 +266,31 @@ msgid "cos"
 msgstr "cosseno"
 
 msgid "Costume"
-msgstr "Traje1"
+msgstr "Fantasia1"
 
 msgid "costume #"
-msgstr "no. do traje"
+msgstr "n° da fantasia"
 
 msgid "Costume Library"
-msgstr "Biblioteca de Trajes"
+msgstr "Biblioteca de Fantasias"
 
 msgid "costume name"
-msgstr "nome do traje"
+msgstr "nome da fantasia"
 
 msgid "costume1"
-msgstr "traje1"
+msgstr "fantasia1"
 
 msgid "costume2"
-msgstr "traje2"
+msgstr "fantasia2"
 
 msgid "Costumes"
-msgstr "Trajes"
+msgstr "Fantasias"
 
 msgid "Costumes > 1"
-msgstr "Trajes > 1"
+msgstr "Fantasias > 1"
 
 msgid "Costumes:"
-msgstr "Trajes:"
+msgstr "Fantasias:"
 
 msgid "Cowbell"
 msgstr "Sino"
@@ -300,7 +302,7 @@ msgid "Creating..."
 msgstr "Criando..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr "Atualmente, apenas números podem ser armazenados em variáveis do Cloud."
+msgstr "Atualmente, apenas números podem ser armazenados em variáveis da Nuvem."
 
 msgid "cut"
 msgstr "recortar"
@@ -376,7 +378,7 @@ msgid "Electric Piano"
 msgstr "Piano Elétrico"
 
 msgid "Electronic"
-msgstr "Eletronicos"
+msgstr "Eletrônicos"
 
 msgid "Ellipse"
 msgstr "Elipse"
@@ -384,8 +386,12 @@ msgstr "Elipse"
 msgid "Erase"
 msgstr "Apagar"
 
-msgid "Eraser width:"
-msgstr "Borracha com:"
+# 92%
+msgid "Eraser width"
+msgstr "Espessura da borracha"
+
+msgid "Error!"
+msgstr "Erro!"
 
 msgid "fade in"
 msgstr "aparecer"
@@ -394,7 +400,7 @@ msgid "fade out"
 msgstr "desaparecer"
 
 msgid "Fantasy"
-msgstr "Fantasia"
+msgstr "Imaginários"
 
 msgid "Features"
 msgstr "Funcionalidades"
@@ -424,10 +430,10 @@ msgid "Flying"
 msgstr "Voando"
 
 msgid "For all sprites"
-msgstr "Para todos os objetos"
+msgstr "Para todos os atores"
 
 msgid "For this sprite only"
-msgstr "Para este objeto apenas"
+msgstr "Para este ator apenas"
 
 msgid "Forward a layer"
 msgstr "Avançar uma camada"
@@ -455,6 +461,9 @@ msgstr "Palmas"
 
 msgid "hide"
 msgstr "esconder"
+
+msgid "High C"
+msgstr "Dó Alto"
 
 msgid "hour"
 msgstr "hora"
@@ -501,8 +510,9 @@ msgstr "limite atingido"
 msgid "Line"
 msgstr "Linha"
 
-msgid "Line width:"
-msgstr "Largura da linha:"
+# 90%
+msgid "Line width"
+msgstr "Espessura da linha"
 
 msgid "list"
 msgstr "lista"
@@ -511,19 +521,22 @@ msgid "List name"
 msgstr "Nome da lista"
 
 msgid "ln"
-msgstr "logarítmo natural de"
+msgstr "logaritmo natural de"
 
 msgid "Loading project..."
 msgstr "Carregando projeto..."
 
 msgid "log"
-msgstr "logarítmo"
+msgstr "logaritmo"
 
 msgid "louder"
 msgstr "mais forte"
 
 msgid "loudness"
-msgstr "volume sonoro"
+msgstr "ruído"
+
+msgid "Low C"
+msgstr "Dó Baixo"
 
 msgid "Make a Block"
 msgstr "Criar um bloco"
@@ -547,7 +560,13 @@ msgid "Message Name"
 msgstr "Nome da mensagem"
 
 msgid "message1"
-msgstr "mensagem1"
+msgstr "mensagem 1"
+
+msgid "Microphone Volume:"
+msgstr "Volume do Microfone:"
+
+msgid "Middle C"
+msgstr "Dó Central"
 
 msgid "Min"
 msgstr "Mínimo"
@@ -583,7 +602,7 @@ msgid "My Stuff"
 msgstr "Minhas Coisas"
 
 msgid "myself"
-msgstr "este objeto"
+msgstr "este ator"
 
 msgid "Nature"
 msgstr "Natureza"
@@ -598,10 +617,10 @@ msgid "New backdrop:"
 msgstr "Novo fundo:"
 
 msgid "New costume from camera"
-msgstr "Usar imagem da câmera como traje"
+msgstr "Usar imagem da câmera como fantasia"
 
 msgid "New costume:"
-msgstr "Novo traje:"
+msgstr "Nova fantasia:"
 
 msgid "New List"
 msgstr "Nova Lista"
@@ -616,10 +635,10 @@ msgid "New sound:"
 msgstr "Novo som:"
 
 msgid "New sprite from camera"
-msgstr "Usar imagem da câmera para criar objeto"
+msgstr "Usar imagem da câmera para criar ator"
 
 msgid "New sprite:"
-msgstr "Novo objeto:"
+msgstr "Novo ator:"
 
 msgid "New Variable"
 msgstr "Nova Variável"
@@ -629,613 +648,3 @@ msgstr "Não há blocos de movimento"
 
 msgid "Not saved; network or server problem."
 msgstr "Impossível salvar: problema de rede ou de servidor."
-
-msgid "of"
-msgstr "de"
-
-msgid "off"
-msgstr "desligado"
-
-msgid "OK"
-msgstr "OK"
-
-msgid "on"
-msgstr "ligado"
-
-msgid "on-flipped"
-msgstr "espelhado"
-
-msgid "Open Cuica"
-msgstr "Cuíca Aberta"
-
-msgid "Open Hi-Hat"
-msgstr "Chimbal (prato de choque) aberto"
-
-msgid "Options"
-msgstr "Opções"
-
-msgid "Organ"
-msgstr "Órgão"
-
-msgid "Other"
-msgstr "Outros"
-
-msgid "other scripts in sprite"
-msgstr "outros comandos do objeto"
-
-msgid "Outdoors"
-msgstr "Exterior"
-
-msgid "Paint new backdrop"
-msgstr "Desenhar um fundo novo"
-
-msgid "Paint new costume"
-msgstr "Desenhar um traje novo"
-
-msgid "Paint new sprite"
-msgstr "Desenhar um novo objeto"
-
-msgid "paste"
-msgstr "colar"
-
-msgid "Pencil"
-msgstr "Caneta"
-
-msgid "People"
-msgstr "Pessoas"
-
-msgid "Percussion"
-msgstr "Percussão"
-
-msgid "photo1"
-msgstr "foto1"
-
-msgid "Piano"
-msgstr "Piano"
-
-msgid "Pick up color"
-msgstr "Escolher Cor"
-
-msgid "pixelate"
-msgstr "pixelizar"
-
-msgid "Pizzicato"
-msgstr "Pizzicato"
-
-msgid "pop"
-msgstr "pop"
-
-msgid "Profile"
-msgstr "Perfil"
-
-msgid "Project not saved!"
-msgstr "Projeto não salvo!"
-
-msgid "random"
-msgstr "aleatório"
-
-msgid "Record"
-msgstr "Gravar"
-
-msgid "Record new sound"
-msgstr "Gravar novo som"
-
-msgid "recording1"
-msgstr "gravação1"
-
-msgid "Rectangle"
-msgstr "Retângulo"
-
-msgid "Redo"
-msgstr "Refazer"
-
-msgid "redo"
-msgstr "refazer"
-
-msgid "Remix"
-msgstr "Remix"
-
-msgid "Remixing..."
-msgstr "Remixando..."
-
-msgid "Rename"
-msgstr "Renomear"
-
-msgid "rename variable"
-msgstr "renomear variável"
-
-msgid "requires sign in"
-msgstr "necessita conexão"
-
-msgid "Reshape"
-msgstr "Remodelar"
-
-msgid "resistance-A"
-msgstr "resistência-A"
-
-msgid "resistance-B"
-msgstr "resistência-B"
-
-msgid "resistance-C"
-msgstr "resistência-C"
-
-msgid "resistance-D"
-msgstr "resistência-D"
-
-msgid "reverse"
-msgstr "reverso"
-
-msgid "Revert"
-msgstr "Reverter"
-
-msgid "Reverting..."
-msgstr "Revertendo..."
-
-msgid "right"
-msgstr "direita"
-
-msgid "right arrow"
-msgstr "seta para a direita"
-
-msgid "rotation style:"
-msgstr "tipo de rotação:"
-
-msgid "Run without screen refresh"
-msgstr "Executar sem atualizar tela"
-
-msgid "Save"
-msgstr "Salvar"
-
-msgid "Save as a copy"
-msgstr "Salvar como cópia"
-
-msgid "Save now"
-msgstr "Salvar agora"
-
-msgid "save to local file"
-msgstr "salvar para arquivo"
-
-msgid "Saved"
-msgstr "Salvo"
-
-msgid "Saving changes..."
-msgstr "Salvando mudanças..."
-
-msgid "Saving..."
-msgstr "Salvando..."
-
-msgid "Saxophone"
-msgstr "Saxofone"
-
-msgid "Script"
-msgstr "Programa"
-
-msgid "Scripts"
-msgstr "Comandos"
-
-msgid "Scripts:"
-msgstr "Programas:"
-
-msgid "second"
-msgstr "segundo"
-
-msgid "See project page"
-msgstr "Ver página do projeto"
-
-msgid "Select"
-msgstr "Selecionar"
-
-msgid "select all"
-msgstr "selecionar tudo"
-
-msgid "Select and duplicate"
-msgstr "Selecionar e duplicar"
-
-msgid "Send to back"
-msgstr "Enviar ao fundo"
-
-msgid "Set costume center"
-msgstr "Centro do Traje"
-
-msgid "Set Costume Center"
-msgstr "Centro do Traje"
-
-msgid "Share"
-msgstr "Compartilhar"
-
-msgid "shared"
-msgstr "compartilhado"
-
-msgid "Shift:"
-msgstr "Deslocar:"
-
-msgid "show"
-msgstr "mostrar"
-
-msgid "show receivers"
-msgstr "ver receptores"
-
-msgid "show senders"
-msgstr "ver emissores"
-
-msgid "show:"
-msgstr "mostrar:"
-
-msgid "Shrink"
-msgstr "Reduzir"
-
-msgid "Side Stick"
-msgstr "Batida na borda"
-
-msgid "Sign in"
-msgstr "Conexão"
-
-msgid "Sign in to save"
-msgstr "Conecte para salvar"
-
-msgid "Sign out"
-msgstr "Desconexão"
-
-msgid "silence"
-msgstr "silêncio"
-
-msgid "sin"
-msgstr "seno"
-
-msgid "size"
-msgstr "tamanho"
-
-msgid "slider"
-msgstr "potenciômetro"
-
-msgid "Slider Range"
-msgstr "Amplitude do potenciômetro"
-
-msgid "Small stage layout"
-msgstr "Disposição em pequeno palco"
-
-msgid "Smooth"
-msgstr "Suave"
-
-msgid "Snare Drum"
-msgstr "Caixa"
-
-msgid "softer"
-msgstr "suavizar"
-
-msgid "sound"
-msgstr "som"
-
-# 80%
-msgid "Sound"
-msgstr "Som"
-
-msgid "Sound Library"
-msgstr "Biblioteca de sons"
-
-msgid "Sounds"
-msgstr "Sons"
-
-msgid "space"
-msgstr "espaço"
-
-msgid "Space"
-msgstr "Espaço"
-
-msgid "Sports"
-msgstr "Esportes"
-
-# 85%
-msgid "Sprite"
-msgstr "Objeto"
-
-msgid "Sprite Library"
-msgstr "Biblioteca de Objetos"
-
-msgid "Sprite1"
-msgstr "Objeto1"
-
-msgid "Sprites"
-msgstr "Objetos"
-
-msgid "sqrt"
-msgstr "raiz quadrada"
-
-msgid "Square"
-msgstr "Quadrado"
-
-msgid "Stage"
-msgstr "Palco"
-
-msgid "Stage selected:"
-msgstr "Palco selecionado:"
-
-msgid "Steel Drum"
-msgstr "Tambor de Aço"
-
-msgid "stored on server"
-msgstr "armazenado no servidor"
-
-msgid "Synth Lead"
-msgstr "Sintetizador Melódico"
-
-msgid "Synth Pad"
-msgstr "Sintetizador de fundo"
-
-msgid "Tambourine"
-msgstr "Pandeirola"
-
-msgid "tan"
-msgstr "tangente"
-
-msgid "Text"
-msgstr "Texto"
-
-msgid "that way"
-msgstr "nesse sentido"
-
-msgid "Theme"
-msgstr "Tema"
-
-msgid "Things"
-msgstr "Coisas"
-
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
-msgstr ""
-"Este projeto pode detectar quem esta usando através do bloco \"nome de "
-"usuário\". Para esconder sua identidade, desconecte antes de usar este "
-"projeto."
-
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
-msgstr ""
-"Este projeto usa dados do Cloud - uma funcionalidade que é disponível apenas "
-"para usuários conectados."
-
-msgid "this script"
-msgstr "este programa"
-
-msgid "this sprite"
-msgstr "este objeto"
-
-msgid "this way"
-msgstr "neste sentido"
-
-msgid "Throw away all changes since opening this project?"
-msgstr "Descartar todas as mudanças feitas depois da apertura do projeto?"
-
-msgid "timer"
-msgstr "cronômetro"
-
-msgid "Tips"
-msgstr "Dicas"
-
-msgid "To delete a block definition, first remove all uses of the block."
-msgstr ""
-"Para apagar uma definição de bloco, primeiro apague todos as utilizações "
-"deste bloco."
-
-msgid "Transportation"
-msgstr "Transportes"
-
-msgid "Triangle"
-msgstr "Triângulo"
-
-msgid "Trombone"
-msgstr "Trombone"
-
-msgid "Turbo mode"
-msgstr "Modo turbo"
-
-msgid "Turbo Mode"
-msgstr "Modo Turbo"
-
-msgid "Type"
-msgstr "Tipo"
-
-# 75%
-msgid "Undelete"
-msgstr "Recuperar"
-
-msgid "Underwater"
-msgstr "Debaixo d'água"
-
-msgid "Undo"
-msgstr "Desfazer"
-
-msgid "undo"
-msgstr "desfazer"
-
-msgid "Undo Revert"
-msgstr "Desfazer Reversão"
-
-msgid "Ungroup"
-msgstr "Desagrupar"
-
-msgid "unshared"
-msgstr "não compartilhado"
-
-msgid "up"
-msgstr "acima"
-
-msgid "up arrow"
-msgstr "seta para cima"
-
-msgid "Upload backdrop from file"
-msgstr "Carregar fundo a partir de um arquivo"
-
-msgid "Upload costume from file"
-msgstr "Carregar traje a partir de um arquivo"
-
-msgid "Upload from your computer"
-msgstr "Transferir a partir do computador"
-
-msgid "Upload sound from file"
-msgstr "Carregar som a partir de um arquivo"
-
-msgid "Upload sprite from file"
-msgstr "Carregar objeto a partir de um arquivo"
-
-msgid "Uploading image..."
-msgstr "Carregando imagem..."
-
-msgid "Uploading sound..."
-msgstr "Carregando som..."
-
-msgid "Uploading sprite..."
-msgstr "Carregando personagem..."
-
-msgid "variable"
-msgstr "variável"
-
-msgid "Variable name"
-msgstr "Nome da variável"
-
-msgid "Vector"
-msgstr "Vetor"
-
-msgid "Vector Mode"
-msgstr "Modo Vetorial"
-
-msgid "Vibraphone"
-msgstr "Vibrafone"
-
-msgid "Vibraslap"
-msgstr "Queixada"
-
-msgid "video motion"
-msgstr "movimento de vídeo"
-
-msgid "Video on:"
-msgstr "Vídeo ligado:"
-
-msgid "Vocals"
-msgstr "Vocais"
-
-msgid "volume"
-msgstr "volume"
-
-msgid "Walking"
-msgstr "Caminhando"
-
-msgid "Want to save? Click remix"
-msgstr "Quer salvar? Clique em remixar"
-
-msgid "Which column do you want to import"
-msgstr "Qual coluna você quer importar"
-
-msgid "whirl"
-msgstr "torcer"
-
-msgid "Wood Block"
-msgstr "Bloco Sonoro"
-
-msgid "Wooden Flute"
-msgstr "Flauta de Madeira"
-
-msgid "x position"
-msgstr "posição x"
-
-msgid "y position"
-msgstr "posição y"
-
-msgid "year"
-msgstr "ano"
-
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
-msgstr ""
-"Você não pode editar dados do cloud em um projeto de outra pessoa. <br> Toda "
-"mudança feita no editor é temporária e não persistente."
-
-#~ msgid "Add a boolean input:"
-#~ msgstr "Adicionar entrada lógica:"
-
-#~ msgid "Add a number input:"
-#~ msgstr "Adicionar entrada numérica:"
-
-#~ msgid "Add a string input:"
-#~ msgstr "Adicionar entrada de texto:"
-
-#~ msgid "Back a layer (Shift: Send to back)"
-#~ msgstr "Descer uma camada (Shift: Envia ao fundo)"
-
-#~ msgid "Duplicate (Shift: Multiple)"
-#~ msgstr "Duplicar (Shift: Vários)"
-
-#~ msgid "Ellipse (Shift: Circle)"
-#~ msgstr "Elipse (Shift: Círculo)"
-
-#~ msgid "Fill"
-#~ msgstr "Preencher"
-
-#~ msgid "Forward a layer (Shift: Bring to front)"
-#~ msgstr "Sobe uma camada (Shift: Traz para a frente)"
-
-#~ msgid "login"
-#~ msgstr "entrar"
-
-#~ msgid "New backdrop"
-#~ msgstr "Novo cenário"
-
-#~ msgid "New costume"
-#~ msgstr "Novo traje"
-
-#~ msgid "New sound"
-#~ msgstr "Novo som"
-
-# 90%
-#~ msgid "New sprite"
-#~ msgstr "Novo personagem"
-
-#~ msgid "Paint"
-#~ msgstr "Pintar"
-
-#~ msgid "Pick up Color"
-#~ msgstr "Escolher Cor"
-
-#~ msgid "Rectangle (Shift: Square)"
-#~ msgstr "Retângulo (Shift: Quadrado)"
-
-#~ msgid "Scratch Cat"
-#~ msgstr "Gato Scratch"
-
-#~ msgid "Stage selected"
-#~ msgstr "Palco selecionado"
-
-#~ msgid "any"
-#~ msgstr "qualquer"
-
-#~ msgid "High Tom"
-#~ msgstr "tom-tom (timbalão) agudo 1"
-
-#~ msgid "Long Guiro"
-#~ msgstr "reco-reco longo"
-
-#~ msgid "Low Bongo"
-#~ msgstr "bongô grave"
-
-#~ msgid "Low Conga"
-#~ msgstr "conga grave"
-
-#~ msgid "Low Tom"
-#~ msgstr "tom-tom (timbalão) médio 2"
-
-#~ msgid "Low Wood Block"
-#~ msgstr "bloco sonoro (de madeira) grave"
-
-#~ msgid "Maracas"
-#~ msgstr "maraca"
-
-#~ msgid "More"
-#~ msgstr "mais"
-
-#~ msgid "Mute Triangle"
-#~ msgstr "triângulo abafado"
-
-#~ msgid "Open Triangle"
-#~ msgstr "triângulo"
-
-#~ msgid "Pedal Hi-Hat"
-#~ msgstr "chimbal (prato de choque) fechado com pedal"
-
-#~ msgid "Short Guiro"
-#~ msgstr "reco-reco curto"
