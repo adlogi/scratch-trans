@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-06-12 06:16+0200\n"
+"PO-Revision-Date: 2013-07-07 21:43+0200\n"
 "Last-Translator: ehermann <everton.hermann@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -36,10 +36,10 @@ msgid "%m.sensor sensor value"
 msgstr "valor do sensor %m.sensor"
 
 msgid "%n mod %n"
-msgstr "resto da divisão de %n por %n"
+msgstr "resto de %n por %n"
 
 msgid "add %s to %m.list"
-msgstr "adiciona %s a %m.list"
+msgstr "adicione %s a %m.list"
 
 msgid "answer"
 msgstr "resposta"
@@ -49,47 +49,47 @@ msgstr "pergunte %s e espere a resposta"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "fundo de tela n°"
+msgstr "n° do pano de fundo "
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "nome do fundo de tela"
+msgstr "nome do pano de fundo"
 
 msgid "broadcast %m.broadcast"
-msgstr "anuncie %m.broadcast para todos"
+msgstr "envie %m.broadcast a todos"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "anuncie %m.broadcast para todos e espere"
+msgstr "envie %m.broadcast a todos e espere"
 
 msgid "change %m.effect effect by %n"
-msgstr "soma ao efeito %m.effect, %n"
+msgstr "adicione ao efeito %m.effect, %n"
 
 msgid "change %m.var by %n"
-msgstr "soma a %m.var %n"
+msgstr "adicione a %m.var , %n"
 
 msgid "change pen color by %n"
-msgstr "soma %n à cor da caneta"
+msgstr "adicione %n à cor da caneta"
 
 msgid "change pen shade by %n"
-msgstr "soma %n à intensidade da caneta"
+msgstr "adicione %n à intensidade da caneta"
 
 msgid "change pen size by %n"
-msgstr "soma %n ao tamanho da caneta"
+msgstr "adicione %n ao tamanho da caneta"
 
 msgid "change size by %n"
-msgstr "soma %n ao tamanho"
+msgstr "adicione %n ao tamanho"
 
 msgid "change tempo by %n"
-msgstr "soma %n ao ritmo"
+msgstr "adicione %n ao ritmo"
 
 msgid "change volume by %n"
-msgstr "soma %n ao volume"
+msgstr "adicione %n ao volume"
 
 msgid "change x by %n"
-msgstr "soma %n a x"
+msgstr "adicione %n a x"
 
 msgid "change y by %n"
-msgstr "soma %n a y"
+msgstr "adicione %n a y"
 
 msgid "clear"
 msgstr "apague tudo"
@@ -104,10 +104,10 @@ msgid "Control"
 msgstr "Controle"
 
 msgid "costume #"
-msgstr "traje n° "
+msgstr "n° da fantasia"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "cria clone de %m.spriteOnly"
+msgstr "crie clone de %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "%m.timeAndDate atual"
@@ -119,13 +119,13 @@ msgid "days since 2000"
 msgstr "dias desde 2000"
 
 msgid "define"
-msgstr "define"
+msgstr "defina"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "apaga %d.listDeleteItem de %m.list"
+msgstr "apague %d.listDeleteItem de %m.list"
 
 msgid "delete this clone"
-msgstr "apaga este clone"
+msgstr "apague este clone"
 
 msgid "direction"
 msgstr "direção"
@@ -164,10 +164,10 @@ msgid "hide"
 msgstr "desapareça"
 
 msgid "hide list %m.list"
-msgstr "esconde lista %m.list"
+msgstr "esconda lista %m.list"
 
 msgid "hide variable %m.var"
-msgstr "esconde variável %m.var"
+msgstr "esconda variável %m.var"
 
 msgid "if %b then"
 msgstr "se %b então"
@@ -176,7 +176,7 @@ msgid "if on edge, bounce"
 msgstr "se tocar na borda, volte"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "insere %s na posição %d.listItem da lista %m.list"
+msgstr "insira %s na posição %d.listItem da lista %m.listd"
 
 msgid "item %d.listItem of %m.list"
 msgstr "item %d.listItem de %m.list"
@@ -191,7 +191,7 @@ msgid "length of %m.list"
 msgstr "tamanho de %m.list"
 
 msgid "length of %s"
-msgstr "letras em %s"
+msgstr "tamanho de %s"
 
 msgid "letter %n of %s"
 msgstr "letra %n de %s"
@@ -200,7 +200,7 @@ msgid "Looks"
 msgstr "Aparência"
 
 msgid "loudness"
-msgstr "volume do som"
+msgstr "ruído"
 
 msgid "More Blocks"
 msgstr "Mais Blocos"
@@ -222,10 +222,10 @@ msgstr "mova %n passos"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr "próximo fundo de tela"
+msgstr "próximo pano de fundo"
 
 msgid "next costume"
-msgstr "próximo traje"
+msgstr "próxima fantasia"
 
 msgid "not %b"
 msgstr "não %b"
@@ -237,13 +237,13 @@ msgid "Pen"
 msgstr "Caneta"
 
 msgid "pen down"
-msgstr "abaixe a caneta"
+msgstr "use a caneta"
 
 msgid "pen up"
 msgstr "levante a caneta"
 
 msgid "pick random %n to %n"
-msgstr "sorteie número entre %n e %n"
+msgstr "escolha número entre %n e %n"
 
 msgid "play drum %d.drum for %n beats"
 msgstr "toque o tambor %d.drum por %n batidas"
@@ -256,7 +256,7 @@ msgid "play sound %m.sound"
 msgstr "toque o som %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr "toque o som %m.sound até terminar"
+msgstr "toque o som %m.sound até o fim"
 
 msgid "point in direction %d.direction"
 msgstr "aponte para a direção %d.direction graus"
@@ -271,7 +271,7 @@ msgid "repeat until %b"
 msgstr "repita até  que %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "substitui o item %d.listItem da lista %m.list por %s"
+msgstr "substitua o item %d.listItem da lista %m.list por %s"
 
 msgid "reset timer"
 msgstr "zere o cronômetro"
@@ -330,7 +330,7 @@ msgid "set size to %n%"
 msgstr "mude o tamanho para %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "mude o ritmo para %n bpm"
+msgstr "mude o tempo para %n bpm"
 
 msgid "set video transparency to %n%"
 msgstr "muda a transparência do vídeo para %n%"
@@ -348,10 +348,10 @@ msgid "show"
 msgstr "apareça"
 
 msgid "show list %m.list"
-msgstr "mostra lista %m.list"
+msgstr "mostre lista %m.list"
 
 msgid "show variable %m.var"
-msgstr "mostra variável %m.var"
+msgstr "mostre variável %m.var"
 
 msgid "size"
 msgstr "tamanho"
@@ -370,14 +370,14 @@ msgstr "pare todos os sons"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "mude para o fundo de tela %m.backdrop"
+msgstr "mude para o pano de fundo %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "mude para o fundo de tela %m.backdrop e espere"
+msgstr "mude para o pano de fundo %m.backdrop e espere"
 
 msgid "switch costume to %m.costume"
-msgstr "mude para o traje %m.costume"
+msgstr "mude para a fantasia %m.costume"
 
 msgid "tempo"
 msgstr "ritmo"
@@ -447,23 +447,23 @@ msgid "when %m.triggerSensor > %n"
 msgstr "quando %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "quando clicar em @greenFlag"
+msgstr "quando @greenFlag clicado"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "quando o fundo de tela mudar para %m.backdrop"
+msgstr "quando o pano de fundo mudar para %m.backdrop"
 
 msgid "when distance < %n"
 msgstr "quando a distância for < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr "quando eu ouvir %m.broadcast"
+msgstr "quando receber %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "quando eu começar como clone"
+msgstr "quando este ator começar como clone"
 
 msgid "when this sprite clicked"
-msgstr "quando este objeto for clicado"
+msgstr "quando este ator for clicado"
 
 msgid "when tilt = %n"
 msgstr "quando a inclinação for = %n"
