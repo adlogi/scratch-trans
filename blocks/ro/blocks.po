@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-07-07 19:41+0200\n"
+"PO-Revision-Date: 2013-07-16 22:18+0200\n"
 "Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
@@ -37,10 +37,10 @@ msgid "%m.sensor sensor value"
 msgstr "valoarea senzorului %m.sensor"
 
 msgid "%n mod %n"
-msgstr "%n mod %n"
+msgstr "%n rest %n"
 
 msgid "add %s to %m.list"
-msgstr "aduna %s la %m.list"
+msgstr "adauga %s la %m.list"
 
 msgid "answer"
 msgstr "raspuns"
@@ -102,7 +102,7 @@ msgid "color %c is touching %c?"
 msgstr "culoarea %c atinge %c?"
 
 msgid "Control"
-msgstr "control"
+msgstr "Control"
 
 msgid "costume #"
 msgstr "costumul #"
@@ -111,10 +111,10 @@ msgid "create clone of %m.spriteOnly"
 msgstr "creaza clona pentru %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr "current %m.timeAndDate"
+msgstr "%m.timeAndDate curenta"
 
 msgid "Data"
-msgstr "Dată"
+msgstr "Date"
 
 msgid "days since 2000"
 msgstr "zile din 2000"
@@ -144,10 +144,10 @@ msgid "Events"
 msgstr "Evenimente"
 
 msgid "forever"
-msgstr "pentru totdeauna"
+msgstr "la infinit"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "aluneca in %n secunde la x:%n y:%n"
+msgstr "gliseaza in %n secunde la x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "mergi inapoi %n straturi"
@@ -180,7 +180,7 @@ msgid "insert %s at %d.listItem of %m.list"
 msgstr "insereaza %s la %d.listItem din %m.list"
 
 msgid "item %d.listItem of %m.list"
-msgstr "articolul %d.listItem din %m.list"
+msgstr "elementul %d.listItem din %m.list"
 
 msgid "join %s %s"
 msgstr "alatura %s %s"
@@ -198,7 +198,7 @@ msgid "letter %n of %s"
 msgstr "litera %n din %s"
 
 msgid "Looks"
-msgstr "aspect"
+msgstr "Aspect"
 
 msgid "loudness"
 msgstr "volum sonor"
@@ -207,7 +207,7 @@ msgid "More Blocks"
 msgstr "Mai multe blocuri"
 
 msgid "Motion"
-msgstr "miscare"
+msgstr "Miscare"
 
 msgid "mouse down?"
 msgstr "mouse apasat?"
@@ -232,10 +232,10 @@ msgid "not %b"
 msgstr "nu %b"
 
 msgid "Operators"
-msgstr "operatori"
+msgstr "Operatori"
 
 msgid "Pen"
-msgstr "stilou"
+msgstr "Stilou"
 
 msgid "pen down"
 msgstr "stiloul jos"
@@ -247,11 +247,11 @@ msgid "pick random %n to %n"
 msgstr "alege un numar aleatoriu intre %n si %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "canta la tobele %d.drum pentru %n timpi"
+msgstr "canta la toba %d.drum pentru %n timpi"
 
 # 83%
 msgid "play note %d.note for %n beats"
-msgstr "canta nota %d.note pentru %n timpi"
+msgstr "canta nota %d.note pentru %n batai"
 
 msgid "play sound %m.sound"
 msgstr "canta sunetul %m.sound"
@@ -272,7 +272,7 @@ msgid "repeat until %b"
 msgstr "repeta pana cand %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "inlocuieste articolul %d.listItem din %m.list cu %s"
+msgstr "inlocuieste elementul %d.listItem din %m.list cu %s"
 
 msgid "reset timer"
 msgstr "reseteaza cronometrul"
@@ -290,7 +290,7 @@ msgid "say %s for %n secs"
 msgstr "spune %s pentru %n sec"
 
 msgid "Sensing"
-msgstr "detectie"
+msgstr "Detectie"
 
 msgid "sensor %m.booleanSensor?"
 msgstr "senzorul %m.booleanSensor?"
@@ -299,7 +299,7 @@ msgid "set %m.effect effect to %n"
 msgstr "seteaza efectul %m.effect la %n"
 
 msgid "set %m.var to %s"
-msgstr "seteaza %m.var la %n"
+msgstr "seteaza %m.var la %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "seteaza instrumentul la %d.instrument"
@@ -310,13 +310,13 @@ msgstr "seteaza directia motorului la %m.motorDirection"
 
 # 77%
 msgid "set motor power %n"
-msgstr "steaza puterea motorului la %n"
+msgstr "seteaza puterea motorului la %n"
 
 msgid "set pen color to %c"
 msgstr "seteaza culoarea stiloului la %c"
 
 msgid "set pen color to %n"
-msgstr "seteaza culoarea stiloului la %c"
+msgstr "seteaza culoarea stiloului la %n"
 
 msgid "set pen shade to %n"
 msgstr "seteaza tonul stiloului la %n"
@@ -331,10 +331,10 @@ msgid "set size to %n%"
 msgstr "seteaza marimea la %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "seteaza tempoul la %n bpm"
+msgstr "seteaza ritmul la %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr "seteaza transparenta la %n%"
+msgstr "seteaza transparenta video la %n%"
 
 msgid "set volume to %n%"
 msgstr "seteaza volumul la %n%"
@@ -358,10 +358,10 @@ msgid "size"
 msgstr "marime"
 
 msgid "Sound"
-msgstr "sunet"
+msgstr "Sunet"
 
 msgid "stamp"
-msgstr "timbreaza"
+msgstr "stampileaza"
 
 msgid "stop %m.stop"
 msgstr "opreste %m.stop"
@@ -371,11 +371,11 @@ msgstr "opreste toate sunetele"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "comuta fundalul al %m.fundal"
+msgstr "comuta fundalul la %m.fundal"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "schimba fundalul la %m.fundal  si asteapta"
+msgstr "comuta fundalul la %m.fundal si asteapta"
 
 msgid "switch costume to %m.costume"
 msgstr "schimba costumul la %m.costum"
@@ -402,10 +402,10 @@ msgid "touching color %c?"
 msgstr "atinge culoarea %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "roteste @rotesteStanga %n grade"
+msgstr "roteste @turnLeft %n grade"
 
 msgid "turn @turnRight %n degrees"
-msgstr "roteste @rotesteDreapta %n grade"
+msgstr "roteste @turnRight %n grade"
 
 msgid "turn motor off"
 msgstr "opreste motorul"
@@ -421,7 +421,7 @@ msgid "turn video %m.videoState"
 msgstr "comuta video la %m.videoState"
 
 msgid "username"
-msgstr "utilizator"
+msgstr "nume utilizator"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "video %m.videoMotionType pe %m.stageOrThis"

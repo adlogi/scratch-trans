@@ -1,0 +1,680 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="blocks.po" source-language="en-US" datatype="plaintext" target-language="cy">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Language-Name">
+        <source>Language-Name</source>
+        <target state="translated">Cymraeg</target>
+        <note from="translator">The language name as it will appear in the language menu</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%b and %b">
+        <source>%b and %b</source>
+        <target state="translated">%b a %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%b or %b">
+        <source>%b or %b</source>
+        <target state="translated">%b neu %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%m.attribute of %m.spriteOrStage">
+        <source>%m.attribute of %m.spriteOrStage</source>
+        <target state="translated">%m.attribute o %m.spriteOrStage</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%m.list contains %s">
+        <source>%m.list contains %s</source>
+        <target state="translated">%m.list yn cynnwys %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%m.mathOp of %n">
+        <source>%m.mathOp of %n</source>
+        <target state="translated">%m.mathOp o %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%m.sensor sensor value">
+        <source>%m.sensor sensor value</source>
+        <target state="translated">%m.sensor gwerth synhwyrydd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="%n mod %n">
+        <source>%n mod %n</source>
+        <target state="translated">%n mod %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="add %s to %m.list">
+        <source>add %s to %m.list</source>
+        <target state="translated">ychwanegu %s i %m.list</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="answer">
+        <source>answer</source>
+        <target state="translated">ateb</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ask %s and wait">
+        <source>ask %s and wait</source>
+        <target state="translated">gofyn %s ac aros</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="backdrop #">
+        <source>backdrop #</source>
+        <target state="needs-translation">cefndir #</target>
+        <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="backdrop name">
+        <source>backdrop name</source>
+        <target state="translated">enw cefndir</target>
+        <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast">
+        <source>broadcast %m.broadcast</source>
+        <target state="translated">darlledu %m.broadcast</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast and wait">
+        <source>broadcast %m.broadcast and wait</source>
+        <target state="translated">darlledu %m.broadcast ac aros</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change %m.effect effect by %n">
+        <source>change %m.effect effect by %n</source>
+        <target state="translated">newid effaith %m.effect gan %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change %m.var by %n">
+        <source>change %m.var by %n</source>
+        <target state="translated">newid %m.var gan %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen color by %n">
+        <source>change pen color by %n</source>
+        <target state="translated">newid lliw pin gan %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen shade by %n">
+        <source>change pen shade by %n</source>
+        <target state="translated">newid arlliw pin gan %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change pen size by %n">
+        <source>change pen size by %n</source>
+        <target state="translated">newid maint pin gan %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change size by %n">
+        <source>change size by %n</source>
+        <target state="translated">newid maint gan %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change tempo by %n">
+        <source>change tempo by %n</source>
+        <target state="translated">newid amseriad gan %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change volume by %n">
+        <source>change volume by %n</source>
+        <target state="translated">newid uchder sain gan %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change x by %n">
+        <source>change x by %n</source>
+        <target state="translated">newid 'x' gan %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change y by %n">
+        <source>change y by %n</source>
+        <target state="translated">newid 'y' gan %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clear">
+        <source>clear</source>
+        <target state="translated">clirio</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clear graphic effects">
+        <source>clear graphic effects</source>
+        <target state="translated">Clirio effeithiau graffeg</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="color %c is touching %c?">
+        <source>color %c is touching %c?</source>
+        <target state="translated">lliw %c yn cyffwrdd %c?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Control">
+        <source>Control</source>
+        <target state="translated">rheoli</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="costume #">
+        <source>costume #</source>
+        <target state="translated">gwisg #</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="create clone of %m.spriteOnly">
+        <source>create clone of %m.spriteOnly</source>
+        <target state="translated">Creu clôn o %m.cymeriadUnig</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>Creu clôn o %m.cymeriadUnig</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="current %m.timeAndDate">
+        <source>current %m.timeAndDate</source>
+        <target state="translated">%m.amserADyddiad ar hyn o bryd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Data">
+        <source>Data</source>
+        <target state="translated">Data</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="days since 2000">
+        <source>days since 2000</source>
+        <target state="translated">dyddiau ers 2000</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>Dyddiau ers 2000</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="define">
+        <source>define</source>
+        <target state="translated">Diffinio</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>Diffinio</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="delete %d.listDeleteItem of %m.list">
+        <source>delete %d.listDeleteItem of %m.list</source>
+        <target state="translated">dileu %d.listDeleteItem o %m.list</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="delete this clone">
+        <source>delete this clone</source>
+        <target state="translated">Dileu clôn hwn</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>Dileu clôn hwn</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="direction">
+        <source>direction</source>
+        <target state="translated">cyfeiriad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="distance">
+        <source>distance</source>
+        <target state="translated">Pellter</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>Pellter</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="distance to %m.spriteOrMouse">
+        <source>distance to %m.spriteOrMouse</source>
+        <target state="translated">pellter at %m.spriteOrMouse</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>pellter i%m.spriteOrMouse</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="else">
+        <source>else</source>
+        <target state="translated">arall</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Events">
+        <source>Events</source>
+        <target state="translated">Digwyddiadau</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>Digwyddiadau</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="forever">
+        <source>forever</source>
+        <target state="translated">am byth</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
+        <source>glide %n secs to x:%n y:%n</source>
+        <target state="translated">llithro %n eiliad at x:%n y:%n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go back %n layers">
+        <source>go back %n layers</source>
+        <target state="translated">mynd nôl %n haenen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to %m.spriteOrMouse">
+        <source>go to %m.spriteOrMouse</source>
+        <target state="translated">mynd at %m.spriteOrMouse</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>mynd i %m.spriteOrMouse</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to front">
+        <source>go to front</source>
+        <target state="translated">mynd i'r blaen</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="go to x:%n y:%n">
+        <source>go to x:%n y:%n</source>
+        <target state="translated">mynd at x:%n y:%n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide">
+        <source>hide</source>
+        <target state="translated">cuddio</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide list %m.list">
+        <source>hide list %m.list</source>
+        <target state="translated">cuddio rhestr %m.rhestr</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="hide variable %m.var">
+        <source>hide variable %m.var</source>
+        <target state="translated">Cuddio newidyn %m.var</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>Cuddio newidyn %m.var</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="if %b then">
+        <source>if %b then</source>
+        <target state="translated">os %b wedyn</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>os %b wedyn</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="if on edge, bounce">
+        <source>if on edge, bounce</source>
+        <target state="translated">os ar ymyl, bowndio</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="insert %s at %d.listItem of %m.list">
+        <source>insert %s at %d.listItem of %m.list</source>
+        <target state="translated">mewnosod %s yn %d.listItem o %m.list</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="item %d.listItem of %m.list">
+        <source>item %d.listItem of %m.list</source>
+        <target state="translated">eitem %d.listItem o %m.list</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="join %s %s">
+        <source>join %s %s</source>
+        <target state="translated">uno %s %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="key %m.key pressed?">
+        <source>key %m.key pressed?</source>
+        <target state="translated">bysell %m.key wedi ei wasgu?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length of %m.list">
+        <source>length of %m.list</source>
+        <target state="translated">hyd %m.list</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="length of %s">
+        <source>length of %s</source>
+        <target state="translated">hyd %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="letter %n of %s">
+        <source>letter %n of %s</source>
+        <target state="translated">llythyren %n o %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Looks">
+        <source>Looks</source>
+        <target state="translated">edrychiad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="loudness">
+        <source>loudness</source>
+        <target state="translated">cryfder sain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="More Blocks">
+        <source>More Blocks</source>
+        <target state="translated">Mey o flociau</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Motion">
+        <source>Motion</source>
+        <target state="translated">symudiad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse down?">
+        <source>mouse down?</source>
+        <target state="translated">llygoden i lawr?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse x">
+        <source>mouse x</source>
+        <target state="translated">llygoden 'x'</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mouse y">
+        <source>mouse y</source>
+        <target state="translated">llygoden 'y'</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="move %n steps">
+        <source>move %n steps</source>
+        <target state="translated">symud %n cam</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="next backdrop">
+        <source>next backdrop</source>
+        <target state="needs-translation">cefndir nesaf</target>
+        <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="next costume">
+        <source>next costume</source>
+        <target state="translated">gwisg nesaf</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="not %b">
+        <source>not %b</source>
+        <target state="translated">dim %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Operators">
+        <source>Operators</source>
+        <target state="translated">gweithredwyr</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pen">
+        <source>Pen</source>
+        <target state="translated">pin</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen down">
+        <source>pen down</source>
+        <target state="translated">pin lawr</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pen up">
+        <source>pen up</source>
+        <target state="translated">pin fyny</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pick random %n to %n">
+        <source>pick random %n to %n</source>
+        <target state="translated">dewis ar hap %n i %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play drum %d.drum for %n beats">
+        <source>play drum %d.drum for %n beats</source>
+        <target state="translated">chwarae drwm %d.drum am %n curiad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play note %d.note for %n beats">
+        <source>play note %d.note for %n beats</source>
+        <target state="translated">chwarae nodyn %d.nodyn am %n curiad</target>
+        <note from="translator">83%&#13;
+100%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play sound %m.sound">
+        <source>play sound %m.sound</source>
+        <target state="translated">chwarae sain %m.sound</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play sound %m.sound until done">
+        <source>play sound %m.sound until done</source>
+        <target state="translated">chwarae sain %m.sound hyd nes cwblhau</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="point in direction %d.direction">
+        <source>point in direction %d.direction</source>
+        <target state="translated">pwyntio i gyfeiriad %d.direction</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="point towards %m.spriteOrMouse">
+        <source>point towards %m.spriteOrMouse</source>
+        <target state="translated">pwyntio tuag at %m.spriteOrMouse</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="repeat %n">
+        <source>repeat %n</source>
+        <target state="translated">ailwna %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="repeat until %b">
+        <source>repeat until %b</source>
+        <target state="translated">ailwna hyd at %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="replace item %d.listItem of %m.list with %s">
+        <source>replace item %d.listItem of %m.list with %s</source>
+        <target state="translated">cyfnewid eitem %d.listItem o %m.list gyda %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="reset timer">
+        <source>reset timer</source>
+        <target state="translated">ailosod amserydd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="rest for %n beats">
+        <source>rest for %n beats</source>
+        <target state="translated">saib am %n curiad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="round %n">
+        <source>round %n</source>
+        <target state="translated">talgrynnu %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="say %s">
+        <source>say %s</source>
+        <target state="translated">dweud %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="say %s for %n secs">
+        <source>say %s for %n secs</source>
+        <target state="translated">dweud %s am %n eiliad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sensing">
+        <source>Sensing</source>
+        <target state="translated">synhwyro</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sensor %m.booleanSensor?">
+        <source>sensor %m.booleanSensor?</source>
+        <target state="translated">synhwyrydd %m.booleanSensor?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set %m.effect effect to %n">
+        <source>set %m.effect effect to %n</source>
+        <target state="translated">gosod effaith %m.effect i %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set %m.var to %s">
+        <source>set %m.var to %s</source>
+        <target state="translated">gosod %m.var i %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set instrument to %d.instrument">
+        <source>set instrument to %d.instrument</source>
+        <target state="translated">gosod offeryn i %d.instrument</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set motor direction %m.motorDirection">
+        <source>set motor direction %m.motorDirection</source>
+        <target state="translated">cyfeiriad modur %m.modurCyfeiriad</target>
+        <note from="translator">89%&#13;
+100%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set motor power %n">
+        <source>set motor power %n</source>
+        <target state="translated">gosod pŵer modur %n</target>
+        <note from="translator">77%&#13;
+100%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen color to %c">
+        <source>set pen color to %c</source>
+        <target state="translated">gosod lliw pin i %c</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen color to %n">
+        <source>set pen color to %n</source>
+        <target state="translated">gosod lliw pin i %c</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen shade to %n">
+        <source>set pen shade to %n</source>
+        <target state="translated">gosod arlliw pin i %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set pen size to %n">
+        <source>set pen size to %n</source>
+        <target state="translated">gosod maint pin i %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set rotation style %m.rotationStyle">
+        <source>set rotation style %m.rotationStyle</source>
+        <target state="translated">gosod steil cylchdro %m.rotationStyle</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>gosod steil cylchdro %m.rotationStyle</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set size to %n%">
+        <source>set size to %n%</source>
+        <target state="translated">gosod maint i %n%</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set tempo to %n bpm">
+        <source>set tempo to %n bpm</source>
+        <target state="translated">gosod amseriad i %n cyf</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set video transparency to %n%">
+        <source>set video transparency to %n%</source>
+        <target state="translated">gosod tryloywder fideo i %n%</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>gosod tryloywder fideo i %n%</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
+        <source>set volume to %n%</source>
+        <target state="translated">gosod lefel sain i %n%</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set x to %n">
+        <source>set x to %n</source>
+        <target state="translated">gosod 'x' i %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set y to %n">
+        <source>set y to %n</source>
+        <target state="translated">gosod 'y' i %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show">
+        <source>show</source>
+        <target state="translated">dangos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show list %m.list">
+        <source>show list %m.list</source>
+        <target state="translated">dangos rhestr %m.list</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>dangos rhestr %m.list</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="show variable %m.var">
+        <source>show variable %m.var</source>
+        <target state="translated">dangos newidyn %m.var</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>dangos newidyn %m.var</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="size">
+        <source>size</source>
+        <target state="translated">maint</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sound">
+        <source>Sound</source>
+        <target state="translated">sain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stamp">
+        <source>stamp</source>
+        <target state="translated">stampio</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop %m.stop">
+        <source>stop %m.stop</source>
+        <target state="translated">stopiwch %m.stop</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>stopiwch %m.stop</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
+        <source>stop all sounds</source>
+        <target state="translated">atal bob sain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop">
+        <source>switch backdrop to %m.backdrop</source>
+        <target state="translated">newid cefndir i %m.cefndir</target>
+        <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>newid cefndir i %m.backdrop</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop and wait">
+        <source>switch backdrop to %m.backdrop and wait</source>
+        <target state="translated">newid cefndir i %m.cefndir a aros</target>
+        <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>newid cefndir i %m.backdrop a aros</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch costume to %m.costume">
+        <source>switch costume to %m.costume</source>
+        <target state="translated">newid i wisg %m.wisg</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>newid i wisg %m.costume</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tempo">
+        <source>tempo</source>
+        <target state="translated">amseriad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="think %s">
+        <source>think %s</source>
+        <target state="translated">meddwl %s</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="think %s for %n secs">
+        <source>think %s for %n secs</source>
+        <target state="translated">meddwl %s am %n eiliad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tilt">
+        <source>tilt</source>
+        <target state="translated">gogwyddo</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>gogwyddo</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="timer">
+        <source>timer</source>
+        <target state="translated">amserydd</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="touching %m.touching?">
+        <source>touching %m.touching?</source>
+        <target state="translated">cyffwrdd %m.touching?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="touching color %c?">
+        <source>touching color %c?</source>
+        <target state="translated">cyffwrdd lliw %c?</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn @turnLeft %n degrees">
+        <source>turn @turnLeft %n degrees</source>
+        <target state="translated">troi @troiChwith %n gradd</target>
+        <alt-trans xml:space="preserve" origin="ieu99">
+          <target>troi @troiLeft %n gradd</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn @turnRight %n degrees">
+        <source>turn @turnRight %n degrees</source>
+        <target state="translated"> troi @troiDde %n gradd </target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn motor off">
+        <source>turn motor off</source>
+        <target state="translated">troi modur bant</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn motor on">
+        <source>turn motor on</source>
+        <target state="translated">troi modur arno</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn motor on for %n secs">
+        <source>turn motor on for %n secs</source>
+        <target state="translated">modur arno am %n eiliad</target>
+        <note from="translator">80%&#13;
+100%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn video %m.videoState">
+        <source>turn video %m.videoState</source>
+        <target state="translated">troi fideo %m.fideoState</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="username">
+        <source>username</source>
+        <target state="translated">enw defnyddiwr</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
+        <source>video %m.videoMotionType on %m.stageOrThis</source>
+        <target state="translated">fideo %m.fideoMudiantFath ar %m.llwyfanNeuHwn</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="volume">
+        <source>volume</source>
+        <target state="translated">lefel sain</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wait %n secs">
+        <source>wait %n secs</source>
+        <target state="translated">aros %n eiliad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wait until %b">
+        <source>wait until %b</source>
+        <target state="translated">aros hyd at %b</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %m.booleanSensor">
+        <source>when %m.booleanSensor</source>
+        <target state="translated">synhwyrydd %m.booleanSynhwyrydd?</target>
+        <note from="translator">75%&#13;
+100%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %m.key key pressed">
+        <source>when %m.key key pressed</source>
+        <target state="translated">pan fo bysell %m.key wedi ei wasgu</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %m.triggerSensor &gt; %n">
+        <source>when %m.triggerSensor &gt; %n</source>
+        <target state="translated">pan %m.sbardunoSynhwyrydd &gt; %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when @greenFlag clicked">
+        <source>when @greenFlag clicked</source>
+        <target state="translated">pan fo @greenFlag wedi ei glicio</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when backdrop switches to %m.backdrop">
+        <source>when backdrop switches to %m.backdrop</source>
+        <target state="translated">pan mae cefndir newid i %m.cefndir</target>
+        <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when distance &lt; %n">
+        <source>when distance &lt; %n</source>
+        <target state="translated">pan mae pellter yn &lt; %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when I receive %m.broadcast">
+        <source>when I receive %m.broadcast</source>
+        <target state="translated">pan derbynai %m.ddarlledir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when I start as a clone">
+        <source>when I start as a clone</source>
+        <target state="translated">pan dechreuai fel clon</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when this sprite clicked">
+        <source>when this sprite clicked</source>
+        <target state="translated">pan caiff cymeriad ei clicio</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when tilt = %n">
+        <source>when tilt = %n</source>
+        <target state="translated">pan mae troawd = %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="x position">
+        <source>x position</source>
+        <target state="translated">safle 'x'</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="y position">
+        <source>y position</source>
+        <target state="translated">safle 'y'</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

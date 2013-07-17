@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-05 06:58+0200\n"
-"PO-Revision-Date: 2013-05-21 17:02+0200\n"
+"PO-Revision-Date: 2013-07-12 23:04+0200\n"
 "Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -121,6 +121,9 @@ msgstr "Fagot"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
+"Omdat je een nieuw Scratch-account hebt, worden veranderingen in clouddata "
+"nu nog niet opgeslagen. Blijf bijdragen op deze site; binnenkort kun je ook "
+"clouddata gebruiken!"
 
 msgid "Bitmap"
 msgstr "Afbeelding"
@@ -391,12 +394,11 @@ msgid "Erase"
 msgstr "Wissen"
 
 # 92%
-#, fuzzy
 msgid "Eraser width"
-msgstr "Gum-breedte:"
+msgstr "Gum-breedte"
 
 msgid "Error!"
-msgstr ""
+msgstr "Fout!"
 
 msgid "fade in"
 msgstr "fade in"
@@ -468,7 +470,7 @@ msgid "hide"
 msgstr "verbergen"
 
 msgid "High C"
-msgstr ""
+msgstr "Hoge C"
 
 msgid "hour"
 msgstr "uur"
@@ -516,9 +518,8 @@ msgid "Line"
 msgstr "Lijn"
 
 # 90%
-#, fuzzy
 msgid "Line width"
-msgstr "Lijn-breedte:"
+msgstr "Lijn-breedte"
 
 msgid "list"
 msgstr "lijst"
@@ -542,7 +543,7 @@ msgid "loudness"
 msgstr "luidheid"
 
 msgid "Low C"
-msgstr ""
+msgstr "Lage C"
 
 msgid "Make a Block"
 msgstr "Maak een blok"
@@ -569,10 +570,10 @@ msgid "message1"
 msgstr "bericht1"
 
 msgid "Microphone Volume:"
-msgstr ""
+msgstr "Microfoonvolume:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "Midden C"
 
 msgid "Min"
 msgstr "Min"
@@ -657,7 +658,7 @@ msgid "Not saved; network or server problem."
 msgstr "Niet opgeslagen; netwerk- of serverprobleem."
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "Niet bewaard: project werd niet geladen."
 
 msgid "of"
 msgstr "van"
@@ -738,7 +739,7 @@ msgid "Profile"
 msgstr "Profiel"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "Project werd niet geladen."
 
 msgid "Project not saved!"
 msgstr "Project niet opgeslagen!"
