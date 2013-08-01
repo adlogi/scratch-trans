@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:55+0200\n"
+"POT-Creation-Date: 2013-07-19 20:52+0200\n"
 "PO-Revision-Date: 2013-04-27 08:56+0200\n"
 "Last-Translator: ukkeli <avuorilehto@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -222,6 +222,9 @@ msgstr "Klarinetti"
 msgid "Claves"
 msgstr "Palikat"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Puhdista"
 
@@ -406,6 +409,9 @@ msgstr "Kumin leveys"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "vaimenna alku"
 
@@ -441,6 +447,9 @@ msgstr "Huilu"
 
 msgid "Flying"
 msgstr "Lentävä"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Kaikille hahmoille"
@@ -484,6 +493,11 @@ msgstr "tunti"
 msgid "Human"
 msgstr "Ihminen"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Tuo"
+
 msgid "Import"
 msgstr "Tuo"
 
@@ -499,6 +513,9 @@ msgstr "Asennetaan..."
 msgid "Instruments"
 msgstr "Soittimet"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "viimeinen"
 
@@ -510,6 +527,9 @@ msgstr "nuoli vasemmalle"
 
 msgid "left-right"
 msgstr "vasen-oikea"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Kirjasto"
@@ -664,6 +684,9 @@ msgstr "Uusi muuttuja"
 msgid "No motion blocks"
 msgstr "Ei liikelohkoja"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Ei tallennettu; verkko- tai palvelinongelmia."
 
@@ -675,6 +698,9 @@ msgstr "määrästä"
 
 msgid "off"
 msgstr "pois"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -884,6 +910,9 @@ msgstr "Aseta asustekeskipiste"
 
 msgid "Set Costume Center"
 msgstr "Aseta asuste keskipiste"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Jaa"
@@ -1194,11 +1223,11 @@ msgstr ""
 "Et voi muokata pilvitietoa jonkun toisen projektissa.<b>Kaikki muutokset "
 "joita teet ovat paikallisia eivät tallennu."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Kumin leveys"
+msgid "Eraser width:"
+msgstr "Kumin leveys"
 
-#~ msgid "Line width:"
-#~ msgstr "Viivanleveys:"
+msgid "Line width:"
+msgstr "Viivanleveys:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "lisää boolean input"

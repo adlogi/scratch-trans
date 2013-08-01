@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:55+0200\n"
+"POT-Creation-Date: 2013-07-19 20:51+0200\n"
 "PO-Revision-Date: 2013-06-28 16:22+0200\n"
 "Last-Translator: timsk3 <translate_scratch@timsk.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -215,6 +215,9 @@ msgstr "Klarneto"
 msgid "Claves"
 msgstr "Klaveoj"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Forigi"
 
@@ -395,6 +398,9 @@ msgstr "Larĝo de forviŝilo:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "maldissolvi"
 
@@ -430,6 +436,9 @@ msgstr "Fluto"
 
 msgid "Flying"
 msgstr "Flugado"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Por ĉiuj roluloj"
@@ -473,6 +482,11 @@ msgstr "horo"
 msgid "Human"
 msgstr "Homa"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importi"
+
 msgid "Import"
 msgstr "Importi"
 
@@ -488,6 +502,9 @@ msgstr "Instalado..."
 msgid "Instruments"
 msgstr "Instrumentoj"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "lasta"
 
@@ -499,6 +516,9 @@ msgstr "sago maldekstra"
 
 msgid "left-right"
 msgstr "dekstra-maldekstra"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Biblioteko"
@@ -650,6 +670,9 @@ msgstr "Nova variablo"
 msgid "No motion blocks"
 msgstr "Ne estas movaj blokoj"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Ne konservita; estis problemo pri la konekto aŭ servilo."
 
@@ -661,6 +684,9 @@ msgstr "de"
 
 msgid "off"
 msgstr "malŝaltita"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "Bone"
@@ -869,6 +895,9 @@ msgstr "Difini centron de kostumo"
 
 msgid "Set Costume Center"
 msgstr "Difini Centron de Kostumo"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Kunhavigi"
@@ -1176,11 +1205,11 @@ msgstr ""
 "uzanto.<br>Ŝanĝoj, kiujn vi faras en la  redaktilo estos dumtempaj, kaj ne "
 "estos konservitaj."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Larĝo de forviŝilo:"
+msgid "Eraser width:"
+msgstr "Larĝo de forviŝilo:"
 
-#~ msgid "Line width:"
-#~ msgstr "Larĝo de linio:"
+msgid "Line width:"
+msgstr "Larĝo de linio:"
 
 # 90%
 #, fuzzy

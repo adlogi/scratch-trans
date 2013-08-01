@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:59+0200\n"
+"POT-Creation-Date: 2013-07-19 20:56+0200\n"
 "PO-Revision-Date: 2013-06-06 03:50+0200\n"
 "Last-Translator: stone_shih <stone1.shih@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -213,6 +213,9 @@ msgstr "單簧管"
 msgid "Claves"
 msgstr "古鋼琴"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "清除"
 
@@ -393,6 +396,9 @@ msgstr "橡皮擦寬度"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "淡入"
 
@@ -428,6 +434,9 @@ msgstr "長笛"
 
 msgid "Flying"
 msgstr "飛翔"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "適用所有的角色"
@@ -471,6 +480,11 @@ msgstr "小時"
 msgid "Human"
 msgstr "人"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "匯入"
+
 msgid "Import"
 msgstr "匯入"
 
@@ -486,6 +500,9 @@ msgstr "安裝中..."
 msgid "Instruments"
 msgstr "樂器"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "最後的"
 
@@ -497,6 +514,9 @@ msgstr "左移鍵"
 
 msgid "left-right"
 msgstr "左-右"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "庫房"
@@ -648,6 +668,9 @@ msgstr "新變數"
 msgid "No motion blocks"
 msgstr "本區無動作積木"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "沒有儲存；網路或伺服器有問題"
 
@@ -659,6 +682,9 @@ msgstr "的"
 
 msgid "off"
 msgstr "關"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -868,6 +894,9 @@ msgstr "設定造型中心"
 
 msgid "Set Costume Center"
 msgstr "設定造型中心"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "分享"
@@ -1174,11 +1203,11 @@ msgstr "年"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr "你不能編輯別人專案的雲端資料。<br>你改的任何東西，都只是暫時的，不會被儲存。"
 
-#~ msgid "Eraser width:"
-#~ msgstr "橡皮擦寬度"
+msgid "Eraser width:"
+msgstr "橡皮擦寬度"
 
-#~ msgid "Line width:"
-#~ msgstr "線條寬度"
+msgid "Line width:"
+msgstr "線條寬度"
 
 # 90%
 #, fuzzy

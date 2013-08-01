@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:57+0200\n"
+"POT-Creation-Date: 2013-07-19 20:54+0200\n"
 "PO-Revision-Date: 2013-06-20 22:01+0200\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -222,6 +222,9 @@ msgstr "Klarinett"
 msgid "Claves"
 msgstr "Pinner"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Slett alt"
 
@@ -406,6 +409,9 @@ msgstr "Viskelærbredde:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "inntoning"
 
@@ -441,6 +447,9 @@ msgstr "Fløyte"
 
 msgid "Flying"
 msgstr "Flyvende"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "For alle figurer"
@@ -484,6 +493,11 @@ msgstr "time"
 msgid "Human"
 msgstr "Menneske"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importer"
+
 msgid "Import"
 msgstr "Importer"
 
@@ -499,6 +513,9 @@ msgstr "Installerer..."
 msgid "Instruments"
 msgstr "Instrumenter"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "siste"
 
@@ -510,6 +527,9 @@ msgstr "pil venstre"
 
 msgid "left-right"
 msgstr "vend sideveis"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Bibliotek"
@@ -664,6 +684,9 @@ msgstr "Ny variabel"
 msgid "No motion blocks"
 msgstr "Ingen bevegelsesklosser"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Ikke lagret, nettverksproblemer."
 
@@ -675,6 +698,9 @@ msgstr "av"
 
 msgid "off"
 msgstr "av"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -888,6 +914,9 @@ msgstr "Velg senterpunkt"
 
 msgid "Set Costume Center"
 msgstr "Velg senterpunkt"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Legg ut"
@@ -1199,11 +1228,11 @@ msgstr ""
 "Du kan ikke redigere nettdata i andres prosjekter.<br>Endringer du gjør her "
 "vil være midlertidige og blir ikke lagret."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Viskelærbredde:"
+msgid "Eraser width:"
+msgstr "Viskelærbredde:"
 
-#~ msgid "Line width:"
-#~ msgstr "Linjebredde:"
+msgid "Line width:"
+msgstr "Linjebredde:"
 
 #, fuzzy
 #~ msgid "Add a boolean input:"

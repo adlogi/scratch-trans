@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:58+0200\n"
+"POT-Creation-Date: 2013-07-19 20:54+0200\n"
 "PO-Revision-Date: 2013-05-20 13:17+0200\n"
 "Last-Translator: Marek <faramir@mat.umk.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -247,6 +247,9 @@ msgstr "Klarnet"
 msgid "Claves"
 msgstr "Klawesy"
 
+msgid "cleanup"
+msgstr ""
+
 #, fuzzy
 msgid "Clear"
 msgstr "Wyczyść"
@@ -448,6 +451,9 @@ msgstr "Szerokość gumki:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "wzmocnij"
 
@@ -489,6 +495,9 @@ msgstr "Flet"
 #, fuzzy
 msgid "Flying"
 msgstr "Latanie"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Dla wszystkich duszków"
@@ -536,6 +545,11 @@ msgstr "godzina"
 msgid "Human"
 msgstr "Człowiek"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importuj"
+
 msgid "Import"
 msgstr "Importuj"
 
@@ -552,6 +566,9 @@ msgstr "Instalowanie..."
 msgid "Instruments"
 msgstr "Instrumenty"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "ostatni"
 
@@ -563,6 +580,9 @@ msgstr "strzałka w lewo"
 
 msgid "left-right"
 msgstr "lewo-prawo"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Biblioteka"
@@ -727,6 +747,9 @@ msgstr "Nowa zmienna"
 msgid "No motion blocks"
 msgstr "Brak bloków ruchu"
 
+msgid "normal readout"
+msgstr ""
+
 #, fuzzy
 msgid "Not saved; network or server problem."
 msgstr "Nie zapisano, błąd sieci lub serwera.."
@@ -740,6 +763,9 @@ msgstr "z"
 
 msgid "off"
 msgstr "wyłączony"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -965,6 +991,9 @@ msgstr "Ustaw Środek Kostiumu"
 
 msgid "Set Costume Center"
 msgstr "Ustaw Środek Kostiumu"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Udostępnij"
@@ -1305,11 +1334,11 @@ msgstr ""
 "zmiany które dokonasz w edytorze będą tymczasowe i nietrwałe."
 
 #, fuzzy
-#~ msgid "Eraser width:"
-#~ msgstr "Szerokość gumki:"
+msgid "Eraser width:"
+msgstr "Szerokość gumki:"
 
-#~ msgid "Line width:"
-#~ msgstr "Szerokość linii:"
+msgid "Line width:"
+msgstr "Szerokość linii:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Dodaj parametr logiczny:"

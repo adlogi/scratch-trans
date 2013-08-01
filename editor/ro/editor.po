@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:58+0200\n"
+"POT-Creation-Date: 2013-07-19 20:55+0200\n"
 "PO-Revision-Date: 2013-07-15 19:10+0200\n"
 "Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -219,6 +219,9 @@ msgstr "Clarinet"
 msgid "Claves"
 msgstr "Clavecin"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Curata"
 
@@ -397,6 +400,9 @@ msgstr "Grosimea radierei"
 msgid "Error!"
 msgstr "Eroare!"
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "estompare in interior"
 
@@ -432,6 +438,9 @@ msgstr "Flaut"
 
 msgid "Flying"
 msgstr "Zbor"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Pentru toate sprite-urile"
@@ -475,6 +484,11 @@ msgstr "ora"
 msgid "Human"
 msgstr "Uman"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importa"
+
 msgid "Import"
 msgstr "Importa"
 
@@ -490,6 +504,9 @@ msgstr "Se instaleaza..."
 msgid "Instruments"
 msgstr "Instrumente"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "ultimul"
 
@@ -501,6 +518,9 @@ msgstr "sageata stanga"
 
 msgid "left-right"
 msgstr "de la stanga la dreapta"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Biblioteca"
@@ -650,6 +670,9 @@ msgstr "Variabila noua"
 msgid "No motion blocks"
 msgstr "Niciun bloc de miscare"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Nu s-a salvat; probleme la retea sau server."
 
@@ -661,6 +684,9 @@ msgstr "al"
 
 msgid "off"
 msgstr "oprit"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -869,6 +895,9 @@ msgstr "Stabileste centrul costumului"
 
 msgid "Set Costume Center"
 msgstr "Stabileste centrul costumului"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Partajeaza"
@@ -1178,6 +1207,16 @@ msgstr ""
 "Nu poti sa editezi informatiile din cloud inttr-un proiect ce apartine "
 "altcuiva.<br>Orice modificare pe care o faci este temporara si nu se va "
 "pastra."
+
+# 92%
+#, fuzzy
+msgid "Eraser width:"
+msgstr "Grosimea radierei"
+
+# 90%
+#, fuzzy
+msgid "Line width:"
+msgstr "Grosimea liniei"
 
 # 90%
 #, fuzzy

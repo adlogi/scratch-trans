@@ -113,10 +113,6 @@
         <source>clear graphic effects</source>
         <target state="translated">schalte Grafikeffekte aus</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="clone startup">
-        <source>clone startup</source>
-        <target state="translated">Klon-Startskript</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color %c is touching %c?">
         <source>color %c is touching %c?</source>
         <target state="translated">Farbe %c berührt %c?</target>
@@ -137,10 +133,17 @@
         <source>current %m.timeAndDate</source>
         <target state="translated">%m.timeAndDate im Moment</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Data">
+      <trans-unit xml:space="preserve" approved="yes" id="Data">
         <source>Data</source>
-        <target state="needs-translation">Daten</target>
+        <target state="translated">Daten</target>
         <note from="translator">Oberbegriff für Variablen und Listen</note>
+        <alt-trans xml:space="preserve" origin="taddl">
+          <target>Speicher</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="days since 2000">
+        <source>days since 2000</source>
+        <target state="translated">Tage seit 2000</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="define">
         <source>define</source>
@@ -150,10 +153,13 @@
       <trans-unit xml:space="preserve" approved="yes" id="delete %d.listDeleteItem of %m.list">
         <source>delete %d.listDeleteItem of %m.list</source>
         <target state="translated">entferne %d.listDeleteItem aus %m.list</target>
+        <alt-trans xml:space="preserve" origin="Kinderlabor">
+          <target>lösche %d.listDeleteItem aus %m.list</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete this clone">
         <source>delete this clone</source>
-        <target state="translated">entferne diesen Klon</target>
+        <target state="translated">lösche diesen Klon</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="direction">
         <source>direction</source>
@@ -180,13 +186,9 @@
         <source>forever</source>
         <target state="translated">wiederhole fortlaufend</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="forever if %b">
-        <source>forever if %b</source>
-        <target state="translated">wiederhole fortlaufend, falls %b</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
         <source>glide %n secs to x:%n y:%n</source>
-        <target state="translated">gleite %n Sek. zu x:%n y:%n</target>
+        <target state="translated">gleite in %n Sek. zu x:%n y:%n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go back %n layers">
         <source>go back %n layers</source>
@@ -208,21 +210,17 @@
         <source>hide</source>
         <target state="translated">verstecke dich</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="hide all sprites">
-        <source>hide all sprites</source>
-        <target state="translated">verstecke alle Figuren</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide list %m.list">
         <source>hide list %m.list</source>
-        <target state="translated"></target>
+        <target state="translated">verstecke Liste %m.list</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide variable %m.var">
         <source>hide variable %m.var</source>
-        <target state="translated"></target>
+        <target state="translated">verstecke Variable %m.var</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="if %b">
-        <source>if %b</source>
-        <target state="translated">falls %b</target>
+      <trans-unit xml:space="preserve" approved="yes" id="if %b then">
+        <source>if %b then</source>
+        <target state="translated">falls %b dann</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if on edge, bounce">
         <source>if on edge, bounce</source>
@@ -234,11 +232,12 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="item %d.listItem of %m.list">
         <source>item %d.listItem of %m.list</source>
-        <target state="translated">%d.listItem Element von %m.list</target>
+        <target state="translated">Element %d.listItem von %m.list</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="join %s %s">
         <source>join %s %s</source>
         <target state="translated">verbinde %s %s</target>
+        <note from="translator">Konkatenierungsoperator (grün)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="key %m.key pressed?">
         <source>key %m.key pressed?</source>
@@ -286,7 +285,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="move %n steps">
         <source>move %n steps</source>
-        <target state="translated">gehe %n-er Schritt</target>
+        <target state="translated">gehe %n er-Schritt</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="next backdrop">
         <source>next backdrop</source>
@@ -311,23 +310,25 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pen down">
         <source>pen down</source>
-        <target state="translated">setze Stift auf</target>
+        <target state="translated">schalte Stift ein</target>
+        <note from="translator">(Markus S.) war 'zeichne Spur'; war 'setze Stift auf'</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pen up">
         <source>pen up</source>
-        <target state="translated">hebe Stift an</target>
+        <target state="translated">schalte Stift aus</target>
+        <note from="translator">(Markus S.) war 'zeichne nicht'; war 'hebe Stift an'</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pick random %n to %n">
         <source>pick random %n to %n</source>
-        <target state="translated">wähle zufällig aus %n bis %n</target>
+        <target state="translated">Zufallszahl von %n bis %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play drum %d.drum for %n beats">
         <source>play drum %d.drum for %n beats</source>
-        <target state="translated">spiele Schlagzeug %d.drum für %n Schläge</target>
+        <target state="translated">spiele Schlagwerk %d.drum für %n Schläge</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="play note %d.note for %n beats">
+      <trans-unit xml:space="preserve" approved="yes" id="play note %d.note for %n beats">
         <source>play note %d.note for %n beats</source>
-        <target state="needs-translation">spiele Note %d.note für %n Schläge</target>
+        <target state="translated">spiele Ton %d.note für %n Schläge</target>
         <note from="translator">83%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play sound %m.sound">
@@ -340,11 +341,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="point in direction %d.direction">
         <source>point in direction %d.direction</source>
-        <target state="translated">zeige in Richtung %d.direction</target>
+        <target state="translated">setze Richtung auf %d.direction</target>
+        <note from="translator">(Markus S.) war 'zeige in Richtung %d.direction'</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="point towards %m.spriteOrMouse">
         <source>point towards %m.spriteOrMouse</source>
-        <target state="translated">zeige zu %m.spriteOrMouse</target>
+        <target state="translated">drehe dich zu %m.spriteOrMouse</target>
+        <alt-trans xml:space="preserve" origin="Kinderlabor">
+          <target>zeige auf %m.spriteOrMouse</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="repeat %n">
         <source>repeat %n</source>
@@ -360,11 +365,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reset timer">
         <source>reset timer</source>
-        <target state="translated">starte Stoppuhr neu</target>
+        <target state="translated">setze Stoppuhr zurück</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="rest for %n beats">
         <source>rest for %n beats</source>
-        <target state="translated">spiele Pause für %n Schläge</target>
+        <target state="translated">pausiere %n Schläge</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="round %n">
         <source>round %n</source>
@@ -377,10 +382,6 @@
       <trans-unit xml:space="preserve" approved="yes" id="say %s for %n secs">
         <source>say %s for %n secs</source>
         <target state="translated">sage %s für %n Sek.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Scratch days">
-        <source>Scratch days</source>
-        <target state="needs-translation">Scratch-Tage</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sensing">
         <source>Sensing</source>
@@ -396,20 +397,20 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set %m.var to %s">
         <source>set %m.var to %s</source>
-        <target state="translated">setze %m.var auf %n</target>
+        <target state="translated">setze %m.var auf %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set instrument to %d.instrument">
         <source>set instrument to %d.instrument</source>
         <target state="translated">setze Instrument auf %d.instrument</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="set motor direction %m.motorDirection">
+      <trans-unit xml:space="preserve" approved="yes" id="set motor direction %m.motorDirection">
         <source>set motor direction %m.motorDirection</source>
-        <target state="needs-translation">setze Motorrichtung auf %m.motorDirection</target>
+        <target state="translated">setze Motordrehung %m.motorDirection</target>
         <note from="translator">89%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="set motor power %n">
+      <trans-unit xml:space="preserve" approved="yes" id="set motor power %n">
         <source>set motor power %n</source>
-        <target state="needs-translation">setze Motorkraft auf %n</target>
+        <target state="translated">setze Motorstärke %n</target>
         <note from="translator">77%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen color to %c">
@@ -418,7 +419,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen color to %n">
         <source>set pen color to %n</source>
-        <target state="translated">setze Stiftfarbe auf %c</target>
+        <target state="translated">setze Stiftfarbe auf %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen shade to %n">
         <source>set pen shade to %n</source>
@@ -430,7 +431,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set rotation style %m.rotationStyle">
         <source>set rotation style %m.rotationStyle</source>
-        <target state="translated"></target>
+        <target state="translated">setze Drehtyp auf %m.rotationStyle</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set size to %n%">
         <source>set size to %n%</source>
@@ -462,11 +463,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show list %m.list">
         <source>show list %m.list</source>
-        <target state="translated"></target>
+        <target state="translated">zeige Liste %m.list</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show variable %m.var">
         <source>show variable %m.var</source>
-        <target state="translated"></target>
+        <target state="translated">zeige Variable %m.var</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="size">
         <source>size</source>
@@ -533,23 +534,23 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnLeft %n degrees">
         <source>turn @turnLeft %n degrees</source>
-        <target state="translated">drehe dich @turnLeft %n Grad</target>
+        <target state="translated">drehe dich @turnLeft um %n Grad</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnRight %n degrees">
         <source>turn @turnRight %n degrees</source>
-        <target state="translated">drehe dich @turnRight %n Grad</target>
+        <target state="translated">drehe dich @turnRight um %n Grad</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn motor off">
         <source>turn motor off</source>
-        <target state="translated"></target>
+        <target state="translated">schalte Motor aus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn motor on">
         <source>turn motor on</source>
-        <target state="translated"></target>
+        <target state="translated">schalte Motor an</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="turn motor on for %n secs">
+      <trans-unit xml:space="preserve" approved="yes" id="turn motor on for %n secs">
         <source>turn motor on for %n secs</source>
-        <target state="needs-translation">schalte Motor für %n Sekunden an</target>
+        <target state="translated">schalte Motor für %n Sekunden an</target>
         <note from="translator">80%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn video %m.videoState">
@@ -557,9 +558,9 @@
         <target state="translated">schalte Video %m.videoState</target>
         <note from="translator">'turn video on/off/on-flipped'</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="user id">
-        <source>user id</source>
-        <target state="translated">Benutzer-ID</target>
+      <trans-unit xml:space="preserve" approved="yes" id="username">
+        <source>username</source>
+        <target state="translated">Benutzername</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
         <source>video %m.videoMotionType on %m.stageOrThis</source>
@@ -577,9 +578,9 @@
         <source>wait until %b</source>
         <target state="translated">warte bis %b</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="when %m.booleanSensor">
+      <trans-unit xml:space="preserve" approved="yes" id="when %m.booleanSensor">
         <source>when %m.booleanSensor</source>
-        <target state="needs-translation">Sensor %m.booleanSensor?</target>
+        <target state="translated">Wenn %m.booleanSensor</target>
         <note from="translator">75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %m.key key pressed">
@@ -588,7 +589,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %m.triggerSensor &gt; %n">
         <source>when %m.triggerSensor &gt; %n</source>
-        <target state="translated"></target>
+        <target state="translated">Wenn %m.triggerSensor &gt; %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when @greenFlag clicked">
         <source>when @greenFlag clicked</source>
@@ -596,24 +597,28 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when backdrop switches to %m.backdrop">
         <source>when backdrop switches to %m.backdrop</source>
-        <target state="translated">wenn das Bühnenbild zu %m.backdrop wechselt</target>
+        <target state="translated">Wenn das Bühnenbild zu %m.backdrop wechselt</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when distance &lt; %n">
         <source>when distance &lt; %n</source>
-        <target state="translated"></target>
+        <target state="translated">Wenn Abstand &lt; %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I receive %m.broadcast">
         <source>when I receive %m.broadcast</source>
         <target state="translated">Wenn ich %m.broadcast empfange</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when I start as a clone">
+        <source>when I start as a clone</source>
+        <target state="translated">Wenn ich als Klon entstehe</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when this sprite clicked">
         <source>when this sprite clicked</source>
-        <target state="translated"></target>
+        <target state="translated">Wenn ich angeklickt werde</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when tilt = %n">
         <source>when tilt = %n</source>
-        <target state="translated"></target>
+        <target state="translated">Wenn Neigung = %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="x position">
         <source>x position</source>

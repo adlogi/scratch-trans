@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:58+0200\n"
+"POT-Creation-Date: 2013-07-19 20:55+0200\n"
 "PO-Revision-Date: 2013-07-11 00:16+0200\n"
 "Last-Translator: Manuel <mmsequeira@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -223,6 +223,9 @@ msgstr "Clarinete"
 msgid "Claves"
 msgstr "Clavas"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Limpar"
 
@@ -405,6 +408,9 @@ msgstr "Espessura da borracha"
 msgid "Error!"
 msgstr "Erro!"
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "aparecer gradualmente"
 
@@ -440,6 +446,9 @@ msgstr "Flauta transversal"
 
 msgid "Flying"
 msgstr "A voar"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Para todos os actores"
@@ -483,6 +492,11 @@ msgstr "a hora"
 msgid "Human"
 msgstr "Humano"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importar"
+
 msgid "Import"
 msgstr "Importar"
 
@@ -498,6 +512,9 @@ msgstr "A instalar..."
 msgid "Instruments"
 msgstr "Instrumentos"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "o último item"
 
@@ -509,6 +526,9 @@ msgstr "seta para a esquerda"
 
 msgid "left-right"
 msgstr "olha apenas para a esquerda e para a direita"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Biblioteca"
@@ -662,6 +682,9 @@ msgstr "Nova Variável"
 msgid "No motion blocks"
 msgstr "Nenhum bloco de movimento"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Não guardado: problema de rede ou de servidor."
 
@@ -673,6 +696,9 @@ msgstr "de"
 
 msgid "off"
 msgstr "desligado"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -885,6 +911,9 @@ msgstr "Especificar centro do traje"
 
 msgid "Set Costume Center"
 msgstr "Especificar Centro do Traje"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Partilhar"
@@ -1197,11 +1226,11 @@ msgstr ""
 "Não pode editar dados de nuvem nos projectos de outras pessoas.<br>Qualquer "
 "alteração que faça no editor será temporária e não persistente."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Espessura da borracha:"
+msgid "Eraser width:"
+msgstr "Espessura da borracha:"
 
-#~ msgid "Line width:"
-#~ msgstr "Espessura da linha:"
+msgid "Line width:"
+msgstr "Espessura da linha:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Adicionar entrada booleana:"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:55+0200\n"
+"POT-Creation-Date: 2013-07-19 20:51+0200\n"
 "PO-Revision-Date: 2013-02-01 16:23+0200\n"
 "Last-Translator: ehsansadeghi <m.e.sadeghi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -217,6 +217,9 @@ msgstr "کلارینت"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr ""
 
@@ -405,6 +408,9 @@ msgstr ""
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "روشنی"
 
@@ -439,6 +445,9 @@ msgid "Flute"
 msgstr "فلوت"
 
 msgid "Flying"
+msgstr ""
+
+msgid "Font:"
 msgstr ""
 
 msgid "For all sprites"
@@ -483,6 +492,11 @@ msgstr "ساعت"
 msgid "Human"
 msgstr ""
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "وارد کردن"
+
 msgid "Import"
 msgstr "وارد کردن"
 
@@ -498,6 +512,9 @@ msgstr ""
 msgid "Instruments"
 msgstr ""
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "آخرین"
 
@@ -509,6 +526,9 @@ msgstr "کلید چپ"
 
 msgid "left-right"
 msgstr "از چپ به راست"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "کتابخانه"
@@ -663,6 +683,9 @@ msgstr ""
 msgid "No motion blocks"
 msgstr ""
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr ""
 
@@ -674,6 +697,9 @@ msgstr ""
 
 msgid "off"
 msgstr "خاموش"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr ""
@@ -882,6 +908,9 @@ msgid "Set costume center"
 msgstr ""
 
 msgid "Set Costume Center"
+msgstr ""
+
+msgid "set slider min and max"
 msgstr ""
 
 msgid "Share"
@@ -1185,6 +1214,12 @@ msgid "year"
 msgstr "سال"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+
+msgid "Eraser width:"
+msgstr ""
+
+msgid "Line width:"
 msgstr ""
 
 #~ msgid "Add a boolean input:"

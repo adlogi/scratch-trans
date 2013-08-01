@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:56+0200\n"
+"POT-Creation-Date: 2013-07-19 20:52+0200\n"
 "PO-Revision-Date: 2013-06-08 12:59+0200\n"
 "Last-Translator: rudolfwg <rudolf.wg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -217,6 +217,9 @@ msgstr "Klarinét"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Törlés"
 
@@ -407,6 +410,9 @@ msgstr "Radír vastagsága:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr ""
 
@@ -443,6 +449,9 @@ msgstr "Fuvola"
 
 msgid "Flying"
 msgstr "Repülés"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Minden szereplőnek"
@@ -486,6 +495,11 @@ msgstr "óra"
 msgid "Human"
 msgstr "Emberi"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "betöltés"
+
 msgid "Import"
 msgstr "betöltés"
 
@@ -501,6 +515,9 @@ msgstr ""
 msgid "Instruments"
 msgstr "Hangszerek"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "utolsó"
 
@@ -512,6 +529,9 @@ msgstr "balra gomb"
 
 msgid "left-right"
 msgstr "jobbra-balra"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Könyvtár"
@@ -665,6 +685,9 @@ msgstr "Új változó"
 msgid "No motion blocks"
 msgstr ""
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr ""
 
@@ -676,6 +699,9 @@ msgstr ""
 
 msgid "off"
 msgstr "ki"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -891,6 +917,9 @@ msgstr "Jelmez közepének beállítása"
 #, fuzzy
 msgid "Set Costume Center"
 msgstr "Jelmez közepének beállítása"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Megosztás"
@@ -1197,11 +1226,11 @@ msgstr "év"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
 
-#~ msgid "Eraser width:"
-#~ msgstr "Radír vastagsága:"
+msgid "Eraser width:"
+msgstr "Radír vastagsága:"
 
-#~ msgid "Line width:"
-#~ msgstr "Vonalvastagság:"
+msgid "Line width:"
+msgstr "Vonalvastagság:"
 
 # 90%
 #, fuzzy

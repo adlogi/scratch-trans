@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:58+0200\n"
+"POT-Creation-Date: 2013-07-19 20:54+0200\n"
 "PO-Revision-Date: 2013-07-12 23:04+0200\n"
 "Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -219,6 +219,9 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Wissen"
 
@@ -400,6 +403,9 @@ msgstr "Gum-breedte"
 msgid "Error!"
 msgstr "Fout!"
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "fade in"
 
@@ -435,6 +441,9 @@ msgstr "Dwarsfluit"
 
 msgid "Flying"
 msgstr "Vliegen"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Voor alle sprites"
@@ -478,6 +487,11 @@ msgstr "uur"
 msgid "Human"
 msgstr "Mens"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importeren"
+
 msgid "Import"
 msgstr "Importeren"
 
@@ -493,6 +507,9 @@ msgstr "Installeren..."
 msgid "Instruments"
 msgstr "Instrumenten"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "laatste"
 
@@ -504,6 +521,9 @@ msgstr "pijltje links"
 
 msgid "left-right"
 msgstr "links-rechts"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Bibliotheek"
@@ -654,6 +674,9 @@ msgstr "Nieuwe variabele"
 msgid "No motion blocks"
 msgstr "Geen beweegblokken"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Niet opgeslagen; netwerk- of serverprobleem."
 
@@ -665,6 +688,9 @@ msgstr "van"
 
 msgid "off"
 msgstr "uit"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -873,6 +899,9 @@ msgstr "Middelpunt van uiterlijk bepalen"
 
 msgid "Set Costume Center"
 msgstr "Middelpunt van uiterlijk bepalen"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Delen"
@@ -1180,11 +1209,11 @@ msgstr ""
 "Je kunt geen clouddata van iemand anders veranderen.<br>Elke verandering die "
 "je maakt in de editor is tijdelijk en wordt niet bewaard."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Gum-breedte:"
+msgid "Eraser width:"
+msgstr "Gum-breedte:"
 
-#~ msgid "Line width:"
-#~ msgstr "Lijn-breedte:"
+msgid "Line width:"
+msgstr "Lijn-breedte:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Voeg boolean-veld toe:"

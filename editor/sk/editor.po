@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:58+0200\n"
+"POT-Creation-Date: 2013-07-19 20:55+0200\n"
 "PO-Revision-Date: 2013-06-04 11:55+0200\n"
 "Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -214,6 +214,9 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Zmaž"
 
@@ -394,6 +397,9 @@ msgstr "Šírka gumy:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "rozjasniť"
 
@@ -429,6 +435,9 @@ msgstr "Flauta"
 
 msgid "Flying"
 msgstr "Lietanie"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Pre všetky postavy"
@@ -472,6 +481,11 @@ msgstr "hodín"
 msgid "Human"
 msgstr "Človek"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Import"
+
 msgid "Import"
 msgstr "Import"
 
@@ -487,6 +501,9 @@ msgstr "Inštalujem..."
 msgid "Instruments"
 msgstr "Nástroje"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "posledný"
 
@@ -498,6 +515,9 @@ msgstr "šípka vľavo"
 
 msgid "left-right"
 msgstr "vľavo-vpravo"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Knižnica"
@@ -649,6 +669,9 @@ msgstr "Nová premenná"
 msgid "No motion blocks"
 msgstr "Žiadne bloky pohybu"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Neuložené; problém so sieťou, alebo serverom."
 
@@ -660,6 +683,9 @@ msgstr "z"
 
 msgid "off"
 msgstr "vypnuté"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -868,6 +894,9 @@ msgstr "Nastaviť stred kostýmu"
 
 msgid "Set Costume Center"
 msgstr "Nastaviť stred kostýmu"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Zdieľanie"
@@ -1174,11 +1203,11 @@ msgstr ""
 "Nemôžeš upravovať údaje v cloude v projekte niekoho iného.<br>Každá zmena "
 "ktorú spravíš v editore bude len dočasná."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Šírka gumy:"
+msgid "Eraser width:"
+msgstr "Šírka gumy:"
 
-#~ msgid "Line width:"
-#~ msgstr "Šírka úsečky:"
+msgid "Line width:"
+msgstr "Šírka úsečky:"
 
 # 90%
 #, fuzzy

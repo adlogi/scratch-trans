@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:58+0200\n"
+"POT-Creation-Date: 2013-07-19 20:55+0200\n"
 "PO-Revision-Date: 2013-05-06 10:27+0200\n"
 "Last-Translator: patarakin <patarakin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -225,6 +225,9 @@ msgstr "Кларнет"
 msgid "Claves"
 msgstr "Клавесин"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Очистить"
 
@@ -409,6 +412,9 @@ msgstr "Ширина ластика:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "увеличивать"
 
@@ -444,6 +450,9 @@ msgstr "Флейта"
 
 msgid "Flying"
 msgstr "Летать"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Для всех спрайтов"
@@ -487,6 +496,11 @@ msgstr "час"
 msgid "Human"
 msgstr "Человек"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "импорт"
+
 msgid "Import"
 msgstr "импорт"
 
@@ -502,6 +516,9 @@ msgstr "Установка..."
 msgid "Instruments"
 msgstr "Инструменты"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "последний"
 
@@ -513,6 +530,9 @@ msgstr "стрелка влево"
 
 msgid "left-right"
 msgstr "влево-вправо"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Библиотека"
@@ -667,6 +687,9 @@ msgstr "Новая переменная"
 msgid "No motion blocks"
 msgstr "Нет блоков движения"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Не сохранено; проблема с сетью или сервером"
 
@@ -678,6 +701,9 @@ msgstr "от"
 
 msgid "off"
 msgstr "Выключить"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -890,6 +916,9 @@ msgstr "Установить центр костюма"
 
 msgid "Set Costume Center"
 msgstr "Установить центр костюма"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Поделиться"
@@ -1200,11 +1229,11 @@ msgstr ""
 "Вы не можете редактировать облачные данные в чужих проектах.<br>Любые "
 "изменения, которые внесете в режиме редактирования будут временными."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Ширина ластика:"
+msgid "Eraser width:"
+msgstr "Ширина ластика:"
 
-#~ msgid "Line width:"
-#~ msgstr "Ширина линии:"
+msgid "Line width:"
+msgstr "Ширина линии:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Добавить логическое значение"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:57+0200\n"
+"POT-Creation-Date: 2013-07-19 20:53+0200\n"
 "PO-Revision-Date: 2013-07-11 19:43+0200\n"
 "Last-Translator: Dohyeong <goodideal@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,8 +63,10 @@ msgstr ""
 msgid "Animal"
 msgstr "동물"
 
+# 85%
+#, fuzzy
 msgid "Animals"
-msgstr ""
+msgstr "동물"
 
 msgid "asin"
 msgstr ""
@@ -190,8 +192,11 @@ msgstr "첼로"
 msgid "Choir"
 msgstr ""
 
+# 80%
+# 75%
+#, fuzzy
 msgid "Choose backdrop from library"
-msgstr ""
+msgstr "라이브러리에서 스프라이트 선택"
 
 # 77%
 #, fuzzy
@@ -217,6 +222,9 @@ msgstr "클라리넷"
 
 msgid "Claves"
 msgstr "클라베스"
+
+msgid "cleanup"
+msgstr ""
 
 msgid "Clear"
 msgstr "지우기"
@@ -398,6 +406,9 @@ msgstr ""
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr ""
 
@@ -432,6 +443,9 @@ msgid "Flute"
 msgstr "플룻"
 
 msgid "Flying"
+msgstr ""
+
+msgid "Font:"
 msgstr ""
 
 msgid "For all sprites"
@@ -476,6 +490,11 @@ msgstr "시"
 msgid "Human"
 msgstr "인간"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "가져오기"
+
 msgid "Import"
 msgstr "가져오기"
 
@@ -491,6 +510,9 @@ msgstr ""
 msgid "Instruments"
 msgstr "악기들"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "마지막"
 
@@ -502,6 +524,9 @@ msgstr "왼쪽 화살표"
 
 msgid "left-right"
 msgstr "왼쪽에서 오른쪽"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr ""
@@ -651,6 +676,9 @@ msgstr "새로운 변수"
 msgid "No motion blocks"
 msgstr ""
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "네트워크 또는 서버 문제로 저장되지 않음."
 
@@ -662,6 +690,9 @@ msgstr ""
 
 msgid "off"
 msgstr "끄기"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "확인"
@@ -871,6 +902,9 @@ msgstr "모양 중심 설정하기"
 
 msgid "Set Costume Center"
 msgstr "모양 중심 설정하기"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "공유하기"
@@ -1180,6 +1214,12 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "다른사람의 프로젝트에 있는 클라우드 데이터는 편집할 수 없습니다.<br>이에 편집기안에서의 모든 변경사항은 임시적이고  영구적이지 "
 "않습니다."
+
+msgid "Eraser width:"
+msgstr ""
+
+msgid "Line width:"
+msgstr ""
 
 # 90%
 #, fuzzy

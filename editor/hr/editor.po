@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:45+0200\n"
-"PO-Revision-Date: 2013-07-14 00:57+0200\n"
+"POT-Creation-Date: 2013-07-19 20:52+0200\n"
+"PO-Revision-Date: 2013-08-01 00:29+0200\n"
 "Last-Translator: zeta11 <tajana.toto@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -40,19 +40,19 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add boolean input:"
-msgstr "Dodajte bool unos:"
+msgstr "Dodaj bool unos:"
 
 msgid "add comment"
-msgstr "dodajte komentar"
+msgstr "dodaj komentar"
 
 msgid "Add label text:"
-msgstr "Dodajte naziv oznake:"
+msgstr "Dodaj naziv oznake:"
 
 msgid "Add number input:"
-msgstr "Dodajte numerički unos:"
+msgstr "Dodaj numerički unos:"
 
 msgid "Add string input:"
-msgstr "Dodajte znakovni unos:"
+msgstr "Dodaj znakovni unos:"
 
 msgid "All"
 msgstr "Sve"
@@ -112,9 +112,6 @@ msgstr "Pozadine"
 msgid "Backpack"
 msgstr "Ruksak"
 
-msgid " Backpack"
-msgstr "Ruksak"
-
 msgid "Bass"
 msgstr "Bas"
 
@@ -123,6 +120,12 @@ msgstr "Kasa"
 
 msgid "Bassoon"
 msgstr "Fagot"
+
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"Budući da imate novi Scratch račun promjene koje napravite na podacima u "
+"oblaku neće biti sačuvane.Nastavite s radom na stranici i uskoro ćete imati "
+"mogućnost korištenja podataka u oblaku!"
 
 msgid "Bitmap"
 msgstr "Mapa bitova"
@@ -167,7 +170,7 @@ msgid "Camera"
 msgstr "Kamera"
 
 msgid "can drag in player:"
-msgstr "možete uvući igrača:"
+msgstr "možeš uvući igrača:"
 
 msgid "Cancel"
 msgstr "Poništi"
@@ -217,6 +220,9 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Udaraljke"
 
+msgid "cleanup"
+msgstr "očisti"
+
 msgid "Clear"
 msgstr "Obriši"
 
@@ -227,7 +233,7 @@ msgid "Click "Save now" to try again or "Download" to save"
 msgstr "Odaberi  za ponovni pokušaj ili  za spremanje"
 
 msgid "Close"
-msgstr "Zatvorite"
+msgstr "Zatvori"
 
 msgid "Closed Hi-Hat"
 msgstr "Zatvorena činela s pedalom"
@@ -252,10 +258,10 @@ msgid "Connecting to Cloud data server..."
 msgstr "Spajanje na poslužitelj..."
 
 msgid "Convert to bitmap"
-msgstr "Pretvorite u mapu bitova"
+msgstr "Pretvori u mapu bitova"
 
 msgid "Convert to vector"
-msgstr "Pretvorite u vektor"
+msgstr "Pretvori u vektor"
 
 msgid "Converting mp3..."
 msgstr "Pretvaram mp3..."
@@ -275,9 +281,6 @@ msgstr "Kostim"
 
 msgid "costume #"
 msgstr "kostim #"
-
-msgid "Microphone volume:"
-msgstr "Glasnoća mikrofona:"
 
 msgid "Costume Library"
 msgstr "Knjižnica kostima"
@@ -316,7 +319,7 @@ msgid "cut"
 msgstr "izreži"
 
 msgid "D connected"
-msgstr "D spojen "
+msgstr "D spojen"
 
 msgid "date"
 msgstr "datum"
@@ -332,7 +335,7 @@ msgid "delete"
 msgstr "obriši"
 
 msgid "delete variable"
-msgstr "obrišite varijablu"
+msgstr "obriši varijablu"
 
 msgid "direction"
 msgstr "smjer"
@@ -351,10 +354,10 @@ msgid "down arrow"
 msgstr "strelica dolje"
 
 msgid "Download"
-msgstr "Preuzmite"
+msgstr "Preuzmi"
 
 msgid "Download to your computer"
-msgstr "Preuzmi na svoje računalo"
+msgstr "Preuzmi na računalo"
 
 msgid "duplicate"
 msgstr "kloniraj"
@@ -395,8 +398,15 @@ msgstr "Elipsa"
 msgid "Erase"
 msgstr "Obriši"
 
-msgid "Eraser width:"
-msgstr "Debljina gumice:"
+# 92%
+msgid "Eraser width"
+msgstr "Debljina gumice"
+
+msgid "Error!"
+msgstr "Greška!"
+
+msgid "export"
+msgstr "izvoz"
 
 msgid "fade in"
 msgstr "postupno pojavljivanje"
@@ -434,6 +444,9 @@ msgstr "Flauta"
 msgid "Flying"
 msgstr "Leteće"
 
+msgid "Font:"
+msgstr "Font:"
+
 msgid "For all sprites"
 msgstr "Za sve likove"
 
@@ -468,11 +481,18 @@ msgstr "Pljesak"
 msgid "hide"
 msgstr "sakrij"
 
+msgid "High C"
+msgstr "Visoki C"
+
 msgid "hour"
 msgstr "sat"
 
 msgid "Human"
 msgstr "Ljudi"
+
+# 83%
+msgid "import"
+msgstr "uvoz"
 
 msgid "Import"
 msgstr "Uvoz"
@@ -489,6 +509,9 @@ msgstr "Instaliram..."
 msgid "Instruments"
 msgstr "Instrumenti"
 
+msgid "large readout"
+msgstr "veliki prikaz"
+
 msgid "last"
 msgstr "zadnji"
 
@@ -501,6 +524,9 @@ msgstr "strelica lijevo"
 msgid "left-right"
 msgstr "lijevo-desno"
 
+msgid "length"
+msgstr "duljina"
+
 msgid "Library"
 msgstr "Knjižnica"
 
@@ -512,9 +538,6 @@ msgstr "dosegnut limit"
 
 msgid "Line"
 msgstr "Linija"
-
-msgid "Line width:"
-msgstr "Debljina linije:"
 
 msgid "Line width"
 msgstr "Debljina linije"
@@ -540,6 +563,9 @@ msgstr "glasnije"
 msgid "loudness"
 msgstr "glasnoća"
 
+msgid "Low C"
+msgstr "Niski C"
+
 msgid "Make a Block"
 msgstr "Napravi blok"
 
@@ -563,6 +589,12 @@ msgstr "Ime poruke"
 
 msgid "message1"
 msgstr "poruka1"
+
+msgid "Microphone Volume:"
+msgstr "Glasnoća mikrofona:"
+
+msgid "Middle C"
+msgstr "Srednji C"
 
 msgid "Min"
 msgstr "Min"
@@ -642,14 +674,23 @@ msgstr "Nova varijabla"
 msgid "No motion blocks"
 msgstr "Bez blokova kretanja"
 
+msgid "normal readout"
+msgstr "normalni prikaz"
+
 msgid "Not saved; network or server problem."
 msgstr "Nije spremljeno; problemi s mrežom ili poslužiteljem."
+
+msgid "Not saved; project did not load."
+msgstr "Nije spremljeno; projekt se nije učitao."
 
 msgid "of"
 msgstr "od"
 
 msgid "off"
 msgstr "isključeno"
+
+msgid "Offline Editor"
+msgstr "Izvanmrežni uređivač"
 
 # ili prepisati OK
 msgid "OK"
@@ -724,6 +765,9 @@ msgstr "pop"
 msgid "Profile"
 msgstr "Profil"
 
+msgid "Project did not load."
+msgstr "Projekt nije učitan."
+
 msgid "Project not saved!"
 msgstr "Projekt nije snimljen!"
 
@@ -756,10 +800,10 @@ msgid "Remixing..."
 msgstr "Obrađujem..."
 
 msgid "Rename"
-msgstr "Preimenujte"
+msgstr "Preimenuj"
 
 msgid "rename variable"
-msgstr "preimenujte varijablu"
+msgstr "preimenuj varijablu"
 
 msgid "requires sign in"
 msgstr "zahtijeva prijavu"
@@ -801,16 +845,16 @@ msgid "Run without screen refresh"
 msgstr "Pokreni bez promjene zaslona"
 
 msgid "Save"
-msgstr "Spremite"
+msgstr "Spremi"
 
 msgid "Save as a copy"
-msgstr "Spremi kopiju"
+msgstr "Spremi kao kopiju"
 
 msgid "Save now"
 msgstr "Spremi"
 
 msgid "save to local file"
-msgstr "spremite lokalno"
+msgstr "spremi lokalno"
 
 msgid "Saved"
 msgstr "Spremljeno"
@@ -839,7 +883,7 @@ msgid "second"
 msgstr "sekunda"
 
 msgid "See project page"
-msgstr "Pogledajte stranicu projekta"
+msgstr "Pogledaj stranicu projekta"
 
 msgid "Select"
 msgstr "Označi"
@@ -859,6 +903,9 @@ msgstr "Postavi centar kostima"
 msgid "Set Costume Center"
 msgstr "Postavi Centar Kostima"
 
+msgid "set slider min and max"
+msgstr "postavi klizač min i max"
+
 msgid "Share"
 msgstr "Dijeli"
 
@@ -869,7 +916,7 @@ msgid "Shift:"
 msgstr "Promjena:"
 
 msgid "show"
-msgstr "prikažite"
+msgstr "prikaži"
 
 msgid "show receivers"
 msgstr "prikaži primatelje"
@@ -887,13 +934,13 @@ msgid "Side Stick"
 msgstr "Bočni držač"
 
 msgid "Sign in"
-msgstr "Prijavite se"
+msgstr "Prijava"
 
 msgid "Sign in to save"
 msgstr "Prijavi se za spremanje"
 
 msgid "Sign out"
-msgstr "Odjavite se"
+msgstr "Odjava"
 
 msgid "silence"
 msgstr "tišina"
@@ -939,25 +986,19 @@ msgid "space"
 msgstr "razmaknica"
 
 msgid "Space"
-msgstr "Razmaknica"
+msgstr "Svemir"
 
 msgid "Sports"
 msgstr "Sportovi"
-
-msgid "Sprite1"
-msgstr "Lik1"
-
-msgid "Sprite2"
-msgstr "Lik2"
-
-msgid "What's your name?"
-msgstr "Kako se zoveš?"
 
 msgid "Sprite"
 msgstr "Lik"
 
 msgid "Sprite Library"
 msgstr "Knjižnica likova"
+
+msgid "Sprite1"
+msgstr "Lik1"
 
 msgid "Sprites"
 msgstr "Likovi"
@@ -1051,7 +1092,7 @@ msgid "Turbo Mode"
 msgstr "Turbo način"
 
 msgid "Type"
-msgstr "Upišite"
+msgstr "Tip"
 
 msgid "Undelete"
 msgstr "Vrati obrisano"
@@ -1167,47 +1208,65 @@ msgstr ""
 "Ne možete uređivati podatke oblaka u tuđim projektima.<br>Svaka promjena u "
 "pregledniku je privremena i nije trajna."
 
-msgid "New sprite"
-msgstr "Novi lik:"
+msgid "Eraser width:"
+msgstr "Debljina gumice:"
 
-msgid "Paint"
-msgstr "Nacrtaj"
+msgid "Line width:"
+msgstr "Debljina linije:"
 
-msgid "any"
-msgstr "bilo koji"
+#~ msgid " Backpack"
+#~ msgstr "Ruksak"
 
-msgid "High Tom"
-msgstr "Viskoki tom"
+#~ msgid "Microphone volume:"
+#~ msgstr "Glasnoća mikrofona:"
 
-msgid "Long Guiro"
-msgstr "Dugi guiro"
+#~ msgid "Sprite2"
+#~ msgstr "Lik2"
 
-msgid "Low Bongo"
-msgstr "Niski bongo"
+#~ msgid "What's your name?"
+#~ msgstr "Kako se zoveš?"
 
-msgid "Low Conga"
-msgstr "Niska konga"
+#~ msgid "New sprite"
+#~ msgstr "Novi lik:"
 
-msgid "Low Tom"
-msgstr "Niski tom"
+#~ msgid "Paint"
+#~ msgstr "Nacrtaj"
 
-msgid "Low Wood Block"
-msgstr "Niski drveni blok"
+#~ msgid "any"
+#~ msgstr "bilo koji"
 
-msgid "Maracas"
-msgstr "Zvečke"
+#~ msgid "High Tom"
+#~ msgstr "Viskoki tom"
 
-msgid "More"
-msgstr "još"
+#~ msgid "Long Guiro"
+#~ msgstr "Dugi guiro"
 
-msgid "Mute Triangle"
-msgstr "Prigušeni trinagl"
+#~ msgid "Low Bongo"
+#~ msgstr "Niski bongo"
 
-msgid "Open Triangle"
-msgstr "Otvoreni triangl"
+#~ msgid "Low Conga"
+#~ msgstr "Niska konga"
 
-msgid "Pedal Hi-Hat"
-msgstr "Činela s pedalom"
+#~ msgid "Low Tom"
+#~ msgstr "Niski tom"
 
-msgid "Short Guiro"
-msgstr "Kratki guiro"
+#~ msgid "Low Wood Block"
+#~ msgstr "Niski drveni blok"
+
+#~ msgid "Maracas"
+#~ msgstr "Zvečke"
+
+#~ msgid "More"
+#~ msgstr "još"
+
+#~ msgid "Mute Triangle"
+#~ msgstr "Prigušeni trinagl"
+
+#~ msgid "Open Triangle"
+#~ msgstr "Otvoreni triangl"
+
+#~ msgid "Pedal Hi-Hat"
+#~ msgstr "Činela s pedalom"
+
+#~ msgid "Short Guiro"
+#~ msgstr "Kratki guiro"

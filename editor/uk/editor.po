@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:59+0200\n"
-"PO-Revision-Date: 2013-07-07 20:37+0200\n"
-"Last-Translator: gromko <ggromko@mail.ru>\n"
+"POT-Creation-Date: 2013-07-19 20:56+0200\n"
+"PO-Revision-Date: 2013-07-30 20:42+0200\n"
+"Last-Translator: Григорій <ggromko@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -227,6 +227,9 @@ msgstr "Кларнет"
 msgid "Claves"
 msgstr "Клавесин"
 
+msgid "cleanup"
+msgstr "впорядкувати"
+
 msgid "Clear"
 msgstr "Очистити"
 
@@ -334,13 +337,13 @@ msgstr "день тижня"
 
 # 83%
 msgid "Delete"
-msgstr "Видалити"
+msgstr "Вилучити"
 
 msgid "delete"
-msgstr "видалити"
+msgstr "вилучити"
 
 msgid "delete variable"
-msgstr "видалити змінну"
+msgstr "вилучити змінну"
 
 msgid "direction"
 msgstr "напрямок"
@@ -392,7 +395,7 @@ msgid "Electric Guitar"
 msgstr "Електрогітара"
 
 msgid "Electric Piano"
-msgstr "Electric Piano"
+msgstr "Електропіаніно"
 
 msgid "Electronic"
 msgstr "Електроніка"
@@ -409,6 +412,9 @@ msgstr "Розмір гумки:"
 
 msgid "Error!"
 msgstr "Помилка!"
+
+msgid "export"
+msgstr "експорт"
 
 msgid "fade in"
 msgstr "посилювати"
@@ -445,6 +451,9 @@ msgstr "Флейта"
 
 msgid "Flying"
 msgstr "Політ"
+
+msgid "Font:"
+msgstr "Шрифт:"
 
 msgid "For all sprites"
 msgstr "Для усіх спрайтів"
@@ -488,6 +497,10 @@ msgstr "година"
 msgid "Human"
 msgstr "Люди"
 
+# 83%
+msgid "import"
+msgstr "імпорт"
+
 msgid "Import"
 msgstr "імпортувати"
 
@@ -503,6 +516,9 @@ msgstr "Встановлення..."
 msgid "Instruments"
 msgstr "Інструменти"
 
+msgid "large readout"
+msgstr "повне виведення даних"
+
 msgid "last"
 msgstr "останні"
 
@@ -514,6 +530,9 @@ msgstr "стрілка ліворуч"
 
 msgid "left-right"
 msgstr "ліворуч-праворуч"
+
+msgid "length"
+msgstr "довжина"
 
 msgid "Library"
 msgstr "Бібліотека"
@@ -667,6 +686,9 @@ msgstr "Нова змінна"
 msgid "No motion blocks"
 msgstr "Немає блоків руху"
 
+msgid "normal readout"
+msgstr "виведення даних"
+
 msgid "Not saved; network or server problem."
 msgstr "Не збережено: проблеми з мережею чи сервером."
 
@@ -678,6 +700,9 @@ msgstr "з"
 
 msgid "off"
 msgstr "Вимк"
+
+msgid "Offline Editor"
+msgstr "Редактор (без браузера)"
 
 msgid "OK"
 msgstr "OK"
@@ -868,7 +893,7 @@ msgid "Scripts:"
 msgstr "Скрипти:"
 
 msgid "second"
-msgstr "другий"
+msgstr "секунда"
 
 msgid "See project page"
 msgstr "Сторінка проекту"
@@ -891,6 +916,9 @@ msgstr "Встановити центр образу"
 
 msgid "Set Costume Center"
 msgstr "Встановити центр образу"
+
+msgid "set slider min and max"
+msgstr "встановити найменше та найбільше значення повзунка"
 
 msgid "Share"
 msgstr "Поділитись"
@@ -1200,11 +1228,11 @@ msgstr ""
 "Ви не можете редагувати хмарні дані в чужих проектах.<br>Будь-які зміни, які "
 "ви робите в редакторі будуть тимчасовими, а не постійними."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Розмір гумки:"
+msgid "Eraser width:"
+msgstr "Розмір гумки:"
 
-#~ msgid "Line width:"
-#~ msgstr "Ширина лінії:"
+msgid "Line width:"
+msgstr "Ширина лінії:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Додати введення логічного значення:"

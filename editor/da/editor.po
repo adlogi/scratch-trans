@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:55+0200\n"
+"POT-Creation-Date: 2013-07-19 20:51+0200\n"
 "PO-Revision-Date: 2013-07-09 17:37+0200\n"
 "Last-Translator: Barry <barry@neville.dk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -216,6 +216,9 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Ryd"
 
@@ -396,6 +399,9 @@ msgstr "Viskelæderets bredde"
 msgid "Error!"
 msgstr "Fejl!"
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "opton"
 
@@ -431,6 +437,9 @@ msgstr "Fløjte"
 
 msgid "Flying"
 msgstr "Flyvning"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "For alle sprites"
@@ -474,6 +483,11 @@ msgstr "time"
 msgid "Human"
 msgstr "Menneskelig"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importer"
+
 msgid "Import"
 msgstr "Importer"
 
@@ -489,6 +503,9 @@ msgstr "Installerer..."
 msgid "Instruments"
 msgstr "Instrumenter"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "sidste"
 
@@ -500,6 +517,9 @@ msgstr "venstrepil"
 
 msgid "left-right"
 msgstr "venstre-højre"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Bibliotek"
@@ -650,6 +670,9 @@ msgstr "Ny variabel"
 msgid "No motion blocks"
 msgstr "Ingen bevægelses klodser"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Ikke gemt; netværk eller server problem."
 
@@ -661,6 +684,9 @@ msgstr "af"
 
 msgid "off"
 msgstr "slukket"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -869,6 +895,9 @@ msgstr "Sæt kostumets center"
 
 msgid "Set Costume Center"
 msgstr "Sæt Kostumets Center"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Del"
@@ -1177,11 +1206,11 @@ msgstr ""
 "Du kan ikke editere skydata i en andens projekt.<br>Eventuelle ændringer "
 "bliver kun midlertidige, ikke vedvarende."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Viskelæderets bredde:"
+msgid "Eraser width:"
+msgstr "Viskelæderets bredde:"
 
-#~ msgid "Line width:"
-#~ msgstr "Linjebredde:"
+msgid "Line width:"
+msgstr "Linjebredde:"
 
 # 90%
 #, fuzzy

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:56+0200\n"
+"POT-Creation-Date: 2013-07-19 20:53+0200\n"
 "PO-Revision-Date: 2013-06-29 06:35+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -215,6 +215,9 @@ msgstr "クラリネット"
 msgid "Claves"
 msgstr "クラーベ"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "消す"
 
@@ -395,6 +398,9 @@ msgstr "消しゴムの幅:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "フェードイン"
 
@@ -430,6 +436,9 @@ msgstr "フルート"
 
 msgid "Flying"
 msgstr "飛ぶ"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "すべてのスプライト用"
@@ -473,6 +482,11 @@ msgstr "時"
 msgid "Human"
 msgstr "人"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "読み込み"
+
 msgid "Import"
 msgstr "読み込み"
 
@@ -488,6 +502,9 @@ msgstr "インストール中..."
 msgid "Instruments"
 msgstr "楽器"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "最後"
 
@@ -499,6 +516,9 @@ msgstr "左向き矢印"
 
 msgid "left-right"
 msgstr "左右のみ"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "ライブラリ"
@@ -649,6 +669,9 @@ msgstr "新しい変数"
 msgid "No motion blocks"
 msgstr "動きのブロックはありません"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "保存できません。ネットワークかサーバーに問題があります。"
 
@@ -660,6 +683,9 @@ msgstr "の"
 
 msgid "off"
 msgstr "切"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -868,6 +894,9 @@ msgstr "コスチュームの中心を設定"
 
 msgid "Set Costume Center"
 msgstr "コスチュームの中心を設定"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "共有"
@@ -1166,11 +1195,11 @@ msgstr "年"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr "他の人のプロジェクトのクラウドデータを編集することはできません。<br>エディターで行った変更は一時的なもので永続性はありません。"
 
-#~ msgid "Eraser width:"
-#~ msgstr "消しゴムの幅:"
+msgid "Eraser width:"
+msgstr "消しゴムの幅:"
 
-#~ msgid "Line width:"
-#~ msgstr "線の幅:"
+msgid "Line width:"
+msgstr "線の幅:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "真偽値の引数を追加:"

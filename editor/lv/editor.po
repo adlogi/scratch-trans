@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:57+0200\n"
+"POT-Creation-Date: 2013-07-19 20:53+0200\n"
 "PO-Revision-Date: 2013-02-03 13:16+0200\n"
 "Last-Translator: craftsmaster <pornieks@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -227,6 +227,9 @@ msgstr "Klarnete"
 msgid "Claves"
 msgstr "Klave"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr ""
 
@@ -415,6 +418,9 @@ msgstr ""
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "pakāpeniski parādīties"
 
@@ -449,6 +455,9 @@ msgid "Flute"
 msgstr "Flauta"
 
 msgid "Flying"
+msgstr ""
+
+msgid "Font:"
 msgstr ""
 
 msgid "For all sprites"
@@ -493,6 +502,11 @@ msgstr "stunda"
 msgid "Human"
 msgstr ""
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importēt"
+
 msgid "Import"
 msgstr "Importēt"
 
@@ -508,6 +522,9 @@ msgstr ""
 msgid "Instruments"
 msgstr ""
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "pēdējais"
 
@@ -519,6 +536,9 @@ msgstr "bulta pa kreisi"
 
 msgid "left-right"
 msgstr "pa kreisi-pa labi"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Bibliotēka"
@@ -675,6 +695,9 @@ msgstr ""
 msgid "No motion blocks"
 msgstr ""
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr ""
 
@@ -686,6 +709,9 @@ msgstr ""
 
 msgid "off"
 msgstr "izslēgts"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr ""
@@ -894,6 +920,9 @@ msgid "Set costume center"
 msgstr ""
 
 msgid "Set Costume Center"
+msgstr ""
+
+msgid "set slider min and max"
 msgstr ""
 
 msgid "Share"
@@ -1204,6 +1233,12 @@ msgid "year"
 msgstr "gads"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+
+msgid "Eraser width:"
+msgstr ""
+
+msgid "Line width:"
 msgstr ""
 
 #~ msgid "Add a boolean input:"

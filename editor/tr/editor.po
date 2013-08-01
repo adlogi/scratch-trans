@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:59+0200\n"
+"POT-Creation-Date: 2013-07-19 20:55+0200\n"
 "PO-Revision-Date: 2013-05-17 22:11+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -223,6 +223,9 @@ msgstr "Klarnet"
 msgid "Claves"
 msgstr "Tahta çubuk"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Temizle"
 
@@ -406,6 +409,9 @@ msgstr "Silgi genişliği:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "giderek yükselt"
 
@@ -441,6 +447,9 @@ msgstr "Flüt"
 
 msgid "Flying"
 msgstr "Yukarıdan"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Tüm kuklalar için"
@@ -484,6 +493,11 @@ msgstr "saat"
 msgid "Human"
 msgstr "İnsan"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Dışarıdan al"
+
 msgid "Import"
 msgstr "Dışarıdan al"
 
@@ -499,6 +513,9 @@ msgstr "Yüklüyorum..."
 msgid "Instruments"
 msgstr "Çalgılar"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "son"
 
@@ -510,6 +527,9 @@ msgstr "sol ok"
 
 msgid "left-right"
 msgstr "sağa-sola dönebilsin"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Kütüphane"
@@ -664,6 +684,9 @@ msgstr "Yeni Değişken"
 msgid "No motion blocks"
 msgstr "Hareket bloğu yok"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Kaydedilmedi; ağ veya sunucuda sorun var."
 
@@ -675,6 +698,9 @@ msgstr "of"
 
 msgid "off"
 msgstr "kapat"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "Tamam"
@@ -887,6 +913,9 @@ msgstr "Kılık merkezini belirle"
 
 msgid "Set Costume Center"
 msgstr "Kılık Merkezini Belirle"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Paylaş"
@@ -1196,11 +1225,11 @@ msgstr ""
 "Başkasının projesindeki bulut verisini değiştiremezsin.<br>Bu verilerde "
 "yaptığın her değişiklik kalıcı olamayacak."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Silgi genişliği:"
+msgid "Eraser width:"
+msgstr "Silgi genişliği:"
 
-#~ msgid "Line width:"
-#~ msgstr "Çizgi kalınlığı:"
+msgid "Line width:"
+msgstr "Çizgi kalınlığı:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Boole girdi ekle"

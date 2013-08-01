@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:54+0200\n"
+"POT-Creation-Date: 2013-07-19 20:50+0200\n"
 "PO-Revision-Date: 2013-07-05 10:53+0200\n"
 "Last-Translator: Juan Pablo <juanpabl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -222,6 +222,9 @@ msgstr "Clarinet"
 msgid "Claves"
 msgstr "Claus"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Limpiar"
 
@@ -402,6 +405,9 @@ msgstr "Amplaria d'o borrador"
 msgid "Error!"
 msgstr "Error!"
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "apareixer"
 
@@ -437,6 +443,9 @@ msgstr "Flauta"
 
 msgid "Flying"
 msgstr "Volando"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Ta totz os obchectos"
@@ -480,6 +489,11 @@ msgstr "hora"
 msgid "Human"
 msgstr "Humán"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importar"
+
 msgid "Import"
 msgstr "Importar"
 
@@ -495,6 +509,9 @@ msgstr "Se ye instalando..."
 msgid "Instruments"
 msgstr "Trastes"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "zaguer"
 
@@ -506,6 +523,9 @@ msgstr "flecha cucha"
 
 msgid "left-right"
 msgstr "zurda-dreita"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Biblioteca"
@@ -659,6 +679,9 @@ msgstr "Nueva Variable"
 msgid "No motion blocks"
 msgstr "Sin bloques de movimiento"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "No s'ha alzau; problemas en o ret u en o servidor."
 
@@ -670,6 +693,9 @@ msgstr "de"
 
 msgid "off"
 msgstr "amortau"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "Acceptar"
@@ -882,6 +908,9 @@ msgstr "Fixar o centro d'o vestiu"
 
 msgid "Set Costume Center"
 msgstr "Fixar o centro d'o vestiu"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Compartir"
@@ -1196,11 +1225,11 @@ msgstr ""
 "usuario.<br>Qualsiquier cambio que faigas en o editor será temporal y no pas "
 "persistent."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Amplaria d'o borrador:"
+msgid "Eraser width:"
+msgstr "Amplaria d'o borrador:"
 
-#~ msgid "Line width:"
-#~ msgstr "Amplaria de linia:"
+msgid "Line width:"
+msgstr "Amplaria de linia:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Adhibir una dentrada lochica:"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:59+0200\n"
+"POT-Creation-Date: 2013-07-19 20:55+0200\n"
 "PO-Revision-Date: 2013-06-20 18:39+0200\n"
 "Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -222,6 +222,9 @@ msgstr "Klarinett"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Rensa"
 
@@ -408,6 +411,9 @@ msgstr "Suddgummi bredd:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "tona in"
 
@@ -443,6 +449,9 @@ msgstr "Flöjt"
 
 msgid "Flying"
 msgstr "Flygande"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "För alla sprites"
@@ -486,6 +495,11 @@ msgstr "timme"
 msgid "Human"
 msgstr "Mänsklig"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importera"
+
 msgid "Import"
 msgstr "Importera"
 
@@ -501,6 +515,9 @@ msgstr "Installerar..."
 msgid "Instruments"
 msgstr "Instrument"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "sista"
 
@@ -512,6 +529,9 @@ msgstr "pil vänster"
 
 msgid "left-right"
 msgstr "vänster-höger"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Bibliotek"
@@ -666,6 +686,9 @@ msgstr "Ny Variabel"
 msgid "No motion blocks"
 msgstr "Inga rörelseblock"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Sparades inte; nätverks- eller serverproblem."
 
@@ -677,6 +700,9 @@ msgstr "av"
 
 msgid "off"
 msgstr "av"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -890,6 +916,9 @@ msgstr "Sätt klädselns centrum"
 
 msgid "Set Costume Center"
 msgstr "Sätt Klädselns Centrum"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Dela"
@@ -1202,11 +1231,11 @@ msgstr ""
 "Du kan inte redigera molndata i någon annans projekt.<br>Alla ändringar du "
 "gör blir tillfälliga och sparas inte."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Suddgummi bredd:"
+msgid "Eraser width:"
+msgstr "Suddgummi bredd:"
 
-#~ msgid "Line width:"
-#~ msgstr "Linjebredd:"
+msgid "Line width:"
+msgstr "Linjebredd:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Lägg till ett boolskt värde:"

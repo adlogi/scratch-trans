@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:56+0200\n"
-"PO-Revision-Date: 2013-07-09 18:11+0200\n"
+"POT-Creation-Date: 2013-07-19 20:53+0200\n"
+"PO-Revision-Date: 2013-07-19 21:18+0200\n"
 "Last-Translator: s_federici <s_federici@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -226,6 +226,9 @@ msgstr "Clarinetto"
 msgid "Claves"
 msgstr "Legnetti"
 
+msgid "cleanup"
+msgstr "riordina"
+
 msgid "Clear"
 msgstr "Pulisci"
 
@@ -410,6 +413,9 @@ msgstr "Dimensione della gomma"
 msgid "Error!"
 msgstr "Errore!"
 
+msgid "export"
+msgstr "esporta"
+
 msgid "fade in"
 msgstr "ingresso"
 
@@ -445,6 +451,9 @@ msgstr "Flauto"
 
 msgid "Flying"
 msgstr "Volo"
+
+msgid "Font:"
+msgstr "Carattere:"
 
 msgid "For all sprites"
 msgstr "Per tutti gli sprite"
@@ -488,6 +497,10 @@ msgstr "ora"
 msgid "Human"
 msgstr "Umani"
 
+# 83%
+msgid "import"
+msgstr "importa"
+
 msgid "Import"
 msgstr "Importa"
 
@@ -503,6 +516,9 @@ msgstr "Installazione in corso..."
 msgid "Instruments"
 msgstr "Strumenti"
 
+msgid "large readout"
+msgstr "grande"
+
 msgid "last"
 msgstr "ultimo"
 
@@ -514,6 +530,9 @@ msgstr "freccia sinistra"
 
 msgid "left-right"
 msgstr "sinistra-destra"
+
+msgid "length"
+msgstr "lunghezza"
 
 msgid "Library"
 msgstr "Libreria"
@@ -667,6 +686,9 @@ msgstr "Nuova Variabile"
 msgid "No motion blocks"
 msgstr "Nessun blocco di movimento"
 
+msgid "normal readout"
+msgstr "normale"
+
 msgid "Not saved; network or server problem."
 msgstr "Il salvataggio è fallito: problema sulla rete o sul server."
 
@@ -678,6 +700,9 @@ msgstr "di"
 
 msgid "off"
 msgstr "spegni"
+
+msgid "Offline Editor"
+msgstr "Editor Offline"
 
 msgid "OK"
 msgstr "OK"
@@ -890,6 +915,9 @@ msgstr "Definisci il centro del costume"
 
 msgid "Set Costume Center"
 msgstr "Cambia Centro del Costume"
+
+msgid "set slider min and max"
+msgstr "scegli min e max del cursore"
 
 msgid "Share"
 msgstr "Condividi"
@@ -1203,11 +1231,11 @@ msgstr ""
 "altro.<br>Qualunque cambiamento che apporti all'interno dell'editor è "
 "infatti temporaneo e non permanente."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Dimensione della gomma:"
+msgid "Eraser width:"
+msgstr "Dimensione della gomma:"
 
-#~ msgid "Line width:"
-#~ msgstr "Dimensione della linea:"
+msgid "Line width:"
+msgstr "Dimensione della linea:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Aggiungi un parametro booleano:"

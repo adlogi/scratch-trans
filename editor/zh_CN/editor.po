@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:59+0200\n"
-"PO-Revision-Date: 2013-07-05 08:04+0200\n"
+"POT-Creation-Date: 2013-07-19 20:56+0200\n"
+"PO-Revision-Date: 2013-07-30 03:43+0200\n"
 "Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -221,6 +221,9 @@ msgstr "单簧管"
 msgid "Claves"
 msgstr "古钢琴"
 
+msgid "cleanup"
+msgstr "清除"
+
 msgid "Clear"
 msgstr "清除"
 
@@ -406,6 +409,9 @@ msgstr "橡皮擦宽度"
 msgid "Error!"
 msgstr "错误！"
 
+msgid "export"
+msgstr "导出"
+
 msgid "fade in"
 msgstr "淡入"
 
@@ -441,6 +447,9 @@ msgstr "长笛"
 
 msgid "Flying"
 msgstr "飞行"
+
+msgid "Font:"
+msgstr "字体："
 
 msgid "For all sprites"
 msgstr "适用于所有角色"
@@ -484,6 +493,10 @@ msgstr "小时"
 msgid "Human"
 msgstr "人声"
 
+# 83%
+msgid "import"
+msgstr "导入"
+
 msgid "Import"
 msgstr "导入"
 
@@ -499,6 +512,9 @@ msgstr "正在安装..."
 msgid "Instruments"
 msgstr "乐器"
 
+msgid "large readout"
+msgstr "大屏幕显示"
+
 msgid "last"
 msgstr "末尾"
 
@@ -510,6 +526,9 @@ msgstr "左移键"
 
 msgid "left-right"
 msgstr "左-右翻转"
+
+msgid "length"
+msgstr "长度"
 
 msgid "Library"
 msgstr "库"
@@ -663,6 +682,9 @@ msgstr "新建变量"
 msgid "No motion blocks"
 msgstr "无动作模块"
 
+msgid "normal readout"
+msgstr "正常显示"
+
 msgid "Not saved; network or server problem."
 msgstr "保存失败，可能是网络或服务器出了问题。"
 
@@ -674,6 +696,9 @@ msgstr "的"
 
 msgid "off"
 msgstr "关闭"
+
+msgid "Offline Editor"
+msgstr "离线编辑器"
 
 msgid "OK"
 msgstr "确定"
@@ -887,6 +912,9 @@ msgstr "设置造型中心"
 
 msgid "Set Costume Center"
 msgstr "设置造型中心"
+
+msgid "set slider min and max"
+msgstr "设置滑块的最小值和最大值"
 
 msgid "Share"
 msgstr "分享"
@@ -1192,11 +1220,11 @@ msgstr "年"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr "您不能修改其它用户项目中的云变量。<br>本次编辑过程中的所有修改都是临时且不能永久保存的。"
 
-#~ msgid "Eraser width:"
-#~ msgstr "橡皮擦宽度:"
+msgid "Eraser width:"
+msgstr "橡皮擦宽度:"
 
-#~ msgid "Line width:"
-#~ msgstr "线宽："
+msgid "Line width:"
+msgstr "线宽："
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "输入一个布尔值："

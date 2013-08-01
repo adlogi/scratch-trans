@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:55+0200\n"
-"PO-Revision-Date: 2013-07-08 15:20+0200\n"
+"POT-Creation-Date: 2013-07-19 20:51+0200\n"
+"PO-Revision-Date: 2013-07-30 14:59+0200\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -225,6 +225,9 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "cleanup"
+msgstr "úklid"
+
 msgid "Clear"
 msgstr "Smaž"
 
@@ -408,6 +411,9 @@ msgstr "Šířka gumy"
 msgid "Error!"
 msgstr "Chyba!"
 
+msgid "export"
+msgstr "export"
+
 msgid "fade in"
 msgstr "rozednívat"
 
@@ -443,6 +449,9 @@ msgstr "Flétna"
 
 msgid "Flying"
 msgstr "Létání"
+
+msgid "Font:"
+msgstr "Font:"
 
 msgid "For all sprites"
 msgstr "Pro všechny postavy"
@@ -486,6 +495,10 @@ msgstr "hodin"
 msgid "Human"
 msgstr "Člověk"
 
+# 83%
+msgid "import"
+msgstr "import"
+
 msgid "Import"
 msgstr "Import"
 
@@ -501,6 +514,9 @@ msgstr "Instaluji..."
 msgid "Instruments"
 msgstr "Nástroje"
 
+msgid "large readout"
+msgstr "zvětšené zobrazení"
+
 msgid "last"
 msgstr "poslední"
 
@@ -512,6 +528,9 @@ msgstr "šipka vlevo"
 
 msgid "left-right"
 msgstr "jen vlevo-vpravo"
+
+msgid "length"
+msgstr "délka"
 
 msgid "Library"
 msgstr "Knihovna"
@@ -666,6 +685,9 @@ msgstr "Nová proměnná"
 msgid "No motion blocks"
 msgstr "Žádné bloky pohybu"
 
+msgid "normal readout"
+msgstr "normální zobrazení"
+
 msgid "Not saved; network or server problem."
 msgstr "Neuloženo; problém se sítí nebo serverem."
 
@@ -677,6 +699,9 @@ msgstr "z"
 
 msgid "off"
 msgstr "vypnuto"
+
+msgid "Offline Editor"
+msgstr "Offline Editor"
 
 msgid "OK"
 msgstr "OK"
@@ -890,6 +915,9 @@ msgstr "Nastavit střed kostýmu"
 
 msgid "Set Costume Center"
 msgstr "Nastavit střed kostýmu"
+
+msgid "set slider min and max"
+msgstr "nastav posuvníku min a max"
 
 msgid "Share"
 msgstr "Sdílení"
@@ -1199,11 +1227,11 @@ msgstr ""
 "Nemůžeš editovat cloud data v projektu někoho jiného.<br>Každá změna kterou "
 "uděláš v editoru bude jen dočasná, ne trvalá."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Šířka gumy:"
+msgid "Eraser width:"
+msgstr "Šířka gumy:"
 
-#~ msgid "Line width:"
-#~ msgstr "Šířka úsečky: "
+msgid "Line width:"
+msgstr "Šířka úsečky: "
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Přidat logický parametr:"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:56+0200\n"
+"POT-Creation-Date: 2013-07-19 20:52+0200\n"
 "PO-Revision-Date: 2013-07-10 16:36+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -218,6 +218,9 @@ msgstr "קלרינט"
 msgid "Claves"
 msgstr "מקלות הקשה"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "נקה"
 
@@ -401,6 +404,9 @@ msgstr "רוחב מחק:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "הצג בהדרגתיות"
 
@@ -436,6 +442,9 @@ msgstr "חליל"
 
 msgid "Flying"
 msgstr "טיסה"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "לכל הדמויות"
@@ -479,6 +488,11 @@ msgstr "שעה"
 msgid "Human"
 msgstr "אנושי"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "יבא"
+
 msgid "Import"
 msgstr "יבא"
 
@@ -494,6 +508,9 @@ msgstr "מתקין..."
 msgid "Instruments"
 msgstr "כלי נגינה"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "אחרון"
 
@@ -505,6 +522,9 @@ msgstr "חץ שמאלי"
 
 msgid "left-right"
 msgstr "שמאל-ימין"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "ספריה"
@@ -658,6 +678,9 @@ msgstr "משתנה חדשה"
 msgid "No motion blocks"
 msgstr "ללא פקודות תנועה"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "לא נשמור, בעיה ברשת או בשרת."
 
@@ -669,6 +692,9 @@ msgstr "של"
 
 msgid "off"
 msgstr "כבה"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "אישור"
@@ -881,6 +907,9 @@ msgstr "קבע את מרכז התלבושת"
 
 msgid "Set Costume Center"
 msgstr "קבע את מרכז התלבושת"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "שתף"
@@ -1185,11 +1214,11 @@ msgstr "שנה"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr "אינך רשאי לערוך משתני ענן של מישהו אחר<br>כל שינוי יהיה זמני."
 
-#~ msgid "Eraser width:"
-#~ msgstr "רוחב מחק:"
+msgid "Eraser width:"
+msgstr "רוחב מחק:"
 
-#~ msgid "Line width:"
-#~ msgstr "רוחב קו:"
+msgid "Line width:"
+msgstr "רוחב קו:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "הוסף קלט בוליאני:"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:57+0200\n"
+"POT-Creation-Date: 2013-07-19 20:53+0200\n"
 "PO-Revision-Date: 2013-05-16 12:47+0200\n"
 "Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -229,6 +229,9 @@ msgstr "Klarnetas"
 msgid "Claves"
 msgstr "Strypeliai"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Išvalyti"
 
@@ -417,6 +420,9 @@ msgstr "Trintuko plotis:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "sustiprinti"
 
@@ -455,6 +461,9 @@ msgstr "Fleita"
 #, fuzzy
 msgid "Flying"
 msgstr "Skraidymas"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Visiems veikėjams"
@@ -500,6 +509,11 @@ msgstr "valanda"
 msgid "Human"
 msgstr "Žmonės"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "įkelti"
+
 msgid "Import"
 msgstr "įkelti"
 
@@ -516,6 +530,9 @@ msgstr "Įdiegiama..."
 msgid "Instruments"
 msgstr "Instrumentai"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "paskutinis"
 
@@ -527,6 +544,9 @@ msgstr "rodyklė kairėn"
 
 msgid "left-right"
 msgstr "kairėn-dešinėn"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Biblioteka"
@@ -687,6 +707,9 @@ msgstr "Naujas kintamasis"
 msgid "No motion blocks"
 msgstr "Be judėjimo komandų"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Neišsaugota - interneto ryšio arba serverio problema"
 
@@ -699,6 +722,9 @@ msgstr "iš"
 
 msgid "off"
 msgstr "Išjungti"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -922,6 +948,9 @@ msgstr "Nustatyti kaukės centrą"
 
 msgid "Set Costume Center"
 msgstr "Nustatyti kaukės centrą"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Dalintis"
@@ -1243,11 +1272,11 @@ msgstr ""
 "Jūs negalite keisti \"debesyje\" saugomų duomenų iš kitų žmonių projektų. "
 "<br>Bet kokie pakeitimai bus laikini ir neišsaugoti."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Trintuko plotis:"
+msgid "Eraser width:"
+msgstr "Trintuko plotis:"
 
-#~ msgid "Line width:"
-#~ msgstr "Linijos plotis:"
+msgid "Line width:"
+msgstr "Linijos plotis:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Loginė reikšmė"

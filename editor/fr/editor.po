@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:55+0200\n"
+"POT-Creation-Date: 2013-07-19 20:52+0200\n"
 "PO-Revision-Date: 2013-07-07 00:06+0200\n"
 "Last-Translator: Jean-Jacques <i.scool@mac.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -224,6 +224,9 @@ msgstr "Clarinette"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Effacer"
 
@@ -411,6 +414,9 @@ msgstr "Effacer avec"
 msgid "Error!"
 msgstr "Erreur!"
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "fondu en ouverture"
 
@@ -446,6 +452,9 @@ msgstr "Flûte"
 
 msgid "Flying"
 msgstr "Oiseaux insectes volants"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Pour tous les lutins"
@@ -489,6 +498,11 @@ msgstr "heure"
 msgid "Human"
 msgstr "Humain"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importer"
+
 msgid "Import"
 msgstr "Importer"
 
@@ -504,6 +518,9 @@ msgstr "En cours d'installation"
 msgid "Instruments"
 msgstr "Instruments"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "dernier"
 
@@ -515,6 +532,9 @@ msgstr "flèche à gauche"
 
 msgid "left-right"
 msgstr "position à gauche ou à droite"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Librairie"
@@ -668,6 +688,9 @@ msgstr "Nouvelle variable"
 msgid "No motion blocks"
 msgstr "Aucun bloc de mouvement"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Non sauvegardé; réseau ou serveur indisponible."
 
@@ -679,6 +702,9 @@ msgstr "de"
 
 msgid "off"
 msgstr "Désactivé"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "Ok"
@@ -892,6 +918,9 @@ msgstr "Définir le centre du costume"
 
 msgid "Set Costume Center"
 msgstr "Définir le centre du costume"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Partager"
@@ -1205,11 +1234,11 @@ msgstr ""
 "quelqu'un d'autre. <br> Toute modification que vous faites dans l'éditeur "
 "sera temporaire et non permanente."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Effacer avec:"
+msgid "Eraser width:"
+msgstr "Effacer avec:"
 
-#~ msgid "Line width:"
-#~ msgstr "Largeur de la ligne:"
+msgid "Line width:"
+msgstr "Largeur de la ligne:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Ajouter entrée booléenne"

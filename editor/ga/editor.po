@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scratch Editor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:56+0200\n"
-"PO-Revision-Date: 2013-05-09 07:17+0200\n"
+"POT-Creation-Date: 2013-07-19 20:52+0200\n"
+"PO-Revision-Date: 2013-07-09 18:52+0200\n"
 "Last-Translator: Kevin <kscanne@gmail.com>\n"
 "Language-Team: Irish\n"
 "Language: ga\n"
@@ -16,16 +16,8 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers "
-"are supported<br>Chat rooms are not allowed, and will be removed<br>For more "
-"info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data "
-"FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
-"<b>Maidir le Néalathróga</b><br>&nbsp;<br>Faoi láthair, tacaítear le "
-"huimhreacha amháin<br>Ní cheadaítear seomraí comhrá, agus scriosfar "
-"iad<br>Chun tuilleadh eolais a fháil, féach na <a href=\"/help/faq/#clouddata"
-"\" target=\"_blank\">Ceisteanna Coitianta</a> faoi Néalsonraí!"
 
 msgid "A connected"
 msgstr "A ceangailte"
@@ -123,11 +115,10 @@ msgstr "Dord-Druma"
 msgid "Bassoon"
 msgstr "Basún"
 
-msgid ""
-"Because you have a new Scratch account, any changes to cloud data won't be "
-"saved yet. Keep participating on the site you'll be able to use cloud data "
-"soon!"
-msgstr "Toisc go bhfuil cuntas nua Scratch agat, ní shábhálfar néalsonraí fós. Lean ort ar feadh tamaill agus beidh cead agat néalsonraí a úsáid go luath!"
+msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgstr ""
+"Toisc go bhfuil cuntas nua Scratch agat, ní shábhálfar néalsonraí fós. Lean "
+"ort ar feadh tamaill agus beidh cead agat néalsonraí a úsáid go luath!"
 
 msgid "Bitmap"
 msgstr "Mapa Giotáin"
@@ -222,16 +213,17 @@ msgstr "Cláirnéid"
 msgid "Claves"
 msgstr "Clabhaí"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Glan"
 
 msgid "clear senders/receivers"
 msgstr "glan seoltóirí/faighteoirí"
 
-msgid "Click \"Save now\" to try again or \"Download\" to save"
+msgid "Click "Save now" to try again or "Download" to save"
 msgstr ""
-"Cliceáil \"Sábháil anois\" chun iarracht eile a dhéanamh, nó \"Íosluchtaigh\" "
-"chun sábháil"
 
 msgid "Close"
 msgstr "Dún"
@@ -401,6 +393,9 @@ msgstr "Leithead an léirscriosáin"
 msgid "Error!"
 msgstr "Earráid!"
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "céimnigh isteach"
 
@@ -436,6 +431,9 @@ msgstr "Fliúit"
 
 msgid "Flying"
 msgstr "Eitilt"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Na sprideanna go léir"
@@ -479,6 +477,11 @@ msgstr "uair"
 msgid "Human"
 msgstr "Duine"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Iompórtáil"
+
 msgid "Import"
 msgstr "Iompórtáil"
 
@@ -494,6 +497,9 @@ msgstr "Á Shuiteáil..."
 msgid "Instruments"
 msgstr "Ionstraimí"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "deireanach"
 
@@ -505,6 +511,9 @@ msgstr "saighead chlé"
 
 msgid "left-right"
 msgstr "clé-deas"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Leabharlann"
@@ -653,6 +662,9 @@ msgstr "Athróg Nua"
 msgid "No motion blocks"
 msgstr "Gan bloic gluaiseachta"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Níor sábháladh é; fadhb leis an líonra nó leis an bhfreastalaí."
 
@@ -664,6 +676,9 @@ msgstr "as"
 
 msgid "off"
 msgstr "as"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -872,6 +887,9 @@ msgstr "Socraigh lár na culaithe"
 msgid "Set Costume Center"
 msgstr "Socraigh Lár na Culaithe"
 
+msgid "set slider min and max"
+msgstr ""
+
 msgid "Share"
 msgstr "Comhroinn"
 
@@ -1010,17 +1028,13 @@ msgstr "Téama"
 msgid "Things"
 msgstr "Rudaí"
 
-msgid ""
-"This project can detect who is using it, through the “username” block. To "
-"hide your identity, sign out before using the project."
+msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
 "Úsáideann an tionscadal seo an bloc “username” chun eolas a bhailiú faoi "
-"úsáideoirí. Chun do phríobháideacht a chosaint, logáil amach sula n-úsáidfidh "
-"tú é."
+"úsáideoirí. Chun do phríobháideacht a chosaint, logáil amach sula "
+"n-úsáidfidh tú é."
 
-msgid ""
-"This project uses Cloud data ‒ a feature that is available only to signed in "
-"users."
+msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
 "Úsáideann an tionscadal seo Néalsonraí - ar fáil d'úsáideoirí atá logáilte "
 "isteach amháin."
@@ -1175,9 +1189,33 @@ msgstr "ionad y"
 msgid "year"
 msgstr "bliain"
 
-msgid ""
-"You cannot edit cloud data in someone else's project.<br>Any change that you "
-"make in the editor will be temporary and not persistent."
+msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
 "Níl cead agat néalsonraí ó thionscadal duine eile.<br>Caillfidh tú aon "
 "athruithe a dhéanfaidh tú san eagarthóir."
+
+# 92%
+#, fuzzy
+msgid "Eraser width:"
+msgstr "Leithead an léirscriosáin"
+
+# 90%
+#, fuzzy
+msgid "Line width:"
+msgstr "Leithead líne"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers "
+#~ "are supported<br>Chat rooms are not allowed, and will be removed<br>For more "
+#~ "info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data "
+#~ "FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Maidir le Néalathróga</b><br>&nbsp;<br>Faoi láthair, tacaítear le "
+#~ "huimhreacha amháin<br>Ní cheadaítear seomraí comhrá, agus scriosfar "
+#~ "iad<br>Chun tuilleadh eolais a fháil, féach na <a href=\"/help/faq/#clouddata"
+#~ "\" target=\"_blank\">Ceisteanna Coitianta</a> faoi Néalsonraí!"
+
+#~ msgid "Click \"Save now\" to try again or \"Download\" to save"
+#~ msgstr ""
+#~ "Cliceáil \"Sábháil anois\" chun iarracht eile a dhéanamh, nó \"Íosluchtaigh\" "
+#~ "chun sábháil"

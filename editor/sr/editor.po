@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:59+0200\n"
-"PO-Revision-Date: 2013-07-06 16:00+0200\n"
+"POT-Creation-Date: 2013-07-19 20:55+0200\n"
+"PO-Revision-Date: 2013-07-27 19:20+0200\n"
 "Last-Translator: Milan <milan.cajic@open.telekom.rs>\n"
 "Language-Team: српски <>\n"
 "Language: sr\n"
@@ -231,6 +231,9 @@ msgstr "Кларинет"
 msgid "Claves"
 msgstr "Клавес"
 
+msgid "cleanup"
+msgstr "чишћење"
+
 msgid "Clear"
 msgstr "Обриши"
 
@@ -416,6 +419,9 @@ msgstr "Величина брисача"
 msgid "Error!"
 msgstr "Грешка!"
 
+msgid "export"
+msgstr "извези"
+
 msgid "fade in"
 msgstr "постепено појављивање"
 
@@ -451,6 +457,9 @@ msgstr "Флаута"
 
 msgid "Flying"
 msgstr "Летети"
+
+msgid "Font:"
+msgstr "Врста писма:"
 
 msgid "For all sprites"
 msgstr "За све ликове"
@@ -494,6 +503,9 @@ msgstr "час"
 msgid "Human"
 msgstr "Човек"
 
+msgid "import"
+msgstr "увези"
+
 msgid "Import"
 msgstr "Увези"
 
@@ -509,6 +521,9 @@ msgstr "Инсталирам..."
 msgid "Instruments"
 msgstr "Инструменти"
 
+msgid "large readout"
+msgstr "велики приказ"
+
 msgid "last"
 msgstr "последњи"
 
@@ -520,6 +535,9 @@ msgstr "стрелица лево"
 
 msgid "left-right"
 msgstr "лево-десно"
+
+msgid "length"
+msgstr "дужина"
 
 msgid "Library"
 msgstr "Библиотека"
@@ -672,6 +690,9 @@ msgstr "Нова променљива"
 msgid "No motion blocks"
 msgstr "Нема блокова за кретање"
 
+msgid "normal readout"
+msgstr "нормалан приказ"
+
 msgid "Not saved; network or server problem."
 msgstr "Није сачувано. Проблем са везом или сервером."
 
@@ -683,6 +704,9 @@ msgstr "од"
 
 msgid "off"
 msgstr "искључено"
+
+msgid "Offline Editor"
+msgstr "Уређивач ван мреже"
 
 msgid "OK"
 msgstr "У реду"
@@ -895,6 +919,9 @@ msgstr "Изабери центар лика"
 
 msgid "Set Costume Center"
 msgstr "Изабери центар лика"
+
+msgid "set slider min and max"
+msgstr "подешавање граничних вредности клизача"
 
 msgid "Share"
 msgstr "Објави (дели)"
@@ -1206,11 +1233,11 @@ msgstr ""
 "Не можеш да уређујеш интернет податке у облаку у туђем пројекту.<br>Свака "
 "промена коју направиш у едитору биће привремена а не трајна."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Обриши употребом:"
+msgid "Eraser width:"
+msgstr "Обриши употребом:"
 
-#~ msgid "Line width:"
-#~ msgstr "Ширина линије:"
+msgid "Line width:"
+msgstr "Ширина линије:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Додај Булов улаз:"

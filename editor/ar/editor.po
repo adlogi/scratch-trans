@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:54+0200\n"
-"PO-Revision-Date: 2013-07-06 18:02+0200\n"
+"POT-Creation-Date: 2013-07-19 20:50+0200\n"
+"PO-Revision-Date: 2013-07-19 20:55+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -228,6 +228,9 @@ msgstr "كلارينيت"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "cleanup"
+msgstr "ترتيب"
+
 msgid "Clear"
 msgstr "مسح"
 
@@ -414,6 +417,9 @@ msgstr "عرض الممحاة"
 msgid "Error!"
 msgstr "خطأ!"
 
+msgid "export"
+msgstr "تصدير"
+
 msgid "fade in"
 msgstr "تلاشي في البداية"
 
@@ -449,6 +455,9 @@ msgstr "فلوت"
 
 msgid "Flying"
 msgstr "الطيران"
+
+msgid "Font:"
+msgstr "الخط:"
 
 msgid "For all sprites"
 msgstr "لجميع الكائنات"
@@ -492,6 +501,10 @@ msgstr "الساعة"
 msgid "Human"
 msgstr "إنسان"
 
+# 83%
+msgid "import"
+msgstr "استيراد"
+
 msgid "Import"
 msgstr "استيراد"
 
@@ -507,6 +520,9 @@ msgstr "التثبيت جارٍ..."
 msgid "Instruments"
 msgstr "آلات موسيقية"
 
+msgid "large readout"
+msgstr "عرض كبير"
+
 msgid "last"
 msgstr "الأخير"
 
@@ -518,6 +534,9 @@ msgstr "السهم الأيسر"
 
 msgid "left-right"
 msgstr "يمين - يسار"
+
+msgid "length"
+msgstr "الطول"
 
 msgid "Library"
 msgstr "المكتبة"
@@ -671,6 +690,9 @@ msgstr "متغير جديد"
 msgid "No motion blocks"
 msgstr "لا توجد لبنات للحركة"
 
+msgid "normal readout"
+msgstr "عرض عادي"
+
 msgid "Not saved; network or server problem."
 msgstr "لم يُحفظ المشروع. هناك مشكلة في الشبكة أو المخدّم."
 
@@ -682,6 +704,9 @@ msgstr "من"
 
 msgid "off"
 msgstr "يتوقف"
+
+msgid "Offline Editor"
+msgstr "المحرر المستقل"
 
 msgid "OK"
 msgstr "موافق"
@@ -897,6 +922,9 @@ msgstr "تحديد مركز المظهر"
 
 msgid "Set Costume Center"
 msgstr "تحديد مركز المظهر"
+
+msgid "set slider min and max"
+msgstr "تحديد القيمتين الدنيا والعظمى للمنزلقة"
 
 msgid "Share"
 msgstr "مشاركة"
@@ -1208,11 +1236,11 @@ msgstr ""
 "لا يمكنك تعديل البيانات السحابية في مشروع شخص آخر.<br>أي تعديلات تقوم بها في "
 "محرر المشاريع ستكون مؤقتة ولن تدوم."
 
-#~ msgid "Eraser width:"
-#~ msgstr "عرض الممحاة:"
+msgid "Eraser width:"
+msgstr "عرض الممحاة:"
 
-#~ msgid "Line width:"
-#~ msgstr "عرض الخط:"
+msgid "Line width:"
+msgstr "عرض الخط:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "إضافة حقل منطقي:"

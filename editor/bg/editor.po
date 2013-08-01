@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:54+0200\n"
+"POT-Creation-Date: 2013-07-19 20:51+0200\n"
 "PO-Revision-Date: 2013-06-25 15:15+0200\n"
 "Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -220,6 +220,9 @@ msgstr "Кларинет"
 msgid "Claves"
 msgstr "Клавес"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Изчистване"
 
@@ -403,6 +406,9 @@ msgstr "Широчина на гумата:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "усилване"
 
@@ -438,6 +444,9 @@ msgstr "Флейта"
 
 msgid "Flying"
 msgstr "Летене"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "За всички спрайтове"
@@ -481,6 +490,11 @@ msgstr "час"
 msgid "Human"
 msgstr "Хора"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Импорт"
+
 msgid "Import"
 msgstr "Импорт"
 
@@ -496,6 +510,9 @@ msgstr "Инсталиране..."
 msgid "Instruments"
 msgstr "Инструменти"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "последен"
 
@@ -507,6 +524,9 @@ msgstr "лява стрелка"
 
 msgid "left-right"
 msgstr "наляво-надясно"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Библиотека"
@@ -661,6 +681,9 @@ msgstr "Нова променлива"
 msgid "No motion blocks"
 msgstr "Няма блокове за движение"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Не е записано; мрежов или сървърен проблем."
 
@@ -672,6 +695,9 @@ msgstr ""
 
 msgid "off"
 msgstr "изключено"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr ""
@@ -884,6 +910,9 @@ msgstr "Избиране център на костюм"
 
 msgid "Set Costume Center"
 msgstr "Избиране център на костюм"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Споделяне"
@@ -1193,11 +1222,11 @@ msgstr ""
 "Не можете да редактирате облачни данни в чужд проект.<br>Всички промени, "
 "коите ще направите в редактора ще бъдат временни, а не постоянни."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Широчина на гумата:"
+msgid "Eraser width:"
+msgstr "Широчина на гумата:"
 
-#~ msgid "Line width:"
-#~ msgstr "Широчина на линията:"
+msgid "Line width:"
+msgstr "Широчина на линията:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Добавяне на логически вход:"

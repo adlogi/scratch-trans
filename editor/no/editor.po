@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:58+0200\n"
+"POT-Creation-Date: 2013-07-19 20:54+0200\n"
 "PO-Revision-Date: 2013-03-12 00:06+0200\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -224,6 +224,9 @@ msgstr "Klarinett"
 msgid "Claves"
 msgstr "Pinner"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr ""
 
@@ -413,6 +416,9 @@ msgstr ""
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "inntoning"
 
@@ -447,6 +453,9 @@ msgid "Flute"
 msgstr "Fløyte"
 
 msgid "Flying"
+msgstr ""
+
+msgid "Font:"
 msgstr ""
 
 msgid "For all sprites"
@@ -492,6 +501,11 @@ msgstr "time"
 msgid "Human"
 msgstr ""
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importer"
+
 msgid "Import"
 msgstr "Importer"
 
@@ -507,6 +521,9 @@ msgstr ""
 msgid "Instruments"
 msgstr ""
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "siste"
 
@@ -518,6 +535,9 @@ msgstr "pil venstre"
 
 msgid "left-right"
 msgstr "vend sideveis"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Bibliotek"
@@ -676,6 +696,9 @@ msgstr ""
 msgid "No motion blocks"
 msgstr "Ingen bevegelsesklosser"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr ""
 
@@ -687,6 +710,9 @@ msgstr ""
 
 msgid "off"
 msgstr "av"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr ""
@@ -906,6 +932,9 @@ msgstr "Sett drakt-senter"
 #, fuzzy
 msgid "Set Costume Center"
 msgstr "Sett drakt-senter"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Legg ut"
@@ -1220,6 +1249,12 @@ msgid "year"
 msgstr "år"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgstr ""
+
+msgid "Eraser width:"
+msgstr ""
+
+msgid "Line width:"
 msgstr ""
 
 #, fuzzy

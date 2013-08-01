@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:55+0200\n"
-"PO-Revision-Date: 2013-07-05 09:16+0200\n"
+"POT-Creation-Date: 2013-07-19 20:51+0200\n"
+"PO-Revision-Date: 2013-07-29 11:03+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -224,6 +224,9 @@ msgstr "Klarnet"
 msgid "Claves"
 msgstr "Klaves"
 
+msgid "cleanup"
+msgstr "puhastamine"
+
 msgid "Clear"
 msgstr "Kustuta"
 
@@ -407,6 +410,9 @@ msgstr "Kustutaja laius"
 msgid "Error!"
 msgstr "Viga!"
 
+msgid "export"
+msgstr "eksport"
+
 msgid "fade in"
 msgstr "tuhmumine sisse"
 
@@ -442,6 +448,9 @@ msgstr "Flööt"
 
 msgid "Flying"
 msgstr "Lendav"
+
+msgid "Font:"
+msgstr "Kiri:"
 
 msgid "For all sprites"
 msgstr "Kõikide spraitide jaoks"
@@ -485,6 +494,10 @@ msgstr "tund"
 msgid "Human"
 msgstr "Inimene"
 
+# 83%
+msgid "import"
+msgstr "import"
+
 msgid "Import"
 msgstr "Impordi"
 
@@ -500,6 +513,9 @@ msgstr "Instaleerimine..."
 msgid "Instruments"
 msgstr "Instrumendid"
 
+msgid "large readout"
+msgstr "suur näidik"
+
 msgid "last"
 msgstr "viimane"
 
@@ -511,6 +527,9 @@ msgstr "vasaknool"
 
 msgid "left-right"
 msgstr "vasak-parem"
+
+msgid "length"
+msgstr "pikkus"
 
 msgid "Library"
 msgstr "Teek"
@@ -664,6 +683,9 @@ msgstr "Uus muutuja"
 msgid "No motion blocks"
 msgstr "Pole liikumiskäske"
 
+msgid "normal readout"
+msgstr "tavaline näidik"
+
 msgid "Not saved; network or server problem."
 msgstr "Ei ole salvestatud: võrgu või serveri probleem."
 
@@ -675,6 +697,9 @@ msgstr "  "
 
 msgid "off"
 msgstr "väljas"
+
+msgid "Offline Editor"
+msgstr "Offline Redaktor"
 
 msgid "OK"
 msgstr "OK"
@@ -888,6 +913,9 @@ msgstr "Määra kostüümi kese"
 
 msgid "Set Costume Center"
 msgstr "Määra kostüümi kese"
+
+msgid "set slider min and max"
+msgstr "määra liuguri min ja max"
 
 msgid "Share"
 msgstr "Jaga"
@@ -1197,11 +1225,11 @@ msgstr ""
 "Sa ei saa muuta teise projekti pilveandmeid<br>Muudatused, mis sa teed "
 "redaktoris on ajutised ja mitte püsivad."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Kustutaja laius:"
+msgid "Eraser width:"
+msgstr "Kustutaja laius:"
 
-#~ msgid "Line width:"
-#~ msgstr "Joone paksus:"
+msgid "Line width:"
+msgstr "Joone paksus:"
 
 #~ msgid "#"
 #~ msgstr "#"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:56+0200\n"
+"POT-Creation-Date: 2013-07-19 20:53+0200\n"
 "PO-Revision-Date: 2013-05-16 23:32+0200\n"
 "Last-Translator: Stefan Einar <stefaneinar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -214,6 +214,9 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Taktstangir"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Hreinsa"
 
@@ -394,6 +397,9 @@ msgstr "Þvermál strokleðurs:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "fjara inn"
 
@@ -429,6 +435,9 @@ msgstr "Flauta"
 
 msgid "Flying"
 msgstr "Fljúgandi"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Fyrir allar teikningar"
@@ -472,6 +481,11 @@ msgstr "klst"
 msgid "Human"
 msgstr "Mannvera"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "sækja"
+
 msgid "Import"
 msgstr "sækja"
 
@@ -487,6 +501,9 @@ msgstr "Uppfæri..."
 msgid "Instruments"
 msgstr "Hljóðfæri"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "síðasta"
 
@@ -498,6 +515,9 @@ msgstr "ör vinstri"
 
 msgid "left-right"
 msgstr "hægri/vinstri"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Safn"
@@ -649,6 +669,9 @@ msgstr "Ný breyta"
 msgid "No motion blocks"
 msgstr "Engar hreyfiblokkir"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "Ekki vistað. Net- eða miðlaravandamál."
 
@@ -660,6 +683,9 @@ msgstr "af"
 
 msgid "off"
 msgstr "Af"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "Í lagi"
@@ -868,6 +894,9 @@ msgstr "Stilla miðju búnings"
 
 msgid "Set Costume Center"
 msgstr "Stilla Búningamiðstöð"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Deila"
@@ -1178,11 +1207,11 @@ msgstr ""
 "Þú getur ekki breytt gögnum í Skýinu sem eru hluti af verkefnum "
 "annara.<br>Breytingar sem þú gerir verða aðeins tímabundnar."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Þvermál strokleðurs:"
+msgid "Eraser width:"
+msgstr "Þvermál strokleðurs:"
 
-#~ msgid "Line width:"
-#~ msgstr "Linubreidd:"
+msgid "Line width:"
+msgstr "Linubreidd:"
 
 # 90%
 #, fuzzy

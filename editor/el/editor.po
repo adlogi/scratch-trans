@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:55+0200\n"
-"PO-Revision-Date: 2013-07-05 14:43+0200\n"
+"POT-Creation-Date: 2013-07-19 20:51+0200\n"
+"PO-Revision-Date: 2013-07-30 00:33+0200\n"
 "Last-Translator: icantseeyourstar <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -221,6 +221,9 @@ msgstr "Κλαρινέτο"
 msgid "Claves"
 msgstr "Ξυλάκια"
 
+msgid "cleanup"
+msgstr "Εκκαθάριση"
+
 msgid "Clear"
 msgstr "Καθαρισμός"
 
@@ -400,6 +403,9 @@ msgstr "Πλάτος γόμας"
 msgid "Error!"
 msgstr "Σφάλμα!"
 
+msgid "export"
+msgstr "Εξαγωγή"
+
 msgid "fade in"
 msgstr "Σταδιακή αύξηση της έντασης"
 
@@ -435,6 +441,9 @@ msgstr "Φλάουτο"
 
 msgid "Flying"
 msgstr "Πέταγμα"
+
+msgid "Font:"
+msgstr "Γραμματοσειρά:"
 
 msgid "For all sprites"
 msgstr "Για όλα τα αντικείμενα"
@@ -478,6 +487,10 @@ msgstr "ώρα"
 msgid "Human"
 msgstr "Άνθρωποι"
 
+# 83%
+msgid "import"
+msgstr "Εισαγωγή"
+
 msgid "Import"
 msgstr "Εισαγωγή"
 
@@ -493,6 +506,9 @@ msgstr "Γίνεται εγκατάσταση..."
 msgid "Instruments"
 msgstr "Μουσικά Όργανα"
 
+msgid "large readout"
+msgstr "Μεγάλη Προβολή Κειμένου"
+
 msgid "last"
 msgstr "τελευταίο"
 
@@ -504,6 +520,9 @@ msgstr "αριστερό βέλος"
 
 msgid "left-right"
 msgstr "οριζόντιο"
+
+msgid "length"
+msgstr "Μήκος"
 
 msgid "Library"
 msgstr "Βιβλιοθήκη"
@@ -653,6 +672,9 @@ msgstr "Νέα Μεταβλητή"
 msgid "No motion blocks"
 msgstr "Κανένα τετράγωνο εντολών κίνησης"
 
+msgid "normal readout"
+msgstr "Κανονική Προβολή Κειμένου"
+
 msgid "Not saved; network or server problem."
 msgstr "Δεν έγινε αποθήκευση, πρόβλημα στο δίκτυο ή στο σέρβερ."
 
@@ -664,6 +686,9 @@ msgstr "από"
 
 msgid "off"
 msgstr "Απενεργοποίησε"
+
+msgid "Offline Editor"
+msgstr "Επεξεργαστής Εκτός-Διαδικτύου"
 
 msgid "OK"
 msgstr "OK"
@@ -871,6 +896,9 @@ msgstr "Επιλογή Κέντρου της Ενδυμασίας"
 
 msgid "Set Costume Center"
 msgstr "Επιλογή του κέντρου της ενδυμασίας"
+
+msgid "set slider min and max"
+msgstr "Ορισμός μετακύλισης σε ελάχιστο και μέγιστο"
 
 msgid "Share"
 msgstr "Κάντε κοινή χρήση του έργου"
@@ -1176,11 +1204,11 @@ msgstr ""
 "χρήστη.<br>Οποιαδήποτε αλλαγή κάνετε στον Επεξεργαστή Έργων είναι προσωρινή "
 "και όχι μόνιμη."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Πλάτος γόμας"
+msgid "Eraser width:"
+msgstr "Πλάτος γόμας"
 
-#~ msgid "Line width:"
-#~ msgstr "Πλάτος γραμμής"
+msgid "Line width:"
+msgstr "Πλάτος γραμμής"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Προσθέστε μια τιμή boolean:"

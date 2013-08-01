@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:54+0200\n"
-"PO-Revision-Date: 2013-05-06 20:29+0200\n"
+"POT-Creation-Date: 2013-07-19 20:51+0200\n"
+"PO-Revision-Date: 2013-07-30 19:32+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -129,6 +129,9 @@ msgstr "Fagot"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
+"Com que el teu compte Scratch es molt recent, els canvis que es realitzin a "
+"les dades al núvol encara no es desaran. Continua participant i podràs fer "
+"servir les dades al núvol ben aviat!"
 
 msgid "Bitmap"
 msgstr "Mapa de bits"
@@ -222,6 +225,9 @@ msgstr "Clarinet"
 
 msgid "Claves"
 msgstr "Claus"
+
+msgid "cleanup"
+msgstr "neteja"
 
 msgid "Clear"
 msgstr "Neteja"
@@ -400,12 +406,14 @@ msgid "Erase"
 msgstr "Esborra"
 
 # 92%
-#, fuzzy
 msgid "Eraser width"
-msgstr "Ample de l'esborrador:"
+msgstr "Ample de l'esborrador"
 
 msgid "Error!"
-msgstr ""
+msgstr "Error!"
+
+msgid "export"
+msgstr "exporta"
 
 msgid "fade in"
 msgstr "augmenta"
@@ -443,6 +451,9 @@ msgstr "Flauta"
 msgid "Flying"
 msgstr "Volant"
 
+msgid "Font:"
+msgstr "Tipus lletra:"
+
 msgid "For all sprites"
 msgstr "Per a tots els personatges"
 
@@ -477,13 +488,17 @@ msgid "hide"
 msgstr "amaga"
 
 msgid "High C"
-msgstr ""
+msgstr "DO Alt"
 
 msgid "hour"
 msgstr "hora"
 
 msgid "Human"
 msgstr "Humans"
+
+# 83%
+msgid "import"
+msgstr "importa"
 
 msgid "Import"
 msgstr "Importa"
@@ -500,6 +515,9 @@ msgstr "Instal·lant..."
 msgid "Instruments"
 msgstr "Instruments"
 
+msgid "large readout"
+msgstr "pantalla gran"
+
 msgid "last"
 msgstr "darrer"
 
@@ -511,6 +529,9 @@ msgstr "fletxa esquerra"
 
 msgid "left-right"
 msgstr "esquerra-dreta"
+
+msgid "length"
+msgstr "llargada"
 
 msgid "Library"
 msgstr "Biblioteca"
@@ -525,9 +546,8 @@ msgid "Line"
 msgstr "Línia"
 
 # 90%
-#, fuzzy
 msgid "Line width"
-msgstr "Ample de línia:"
+msgstr "Ample de línia"
 
 # 75%
 msgid "list"
@@ -552,7 +572,7 @@ msgid "loudness"
 msgstr "volum del so"
 
 msgid "Low C"
-msgstr ""
+msgstr "DO baix"
 
 msgid "Make a Block"
 msgstr "Crea un Bloc"
@@ -579,10 +599,10 @@ msgid "message1"
 msgstr "missatge1"
 
 msgid "Microphone Volume:"
-msgstr ""
+msgstr "Volum del micròfon:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "DO mig"
 
 msgid "Min"
 msgstr "Mín"
@@ -665,17 +685,23 @@ msgstr "Nova Variable"
 msgid "No motion blocks"
 msgstr "Sense blocs de moviment"
 
+msgid "normal readout"
+msgstr "pantalla normal"
+
 msgid "Not saved; network or server problem."
 msgstr "No s'ha desat; problemes a la xarxa o al servidor."
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "No desat; el projecte no s'ha carregat."
 
 msgid "of"
 msgstr "de"
 
 msgid "off"
 msgstr "apaga"
+
+msgid "Offline Editor"
+msgstr "Editor sense connexió"
 
 msgid "OK"
 msgstr "OK"
@@ -752,7 +778,7 @@ msgid "Profile"
 msgstr "Perfil"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "El projecte no s'ha carregat."
 
 msgid "Project not saved!"
 msgstr "El projecte no s'ha desat!"
@@ -889,6 +915,9 @@ msgstr "Fixa el centre del vestit"
 
 msgid "Set Costume Center"
 msgstr "Fixa el Centre del Vestit"
+
+msgid "set slider min and max"
+msgstr "fixa minim i màx del lliscador"
 
 msgid "Share"
 msgstr "Comparteix"
@@ -1203,11 +1232,11 @@ msgstr ""
 "No pots editar les dades al núvol del projecte d'algú altre.<br>Qualsevol "
 "canvi que realitzis a l'editor serà temporal i no quedarà emmagatzemat."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Ample de l'esborrador:"
+msgid "Eraser width:"
+msgstr "Ample de l'esborrador:"
 
-#~ msgid "Line width:"
-#~ msgstr "Ample de línia:"
+msgid "Line width:"
+msgstr "Ample de línia:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Afegeix una entrada per condicions lògiques:"

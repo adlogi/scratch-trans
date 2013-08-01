@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:55+0200\n"
+"POT-Creation-Date: 2013-07-19 20:51+0200\n"
 "PO-Revision-Date: 2013-05-04 16:17+0200\n"
 "Last-Translator: Bastián <technoguyx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -216,6 +216,9 @@ msgstr "Clarinete"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Limpiar"
 
@@ -397,6 +400,9 @@ msgstr "Grosor de la goma:"
 msgid "Error!"
 msgstr ""
 
+msgid "export"
+msgstr ""
+
 msgid "fade in"
 msgstr "aparecer"
 
@@ -432,6 +438,9 @@ msgstr "Flauta"
 
 msgid "Flying"
 msgstr "Volando"
+
+msgid "Font:"
+msgstr ""
 
 msgid "For all sprites"
 msgstr "Para todos los objetos"
@@ -475,6 +484,11 @@ msgstr "hora"
 msgid "Human"
 msgstr "Humanos"
 
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "Importar"
+
 msgid "Import"
 msgstr "Importar"
 
@@ -490,6 +504,9 @@ msgstr "Instalando..."
 msgid "Instruments"
 msgstr "Instrumentos"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "último"
 
@@ -501,6 +518,9 @@ msgstr "flecha izquierda"
 
 msgid "left-right"
 msgstr "izquierda-derecha"
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "Biblioteca"
@@ -651,6 +671,9 @@ msgstr "Variable nueva"
 msgid "No motion blocks"
 msgstr "No existen bloques de movimiento"
 
+msgid "normal readout"
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "No se guardó; problema de red o del servidor."
 
@@ -662,6 +685,9 @@ msgstr "de"
 
 msgid "off"
 msgstr "apagado"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -870,6 +896,9 @@ msgstr "Fijar el centro del disfraz"
 
 msgid "Set Costume Center"
 msgstr "Fijar el centro del disfraz"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "Compartir"
@@ -1177,8 +1206,8 @@ msgstr ""
 "No puedes editar información de la nube en el proyecto de otro.<br>Cualquier "
 "cambio hecho en el editor será temporal y no persistente."
 
-#~ msgid "Eraser width:"
-#~ msgstr "Grosor de la goma:"
+msgid "Eraser width:"
+msgstr "Grosor de la goma:"
 
-#~ msgid "Line width:"
-#~ msgstr "Grosor de línea:"
+msgid "Line width:"
+msgstr "Grosor de línea:"

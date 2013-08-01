@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 05:47+0200\n"
-"PO-Revision-Date: 2013-07-07 21:04+0200\n"
+"POT-Creation-Date: 2013-07-19 20:55+0200\n"
+"PO-Revision-Date: 2013-07-19 22:22+0200\n"
 "Last-Translator: ehermann <everton.hermann@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,11 @@ msgid "10 ^"
 msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-msgstr "<b>Informações sobre variáveis em Nuvem</b><br>&nbsp;<br>Atualmente, apenas números são suportados<br>Salas de bate-papo não são autorizadas, e serão removidas<br>Para mais informação, <a href= target=>veja a FAQ sobre dados da Nuvem!</a>"
+msgstr ""
+"<b>Informações sobre variáveis em Nuvem</b><br>&nbsp;<br>Atualmente, apenas "
+"números são suportados<br>Salas de bate-papo não são autorizadas, e serão "
+"removidas<br>Para mais informação, <a href= target=>veja a FAQ sobre dados "
+"da Nuvem!</a>"
 
 msgid "A connected"
 msgstr "A conectado"
@@ -214,6 +218,9 @@ msgstr "Clarinete"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "cleanup"
+msgstr ""
+
 msgid "Clear"
 msgstr "Limpar"
 
@@ -221,7 +228,7 @@ msgid "clear senders/receivers"
 msgstr "apagar emissores/receptores"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr "Clique "Salvar" para tentar novamente ou "Baixar" para baixar o arquivo"
+msgstr "Clique  para tentar novamente ou  para baixar o arquivo"
 
 msgid "Close"
 msgstr "Fechar"
@@ -393,6 +400,9 @@ msgstr "Espessura da borracha"
 msgid "Error!"
 msgstr "Erro!"
 
+msgid "export"
+msgstr "exporta"
+
 msgid "fade in"
 msgstr "aparecer"
 
@@ -428,6 +438,9 @@ msgstr "Flauta Transversal"
 
 msgid "Flying"
 msgstr "Voando"
+
+msgid "Font:"
+msgstr "Fonte:"
 
 msgid "For all sprites"
 msgstr "Para todos os atores"
@@ -471,6 +484,10 @@ msgstr "hora"
 msgid "Human"
 msgstr "Humano"
 
+# 83%
+msgid "import"
+msgstr "importar"
+
 msgid "Import"
 msgstr "Importar"
 
@@ -486,6 +503,9 @@ msgstr "Instalando..."
 msgid "Instruments"
 msgstr "Instrumentos"
 
+msgid "large readout"
+msgstr "grande"
+
 msgid "last"
 msgstr "último"
 
@@ -497,6 +517,9 @@ msgstr "seta para a esquerda"
 
 msgid "left-right"
 msgstr "esquerda-direita"
+
+msgid "length"
+msgstr "tamanho"
 
 msgid "Library"
 msgstr "Biblioteca"
@@ -646,6 +669,9 @@ msgstr "Nova Variável"
 msgid "No motion blocks"
 msgstr "Não há blocos de movimento"
 
+msgid "normal readout"
+msgstr "normal"
+
 msgid "Not saved; network or server problem."
 msgstr "Impossível salvar: problema de rede ou de servidor."
 
@@ -657,6 +683,9 @@ msgstr "de"
 
 msgid "off"
 msgstr "desligado"
+
+msgid "Offline Editor"
+msgstr "Editor Offline"
 
 msgid "OK"
 msgstr "OK"
@@ -870,6 +899,9 @@ msgstr "Especificar centro da fantasia"
 msgid "Set Costume Center"
 msgstr "Especificar Centro da Fantasia"
 
+msgid "set slider min and max"
+msgstr "define cursor min e max"
+
 msgid "Share"
 msgstr "Compartilhar"
 
@@ -1016,8 +1048,7 @@ msgstr "Coisas"
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
 "Este projecto pode detectar quem está usando através do bloco «nome de "
-"usuário». Para esconder a sua identidade, saia antes de usar este "
-"projeto."
+"usuário». Para esconder a sua identidade, saia antes de usar este projeto."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
@@ -1180,3 +1211,13 @@ msgid "You cannot edit cloud data in someone else's project.<br>Any change that 
 msgstr ""
 "Não pode editar dados de nuvem nos projetos de outras pessoas.<br>Qualquer "
 "alteração que faça no editor será temporária e não persistente."
+
+# 92%
+# 92%
+msgid "Eraser width:"
+msgstr "Espessura da borracha:"
+
+# 90%
+# 90%
+msgid "Line width:"
+msgstr "Espessura da linha:"
