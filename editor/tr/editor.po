@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:55+0200\n"
-"PO-Revision-Date: 2013-05-17 22:11+0200\n"
+"PO-Revision-Date: 2013-08-07 10:45+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -129,6 +129,9 @@ msgstr "Fagot"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
+"Scratch hesabın henüz çok yeni olduğu için, bulut verilerin şimdilik "
+"kaydedilmeyecek. Sitedeki faaliyetlerine devam edersen çok yakında bulut "
+"verilerini kullanabileceksin!"
 
 msgid "Bitmap"
 msgstr "Noktasal"
@@ -224,7 +227,7 @@ msgid "Claves"
 msgstr "Tahta çubuk"
 
 msgid "cleanup"
-msgstr ""
+msgstr "temizlik"
 
 msgid "Clear"
 msgstr "Temizle"
@@ -402,15 +405,14 @@ msgid "Erase"
 msgstr "Sil"
 
 # 92%
-#, fuzzy
 msgid "Eraser width"
-msgstr "Silgi genişliği:"
+msgstr "Silgi eni"
 
 msgid "Error!"
-msgstr ""
+msgstr "Hata!"
 
 msgid "export"
-msgstr ""
+msgstr "dönüştür kaydet"
 
 msgid "fade in"
 msgstr "giderek yükselt"
@@ -449,7 +451,7 @@ msgid "Flying"
 msgstr "Yukarıdan"
 
 msgid "Font:"
-msgstr ""
+msgstr "Font:"
 
 msgid "For all sprites"
 msgstr "Tüm kuklalar için"
@@ -485,7 +487,7 @@ msgid "hide"
 msgstr "gizle"
 
 msgid "High C"
-msgstr ""
+msgstr "Yüksek C"
 
 msgid "hour"
 msgstr "saat"
@@ -494,9 +496,8 @@ msgid "Human"
 msgstr "İnsan"
 
 # 83%
-#, fuzzy
 msgid "import"
-msgstr "Dışarıdan al"
+msgstr "dönüştür aç"
 
 msgid "Import"
 msgstr "Dışarıdan al"
@@ -514,7 +515,7 @@ msgid "Instruments"
 msgstr "Çalgılar"
 
 msgid "large readout"
-msgstr ""
+msgstr "geniş görünüm"
 
 msgid "last"
 msgstr "son"
@@ -529,7 +530,7 @@ msgid "left-right"
 msgstr "sağa-sola dönebilsin"
 
 msgid "length"
-msgstr ""
+msgstr "uzunluk"
 
 msgid "Library"
 msgstr "Kütüphane"
@@ -544,9 +545,8 @@ msgid "Line"
 msgstr "Çizgi"
 
 # 90%
-#, fuzzy
 msgid "Line width"
-msgstr "Çizgi kalınlığı:"
+msgstr "Çizgi kalınlığı"
 
 # 75%
 msgid "list"
@@ -571,7 +571,7 @@ msgid "loudness"
 msgstr "ses şiddeti"
 
 msgid "Low C"
-msgstr ""
+msgstr "Alçak C"
 
 msgid "Make a Block"
 msgstr "Bir Taş Oluştur"
@@ -598,10 +598,10 @@ msgid "message1"
 msgstr "haber1"
 
 msgid "Microphone Volume:"
-msgstr ""
+msgstr "Mikrofon sesi şiddeti:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "Orta C"
 
 msgid "Min"
 msgstr "En küçüğü"
@@ -685,13 +685,13 @@ msgid "No motion blocks"
 msgstr "Hareket bloğu yok"
 
 msgid "normal readout"
-msgstr ""
+msgstr "normal görünüm"
 
 msgid "Not saved; network or server problem."
 msgstr "Kaydedilmedi; ağ veya sunucuda sorun var."
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "Kaydedilmedi; proje yüklenmedi."
 
 msgid "of"
 msgstr "of"
@@ -700,7 +700,7 @@ msgid "off"
 msgstr "kapat"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Hatdışı Editör"
 
 msgid "OK"
 msgstr "Tamam"
@@ -776,7 +776,7 @@ msgid "Profile"
 msgstr "Profil"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "Proje yüklenmedi."
 
 msgid "Project not saved!"
 msgstr "Proje kaydedilmedi!"
@@ -915,7 +915,7 @@ msgid "Set Costume Center"
 msgstr "Kılık Merkezini Belirle"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "sürgü sınır değerlerini belirle"
 
 msgid "Share"
 msgstr "Paylaş"

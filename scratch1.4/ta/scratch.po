@@ -8,28 +8,29 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: help@scratch.mit.edu\n"
 "POT-Creation-Date: 2008-08-19 12:36+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-08-22 12:16+0200\n"
+"Last-Translator: Smrithi Rekha <smrithirekha@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
 
-############################################
+# ###########################################
 # FORMATTING
-############################################
+# ###########################################
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
 msgid "Language-Name"
-msgstr ""
+msgstr "Tamil"
 
 # Directionality of language
 # LTR = Left to Right
 # RTL = Right to Left
 msgid "Language-Direction"
-msgstr ""
+msgstr "LTR"
 
 # Scale to apply to font size (2 for twice as large)
 # Use this if the font is too small for legibility on the Scratch interface
@@ -39,7 +40,7 @@ msgstr ""
 # Set to 'true' or 'false'
 # Use this if you do not want any of the text to be bolded, for legibility
 msgid "Suppress-Bold"
-msgstr ""
+msgstr "true"
 
 # Font to use on a Windows system
 msgid "Win-Font"
@@ -53,134 +54,134 @@ msgstr ""
 msgid "Linux-Font"
 msgstr ""
 
-############################################
+# ###########################################
 # BLOCKS
-############################################
+# ###########################################
 msgid "%H sensor value"
-msgstr ""
+msgstr "%H சென்சார் மதிப்பு"
 
 msgid "%L contains %s"
-msgstr ""
+msgstr "%L %S கொண்டிருக்கிறது"
 
 msgid "%a of %m"
-msgstr ""
+msgstr "%m ன் %a"
 
 msgid "%b and %b"
-msgstr ""
+msgstr "%b மற்றும் %b"
 
 msgid "%b or %b"
-msgstr ""
+msgstr "%b அல்லது %b"
 
 msgid "%f of %n"
-msgstr ""
+msgstr "%f ன் %n"
 
 msgid "%n mod %n"
-msgstr ""
+msgstr "%n மாட் %n"
 
 msgid "add %s to %L"
-msgstr ""
+msgstr "%s உடன் %L செர்க்கவும்"
 
 msgid "answer"
-msgstr ""
+msgstr "பதில்"
 
 msgid "ask %s and wait"
-msgstr ""
+msgstr "%s காத்திருக்க சொல்"
 
 msgid "background #"
-msgstr ""
+msgstr "பின்புலம் #"
 
 msgid "broadcast %e"
-msgstr ""
+msgstr "%e செலித்தி"
 
 msgid "broadcast %e and wait"
-msgstr ""
+msgstr "%e செலித்தி காத்திருக்கவும்"
 
 msgid "change %g effect by %n"
-msgstr ""
+msgstr "%g விளை"
 
 msgid "change %v by %n"
-msgstr ""
+msgstr "%v %n அளவு மாற்றவும்"
 
 msgid "change pen color by %n"
-msgstr ""
+msgstr "பேனா நிறத்தை %n அளவு மாற்றவும்"
 
 msgid "change pen shade by %n"
-msgstr ""
+msgstr "பேனா ஷெடை%n அளவு மாற்றவும்"
 
 msgid "change pen size by %n"
-msgstr ""
+msgstr "பேனா கன அளவை %n அளவு மாற்றவும்"
 
 msgid "change size by %n"
-msgstr ""
+msgstr "கன அளவை %n %n அளவு மாற்றவும்"
 
 msgid "change tempo by %n"
-msgstr ""
+msgstr "%n அளவு தாளத்தை மாற்றவும்"
 
 msgid "change volume by %n"
-msgstr ""
+msgstr "வால்யூம் %n அளவு மாற்றவும்"
 
 msgid "change x by %n"
-msgstr ""
+msgstr "x %n அளவு மாற்றவும்"
 
 msgid "change y by %n"
-msgstr ""
+msgstr "y %n அளவு மாற்றவும்"
 
 msgid "clear"
-msgstr ""
+msgstr "அழித்து விடு"
 
 msgid "clear graphic effects"
-msgstr ""
+msgstr "க்ராபிக்ஸ் எபெக்ட்டை அழித்து விடு"
 
 msgid "color %C is touching %C?"
-msgstr ""
+msgstr "%C கலர் %C யை தொடுகிரதா?"
 
 msgid "control"
-msgstr ""
+msgstr "கன்ட்ரொல்"
 
 msgid "costume #"
-msgstr ""
+msgstr "உடை #"
 
 msgid "delete %y of %L"
-msgstr ""
+msgstr "%y யின் %L அழித்து விடு"
 
 msgid "direction"
-msgstr ""
+msgstr "திசை"
 
 msgid "distance to %m"
-msgstr ""
+msgstr "%m வரை தூரம்"
 
 msgid "else"
-msgstr ""
+msgstr "அல்லது"
 
 msgid "forever"
-msgstr ""
+msgstr "எப்போதும்"
 
 msgid "forever if %b"
-msgstr ""
+msgstr "%b என்றால் எப்போதும்"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr ""
 
 msgid "go back %n layers"
-msgstr ""
+msgstr "%n அடுக்குகள் பின்னால் செல்லவும்"
 
 msgid "go to %m"
-msgstr ""
+msgstr "%m க்கு செல்லவும்"
 
 msgid "go to front"
-msgstr ""
+msgstr "முன் செல்லவும்"
 
 msgid "go to x:%n y:%n"
-msgstr ""
+msgstr "x:%n y:%n க்கு செல்லவும்"
 
 msgid "hide"
-msgstr ""
+msgstr "மறைக்கவும்"
 
 msgid "hide variable %v"
-msgstr ""
+msgstr "%v வேரியபிலை மறைக்கவும்"
 
 msgid "if %b"
-msgstr ""
+msgstr "%b என்றால்"
 
 msgid "if on edge, bounce"
 msgstr ""
@@ -189,334 +190,334 @@ msgid "insert %s at %i of %L"
 msgstr ""
 
 msgid "item %i of %L"
-msgstr ""
+msgstr "%L ன் %i வது ஐட்டெம்"
 
 msgid "join %s %s"
-msgstr ""
+msgstr "%s %s சேர்க்கவும்"
 
 msgid "key %k pressed?"
-msgstr ""
+msgstr "%k கீ அழுத்தி இருக்கிரதா"
 
 msgid "length of %L"
-msgstr ""
+msgstr "%L ன் நீளம்"
 
 msgid "length of %s"
-msgstr ""
+msgstr "%s ன் நீளம்"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "%s ன் %n வது எழுத்து"
 
 msgid "list"
-msgstr ""
+msgstr "பட்டியல்"
 
 msgid "looks"
-msgstr ""
+msgstr "தோற்றம்"
 
 msgid "loud?"
-msgstr ""
+msgstr " உரக்க"
 
 msgid "loudness"
-msgstr ""
+msgstr "உரப்பு"
 
 msgid "motion"
-msgstr ""
+msgstr "நகர்ச்சி"
 
 msgid "motor direction %W"
-msgstr ""
+msgstr "மோடார் திசை %W"
 
 msgid "motor off"
-msgstr ""
+msgstr "மோடார் ஆஃப்"
 
 msgid "motor on"
-msgstr ""
+msgstr "மோடார் ஆன்"
 
 msgid "motor on for %n secs"
-msgstr ""
+msgstr "மோடார் %n விநாடிகள் ஆன்"
 
 msgid "motor power %n"
-msgstr ""
+msgstr "மோடார் பவர் %n"
 
 msgid "mouse down?"
 msgstr ""
 
 msgid "mouse x"
-msgstr ""
+msgstr "மவுஸ் x"
 
 msgid "mouse y"
-msgstr ""
+msgstr "மவுஸ் y"
 
 msgid "move %n steps"
-msgstr ""
+msgstr "%n அடிகள் நகரவும்"
 
 msgid "next background"
-msgstr ""
+msgstr "அடுத்த பின்னணி"
 
 msgid "next costume"
-msgstr ""
+msgstr "அடுத்த உடை"
 
 msgid "not %b"
-msgstr ""
+msgstr "%b இல்லை"
 
 msgid "operators"
-msgstr ""
+msgstr "ஆபரேட்டர்கள்"
 
 msgid "pen"
-msgstr ""
+msgstr "பேனா"
 
 msgid "pen down"
-msgstr ""
+msgstr "பேனா கீழே"
 
 msgid "pen up"
-msgstr ""
+msgstr "பேனா மேலே"
 
 msgid "pick random %n to %n"
 msgstr ""
 
 msgid "play drum %D for %n beats"
-msgstr ""
+msgstr "%D டிரம்மை %n தாள தட்டு வாசிக்கவும்"
 
 msgid "play note %N for %n beats"
-msgstr ""
+msgstr "%N ஸ்வரம் %n தாள தட்டு வாசிக்கவும்"
 
 msgid "play sound %S"
-msgstr ""
+msgstr "%S ஒலிக்கவும்"
 
 msgid "play sound %S until done"
-msgstr ""
+msgstr "நிற்க்கும் வரை %S ஒலிக்கவும்"
 
 msgid "point in direction %d"
-msgstr ""
+msgstr "%d திசையை சுட்டிக்கட்டவும்"
 
 msgid "point towards %m"
-msgstr ""
+msgstr "%m நோக்கி சுட்டிக்கட்டவும்"
 
 msgid "repeat %n"
-msgstr ""
+msgstr "%n திரும்பச்செய்"
 
 msgid "repeat until %b"
-msgstr ""
+msgstr "%b வரை திரும்பச்செய்"
 
 msgid "replace item %i of %L with %s"
-msgstr ""
+msgstr "%L ன் %i ஐட்டெம்மிற்க்கு பதிலாக %s"
 
 msgid "reset timer"
-msgstr ""
+msgstr "டைமெர் ரீசெட்"
 
 msgid "rest for %n beats"
-msgstr ""
+msgstr "%n தாள தட்டு காத்திருக்கவும்"
 
 msgid "round %n"
 msgstr ""
 
 msgid "say %s"
-msgstr ""
+msgstr "%s சொல்"
 
 msgid "say %s for %n secs"
-msgstr ""
+msgstr "%n விநாடிகள் %s say"
 
 msgid "sensing"
-msgstr ""
+msgstr "உணருதல்"
 
 msgid "sensor %h?"
-msgstr ""
+msgstr " %h"
 
 msgid "set %g effect to %n"
-msgstr ""
+msgstr "%g எஃபெக்ட் %n ஆக்கவும்"
 
 msgid "set %v to %n"
-msgstr ""
+msgstr "%v %n ஆக்கவும்"
 
 msgid "set instrument to %I"
-msgstr ""
+msgstr "இசை கருவி %I ஆக்கவும்"
 
 msgid "set pen color to %c"
-msgstr ""
+msgstr "பேனா நிரம் %c ஆக்கவும்"
 
 msgid "set pen color to %n"
-msgstr ""
+msgstr "பேனா நிரம் %n ஆக்கவும்"
 
 msgid "set pen shade to %n"
-msgstr ""
+msgstr "பேனா ஷேட் %n ஆக்கவும்"
 
 msgid "set pen size to %n"
-msgstr ""
+msgstr "பேனா கனம் %n ஆக்கவும்"
 
 msgid "set size to %n%"
-msgstr ""
+msgstr "கனம் %n% ஆக்கவும்"
 
 msgid "set tempo to %n bpm"
-msgstr ""
+msgstr "தாளம் %n bpm ஆக்கவும்"
 
 msgid "set volume to %n%"
-msgstr ""
+msgstr "வால்யூம் %n% ஆக்கவும்"
 
 msgid "set x to %n"
-msgstr ""
+msgstr "x %n ஆக்கவும்"
 
 msgid "set y to %n"
-msgstr ""
+msgstr "y %n ஆக்கவும்"
 
 msgid "show"
-msgstr ""
+msgstr "காண்பி"
 
 msgid "show variable %v"
-msgstr ""
+msgstr "%v வேரியபிலை காண்பி "
 
 msgid "size"
-msgstr ""
+msgstr "பரிமாணம்"
 
 msgid "sound"
-msgstr ""
+msgstr "ஒலி"
 
 msgid "stamp"
-msgstr ""
+msgstr " அச்சு"
 
 msgid "stop all"
-msgstr ""
+msgstr "எல்லவற்றயும்  நிருத்து"
 
 msgid "stop all sounds"
-msgstr ""
+msgstr "எல்லா ஒலிகளையும் நிருத்து"
 
 msgid "stop script"
-msgstr ""
+msgstr "ச்கிரிப்ட்டை நிருத்து"
 
 msgid "switch to background %l"
-msgstr ""
+msgstr "பின்னணியை %l மாற்றவும்"
 
 msgid "switch to costume %l"
-msgstr ""
+msgstr "%l  உடைக்கு மாற்று"
 
 msgid "tempo"
-msgstr ""
+msgstr "தாளம்"
 
 msgid "think %s"
-msgstr ""
+msgstr "%s யோசி"
 
 msgid "think %s for %n secs"
-msgstr ""
+msgstr "%n விநாடிகள் %s யோசி"
 
 msgid "timer"
-msgstr ""
+msgstr "டைமெர்"
 
 msgid "touching %m?"
-msgstr ""
+msgstr "%m தொடுகிரதா"
 
 msgid "touching color %C?"
 msgstr ""
 
 msgid "turn %n degrees"
-msgstr ""
+msgstr "%n டிகிரி திரும்பு"
 
 msgid "variables"
-msgstr ""
+msgstr "வேரியபில்கள் "
 
 msgid "volume"
-msgstr ""
+msgstr "வால்யூம"
 
 msgid "wait %n secs"
-msgstr ""
+msgstr "%n விநாடிகள் காத்திருக்கவும்"
 
 msgid "wait until %b"
-msgstr ""
+msgstr "%b வரை காத்திருக்கவும்"
 
 msgid "when %k key pressed"
-msgstr ""
+msgstr "%k கீ அழுத்தும்பொழுது"
 
 msgid "when %m clicked"
-msgstr ""
+msgstr "%m க்லிக் செய்யும்பொழுது"
 
 msgid "when I receive %e"
-msgstr ""
+msgstr "%e பெறுகையில்"
 
 msgid "x position"
-msgstr ""
+msgstr "x இடம்"
 
 msgid "y position"
-msgstr ""
+msgstr "y இடம்"
 
-############################################
+# ###########################################
 # USER INTERFACE
-############################################
+# ###########################################
 msgid "(empty)"
-msgstr ""
+msgstr "காலி"
 
 msgid "1 script"
 msgstr ""
 
 msgid "About Scratch"
-msgstr ""
+msgstr "ச்கிராட்சை பற்றி:"
 
 msgid "About this project:"
-msgstr ""
+msgstr "இந்த பிராஜெக்ட் பற்றி:"
 
 msgid "abs"
 msgstr ""
 
 msgid "add comment"
-msgstr ""
+msgstr "கருத்தைத் தெரிவி"
 
 msgid "add comment here"
-msgstr ""
+msgstr "இங்கே கருத்தைத் தெரிவி"
 
 msgid "all"
-msgstr ""
+msgstr "எல்லாம்"
 
 msgid "and"
-msgstr ""
+msgstr "மற்றும்"
 
 msgid "Animation"
-msgstr ""
+msgstr "அனிமேஷன்"
 
 msgid "any"
-msgstr ""
+msgstr "எப்படியோ"
 
 msgid "Art"
-msgstr ""
+msgstr " கலை"
 
 msgid "background"
-msgstr ""
+msgstr "பின்னணி"
 
 msgid "backgrounds"
-msgstr ""
+msgstr "பின்னணி"
 
 msgid "Backgrounds"
-msgstr ""
+msgstr "பின்னணிகள்"
 
 msgid "brightness"
-msgstr ""
+msgstr "ஒளிர்வு"
 
 msgid "Brush size: "
-msgstr ""
+msgstr "பிரஷ் அளவு:"
 
 msgid "button"
-msgstr ""
+msgstr "பட்டன்"
 
 msgid "button pressed"
-msgstr ""
+msgstr "விசையை அழுத்தும்போது"
 
 msgid "Camera"
-msgstr ""
+msgstr "காமெரா"
 
 msgid "can rotate"
-msgstr ""
+msgstr "சுழற்ற முடியும்"
 
 msgid "cancel"
-msgstr ""
+msgstr "கென்செல்"
 
 msgid "Cancel"
-msgstr ""
+msgstr "கென்செல்"
 
 msgid "Choose a folder"
-msgstr ""
+msgstr "ஃபோல்டெர் தேர்வு செய்"
 
 msgid "Choose new sprite from file"
-msgstr ""
+msgstr "புதிய ச்பிரைட் தேர்வு செய்"
 
 msgid "clean up"
-msgstr ""
+msgstr "சுத்தம் செய்"
 
 msgid "Clear"
-msgstr ""
+msgstr "அழி"
 
 msgid "Clear canvas"
 msgstr ""
@@ -537,7 +538,7 @@ msgid "Close sound recorder?"
 msgstr ""
 
 msgid "color"
-msgstr ""
+msgstr " நிறம்"
 
 msgid "Compress Images"
 msgstr ""
@@ -549,25 +550,25 @@ msgid "Compress sounds and images"
 msgstr ""
 
 msgid "Computer"
-msgstr ""
+msgstr "கணினி"
 
 msgid "connected"
-msgstr ""
+msgstr "இணைக்கப்பட்டது"
 
 msgid "Connecting to "
 msgstr ""
 
 msgid "Copy"
-msgstr ""
+msgstr "நகல்"
 
 msgid "costume"
-msgstr ""
+msgstr "உடை"
 
 msgid "costumes"
-msgstr ""
+msgstr "உடைகள்"
 
 msgid "Costumes"
-msgstr ""
+msgstr "உடைகள்"
 
 msgid "Could not read"
 msgstr ""
@@ -579,7 +580,7 @@ msgid "Could not write file"
 msgstr ""
 
 msgid "Create account"
-msgstr ""
+msgstr "கணக்கு உருவாக்க"
 
 msgid "Create an empty project"
 msgstr ""
@@ -588,25 +589,25 @@ msgid "Data sent. Waiting for response..."
 msgstr ""
 
 msgid "delete"
-msgstr ""
+msgstr "அழி"
 
 msgid "Delete"
-msgstr ""
+msgstr "அழி"
 
 msgid "Delete a list"
-msgstr ""
+msgstr "பட்டியலை அழி"
 
 msgid "Delete a variable"
-msgstr ""
+msgstr "வேரியபில் அழி"
 
 msgid "Delete this background"
-msgstr ""
+msgstr "பின்னணியை நீக்கு"
 
 msgid "Delete this costume"
 msgstr ""
 
 msgid "Delete this sound"
-msgstr ""
+msgstr "இவ்வொலியை நீக்கு"
 
 msgid "Delete this sprite"
 msgstr ""
@@ -618,22 +619,22 @@ msgid "disable remote sensor connections"
 msgstr ""
 
 msgid "distance"
-msgstr ""
+msgstr " தொலைவு"
 
 msgid "Documents"
 msgstr ""
 
 msgid "don't rotate"
-msgstr ""
+msgstr "சுழற்றாதே"
 
 msgid "Don't Save"
-msgstr ""
+msgstr "சேமிக்காதே"
 
 msgid "Done"
-msgstr ""
+msgstr "முடிந்தது"
 
 msgid "down"
-msgstr ""
+msgstr "கீழே "
 
 msgid "down arrow"
 msgstr ""
@@ -648,16 +649,16 @@ msgid "draggable on website?"
 msgstr ""
 
 msgid "duplicate"
-msgstr ""
+msgstr "நகல் செய்"
 
 msgid "Duplicate"
-msgstr ""
+msgstr "நகல் செய்"
 
 msgid "edge"
-msgstr ""
+msgstr "முனை"
 
 msgid "Edit"
-msgstr ""
+msgstr "திருத்து"
 
 msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
 msgstr ""
@@ -669,16 +670,16 @@ msgid "Enter presentation mode"
 msgstr ""
 
 msgid "Eraser"
-msgstr ""
+msgstr "அழிப்பான்"
 
 msgid "Eraser size"
-msgstr ""
+msgstr " அழிப்பான் அளவு"
 
 msgid "Error!"
-msgstr ""
+msgstr "பிழை!!"
 
 msgid "Examples"
-msgstr ""
+msgstr "எடுத்துக்காட்டு"
 
 msgid "Exit presentation"
 msgstr ""
@@ -690,13 +691,13 @@ msgid "export"
 msgstr ""
 
 msgid "Export Background"
-msgstr ""
+msgstr "பின்னணியை ஏற்றுமதி செய் "
 
 msgid "Export Costume"
 msgstr ""
 
 msgid "Export failed"
-msgstr ""
+msgstr "ஏற்றுமதி தோல்வியடைந்தது"
 
 msgid "Export Sound"
 msgstr ""
@@ -720,22 +721,22 @@ msgid "Eyedropper tool (select a color)"
 msgstr ""
 
 msgid "Failed:"
-msgstr ""
+msgstr "தோல்வியடைந்தது"
 
 msgid "false"
-msgstr ""
+msgstr "தவறு"
 
 msgid "File"
-msgstr ""
+msgstr "கோப்பு "
 
 msgid "File not found"
-msgstr ""
+msgstr "பைஃல் கிடைகவில்லை"
 
 msgid "Fill tool (fill areas with color or gradient)"
 msgstr ""
 
 msgid "first"
-msgstr ""
+msgstr " முதல்"
 
 msgid "fisheye"
 msgstr ""
@@ -771,10 +772,10 @@ msgid "Getting Started"
 msgstr ""
 
 msgid "ghost"
-msgstr ""
+msgstr "பேய்"
 
 msgid "Go To Scratch Website"
-msgstr ""
+msgstr "சஃராச் இனையத்திற்கு செல்"
 
 msgid "grab screen region for new costume"
 msgstr ""
@@ -783,28 +784,28 @@ msgid "grab screen region for new sprite"
 msgstr ""
 
 msgid "Grow"
-msgstr ""
+msgstr "விரிவாக்கு"
 
 msgid "Grow sprite"
 msgstr ""
 
 msgid "hello "
-msgstr ""
+msgstr "வணக்கம்"
 
 msgid "Hello!"
-msgstr ""
+msgstr "வணக்கம்!!"
 
 msgid "help"
-msgstr ""
+msgstr "உதவி"
 
 msgid "Help"
-msgstr ""
+msgstr "உதவி"
 
 msgid "Help Page"
-msgstr ""
+msgstr "உதவி பக்கம்"
 
 msgid "Help Screens"
-msgstr ""
+msgstr "உதவி திரை"
 
 msgid "Hide Motor Blocks"
 msgstr ""
@@ -816,10 +817,10 @@ msgid "Hmm..."
 msgstr ""
 
 msgid "Home"
-msgstr ""
+msgstr "வீடு"
 
 msgid "Images compressed"
-msgstr ""
+msgstr "சுருக்கப்ட்ட படங்கள்"
 
 msgid "import"
 msgstr ""
@@ -864,31 +865,31 @@ msgid "kbytes"
 msgstr ""
 
 msgid "Language"
-msgstr ""
+msgstr "மொழி"
 
 msgid "large readout"
 msgstr ""
 
 msgid "last"
-msgstr ""
+msgstr "இறுதி"
 
 msgid "left"
-msgstr ""
+msgstr "இடது"
 
 msgid "left arrow"
 msgstr ""
 
 msgid "length"
-msgstr ""
+msgstr "நீள அளவு"
 
 msgid "light"
-msgstr ""
+msgstr "லேசான"
 
 msgid "Line tool (draw lines)"
 msgstr ""
 
 msgid "List name?"
-msgstr ""
+msgstr "பட்டியலின் பெயர்"
 
 msgid "Low"
 msgstr ""
@@ -897,73 +898,73 @@ msgid "Lowest (smallest)"
 msgstr ""
 
 msgid "Make a list"
-msgstr ""
+msgstr "பட்டியலிடு"
 
 msgid "Make a variable"
-msgstr ""
+msgstr "வேரியபில் செய்"
 
 msgid "Max:"
-msgstr ""
+msgstr "அதிகபட்சம்:"
 
 msgid "meow"
-msgstr ""
+msgstr "மியாவ்"
 
 msgid "Message name:"
 msgstr ""
 
 msgid "Min:"
-msgstr ""
+msgstr "குறைந்தபட்சம்:"
 
 msgid "mod"
-msgstr ""
+msgstr "மோட்"
 
 msgid "more"
-msgstr ""
+msgstr "இன்னும்"
 
 msgid "More tags:"
-msgstr ""
+msgstr "அதிக டாகுகள்:"
 
 msgid "mosaic"
-msgstr ""
+msgstr "மொசைக்"
 
 msgid "mouse x:"
-msgstr ""
+msgstr "மவுஸ் x:"
 
 msgid "mouse y:"
-msgstr ""
+msgstr "மவுஸ் y:"
 
 msgid "mouse-pointer"
-msgstr ""
+msgstr "மவுஸ்-பாயின்டெர்"
 
 msgid "Move"
-msgstr ""
+msgstr "நகர்த்து"
 
 msgid "Music"
-msgstr ""
+msgstr "இசை"
 
 msgid "My Projects"
 msgstr ""
 
 msgid "new"
-msgstr ""
+msgstr "புதிய"
 
 msgid "New"
-msgstr ""
+msgstr "புதிய புதிய பின்னணி"
 
 msgid "New background:"
 msgstr ""
 
 msgid "New costume:"
-msgstr ""
+msgstr "புதிய ஆடை"
 
 msgid "New file name?"
-msgstr ""
+msgstr "புதிய கோப்பின் பெயர்?"
 
 msgid "New Filename:"
-msgstr ""
+msgstr "புதிய கோப்பின் பெயர்:"
 
 msgid "New sound:"
-msgstr ""
+msgstr "புதிய ஒலி:"
 
 msgid "New Sprite"
 msgstr ""
@@ -972,13 +973,13 @@ msgid "New sprite:"
 msgstr ""
 
 msgid "No"
-msgstr ""
+msgstr "இல்லை"
 
 msgid "No MIDI ports currently available."
 msgstr ""
 
 msgid "No motion blocks"
-msgstr ""
+msgstr "எந்த இயக்க தொகுதிகளும் இல்லை"
 
 msgid "no scripts"
 msgstr ""
@@ -990,25 +991,25 @@ msgid "No variables."
 msgstr ""
 
 msgid "Normal"
-msgstr ""
+msgstr "இயல்பு"
 
 msgid "normal readout"
 msgstr ""
 
 msgid "Off"
-msgstr ""
+msgstr "ஆஃப்"
 
 msgid "OK"
-msgstr ""
+msgstr "சரி"
 
 msgid "On"
-msgstr ""
+msgstr "ஆன்"
 
 msgid "only face left-right"
 msgstr ""
 
 msgid "Open"
-msgstr ""
+msgstr "திறக்க"
 
 msgid "Open a Scratch project"
 msgstr ""
@@ -1017,10 +1018,10 @@ msgid "Open Project"
 msgstr ""
 
 msgid "or"
-msgstr ""
+msgstr "அல்லது"
 
 msgid "Paint"
-msgstr ""
+msgstr "சாயம்"
 
 msgid "Paint Editor"
 msgstr ""
@@ -1029,16 +1030,16 @@ msgid "Paint new sprite"
 msgstr ""
 
 msgid "Paintbrush"
-msgstr ""
+msgstr "வண்ணக்கோல்"
 
 msgid "Password:"
-msgstr ""
+msgstr "அடையாளச் சொல்"
 
 msgid "Percent? (100 gives original size)"
-msgstr ""
+msgstr "சதவீதம்??? (100 அசல் அளவைத் தரும்)"
 
 msgid "Pictures"
-msgstr ""
+msgstr "படங்கள்"
 
 msgid "pixelate"
 msgstr ""
@@ -1047,7 +1048,7 @@ msgid "play"
 msgstr ""
 
 msgid "Please enter a number"
-msgstr ""
+msgstr "எண்ணை குறிப்பிடு"
 
 msgid "pop"
 msgstr ""
@@ -1077,28 +1078,28 @@ msgid "Projects"
 msgstr ""
 
 msgid "Quit"
-msgstr ""
+msgstr "செய்வதை நிறுத்து"
 
 msgid "Quit Scratch"
-msgstr ""
+msgstr "சஃக்ராச்சை விட்டு வெலியேறு"
 
 msgid "Reading"
 msgstr ""
 
 msgid "record"
-msgstr ""
+msgstr "பதிவு செய்க"
 
 msgid "Record"
-msgstr ""
+msgstr "பதிவு செய்க"
 
 msgid "recording"
-msgstr ""
+msgstr "பதிவு செய்கிறது"
 
 msgid "Rectangle tool (draw outlined or filled rectangle or square)"
 msgstr ""
 
 msgid "Redo"
-msgstr ""
+msgstr "மறுபடியும் செய்க"
 
 msgid "Reference Guide"
 msgstr ""
@@ -1110,19 +1111,19 @@ msgid "Remove viewer from stage"
 msgstr ""
 
 msgid "resistance"
-msgstr ""
+msgstr "எதிர்ப்பு "
 
 msgid "resize this sprite"
 msgstr ""
 
 msgid "reverse"
-msgstr ""
+msgstr "தலைகீழ் "
 
 msgid "right"
-msgstr ""
+msgstr "வலது பக்கம்"
 
 msgid "right arrow"
-msgstr ""
+msgstr "வலது அம்புக்குறி"
 
 msgid "Rotate clock-wise"
 msgstr ""
@@ -1134,22 +1135,22 @@ msgid "rotate this sprite"
 msgstr ""
 
 msgid "Rotation degrees?"
-msgstr ""
+msgstr "சுழற்றும் கோணம்???  "
 
 msgid "Save"
-msgstr ""
+msgstr "சேமி"
 
 msgid "Save a copy of the current project"
-msgstr ""
+msgstr "தற்போதைய திட்ட நகலை சேமிக்கவும்"
 
 msgid "Save As"
-msgstr ""
+msgstr "எனச் சேமி "
 
 msgid "Save changes before quitting?"
-msgstr ""
+msgstr "வெளியேற முன் மாற்றங்களை சேமிக்க?"
 
 msgid "Save failed"
-msgstr ""
+msgstr "சேமிக்க தவறிவிட்டது"
 
 msgid "save picture of scripts"
 msgstr ""
@@ -1158,7 +1159,7 @@ msgid "save picture of stage..."
 msgstr ""
 
 msgid "Save Project"
-msgstr ""
+msgstr "திட்டத்தை சேமிக்க"
 
 msgid "Save Scripts Snapshot"
 msgstr ""
@@ -1167,13 +1168,13 @@ msgid "Save Stage Shot"
 msgstr ""
 
 msgid "Save the current project"
-msgstr ""
+msgstr "நடப்பு திட்டப்பணியை சேமிக்க"
 
 msgid "Save the current project?"
-msgstr ""
+msgstr "நடப்பு திட்டப்பணியை சேமிக்க?"
 
 msgid "Save this project"
-msgstr ""
+msgstr "இந்த திட்டத்தை சேமிக்க"
 
 msgid "Scripts"
 msgstr ""
@@ -1188,7 +1189,7 @@ msgid "Set costume center"
 msgstr ""
 
 msgid "Set language"
-msgstr ""
+msgstr "மொழியை அமைக்க"
 
 msgid "Set rotation center"
 msgstr ""
@@ -1200,7 +1201,7 @@ msgid "set slider min and max"
 msgstr ""
 
 msgid "Share"
-msgstr ""
+msgstr "பகிர"
 
 msgid "Share this project"
 msgstr ""
@@ -1215,7 +1216,7 @@ msgid "show ScratchBoard watcher"
 msgstr ""
 
 msgid "Shrink"
-msgstr ""
+msgstr "சுருக்கு"
 
 msgid "Shrink sprite"
 msgstr ""
@@ -1233,19 +1234,19 @@ msgid "Slider range:"
 msgstr ""
 
 msgid "Sound quality:"
-msgstr ""
+msgstr "ஒலியின் தரம்"
 
 msgid "Sound Recorder"
-msgstr ""
+msgstr " ஒலியை பதிவுசெய்"
 
 msgid "Sounds"
-msgstr ""
+msgstr "ஒலி"
 
 msgid "Sounds compressed"
 msgstr ""
 
 msgid "space"
-msgstr ""
+msgstr "இடைவெளி"
 
 msgid "Sprite"
 msgstr ""
@@ -1254,10 +1255,10 @@ msgid "Sprites"
 msgstr ""
 
 msgid "sqrt"
-msgstr ""
+msgstr "இருபடி மூலம் / வர்க்க மூலம்"
 
 msgid "Stage"
-msgstr ""
+msgstr "மேடை"
 
 msgid "Stage selected:"
 msgstr ""
@@ -1272,22 +1273,22 @@ msgid "Start Single Stepping"
 msgstr ""
 
 msgid "stop"
-msgstr ""
+msgstr "நிறுத்து"
 
 msgid "Stop everything"
-msgstr ""
+msgstr "அனைத்தயும் நிறுத்து"
 
 msgid "Stop Single Stepping"
 msgstr ""
 
 msgid "Story"
-msgstr ""
+msgstr "கதை"
 
 msgid "Support Site"
-msgstr ""
+msgstr "இணையதள ஆதரவு"
 
 msgid "Switch colors"
-msgstr ""
+msgstr "நிறத்தை மாற்ற"
 
 msgid "Switch to full stage"
 msgstr ""
@@ -1299,7 +1300,7 @@ msgid "Switch to small stage"
 msgstr ""
 
 msgid "Tags:"
-msgstr ""
+msgstr "குறிச்சொல்"
 
 msgid "Text tool (edit text layer)"
 msgstr ""
@@ -1308,67 +1309,68 @@ msgid "That variable name is already in use"
 msgstr ""
 
 msgid "that way"
-msgstr ""
+msgstr "அந்த வழி"
 
 msgid "The file name already exists. Overwrite existing file?"
 msgstr ""
+"கோப்பின் பெயர் ஏற்கனவே உள்ளது. ஏற்கனவே இருக்கும் கோப்பின் மேலெழுதுவும்?"
 
 msgid "thing"
-msgstr ""
+msgstr " பொருள் "
 
 msgid "this way"
-msgstr ""
+msgstr "இந்த வழி"
 
 msgid "tilt"
-msgstr ""
+msgstr "சாய்"
 
 msgid "true"
-msgstr ""
+msgstr "சரி"
 
 msgid "Turbo speed"
-msgstr ""
+msgstr "அதிக வேகம்"
 
 msgid "turn into new sprite"
 msgstr ""
 
 msgid "Undelete"
-msgstr ""
+msgstr "மீட்டெடுக்க"
 
 msgid "Undo"
-msgstr ""
+msgstr "திரும்பப்பெறுக "
 
 msgid "up"
-msgstr ""
+msgstr "மேலே"
 
 msgid "up arrow"
-msgstr ""
+msgstr "மேல் அம்புக்குறி"
 
 msgid "Updating thumbnails"
 msgstr ""
 
 msgid "Upload succeeded!"
-msgstr ""
+msgstr "வெற்றிகரமான மேலேற்று "
 
 msgid "Upload to Scratch Server"
-msgstr ""
+msgstr "scratch'ன் சர்வர்க்கு பதிவேற்றம் செய்க"
 
 msgid "Uploading"
-msgstr ""
+msgstr "பதிவேற்றுகிறது"
 
 msgid "Variable name?"
-msgstr ""
+msgstr "மாறிழியின் பெயர் ?"
 
 msgid "View on stage"
 msgstr ""
 
 msgid "What's your name?"
-msgstr ""
+msgstr "உங்கள் பெயர் என்ன ?"
 
 msgid "whirl"
-msgstr ""
+msgstr "வேகமாக சுழற்று"
 
 msgid "world"
-msgstr ""
+msgstr "உலகம்"
 
 msgid "Write Multiple Project Summaries"
 msgstr ""
@@ -1377,7 +1379,7 @@ msgid "Write Project Summary"
 msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "ஆம்"
 
 msgid "Your project is now online at"
 msgstr ""
@@ -1386,148 +1388,148 @@ msgid "Your Scratch website login name:"
 msgstr ""
 
 msgid "Zoom in"
-msgstr ""
+msgstr "பெரிதாக்கு"
 
 msgid "Zoom out"
-msgstr ""
+msgstr "அவுட் பெரிதாக்கவும்"
 
-############################################
+# ###########################################
 # MIDI INSTRUMENTS
-############################################
+# ###########################################
 msgid "Accordion"
-msgstr ""
+msgstr "அக்கார்டியண்  (இசை கருவி )"
 
 msgid "Acoustic Bass"
-msgstr ""
+msgstr "ஒலி பாஸ்"
 
 msgid "Acoustic Bass Drum"
-msgstr ""
+msgstr "அகாச்டிக் பாச் டரம் (இசை கருவி)"
 
 msgid "Acoustic Grand"
-msgstr ""
+msgstr " அக்காச்டிக் கிரான்ட் (இசை கருவி )"
 
 msgid "Acoustic Snare"
-msgstr ""
+msgstr " அக்காச்டிக் சினார்  (இசை கருவி )"
 
 msgid "Agogo"
-msgstr ""
+msgstr "அகோகோ (இசை கருவி )"
 
 msgid "Alto Sax"
-msgstr ""
+msgstr "ஆல்டோ ஸக்ஸ் (இசை கருவி)"
 
 msgid "Applause"
-msgstr ""
+msgstr "கரகோசம் "
 
 msgid "Bagpipe"
-msgstr ""
+msgstr "பேக்பைப் (இசை கருவி )"
 
 msgid "Banjo"
-msgstr ""
+msgstr "பான்ஜோ (இசை கருவி )"
 
 msgid "Baritone Sax"
-msgstr ""
+msgstr "பாரிடோண் ஸக்ஸ் (இசை கருவி)"
 
 msgid "Bass Drum 1"
-msgstr ""
+msgstr "பாச் ட்ரம் 1 (இசை கருவி )"
 
 msgid "Bassoon"
-msgstr ""
+msgstr "பாச்சூன் (இசை கருவி )"
 
 msgid "Bird Tweet"
-msgstr ""
+msgstr " பறவை ஒலி"
 
 msgid "Blown Bottle"
-msgstr ""
+msgstr "ப்லொன் பாட்டில் (இசை கருவி )"
 
 msgid "Brass Section"
-msgstr ""
+msgstr "ப்ராசஷ் செட்க்சன் (இசை கருவி )"
 
 msgid "Breath Noise"
-msgstr ""
+msgstr "மூச்சு ஒலி"
 
 msgid "Bright Acoustic"
-msgstr ""
+msgstr "பிரைட் அகாச்டிக் (இசை கருவி)"
 
 msgid "Cabasa"
-msgstr ""
+msgstr "கபாசா (இசை கருவி)"
 
 msgid "Celesta"
-msgstr ""
+msgstr "செலெச்டா(இசை கருவி)"
 
 msgid "Cello"
-msgstr ""
+msgstr "செல்லோ(இசை கருவி)"
 
 msgid "Chinese Cymbal"
-msgstr ""
+msgstr "சைநீஸ் சிம்பல்(இசை கருவி)"
 
 msgid "Choir Aahs"
-msgstr ""
+msgstr "காயர் ஆஹ்ஸ் (இசை கருவி)"
 
 msgid "Church Organ"
-msgstr ""
+msgstr "சர்ச் ஆர்கன் (இசை கருவி)"
 
 msgid "Clarinet"
-msgstr ""
+msgstr "க்லேர்னெட் (இசை கருவி)"
 
 msgid "Claves"
-msgstr ""
+msgstr "க்லேவ்ஸ் (இசை கருவி)"
 
 msgid "Clavinet"
-msgstr ""
+msgstr "க்லேவினெட் (இசை கருவி)"
 
 msgid "Closed Hi-Hat"
-msgstr ""
+msgstr "க்லோஸட் ஹை ஹாட் (இசை கருவி)"
 
 msgid "Contrabass"
-msgstr ""
+msgstr "கான்ட்ராபாஸ் (இசை கருவி)"
 
 msgid "Cowbell"
-msgstr ""
+msgstr "கவ்பெல் (இசை கருவி)"
 
 msgid "Crash Cymbal 1"
-msgstr ""
+msgstr "க்ராஸ் ஸிம்பல் 1 (இசை கருவி)"
 
 msgid "Crash Cymbal 2"
-msgstr ""
+msgstr "க்ராஸ் ஸிம்பல் 2 (இசை கருவி)"
 
 msgid "Distortion Guitar"
-msgstr ""
+msgstr "டிச்டார்சன் கிடார் (இசை கருவி)"
 
 msgid "Drawbar Organ"
-msgstr ""
+msgstr "ட்ராபார் ஆர்கன் (இசை கருவி)"
 
 msgid "Dulcimer"
-msgstr ""
+msgstr "டுள்சிமர் (இசை கருவி)"
 
 msgid "Electric Bass (finger)"
-msgstr ""
+msgstr "இலக்ட்ரிக் பாஸ் 1 (இசை கருவி)"
 
 msgid "Electric Bass (pick)"
-msgstr ""
+msgstr "இலக்ட்ரிக் பாஸ் 2 (இசை கருவி"
 
 msgid "Electric Clean Guitar"
-msgstr ""
+msgstr "இலக்ட்ரிக் க்லீன் கிடார்(இசை கருவி)"
 
 msgid "Electric Grand"
-msgstr ""
+msgstr "இலக்ட்ரிக் க்ரான்ட் (இசை கருவி)"
 
 msgid "Electric Jazz Guitar"
-msgstr ""
+msgstr "இலக்ட்ரிக் ஜாஸ் கிடார் (இசை கருவி)"
 
 msgid "Electric Muted Guitar"
-msgstr ""
+msgstr "இலக்ட்ரிக் ம்யுடட் கிடார் (இசை கருவி)"
 
 msgid "Electric Piano 1"
-msgstr ""
+msgstr "இலக்ட்ரிக் பியானோ 1 (இசை கருவி)"
 
 msgid "Electric Piano 2"
-msgstr ""
+msgstr "இலக்ட்ரிக் பியானோ 2 (இசை கருவி)"
 
 msgid "Electric Snare"
-msgstr ""
+msgstr "இலக்ட்ரிக் ஸ்னேர் (இசை கருவி)"
 
 msgid "English Horn"
-msgstr ""
+msgstr "இன்கிலிஸ் ஹாரன் (இசை கருவி)"
 
 msgid "FX 1 (rain)"
 msgstr ""
@@ -1554,10 +1556,10 @@ msgid "FX 8 (sci-fi)"
 msgstr ""
 
 msgid "Fiddle"
-msgstr ""
+msgstr "ஃபிடில்"
 
 msgid "Flute"
-msgstr ""
+msgstr "புல்லாங்குழல் "
 
 msgid "French Horn"
 msgstr ""
@@ -1575,10 +1577,10 @@ msgid "Guitar Harmonics"
 msgstr ""
 
 msgid "Gunshot"
-msgstr ""
+msgstr "துப்பாக்கிச் சூடு"
 
 msgid "Hand Clap"
-msgstr ""
+msgstr "கைத்தட்டு "
 
 msgid "Harmonica"
 msgstr ""
@@ -1587,7 +1589,7 @@ msgid "Harpsichord"
 msgstr ""
 
 msgid "Helicopter"
-msgstr ""
+msgstr " காற்றாடி விமானம்"
 
 msgid "Hi Bongo"
 msgstr ""
@@ -1647,7 +1649,7 @@ msgid "Long Guiro"
 msgstr ""
 
 msgid "Long Whistle"
-msgstr ""
+msgstr "சீட்டியடி"
 
 msgid "Low Agogo"
 msgstr ""
@@ -1683,7 +1685,7 @@ msgid "Melodic Tom"
 msgstr ""
 
 msgid "Music Box"
-msgstr ""
+msgstr " இசை பெட்டி"
 
 msgid "Mute Cuica"
 msgstr ""
@@ -1788,7 +1790,7 @@ msgid "Rock Organ"
 msgstr ""
 
 msgid "Seashore"
-msgstr ""
+msgstr "கடற்கரை"
 
 msgid "Shakuhachi"
 msgstr ""
@@ -1803,7 +1805,7 @@ msgid "Short Guiro"
 msgstr ""
 
 msgid "Short Whistle"
-msgstr ""
+msgstr "சீட்டி"
 
 msgid "Side Stick"
 msgstr ""
@@ -1887,34 +1889,34 @@ msgid "Trombone"
 msgstr ""
 
 msgid "Trumpet"
-msgstr ""
+msgstr "ட்ரம்பெட்"
 
 msgid "Tuba"
-msgstr ""
+msgstr "டூபா"
 
 msgid "Tubular Bells"
-msgstr ""
+msgstr "டுபுலார் பெல்"
 
 msgid "Vibraphone"
-msgstr ""
+msgstr "விப்ராஃபோன்"
 
 msgid "Vibraslap"
-msgstr ""
+msgstr "விப்ராசிலாப்"
 
 msgid "Viola"
-msgstr ""
+msgstr "வயொலா"
 
 msgid "Violin"
-msgstr ""
+msgstr "வயலின்"
 
 msgid "Voice Oohs"
-msgstr ""
+msgstr "குரல் Oohs"
 
 msgid "Whistle"
-msgstr ""
+msgstr "விசில்"
 
 msgid "Woodblock"
-msgstr ""
+msgstr "வுட்பிலாக்"
 
 msgid "Xylophone"
-msgstr ""
+msgstr "சைலொஃபோன்"

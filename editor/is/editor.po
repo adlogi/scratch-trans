@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:53+0200\n"
-"PO-Revision-Date: 2013-05-16 23:32+0200\n"
+"PO-Revision-Date: 2013-08-16 18:51+0200\n"
 "Last-Translator: Stefan Einar <stefaneinar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: is\n"
@@ -215,7 +215,7 @@ msgid "Claves"
 msgstr "Taktstangir"
 
 msgid "cleanup"
-msgstr ""
+msgstr "hreinsa til"
 
 msgid "Clear"
 msgstr "Hreinsa"
@@ -390,12 +390,11 @@ msgid "Erase"
 msgstr "Eyða"
 
 # 92%
-#, fuzzy
 msgid "Eraser width"
-msgstr "Þvermál strokleðurs:"
+msgstr "Þvermál strokleðurs"
 
 msgid "Error!"
-msgstr ""
+msgstr "Villa!"
 
 msgid "export"
 msgstr ""
@@ -437,7 +436,7 @@ msgid "Flying"
 msgstr "Fljúgandi"
 
 msgid "Font:"
-msgstr ""
+msgstr "Leturgerð:"
 
 msgid "For all sprites"
 msgstr "Fyrir allar teikningar"
@@ -473,7 +472,7 @@ msgid "hide"
 msgstr "fela"
 
 msgid "High C"
-msgstr ""
+msgstr "Háa C"
 
 msgid "hour"
 msgstr "klst"
@@ -517,7 +516,7 @@ msgid "left-right"
 msgstr "hægri/vinstri"
 
 msgid "length"
-msgstr ""
+msgstr "lengd"
 
 msgid "Library"
 msgstr "Safn"
@@ -532,9 +531,8 @@ msgid "Line"
 msgstr "Lína"
 
 # 90%
-#, fuzzy
 msgid "Line width"
-msgstr "Linubreidd:"
+msgstr "Linubreidd"
 
 # 75%
 msgid "list"
@@ -559,7 +557,7 @@ msgid "loudness"
 msgstr "hljóðstyrkur"
 
 msgid "Low C"
-msgstr ""
+msgstr "Lága C"
 
 msgid "Make a Block"
 msgstr "Smíða blokk"
@@ -586,10 +584,10 @@ msgid "message1"
 msgstr "skilaboð1"
 
 msgid "Microphone Volume:"
-msgstr ""
+msgstr "Hljóðstyrkur hljóðnema:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "Miðju C"
 
 msgid "Min"
 msgstr "Min"
@@ -676,7 +674,7 @@ msgid "Not saved; network or server problem."
 msgstr "Ekki vistað. Net- eða miðlaravandamál."
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "Ekki vistað, verkefni hlóðst ekki inn."
 
 msgid "of"
 msgstr "af"
@@ -760,7 +758,7 @@ msgid "Profile"
 msgstr "Yfirlit"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "Verkefni hlóðst ekki inn."
 
 msgid "Project not saved!"
 msgstr "Verkefni ekki vistað!"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:54+0200\n"
-"PO-Revision-Date: 2013-06-20 22:01+0200\n"
+"PO-Revision-Date: 2013-08-02 11:32+0200\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nb\n"
@@ -128,6 +128,8 @@ msgstr "Fagott"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
+"Fordi du har en ny Scratch-konto vil ikke endringer i nettdata bli lagret. "
+"Fortsetter du å bruke nettstedet får du snart muligheten til å lagre data."
 
 msgid "Bitmap"
 msgstr "Punktgrafikk"
@@ -223,7 +225,7 @@ msgid "Claves"
 msgstr "Pinner"
 
 msgid "cleanup"
-msgstr ""
+msgstr "rydd opp"
 
 msgid "Clear"
 msgstr "Slett alt"
@@ -402,15 +404,14 @@ msgid "Erase"
 msgstr "Slett"
 
 # 92%
-#, fuzzy
 msgid "Eraser width"
-msgstr "Viskelærbredde:"
+msgstr "Viskelærbredde"
 
 msgid "Error!"
-msgstr ""
+msgstr "Feil!"
 
 msgid "export"
-msgstr ""
+msgstr "eksport"
 
 msgid "fade in"
 msgstr "inntoning"
@@ -449,7 +450,7 @@ msgid "Flying"
 msgstr "Flyvende"
 
 msgid "Font:"
-msgstr ""
+msgstr "Skrifttype:"
 
 msgid "For all sprites"
 msgstr "For alle figurer"
@@ -485,7 +486,7 @@ msgid "hide"
 msgstr "skjul"
 
 msgid "High C"
-msgstr ""
+msgstr "Høye C"
 
 msgid "hour"
 msgstr "time"
@@ -494,9 +495,8 @@ msgid "Human"
 msgstr "Menneske"
 
 # 83%
-#, fuzzy
 msgid "import"
-msgstr "Importer"
+msgstr "importer"
 
 msgid "Import"
 msgstr "Importer"
@@ -514,7 +514,7 @@ msgid "Instruments"
 msgstr "Instrumenter"
 
 msgid "large readout"
-msgstr ""
+msgstr "stor"
 
 msgid "last"
 msgstr "siste"
@@ -529,7 +529,7 @@ msgid "left-right"
 msgstr "vend sideveis"
 
 msgid "length"
-msgstr ""
+msgstr "lengde"
 
 msgid "Library"
 msgstr "Bibliotek"
@@ -544,9 +544,8 @@ msgid "Line"
 msgstr "Linje"
 
 # 90%
-#, fuzzy
 msgid "Line width"
-msgstr "Linjebredde:"
+msgstr "Linjebredde"
 
 # 75%
 msgid "list"
@@ -571,7 +570,7 @@ msgid "loudness"
 msgstr "lydstyrke"
 
 msgid "Low C"
-msgstr ""
+msgstr "Lave C"
 
 msgid "Make a Block"
 msgstr "Lag en Blokk"
@@ -598,10 +597,10 @@ msgid "message1"
 msgstr "melding1"
 
 msgid "Microphone Volume:"
-msgstr ""
+msgstr "Mikrofonfølsomhet:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "Tonen C"
 
 msgid "Min"
 msgstr "Min"
@@ -685,13 +684,13 @@ msgid "No motion blocks"
 msgstr "Ingen bevegelsesklosser"
 
 msgid "normal readout"
-msgstr ""
+msgstr "vanlig visning"
 
 msgid "Not saved; network or server problem."
 msgstr "Ikke lagret, nettverksproblemer."
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "Ikke lagret, prosjektet ble ikke lastet inn."
 
 msgid "of"
 msgstr "av"
@@ -700,7 +699,7 @@ msgid "off"
 msgstr "av"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Programredigering uten internett"
 
 msgid "OK"
 msgstr "OK"
@@ -777,7 +776,7 @@ msgid "Profile"
 msgstr "Profil"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "Prosjektet ble ikke lest inn."
 
 msgid "Project not saved!"
 msgstr "Prosjekt ikke lagret!"
@@ -916,7 +915,7 @@ msgid "Set Costume Center"
 msgstr "Velg senterpunkt"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "skyverens min. og maks. verdi"
 
 msgid "Share"
 msgstr "Legg ut"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2012-11-29 10:57+0200\n"
+"PO-Revision-Date: 2013-05-04 18:55+0200\n"
 "Last-Translator: Alisha <panjwani.alisha@gmail.com>\n"
 "Language-Team: srishti\n"
 "Language: hi\n"
@@ -29,27 +29,30 @@ msgstr "LTR"
 
 # Scale to apply to font size (2 for twice as large)
 # Use this if the font is too small for legibility on the Scratch interface
+# 
 msgid "Font-Scale"
-msgstr "1.5"
+msgstr "2"
 
 # Set to 'true' or 'false'
 # Use this if you do not want any of the text to be bolded, for legibility
+# 
 msgid "Suppress-Bold"
 msgstr "true"
 
 # Font to use on a Windows system
 # 
 msgid "Win-Font"
-msgstr "विन-फ़ॉन्ट"
+msgstr "Devanagari"
 
 # Font to use on a Mac system
+# 
 msgid "Mac-Font"
 msgstr "Devanagari-QWERTY"
 
 # Font to use on a Linux system
 # 
 msgid "Linux-Font"
-msgstr "लिनक्स-फ़ॉन्ट"
+msgstr "Devanagari"
 
 ############################################
 # BLOCKS
@@ -58,7 +61,7 @@ msgid "%H sensor value"
 msgstr "%H सेंसर का मूल्य"
 
 msgid "%L contains %s"
-msgstr "%s में %L हैं।"
+msgstr "%L में %s शामिल हैं"
 
 msgid "%a of %m"
 msgstr "%m का %a"
@@ -448,7 +451,7 @@ msgid "About this project:"
 msgstr "इस प्रोजेक्ट के बारे में:"
 
 msgid "abs"
-msgstr ""
+msgstr "abs"
 
 msgid "add comment"
 msgstr "कमेंट जोड़ें"
@@ -913,7 +916,7 @@ msgid "Min:"
 msgstr "न्यूनतम:"
 
 msgid "mod"
-msgstr ""
+msgstr "mod"
 
 msgid "more"
 msgstr "और अधिक"
@@ -1237,10 +1240,10 @@ msgid "Sound Recorder"
 msgstr "साउंड रिकार्डर"
 
 msgid "Sounds"
-msgstr "ध्वनियाँ "
+msgstr "ध्वनियाँ"
 
 msgid "Sounds compressed"
-msgstr "ध्वनियाँ संकुचित है "
+msgstr "ध्वनियाँ संकुचित हैं"
 
 msgid "space"
 msgstr "स्पेस"
@@ -1252,7 +1255,7 @@ msgid "Sprites"
 msgstr "स्प्राईट्स"
 
 msgid "sqrt"
-msgstr ""
+msgstr "sqrt"
 
 msgid "Stage"
 msgstr "स्टेज"
@@ -1737,7 +1740,6 @@ msgstr "पैड २ (गर्म)"
 msgid "Pad 3 (polysynth)"
 msgstr "पैड ३ (पोलिसिंथ)"
 
-#, fuzzy
 msgid "Pad 4 (choir)"
 msgstr "पैड ४ (गायक - मंडली)"
 
