@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-01-29 17:43+0200\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"PO-Revision-Date: 2013-09-13 22:16+0200\n"
+"Last-Translator: Jasmine <udea_jasmine@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
@@ -42,19 +42,18 @@ msgid "add %s to %m.list"
 msgstr "%m.list ին ավելացնել %s"
 
 msgid "answer"
-msgstr "պատասխանել"
+msgstr "պատասխան"
 
 msgid "ask %s and wait"
 msgstr "հարցնել %s և սպասել"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "ֆոն #"
+msgstr "ետնապատ #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "ետնապատի անվանումը"
 
 msgid "broadcast %m.broadcast"
 msgstr "հեռարձակել %m.broadcast"
@@ -84,7 +83,7 @@ msgid "change tempo by %n"
 msgstr "փոխել տեմպը %n ով"
 
 msgid "change volume by %n"
-msgstr "փոխել ձայնի բարձրությունը %n ով"
+msgstr "փոխել ձայնի ուժգնությունը %n ով"
 
 msgid "change x by %n"
 msgstr "փոխել x ը %n ով"
@@ -99,40 +98,40 @@ msgid "clear graphic effects"
 msgstr "մաքրել գրաֆիկական էֆեկտները"
 
 msgid "color %c is touching %c?"
-msgstr "%c գույնը վերաբերու՞մ է %c ին"
+msgstr "%c գույնը հպվո՞ւմ է %c ին"
 
 msgid "Control"
-msgstr "կառավարել"
+msgstr "Կառավարել"
 
 msgid "costume #"
-msgstr "կերպար #"
+msgstr "դիրք #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "Ստեղծել %m.spriteOnly ի կրկնօրինակը"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "ընթացիկ %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Տվյալներ"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "օրերը՝ սկսած 2000 -ից"
 
 msgid "define"
-msgstr ""
+msgstr "սահմանել"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "ջնջել %m.list ի %d.listDeleteItem ը"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "ջնջել այս կրկնօրինակը"
 
 msgid "direction"
 msgstr "ուղղություն"
 
 msgid "distance"
-msgstr ""
+msgstr "հեռավորություն"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "հեռավորությունը մինչև %m.spriteOrMouse"
@@ -141,16 +140,16 @@ msgid "else"
 msgstr "այլ"
 
 msgid "Events"
-msgstr ""
+msgstr "Իրադարձություններ"
 
 msgid "forever"
-msgstr "միշտ"
+msgstr "մշտապես"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr "սահել %n վայրկյան դեպի x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "ետ վերադառնալ %n շերտեր"
+msgstr "վերադառնալ %n շերտեր"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "գնալ դեպի %m.spriteOrMouse"
@@ -165,16 +164,16 @@ msgid "hide"
 msgstr "թաքցնել"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "թաքցնել %m.list ցանկը"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "թաքցնել % m.var փոփոխականը"
 
 msgid "if %b then"
-msgstr ""
+msgstr "եթե %b, ապա"
 
 msgid "if on edge, bounce"
-msgstr "եթե եզր է, հրվել"
+msgstr "եթե եզր է՝ ետ հրվել"
 
 msgid "insert %s at %d.listItem of %m.list"
 msgstr "%d.listItem ի մեջ %m.list ից տեղադրել %s"
@@ -204,30 +203,29 @@ msgid "loudness"
 msgstr "ձայնի բարձրություն"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Ավելի մասնիկներ"
 
 msgid "Motion"
-msgstr "շարժում"
+msgstr "Շարժում"
 
 msgid "mouse down?"
-msgstr "մկնիկը դեպի ներքե՞ւ"
+msgstr "մկնիկն իջեցվա՞ծ է"
 
 msgid "mouse x"
-msgstr "մկնիկը x առանցքով"
+msgstr "մկնիկի x դիրքացույցը"
 
 msgid "mouse y"
-msgstr "մկնիկը y առանցքով"
+msgstr "մկնիկի y դիրքացույցը"
 
 msgid "move %n steps"
 msgstr "տեղափոխվել %n քայլ"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
-msgstr "հաջորդ ֆոն"
+msgstr "հաջորդ ետնապատը"
 
 msgid "next costume"
-msgstr "հաջորդ կերպար"
+msgstr "հաջորդ դիրքը"
 
 msgid "not %b"
 msgstr "ոչ %b"
@@ -239,27 +237,26 @@ msgid "Pen"
 msgstr "Գրիչ"
 
 msgid "pen down"
-msgstr "գրիչն իջեցնել"
+msgstr "Գրիչն իջեցնել"
 
 msgid "pen up"
-msgstr "գրիչը բարձրացնել"
+msgstr "Գրիչը բարձրացնել"
 
 msgid "pick random %n to %n"
-msgstr "գեներացնել պատահական %n ից %n"
+msgstr "ընտրել պատահական %n ից՝ %n"
 
 msgid "play drum %d.drum for %n beats"
 msgstr "%d.drum թմբուկով նվագել %n տակտ"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "նվագել %d.note նոտան %n տակտ"
 
 msgid "play sound %m.sound"
-msgstr "արտաբերել %m.sound ձայնը"
+msgstr "վերարտադրել %m.sound հնչյունը"
 
 msgid "play sound %m.sound until done"
-msgstr "արտաբերել %m.sound ձայնը մինչև ավարտը"
+msgstr "վերարտադրել %m.sound ձայնը մինչև ավարտ"
 
 msgid "point in direction %d.direction"
 msgstr "նշել ուղղությունը %d.direction"
@@ -277,16 +274,16 @@ msgid "replace item %d.listItem of %m.list with %s"
 msgstr "փոխարինել %d.listItem տարրը %m.list ից %s ով"
 
 msgid "reset timer"
-msgstr "զրոյացնել վայրկյանաչափի արժեքը"
+msgstr "Վերագործարկել վայրկյանաչափը"
 
 msgid "rest for %n beats"
-msgstr "դադարեցնել %n տակտ"
+msgstr "Դադարեցնել %n տակտ"
 
 msgid "round %n"
-msgstr "կլորացնել %n"
+msgstr "Կլորացնել %n"
 
 msgid "say %s"
-msgstr "ասել %s"
+msgstr "Ասել %s"
 
 msgid "say %s for %n secs"
 msgstr "ասել %s %n վայրկյանում"
@@ -307,14 +304,12 @@ msgid "set instrument to %d.instrument"
 msgstr "կայել գործիք %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "շարժիչի ուղղությունը %m.motorDirection"
+msgstr "Սահմանել շարժիչի ուղղությունը %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "շարժիչի հզորությունը %n"
+msgstr "Սահմանել շարժիչի հզորությունը %n"
 
 msgid "set pen color to %c"
 msgstr "կայել գրիչի գույնը %c"
@@ -329,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "կայել գրիչի չափը %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "Սահմանել պտույտի ոճը՝ %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "կայել չափը %n%"
@@ -338,7 +333,7 @@ msgid "set tempo to %n bpm"
 msgstr "կայել տեմպը %n զարկ/րոպե"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "Սահմանել տեսագրության թափանցիկությունը %n%"
 
 msgid "set volume to %n%"
 msgstr "կայել ձայնի բարձրությունը %n%"
@@ -353,51 +348,51 @@ msgid "show"
 msgstr "ցույց տալ"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "Ցույց տալ %m.list ցանկը"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "Ցույց տալ %m.var փոփոխականը"
 
 msgid "size"
-msgstr "չափ"
+msgstr "չափս"
 
 msgid "Sound"
-msgstr "ձայն"
+msgstr "Ձայն"
 
 msgid "stamp"
-msgstr "կնիք"
+msgstr "Կնիք"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "Կանգնեցնել %m.stop"
 
 msgid "stop all sounds"
-msgstr "դադարեցնել բոլոր ձայները"
+msgstr "Դադարեցնել բոլոր ձայները"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "Ետնապատը փոխարինել %m.backdrop ետնապատով"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "Ետնապատը փոխարինել %m.backdrop ետնապատով և սպասել"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "Դիրքը փոխարինել %m.costume դիրքով"
 
 msgid "tempo"
-msgstr "տեմպ"
+msgstr "Տեմպ"
 
 msgid "think %s"
-msgstr "մտածել %s"
+msgstr "Մտածել %s"
 
 msgid "think %s for %n secs"
-msgstr "մտածել %s %n վայրկյանում"
+msgstr "Մտածել %s %n վայրկյանում"
 
 msgid "tilt"
-msgstr ""
+msgstr "Թեքում"
 
 msgid "timer"
-msgstr "ժամիչ"
+msgstr "Վայկյանաչափ"
 
 msgid "touching %m.touching?"
 msgstr "հպվու՞մ է %m.touching ին"
@@ -406,78 +401,76 @@ msgid "touching color %c?"
 msgstr "հպվու՞մ է %c գույնին"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "Շրջել @turnLeft %n աստիճան"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "Շրջել @turnRight %n աստիճան"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "Անջատել շարժիչը"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "Միացնել շարժիչը"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "միացնել շարժիչը %n վայրկյանով"
+msgstr "Միացնել շարժիչը %n վայրկյանով"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "Միացնել video %m.videoState տեսագրությունը"
 
 msgid "username"
-msgstr ""
+msgstr "Օգտվողի անունը"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "Տեսագրություն %m.videoMotionType on %m.stageOrThis"
 
 msgid "volume"
-msgstr "ձայն"
+msgstr "Ձայն"
 
 msgid "wait %n secs"
-msgstr "սպասել %n վայրկյան"
+msgstr "Սպասել %n վայրկյան"
 
 msgid "wait until %b"
 msgstr "սպասել մինչև %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "սենսոր %m.booleanSensor?"
+msgstr "Երբ %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "երբ %m.key ստեղնը սեղմված է"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "Երբ %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "երբ @greenFlag ը կտտացրած է"
+msgstr "երբ @greenFlag ը սեղմված է"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "Երբ ետնապատը փոխարինվում է %m.backdrop ետնապատով"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "Երբ տարածությունը < %n ից"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "Երբ ստանամ %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "Երբ սկսում եմ որպես կրկնօրինակ"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "Երբ սեղմեմ այս օբյեկտի վրա"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "Երբ թեքությունը = %n"
 
 msgid "x position"
-msgstr "x ի դիրքը"
+msgstr "Դիրքն x ի վրա"
 
 msgid "y position"
-msgstr "y ի դիրքը"
+msgstr "Դիրքն y ի վրա"
 
 #~ msgid "forever if %b"
 #~ msgstr "միշտ, եթե %b"
