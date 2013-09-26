@@ -3,18 +3,19 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2011-11-10 02:59-0400\n"
-"Last-Translator: hanakris <hanakris@mail.ru>\n"
+"PO-Revision-Date: 2013-09-13 21:16+0200\n"
+"Last-Translator: Jasmine <udea_jasmine@yahoo.com>\n"
 "Language-Team: \n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 1.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
 
-############################################
+# ##########################################
 # FORMATTING
-############################################
+# ##########################################
 # Language name as you'd like it to appear in the Languages menu<br />
 # <br />
 # (Required)
@@ -27,13 +28,13 @@ msgstr "Հայերեն"
 # &amp;lt;br /&amp;gt;&lt;br /&gt;<br />
 # RTL = Right to Left
 msgid "Language-Direction"
-msgstr "LTR"
+msgstr "Լեզու - Ուղղություն"
 
 # Scale to apply to font size (2 for twice as large)&lt;br /&gt;<br />
 # &lt;br /&gt;<br />
 # Use this if the font is too small for legibility on the Scratch interface
 msgid "Font-Scale"
-msgstr "1"
+msgstr "Տառատեսակի չափսը"
 
 # Set to 'true' or 'false'&lt;br /&gt;<br />
 # &lt;br /&gt;<br />
@@ -53,9 +54,10 @@ msgstr "Armenian Unicode"
 msgid "Linux-Font"
 msgstr "Armenian Unicode"
 
-############################################
+# ##########################################
 # BLOCKS
-############################################
+# ##########################################
+# 
 msgid "%H sensor value"
 msgstr "%H սենսորի արժեքը"
 
@@ -75,7 +77,7 @@ msgid "%f of %n"
 msgstr "%n ից %f"
 
 msgid "%n mod %n"
-msgstr "%n մոդ %n"
+msgstr "%n mod %n"
 
 msgid "add %s to %L"
 msgstr "%L ին ավելացնել %s"
@@ -108,16 +110,16 @@ msgid "change pen shade by %n"
 msgstr "փոխել գրիչի ստվերը %n ով"
 
 msgid "change pen size by %n"
-msgstr "փոխել գրիչի չափը %n ով"
+msgstr "փոխել գրիչի չափսը %n ով"
 
 msgid "change size by %n"
-msgstr "փոխել չափը %n ով"
+msgstr "փոխել չափսը %n ով"
 
 msgid "change tempo by %n"
 msgstr "փոխել տեմպը %n ով"
 
 msgid "change volume by %n"
-msgstr "փոխել ձայնի բարձրությունը %n ով"
+msgstr "փոխել ձայնի ուժգնությունը %n ով"
 
 msgid "change x by %n"
 msgstr "փոխել x ը %n ով"
@@ -135,7 +137,7 @@ msgid "color %C is touching %C?"
 msgstr "%C գույնը վերաբերու՞մ է %C ին"
 
 msgid "control"
-msgstr "կառավարել"
+msgstr "կառավարում"
 
 msgid "costume #"
 msgstr "կերպար #"
@@ -153,10 +155,10 @@ msgid "else"
 msgstr "այլ"
 
 msgid "forever"
-msgstr "միշտ"
+msgstr "մշտապես"
 
 msgid "forever if %b"
-msgstr "միշտ, եթե %b"
+msgstr "մշտապես, եթե %b"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr "սահել %n վայրկյան դեպի x:%n y:%n"
@@ -183,7 +185,7 @@ msgid "if %b"
 msgstr "եթե %b"
 
 msgid "if on edge, bounce"
-msgstr "եթե եզր է, հրվել"
+msgstr "եթե եզր է՝ ետ հրվել"
 
 msgid "insert %s at %i of %L"
 msgstr "%i ի մեջ %L ից տեղադրել %s"
@@ -216,7 +218,7 @@ msgid "loud?"
 msgstr "ձայնը բա՞րձր է"
 
 msgid "loudness"
-msgstr "ձայնի բարձրություն"
+msgstr "ձայնի ուժգնություն"
 
 msgid "motion"
 msgstr "շարժում"
@@ -237,7 +239,7 @@ msgid "motor power %n"
 msgstr "շարժիչի հզորությունը %n"
 
 msgid "mouse down?"
-msgstr "մկնիկը դեպի ներքե՞ւ"
+msgstr "մկնիկն իջեցվա՞ծ է"
 
 msgid "mouse x"
 msgstr "մկնիկը x առանցքով"
@@ -249,10 +251,10 @@ msgid "move %n steps"
 msgstr "տեղափոխվել %n քայլ"
 
 msgid "next background"
-msgstr "հաջորդ ֆոն"
+msgstr "հաջորդ ետնապատը"
 
 msgid "next costume"
-msgstr "հաջորդ կերպար"
+msgstr "հաջորդ դիրքը"
 
 msgid "not %b"
 msgstr "ոչ %b"
@@ -363,7 +365,7 @@ msgid "show variable %v"
 msgstr "ցույց տալ %v փոփոխականը"
 
 msgid "size"
-msgstr "չափ"
+msgstr "չափս"
 
 msgid "sound"
 msgstr "ձայն"
@@ -372,10 +374,10 @@ msgid "stamp"
 msgstr "կնիք"
 
 msgid "stop all"
-msgstr "ամբողջը դադարեցնել"
+msgstr "դադարեցնել ամբողջը"
 
 msgid "stop all sounds"
-msgstr "դադարեցնել բոլոր ձայները"
+msgstr "Անջատել բոլոր ձայները"
 
 msgid "stop script"
 msgstr "դադարեցնել սցենարը"
@@ -384,7 +386,7 @@ msgid "switch to background %l"
 msgstr "փոխանջատել %l ֆոնին"
 
 msgid "switch to costume %l"
-msgstr "փոխանջատել %l կերպարին"
+msgstr "փոխանջատել %l դիրքին"
 
 msgid "tempo"
 msgstr "տեմպ"
@@ -396,7 +398,7 @@ msgid "think %s for %n secs"
 msgstr "մտածել %s %n վայրկյանում"
 
 msgid "timer"
-msgstr "ժամիչ"
+msgstr "Վայրկյանաչափ"
 
 msgid "touching %m?"
 msgstr "հպվու՞մ է %m ին"
