@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-01-05 19:47+0200\n"
-"Last-Translator: ukkeli <avuorilehto@gmail.com>\n"
+"PO-Revision-Date: 2013-10-01 06:11+0200\n"
+"Last-Translator: Juha <juha.harviainen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -98,10 +98,10 @@ msgid "clear graphic effects"
 msgstr "poista graafiset tehosteet"
 
 msgid "color %c is touching %c?"
-msgstr "koskeeko väri %c väriä %c ?"
+msgstr "koskeeko väri %c väriä %c?"
 
 msgid "Control"
-msgstr "ohjaus"
+msgstr "Ohjaus"
 
 msgid "costume #"
 msgstr "asuste #"
@@ -116,7 +116,7 @@ msgid "Data"
 msgstr "Tieto"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "päiviä vuoden 2000 jälkeen"
 
 msgid "define"
 msgstr "määrittele"
@@ -164,13 +164,13 @@ msgid "hide"
 msgstr "piilota"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "piilota lista %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "piilota muuttuja %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "jos %b , sitten"
 
 msgid "if on edge, bounce"
 msgstr "pomppaa reunasta"
@@ -194,10 +194,10 @@ msgid "length of %s"
 msgstr "muuttujan %s pituus"
 
 msgid "letter %n of %s"
-msgstr "%n. kirjain sanasta %s "
+msgstr "%n. kirjain sanasta %s"
 
 msgid "Looks"
-msgstr "ulkonäkö"
+msgstr "Ulkonäkö"
 
 msgid "loudness"
 msgstr "äänentaso"
@@ -206,7 +206,7 @@ msgid "More Blocks"
 msgstr "Lisää lohkoja"
 
 msgid "Motion"
-msgstr "liike"
+msgstr "Liike"
 
 msgid "mouse down?"
 msgstr "onko hiiren nappi painettu?"
@@ -231,10 +231,10 @@ msgid "not %b"
 msgstr "ei %b"
 
 msgid "Operators"
-msgstr "toiminnot"
+msgstr "Toiminnot"
 
 msgid "Pen"
-msgstr "kynä"
+msgstr "Kynä"
 
 msgid "pen down"
 msgstr "kynä alas"
@@ -290,7 +290,7 @@ msgid "say %s for %n secs"
 msgstr "sano %s %n sekunnin ajan"
 
 msgid "Sensing"
-msgstr "tuntoaisti"
+msgstr "Tuntoaisti"
 
 msgid "sensor %m.booleanSensor?"
 msgstr "sensori %m.booleanSensor?"
@@ -327,7 +327,7 @@ msgid "set pen size to %n"
 msgstr "aseta kynälle koko %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "aseta pyörimistapa %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "aseta koko arvoon %n"
@@ -351,16 +351,16 @@ msgid "show"
 msgstr "näytä"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "näytä lista %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "näytä muuttuja %m.var"
 
 msgid "size"
 msgstr "koko"
 
 msgid "Sound"
-msgstr "ääni"
+msgstr "Ääni"
 
 msgid "stamp"
 msgstr "leimaa"
@@ -410,10 +410,10 @@ msgid "turn @turnRight %n degrees"
 msgstr "käänny @turnRight %n astetta"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "moottori pois päältä"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "moottori päälle"
 
 # 80%
 #, fuzzy
@@ -425,7 +425,7 @@ msgid "turn video %m.videoState"
 msgstr "käännä video %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "käyttäjänimi"
 
 # no idea what this does
 msgid "video %m.videoMotionType on %m.stageOrThis"
@@ -441,15 +441,14 @@ msgid "wait until %b"
 msgstr "odota kunnes %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "sensori %m.booleanSensor?"
+msgstr "sensori %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "kun painetaan %m.key"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "kun %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "kun klikataan @greenFlag"
@@ -459,19 +458,19 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "kun tausta vaihtuu taustaksi %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "kun etäisyys < %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "kun vastaanotan %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "kun aloitan kloonina"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "kun tätä hahmoa klikataan"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "kun kallistuminen = %n"
 
 msgid "x position"
 msgstr "x-sijainti"

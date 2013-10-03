@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:54+0200\n"
-"PO-Revision-Date: 2013-08-04 11:53+0200\n"
+"PO-Revision-Date: 2013-09-28 20:52+0200\n"
 "Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -475,8 +475,10 @@ msgstr "Gitaar"
 msgid "Hand Clap"
 msgstr "Handenklap"
 
+# [sdmeijer] Deze vertaling gebruikt, aangezien ze de editor en block bestanden mergen. Hierdoor staat op de blokken niet verschijn/verdwijn.
+# Is doorgegeven aan ScratchTeam.
 msgid "hide"
-msgstr "verbergen"
+msgstr "verdwijn"
 
 msgid "High C"
 msgstr "Hoge C"
@@ -911,8 +913,10 @@ msgstr "gedeeld"
 msgid "Shift:"
 msgstr "Verschuiven:"
 
+# [sdmeijer] Deze vertaling gebruikt, aangezien ze de editor en block bestanden mergen. Hierdoor staat op de blokken niet verschijn/verdwijn.
+# Is doorgegeven aan ScratchTeam.
 msgid "show"
-msgstr "toon"
+msgstr "verschijn"
 
 msgid "show receivers"
 msgstr "ontvangers weergeven"
