@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:52+0200\n"
-"PO-Revision-Date: 2013-10-01 06:23+0200\n"
+"PO-Revision-Date: 2013-10-14 15:38+0200\n"
 "Last-Translator: Juha <juha.harviainen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
@@ -26,7 +26,7 @@ msgid "A connected"
 msgstr "A liitetty"
 
 msgid "a copy of the project file on your computer."
-msgstr "kopio projektitiedostosta tietokoneessasi"
+msgstr "kopio projektitiedostosta tietokoneessasi."
 
 msgid "abs"
 msgstr "abs"
@@ -45,15 +45,15 @@ msgid "add comment"
 msgstr "lisää kommentti"
 
 msgid "Add label text:"
-msgstr "Lisää otsaketeksti"
+msgstr "Lisää otsaketeksti:"
 
 # 89%
 msgid "Add number input:"
-msgstr "lisää numerosyöttö"
+msgstr "Lisää numerosyöttö:"
 
 # 89%
 msgid "Add string input:"
-msgstr "Lisää tekstisyöttö"
+msgstr "Lisää tekstisyöttö:"
 
 msgid "All"
 msgstr "Kaikki"
@@ -128,6 +128,9 @@ msgstr "Bassoon"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
+"Koska sinulla on uusi Scratch-tili, mitään muutoksia pilvidataan ei "
+"tallenneta vielä. Jatka työskentelyä sivulla ja pääset käyttämään pilvidataa "
+"pian!"
 
 msgid "Bitmap"
 msgstr "Bittikartta"
@@ -172,7 +175,7 @@ msgid "Camera"
 msgstr "Kamera"
 
 msgid "can drag in player:"
-msgstr "voidaan raahata soittimessa"
+msgstr "voidaan raahata soittimessa:"
 
 msgid "Cancel"
 msgstr "Peruuta"
@@ -181,7 +184,7 @@ msgid "Cannot Delete"
 msgstr "Ei voi poistaa"
 
 msgid "Can’t find network connection or reach server."
-msgstr "Verkkoyhteyttä ei löydy tai palvelimeen ei saada yhteyttä"
+msgstr "Verkkoyhteyttä ei löydy tai palvelimeen ei saada yhteyttä."
 
 msgid "Castle"
 msgstr "Linna"
@@ -199,16 +202,16 @@ msgid "Choir"
 msgstr "Kuoro"
 
 msgid "Choose backdrop from library"
-msgstr ""
+msgstr "Valitse tausta kirjastosta"
 
 msgid "Choose costume from library"
-msgstr ""
+msgstr "Valitse asuste kirjastosta"
 
 msgid "Choose sound from library"
-msgstr ""
+msgstr "Valitse ääni kirjastosta"
 
 msgid "Choose sprite from library"
-msgstr ""
+msgstr "Valitse hahmo kirjastosta"
 
 msgid "Circle"
 msgstr "Ympyrä"
@@ -223,7 +226,7 @@ msgid "Claves"
 msgstr "Palikat"
 
 msgid "cleanup"
-msgstr ""
+msgstr "siivoa"
 
 msgid "Clear"
 msgstr "Puhdista"
@@ -402,15 +405,14 @@ msgid "Erase"
 msgstr "Kumita"
 
 # 92%
-#, fuzzy
 msgid "Eraser width"
 msgstr "Kumin leveys"
 
 msgid "Error!"
-msgstr ""
+msgstr "Virhe!"
 
 msgid "export"
-msgstr ""
+msgstr "vie"
 
 msgid "fade in"
 msgstr "vaimenna alku"
@@ -449,7 +451,7 @@ msgid "Flying"
 msgstr "Lentävä"
 
 msgid "Font:"
-msgstr ""
+msgstr "Fontti:"
 
 msgid "For all sprites"
 msgstr "Kaikille hahmoille"
@@ -485,7 +487,7 @@ msgid "hide"
 msgstr "piilota"
 
 msgid "High C"
-msgstr ""
+msgstr "Korkea C"
 
 msgid "hour"
 msgstr "tunti"
@@ -494,9 +496,8 @@ msgid "Human"
 msgstr "Ihminen"
 
 # 83%
-#, fuzzy
 msgid "import"
-msgstr "Tuo"
+msgstr "tuo"
 
 msgid "Import"
 msgstr "Tuo"
@@ -514,7 +515,7 @@ msgid "Instruments"
 msgstr "Soittimet"
 
 msgid "large readout"
-msgstr ""
+msgstr "suuri lukuasu"
 
 msgid "last"
 msgstr "viimeinen"
@@ -529,7 +530,7 @@ msgid "left-right"
 msgstr "vasen-oikea"
 
 msgid "length"
-msgstr ""
+msgstr "pituus"
 
 msgid "Library"
 msgstr "Kirjasto"
@@ -544,9 +545,8 @@ msgid "Line"
 msgstr "Viiva"
 
 # 90%
-#, fuzzy
 msgid "Line width"
-msgstr "Viivanleveys:"
+msgstr "Viivanleveys"
 
 # 75%
 msgid "list"
@@ -571,7 +571,7 @@ msgid "loudness"
 msgstr "voimakkuus"
 
 msgid "Low C"
-msgstr ""
+msgstr "Matala C"
 
 msgid "Make a Block"
 msgstr "Tee palikka"
@@ -598,7 +598,7 @@ msgid "message1"
 msgstr "viesti1"
 
 msgid "Microphone Volume:"
-msgstr ""
+msgstr "Mikrofonin äänenvoimakkuus:"
 
 msgid "Middle C"
 msgstr ""
@@ -646,14 +646,14 @@ msgid "New"
 msgstr "Uusi"
 
 msgid "New backdrop from camera"
-msgstr ""
+msgstr "Uusi tausta kamerasta"
 
 # 92%
 msgid "New backdrop:"
 msgstr "Uusi tausta:"
 
 msgid "New costume from camera"
-msgstr ""
+msgstr "Uusi asuste kamerasta"
 
 # 91%
 msgid "New costume:"
@@ -673,7 +673,7 @@ msgid "New sound:"
 msgstr "Uusi ääni:"
 
 msgid "New sprite from camera"
-msgstr ""
+msgstr "Uusi hahmo kamerasta"
 
 msgid "New sprite:"
 msgstr "Uusi hahmo:"
@@ -691,7 +691,7 @@ msgid "Not saved; network or server problem."
 msgstr "Ei tallennettu; verkko- tai palvelinongelmia."
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "Ei tallennettu; projekti ei latautunut"
 
 msgid "of"
 msgstr "määrästä"
@@ -700,7 +700,7 @@ msgid "off"
 msgstr "pois"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Offline-editori"
 
 msgid "OK"
 msgstr "OK"
@@ -734,13 +734,13 @@ msgid "Outdoors"
 msgstr "Ulkone"
 
 msgid "Paint new backdrop"
-msgstr ""
+msgstr "Piirrä uusi tausta"
 
 msgid "Paint new costume"
-msgstr ""
+msgstr "Piirrä uusi asuste"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "Piirrä uusi hahmo"
 
 msgid "paste"
 msgstr "liitä"
@@ -776,7 +776,7 @@ msgid "Profile"
 msgstr "Profiili"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "Projekti ei latautunut."
 
 msgid "Project not saved!"
 msgstr "Projektia ei ole tallennettu!"
@@ -788,7 +788,7 @@ msgid "Record"
 msgstr "Nauhoita"
 
 msgid "Record new sound"
-msgstr ""
+msgstr "Äänitä uusi ääni"
 
 msgid "recording1"
 msgstr "nauhoitus1"
@@ -912,7 +912,7 @@ msgid "Set Costume Center"
 msgstr "Aseta asuste keskipiste"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "aseta säätimen minimi ja maksimi"
 
 msgid "Share"
 msgstr "Jaa"
@@ -1138,19 +1138,19 @@ msgid "up arrow"
 msgstr "nuoli ylös"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "Lataa tausta tiedostoista"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "Lataa asuste tiedostosta"
 
 msgid "Upload from your computer"
 msgstr "Lataa tietokoneestasi"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "Lataa ääni tiedostosta"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "Lataa hahmo tiedostosta"
 
 msgid "Uploading image..."
 msgstr "Ladataan kuvaa..."
