@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:52+0200\n"
-"PO-Revision-Date: 2013-09-24 23:56+0200\n"
+"PO-Revision-Date: 2013-10-23 09:03+0200\n"
 "Last-Translator: Jasmine <udea_jasmine@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hy\n"
@@ -304,7 +304,7 @@ msgid "Cowbell"
 msgstr "Կենդանու վզի զանգակ"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Մեծ ծնծղա"
 
 msgid "Creating..."
 msgstr "Ստեղծում է..."
@@ -347,7 +347,7 @@ msgid "down"
 msgstr "ներքև"
 
 msgid "down arrow"
-msgstr "սլաքը դեպի ներքև"
+msgstr "սլաքը դեպի վար"
 
 msgid "Download"
 msgstr "Ներբեռնված"
@@ -504,7 +504,7 @@ msgid "Instruments"
 msgstr "Գործիքներ"
 
 msgid "large readout"
-msgstr ""
+msgstr "Ընթերցման էկրան"
 
 msgid "last"
 msgstr "վերջին"
@@ -550,7 +550,7 @@ msgid "Loading project..."
 msgstr "Նախագծի ներբեռնում"
 
 msgid "log"
-msgstr ""
+msgstr "Մուտք"
 
 msgid "louder"
 msgstr "ձայնն ուժեղացնել"
@@ -672,7 +672,7 @@ msgid "No motion blocks"
 msgstr "Մասնիկներ` ոչ շարժման"
 
 msgid "normal readout"
-msgstr ""
+msgstr "Ընթերցման նորմալ էկրան"
 
 msgid "Not saved; network or server problem."
 msgstr "Չպահպանվեց. համացանցը կամ սերվերը խնդիր ունեն"
@@ -687,7 +687,7 @@ msgid "off"
 msgstr "Անջատել"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Արտաքին խմբագիր"
 
 msgid "OK"
 msgstr "OK"
@@ -696,7 +696,7 @@ msgid "on"
 msgstr "Միացնել"
 
 msgid "on-flipped"
-msgstr ""
+msgstr "միացված ու շրջված"
 
 msgid "Open Cuica"
 msgstr "Բաց քուիքա"
@@ -790,10 +790,10 @@ msgid "redo"
 msgstr "Վերականգնել"
 
 msgid "Remix"
-msgstr ""
+msgstr "Նոր տարբերակ"
 
 msgid "Remixing..."
-msgstr ""
+msgstr "Նոր տարբերակի ստեղծում"
 
 msgid "Rename"
 msgstr "Անվանափոխել"
@@ -898,7 +898,7 @@ msgid "Set Costume Center"
 msgstr "Սահմանել կերպարի դիրքերի կենտրոնը"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "Կայել նվազագույն ու առավելագույնը"
 
 msgid "Share"
 msgstr "Կիսվել"
@@ -907,7 +907,7 @@ msgid "shared"
 msgstr "Կիսված է"
 
 msgid "Shift:"
-msgstr ""
+msgstr "Տեղափոխել."
 
 msgid "show"
 msgstr "Ցույց տալ"
@@ -922,7 +922,7 @@ msgid "show:"
 msgstr "Ցուցադրել."
 
 msgid "Shrink"
-msgstr ""
+msgstr "Փոքրացնել"
 
 msgid "Side Stick"
 msgstr "Կողային բռնակ"
@@ -1033,7 +1033,7 @@ msgid "Text"
 msgstr "Տեքստ"
 
 msgid "that way"
-msgstr ""
+msgstr "այդ ուղղությամբ"
 
 msgid "Theme"
 msgstr "Թեմա"
@@ -1059,7 +1059,7 @@ msgid "this sprite"
 msgstr "այս սցենարը"
 
 msgid "this way"
-msgstr ""
+msgstr "Այս ուղղությամբ"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Հրաժարվել այս նախագիծը բացելուց հետո կատարված բոլոր փոփոխություններից?"
@@ -1068,10 +1068,12 @@ msgid "timer"
 msgstr "Վայրկյանաչափ"
 
 msgid "Tips"
-msgstr ""
+msgstr "Հուշում"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
+"Մասնիկի սահմանումը ջնջելու համար, նախ վերացրու այս մասնիկի բոլոր "
+"կիրառումները:"
 
 msgid "Transportation"
 msgstr "Տեղափոխում"
@@ -1083,17 +1085,17 @@ msgid "Trombone"
 msgstr "Տրոմբոն"
 
 msgid "Turbo mode"
-msgstr ""
+msgstr "Տուրբո ռեժիմ"
 
 msgid "Turbo Mode"
-msgstr ""
+msgstr "Տուրբո ռեժիմ"
 
 msgid "Type"
 msgstr "Տպել"
 
 # 75%
 msgid "Undelete"
-msgstr ""
+msgstr "Վերականգնել ջնջածը"
 
 msgid "Underwater"
 msgstr "Ստորջերյա աշխարհ"
@@ -1109,7 +1111,7 @@ msgid "Undo Revert"
 msgstr "Ետարկել վերականգնումը"
 
 msgid "Ungroup"
-msgstr ""
+msgstr "Ցրել խումբը"
 
 msgid "unshared"
 msgstr "Չկիսված"
@@ -1124,19 +1126,19 @@ msgid "Upload backdrop from file"
 msgstr "Վերբեռնել ետնապատը ֆայլից"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "Վերբեռնել կերպարի դիրքը պանակից."
 
 msgid "Upload from your computer"
-msgstr ""
+msgstr "վերբեռնել քո համակարգչից"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "Վերբեռնել ձայնը պանակից"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "Վերբեռնել գրաֆիկ կերպարը պանակից"
 
 msgid "Uploading image..."
-msgstr ""
+msgstr "Պատկերի վերբեռնում..."
 
 msgid "Uploading sound..."
 msgstr ""
@@ -1178,16 +1180,16 @@ msgid "Walking"
 msgstr "Քայլ"
 
 msgid "Want to save? Click remix"
-msgstr ""
+msgstr "Ցանկանո՞ւմ ես պահպանել: Կտտացրու Նոր Տարբերակ- ի վրա"
 
 msgid "Which column do you want to import"
-msgstr ""
+msgstr "Ո՞ր սյունակն ես ցանկանում ներմուծել:"
 
 msgid "whirl"
 msgstr "պտտում"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Փայտե մասնիկ"
 
 msgid "Wooden Flute"
 msgstr "Փայտե ֆլեյտա"
@@ -1203,8 +1205,8 @@ msgstr "տարի"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
-"Չեք կարող խմբագրել cloud -ի տվյալները մեկ ուրիշի նախագծում:<br>Ցանկացած "
-"փոփոխություն, որ կատարեք խմբագրման մասում, կլինեն ժամանակավոր և չեմ "
+"Չեք կարող խմբագրել cloud -ի տվյալները մեկ ուրիշի նախագծում:<br> Ցանկացած "
+"փոփոխություն, որ կատարեք խմբագրման մասում, կլինեն ժամանակավոր և չեն "
 "պահպանվի: "
 
 msgid "Eraser width:"
