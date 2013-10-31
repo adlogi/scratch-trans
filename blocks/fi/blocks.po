@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-10-16 17:52+0200\n"
+"PO-Revision-Date: 2013-10-31 22:43+0200\n"
 "Last-Translator: Juha <juha.harviainen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
@@ -65,7 +65,7 @@ msgid "change %m.effect effect by %n"
 msgstr "muuta %m.effect tehostetta määrällä %n"
 
 msgid "change %m.var by %n"
-msgstr "muuta muuttujaa %m.var määrällä %n"
+msgstr "muuta muuttujan %m.var arvoa %n"
 
 msgid "change pen color by %n"
 msgstr "vaihda kynän väriä määrällä %n"
@@ -83,7 +83,7 @@ msgid "change tempo by %n"
 msgstr "muuta tempoa %n"
 
 msgid "change volume by %n"
-msgstr "muuta äänenvoimakkuuttaa %n"
+msgstr "muuta äänenvoimakkuutta %n"
 
 msgid "change x by %n"
 msgstr "muuta x:n arvoa %n"
@@ -104,7 +104,7 @@ msgid "Control"
 msgstr "Ohjaus"
 
 msgid "costume #"
-msgstr "asuste #"
+msgstr "asusteen #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "luo klooni kohteesta %m.spriteOnly"
@@ -176,7 +176,7 @@ msgid "if on edge, bounce"
 msgstr "pomppaa reunasta"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "listää %s listaan %d.listItem kohtaan %m.list"
+msgstr "lisää %s listaan %d.listItem kohtaan %m.list"
 
 msgid "item %d.listItem of %m.list"
 msgstr "listan %d.listItem alkio %m.list"
@@ -262,7 +262,7 @@ msgid "point in direction %d.direction"
 msgstr "osoita suuntaan %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "osoite kohti %m.spriteOrMouse"
+msgstr "osoita kohti %m.spriteOrMouse"
 
 msgid "repeat %n"
 msgstr "toista %n kertaa"
