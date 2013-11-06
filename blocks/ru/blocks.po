@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-08 11:30+0200\n"
-"Last-Translator: patarakin <patarakin@gmail.com>\n"
+"PO-Revision-Date: 2013-11-02 15:37+0200\n"
+"Last-Translator: parukhin <parukhin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -72,7 +72,7 @@ msgid "change pen color by %n"
 msgstr "изменить цвет пера на %n"
 
 msgid "change pen shade by %n"
-msgstr "изменить тень пера на&nbsp; %n"
+msgstr "изменить тень пера на %n"
 
 msgid "change pen size by %n"
 msgstr "изменить размер пера на %n"
@@ -168,10 +168,10 @@ msgid "hide list %m.list"
 msgstr "скрыть список %m.list"
 
 msgid "hide variable %m.var"
-msgstr "скрыть переменную  %m.var"
+msgstr "скрыть переменную %m.var"
 
 msgid "if %b then"
-msgstr "если %b то"
+msgstr "если %b, то"
 
 msgid "if on edge, bounce"
 msgstr "если на краю, оттолкнуться"
@@ -232,7 +232,7 @@ msgid "not %b"
 msgstr "не %b"
 
 msgid "Operators"
-msgstr "операторы"
+msgstr "Операторы"
 
 msgid "Pen"
 msgstr "Перо"
@@ -251,7 +251,7 @@ msgstr "барабану %d.drum играть %n тактов"
 
 # 83%
 msgid "play note %d.note for %n beats"
-msgstr "ноту %d.note играть %n тактов"
+msgstr "играть ноту %d.note %n тактов"
 
 msgid "play sound %m.sound"
 msgstr "играть звук %m.sound"
@@ -290,7 +290,7 @@ msgid "say %s for %n secs"
 msgstr "говорить %s в течение %n секунд"
 
 msgid "Sensing"
-msgstr "сенсоры"
+msgstr "Сенсоры"
 
 msgid "sensor %m.booleanSensor?"
 msgstr "сенсор %m.booleanSensor?"
@@ -358,7 +358,7 @@ msgid "size"
 msgstr "размер"
 
 msgid "Sound"
-msgstr "звук"
+msgstr "Звук"
 
 msgid "stamp"
 msgstr "печать"
@@ -387,7 +387,7 @@ msgid "think %s"
 msgstr "думать %s"
 
 msgid "think %s for %n secs"
-msgstr "думать %s  %n секунд"
+msgstr "думать %s %n секунд"
 
 msgid "tilt"
 msgstr "наклон"

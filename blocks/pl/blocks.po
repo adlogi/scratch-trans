@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-02-24 01:28+0200\n"
-"Last-Translator: Marek <faramir@mat.umk.pl>\n"
+"PO-Revision-Date: 2013-11-01 18:24+0200\n"
+"Last-Translator: Adam <awal@interia.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -111,7 +111,7 @@ msgid "create clone of %m.spriteOnly"
 msgstr "sklonuj %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr "aktualny %m.timeAndDate"
+msgstr "aktualna %m.timeAndDate"
 
 msgid "Data"
 msgstr "Dane"
@@ -247,7 +247,7 @@ msgid "pick random %n to %n"
 msgstr "losuj od %n do %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "zagraj bębenkiem %d.drum przez %n taktów"
+msgstr "zagraj bęben %d.drum przez %n taktów"
 
 # "zagraj nutę %d.note przez %n taktów" where "play note %n for %n beats"
 # 83%
@@ -276,7 +276,7 @@ msgid "replace item %d.listItem of %m.list with %s"
 msgstr "zamień element %d.listItem z %m.list na %s"
 
 msgid "reset timer"
-msgstr "kasuj zegar"
+msgstr "zeruj stoper"
 
 msgid "rest for %n beats"
 msgstr "pauzuj przez %n taktów"
@@ -334,7 +334,7 @@ msgid "set size to %n%"
 msgstr "ustaw rozmiar na %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "ustaw tempo na %n taktów na minutę"
+msgstr "ustaw tempo %n taktów na minutę"
 
 msgid "set video transparency to %n%"
 msgstr "ustaw przezroczystość kamery na %n%"
@@ -396,7 +396,7 @@ msgid "tilt"
 msgstr "wychylenie"
 
 msgid "timer"
-msgstr "zegar"
+msgstr "stoper"
 
 msgid "touching %m.touching?"
 msgstr "dotyka %m.touching?"
@@ -424,7 +424,7 @@ msgid "turn video %m.videoState"
 msgstr "kamera %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "nazwa użytkownika"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "%m.videoMotionType kamery na %m.stageOrThis"

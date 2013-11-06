@@ -3,20 +3,19 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2007-11-29\n"
-"PO-Revision-Date: 2009-06-09 01:14+0100\n"
-"Last-Translator: Eugeni Catalan, Pau Córdoba, Jaume Ramos i Frank Sabaté\n"
+"PO-Revision-Date: 2012-11-30 11:13+0200\n"
+"Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 1.2.0\n"
+"X-Generator: Pootle 2.1.6\n"
 
 ############################################
 # FORMATTING
 ############################################
-
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
 msgid "Language-Name"
@@ -39,21 +38,23 @@ msgid "Suppress-Bold"
 msgstr "false"
 
 # Font to use on a Windows system
+# 
 msgid "Win-Font"
-msgstr ""
+msgstr "Tipus de lletra de Windows"
 
 # Font to use on a Mac system
+# 
 msgid "Mac-Font"
-msgstr ""
+msgstr "Tipus de lletra de Mac OSx"
 
 # Font to use on a Linux system
+# 
 msgid "Linux-Font"
-msgstr ""
+msgstr "Tipus de lletra de Linus"
 
 ############################################
 # BLOCKS
 ############################################
-
 msgid "%H sensor value"
 msgstr "valor del sensor %H"
 
@@ -418,13 +419,13 @@ msgid "wait until %b"
 msgstr "espera fins %b"
 
 msgid "when %k key pressed"
-msgstr "al prémer tecla %k"
+msgstr "en prémer tecla %k"
 
 msgid "when %m clicked"
-msgstr "al prémer %m"
+msgstr "en prémer %m"
 
 msgid "when I receive %e"
-msgstr "al rebre %e"
+msgstr "en rebre %e"
 
 msgid "x position"
 msgstr "posició x"
@@ -435,7 +436,6 @@ msgstr "posició y"
 ############################################
 # USER INTERFACE
 ############################################
-
 msgid "(empty)"
 msgstr "(buit)"
 
@@ -956,7 +956,7 @@ msgid "New costume:"
 msgstr "Nou vestit:"
 
 msgid "New file name?"
-msgstr ""
+msgstr "Nou nom de fItxer?"
 
 msgid "New Filename:"
 msgstr "Nom del Fitxer:"
@@ -1393,7 +1393,6 @@ msgstr "Allunya"
 ############################################
 # MIDI INSTRUMENTS
 ############################################
-
 msgid "Accordion"
 msgstr "Acordió"
 
@@ -1918,4 +1917,3 @@ msgstr "Fusta"
 
 msgid "Xylophone"
 msgstr "Xylofon"
-
