@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-06-06 06:21+0200\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"PO-Revision-Date: 2013-11-30 04:38+0200\n"
+"Last-Translator: Emmanuella Pramudita <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -49,11 +49,11 @@ msgstr "tanya %s dan tunggu"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "latar belakang #"
+msgstr "latar #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "nama latar belakang"
+msgstr "nama latar"
 
 msgid "broadcast %m.broadcast"
 msgstr "siarkan pesan %m.broadcast"
@@ -94,38 +94,40 @@ msgstr "ubah y sebesar %n"
 msgid "clear"
 msgstr "bersihkan"
 
+# grafik vs. grafis... :O
 msgid "clear graphic effects"
-msgstr "bersihkan semua efek grafik"
+msgstr "bersihkan semua efek grafis"
 
 msgid "color %c is touching %c?"
-msgstr "warna %c menyentuh %c?"
+msgstr "warna %c menyentuh warna %c?"
 
+# If it starts with a capital letter, then start with a capital letter, and not the other way round! ~R
 msgid "Control"
-msgstr "kontrol"
+msgstr "Kontrol"
 
 msgid "costume #"
 msgstr "kostum #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "buat kloning dari %m.spriteOnly"
+msgstr "buat clone dari %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "saat ini %m.timeAndDate"
 
 msgid "Data"
-msgstr "data"
+msgstr "Data"
 
 msgid "days since 2000"
-msgstr "hari sejak 2000"
+msgstr "hari-hari sejak 2000"
 
 msgid "define"
-msgstr "definisikan"
+msgstr "artikan"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "hapus %d.listDeleteItem dari %m.list"
 
 msgid "delete this clone"
-msgstr "hapus kloning ini"
+msgstr "hapus clone ini"
 
 msgid "direction"
 msgstr "arah"
@@ -134,22 +136,23 @@ msgid "distance"
 msgstr "jarak"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "jarak ke %m.spriteOrMouse"
+msgstr "jarak dari %m.spriteOrMouse"
 
 msgid "else"
-msgstr "selain itu"
+msgstr "jika tidak begitu"
 
 msgid "Events"
-msgstr "kejadian"
+msgstr "Kejadian"
 
+# "selamanya" is confusing
 msgid "forever"
-msgstr "selamanya"
+msgstr "terus"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr "meluncur %n detik ke x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "mundur %n lapisan"
+msgstr "pergi ke belakang %n lapisan"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "pergi ke %m.spriteOrMouse"
@@ -179,13 +182,13 @@ msgid "insert %s at %d.listItem of %m.list"
 msgstr "sisipkan %s pada %d.listItem dari %m.list"
 
 msgid "item %d.listItem of %m.list"
-msgstr "item %d.listItem dari %m.list"
+msgstr "benda %d.listItem dari %m.list"
 
 msgid "join %s %s"
 msgstr "gabungkan %s %s"
 
 msgid "key %m.key pressed?"
-msgstr "tombol %m.key ditekan?"
+msgstr "tombol %m.key tertekan?"
 
 msgid "length of %m.list"
 msgstr "panjang dari %m.list"
@@ -194,22 +197,23 @@ msgid "length of %s"
 msgstr "panjang dari %s"
 
 msgid "letter %n of %s"
-msgstr "huruf %n dari %s"
+msgstr "huruf ke%n dari %s"
 
 msgid "Looks"
-msgstr "tampilan"
+msgstr "Tampilan"
 
 msgid "loudness"
-msgstr "volume suara"
+msgstr "kekerasan suara"
 
 msgid "More Blocks"
-msgstr "Lebih banyak Blok"
+msgstr "Custom Blok"
 
+# Do you forgot to use capitals? 
 msgid "Motion"
-msgstr "gerakan"
+msgstr "Gerakan"
 
 msgid "mouse down?"
-msgstr "mouse ditekan?"
+msgstr "mouse tertekan?"
 
 msgid "mouse x"
 msgstr "mouse x"
@@ -218,11 +222,11 @@ msgid "mouse y"
 msgstr "mouse y"
 
 msgid "move %n steps"
-msgstr "pindah %n langkah"
+msgstr "gerak %n langkah"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr "latar belakang berikutnya"
+msgstr "latar belakang"
 
 msgid "next costume"
 msgstr "kostum berikutnya"
@@ -231,19 +235,19 @@ msgid "not %b"
 msgstr "bukan %b"
 
 msgid "Operators"
-msgstr "operator"
+msgstr "Operator"
 
 msgid "Pen"
-msgstr "pena"
+msgstr "Pena"
 
 msgid "pen down"
-msgstr "turunkan pena"
+msgstr "tekan pena"
 
 msgid "pen up"
 msgstr "angkat pena"
 
 msgid "pick random %n to %n"
-msgstr "pilih acak %n hingga %n"
+msgstr "pilih acak dari %n hingga %n"
 
 msgid "play drum %d.drum for %n beats"
 msgstr "mainkan drum %d.drum sebanyak %n ketukan"
@@ -259,13 +263,13 @@ msgid "play sound %m.sound until done"
 msgstr "mainkan suara %m.sound sampai selesai"
 
 msgid "point in direction %d.direction"
-msgstr "menghadap arah %d.direction"
+msgstr "mengarah ke arah %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "menghadap ke %m.spriteOrMouse"
+msgstr "mengarah ke %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr "ulangi %n"
+msgstr "ulangi sebanyak %n kali"
 
 msgid "repeat until %b"
 msgstr "ulangi sampai %b"
@@ -289,7 +293,7 @@ msgid "say %s for %n secs"
 msgstr "katakan %s selama %n detik"
 
 msgid "Sensing"
-msgstr "sensor"
+msgstr "Sensor"
 
 msgid "sensor %m.booleanSensor?"
 msgstr "sensor %m.booleanSensor?"
@@ -318,7 +322,7 @@ msgid "set pen color to %n"
 msgstr "set warna pena ke %n"
 
 msgid "set pen shade to %n"
-msgstr "set bayangan pena ke %n"
+msgstr "set ketebalan pena ke %n"
 
 msgid "set pen size to %n"
 msgstr "set ukuran pena ke %n"
@@ -348,16 +352,16 @@ msgid "show"
 msgstr "tampilkan"
 
 msgid "show list %m.list"
-msgstr "tunjukkan daftar %m.list"
+msgstr "tampilkan daftar %m.list"
 
 msgid "show variable %m.var"
-msgstr "tunjukkan variabel %m.var"
+msgstr "tampilkan variabel %m.var"
 
 msgid "size"
 msgstr "ukuran"
 
 msgid "Sound"
-msgstr "suara"
+msgstr "Suara"
 
 msgid "stamp"
 msgstr "cap"
@@ -370,14 +374,14 @@ msgstr "hentikan semua suara"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "ganti latar blakang ke %m.backdrop"
+msgstr "ganti latar ke %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "ganti latar belakang ke %m.backdrop dan tunggu"
+msgstr "ganti latar ke %m.backdrop dan tunggu"
 
 msgid "switch costume to %m.costume"
-msgstr "ganti pakaian ke %m.costume"
+msgstr "ganti kostum ke %m.costume"
 
 msgid "tempo"
 msgstr "tempo"
@@ -389,7 +393,7 @@ msgid "think %s for %n secs"
 msgstr "berpikir %s selama %n detik"
 
 msgid "tilt"
-msgstr "miringkan"
+msgstr "kemiringan"
 
 msgid "timer"
 msgstr "timer"
@@ -401,10 +405,10 @@ msgid "touching color %c?"
 msgstr "menyentuh warna %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "putar @turnLeft %n derajad"
+msgstr "putar @turnLeft %n derajat"
 
 msgid "turn @turnRight %n degrees"
-msgstr "putar @turnRight %n derajad"
+msgstr "putar @turnRight %n derajat"
 
 msgid "turn motor off"
 msgstr "matikan motor"
@@ -419,8 +423,9 @@ msgstr "hidupkan motor selama %n detik"
 msgid "turn video %m.videoState"
 msgstr "putar video %m.videoState"
 
+# Username banyak digunakan di website-website, termasuk yang berbahasa Indonesia.
 msgid "username"
-msgstr ""
+msgstr "username"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "video %m.videoMotionType pada %m.stageOrThis"
@@ -439,32 +444,32 @@ msgid "when %m.booleanSensor"
 msgstr "ketika %m.booleanSensor?"
 
 msgid "when %m.key key pressed"
-msgstr "bila tombol %m.key ditekan"
+msgstr "ketika tombol %m.key ditekan"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "ketika %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "bila @greenFlag diklik"
+msgstr "ketika @greenFlag diklik"
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+# If we can keep it simple, just keep it simple. ~R
 msgid "when backdrop switches to %m.backdrop"
-msgstr "ketika latar belakang diganti menjadi %m.backdrop"
+msgstr "ketika latar menjadi %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "ketika jarak < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "ketika aku menerima %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "ketika aku mulai sebagai clone"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "ketika sprite ini diklik"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "ketika kemiringan = %n"
 
 msgid "x position"
 msgstr "posisi x"

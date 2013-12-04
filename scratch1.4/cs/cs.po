@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2008-03-22 10:23-0400\n"
-"PO-Revision-Date: 2013-01-28 20:22+0200\n"
+"PO-Revision-Date: 2013-01-31 20:49+0200\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -306,7 +306,7 @@ msgstr "vynuluj stopky"
 
 # pauza se nehraje
 msgid "rest for %n beats"
-msgstr "udělej pauzu %n"
+msgstr "pauza %n taktů"
 
 msgid "round %n"
 msgstr "zaokrouhli %n"
@@ -448,7 +448,7 @@ msgid "(empty)"
 msgstr "(prázdný)"
 
 msgid "1 script"
-msgstr "1 skript"
+msgstr "1 scénář"
 
 msgid "About Scratch"
 msgstr "O Scratch"
@@ -990,7 +990,7 @@ msgid "No motion blocks"
 msgstr "Žádné bloky pohybu"
 
 msgid "no scripts"
-msgstr "žádné skripty"
+msgstr "žádné scénáře"
 
 msgid "No serial ports found"
 msgstr "Sériové porty nenalezeny"
@@ -1161,7 +1161,7 @@ msgid "Save failed"
 msgstr "Uložení selhalo"
 
 msgid "save picture of scripts"
-msgstr "ulož obrázek ze všech skriptů"
+msgstr "ulož obrázek ze všech scénářů"
 
 msgid "save picture of stage..."
 msgstr "ulož obrázek scény"

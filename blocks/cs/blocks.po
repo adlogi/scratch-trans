@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-02 15:13+0200\n"
+"PO-Revision-Date: 2013-11-22 13:18+0200\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -153,14 +153,16 @@ msgstr "klouzej %n sekund na x:%n y:%n"
 msgid "go back %n layers"
 msgstr "jdi do pozadí o %n urovní"
 
+# J.Vaníček
 msgid "go to %m.spriteOrMouse"
-msgstr "jdi na %m.spriteOrMouse"
+msgstr "skoč na %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "jdi do popředí"
 
+# J.Vaníček
 msgid "go to x:%n y:%n"
-msgstr "jdi na pozici x:%n y:%n"
+msgstr "skoč na pozici x:%n y:%n"
 
 msgid "hide"
 msgstr "skryj se"
@@ -245,8 +247,9 @@ msgstr "pero dolů"
 msgid "pen up"
 msgstr "pero nahoru"
 
+# J.Vaníček
 msgid "pick random %n to %n"
-msgstr "zvol náhodné číslo od %n do %n"
+msgstr "náhodné číslo od %n do %n"
 
 msgid "play drum %d.drum for %n beats"
 msgstr "bubnuj %d.drum příštích %n taktů"
@@ -336,7 +339,7 @@ msgid "set size to %n%"
 msgstr "nastav velikost na %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "nastav tempo na %n bpm"
+msgstr "nastav tempo na %n taktů/min"
 
 msgid "set video transparency to %n%"
 msgstr "nastav průhlednost videa na %n%"

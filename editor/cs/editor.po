@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:51+0200\n"
-"PO-Revision-Date: 2013-07-30 14:59+0200\n"
+"PO-Revision-Date: 2013-11-22 14:09+0200\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -29,7 +29,7 @@ msgid "a copy of the project file on your computer."
 msgstr "kopie souboru s projektem na tvém počítači."
 
 msgid "abs"
-msgstr "absolutní hodnota"
+msgstr "abs"
 
 msgid "Account settings"
 msgstr "Nastavení účtu"
@@ -262,10 +262,10 @@ msgid "Connecting to Cloud data server..."
 msgstr "Spojování s Cloud data serverem..."
 
 msgid "Convert to bitmap"
-msgstr "Konverze na bitmapu"
+msgstr "Převést na bitmapu (dlouhé)"
 
 msgid "Convert to vector"
-msgstr "Konverze na vektor"
+msgstr "Převést na vektor"
 
 msgid "Converting mp3..."
 msgstr "Konvertuji mp3..."
@@ -546,7 +546,7 @@ msgstr "Úsečka"
 
 # 90%
 msgid "Line width"
-msgstr "Šířka úsečky"
+msgstr "Šířka čáry"
 
 # 75%
 msgid "list"
@@ -862,8 +862,9 @@ msgstr "Uložit"
 msgid "Save as a copy"
 msgstr "Uložit jako kopii"
 
+# J.Vaníček
 msgid "Save now"
-msgstr "Uložit nyní"
+msgstr "Uložit aktuální stav"
 
 msgid "save to local file"
 msgstr "uložit do lokálního souboru"
@@ -894,8 +895,9 @@ msgstr "Scénáře:"
 msgid "second"
 msgstr "sekunda"
 
+# J.Vaníček
 msgid "See project page"
-msgstr "Viz stránka projektu"
+msgstr "Pohlédni na stránku projektu"
 
 msgid "Select"
 msgstr "Výběr"
