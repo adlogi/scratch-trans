@@ -3,20 +3,19 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2008-01-03 20:45+0200\n"
-"PO-Revision-Date: 2009-07-08 02:30-0400\n"
-"Last-Translator: Kerim Kürşat GÜNEY <kkguney@gmail.com>\n"
+"PO-Revision-Date: 2013-03-10 22:47+0200\n"
+"Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 1.2.0\n"
+"X-Generator: Pootle 2.1.6\n"
 
 ############################################
 # FORMATTING
 ############################################
-
 # Menüde gözükmesin istediğiniz dil<br />
 # <br />
 # (Required)
@@ -31,8 +30,9 @@ msgstr "LTR"
 
 # Scale to apply to font size (2 for twice as large)
 # Use this if the font is too small for legibility on the Scratch interface
+# 
 msgid "Font-Scale"
-msgstr "1"
+msgstr "Font-Ölçeği"
 
 # Set to 'true' or 'false'
 # Use this if you do not want any of the text to be bolded, for legibility
@@ -51,18 +51,18 @@ msgstr "Mac yazı tipi"
 msgid "Linux-Font"
 msgstr "Linux-yazı tipi"
 
-############################################
+# ##########################################
 # BLOCKS
-############################################
-
+# ##########################################
+# 
 msgid "%H sensor value"
-msgstr "Sensör değeri %H"
+msgstr "%H algılayıcısının değeri"
 
 msgid "%L contains %s"
-msgstr "%L, %s içermektedir"
+msgstr "%L'nin içinde %s var (mı?)"
 
 msgid "%a of %m"
-msgstr "%m'in %a'sı"
+msgstr "%a'sı %m'nin"
 
 msgid "%b and %b"
 msgstr "%b ve %b"
@@ -71,361 +71,361 @@ msgid "%b or %b"
 msgstr "%b veya %b"
 
 msgid "%f of %n"
-msgstr "%f da %n"
+msgstr "%f %n"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %L"
-msgstr "%s'e %L ekleyin"
+msgstr "%s i %L e ekle"
 
 msgid "answer"
 msgstr "yanıt"
 
 msgid "ask %s and wait"
-msgstr "%s sor ve bekle"
+msgstr "%s diye sor ve bekle"
 
 msgid "background #"
-msgstr "Arkaplan #"
+msgstr "arkaplan #"
 
 msgid "broadcast %e"
-msgstr "%e yayınlayın"
+msgstr "%e haberini sal"
 
 msgid "broadcast %e and wait"
-msgstr "%e yayınlayın ve bekleyin"
+msgstr "%e haberini sal ve bekle"
 
 msgid "change %g effect by %n"
-msgstr "%g efektini %n ile değiştirin"
+msgstr "%g etkisini %n arttır"
 
 msgid "change %v by %n"
-msgstr "%v %n kadar değiştirin"
+msgstr "%v i %n arttır"
 
 msgid "change pen color by %n"
-msgstr "Kalem rengini %n değiştirin"
+msgstr "kalem rengini %n arttır"
 
 msgid "change pen shade by %n"
-msgstr "Kalem gölgesini %n değiştirin"
+msgstr "kalem tonunu %n arttır"
 
 msgid "change pen size by %n"
-msgstr "Kalem boyunu %n değiştirin"
+msgstr "kalem kalınlığını %n arttır"
 
 msgid "change size by %n"
-msgstr "Boyu %n değiştirin"
+msgstr "%n birim büyüt"
 
 msgid "change tempo by %n"
-msgstr "Tempoyu %n değiştirin"
+msgstr "tempoyu %n arttır"
 
 msgid "change volume by %n"
-msgstr "Sesi %n değiştirin"
+msgstr "sesi %n birim yükselt"
 
 msgid "change x by %n"
-msgstr "x'i %n değiştirin"
+msgstr "x'i %n arttır"
 
 msgid "change y by %n"
-msgstr "y'yi %n değiştirin"
+msgstr "y'yi %n arttır"
 
 msgid "clear"
-msgstr "Temizleyin"
+msgstr "temizle"
 
 msgid "clear graphic effects"
-msgstr "Grafik efektlerini temizleyin"
+msgstr "görsel etkileri temizle"
 
 msgid "color %C is touching %C?"
-msgstr "%C renk %C renge yaklaşıyor mu?"
+msgstr "%C rengi %C rengine değdi mi?"
 
 msgid "control"
-msgstr "Kontrol"
+msgstr "kontrol"
 
 msgid "costume #"
-msgstr "Kostüm #"
+msgstr "kılık #"
 
 msgid "delete %y of %L"
-msgstr "%y'in %L'sini silin"
+msgstr "sil %y'sini %L'nin"
 
 msgid "direction"
-msgstr "Yön"
+msgstr "yön"
 
 msgid "distance to %m"
-msgstr "%m uzaklığı"
+msgstr "%m'e uzaklık"
 
 msgid "else"
-msgstr "Başka"
+msgstr "değilse"
 
 msgid "forever"
-msgstr "Sürekli"
+msgstr "sürekli"
 
 msgid "forever if %b"
 msgstr "%b ise sürekli"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n saniyede x:%n y:%n konumuna gidin"
+msgstr "%n saniyede x:%n y:%n konumuna kay"
 
 msgid "go back %n layers"
-msgstr "%n katman geriye gidin"
+msgstr "%n katman geriye git"
 
 msgid "go to %m"
-msgstr "%m'e gidin"
+msgstr "%m'e git"
 
 msgid "go to front"
-msgstr "Öne gidin"
+msgstr "öne git"
 
 msgid "go to x:%n y:%n"
-msgstr "x:%n y:%n konumuna gidin"
+msgstr "x:%n y:%n konumuna git"
 
 msgid "hide"
-msgstr "Gizleyin"
+msgstr "gizlen"
 
 msgid "hide variable %v"
-msgstr "%v değişkenini gizleyin"
+msgstr "%v değişkenini gizle"
 
 msgid "if %b"
-msgstr "Eğer %b ise"
+msgstr "eğer %b ise"
 
 msgid "if on edge, bounce"
-msgstr "Kenarda ise, zıplatın"
+msgstr "kenara geldiysen sek"
 
 msgid "insert %s at %i of %L"
-msgstr "%s'in %i'sine %L'i ekleyin"
+msgstr "koy %s'i %i . sırasına %L'nin"
 
 msgid "item %i of %L"
-msgstr "%i'in %L parçası"
+msgstr "%i .si %L'nin"
 
 msgid "join %s %s"
-msgstr "%s %s dahil ol"
+msgstr "%s ile %s'i birleştir"
 
 msgid "key %k pressed?"
-msgstr "%k tuşu basılı?"
+msgstr "%k tuşu basılı (mı?)"
 
 msgid "length of %L"
 msgstr "%L'in uzunluğu"
 
 msgid "length of %s"
-msgstr "%s uzunluğu"
+msgstr "%s'nin uzunluğu"
 
 msgid "letter %n of %s"
-msgstr "%s'nin %n harfi"
+msgstr "%n . harfi %s'nin"
 
 msgid "list"
-msgstr "Listeleyin"
+msgstr "liste"
 
 msgid "looks"
-msgstr "Görünüm"
+msgstr "görünümler"
 
 msgid "loud?"
-msgstr "Yüksek sesle?"
+msgstr "ses yüksek mi?"
 
 msgid "loudness"
-msgstr "Ses yüksekliği"
+msgstr "ses yüksekliği"
 
 msgid "motion"
-msgstr "Hareket"
+msgstr "hareket"
 
 msgid "motor direction %W"
 msgstr "%W motor yönü"
 
 msgid "motor off"
-msgstr "motor kapalı"
+msgstr "motoru kapat"
 
 msgid "motor on"
-msgstr "motor açık"
+msgstr "motoru aç"
 
 msgid "motor on for %n secs"
-msgstr "%n saniye için motor açık"
+msgstr "%n saniye süreyle motoru aç"
 
 msgid "motor power %n"
 msgstr "motor gücü %n"
 
 msgid "mouse down?"
-msgstr "Mouse basılı?"
+msgstr "fareye basılı (mı?)"
 
 msgid "mouse x"
-msgstr "Mouse x"
+msgstr "farenin x'i"
 
 msgid "mouse y"
-msgstr "Mouse y"
+msgstr "farenin y'si"
 
 msgid "move %n steps"
-msgstr "%n adım gidin"
+msgstr "%n adım git"
 
 msgid "next background"
-msgstr "Sonraki arka plan"
+msgstr "sonraki arka plan"
 
 msgid "next costume"
-msgstr "Sonraki karakter"
+msgstr "sonraki kılık"
 
 msgid "not %b"
 msgstr "%b değil"
 
 msgid "operators"
-msgstr "operatörler"
+msgstr "işlemler"
 
 msgid "pen"
-msgstr "Kalem"
+msgstr "kalem"
 
 msgid "pen down"
-msgstr "Kalemi bastırın"
+msgstr "kalemi bastır"
 
 msgid "pen up"
-msgstr "Kalemi kaldırın"
+msgstr "kalemi kaldır"
 
 msgid "pick random %n to %n"
-msgstr "%n ile %n arası rastgele seçin"
+msgstr "%n ile %n arasında bir sayı seç"
 
 msgid "play drum %D for %n beats"
-msgstr "%D bateriyi %n defa çalın"
+msgstr "%D davulunu %n vuruş çal"
 
 msgid "play note %N for %n beats"
-msgstr "%N notasını %n defa çalın"
+msgstr "%N notasını %n vuruş çal"
 
 msgid "play sound %S"
-msgstr "%S sesini çalın"
+msgstr "%S sesini çal"
 
 msgid "play sound %S until done"
-msgstr "%S sesini bitene kadar çalın"
+msgstr "%S sesini bitene kadar çal"
 
 msgid "point in direction %d"
-msgstr "%d yönüne dönün"
+msgstr "%d yönüne dön"
 
 msgid "point towards %m"
-msgstr "%m doğru dönün"
+msgstr "%m 'e doğru dön"
 
 msgid "repeat %n"
-msgstr "%n defa tekrarlayın"
+msgstr "%n defa tekrarla"
 
 msgid "repeat until %b"
-msgstr "%b olana kadar tekrarlayın"
+msgstr "%b olana kadar tekrarla"
 
 msgid "replace item %i of %L with %s"
-msgstr "%i'in %L'sini %s olarak değiştirin"
+msgstr "değiştir %i'sini %L'nin, %s ile"
 
 msgid "reset timer"
-msgstr "sayacı sıfırlayın"
+msgstr "süre ölçeri sıfırla"
 
 msgid "rest for %n beats"
-msgstr "%n vuruşunu bekleyin"
+msgstr "%n vuruş dur"
 
 msgid "round %n"
-msgstr "%n yuvarlayın"
+msgstr "%n 'i yuvarla"
 
 msgid "say %s"
-msgstr "söyleyin:%s"
+msgstr "%s de"
 
 msgid "say %s for %n secs"
-msgstr "Söyle:%s süre:%n saniye"
+msgstr "%s de %n saniye"
 
 msgid "sensing"
-msgstr "Algılama"
+msgstr "algılama"
 
 msgid "sensor %h?"
-msgstr "Sensör %h?"
+msgstr "algılayıcı %h (mı?)"
 
 msgid "set %g effect to %n"
-msgstr "%g efektini %n yapın"
+msgstr "%g etkisini %n yap"
 
 msgid "set %v to %n"
-msgstr "%v'i %n yapın"
+msgstr "%v'i %n yap"
 
 msgid "set instrument to %I"
-msgstr "Enstrümanı %I yapın"
+msgstr "çalgıyı %I yap"
 
 msgid "set pen color to %c"
-msgstr "Kalem rengini %c yapın"
+msgstr "kalem rengini %c yap"
 
 msgid "set pen color to %n"
-msgstr "Kalem rengini %n yapın"
+msgstr "kalem rengini %n yap"
 
 msgid "set pen shade to %n"
-msgstr "Kalem gölgesini %n yapın"
+msgstr "kalem tonunu %n yap"
 
 msgid "set pen size to %n"
-msgstr "Kalem boyunu %n yapın"
+msgstr "kalem kalınlığını %n yap"
 
 msgid "set size to %n%"
-msgstr "Boyu %n% yapın"
+msgstr "büyüklüğü % %n yap"
 
 msgid "set tempo to %n bpm"
-msgstr "Tempoyu %n bpm yapın"
+msgstr "tempoyu %n vuruş/dk yap"
 
 msgid "set volume to %n%"
-msgstr "Ses yüksekliğini %n% yapın"
+msgstr "ses yüksekliğini % %n yap"
 
 msgid "set x to %n"
-msgstr "x'i %n yapın"
+msgstr "x'i %n yap"
 
 msgid "set y to %n"
-msgstr "y'yi %n yapın"
+msgstr "y'yi %n yap"
 
 msgid "show"
-msgstr "Göster"
+msgstr "görün"
 
 msgid "show variable %v"
-msgstr "%v değişkenini gösterin"
+msgstr "%v değişkenini göster"
 
 msgid "size"
-msgstr "Ebat"
+msgstr "büyüklük"
 
 msgid "sound"
-msgstr "Ses"
+msgstr "ses"
 
 msgid "stamp"
-msgstr "Damga"
+msgstr "iz bırak"
 
 msgid "stop all"
-msgstr "Tümünü durdurun"
+msgstr "tümünü durdur"
 
 msgid "stop all sounds"
-msgstr "Tüm sesleri durdurun"
+msgstr "tüm sesleri durdur"
 
 msgid "stop script"
-msgstr "Programı durdurun"
+msgstr "programı durdur"
 
 msgid "switch to background %l"
-msgstr "%l arkaplanına geçin"
+msgstr "%l arkaplanına geç"
 
 msgid "switch to costume %l"
-msgstr "%l kostümüne geçin"
+msgstr "%l kılığına geç"
 
 msgid "tempo"
-msgstr "Tempo"
+msgstr "tempo"
 
 msgid "think %s"
-msgstr "%s'i düşünün"
+msgstr "%s diye düşün"
 
 msgid "think %s for %n secs"
-msgstr "%s süre %n saniye düşünün"
+msgstr "%s diye düşün %n saniye"
 
 msgid "timer"
-msgstr "Zamanlayıcı"
+msgstr "süre ölçer"
 
 msgid "touching %m?"
-msgstr "%m yaklaşıyor mu?"
+msgstr "%m e değdi (mi?)"
 
 msgid "touching color %C?"
-msgstr "%C rengine yaklaşıyor mu?"
+msgstr "%C rengine değdi (mi?)"
 
 msgid "turn %n degrees"
-msgstr "%n derece dönün"
+msgstr "%n derece dön"
 
 msgid "variables"
-msgstr "Değişkenler"
+msgstr "değişkenler"
 
 msgid "volume"
-msgstr "Ses"
+msgstr "ses"
 
 msgid "wait %n secs"
-msgstr "%n saniye bekleyin"
+msgstr "%n saniye bekle"
 
 msgid "wait until %b"
-msgstr "%b olana kadar bekleyin"
+msgstr "%b olana kadar bekle"
 
 msgid "when %k key pressed"
-msgstr "%k tuşu basıldığında"
+msgstr "%k tuşu basılınca"
 
 msgid "when %m clicked"
-msgstr "%m tıklandığında"
+msgstr "%m tıklanınca"
 
 msgid "when I receive %e"
-msgstr "%e aldığımda"
+msgstr "%e haberi gelince"
 
 msgid "x position"
 msgstr "x konumu"
@@ -436,12 +436,11 @@ msgstr "y konumu"
 ############################################
 # USER INTERFACE
 ############################################
-
 msgid "(empty)"
 msgstr "(boş)"
 
 msgid "1 script"
-msgstr "1 yazılı metin"
+msgstr "1 yönerge"
 
 msgid "About Scratch"
 msgstr "Scratch Hakkında"
@@ -450,13 +449,13 @@ msgid "About this project:"
 msgstr "Bu proje hakkında:"
 
 msgid "abs"
-msgstr "mutlakdeger"
+msgstr "mutlak değer"
 
 msgid "add comment"
-msgstr "yorum ekleyin"
+msgstr "not düş"
 
 msgid "add comment here"
-msgstr "buraya yorum ekleyin"
+msgstr "buraya notunuzu yazın"
 
 msgid "all"
 msgstr "hepsi"
@@ -465,13 +464,13 @@ msgid "and"
 msgstr "ve"
 
 msgid "Animation"
-msgstr "animasyon"
+msgstr "Animasyon"
 
 msgid "any"
-msgstr "hiç"
+msgstr "herhangi"
 
 msgid "Art"
-msgstr "sanat"
+msgstr "Sanat"
 
 msgid "background"
 msgstr "arka plan"
@@ -486,136 +485,137 @@ msgid "brightness"
 msgstr "parlaklık"
 
 msgid "Brush size: "
-msgstr "Fırça boyu:"
+msgstr "Fırça kalınlığı: "
 
 msgid "button"
 msgstr "düğme"
 
 msgid "button pressed"
-msgstr "düğmeye basıldı."
+msgstr "düğmesine basıldı"
 
 msgid "Camera"
-msgstr "kamera"
+msgstr "Kamera"
 
 msgid "can rotate"
-msgstr "dönebilir."
+msgstr "dönebilir"
 
 msgid "cancel"
-msgstr "iptal edin"
+msgstr "iptal"
 
 msgid "Cancel"
 msgstr "İptal"
 
 msgid "Choose a folder"
-msgstr "Bir klasör seçin"
+msgstr "Bir klasör seç"
 
 msgid "Choose new sprite from file"
-msgstr "Dosyadan yeni karakter seçin"
+msgstr "Dosyadan yeni bir kukla seç"
 
 msgid "clean up"
-msgstr "temizleyin"
+msgstr "temizle"
 
 msgid "Clear"
-msgstr "silin"
+msgstr "Temizle"
 
 msgid "Clear canvas"
-msgstr "tuvali silin"
+msgstr "Alanı temizle"
 
 msgid "Close and continue"
-msgstr "kapat ve devam et"
+msgstr "Kapat ve devam et"
 
+#, fuzzy
 msgid "Close dialog?"
-msgstr "konuşmayı kapatacak mısın?"
+msgstr "Pencereyi kapatayım mı?"
 
 msgid "Close paint editor?"
-msgstr "resim düzenleyicisini kapatacak mısın?"
+msgstr "Resim düzenleyiciyi kapatayım mı?"
 
 msgid "close port"
-msgstr "portu kapatın"
+msgstr "portu kapat"
 
 msgid "Close sound recorder?"
-msgstr "ses kaydedicisini kapatacak mısın?"
+msgstr "Ses kaydediciyi kapatayım mı?"
 
 msgid "color"
 msgstr "renk"
 
 msgid "Compress Images"
-msgstr "resimleri sıkıştırın"
+msgstr "Resimleri sıkıştır"
 
 msgid "Compress Sounds"
-msgstr "sesleri sıkıştırın"
+msgstr "Sesleri sıkıştır"
 
 msgid "Compress sounds and images"
-msgstr "Ses ve resimleri sıkıştırın"
+msgstr "Ses ve resimleri sıkıştır"
 
 msgid "Computer"
 msgstr "Bilgisayar"
 
 msgid "connected"
-msgstr "bağlandı."
+msgstr "bağlandı"
 
 msgid "Connecting to "
-msgstr "Bağlanıyor:"
+msgstr "Bağlanıyor: "
 
 msgid "Copy"
 msgstr "Kopya"
 
 msgid "costume"
-msgstr "kostüm"
+msgstr "kılık"
 
 msgid "costumes"
-msgstr "kostümler"
+msgstr "kılıklar"
 
 msgid "Costumes"
-msgstr "Kostümler"
+msgstr "Kılıklar"
 
 msgid "Could not read"
-msgstr "Okunamıyor"
+msgstr "Okuyamıyorum"
 
 msgid "Could not read project; file may be damaged"
-msgstr "Projeyi okuyamıyor, dosya zarar görmüş olabilir"
+msgstr "Projeyi okuyamıyorum; dosya bozulmuş olabilir"
 
 msgid "Could not write file"
-msgstr "Dosyaya yazılamıyor"
+msgstr "Dosyaya yazamıyorum"
 
 msgid "Create account"
-msgstr "Hesap oluşturun"
+msgstr "Hesap oluştur"
 
 msgid "Create an empty project"
-msgstr "Boş bir proje oluşturun"
+msgstr "Boş bir proje oluştur"
 
 msgid "Data sent. Waiting for response..."
-msgstr "Veri gonderildi. Yanıt bekleniyor..."
+msgstr "Veriyi gönderdim. Cevap bekliyorum..."
 
 msgid "delete"
-msgstr "silin"
+msgstr "sil"
 
 msgid "Delete"
 msgstr "Sil"
 
 msgid "Delete a list"
-msgstr "Bir liste silin"
+msgstr "Bir listeyi sil"
 
 msgid "Delete a variable"
-msgstr "Bir değişken silin"
+msgstr "Bir değişkeni sil"
 
 msgid "Delete this background"
-msgstr "bu arkaplanı sil"
+msgstr "Bu arkaplanı sil"
 
 msgid "Delete this costume"
-msgstr "Bu kostümü silin"
+msgstr "Bu kılığı sil"
 
 msgid "Delete this sound"
-msgstr "Bu sesi silin"
+msgstr "Bu sesi sil"
 
 msgid "Delete this sprite"
-msgstr "bu karakteri sil"
+msgstr "Bu kuklayı sil"
 
 msgid "Desktop"
-msgstr "masaüstü"
+msgstr "Masaüstü"
 
 msgid "disable remote sensor connections"
-msgstr "uzaktan kumandalı sensör bağlantılarını inaktif yap"
+msgstr "dış algılayıcı bağlantılarını kes"
 
 msgid "distance"
 msgstr "mesafe"
@@ -624,34 +624,34 @@ msgid "Documents"
 msgstr "Belgeler"
 
 msgid "don't rotate"
-msgstr "döndürmeyin"
+msgstr "dönemesin"
 
 msgid "Don't Save"
 msgstr "Kaydetme"
 
 msgid "Done"
-msgstr "Tamamlandı"
+msgstr "Bitti"
 
 msgid "down"
 msgstr "aşağı"
 
 msgid "down arrow"
-msgstr "aşağı oku"
+msgstr "aşağı ok"
 
 msgid "drag to resize"
-msgstr "yeniden boyutlandırmak için sürükle"
+msgstr "sürükle büyüsün"
 
 msgid "drag to rotate"
-msgstr "döndürmek için sürükle"
+msgstr "sürükle dönsün"
 
 msgid "draggable on website?"
-msgstr "web sitesinde taşınabilir mi?"
+msgstr "oyunda taşınabilsin mi?"
 
 msgid "duplicate"
-msgstr "çoğaltın"
+msgstr "kopya çıkar"
 
 msgid "Duplicate"
-msgstr "Çoğalt"
+msgstr "Kopya Çıkar"
 
 msgid "edge"
 msgstr "kenar"
@@ -660,19 +660,19 @@ msgid "Edit"
 msgstr "Düzenle"
 
 msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
-msgstr "Elips aracı (boş ya da dolu elips çiziniz veya daire çizin)"
+msgstr "Elips çizer (boş/dolu elips veya daire çizer)"
 
 msgid "enable remote sensor connections"
-msgstr "uzak sensör bağlantılarını sağlayın"
+msgstr "dış algılayıcı bağlantılarını devreye al"
 
 msgid "Enter presentation mode"
-msgstr "Sunum konumuna geçin"
+msgstr "Sunum moduna geç"
 
 msgid "Eraser"
 msgstr "Silgi"
 
 msgid "Eraser size"
-msgstr "Silgi boyu"
+msgstr "Silgi büyüklüğü"
 
 msgid "Error!"
 msgstr "Hata!"
@@ -684,40 +684,40 @@ msgid "Exit presentation"
 msgstr "Sunumdan çık"
 
 msgid "Exit presentation mode"
-msgstr "Sunum modundan çıkın"
+msgstr "Sunum modundan çık"
 
 msgid "export"
-msgstr "dışa aktarın"
+msgstr "dışarı aktar"
 
 msgid "Export Background"
-msgstr "Arka planı dışa aktarın"
+msgstr "Arka Planı Dışarı Aktar"
 
 msgid "Export Costume"
-msgstr "Kostümü dışa aktarın"
+msgstr "Kılığı Dışarı Aktar"
 
 msgid "Export failed"
 msgstr "Dışa aktarma başarısız oldu"
 
 msgid "Export Sound"
-msgstr "Sesi dışa aktarın"
+msgstr "Sesi Dışarı Aktar"
 
 msgid "Export Sprite"
-msgstr "Dışa karakter aktarın"
+msgstr "Kuklayı Dışarı Aktar"
 
 msgid "export this costume"
-msgstr "Bu kostümü aktar"
+msgstr "bu kılığı dışarı aktar"
 
 msgid "export this sound"
-msgstr "bu sesi aktar"
+msgstr "bu sesi dışarı aktar"
 
 msgid "export this sprite"
-msgstr "bu karakteri dışa aktarın"
+msgstr "bu karakteri dışarı aktar"
 
 msgid "Extras menu"
-msgstr "Ekstralar menüsü"
+msgstr "İlaveler menüsü"
 
 msgid "Eyedropper tool (select a color)"
-msgstr "Renk seçme aracı (bir renk seçin)"
+msgstr "Renk seçiçi (sahneden bir renk seçer)"
 
 msgid "Failed:"
 msgstr "İşlem Başarısız:"
@@ -729,10 +729,10 @@ msgid "File"
 msgstr "Dosya"
 
 msgid "File not found"
-msgstr "Dosya bulunamadı."
+msgstr "Dosyayı bulamadım"
 
 msgid "Fill tool (fill areas with color or gradient)"
-msgstr "Doldurma aracı (alanları renk veya çizgi ile doldurun)"
+msgstr "Dolgucu (bölge içlerini renk veya renk geçişi ile doldurur)"
 
 msgid "first"
 msgstr "ilk"
@@ -747,49 +747,49 @@ msgid "Flash blocks (slow)"
 msgstr "Flash blokları (yavaş)"
 
 msgid "Flip horizontally"
-msgstr "Yatay ters çevirin"
+msgstr "Sağını soluna getir"
 
 msgid "Flip vertically"
-msgstr "Dikey ters çevirin"
+msgstr "Tepetaklak yap"
 
 msgid "For all sprites"
-msgstr "Tüm karakterler için"
+msgstr "Tüm kuklalar için"
 
 msgid "For this sprite only"
-msgstr "Sadece bu karakter için"
+msgstr "Sadece bu kukla için"
 
 msgid "Game"
 msgstr "Oyun"
 
 msgid "Get surprise sprite"
-msgstr "Sürpriz karakter getirin"
+msgstr "Rastgele bir kukla getir"
 
 msgid "Get the last thing deleted"
-msgstr "Son silineni getirin"
+msgstr "Son silineni geri getir"
 
 msgid "Getting Started"
-msgstr "Başlayın"
+msgstr "Başlarken"
 
 msgid "ghost"
 msgstr "hayalet"
 
 msgid "Go To Scratch Website"
-msgstr "Scratch Web Sayfasına git"
+msgstr "Scratch Web Sayfasına Git"
 
 msgid "grab screen region for new costume"
-msgstr "Yeni kostüm için ekran bölümü alın"
+msgstr "ekranın bir kısmını kesip yeni kılık yap"
 
 msgid "grab screen region for new sprite"
-msgstr "Yeni karakter için ekran bölümü alın"
+msgstr "ekranın bir kısmını kesip yeni kukla yap"
 
 msgid "Grow"
 msgstr "Büyüt"
 
 msgid "Grow sprite"
-msgstr "Karakter büyütün"
+msgstr "Kuklayı büyüt"
 
 msgid "hello "
-msgstr "merhaba_"
+msgstr "merhaba "
 
 msgid "Hello!"
 msgstr "Merhaba!"
@@ -798,16 +798,16 @@ msgid "help"
 msgstr "yardım"
 
 msgid "Help"
-msgstr "yardım"
-
-msgid "Help Page"
 msgstr "Yardım"
 
+msgid "Help Page"
+msgstr "Yardım Sayfası"
+
 msgid "Help Screens"
-msgstr "Yardım Ekranı"
+msgstr "Yardım Ekranları"
 
 msgid "Hide Motor Blocks"
-msgstr "Motor Blokları Gizle"
+msgstr "Motor Bloklarını Gizle"
 
 msgid "High (biggest)"
 msgstr "Yüksek (en büyük)"
@@ -819,46 +819,46 @@ msgid "Home"
 msgstr "Anasayfa"
 
 msgid "Images compressed"
-msgstr "Resimler sıkıştı"
+msgstr "Resimleri sıkıştırdım"
 
 msgid "import"
-msgstr "içeri aktarın"
+msgstr "dışardan al"
 
 msgid "Import"
-msgstr "İçeri Aktar"
+msgstr "Dışardan al"
 
 msgid "Import an image on top of your current canvas"
-msgstr "Mevcut kanvasın üzerindeki resmi içeri aktarın"
+msgstr "Mevcut tuvalin üzerine bir dışardan bir resim aktar"
 
 msgid "Import Background"
-msgstr "Arka planı içeri aktarın"
+msgstr "Arka planı dışardan al"
 
 msgid "Import Costume"
-msgstr "Kostüm içeri aktarın"
+msgstr "Kılığı Dışardan Al"
 
 msgid "Import Image"
-msgstr "Resmi içeri aktarın"
+msgstr "Resmi Dışardan Al"
 
 msgid "Import List"
-msgstr "Listeyi içeri aktarın"
+msgstr "Listeyi Dışardan Al"
 
 msgid "Import Project"
-msgstr "Projeyi içeri aktarın"
+msgstr "Projeyi Dışardan Al"
 
 msgid "import project"
-msgstr "projeyi içeriye aktarın"
+msgstr "projeyi dışardan al"
 
 msgid "Import Sound"
-msgstr "Sesi içeri aktarın"
+msgstr "Sesi Dışardan Al"
 
 msgid "Incompatible Scratch file format"
-msgstr "Uyumsuz Scratch dosya formatı"
+msgstr "Scratch dosya formatı uyumsuz"
 
 msgid "Is the folder read-only?"
 msgstr "Dosya salt okunur mu?"
 
 msgid "JPEG Quality (10-100)?"
-msgstr "JPEG kalitesi (10-100)"
+msgstr "JPEG Kalitesi (10-100)?"
 
 msgid "kbytes"
 msgstr "kbyte"
@@ -867,7 +867,7 @@ msgid "Language"
 msgstr "Dil"
 
 msgid "large readout"
-msgstr "büyük grafik yazi"
+msgstr "büyük gösterge"
 
 msgid "last"
 msgstr "son"
@@ -885,22 +885,22 @@ msgid "light"
 msgstr "ışık"
 
 msgid "Line tool (draw lines)"
-msgstr "Çizgi aracı (çizgi çiz)"
+msgstr "Çizgici (çizgi çizer)"
 
 msgid "List name?"
-msgstr "İsmi düzenleyecek misin?"
+msgstr "Listenin adı ne olsun?"
 
 msgid "Low"
 msgstr "Alçak"
 
 msgid "Lowest (smallest)"
-msgstr "En küçük"
+msgstr "En düşük (en küçük)"
 
 msgid "Make a list"
-msgstr "Listele"
+msgstr "Bir liste oluştur"
 
 msgid "Make a variable"
-msgstr "Değişken oluşturun"
+msgstr "Bir değişken oluştur"
 
 msgid "Max:"
 msgstr "En büyük:"
@@ -909,7 +909,7 @@ msgid "meow"
 msgstr "miyav"
 
 msgid "Message name:"
-msgstr "Mesaj adı:"
+msgstr "Mesajın adı:"
 
 msgid "Min:"
 msgstr "En küçük:"
@@ -921,22 +921,23 @@ msgid "more"
 msgstr "daha fazla"
 
 msgid "More tags:"
-msgstr "Daha fazla etiket:"
+msgstr "İlave etiketler:"
 
 msgid "mosaic"
-msgstr "mozaik"
+msgstr "çoklanma"
 
 msgid "mouse x:"
-msgstr "mouse x:"
+msgstr "farenin x'si:"
 
 msgid "mouse y:"
-msgstr "mouse y:"
+msgstr "farenin y'si:"
 
 msgid "mouse-pointer"
-msgstr "mouse işaretçisi"
+msgstr "farenin oku"
 
+#, fuzzy
 msgid "Move"
-msgstr "Hareket ettirin"
+msgstr "Hareket"
 
 msgid "Music"
 msgstr "Müzik"
@@ -954,7 +955,7 @@ msgid "New background:"
 msgstr "Yeni arka plan:"
 
 msgid "New costume:"
-msgstr "Yeni kostüm:"
+msgstr "Yeni kılık:"
 
 msgid "New file name?"
 msgstr "Yeni dosya adı?"
@@ -963,37 +964,38 @@ msgid "New Filename:"
 msgstr "Yeni Dosya Adı:"
 
 msgid "New sound:"
-msgstr "Yeni Ses:"
+msgstr "Yeni ses:"
 
 msgid "New Sprite"
-msgstr "Yeni Karakter"
+msgstr "Yeni Kukla"
 
 msgid "New sprite:"
-msgstr "Yeni karakter;"
+msgstr "Yeni kukla:"
 
 msgid "No"
 msgstr "Hayır"
 
 msgid "No MIDI ports currently available."
-msgstr "Şu an mevcut MIDI portu yok"
+msgstr "Şu an mevcut MIDI portu yok."
 
 msgid "No motion blocks"
 msgstr "Hareket bloğu yok"
 
 msgid "no scripts"
-msgstr "yazı yok"
+msgstr "komut yok"
 
 msgid "No serial ports found"
-msgstr "Seri giriş yok"
+msgstr "Seri giriş portu bulamadım"
 
 msgid "No variables."
-msgstr "Değişken yok"
+msgstr "Değişken yok."
 
+#, fuzzy
 msgid "Normal"
 msgstr "Normal"
 
 msgid "normal readout"
-msgstr "normal grafik yazı"
+msgstr "normal gösterge"
 
 msgid "Off"
 msgstr "Kapalı"
@@ -1005,13 +1007,13 @@ msgid "On"
 msgstr "Açık"
 
 msgid "only face left-right"
-msgstr "sadece sola veya sağa dönük"
+msgstr "sadece sağa ve sola bakabilir"
 
 msgid "Open"
 msgstr "Aç"
 
 msgid "Open a Scratch project"
-msgstr "Bir Scratch Projesi Açın"
+msgstr "Bir Scratch projesi açın"
 
 msgid "Open Project"
 msgstr "Proje Açın"
@@ -1026,7 +1028,7 @@ msgid "Paint Editor"
 msgstr "Grafik Düzenleyici"
 
 msgid "Paint new sprite"
-msgstr "Yeni karakter çizin"
+msgstr "Yeni kukla çiz"
 
 msgid "Paintbrush"
 msgstr "Boya Fırçası"
@@ -1035,16 +1037,16 @@ msgid "Password:"
 msgstr "Şifre:"
 
 msgid "Percent? (100 gives original size)"
-msgstr "Yüzde? (100 orjinal boyu verir.)"
+msgstr "Yüzde? (100 özgün boyu verir)"
 
 msgid "Pictures"
 msgstr "Resimler"
 
 msgid "pixelate"
-msgstr "piksellere bölün"
+msgstr "beneklenme"
 
 msgid "play"
-msgstr "çalın"
+msgstr "çal"
 
 msgid "Please enter a number"
 msgstr "Lütfen bir sayı girin"
@@ -1053,7 +1055,7 @@ msgid "pop"
 msgstr "pop"
 
 msgid "Position the cross-hair to set the rotation center"
-msgstr "Dönüş merkezini imleç ile ayarlayın"
+msgstr "Dönüş merkezi olacak noktayı fareyle göster"
 
 msgid "Preparing project..."
 msgstr "Proje hazırlanıyor..."
@@ -1062,7 +1064,7 @@ msgid "Project author:"
 msgstr "Projeyi hazırlayan:"
 
 msgid "Project name"
-msgstr "Proje adı"
+msgstr "Projenin adı"
 
 msgid "Project Notes"
 msgstr "Proje Notları"
@@ -1071,7 +1073,7 @@ msgid "Project notes"
 msgstr "Proje notları"
 
 msgid "Project uploaded."
-msgstr "Proje yüklendi"
+msgstr "Proje yüklendi."
 
 msgid "Projects"
 msgstr "Projeler"
@@ -1080,43 +1082,44 @@ msgid "Quit"
 msgstr "Çık"
 
 msgid "Quit Scratch"
-msgstr "Çizimden çıkın"
+msgstr "Scratch'dan çık"
 
 msgid "Reading"
-msgstr "Okuma"
+msgstr "Okuyorum"
 
+#, fuzzy
 msgid "record"
-msgstr "kayıt edin"
+msgstr "kayıt"
 
 msgid "Record"
-msgstr "Kayıt "
+msgstr "Kayıt"
 
 msgid "recording"
-msgstr "kayıt ediliyor"
+msgstr "kayıt ediyorum"
 
 msgid "Rectangle tool (draw outlined or filled rectangle or square)"
-msgstr "Dikdortgen aracı (dolu veya boş kare/dikdörtgen çizer)"
+msgstr "Dikdörtgen çizici (dolu veya boş kare/dikdörtgen çizer)"
 
 msgid "Redo"
-msgstr "İleri "
+msgstr "İleri"
 
 msgid "Reference Guide"
-msgstr "Referans Rehberi"
+msgstr "Başvuru Rehberi"
 
 msgid "Remote sensor connections enabled"
-msgstr "Uzaktan kumandalı sensör bağlantıları aktif halde"
+msgstr "Dış algılayıcı bağlantıları devrede"
 
 msgid "Remove viewer from stage"
-msgstr "İzleyiciyi sahneden çıkarın"
+msgstr "Göstergeyi sahneden kaldır"
 
 msgid "resistance"
 msgstr "direnç"
 
 msgid "resize this sprite"
-msgstr "karakterin boyutunu tekrar değiştir"
+msgstr "kuklanın büyüklüğü ile oyna"
 
 msgid "reverse"
-msgstr "zıt"
+msgstr "ters"
 
 msgid "right"
 msgstr "sağ"
@@ -1125,106 +1128,106 @@ msgid "right arrow"
 msgstr "sağ ok"
 
 msgid "Rotate clock-wise"
-msgstr "Saat yönünde döndürün"
+msgstr "Saat yönünde döndür"
 
 msgid "Rotate counter-clock-wise"
-msgstr "Saat yönünün tersine döndürün"
+msgstr "Saat yönünün tersine döndür"
 
 msgid "rotate this sprite"
-msgstr "karakteri döndür"
+msgstr "bu kuklayı döndür"
 
 msgid "Rotation degrees?"
-msgstr "Dönüş derecesi"
+msgstr "Dönüş derecesi?"
 
 msgid "Save"
-msgstr "Kaydedin"
+msgstr "Kaydet"
 
 msgid "Save a copy of the current project"
-msgstr "Şu anki pojenin bir kopyasını kaydedin"
+msgstr "Bu pojenin bir kopyasını kaydet"
 
 msgid "Save As"
 msgstr "Farklı Kaydet"
 
 msgid "Save changes before quitting?"
-msgstr "Programdan çıkmadan önce değişiklikleri kaydetmek ister misin?"
+msgstr "Çıkmadan önce değişiklikleri kaydedeyim mi?"
 
 msgid "Save failed"
-msgstr "Kaydedilemedi"
+msgstr "Kaydedemedim"
 
 msgid "save picture of scripts"
-msgstr "Yazıların karakterlerini kaydedin"
+msgstr "komutları resim olarak kaydet"
 
 msgid "save picture of stage..."
-msgstr "sahnenin resmini kaydedin"
+msgstr "sahne görünüşünü kaydet..."
 
 msgid "Save Project"
-msgstr "Projeyi Kaydedin"
+msgstr "Projeyi Kaydet"
 
 msgid "Save Scripts Snapshot"
-msgstr "Programın Resmini Kaydedin"
+msgstr "Komutların Resim Olarak Kaydı"
 
 msgid "Save Stage Shot"
-msgstr "Sahne Resmini Kaydedin"
+msgstr "Sahne Görünüşünün Kaydı"
 
 msgid "Save the current project"
-msgstr "Güncel projeyi kaydedin"
+msgstr "Bu projeyi kaydet"
 
 msgid "Save the current project?"
-msgstr "Güncel projeyi kaydedecek misin?"
+msgstr "Bu projeyi kaydedeyim mi?"
 
 msgid "Save this project"
 msgstr "Bu projeyi kaydet"
 
 msgid "Scripts"
-msgstr "Yazılar"
+msgstr "Komutlar"
 
 msgid "select serial/USB port"
-msgstr "seri/USB port seçin"
+msgstr "seri/USB portu seç"
 
 msgid "Select tool (move, modify, or delete selection)"
-msgstr "Seçim araçları (seçileni taşır, değiştirir veya siler.)"
+msgstr "Seçim aracı (seçilen bölgeyi taşır, değiştirir veya siler)"
 
 msgid "Set costume center"
-msgstr "Kostüm merkezini ayarla"
+msgstr "Kılığın merkezini belirle"
 
 msgid "Set language"
-msgstr "Dili ayarla"
+msgstr "Dili seç"
 
 msgid "Set rotation center"
-msgstr "Dönüş merkezini ayarlayın"
+msgstr "Dönüş merkezini ayarla"
 
 msgid "Set Single Stepping"
-msgstr "Bir adımlık kurulum"
+msgstr "Tek Adımlamaya Geç"
 
 msgid "set slider min and max"
-msgstr "sürgünün en düşük ve en yüksek değerlerini belirleyin"
+msgstr "sürgünün sınırlarını belirle"
 
 msgid "Share"
-msgstr "Paylaşın"
+msgstr "Paylaş"
 
 msgid "Share this project"
 msgstr "Bu projeyi paylaş"
 
 msgid "Share This Project Online"
-msgstr "Bu projeyi internette paylaşın"
+msgstr "Bu Projeyi İnternette Paylaş"
 
 msgid "Show Motor Blocks"
-msgstr "Motor Blokları Göster"
+msgstr "Motor Bloklarını Göster"
 
 msgid "show ScratchBoard watcher"
-msgstr "ScratchBoard izleyicisini gösterin"
+msgstr "ScratchBoard panelini aç"
 
 msgid "Shrink"
-msgstr "Küçültün"
+msgstr "Küçült"
 
 msgid "Shrink sprite"
-msgstr "Karakter küçültün"
+msgstr "Kuklayı küçült"
 
 msgid "Simulation"
 msgstr "Simülasyon"
 
 msgid "Single-step speed?"
-msgstr "Adım adım çalısma hızı"
+msgstr "Tek-adım hızı?"
 
 msgid "slider"
 msgstr "sürgü"
@@ -1236,7 +1239,7 @@ msgid "Sound quality:"
 msgstr "Ses kalitesi:"
 
 msgid "Sound Recorder"
-msgstr "Ses kaydedici"
+msgstr "Ses Kaydedici"
 
 msgid "Sounds"
 msgstr "Sesler"
@@ -1248,10 +1251,10 @@ msgid "space"
 msgstr "boşluk"
 
 msgid "Sprite"
-msgstr "Karakter"
+msgstr "Kukla"
 
 msgid "Sprites"
-msgstr "Karakterler"
+msgstr "Kuklalar"
 
 msgid "sqrt"
 msgstr "karekök"
@@ -1260,25 +1263,25 @@ msgid "Stage"
 msgstr "Sahne"
 
 msgid "Stage selected:"
-msgstr "Seçilen Sahne"
+msgstr "Seçilen sahne:"
 
 msgid "Stamp tool (select area, then stamp copies of it)"
-msgstr "Damga aracı (alanı seçip damga ile kopyalayın)"
+msgstr "Damga (alanı seçip damga ile kopyala)"
 
 msgid "Start green flag scripts"
-msgstr "Yeşil bayrak komutlarını başlatın"
+msgstr "Yeşil bayraklı komutları başlat"
 
 msgid "Start Single Stepping"
-msgstr "adım adım çalışmayı başlatın"
+msgstr "Tek Adım Çalışmayı Başlat"
 
 msgid "stop"
-msgstr "durun"
+msgstr "dur"
 
 msgid "Stop everything"
-msgstr "Herşeyi durdurun"
+msgstr "Herşeyi durdur"
 
 msgid "Stop Single Stepping"
-msgstr "adım adım çalışmayı durdurun"
+msgstr "Tek Adım Çalışmayı Durdur"
 
 msgid "Story"
 msgstr "Hikaye"
@@ -1287,37 +1290,37 @@ msgid "Support Site"
 msgstr "Siteyi Destekle"
 
 msgid "Switch colors"
-msgstr "Renkleri değiştirin"
+msgstr "Renkleri değiştir"
 
 msgid "Switch to full stage"
-msgstr "Tam Ekrana Geç"
+msgstr "Tam ekrana geç"
 
 msgid "Switch to presentation mode"
-msgstr "Sunum Konumuna Geç"
+msgstr "Sunum konumuna geç"
 
 msgid "Switch to small stage"
-msgstr "Küçük Ekrana Geç"
+msgstr "Küçük ekrana geç"
 
 msgid "Tags:"
 msgstr "Etiketler:"
 
 msgid "Text tool (edit text layer)"
-msgstr "Metin aracı (metin katmanını düzenler)"
+msgstr "Yazı aracı (yazı katmanını düzenler)"
 
 msgid "That variable name is already in use"
-msgstr "Bu değişken adı zaten kullanılıyor"
+msgstr "Bu isimde bir değişken zaten var"
 
 msgid "that way"
-msgstr "O yol"
+msgstr "o yoldan"
 
 msgid "The file name already exists. Overwrite existing file?"
-msgstr "Bu dosya adı zaten kullanılıyor, dosyayı yenisiyle değiştirmek istiyor musun?"
+msgstr "Bu isimde bir dosya zaten var. Üstüne mi yazayım?"
 
 msgid "thing"
 msgstr "nesne"
 
 msgid "this way"
-msgstr "Bu yol"
+msgstr "bu yoldan"
 
 msgid "tilt"
 msgstr "eğim"
@@ -1326,16 +1329,16 @@ msgid "true"
 msgstr "doğru"
 
 msgid "Turbo speed"
-msgstr "Yüksek hız"
+msgstr "Jet hızında"
 
 msgid "turn into new sprite"
-msgstr "yeni karakter haline getirin"
+msgstr "yeni bir kukla olsun"
 
 msgid "Undelete"
-msgstr "silmeyi geri al"
+msgstr "Silmeseydim"
 
 msgid "Undo"
-msgstr "Geri alın"
+msgstr "Geri al"
 
 msgid "up"
 msgstr "yukarı"
@@ -1344,57 +1347,56 @@ msgid "up arrow"
 msgstr "yukarı ok"
 
 msgid "Updating thumbnails"
-msgstr "güncellenen minyatür çizim"
+msgstr "Küçük resimleri güncelliyorum"
 
 msgid "Upload succeeded!"
 msgstr "Yükleme başarılı!"
 
 msgid "Upload to Scratch Server"
-msgstr "Scratch Sunucusuna yükleyin"
+msgstr "Scratch Sunucusuna Yükle"
 
 msgid "Uploading"
 msgstr "Yükleniyor"
 
 msgid "Variable name?"
-msgstr "Degişken adı?"
+msgstr "Değişkenin adı?"
 
 msgid "View on stage"
-msgstr "Sahnede izleyin"
+msgstr "Sahnede göster"
 
 msgid "What's your name?"
 msgstr "Adın ne?"
 
 msgid "whirl"
-msgstr "Hızlı dönün"
+msgstr "girdap"
 
 msgid "world"
 msgstr "dünya"
 
 msgid "Write Multiple Project Summaries"
-msgstr "çoklu proje özeti yazın"
+msgstr "Birden Fazla Proje Özeti Yaz"
 
 msgid "Write Project Summary"
-msgstr "proje özeti yazın"
+msgstr "Proje Özeti Yaz"
 
 msgid "Yes"
 msgstr "Evet"
 
 msgid "Your project is now online at"
-msgstr "Projen Burada Yayınlandı:"
+msgstr "Projen burada yayında:"
 
 msgid "Your Scratch website login name:"
 msgstr "Scratch web sitesi kullanıcı adın:"
 
 msgid "Zoom in"
-msgstr "Yakınlaşın"
+msgstr "Yakınlaş"
 
 msgid "Zoom out"
-msgstr "Uzaklaşın"
+msgstr "Uzaklaş"
 
 ############################################
 # MIDI INSTRUMENTS
 ############################################
-
 msgid "Accordion"
 msgstr "Akordeon"
 
@@ -1438,13 +1440,13 @@ msgid "Bird Tweet"
 msgstr "Kuş Ötüşü"
 
 msgid "Blown Bottle"
-msgstr "Şişe Üfleme"
+msgstr "Şişeye Üfleme"
 
 msgid "Brass Section"
 msgstr "Üflemeli çalgılar"
 
 msgid "Breath Noise"
-msgstr "Nefes alma Sesi"
+msgstr "Nefes Sesi"
 
 msgid "Bright Acoustic"
 msgstr "Net Akustik"
@@ -1576,7 +1578,7 @@ msgid "Guitar Harmonics"
 msgstr "Harmonik Gitar"
 
 msgid "Gunshot"
-msgstr "Silah  Sesi"
+msgstr "Silah Sesi"
 
 msgid "Hand Clap"
 msgstr "Alkışlama"
@@ -1621,28 +1623,28 @@ msgid "Koto"
 msgstr "Japon Müzik Aleti"
 
 msgid "Lead 1 (square)"
-msgstr "1. sıra (kare)"
+msgstr "Suni ses 1 (kare)"
 
 msgid "Lead 2 (sawtooth)"
-msgstr "2.sıra (testere dişi)"
+msgstr "Suni ses 2 (testere dişi)"
 
 msgid "Lead 3 (calliope)"
-msgstr "3. sıra (calliope)"
+msgstr "Suni ses 3 (calliope)"
 
 msgid "Lead 4 (chiff)"
-msgstr "4.sıra (chiff)"
+msgstr "Suni ses 4 (chiff)"
 
 msgid "Lead 5 (charang)"
-msgstr "5.sıra (charang)"
+msgstr "Suni ses 5 (charang)"
 
 msgid "Lead 6 (voice)"
-msgstr "6. sıra (ses)"
+msgstr "Suni ses 6 (ses)"
 
 msgid "Lead 7 (fifths)"
-msgstr "7. sıra (fifths)"
+msgstr "Suni ses 7 (fifths)"
 
 msgid "Lead 8 (bass+lead)"
-msgstr "8.sıra (bass+lead)"
+msgstr "Suni ses 8 (bass+lead)"
 
 msgid "Long Guiro"
 msgstr "Uzun Guiro"
@@ -1807,7 +1809,7 @@ msgid "Short Whistle"
 msgstr "Kısa Düdük"
 
 msgid "Side Stick"
-msgstr "Kenara Kaydırmak"
+msgstr "Kenar Vuruşu"
 
 msgid "Sitar"
 msgstr "Sitar"
@@ -1822,7 +1824,7 @@ msgid "Soprano Sax"
 msgstr "Soprano Saksafon"
 
 msgid "Splash Cymbal"
-msgstr "Zil Çalmak"
+msgstr "Kapanır Zil"
 
 msgid "Steel Drums"
 msgstr "Çelik Davul"

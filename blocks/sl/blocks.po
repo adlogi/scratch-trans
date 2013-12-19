@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-08-06 14:25+0200\n"
-"Last-Translator: Ziga <ziga@deisinger.si>\n"
+"PO-Revision-Date: 2013-12-08 00:19+0200\n"
+"Last-Translator: juozhe <juozhe@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -54,7 +54,7 @@ msgstr "ozadje #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "Ime ozadja"
+msgstr "ime ozadja"
 
 msgid "broadcast %m.broadcast"
 msgstr "objavi %m.broadcast"
@@ -108,7 +108,7 @@ msgid "costume #"
 msgstr "videz #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "naredi klon %m.spriteOnly"
+msgstr "kloniraj %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "trenutni %m.timeAndDate"
@@ -117,7 +117,7 @@ msgid "Data"
 msgstr "Podatki"
 
 msgid "days since 2000"
-msgstr "Dnevi od leta 2000"
+msgstr "dnevi od leta 2000"
 
 msgid "define"
 msgstr "definiraj"
@@ -126,7 +126,7 @@ msgid "delete %d.listDeleteItem of %m.list"
 msgstr "odstrani %d.listDeleteItem iz %m.list"
 
 msgid "delete this clone"
-msgstr "zbriši ta klon"
+msgstr "izbriši ta klon"
 
 msgid "direction"
 msgstr "smer"
@@ -183,7 +183,7 @@ msgid "item %d.listItem of %m.list"
 msgstr "%d.listItem -ti člen iz %m.list"
 
 msgid "join %s %s"
-msgstr "stakni %s %s"
+msgstr "združi %s %s"
 
 msgid "key %m.key pressed?"
 msgstr "tipka %m.key pritisnjena?"
@@ -232,7 +232,7 @@ msgid "not %b"
 msgstr "ne %b"
 
 msgid "Operators"
-msgstr "Operacije"
+msgstr "Operatorji"
 
 msgid "Pen"
 msgstr "Svinčnik"
@@ -247,11 +247,11 @@ msgid "pick random %n to %n"
 msgstr "izberi naključno med %n in %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "po %d.drum %n udarcev "
+msgstr "zaigraj na %d.drum %n udarcev"
 
 # 83%
 msgid "play note %d.note for %n beats"
-msgstr "zaigraj noto %d.note  %n udarcev"
+msgstr "zaigraj noto %d.note za %n udarcev"
 
 msgid "play sound %m.sound"
 msgstr "predvajaj zvok %m.sound"
@@ -269,7 +269,7 @@ msgid "repeat %n"
 msgstr "ponovi %n"
 
 msgid "repeat until %b"
-msgstr "ponovljaj dokler ni %b"
+msgstr "ponavljaj dokler ni %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr "zamenjaj %d.listItem -ti člen v %m.list z %s"
@@ -296,17 +296,17 @@ msgid "sensor %m.booleanSensor?"
 msgstr "tipalo %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
-msgstr "postavi učinek %m.effect na %n"
+msgstr "nastavi učinek %m.effect na %n"
 
 msgid "set %m.var to %s"
-msgstr "postavi %m.var na %n"
+msgstr "nastavi %m.var na %s"
 
 msgid "set instrument to %d.instrument"
-msgstr "postavi glasbilo na %d.instrument"
+msgstr "izberi glasbilo %d.instrument"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
-msgstr "smer motorja %m.motorDirection"
+msgstr "nastavi smer motorja %m.motorDirection"
 
 # 77%
 msgid "set motor power %n"
@@ -322,7 +322,7 @@ msgid "set pen shade to %n"
 msgstr "nastavi senco svinčnika na %n"
 
 msgid "set pen size to %n"
-msgstr "nastavi velikost svinčnika na %n"
+msgstr "nastavi debelino svinčnika na %n"
 
 msgid "set rotation style %m.rotationStyle"
 msgstr "nastavi način vrtenja %m.rotationStyle"
@@ -361,7 +361,7 @@ msgid "Sound"
 msgstr "Zvok"
 
 msgid "stamp"
-msgstr "žig"
+msgstr "odtis"
 
 msgid "stop %m.stop"
 msgstr "ustavi %m.stop"
@@ -375,7 +375,7 @@ msgstr "zamenjaj ozadje na %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "spremeni ozadje na %m.backdrop in počakaj"
+msgstr "zamenjaj ozadje na %m.backdrop in počakaj"
 
 msgid "switch costume to %m.costume"
 msgstr "zamenjaj videz na %m.costume"
@@ -405,7 +405,7 @@ msgid "turn @turnLeft %n degrees"
 msgstr "obrni se za @turnLeft %n stopinj"
 
 msgid "turn @turnRight %n degrees"
-msgstr "obrni se za @turnLeft %n stopinj"
+msgstr "obrni se za @turnRight %n stopinj"
 
 msgid "turn motor off"
 msgstr "ugasni motor"
@@ -438,29 +438,29 @@ msgstr "počakaj dokler ni %b"
 
 # 75%
 msgid "when %m.booleanSensor"
-msgstr "ko %m.booleanSensor?"
+msgstr "ko je %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "ko je pritisnjena tipka %m.key"
 
 msgid "when %m.triggerSensor > %n"
-msgstr "ko %m.triggerSensor > %n"
+msgstr "ko je %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "ko je kliknjena @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "ko se ozadje spremeni na %m.backdrop"
+msgstr "ko se ozadje zamenja na %m.backdrop"
 
 msgid "when distance < %n"
-msgstr "ko je razdalja  < %n"
+msgstr "ko je razdalja < %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "ko prejmem %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "ko štartam kot klon"
+msgstr "ko začnem kot klon"
 
 msgid "when this sprite clicked"
 msgstr "ko je ta figura kliknjena"
@@ -469,10 +469,10 @@ msgid "when tilt = %n"
 msgstr "ko je naklon %n"
 
 msgid "x position"
-msgstr "mesto x"
+msgstr "položaj x"
 
 msgid "y position"
-msgstr "mesto y"
+msgstr "položaj y"
 
 #~ msgid "user name"
 #~ msgstr "ime uporabnika"

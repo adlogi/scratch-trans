@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:55+0200\n"
-"PO-Revision-Date: 2013-10-31 10:49+0200\n"
+"PO-Revision-Date: 2013-12-04 10:28+0200\n"
 "Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
@@ -49,7 +49,7 @@ msgstr "Lägg till etikett:"
 
 # 89%
 msgid "Add number input:"
-msgstr "Lägg till siffervärde::"
+msgstr "Lägg till siffervärde:"
 
 # 89%
 msgid "Add string input:"
@@ -98,7 +98,7 @@ msgid "backdrop #"
 msgstr "bakgrund #"
 
 msgid "Backdrop Library"
-msgstr "Bakgrunder -  Bibliotek"
+msgstr "Bakgrunder - Bibliotek"
 
 msgid "backdrop name"
 msgstr "bakgrund namn"
@@ -128,9 +128,12 @@ msgstr "Fagott"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
+"Eftersom du har ett nytt Scratchkonto, kommer eventuella ändringar av "
+"molndata inte sparas ännu. Fortsätt att delta på webbplatsen så kommer du "
+"snart kunna använda molndata!"
 
 msgid "Bitmap"
-msgstr "Bitmap"
+msgstr "Bitmapp"
 
 msgid "Bitmap Mode"
 msgstr "Bitmapsläge"
@@ -223,7 +226,7 @@ msgid "Claves"
 msgstr "Claves"
 
 msgid "cleanup"
-msgstr ""
+msgstr "städa upp"
 
 msgid "Clear"
 msgstr "Rensa"
@@ -232,7 +235,7 @@ msgid "clear senders/receivers"
 msgstr "tydliga avsändare/mottagare"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr "Klicka för att försöka igen eller spara"
+msgstr "Klicka  för att försöka igen eller  spara"
 
 msgid "Close"
 msgstr "Stäng"
@@ -404,15 +407,14 @@ msgid "Erase"
 msgstr "Radera"
 
 # 92%
-#, fuzzy
 msgid "Eraser width"
-msgstr "Suddgummi bredd:"
+msgstr "Suddgummits bredd"
 
 msgid "Error!"
-msgstr ""
+msgstr "Fel!"
 
 msgid "export"
-msgstr ""
+msgstr "exportera"
 
 msgid "fade in"
 msgstr "tona in"
@@ -451,7 +453,7 @@ msgid "Flying"
 msgstr "Flygande"
 
 msgid "Font:"
-msgstr ""
+msgstr "Teckensnitt:"
 
 msgid "For all sprites"
 msgstr "För alla sprites"
@@ -487,7 +489,7 @@ msgid "hide"
 msgstr "göm"
 
 msgid "High C"
-msgstr ""
+msgstr "Höga C"
 
 msgid "hour"
 msgstr "timme"
@@ -496,9 +498,8 @@ msgid "Human"
 msgstr "Mänsklig"
 
 # 83%
-#, fuzzy
 msgid "import"
-msgstr "Importera"
+msgstr "importera"
 
 msgid "Import"
 msgstr "Importera"
@@ -516,7 +517,7 @@ msgid "Instruments"
 msgstr "Instrument"
 
 msgid "large readout"
-msgstr ""
+msgstr "stor avläsning"
 
 msgid "last"
 msgstr "sista"
@@ -531,7 +532,7 @@ msgid "left-right"
 msgstr "vänster-höger"
 
 msgid "length"
-msgstr ""
+msgstr "längd"
 
 msgid "Library"
 msgstr "Bibliotek"
@@ -546,9 +547,8 @@ msgid "Line"
 msgstr "Linje"
 
 # 90%
-#, fuzzy
 msgid "Line width"
-msgstr "Linjebredd:"
+msgstr "Linjebredd"
 
 # 75%
 msgid "list"
@@ -573,7 +573,7 @@ msgid "loudness"
 msgstr "ljudstyrka"
 
 msgid "Low C"
-msgstr ""
+msgstr "Låga C"
 
 msgid "Make a Block"
 msgstr "Skapa ett Block"
@@ -600,10 +600,10 @@ msgid "message1"
 msgstr "meddelande1"
 
 msgid "Microphone Volume:"
-msgstr ""
+msgstr "Mikrofonvolym:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "Mitt C"
 
 msgid "Min"
 msgstr "Min"
@@ -687,13 +687,13 @@ msgid "No motion blocks"
 msgstr "Inga rörelseblock"
 
 msgid "normal readout"
-msgstr ""
+msgstr "normal avläsning"
 
 msgid "Not saved; network or server problem."
 msgstr "Sparades inte; nätverks- eller serverproblem."
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "Inte sparat; projektet laddades inte."
 
 msgid "of"
 msgstr "av"
@@ -702,7 +702,7 @@ msgid "off"
 msgstr "av"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Offline Redigerare"
 
 msgid "OK"
 msgstr "OK"
@@ -779,7 +779,7 @@ msgid "Profile"
 msgstr "Profil"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "Projektet laddades inte."
 
 msgid "Project not saved!"
 msgstr "Projektet är inte sparat!"
@@ -918,7 +918,7 @@ msgid "Set Costume Center"
 msgstr "Sätt Klädselns Centrum"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "sätt reglage min och max"
 
 msgid "Share"
 msgstr "Dela"
