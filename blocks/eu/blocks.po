@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-12-11 16:23+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2014-01-09 18:12+0200\n"
+"Last-Translator: aitolajau <aitorolano@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
@@ -27,202 +27,200 @@ msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute -- %m.spriteOrStage"
 
 msgid "%m.list contains %s"
-msgstr ""
+msgstr "%m.list (e)k bere baitan du %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp -- %n"
 
 msgid "%m.sensor sensor value"
-msgstr "sentsorearen balioa %m.sensor"
+msgstr "sentsorearen balioa: %m.sensor"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr "gehitu %s  %m.list zerrendan"
+msgstr "%m.list zerrendari %s gehitu "
 
 msgid "answer"
-msgstr "erantzun"
+msgstr "erantzuna"
 
 msgid "ask %s and wait"
 msgstr "galdetu %s eta itxaron"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "# hondokoa"
+msgstr "# hondoa"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "hondoaren izena"
 
 msgid "broadcast %m.broadcast"
-msgstr "bidali denei  %m.broadcast"
+msgstr "bidali denei %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "bidali denei  %m.broadcast eta itxaron"
+msgstr "bidali denei %m.broadcast eta itxaron"
 
 msgid "change %m.effect effect by %n"
-msgstr "aldatu efektua  %m.effect , %n hartuta"
+msgstr "%m.effect efektua aldatu %n zenbatekoz "
 
 msgid "change %m.var by %n"
-msgstr "aldatu %m.var  %n bider"
+msgstr "%m.var aldatu %n zenbatekoz"
 
 msgid "change pen color by %n"
-msgstr "aldatu arkatzaren kolorea  %n hartuta"
+msgstr "arkatzaren kolorea aldatu %n zenbatekoz"
 
 msgid "change pen shade by %n"
-msgstr "aldatu arkatzaren intentsitatea  %n hartuta"
+msgstr "arkatzaren intentsitatea aldatu %n zenbatekoz"
 
 msgid "change pen size by %n"
-msgstr "aldatu arkatzaren tamainua  %n hartuta"
+msgstr "arkatzaren tamaina aldatu %n zenbatekoz"
 
 msgid "change size by %n"
-msgstr "aldatu tamainua  %n hartuta"
+msgstr "tamaina aldatu %n zenbatekoz"
 
 msgid "change tempo by %n"
-msgstr "aldatu tempoa   %n hartuta"
+msgstr "tenpoa aldatu %n zenbatekoz"
 
 msgid "change volume by %n"
-msgstr "aldatu bolumena  %n hartuta"
+msgstr "bolumena aldatu %n zenbatekoz"
 
 msgid "change x by %n"
-msgstr "mugitu  x   %n aldiz"
+msgstr "aldatu x %n zenbatekoz"
 
 msgid "change y by %n"
-msgstr "mugitu y  %n aldiz"
+msgstr "aldatu y %n zenbatekoz"
 
 msgid "clear"
 msgstr "ezabatu"
 
 msgid "clear graphic effects"
-msgstr "kendu efektu grafikoak"
+msgstr "efektu grafikoak ezabatu"
 
 msgid "color %c is touching %c?"
-msgstr "¿kolore  %c  %c aren gainean?"
+msgstr "%c kolorea %c ukitzen ari al da?"
 
 msgid "Control"
-msgstr "kontrola"
+msgstr "Kontrola"
 
 msgid "costume #"
 msgstr "# mozorroa"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "%m.spriteOnly klonatu"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "egungo %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Datuak"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "2000 geroztiko egunak"
 
 msgid "define"
-msgstr ""
+msgstr "definitu"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "ezabatu %d.listDeleteItem dagoen elementua %m.list zerrendan"
+msgstr "%d.listDeleteItem ezabatu %m.list zerrendatik"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "klon hau ezabatu"
 
 msgid "direction"
 msgstr "norabidea"
 
 msgid "distance"
-msgstr ""
+msgstr "distantzia"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "distantzia %m.spriteOrMouse ra"
+msgstr "%m.spriteOrMouse arteko distantzia"
 
 msgid "else"
-msgstr "baldin eta ez"
+msgstr "bestela"
 
 msgid "Events"
-msgstr ""
+msgstr "Gertaerak"
 
 msgid "forever"
-msgstr "beti"
+msgstr "betirako"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "lerratu %n segundoan:  %n x-ra  eta  %n y-ra"
+msgstr "%n segundutan x: %n eta y: %n -ra eraman"
 
 msgid "go back %n layers"
-msgstr "bidali atzera  %n geruza"
+msgstr "atzera joan %n geruza"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "joan  %m.spriteOrMouse -ra"
+msgstr "%m.spriteOrMouse -(e)ra joan"
 
 msgid "go to front"
-msgstr "bidali aurrera "
+msgstr "aurrekaldera joan"
 
 msgid "go to x:%n y:%n"
-msgstr "joan %n x-ra  joan %n y-ra"
+msgstr "x: %n y: %n -(e)ra joan"
 
 msgid "hide"
 msgstr "ezkutatu"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "%m.list zerrenda ezkutatu"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "%m.var aldagaia ezkutatu"
 
 msgid "if %b then"
-msgstr ""
+msgstr "baldin eta %b orduan"
 
 msgid "if on edge, bounce"
 msgstr "errebotatu ertza ukitzean "
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "sartu %s  %d.listItem  %m.list zerrendan"
+msgstr "%s sartu %d.listItem tokian %m.list zerrendan"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%d.listItem dagoen elementua  %m.list zerrendan"
+msgstr "%m.list zerrendako %d.listItem elementua  "
 
 msgid "join %s %s"
-msgstr "lotu %s %s"
+msgstr "%s %s lotu"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key tekla sakatuta egon?"
+msgstr "%m.key tekla sakatuta al dago?"
 
 msgid "length of %m.list"
 msgstr "%m.list zerrendaren luzera"
 
 msgid "length of %s"
-msgstr "%s zerrendaren luzera"
+msgstr "%s -(r)en luzera"
 
 msgid "letter %n of %s"
-msgstr "%s aren %n garren letra"
+msgstr "%s -(r)en %n hizkia"
 
 msgid "Looks"
-msgstr "itxura"
+msgstr "Itxura"
 
 msgid "loudness"
 msgstr "soinuaren bolumena"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Bloke gehiago"
 
 msgid "Motion"
-msgstr "mugimendua"
+msgstr "Mugimendua"
 
 msgid "mouse down?"
-msgstr "sagua sakatuta egon?"
+msgstr "sagua sakatuta dago?"
 
 msgid "mouse x"
-msgstr "saguaren x  "
+msgstr "saguaren x posizioa "
 
 msgid "mouse y"
-msgstr "saguaren y  "
+msgstr "saguaren y posizioa"
 
 msgid "move %n steps"
-msgstr "mugitu  %n pausu "
+msgstr "%n pausu mugitu"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "hurrengo hondoa"
 
@@ -233,54 +231,53 @@ msgid "not %b"
 msgstr "ez %b"
 
 msgid "Operators"
-msgstr "eragiketak"
+msgstr "Eragiketak"
 
 msgid "Pen"
-msgstr "arkatza"
+msgstr "Arkatza"
 
 msgid "pen down"
-msgstr "jaitsi arkatza "
+msgstr "arkatza jaitsi "
 
 msgid "pen up"
-msgstr "igo arkatza "
+msgstr "arkatza igo"
 
 msgid "pick random %n to %n"
-msgstr "ausazko zenbakia,  %n eta %n artekoa"
+msgstr "%n eta %n arteko ausazko balioa aukeratu"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "jo %d.drum danborra   %n  pultsuan"
+msgstr "%d.drum danborra jo %n aldiz"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "jo %d.note  nota  %n pultsuan"
+msgstr "%d.note nota jo %n taupadatan"
 
 msgid "play sound %m.sound"
-msgstr "jo %m.sound  soinua"
+msgstr "%m.sound soinua jo"
 
 msgid "play sound %m.sound until done"
-msgstr "jo  %m.sound  soinua eta itxaron"
+msgstr "%m.sound soinua jo eta itxaron"
 
 msgid "point in direction %d.direction"
-msgstr "jarri %d.direction                       begira"
+msgstr "%d.direction norabideari begira jarri"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "seinalatu  %m.spriteOrMouse rantz"
+msgstr "%m.spriteOrMouse -(r)i begira jarri"
 
 msgid "repeat %n"
-msgstr "errepikatu %n aldiz"
+msgstr "errepikatu %n"
 
 msgid "repeat until %b"
-msgstr "errepikatu  %b arte"
+msgstr "errepikatu %b arte"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "kendu  %d.listItem dagoen elementua %m.list zerrendan eta jarri %s"
+msgstr "%d.listItem ordezkatu %m.list zerrendan %s balioa ezarriz"
 
 msgid "reset timer"
-msgstr "berrabiarazi kronometroa"
+msgstr "kronometroa berrabiarazi"
 
 msgid "rest for %n beats"
-msgstr "isiltasuna %n pultsuan"
+msgstr "isiltasuna %n taupadatan"
 
 msgid "round %n"
 msgstr "biribildu %n"
@@ -289,189 +286,185 @@ msgid "say %s"
 msgstr "esan %s"
 
 msgid "say %s for %n secs"
-msgstr "esan  %s  %n segundoan"
+msgstr "%s esan %n segunduz"
 
 msgid "Sensing"
-msgstr "sentsoreak"
+msgstr "Sentsoreak"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "%m.booleanSensor sentsorea gaituta?"
+msgstr "%m.booleanSensor sentsorea aktibatuta?"
 
 msgid "set %m.effect effect to %n"
-msgstr "finkatu efektua  %m.effect,  %n hartuta"
+msgstr "%m.effect efektua = %n"
 
 msgid "set %m.var to %s"
-msgstr "ezarri %m.var   %n an"
+msgstr "%m.var aldagaia = %n"
 
 msgid "set instrument to %d.instrument"
-msgstr "finkatu %d.instrument tresna"
+msgstr "musika tresna = %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "motorea-norabidea %m.motorDirection"
+msgstr "motore norabidea = %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "motorearen ahalmena %n"
+msgstr "motorearen ahalmena = %n"
 
 msgid "set pen color to %c"
-msgstr "finkatu arkatzaren kolorea: %c"
+msgstr "arkatzaren kolorea = %c"
 
 msgid "set pen color to %n"
-msgstr "finkatu arkatzaren kolorea: %c"
+msgstr "arkatzaren kolorea = %n"
 
 msgid "set pen shade to %n"
-msgstr "finkatu arkatzaren intentsitatea  %n hartuta"
+msgstr "arkatzaren intentsitatea = %n"
 
 msgid "set pen size to %n"
-msgstr "finkatu arkatzaren tamainua  %n hartuta"
+msgstr "arkatzaren tamainua = %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "biraketa modua = %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr "finkatu tamainua  %n%  an"
+msgstr "tamaina = %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "finkatu tempoa:  %n p/m"
+msgstr "tenpoa = %n tm (taupada minutuko)"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "bideoaren gardentasuna = %n%"
 
 msgid "set volume to %n%"
-msgstr "finkatu soinu bolumena %n an "
+msgstr "soinuaren bolumena = %n%"
 
 msgid "set x to %n"
-msgstr "kokatu x  %n an "
+msgstr "x = %n "
 
 msgid "set y to %n"
-msgstr "kokatu y  %n an "
+msgstr "y = %n"
 
 msgid "show"
 msgstr "erakutsi"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "%m.list zerrenda erakutsi"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "%m.var aldagaia erakutsi"
 
 msgid "size"
 msgstr "tamaina"
 
 msgid "Sound"
-msgstr "soinua"
+msgstr "Soinua"
 
 msgid "stamp"
-msgstr "zigilatu"
+msgstr "zigilua ezarri"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "%m.stop geldiarazi"
 
 msgid "stop all sounds"
-msgstr "gelditu soinu guztiak "
+msgstr "soinu guztiak gelditu"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "hondoa %m.backdrop (e)ra aldatu"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "hondoa %m.backdrop (e)ra aldatu eta itxaron"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "mozorroa %m.costume (e)ra aldatu"
 
 msgid "tempo"
 msgstr "tempo"
 
 msgid "think %s"
-msgstr "pentsatu %s an "
+msgstr "pentsatu %s"
 
 msgid "think %s for %n secs"
-msgstr "pentsatu  %s   %n segundoan"
+msgstr "%s pentsatu %n segunduz"
 
 msgid "tilt"
-msgstr ""
+msgstr "malda"
 
 msgid "timer"
 msgstr "kronometroa"
 
 msgid "touching %m.touching?"
-msgstr "%m.touching ukitzen egon?"
+msgstr "%m.touching ukitzen al du?"
 
 msgid "touching color %c?"
-msgstr "%c kolorea ukitzen egon?"
+msgstr "%c kolorea ukitzen al du?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "@turnLeft biratu %n gradu"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "@turnRight biratu %n gradu"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "motorea itzali"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "motorea piztu"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "motorea piztuta %n segundoan"
+msgstr "motorea piztuta eduki %n segunduz"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "bideoa %m.videoState bihurtu"
 
 msgid "username"
-msgstr ""
+msgstr "erabiltzaile izena"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "%m.videoMotionType bideoa %m.stageOrThis (e)n"
 
 msgid "volume"
 msgstr "bolumena"
 
 msgid "wait %n secs"
-msgstr "%n segundo itxaron"
+msgstr "%n segundu itxaron"
 
 msgid "wait until %b"
 msgstr "%b arte itxaron"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "%m.booleanSensor sentsorea gaituta?"
+msgstr "%m.booleanSensor denean "
 
 msgid "when %m.key key pressed"
 msgstr "%m.key tekla sakatzean"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "%m.triggerSensor > %n denean"
 
 msgid "when @greenFlag clicked"
 msgstr "@greenFlag sakatzean"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "hondoa %m.backdrop -(e)ra aldatzen denean"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "distantzia < %n denean"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "%m.broadcast jasotzean"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "klon moduan hastean"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "Sprite hau sakatzean"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "malda = %n denean"
 
 msgid "x position"
 msgstr "x posizioa"

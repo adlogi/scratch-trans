@@ -3,20 +3,19 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2008-04-08\n"
-"PO-Revision-Date: 2009-07-13 04:25-0400\n"
-"Last-Translator: Linda Fahlberg-Stojanovska <lindas@t-home.mk>\n"
+"PO-Revision-Date: 2014-01-15 12:25+0200\n"
+"Last-Translator: Linda <lfahlberg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 || n%10==1 ? 0 : 1;\n"
-"X-Generator: Pootle 1.2.0\n"
+"Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
+"X-Generator: Pootle 2.1.6\n"
 
 ############################################
 # FORMATTING
 ############################################
-
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
 msgid "Language-Name"
@@ -30,35 +29,39 @@ msgstr "LTR"
 
 # Scale to apply to font size (2 for twice as large)
 # Use this if the font is too small for legibility on the Scratch interface
+# 
 msgid "Font-Scale"
-msgstr ""
+msgstr "Фонт-Размер"
 
 # Set to 'true' or 'false'
 # Use this if you do not want any of the text to be bolded, for legibility
+# 
 msgid "Suppress-Bold"
-msgstr ""
+msgstr "Угушити-Нагласен"
 
 # Font to use on a Windows system
+# 
 msgid "Win-Font"
-msgstr ""
+msgstr "Виндос-Фонт"
 
 # Font to use on a Mac system
+# 
 msgid "Mac-Font"
-msgstr ""
+msgstr "Мекинтош-Фонт"
 
 # Font to use on a Linux system
+# 
 msgid "Linux-Font"
-msgstr ""
+msgstr "Линукс-Фонт"
 
 ############################################
 # BLOCKS
 ############################################
-
 msgid "%H sensor value"
 msgstr "вредност на сензорот %H"
 
 msgid "%L contains %s"
-msgstr ""
+msgstr "%L содржи %s"
 
 msgid "%a of %m"
 msgstr "%a од %m"
@@ -73,7 +76,7 @@ msgid "%f of %n"
 msgstr "%f од %n"
 
 msgid "%n mod %n"
-msgstr "%n модул %n"
+msgstr "%n модуло %n"
 
 msgid "add %s to %L"
 msgstr "додавај %s на %L"
@@ -85,7 +88,7 @@ msgid "ask %s and wait"
 msgstr "прашај %s и чекај"
 
 msgid "background #"
-msgstr "позадина бр."
+msgstr "позадина #"
 
 msgid "broadcast %e"
 msgstr "емитувај %e"
@@ -133,10 +136,10 @@ msgid "color %C is touching %C?"
 msgstr "бојата %C допира со %C?"
 
 msgid "control"
-msgstr "Контрола"
+msgstr "контрола"
 
 msgid "costume #"
-msgstr "маска бр."
+msgstr "маска #"
 
 msgid "delete %y of %L"
 msgstr "избриши %y од %L"
@@ -208,34 +211,34 @@ msgid "list"
 msgstr "листа"
 
 msgid "looks"
-msgstr "Погледи"
+msgstr "погледи"
 
 msgid "loud?"
 msgstr "гласно?"
 
 msgid "loudness"
-msgstr "гласнност"
+msgstr "гласност"
 
 msgid "motion"
-msgstr "Движења"
+msgstr "движења"
 
 msgid "motor direction %W"
 msgstr "смер на моторот %W"
 
 msgid "motor off"
-msgstr "мотор исклучи"
+msgstr "исклучи мотор"
 
 msgid "motor on"
-msgstr "мотор уклучи"
+msgstr "уклучи мотор"
 
 msgid "motor on for %n secs"
-msgstr "мотор уклучи за %n секунди"
+msgstr "уклучи мотор за %n секунди"
 
 msgid "motor power %n"
 msgstr "мотор снага %n"
 
 msgid "mouse down?"
-msgstr "глувчето долу"
+msgstr "глувчето долу?"
 
 msgid "mouse x"
 msgstr "глувче x"
@@ -259,7 +262,7 @@ msgid "operators"
 msgstr "оператори"
 
 msgid "pen"
-msgstr "Молив"
+msgstr "молив"
 
 msgid "pen down"
 msgstr "моливот долу"
@@ -313,7 +316,7 @@ msgid "say %s for %n secs"
 msgstr "кажи %s за %n секунди"
 
 msgid "sensing"
-msgstr "Распознавање"
+msgstr "распознавање"
 
 msgid "sensor %h?"
 msgstr "сензорот %h е активен?"
@@ -364,7 +367,7 @@ msgid "size"
 msgstr "големина"
 
 msgid "sound"
-msgstr "Звук"
+msgstr "звук"
 
 msgid "stamp"
 msgstr "печат"
@@ -391,7 +394,7 @@ msgid "think %s"
 msgstr "размислувај %s"
 
 msgid "think %s for %n secs"
-msgstr "размислувај %s за %n сек."
+msgstr "размислувај %s за %n сек"
 
 msgid "timer"
 msgstr "тајмер"
@@ -406,13 +409,13 @@ msgid "turn %n degrees"
 msgstr "заврти %n степени"
 
 msgid "variables"
-msgstr "Променливи"
+msgstr "променливи"
 
 msgid "volume"
 msgstr "глас"
 
 msgid "wait %n secs"
-msgstr "чекај %n сек."
+msgstr "чекај %n сек"
 
 msgid "wait until %b"
 msgstr "чекај додека %b"
@@ -427,7 +430,7 @@ msgid "when I receive %e"
 msgstr "кога ќе примам %e"
 
 msgid "x position"
-msgstr "х позиција "
+msgstr "х позиција"
 
 msgid "y position"
 msgstr "у позиција"
@@ -435,7 +438,6 @@ msgstr "у позиција"
 ############################################
 # USER INTERFACE
 ############################################
-
 msgid "(empty)"
 msgstr "(празно)"
 
@@ -509,7 +511,7 @@ msgid "Choose a folder"
 msgstr "Избери папка"
 
 msgid "Choose new sprite from file"
-msgstr "Избери нова фигура од фајл"
+msgstr "Избери нова фигура од датотека"
 
 msgid "clean up"
 msgstr "чисти"
@@ -539,7 +541,7 @@ msgid "color"
 msgstr "боја"
 
 msgid "Compress Images"
-msgstr "компресирај слики"
+msgstr "Компресирај слики"
 
 msgid "Compress Sounds"
 msgstr "компресирај звуци"
@@ -575,7 +577,7 @@ msgid "Could not read project; file may be damaged"
 msgstr "Не се чита проектот; оштетен фајл "
 
 msgid "Could not write file"
-msgstr "Не може да запишува фајл"
+msgstr "Не може да запишува датотека"
 
 msgid "Create account"
 msgstr "Креирај сметка"
@@ -788,7 +790,7 @@ msgid "Grow sprite"
 msgstr "Зголеми фигура"
 
 msgid "hello "
-msgstr ""
+msgstr "здраво"
 
 msgid "Hello!"
 msgstr "Здраво!"
@@ -797,16 +799,16 @@ msgid "help"
 msgstr "помош"
 
 msgid "Help"
-msgstr "помош"
+msgstr "Помош"
 
 msgid "Help Page"
-msgstr ""
+msgstr "Страна за Помош"
 
 msgid "Help Screens"
-msgstr ""
+msgstr "Екрани за Помош"
 
 msgid "Hide Motor Blocks"
-msgstr ""
+msgstr "Скриј блокови за мотор"
 
 msgid "High (biggest)"
 msgstr "Висок (најголем)"
@@ -857,7 +859,7 @@ msgid "Is the folder read-only?"
 msgstr "Дали папката е само за читање?"
 
 msgid "JPEG Quality (10-100)?"
-msgstr "JPEG квалитет (10-100)"
+msgstr "JPEG квалитет (10-100)?"
 
 msgid "kbytes"
 msgstr "килобајти"
@@ -865,9 +867,8 @@ msgstr "килобајти"
 msgid "Language"
 msgstr "Јазик"
 
-#, fuzzy
 msgid "large readout"
-msgstr "големо одбројување"
+msgstr "големо отчитување"
 
 msgid "last"
 msgstr "последно"
@@ -903,7 +904,7 @@ msgid "Make a variable"
 msgstr "Направи променлива"
 
 msgid "Max:"
-msgstr "Максимум:"
+msgstr "Макс:"
 
 msgid "meow"
 msgstr "миао"
@@ -912,7 +913,7 @@ msgid "Message name:"
 msgstr "Име на пораката:"
 
 msgid "Min:"
-msgstr "Минимум:"
+msgstr "Мин:"
 
 msgid "mod"
 msgstr "модуло"
@@ -942,7 +943,7 @@ msgid "Music"
 msgstr "Музика"
 
 msgid "My Projects"
-msgstr ""
+msgstr "Мои проекти"
 
 msgid "new"
 msgstr "нов"
@@ -957,7 +958,7 @@ msgid "New costume:"
 msgstr "Нова маска:"
 
 msgid "New file name?"
-msgstr ""
+msgstr "Ново име на датотеката?"
 
 msgid "New Filename:"
 msgstr "Ново име на фајлот:"
@@ -969,13 +970,13 @@ msgid "New Sprite"
 msgstr "Нова фигура"
 
 msgid "New sprite:"
-msgstr ""
+msgstr "Нова фигура:"
 
 msgid "No"
 msgstr "Не"
 
 msgid "No MIDI ports currently available."
-msgstr "Моментално нема достапни MIDI порти"
+msgstr "Моментално нема достапни MIDI порти."
 
 msgid "No motion blocks"
 msgstr "Нема блокови за движења"
@@ -992,9 +993,8 @@ msgstr "Нема променливи."
 msgid "Normal"
 msgstr "Нормално"
 
-#, fuzzy
 msgid "normal readout"
-msgstr "нормално одбројување"
+msgstr "нормално отчитување"
 
 msgid "Off"
 msgstr "Исклучено"
@@ -1057,7 +1057,7 @@ msgid "Position the cross-hair to set the rotation center"
 msgstr "Намести го крстот во центарот на ротацијата"
 
 msgid "Preparing project..."
-msgstr "Подготвување на проектот ..."
+msgstr "Подготвување на проектот..."
 
 msgid "Project author:"
 msgstr "Автор на проектот:"
@@ -1084,7 +1084,7 @@ msgid "Quit Scratch"
 msgstr "Излез од Скреч"
 
 msgid "Reading"
-msgstr ""
+msgstr "Отчитување"
 
 msgid "record"
 msgstr "снимај"
@@ -1102,10 +1102,10 @@ msgid "Redo"
 msgstr "Повтори"
 
 msgid "Reference Guide"
-msgstr ""
+msgstr "Водич"
 
 msgid "Remote sensor connections enabled"
-msgstr ""
+msgstr "Врски со даленскиот сензор уклучувани"
 
 msgid "Remove viewer from stage"
 msgstr "Отстрани го гледачот од етапата"
@@ -1114,10 +1114,10 @@ msgid "resistance"
 msgstr "отпор"
 
 msgid "resize this sprite"
-msgstr ""
+msgstr "промени големина на фигурата"
 
 msgid "reverse"
-msgstr ""
+msgstr "наназад"
 
 msgid "right"
 msgstr "надесно"
@@ -1132,10 +1132,10 @@ msgid "Rotate counter-clock-wise"
 msgstr "Ротирај спротивно од насоката на стрелките на часовникот"
 
 msgid "rotate this sprite"
-msgstr ""
+msgstr "ротира ја оваа фигура"
 
 msgid "Rotation degrees?"
-msgstr "Агол на ротирање"
+msgstr "Агол на ротирање?"
 
 msgid "Save"
 msgstr "Зачувај"
@@ -1147,7 +1147,7 @@ msgid "Save As"
 msgstr "Зачувај како"
 
 msgid "Save changes before quitting?"
-msgstr ""
+msgstr "Зачувај промени пред излез?"
 
 msgid "Save failed"
 msgstr "Зачувувањето не успеа"
@@ -1174,7 +1174,7 @@ msgid "Save the current project?"
 msgstr "Зачувај го тековниот проект?"
 
 msgid "Save this project"
-msgstr ""
+msgstr "Зачувај го проектот"
 
 msgid "Scripts"
 msgstr "Програмчиња"
@@ -1186,10 +1186,10 @@ msgid "Select tool (move, modify, or delete selection)"
 msgstr "Избирање-алатка (премести, измени, или избриши го избраното)"
 
 msgid "Set costume center"
-msgstr ""
+msgstr "Постави центар на маската"
 
 msgid "Set language"
-msgstr ""
+msgstr "Постави јазик"
 
 msgid "Set rotation center"
 msgstr "Намести центар на ротација"
@@ -1204,13 +1204,13 @@ msgid "Share"
 msgstr "Објави"
 
 msgid "Share this project"
-msgstr ""
+msgstr "Сподели го овој проект"
 
 msgid "Share This Project Online"
 msgstr "Објави го проектот онлајн"
 
 msgid "Show Motor Blocks"
-msgstr ""
+msgstr "Покажи Моторни Блокови"
 
 msgid "show ScratchBoard watcher"
 msgstr "прикажи го Скреч прегледувачот"
@@ -1222,10 +1222,10 @@ msgid "Shrink sprite"
 msgstr "Намали ја фигурата"
 
 msgid "Simulation"
-msgstr ""
+msgstr "Симулација"
 
 msgid "Single-step speed?"
-msgstr "Брзина на единечно чекорење"
+msgstr "Брзина на единечно чекорење?"
 
 msgid "slider"
 msgstr "лизгач"
@@ -1252,7 +1252,7 @@ msgid "Sprite"
 msgstr "Фигура"
 
 msgid "Sprites"
-msgstr ""
+msgstr "Фигури"
 
 msgid "sqrt"
 msgstr "sqrt"
@@ -1282,22 +1282,22 @@ msgid "Stop Single Stepping"
 msgstr "стопирај единечно чекорење"
 
 msgid "Story"
-msgstr ""
+msgstr "Приказна"
 
 msgid "Support Site"
-msgstr ""
+msgstr "Сајт за подршка"
 
 msgid "Switch colors"
 msgstr "Префрлување на боите"
 
 msgid "Switch to full stage"
-msgstr ""
+msgstr "Префрлување на полна етапа"
 
 msgid "Switch to presentation mode"
-msgstr ""
+msgstr "Префрлување на модот за презентација"
 
 msgid "Switch to small stage"
-msgstr ""
+msgstr "Префрлување на мала етапа"
 
 msgid "Tags:"
 msgstr "Описи:"
@@ -1309,7 +1309,7 @@ msgid "That variable name is already in use"
 msgstr "Тоа име за променлива е користено"
 
 msgid "that way"
-msgstr ""
+msgstr "натаму"
 
 msgid "The file name already exists. Overwrite existing file?"
 msgstr "Сакате ли да ја замените постоечката датотека?"
@@ -1318,10 +1318,10 @@ msgid "thing"
 msgstr "објект"
 
 msgid "this way"
-msgstr ""
+msgstr "наваму"
 
 msgid "tilt"
-msgstr ""
+msgstr "навали"
 
 msgid "true"
 msgstr "вистина"
@@ -1333,7 +1333,7 @@ msgid "turn into new sprite"
 msgstr "чувај како нова фигура"
 
 msgid "Undelete"
-msgstr ""
+msgstr "Обнови"
 
 msgid "Undo"
 msgstr "Поништи"
@@ -1345,7 +1345,7 @@ msgid "up arrow"
 msgstr "стрелка нагоре"
 
 msgid "Updating thumbnails"
-msgstr ""
+msgstr "Ажурирање сликички"
 
 msgid "Upload succeeded!"
 msgstr "Префрлувањето е успешно!"
@@ -1363,13 +1363,13 @@ msgid "View on stage"
 msgstr "Поглед на етапата"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Како се викаш?"
 
 msgid "whirl"
 msgstr "врти"
 
 msgid "world"
-msgstr ""
+msgstr "свет"
 
 msgid "Write Multiple Project Summaries"
 msgstr "запиши заклучоци за повеќе проекти"
@@ -1395,7 +1395,6 @@ msgstr "Намалување (зум)"
 ############################################
 # MIDI INSTRUMENTS
 ############################################
-
 msgid "Accordion"
 msgstr "Aрмоника-22"
 

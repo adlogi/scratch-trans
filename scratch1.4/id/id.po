@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-09-19 03:48-0400\n"
-"PO-Revision-Date: 2013-11-29 04:29+0200\n"
+"PO-Revision-Date: 2013-12-29 15:07+0200\n"
 "Last-Translator: Emmanuella Pramudita <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -31,6 +31,7 @@ msgstr "LTR"
 
 # Scale to apply to font size (2 for twice as large)
 # Use this if the font is too small for legibility on the Scratch interface
+# 
 msgid "Font-Scale"
 msgstr "1"
 
@@ -41,20 +42,24 @@ msgid "Suppress-Bold"
 msgstr "false"
 
 # Font to use on a Windows system
+# 
 msgid "Win-Font"
 msgstr "Verdana"
 
 # Font to use on a Mac system
+# 
 msgid "Mac-Font"
 msgstr "Helvetica"
 
 # Font to use on a Linux system
+# 
 msgid "Linux-Font"
 msgstr "Sans"
 
-############################################
+# ##########################################
 # BLOCKS
-############################################
+# ##########################################
+# 
 msgid "%H sensor value"
 msgstr "nilai sensor %H"
 
@@ -89,8 +94,9 @@ msgstr "jawaban"
 msgid "ask %s and wait"
 msgstr "tanya %s dan tunggu"
 
+# Apakah kita memerlukan kata "belakang" ? (Dalam bahasa lain, is this necessary?)
 msgid "background #"
-msgstr "latar belakang #"
+msgstr "latar #"
 
 # lebih mudah dipahami oleh anak<br />
 # easier to understand by kids
@@ -165,13 +171,13 @@ msgstr "jarak ke %m"
 msgid "else"
 msgstr "kalau tidak"
 
-# "selamanya" lebih susah dipahami daripada "terus" ~R
+# Terus, terus? Terjemahanku sendiri bikin bingung. Mungkin sebaiknya "selamanya" :P ~R
 msgid "forever"
-msgstr "terus"
+msgstr "selamanya"
 
-# lebih mudah dipahami ~R
+# Kesalahanku sendiri dibenarkan~R
 msgid "forever if %b"
-msgstr "terus jika %b"
+msgstr "selamanya jika %b"
 
 # simpler
 msgid "glide %n secs to x:%n y:%n"
@@ -204,13 +210,13 @@ msgstr "jika %b"
 msgid "if on edge, bounce"
 msgstr "jika di pinggir, pantulkan"
 
-# corrected
+# sisip vs selip : selip sepertinya lebih umum di kalangan anak-anak. ~R
 msgid "insert %s at %i of %L"
-msgstr "sisipkan %s pada %i dari %L"
+msgstr "selipkan %s pada %i dari %L"
 
-# well... 
+# Kalau bisa bahasa Indonesia, ya bahasa Indonesia saja! ~R
 msgid "item %i of %L"
-msgstr "item %i dari %L"
+msgstr "benda %i dari %L"
 
 msgid "join %s %s"
 msgstr "gabungkan %s %s"
@@ -218,14 +224,16 @@ msgstr "gabungkan %s %s"
 msgid "key %k pressed?"
 msgstr "tombol %k ditekan?"
 
+# tata bahasa dibetulkan ;) ~R
 msgid "length of %L"
-msgstr "panjang dari %L"
+msgstr "kepanjangan dari %L"
 
 msgid "length of %s"
-msgstr "panjang dari %s"
+msgstr "kepanjangan dari %s"
 
+# Lebih mudah dipahami. ~R
 msgid "letter %n of %s"
-msgstr "huruf %n dari %s"
+msgstr "huruf-ke %n dari %s"
 
 # more correct
 msgid "list"
@@ -269,18 +277,19 @@ msgstr "mouse x"
 msgid "mouse y"
 msgstr "mouse y"
 
-# shorter, more correct
+# Kita berbicara tentang gerakan. ~R
 msgid "move %n steps"
-msgstr "pindah %n langkah"
+msgstr "gerak %n langkah"
 
 msgid "next background"
-msgstr "latar belakang berikutnya"
+msgstr "latar berikutnya"
 
 msgid "next costume"
 msgstr "kostum berikutnya"
 
+# bayangkan <bukan<menyentuh warna [ ]> > Lebih akurat <tidak <menyentuh warna [ ]> > Ketika menerjemahkan, sebaiknya pikirkan dimana terjemahan ini akan digunakan. ~R
 msgid "not %b"
-msgstr "bukan %b"
+msgstr "tidak %b"
 
 msgid "operators"
 msgstr "operator"
@@ -296,7 +305,7 @@ msgstr "angkat pena"
 
 # shorter, simpler
 msgid "pick random %n to %n"
-msgstr "pilih acak %n hingga %n"
+msgstr "pilih acak dari %n hingga %n"
 
 msgid "play drum %D for %n beats"
 msgstr "mainkan drum %D sebanyak %n ketukan"
@@ -310,13 +319,13 @@ msgstr "mainkan suara %S"
 msgid "play sound %S until done"
 msgstr "mainkan suara %S sampai selesai"
 
-# simpler
+# lebih konsisten ~R
 msgid "point in direction %d"
-msgstr "menghadap arah %d"
+msgstr "mengarah arah %d"
 
-# simpler
+# konsisten
 msgid "point towards %m"
-msgstr "menghadap ke %m"
+msgstr "mengarah ke %m"
 
 msgid "repeat %n"
 msgstr "ulangi %n"
@@ -325,7 +334,7 @@ msgid "repeat until %b"
 msgstr "ulangi sampai %b"
 
 msgid "replace item %i of %L with %s"
-msgstr "ganti item %i dari %L dengan %s"
+msgstr "ganti benda %i dari %L dengan %s"
 
 msgid "reset timer"
 msgstr "reset timer"
