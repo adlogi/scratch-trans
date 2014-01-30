@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-12-13 07:10+0200\n"
+"PO-Revision-Date: 2014-01-20 08:08+0200\n"
 "Last-Translator: janggoons <janggoons@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -27,25 +27,27 @@ msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage 의 %m.attribute"
 
 msgid "%m.list contains %s"
-msgstr "%m.list 리스트에 %s 이(가) 포함되었는가?"
+msgstr "%m.list 리스트에 %s 포함되었는가"
 
+# %n 의 %m.mathOp
 msgid "%m.mathOp of %n"
-msgstr "%n 의 %m.mathOp"
+msgstr "%m.mathOp of %n"
 
 msgid "%m.sensor sensor value"
 msgstr "%m.sensor 의 센서값"
 
 msgid "%n mod %n"
-msgstr "%n / %n 의 나머지"
+msgstr "%n 나누기 %n 의 나머지"
 
+# %m.list 에 %s 항목 추가하기
 msgid "add %s to %m.list"
-msgstr "%m.list 리스트에 %s 추가하기"
+msgstr "%s 항목을 %m.list 에 추가하기"
 
 msgid "answer"
 msgstr "대답"
 
 msgid "ask %s and wait"
-msgstr "%s (을)를 묻고 기다리기"
+msgstr "%s 묻고 기다리기"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
@@ -56,16 +58,16 @@ msgid "backdrop name"
 msgstr "배경 이름"
 
 msgid "broadcast %m.broadcast"
-msgstr "%m.broadcast (을)를 방송하기"
+msgstr "%m.broadcast 방송하기"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "%m.broadcast (을)를 방송하고 기다리기"
+msgstr "%m.broadcast 방송하고 기다리기"
 
 msgid "change %m.effect effect by %n"
 msgstr "%m.effect 효과를 %n 만큼 바꾸기"
 
 msgid "change %m.var by %n"
-msgstr "%m.var 를 %n 만큼 바꾸기"
+msgstr "%m.var 을(를) %n 만큼 바꾸기"
 
 msgid "change pen color by %n"
 msgstr "펜 색깔을 %n 만큼 바꾸기"
@@ -122,7 +124,7 @@ msgid "define"
 msgstr "정의하기"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "%m.list 리스트의 %d.listDeleteItem 번째 항목 삭제하기"
+msgstr "%d.listDeleteItem 번째 항목을 %m.list 에서 삭제하기"
 
 msgid "delete this clone"
 msgstr "이 복제본 삭제하기"
@@ -152,13 +154,13 @@ msgid "go back %n layers"
 msgstr "%n 번째로 물러나기"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse 위치로 가기"
+msgstr "%m.spriteOrMouse 위치로 이동하기"
 
 msgid "go to front"
 msgstr "맨 앞으로 나오기"
 
 msgid "go to x:%n y:%n"
-msgstr "x: %n y: %n (으)로 가기"
+msgstr "x:%n y:%n 이동하기"
 
 msgid "hide"
 msgstr "숨기기"
@@ -175,17 +177,19 @@ msgstr "만약 %b 라면"
 msgid "if on edge, bounce"
 msgstr "벽에 닿으면 튕기기"
 
+# %m.list 의 %d.listItem 에 %s 넣기
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "%m.list 리스트의 %d.listItem 번째에 %s 넣기"
+msgstr "%s 을(를) %d.listItem 번째 %m.list 에 넣기"
 
+# %m.list 의 %d.listItem 번째 항목
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list 리스트의 %d.listItem 번째 항목"
+msgstr "%d.listItem 번째 %m.list 항목"
 
 msgid "join %s %s"
-msgstr "%s 과 %s 을(를) 결합하기"
+msgstr "%s %s 결합하기"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key 키를 클릭했는가?"
+msgstr "%m.key 키를 눌렀는가?"
 
 msgid "length of %m.list"
 msgstr "%m.list 리스트의 크기"
@@ -193,8 +197,9 @@ msgstr "%m.list 리스트의 크기"
 msgid "length of %s"
 msgstr "%s 의 길이"
 
+# %s 의 %n 번째 글자
 msgid "letter %n of %s"
-msgstr "%s 의 %n 번째 글자"
+msgstr "%n 번째 글자 %s"
 
 msgid "Looks"
 msgstr "형태"
@@ -228,7 +233,7 @@ msgid "next costume"
 msgstr "다음 모양으로 바꾸기"
 
 msgid "not %b"
-msgstr "%b 이(가) 아니다"
+msgstr "%b 아니다"
 
 msgid "Operators"
 msgstr "연산"
@@ -270,8 +275,9 @@ msgstr "%n 번 반복하기"
 msgid "repeat until %b"
 msgstr "%b 까지 반복하기"
 
+# %m.list 의 %d.listItem 번째 항목을 %s (으)로 바꾸기
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "%m.list 리스트의 %d.listItem 번째 항목을 %s (으)로 바꾸기"
+msgstr "%d.listItem 번째 %m.list 의 항목을 %s (으)로 바꾸기"
 
 msgid "reset timer"
 msgstr "타이머 초기화"
@@ -286,19 +292,19 @@ msgid "say %s"
 msgstr "%s 말하기"
 
 msgid "say %s for %n secs"
-msgstr "%s (을)를 %n 초동안 말하기"
+msgstr "%s 을(를) %n 초동안 말하기"
 
 msgid "Sensing"
 msgstr "관찰"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "센서의 %m.booleanSensor ?"
+msgstr "센서의 %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
 msgstr "%m.effect 효과를 %n (으)로 정하기"
 
 msgid "set %m.var to %s"
-msgstr "%m.var (을)를 %s 로 정하기"
+msgstr "%m.var 을(를) %s 로 정하기"
 
 msgid "set instrument to %d.instrument"
 msgstr "%d.instrument 번 악기로 정하기"
@@ -324,7 +330,7 @@ msgid "set pen size to %n"
 msgstr "펜 굵기를 %n (으)로 정하기"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "회전방식을 %m.rotationStyle (으)로 정하기"
+msgstr "회전방식을 %m.rotationStyle 로 정하기"
 
 msgid "set size to %n%"
 msgstr "크기를 %n% 로 정하기"
@@ -336,7 +342,7 @@ msgid "set video transparency to %n%"
 msgstr "비디오 투명도를 %n% 로 정하기"
 
 msgid "set volume to %n%"
-msgstr "음량을 %n% 로 정하기"
+msgstr "음량을 %n% (으)로 정하기"
 
 msgid "set x to %n"
 msgstr "x좌표를 %n (으)로 정하기"
@@ -386,7 +392,7 @@ msgid "think %s"
 msgstr "%s 생각하기"
 
 msgid "think %s for %n secs"
-msgstr "%s (을)를 %n 초동안 생각하기"
+msgstr "%s 을(를) %n 초동안 생각하기"
 
 msgid "tilt"
 msgstr "기울기"
@@ -401,10 +407,10 @@ msgid "touching color %c?"
 msgstr "%c 색에 닿았는가?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "%n 도 @turnLeft 돌기"
+msgstr "@turnLeft %n 도 돌기"
 
 msgid "turn @turnRight %n degrees"
-msgstr "%n 도 @turnRight 돌기"
+msgstr "@turnRight %n 도 돌기"
 
 msgid "turn motor off"
 msgstr "모터 끄기"
@@ -423,7 +429,7 @@ msgid "username"
 msgstr "사용자이름"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "%m.stageOrThis 위에서의 비디오 %m.videoMotionType"
+msgstr "비디오 %m.videoMotionType 에 대한 %m.stageOrThis 에서의 관찰값"
 
 msgid "volume"
 msgstr "음량"
@@ -455,7 +461,7 @@ msgid "when distance < %n"
 msgstr "거리 < %n 일 때"
 
 msgid "when I receive %m.broadcast"
-msgstr "%m.broadcast (을)를 받았을 때"
+msgstr "%m.broadcast 을(를) 받았을 때"
 
 msgid "when I start as a clone"
 msgstr "복제되었을 때"

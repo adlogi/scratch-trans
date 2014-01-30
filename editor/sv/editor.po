@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:55+0200\n"
-"PO-Revision-Date: 2013-12-04 10:28+0200\n"
+"PO-Revision-Date: 2014-01-24 12:31+0200\n"
 "Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
@@ -45,7 +45,7 @@ msgid "add comment"
 msgstr "lägg till kommentar"
 
 msgid "Add label text:"
-msgstr "Lägg till etikett:"
+msgstr "Lägg till etikettext:"
 
 # 89%
 msgid "Add number input:"
@@ -145,19 +145,19 @@ msgid "Bongo"
 msgstr "Bongo"
 
 msgid "brightness"
-msgstr "ljushet"
+msgstr "ljusstyrka"
 
 msgid "Bring to front"
 msgstr "Flytta främst"
 
 msgid "Broadcast"
-msgstr "Sänd"
+msgstr "Sänd till alla"
 
 msgid "Brush"
 msgstr "Pensel"
 
 msgid "button pressed"
-msgstr "knapp tryckt"
+msgstr "knapp nedtryckt"
 
 msgid "by"
 msgstr "av"
@@ -232,10 +232,10 @@ msgid "Clear"
 msgstr "Rensa"
 
 msgid "clear senders/receivers"
-msgstr "tydliga avsändare/mottagare"
+msgstr "ta bort avsändare/mottagare"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr "Klicka  för att försöka igen eller  spara"
+msgstr "Klicka  för att försöka igen eller  för att spara"
 
 msgid "Close"
 msgstr "Stäng"
@@ -262,13 +262,13 @@ msgid "Connecting to Cloud data server..."
 msgstr "Ansluter till Molndataservern..."
 
 msgid "Convert to bitmap"
-msgstr "Omvandla till bitmap"
+msgstr "Konvertera till bitmap"
 
 msgid "Convert to vector"
-msgstr "Omvandla till vektor"
+msgstr "Konvertera till vektor"
 
 msgid "Converting mp3..."
-msgstr "Omvandlar mp3..."
+msgstr "Konverterar mp3..."
 
 msgid "copy"
 msgstr "kopiera"
@@ -315,13 +315,13 @@ msgid "Cowbell"
 msgstr "Koskälla"
 
 msgid "Crash Cymbal"
-msgstr "Kraschcymbal"
+msgstr "Crashcymbal"
 
 msgid "Creating..."
 msgstr "Skapar..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr "För tillfället kan bara siffror användas i Molnvariablerna."
+msgstr "För tillfället kan bara siffror lagras i Molnvariablerna."
 
 msgid "cut"
 msgstr "klipp ut"
@@ -359,7 +359,7 @@ msgid "down"
 msgstr "ned"
 
 msgid "down arrow"
-msgstr "pil ned"
+msgstr "nedåtpil"
 
 msgid "Download"
 msgstr "Ladda ned"
@@ -526,7 +526,7 @@ msgid "left"
 msgstr "vänster"
 
 msgid "left arrow"
-msgstr "pil vänster"
+msgstr "vänsterpil"
 
 msgid "left-right"
 msgstr "vänster-höger"
@@ -764,7 +764,7 @@ msgstr "Piano"
 
 # 92%
 msgid "Pick up color"
-msgstr "Hämta färg"
+msgstr "Välj färg"
 
 msgid "pixelate"
 msgstr "förvandla pixlar"
@@ -849,7 +849,7 @@ msgid "right"
 msgstr "höger"
 
 msgid "right arrow"
-msgstr "pil höger"
+msgstr "högerpil"
 
 msgid "rotation style:"
 msgstr "rotationsstil:"
@@ -1085,7 +1085,7 @@ msgid "this way"
 msgstr "detta sätt"
 
 msgid "Throw away all changes since opening this project?"
-msgstr "Vill du ta bort alla ändringar sen du öppnade projektet?"
+msgstr "Vill du kasta bort alla ändringar sen du öppnade projektet?"
 
 msgid "timer"
 msgstr "timer"
@@ -1104,7 +1104,7 @@ msgid "Triangle"
 msgstr "Triangel"
 
 msgid "Trombone"
-msgstr "Trombone"
+msgstr "Trombon"
 
 # 90%
 msgid "Turbo mode"
@@ -1143,7 +1143,7 @@ msgid "up"
 msgstr "upp"
 
 msgid "up arrow"
-msgstr "pil upp"
+msgstr "uppåtpil"
 
 msgid "Upload backdrop from file"
 msgstr "Ladda upp bakgrund från fil"

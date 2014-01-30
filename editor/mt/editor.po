@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-19 20:54+0200\n"
-"PO-Revision-Date: 2014-01-20 04:04+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"PO-Revision-Date: 2014-01-29 17:06+0200\n"
+"Last-Translator: c.bajada <claudebajada@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: mn\n"
+"Language: mt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==0 || ( n%100>1 && n%100<11) "
+"? 1 : (n%100>10 && n%100<20 ) ? 2 : 3);\n"
 "X-Generator: Pootle 2.1.6\n"
 
 msgid "10 ^"
@@ -26,7 +27,7 @@ msgid "a copy of the project file on your computer."
 msgstr ""
 
 msgid "abs"
-msgstr "abs"
+msgstr ""
 
 msgid "Account settings"
 msgstr ""
@@ -50,19 +51,19 @@ msgid "Add string input:"
 msgstr ""
 
 msgid "All"
-msgstr ""
+msgstr "Kollox"
 
 msgid "all"
-msgstr "бүгд"
+msgstr "kollox"
 
 msgid "all around"
 msgstr ""
 
 msgid "Animal"
-msgstr ""
+msgstr "Animal"
 
 msgid "Animals"
-msgstr ""
+msgstr "Animali"
 
 msgid "asin"
 msgstr ""
@@ -113,7 +114,7 @@ msgid "Bass Drum"
 msgstr ""
 
 msgid "Bassoon"
-msgstr "Бишгүүр"
+msgstr ""
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
@@ -131,7 +132,7 @@ msgid "Bongo"
 msgstr ""
 
 msgid "brightness"
-msgstr "гэрэлтэлт"
+msgstr ""
 
 msgid "Bring to front"
 msgstr ""
@@ -143,7 +144,7 @@ msgid "Brush"
 msgstr ""
 
 msgid "button pressed"
-msgstr "товчлуур дарагдсан"
+msgstr ""
 
 msgid "by"
 msgstr ""
@@ -155,10 +156,10 @@ msgid "C connected"
 msgstr ""
 
 msgid "Cabasa"
-msgstr "Кабаса"
+msgstr ""
 
 msgid "Camera"
-msgstr "Камер"
+msgstr ""
 
 msgid "can drag in player:"
 msgstr ""
@@ -182,7 +183,7 @@ msgid "ceiling"
 msgstr ""
 
 msgid "Cello"
-msgstr "Морин хуур"
+msgstr ""
 
 msgid "Choir"
 msgstr ""
@@ -206,10 +207,10 @@ msgid "City"
 msgstr ""
 
 msgid "Clarinet"
-msgstr "Кларнет"
+msgstr ""
 
 msgid "Claves"
-msgstr "Клавесин"
+msgstr ""
 
 msgid "cleanup"
 msgstr ""
@@ -227,7 +228,7 @@ msgid "Close"
 msgstr ""
 
 msgid "Closed Hi-Hat"
-msgstr "Closed Hi-Hat"
+msgstr ""
 
 msgid "Cloud"
 msgstr ""
@@ -236,7 +237,7 @@ msgid "Cloud data"
 msgstr ""
 
 msgid "color"
-msgstr "өнгө"
+msgstr ""
 
 msgid "Color a shape"
 msgstr ""
@@ -257,7 +258,7 @@ msgid "Converting mp3..."
 msgstr ""
 
 msgid "copy"
-msgstr "Хувилах"
+msgstr ""
 
 msgid "Copying..."
 msgstr ""
@@ -293,7 +294,7 @@ msgid "Costumes:"
 msgstr ""
 
 msgid "Cowbell"
-msgstr "Хонх"
+msgstr ""
 
 msgid "Crash Cymbal"
 msgstr ""
@@ -316,13 +317,11 @@ msgstr ""
 msgid "day of week"
 msgstr ""
 
-# 83%
-#, fuzzy
 msgid "Delete"
-msgstr "устга"
+msgstr ""
 
 msgid "delete"
-msgstr "устга"
+msgstr ""
 
 msgid "delete variable"
 msgstr ""
@@ -337,10 +336,10 @@ msgid "don't rotate"
 msgstr ""
 
 msgid "down"
-msgstr "доошоо"
+msgstr ""
 
 msgid "down arrow"
-msgstr "доошоо сум"
+msgstr ""
 
 msgid "Download"
 msgstr ""
@@ -349,22 +348,22 @@ msgid "Download to your computer"
 msgstr ""
 
 msgid "duplicate"
-msgstr "хувил"
+msgstr ""
 
 msgid "Duplicate"
-msgstr "хувил"
+msgstr ""
 
 msgid "e ^"
 msgstr ""
 
 msgid "edge"
-msgstr "ирмэг"
+msgstr ""
 
 msgid "edit"
-msgstr "Засах"
+msgstr ""
 
 msgid "Edit"
-msgstr "Засах"
+msgstr ""
 
 msgid "Edit Block"
 msgstr ""
@@ -415,7 +414,7 @@ msgid "Fill with color"
 msgstr ""
 
 msgid "fisheye"
-msgstr "загасан нүд"
+msgstr ""
 
 msgid "Flip left-right"
 msgstr ""
@@ -427,7 +426,7 @@ msgid "floor"
 msgstr ""
 
 msgid "Flute"
-msgstr "Лимбэ"
+msgstr ""
 
 msgid "Flying"
 msgstr ""
@@ -445,7 +444,7 @@ msgid "Forward a layer"
 msgstr ""
 
 msgid "ghost"
-msgstr "сүнс"
+msgstr ""
 
 msgid "Go to My Stuff"
 msgstr ""
@@ -463,7 +462,7 @@ msgid "Guitar"
 msgstr ""
 
 msgid "Hand Clap"
-msgstr "Алга ташилтын дуу"
+msgstr ""
 
 msgid "hide"
 msgstr ""
@@ -477,13 +476,11 @@ msgstr ""
 msgid "Human"
 msgstr ""
 
-# 83%
-#, fuzzy
 msgid "import"
-msgstr "оруулагч"
+msgstr ""
 
 msgid "Import"
-msgstr "оруулагч"
+msgstr ""
 
 msgid "Importing sound..."
 msgstr ""
@@ -501,13 +498,13 @@ msgid "large readout"
 msgstr ""
 
 msgid "last"
-msgstr "сүүлчийн"
+msgstr ""
 
 msgid "left"
-msgstr "зүүн"
+msgstr ""
 
 msgid "left arrow"
-msgstr "зүүн сум"
+msgstr ""
 
 msgid "left-right"
 msgstr ""
@@ -519,7 +516,7 @@ msgid "Library"
 msgstr ""
 
 msgid "light"
-msgstr "гэрэл"
+msgstr ""
 
 msgid "limit reached"
 msgstr ""
@@ -530,10 +527,8 @@ msgstr ""
 msgid "Line width"
 msgstr ""
 
-# 75%
-#, fuzzy
 msgid "list"
-msgstr "сүүлчийн"
+msgstr ""
 
 msgid "List name"
 msgstr ""
@@ -566,7 +561,7 @@ msgid "Make a Variable"
 msgstr ""
 
 msgid "Marimba"
-msgstr "Маримба"
+msgstr ""
 
 msgid "Max"
 msgstr ""
@@ -596,13 +591,13 @@ msgid "month"
 msgstr ""
 
 msgid "mosaic"
-msgstr "хээ"
+msgstr ""
 
 msgid "motion"
 msgstr ""
 
 msgid "mouse-pointer"
-msgstr "хулганы заагч"
+msgstr ""
 
 msgid "Multiple"
 msgstr ""
@@ -611,7 +606,7 @@ msgid "Music and Dance"
 msgstr ""
 
 msgid "Music Box"
-msgstr "Хөгжмийн хайрцаг"
+msgstr ""
 
 msgid "Music Loops"
 msgstr ""
@@ -625,9 +620,8 @@ msgstr ""
 msgid "Nature"
 msgstr ""
 
-#, fuzzy
 msgid "New"
-msgstr "Nouveau"
+msgstr ""
 
 msgid "New backdrop from camera"
 msgstr ""
@@ -657,7 +651,7 @@ msgid "New sprite from camera"
 msgstr ""
 
 msgid "New sprite:"
-msgstr "шинэ дүрс"
+msgstr ""
 
 msgid "New Variable"
 msgstr ""
@@ -678,7 +672,7 @@ msgid "of"
 msgstr ""
 
 msgid "off"
-msgstr "Салга"
+msgstr ""
 
 msgid "Offline Editor"
 msgstr ""
@@ -687,16 +681,16 @@ msgid "OK"
 msgstr ""
 
 msgid "on"
-msgstr "Залга"
+msgstr ""
 
 msgid "on-flipped"
 msgstr ""
 
 msgid "Open Cuica"
-msgstr "Нээлттэй куика"
+msgstr ""
 
 msgid "Open Hi-Hat"
-msgstr "Open Hi-Hat"
+msgstr ""
 
 msgid "Options"
 msgstr ""
@@ -744,13 +738,13 @@ msgid "Pick up color"
 msgstr ""
 
 msgid "pixelate"
-msgstr "Цэгийг томсгох"
+msgstr ""
 
 msgid "Pizzicato"
 msgstr ""
 
 msgid "pop"
-msgstr "поп"
+msgstr ""
 
 msgid "Profile"
 msgstr ""
@@ -765,7 +759,7 @@ msgid "random"
 msgstr ""
 
 msgid "Record"
-msgstr "бичлэг"
+msgstr ""
 
 msgid "Record new sound"
 msgstr ""
@@ -776,13 +770,11 @@ msgstr ""
 msgid "Rectangle"
 msgstr ""
 
-# 75%
-#, fuzzy
 msgid "Redo"
-msgstr "Цуцлах"
+msgstr ""
 
 msgid "redo"
-msgstr "Цуцлах"
+msgstr ""
 
 msgid "Remix"
 msgstr ""
@@ -815,7 +807,7 @@ msgid "resistance-D"
 msgstr ""
 
 msgid "reverse"
-msgstr "гэдрэг"
+msgstr ""
 
 msgid "Revert"
 msgstr ""
@@ -824,10 +816,10 @@ msgid "Reverting..."
 msgstr ""
 
 msgid "right"
-msgstr "баруун"
+msgstr ""
 
 msgid "right arrow"
-msgstr "баруун сум"
+msgstr ""
 
 msgid "rotation style:"
 msgstr ""
@@ -920,7 +912,7 @@ msgid "Shrink"
 msgstr ""
 
 msgid "Side Stick"
-msgstr "Side Stick"
+msgstr ""
 
 msgid "Sign in"
 msgstr ""
@@ -941,7 +933,7 @@ msgid "size"
 msgstr ""
 
 msgid "slider"
-msgstr "Хөшүүрэг"
+msgstr ""
 
 msgid "Slider Range"
 msgstr ""
@@ -971,40 +963,34 @@ msgid "Sounds"
 msgstr ""
 
 msgid "space"
-msgstr "спейс"
+msgstr ""
 
-# 80%
-#, fuzzy
 msgid "Space"
-msgstr "спейс"
+msgstr ""
 
 msgid "Sports"
 msgstr ""
 
-# 85%
-#, fuzzy
 msgid "Sprite"
-msgstr "Дүрснүүд"
+msgstr ""
 
 msgid "Sprite Library"
 msgstr ""
 
-# 85%
-#, fuzzy
 msgid "Sprite1"
-msgstr "Дүрснүүд"
+msgstr ""
 
 msgid "Sprites"
-msgstr "Дүрснүүд"
+msgstr ""
 
 msgid "sqrt"
-msgstr "квадрат язгуур"
+msgstr ""
 
 msgid "Square"
 msgstr ""
 
 msgid "Stage"
-msgstr "Тайз"
+msgstr ""
 
 msgid "Stage selected:"
 msgstr ""
@@ -1022,7 +1008,7 @@ msgid "Synth Pad"
 msgstr ""
 
 msgid "Tambourine"
-msgstr "Тамбурин"
+msgstr ""
 
 msgid "tan"
 msgstr ""
@@ -1031,7 +1017,7 @@ msgid "Text"
 msgstr ""
 
 msgid "that way"
-msgstr "тэрүүгээр"
+msgstr ""
 
 msgid "Theme"
 msgstr ""
@@ -1052,7 +1038,7 @@ msgid "this sprite"
 msgstr ""
 
 msgid "this way"
-msgstr "тэр зам"
+msgstr ""
 
 msgid "Throw away all changes since opening this project?"
 msgstr ""
@@ -1073,7 +1059,7 @@ msgid "Triangle"
 msgstr ""
 
 msgid "Trombone"
-msgstr "Тромбон"
+msgstr ""
 
 msgid "Turbo mode"
 msgstr ""
@@ -1084,21 +1070,17 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-# 75%
-#, fuzzy
 msgid "Undelete"
-msgstr "устга"
+msgstr ""
 
 msgid "Underwater"
 msgstr ""
 
-# 75%
-#, fuzzy
 msgid "Undo"
-msgstr "Сэргээх"
+msgstr ""
 
 msgid "undo"
-msgstr "Сэргээх"
+msgstr ""
 
 msgid "Undo Revert"
 msgstr ""
@@ -1110,10 +1092,10 @@ msgid "unshared"
 msgstr ""
 
 msgid "up"
-msgstr "дээш"
+msgstr ""
 
 msgid "up arrow"
-msgstr "дээш сум"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr ""
@@ -1152,10 +1134,10 @@ msgid "Vector Mode"
 msgstr ""
 
 msgid "Vibraphone"
-msgstr "Вибрафон"
+msgstr ""
 
 msgid "Vibraslap"
-msgstr "Вибро слэп"
+msgstr ""
 
 msgid "video motion"
 msgstr ""
@@ -1179,7 +1161,7 @@ msgid "Which column do you want to import"
 msgstr ""
 
 msgid "whirl"
-msgstr "мушгих"
+msgstr ""
 
 msgid "Wood Block"
 msgstr ""
@@ -1204,50 +1186,3 @@ msgstr ""
 
 msgid "Line width:"
 msgstr ""
-
-# 90%
-#, fuzzy
-#~ msgid "New sprite"
-#~ msgstr "шинэ дүрс"
-
-#~ msgid "Paint"
-#~ msgstr "Будах"
-
-#~ msgid "any"
-#~ msgstr "аливаа"
-
-#~ msgid "High Tom"
-#~ msgstr "Өндөр Том"
-
-#~ msgid "Long Guiro"
-#~ msgstr "Урт гуиро"
-
-#~ msgid "Low Bongo"
-#~ msgstr "Нам бонго"
-
-#~ msgid "Low Conga"
-#~ msgstr "Нам конга "
-
-#~ msgid "Low Tom"
-#~ msgstr "Нам томтом"
-
-#~ msgid "Low Wood Block"
-#~ msgstr "Low Wood Block"
-
-#~ msgid "Maracas"
-#~ msgstr "Маракас"
-
-#~ msgid "More"
-#~ msgstr "үргэлжлэл"
-
-#~ msgid "Mute Triangle"
-#~ msgstr "Mute Triangle"
-
-#~ msgid "Open Triangle"
-#~ msgstr "Задгай гурвалжин"
-
-#~ msgid "Pedal Hi-Hat"
-#~ msgstr "Хэт (гишгүүрт) "
-
-#~ msgid "Short Guiro"
-#~ msgstr "Богино гуиро"

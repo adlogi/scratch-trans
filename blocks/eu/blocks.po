@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2014-01-09 18:12+0200\n"
+"PO-Revision-Date: 2014-01-29 17:40+0200\n"
 "Last-Translator: aitolajau <aitorolano@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eu\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
-msgstr "Euskera"
+msgstr "Euskara"
 
 msgid "%b and %b"
 msgstr "%b eta %b"
@@ -39,7 +39,7 @@ msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr "%m.list zerrendari %s gehitu "
+msgstr "%s gehitu %m.list zerrendari "
 
 msgid "answer"
 msgstr "erantzuna"
@@ -146,19 +146,19 @@ msgid "forever"
 msgstr "betirako"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n segundutan x: %n eta y: %n -ra eraman"
+msgstr "%n segundutan x: %n eta y: %n (e)ra"
 
 msgid "go back %n layers"
 msgstr "atzera joan %n geruza"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse -(e)ra joan"
+msgstr "%m.spriteOrMouse (e)ra joan"
 
 msgid "go to front"
 msgstr "aurrekaldera joan"
 
 msgid "go to x:%n y:%n"
-msgstr "x: %n y: %n -(e)ra joan"
+msgstr "x: %n y: %n (e)ra joan"
 
 msgid "hide"
 msgstr "ezkutatu"
@@ -170,7 +170,7 @@ msgid "hide variable %m.var"
 msgstr "%m.var aldagaia ezkutatu"
 
 msgid "if %b then"
-msgstr "baldin eta %b orduan"
+msgstr "baldin %b orduan"
 
 msgid "if on edge, bounce"
 msgstr "errebotatu ertza ukitzean "
@@ -179,10 +179,10 @@ msgid "insert %s at %d.listItem of %m.list"
 msgstr "%s sartu %d.listItem tokian %m.list zerrendan"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list zerrendako %d.listItem elementua  "
+msgstr "%d.listItem itema %m.list zerrendan"
 
 msgid "join %s %s"
-msgstr "%s %s lotu"
+msgstr "%s %s elkartu"
 
 msgid "key %m.key pressed?"
 msgstr "%m.key tekla sakatuta al dago?"
@@ -191,10 +191,10 @@ msgid "length of %m.list"
 msgstr "%m.list zerrendaren luzera"
 
 msgid "length of %s"
-msgstr "%s -(r)en luzera"
+msgstr "%s (r)en luzera"
 
 msgid "letter %n of %s"
-msgstr "%s -(r)en %n hizkia"
+msgstr "%n hizkia %s katean"
 
 msgid "Looks"
 msgstr "Itxura"
@@ -246,7 +246,7 @@ msgid "pick random %n to %n"
 msgstr "%n eta %n arteko ausazko balioa aukeratu"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "%d.drum danborra jo %n aldiz"
+msgstr "%d.drum danborra jo %n taupadatan"
 
 # 83%
 msgid "play note %d.note for %n beats"
@@ -259,10 +259,10 @@ msgid "play sound %m.sound until done"
 msgstr "%m.sound soinua jo eta itxaron"
 
 msgid "point in direction %d.direction"
-msgstr "%d.direction norabideari begira jarri"
+msgstr "%d.direction norabidea hartu"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse -(r)i begira jarri"
+msgstr "%m.spriteOrMouse (r)i begira jarri"
 
 msgid "repeat %n"
 msgstr "errepikatu %n"
@@ -298,7 +298,7 @@ msgid "set %m.effect effect to %n"
 msgstr "%m.effect efektua = %n"
 
 msgid "set %m.var to %s"
-msgstr "%m.var aldagaia = %n"
+msgstr "%m.var aldagaia = %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "musika tresna = %d.instrument"
@@ -321,7 +321,7 @@ msgid "set pen shade to %n"
 msgstr "arkatzaren intentsitatea = %n"
 
 msgid "set pen size to %n"
-msgstr "arkatzaren tamainua = %n"
+msgstr "arkatzaren tamaina = %n"
 
 msgid "set rotation style %m.rotationStyle"
 msgstr "biraketa modua = %m.rotationStyle"
@@ -330,7 +330,7 @@ msgid "set size to %n%"
 msgstr "tamaina = %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "tenpoa = %n tm (taupada minutuko)"
+msgstr "tenpoa = %n taupada/minutuko"
 
 msgid "set video transparency to %n%"
 msgstr "bideoaren gardentasuna = %n%"
@@ -380,7 +380,7 @@ msgid "switch costume to %m.costume"
 msgstr "mozorroa %m.costume (e)ra aldatu"
 
 msgid "tempo"
-msgstr "tempo"
+msgstr "tenpoa"
 
 msgid "think %s"
 msgstr "pentsatu %s"
@@ -401,10 +401,10 @@ msgid "touching color %c?"
 msgstr "%c kolorea ukitzen al du?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "@turnLeft biratu %n gradu"
+msgstr "biratu @turnLeft %n gradu"
 
 msgid "turn @turnRight %n degrees"
-msgstr "@turnRight biratu %n gradu"
+msgstr "biratu @turnRight %n gradu"
 
 msgid "turn motor off"
 msgstr "motorea itzali"
@@ -429,7 +429,7 @@ msgid "volume"
 msgstr "bolumena"
 
 msgid "wait %n secs"
-msgstr "%n segundu itxaron"
+msgstr "%n segunduz itxaron"
 
 msgid "wait until %b"
 msgstr "%b arte itxaron"
@@ -449,7 +449,7 @@ msgstr "@greenFlag sakatzean"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "hondoa %m.backdrop -(e)ra aldatzen denean"
+msgstr "hondoa %m.backdrop (e)ra aldatzen denean"
 
 msgid "when distance < %n"
 msgstr "distantzia < %n denean"

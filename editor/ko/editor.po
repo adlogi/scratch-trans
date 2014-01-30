@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:53+0200\n"
-"PO-Revision-Date: 2013-11-09 10:57+0200\n"
+"PO-Revision-Date: 2014-01-20 08:34+0200\n"
 "Last-Translator: janggoons <janggoons@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -57,7 +57,7 @@ msgid "all"
 msgstr "모두"
 
 msgid "all around"
-msgstr ""
+msgstr "회전하기"
 
 msgid "Animal"
 msgstr "동물"
@@ -149,10 +149,10 @@ msgid "button pressed"
 msgstr "버튼 누르기"
 
 msgid "by"
-msgstr ""
+msgstr "by"
 
 msgid "bytes loaded"
-msgstr ""
+msgstr "바이트 불러오기"
 
 msgid "C connected"
 msgstr "C 연결됨"
@@ -164,7 +164,7 @@ msgid "Camera"
 msgstr "카메라"
 
 msgid "can drag in player:"
-msgstr ""
+msgstr "프로젝트 페이지에서 드래그 가능:"
 
 msgid "Cancel"
 msgstr "취소"
@@ -179,7 +179,7 @@ msgid "Castle"
 msgstr "성"
 
 msgid "Category"
-msgstr "카테고리"
+msgstr "전체목록"
 
 msgid "ceiling"
 msgstr "천장 함수"
@@ -219,16 +219,16 @@ msgid "Claves"
 msgstr "클라베스"
 
 msgid "cleanup"
-msgstr ""
+msgstr "블록 정리하기"
 
 msgid "Clear"
 msgstr "모두 지우기"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "표시 삭제하기"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr "저장하기 위해서, \"저장하기\" 를 다시 누르거나 \"다운로드\"를 누르세요."
+msgstr "저장하기 위해서는 \"저장하기\" 를 다시 누르거나 \"다운로드\"를 누르세요."
 
 msgid "Close"
 msgstr "닫기"
@@ -252,16 +252,16 @@ msgid "Conga"
 msgstr "콩가드럼"
 
 msgid "Connecting to Cloud data server..."
-msgstr "클라우드 데이터 서버에 접속중..."
+msgstr "클라우드 데이터 서버에 연결중입니다..."
 
 msgid "Convert to bitmap"
-msgstr "비트맵으로 변환하기"
+msgstr "비트맵 이미지로 변환"
 
 msgid "Convert to vector"
 msgstr "벡터로 변환하기"
 
 msgid "Converting mp3..."
-msgstr "mp3 변환중..."
+msgstr "mp3로 변환중..."
 
 msgid "copy"
 msgstr "복사"
@@ -342,7 +342,7 @@ msgid "direction:"
 msgstr "방향:"
 
 msgid "don't rotate"
-msgstr "회전할 수 없음"
+msgstr "회전하지 않기"
 
 msgid "down"
 msgstr "아래"
@@ -505,7 +505,7 @@ msgid "Instruments"
 msgstr "악기들"
 
 msgid "large readout"
-msgstr ""
+msgstr "변수값 크게 보기"
 
 msgid "last"
 msgstr "마지막"
@@ -517,7 +517,7 @@ msgid "left arrow"
 msgstr "왼쪽 화살표"
 
 msgid "left-right"
-msgstr "왼쪽에서 오른쪽"
+msgstr "왼쪽-오른쪽"
 
 msgid "length"
 msgstr "길이"
@@ -529,7 +529,7 @@ msgid "light"
 msgstr "빛"
 
 msgid "limit reached"
-msgstr ""
+msgstr "한계에 도달함"
 
 msgid "Line"
 msgstr "선"
@@ -608,7 +608,7 @@ msgid "motion"
 msgstr "동작"
 
 msgid "mouse-pointer"
-msgstr "마우스의 포인터"
+msgstr "마우스 포인터"
 
 msgid "Multiple"
 msgstr "복사하기"
@@ -626,7 +626,7 @@ msgid "My Stuff"
 msgstr "내 작업실"
 
 msgid "myself"
-msgstr "자기 자신"
+msgstr "나 자신"
 
 msgid "Nature"
 msgstr "자연"
@@ -671,7 +671,7 @@ msgid "No motion blocks"
 msgstr "사용 가능한 동작 블럭이 없습니다."
 
 msgid "normal readout"
-msgstr ""
+msgstr "변수이름-변수값 보기"
 
 msgid "Not saved; network or server problem."
 msgstr "네트워크 또는 서버 문제로 저장되지 않음."
@@ -795,10 +795,10 @@ msgid "Remixing..."
 msgstr "리믹스중..."
 
 msgid "Rename"
-msgstr ""
+msgstr "이름 수정하기"
 
 msgid "rename variable"
-msgstr ""
+msgstr "변수 이름 수정하기"
 
 msgid "requires sign in"
 msgstr "로그인 필요"
@@ -912,10 +912,10 @@ msgid "show"
 msgstr "보이기"
 
 msgid "show receivers"
-msgstr ""
+msgstr "메시지 받는 스프라이트 표시하기"
 
 msgid "show senders"
-msgstr ""
+msgstr "메시지 보낸 스프라이트 표시하기"
 
 # 80%
 msgid "show:"
@@ -946,16 +946,16 @@ msgid "size"
 msgstr "크기"
 
 msgid "slider"
-msgstr "슬라이더"
+msgstr "슬라이더 사용하기"
 
 msgid "Slider Range"
 msgstr "슬라이더 범위"
 
 msgid "Small stage layout"
-msgstr ""
+msgstr "무대 크기 줄이기"
 
 msgid "Smooth"
-msgstr ""
+msgstr "부드럽게고치기"
 
 msgid "Snare Drum"
 msgstr "스네어 드럼"
@@ -1019,10 +1019,10 @@ msgid "stored on server"
 msgstr "서버에 저장됨"
 
 msgid "Synth Lead"
-msgstr ""
+msgstr "신스 리드"
 
 msgid "Synth Pad"
-msgstr ""
+msgstr "신스 패드"
 
 msgid "Tambourine"
 msgstr "탬버린"
@@ -1037,7 +1037,7 @@ msgid "that way"
 msgstr "반시계방향"
 
 msgid "Theme"
-msgstr "테마"
+msgstr "주제별"
 
 msgid "Things"
 msgstr "물건"
@@ -1085,7 +1085,7 @@ msgid "Turbo Mode"
 msgstr "터보 모드"
 
 msgid "Type"
-msgstr "유형"
+msgstr "유형별"
 
 # 75%
 msgid "Undelete"
@@ -1102,7 +1102,7 @@ msgid "undo"
 msgstr "되돌리기"
 
 msgid "Undo Revert"
-msgstr ""
+msgstr "되돌리기 취소하기"
 
 msgid "Ungroup"
 msgstr "그룹화 해제"
