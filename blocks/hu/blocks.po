@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-06-01 10:49+0200\n"
-"Last-Translator: rudolfwg <rudolf.wg@gmail.com>\n"
+"PO-Revision-Date: 2014-01-30 20:54+0200\n"
+"Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -107,7 +107,7 @@ msgid "costume #"
 msgstr "jelmez sorszáma"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "%m.spriteOnly klónozása"
+msgstr "készíts másolatot: %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "jelenlegi %m.timeAndDate"
@@ -119,13 +119,13 @@ msgid "days since 2000"
 msgstr "napok 2000 óta"
 
 msgid "define"
-msgstr "legyen"
+msgstr "define"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "töröld %2$m.list %1$d.listDeleteItem elemét"
 
 msgid "delete this clone"
-msgstr "ez a klón törlődjön"
+msgstr "töröld ezt a másolatot"
 
 msgid "direction"
 msgstr "irány"
@@ -182,7 +182,7 @@ msgid "item %d.listItem of %m.list"
 msgstr "%2$m.list %1$d.listItem eleme"
 
 msgid "join %s %s"
-msgstr "%s %s együtt"
+msgstr "együtt %s %s"
 
 msgid "key %m.key pressed?"
 msgstr "%m.key lenyomva?"
@@ -203,7 +203,7 @@ msgid "loudness"
 msgstr "hangerő"
 
 msgid "More Blocks"
-msgstr "Egyebek"
+msgstr "Továbbiak"
 
 msgid "Motion"
 msgstr "Mozgás"
@@ -222,7 +222,7 @@ msgstr "menj %n lépést"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr "következő háttér"
+msgstr "válts hátteret"
 
 msgid "next costume"
 msgstr "válts jelmezt"
@@ -280,7 +280,7 @@ msgid "rest for %n beats"
 msgstr "szünetelj %n ütemig"
 
 msgid "round %n"
-msgstr "%n kerekítve"
+msgstr "kerekítve %n"
 
 msgid "say %s"
 msgstr "mondd: %s"
@@ -324,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "tollméret legyen %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "forgási stílus legyen %m.rotationStyle"
+msgstr "forduláskor a jelmez %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "méret legyen %n%"
@@ -348,10 +348,10 @@ msgid "show"
 msgstr "jelenj meg"
 
 msgid "show list %m.list"
-msgstr "%m.list látsszon"
+msgstr "%m.list jelenjen meg"
 
 msgid "show variable %m.var"
-msgstr "%m.var látsszon"
+msgstr "%m.var jelenjen meg"
 
 msgid "size"
 msgstr "méret"
@@ -363,19 +363,18 @@ msgid "stamp"
 msgstr "készíts lenyomatot"
 
 msgid "stop %m.stop"
-msgstr "%m.stop álljon le"
+msgstr "%m.stop állítsd le"
 
 msgid "stop all sounds"
 msgstr "minden hangot állíts le"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "a háttér legyen %m.backdrop"
+msgstr "háttér legyen %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "a háttér legyen %m.backdrop, várd meg"
+msgstr "háttér legyen %m.backdrop és várj"
 
 msgid "switch costume to %m.costume"
 msgstr "jelmez legyen %m.costume"
@@ -438,35 +437,35 @@ msgstr "várj eddig: %b"
 
 # 75%
 msgid "when %m.booleanSensor"
-msgstr "amikor %m.booleanSensor"
+msgstr "%m.booleanSensor esetén"
 
 msgid "when %m.key key pressed"
 msgstr "%m.key lenyomásakor"
 
 msgid "when %m.triggerSensor > %n"
-msgstr "amikor %m.triggerSensor > %n"
+msgstr "%m.triggerSensor > %n esetén"
 
 msgid "when @greenFlag clicked"
 msgstr "@greenFlag kattintásakor"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "amikor a háttér erre vált: %m.backdrop"
+msgstr "%m.backdrop háttérre váltáskor"
 
 msgid "when distance < %n"
-msgstr "amikor távolság < %n"
+msgstr "távolság < %n esetén"
 
 msgid "when I receive %m.broadcast"
-msgstr "amikor %m.broadcast-t kapok"
+msgstr "%m.broadcast üzenet érkezésekor"
 
 msgid "when I start as a clone"
-msgstr "amikor klónként indulok"
+msgstr "másolatként kezdéskor"
 
 msgid "when this sprite clicked"
-msgstr "amikor e szereplőre kattintanak"
+msgstr "szereplőre kattintáskor"
 
 msgid "when tilt = %n"
-msgstr "amikor dőlés = %n"
+msgstr "dőlés = %n esetén"
 
 msgid "x position"
 msgstr "x hely"

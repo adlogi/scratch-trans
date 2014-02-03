@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:51+0200\n"
-"PO-Revision-Date: 2013-11-21 22:24+0200\n"
+"PO-Revision-Date: 2014-01-31 16:57+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -18,9 +18,9 @@ msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
-"<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu toetatakse ainult "
-"arve<br>Vestluste ruumid ei ole lubatud ja eemaldatakse<br>Täiendav info, <a "
-"href= target=>vaata pilveandmete FAQ!</a>"
+"<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu on võimalik kasutada "
+"ainult arve<br>Jututoad ei ole lubatud ja eemaldatakse<br>Täiendav info <a "
+"href= target=>vaata pilveandmete KKK!</a>"
 
 msgid "A connected"
 msgstr "A ühendatud"
@@ -138,7 +138,7 @@ msgid "Bitmap Mode"
 msgstr "Rastergraafika"
 
 msgid "Block help"
-msgstr "küsuploki abiinfo"
+msgstr "Käsuploki abiinfo"
 
 msgid "Bongo"
 msgstr "Bongotrumm"
@@ -474,10 +474,10 @@ msgid "Grow"
 msgstr "Kasvata"
 
 msgid "Guiro"
-msgstr "Guro"
+msgstr "Guiro"
 
 msgid "Guitar"
-msgstr "Gitar"
+msgstr "Kitarr"
 
 msgid "Hand Clap"
 msgstr "Käteplagin"
@@ -505,10 +505,10 @@ msgid "Importing sound..."
 msgstr "Heli importimine..."
 
 msgid "Indoors"
-msgstr "Õues"
+msgstr "Sisevaated"
 
 msgid "Installing..."
-msgstr "Instaleerimine..."
+msgstr "Installeerimine..."
 
 msgid "Instruments"
 msgstr "Instrumendid"
@@ -690,7 +690,7 @@ msgid "Not saved; network or server problem."
 msgstr "Ei ole salvestatud: võrgu või serveri probleem."
 
 msgid "Not saved; project did not load."
-msgstr "Pole salvestanud; projekt ei ole laaditud."
+msgstr "Pole salvestatud; projekt ei laaditud."
 
 msgid "of"
 msgstr "  "
@@ -834,7 +834,7 @@ msgid "resistance-D"
 msgstr "takistus-D"
 
 msgid "reverse"
-msgstr "reevers"
+msgstr "revers"
 
 msgid "Revert"
 msgstr "Tagasipööre"
@@ -858,7 +858,7 @@ msgid "Save"
 msgstr "Salvesta"
 
 msgid "Save as a copy"
-msgstr "Salvesta koopiana"
+msgstr "Salvesta koopia"
 
 msgid "Save now"
 msgstr "Salvesta nüüd"
@@ -876,7 +876,7 @@ msgid "Saving..."
 msgstr "Salvestamine..."
 
 msgid "Saxophone"
-msgstr "Saksafon"
+msgstr "Saksofon"
 
 # 85%
 msgid "Script"
@@ -942,7 +942,7 @@ msgid "Shrink"
 msgstr "Vähenda"
 
 msgid "Side Stick"
-msgstr "Külgepanema"
+msgstr "Külge panema"
 
 msgid "Sign in"
 msgstr "Logi sisse"
@@ -951,7 +951,7 @@ msgid "Sign in to save"
 msgstr "Salvestamiseks logi sisse"
 
 msgid "Sign out"
-msgstr "Välja logimine"
+msgstr "Väljalogimine"
 
 msgid "silence"
 msgstr "vaikus"
@@ -969,7 +969,7 @@ msgid "Slider Range"
 msgstr "Liuguri vahemik"
 
 msgid "Small stage layout"
-msgstr "Väikene lava"
+msgstr "Väike lava"
 
 msgid "Smooth"
 msgstr "Sile"
@@ -1062,12 +1062,12 @@ msgstr "Asjad"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Projekt saab “kasutajanime” abil teha kindlaks, kes seda kasutab. Oma "
-"identiteedi peitmiseks logige välja enne projekti kasutamist."
+"Projekt saab ploki “kasutajanimi” abil kasutaja kindlaks teha. Oma "
+"identiteedi peitmiseks logige välja enne projekti käivitamist."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
-"Antud projekt kasutab pilveandmeid - võimalus on kättesaadav ainult "
+"Antud projekt kasutab pilveandmeid, see võimalus on kättesaadav ainult "
 "sisselogitud kasutajatele."
 
 msgid "this script"
@@ -1146,7 +1146,7 @@ msgid "Upload costume from file"
 msgstr "Kostüümi laadimine failist"
 
 msgid "Upload from your computer"
-msgstr "Lae ülesse oma arvutist"
+msgstr "Lae üles oma arvutist"
 
 msgid "Upload sound from file"
 msgstr "Helindi laadimine failist"
@@ -1209,7 +1209,7 @@ msgid "Wood Block"
 msgstr "Puiduplokk"
 
 msgid "Wooden Flute"
-msgstr "Puduflööt"
+msgstr "Puidust flööt"
 
 msgid "x position"
 msgstr "x"
@@ -1222,8 +1222,8 @@ msgstr "aasta"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
-"Sa ei saa muuta teise projekti pilveandmeid<br>Muudatused, mis sa teed "
-"redaktoris on ajutised ja mitte püsivad."
+"Sa ei saa muuta teise kasutaja projekti pilveandmeid.<br>Redaktoris tehtud "
+"muudatused on ajutised ja mitte püsivad."
 
 msgid "Eraser width:"
 msgstr "Kustutaja laius:"

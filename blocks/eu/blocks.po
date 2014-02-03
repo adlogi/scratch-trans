@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2014-01-29 17:40+0200\n"
+"PO-Revision-Date: 2014-01-30 08:28+0200\n"
 "Last-Translator: aitolajau <aitorolano@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eu\n"
@@ -27,7 +27,7 @@ msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute -- %m.spriteOrStage"
 
 msgid "%m.list contains %s"
-msgstr "%m.list (e)k bere baitan du %s"
+msgstr "%m.list barnean dago %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp -- %n"
@@ -39,7 +39,7 @@ msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr "%s gehitu %m.list zerrendari "
+msgstr "%s txertatu %m.list zerrendan"
 
 msgid "answer"
 msgstr "erantzuna"
@@ -62,34 +62,34 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "bidali denei %m.broadcast eta itxaron"
 
 msgid "change %m.effect effect by %n"
-msgstr "%m.effect efektua aldatu %n zenbatekoz "
+msgstr "%m.effect efektu aldaketa: %n"
 
 msgid "change %m.var by %n"
-msgstr "%m.var aldatu %n zenbatekoz"
+msgstr "%m.var aldaketa: %n"
 
 msgid "change pen color by %n"
-msgstr "arkatzaren kolorea aldatu %n zenbatekoz"
+msgstr "arkatzaren kolore aldaketa: %n"
 
 msgid "change pen shade by %n"
-msgstr "arkatzaren intentsitatea aldatu %n zenbatekoz"
+msgstr "arkatzaren intentsitate aldaketa: %n"
 
 msgid "change pen size by %n"
-msgstr "arkatzaren tamaina aldatu %n zenbatekoz"
+msgstr "arkatzaren tamaina aldaketa: %n"
 
 msgid "change size by %n"
-msgstr "tamaina aldatu %n zenbatekoz"
+msgstr "tamaina aldaketa: %n"
 
 msgid "change tempo by %n"
-msgstr "tenpoa aldatu %n zenbatekoz"
+msgstr "tenpo aldaketa: %n"
 
 msgid "change volume by %n"
-msgstr "bolumena aldatu %n zenbatekoz"
+msgstr "bolumen aldaketa: %n"
 
 msgid "change x by %n"
-msgstr "aldatu x %n zenbatekoz"
+msgstr "x aldaketa: %n"
 
 msgid "change y by %n"
-msgstr "aldatu y %n zenbatekoz"
+msgstr "y aldaketa: %n"
 
 msgid "clear"
 msgstr "ezabatu"
@@ -98,7 +98,7 @@ msgid "clear graphic effects"
 msgstr "efektu grafikoak ezabatu"
 
 msgid "color %c is touching %c?"
-msgstr "%c kolorea %c ukitzen ari al da?"
+msgstr "%c kolorea %c ukitzen?"
 
 msgid "Control"
 msgstr "Kontrola"
@@ -146,13 +146,13 @@ msgid "forever"
 msgstr "betirako"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n segundutan x: %n eta y: %n (e)ra"
+msgstr "%n segundutan x: %n y: %n (e)ra"
 
 msgid "go back %n layers"
 msgstr "atzera joan %n geruza"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse (e)ra joan"
+msgstr "joan %m.spriteOrMouse kokapenera"
 
 msgid "go to front"
 msgstr "aurrekaldera joan"

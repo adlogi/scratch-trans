@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-11-21 22:16+0200\n"
+"PO-Revision-Date: 2014-01-31 16:59+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -50,7 +50,7 @@ msgstr "küsi %s ja oota"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "taust #"
+msgstr "tausta nr"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
@@ -105,10 +105,10 @@ msgid "Control"
 msgstr "Juhtimine"
 
 msgid "costume #"
-msgstr "kostüüm #"
+msgstr "kostüümi nr"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "loo kloon %m.spriteOnly"
+msgstr "klooni %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "jooksev %m.timeAndDate"
@@ -171,7 +171,7 @@ msgid "hide variable %m.var"
 msgstr "peida muutuja %m.var"
 
 msgid "if %b then"
-msgstr "kui %b siis"
+msgstr "kui %b, siis"
 
 msgid "if on edge, bounce"
 msgstr "kui äärel, põrka"
@@ -241,7 +241,7 @@ msgid "pen down"
 msgstr "pliiats alla"
 
 msgid "pen up"
-msgstr "pliiats ülesse"
+msgstr "pliiats üles"
 
 msgid "pick random %n to %n"
 msgstr "juhuarv %n kuni %n"
@@ -460,7 +460,7 @@ msgid "when I receive %m.broadcast"
 msgstr "kui teade %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "kui alustan kloonimist"
+msgstr "kui alustan kloonina"
 
 msgid "when this sprite clicked"
 msgstr "kui spraiti klõpsati"
