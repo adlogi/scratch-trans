@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-06-11 00:26+0200\n"
+"PO-Revision-Date: 2014-02-06 02:02+0200\n"
 "Last-Translator: timsk3 <translate_scratch@timsk.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eo\n"
@@ -176,10 +176,10 @@ msgid "if on edge, bounce"
 msgstr "se mi tuŝas randon, resalti"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "inserti %s ĉe %d.listItem en %m.list"
+msgstr "enŝovi %s ĉe %d.listItem de %m.list"
 
 msgid "item %d.listItem of %m.list"
-msgstr "elemento %d.listItem el %m.list"
+msgstr "%d.listItem-a ero de %m.list"
 
 msgid "join %s %s"
 msgstr "kunligi %s kaj %s"
@@ -271,7 +271,7 @@ msgid "repeat until %b"
 msgstr "ripeti ĝis %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "anstataŭigi elementon %d.listItem de %m.list per %s"
+msgstr "anstataŭigi %d.listItem-an eron de %m.list per %s"
 
 msgid "reset timer"
 msgstr "restartigi klikhorloĝon"
@@ -348,7 +348,7 @@ msgid "show"
 msgstr "montriĝi"
 
 msgid "show list %m.list"
-msgstr "montri liston %m.list"
+msgstr "montri la liston %m.list"
 
 msgid "show variable %m.var"
 msgstr "montri variablon %m.var"
@@ -420,7 +420,7 @@ msgid "turn video %m.videoState"
 msgstr "video iĝu %m.videoState"
 
 msgid "username"
-msgstr "uzantnomo"
+msgstr "salutnomo"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "video %m.videoMotionType sur %m.stageOrThis"

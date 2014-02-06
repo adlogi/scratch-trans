@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-29 06:40+0200\n"
-"PO-Revision-Date: 2014-02-01 15:05+0200\n"
+"PO-Revision-Date: 2014-02-05 13:43+0200\n"
 "Last-Translator: c.bajada <claudebajada@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mt\n"
@@ -25,13 +25,13 @@ msgid "%b or %b"
 msgstr "%b jew %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr ""
+msgstr "%m.attribute ta %m.spriteOrStage"
 
 msgid "%m.list contains %s"
-msgstr ""
+msgstr "%m.list għandu %s ġo fiħ"
 
 msgid "%m.mathOp of %n"
-msgstr ""
+msgstr "%m.mathOp ta %n"
 
 msgid "%m.sensor sensor value"
 msgstr ""
@@ -50,62 +50,67 @@ msgstr "staqsi %s u stenna"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr ""
+msgstr "sfond #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "isem ta l-isfond"
 
 msgid "broadcast %m.broadcast"
-msgstr ""
+msgstr "xandar %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr ""
+msgstr "xandar %m.broadcast u stenna"
 
 msgid "change %m.effect effect by %n"
-msgstr ""
+msgstr "biddel %m.effect effett ma %n"
 
 msgid "change %m.var by %n"
-msgstr ""
+msgstr "biddel %m.var ma %n"
 
 msgid "change pen color by %n"
-msgstr ""
+msgstr "biddel il kulur tal-pinna minn %n"
 
+#, fuzzy
 msgid "change pen shade by %n"
-msgstr ""
+msgstr "biddel il-lewn tal-pinna minn %n"
 
+#, fuzzy
 msgid "change pen size by %n"
-msgstr ""
+msgstr "biddel id-daqs tal-pinna minn %n"
 
+#, fuzzy
 msgid "change size by %n"
-msgstr ""
+msgstr "biddel id-daqs minn %n"
 
 msgid "change tempo by %n"
 msgstr ""
 
+#, fuzzy
 msgid "change volume by %n"
-msgstr ""
+msgstr "biddel il-volum minn %n"
 
 msgid "change x by %n"
 msgstr ""
 
+#, fuzzy
 msgid "change y by %n"
-msgstr ""
+msgstr "biddel y minn %n"
 
 msgid "clear"
 msgstr "naddaf"
 
 msgid "clear graphic effects"
-msgstr ""
+msgstr "biddel l'effett tal-grafika"
 
 msgid "color %c is touching %c?"
-msgstr ""
+msgstr "kulur %c qed imiss ma %c?"
 
 msgid "Control"
-msgstr ""
+msgstr "Kontroll"
 
 msgid "costume #"
-msgstr ""
+msgstr "kostum #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr ""
@@ -124,7 +129,7 @@ msgid "define"
 msgstr "ideffinixxi"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr ""
+msgstr "neħħi %d.listDeleteItem ta %m.list"
 
 msgid "delete this clone"
 msgstr ""
@@ -151,16 +156,16 @@ msgid "glide %n secs to x:%n y:%n"
 msgstr ""
 
 msgid "go back %n layers"
-msgstr ""
+msgstr "mur lura %n saffi"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "mur lejn %m.spriteOrMouse"
 
 msgid "go to front"
-msgstr ""
+msgstr "mur quddiem"
 
 msgid "go to x:%n y:%n"
-msgstr ""
+msgstr "mur x:%n y:%n"
 
 msgid "hide"
 msgstr "aħbi"
@@ -174,26 +179,27 @@ msgstr ""
 msgid "if %b then"
 msgstr "jekk %b imbagħad"
 
+#, fuzzy
 msgid "if on edge, bounce"
-msgstr ""
+msgstr "jekk fit-tarf, erġa lura"
 
 msgid "insert %s at %d.listItem of %m.list"
 msgstr ""
 
 msgid "item %d.listItem of %m.list"
-msgstr ""
+msgstr "oġġett %d.listItem ta %m.list"
 
 msgid "join %s %s"
-msgstr ""
+msgstr "għaqqad %s %s"
 
 msgid "key %m.key pressed?"
 msgstr "il-buttuna %m ingħafset?"
 
 msgid "length of %m.list"
-msgstr ""
+msgstr "tul ta %m.list"
 
 msgid "length of %s"
-msgstr ""
+msgstr "tul ta %s"
 
 msgid "letter %n of %s"
 msgstr "l-ittra %n ta %s"
@@ -202,10 +208,10 @@ msgid "Looks"
 msgstr "Derha"
 
 msgid "loudness"
-msgstr ""
+msgstr "volum"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Iżjed Blokki"
 
 msgid "Motion"
 msgstr "Moviment"
@@ -220,20 +226,20 @@ msgid "mouse y"
 msgstr ""
 
 msgid "move %n steps"
-msgstr ""
+msgstr "ersaq %n passi"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr ""
+msgstr "sfond li jmiss"
 
 msgid "next costume"
-msgstr ""
+msgstr "il-kostum li jmiss"
 
 msgid "not %b"
-msgstr ""
+msgstr "mhux %b"
 
 msgid "Operators"
-msgstr ""
+msgstr "Operaturi"
 
 msgid "Pen"
 msgstr "Pinna"
@@ -245,10 +251,10 @@ msgid "pen up"
 msgstr "pinna mtella"
 
 msgid "pick random %n to %n"
-msgstr ""
+msgstr "għazel bl addoċċ minn %n sa %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr ""
+msgstr "doqq it-tanbur %d.drum għall- %n taħbita"
 
 msgid "play note %d.note for %n beats"
 msgstr ""
@@ -260,19 +266,19 @@ msgid "play sound %m.sound until done"
 msgstr ""
 
 msgid "point in direction %d.direction"
-msgstr ""
+msgstr "ipponta fid-direzzjoni %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr ""
+msgstr "ipponta lejn %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr ""
+msgstr "irrepeti %n"
 
 msgid "repeat until %b"
-msgstr ""
+msgstr "irrepeti sa %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr ""
+msgstr "sostitwixxi ogett %d.listItem ta %m.list ma %s"
 
 msgid "reset timer"
 msgstr ""
@@ -344,28 +350,28 @@ msgid "set y to %n"
 msgstr ""
 
 msgid "show"
-msgstr ""
+msgstr "uri"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "uri l-lista %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "uri varjabbli %m.var"
 
 msgid "size"
-msgstr ""
+msgstr "daqs"
 
 msgid "Sound"
 msgstr "Ħoss"
 
 msgid "stamp"
-msgstr ""
+msgstr "timbru"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "ieqaf %m.stop"
 
 msgid "stop all sounds"
-msgstr ""
+msgstr "waqqaf kull ħoss"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
@@ -373,25 +379,26 @@ msgstr ""
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "aqleb l'isfond ghall %m.backdrop u stenna"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "aqleb il-kostum ghall %m.costume"
 
 msgid "tempo"
 msgstr ""
 
 msgid "think %s"
-msgstr ""
+msgstr "aħseb %s"
 
 msgid "think %s for %n secs"
-msgstr ""
+msgstr "aħseb %s għall- %n sek"
 
 msgid "tilt"
-msgstr ""
+msgstr "mejjel"
 
+#, fuzzy
 msgid "timer"
-msgstr ""
+msgstr "timer"
 
 msgid "touching %m.touching?"
 msgstr ""
@@ -417,42 +424,43 @@ msgstr ""
 msgid "turn video %m.videoState"
 msgstr ""
 
+#, fuzzy
 msgid "username"
-msgstr ""
+msgstr "username"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr ""
 
 msgid "volume"
-msgstr ""
+msgstr "volum"
 
 msgid "wait %n secs"
 msgstr "stenna %n sekondi"
 
 msgid "wait until %b"
-msgstr "stenna sakem %b"
+msgstr "stenna sakemm %b"
 
 msgid "when %m.booleanSensor"
-msgstr ""
+msgstr "meta %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr ""
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "meta %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr ""
+msgstr "meta @greenFlag tingħafas"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "meta l'isfond jaqleb ghal %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "meta id-distanza < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "meta nirċievi %m.broadcast"
 
 msgid "when I start as a clone"
 msgstr ""

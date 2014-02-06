@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:51+0200\n"
-"PO-Revision-Date: 2013-06-28 16:22+0200\n"
+"PO-Revision-Date: 2014-02-05 21:29+0200\n"
 "Last-Translator: timsk3 <translate_scratch@timsk.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eo\n"
@@ -121,6 +121,9 @@ msgstr "Fagoto"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
+"Pro tio, ke vi havas novan Scratch-konton, viaj eventualaj ŝanĝoj al ennubaj "
+"datumoj ankoraŭ ne konserviĝos. Daŭrigu vian partoprenon ĉe Scratch, kaj vi "
+"baldaŭ gajnos la rajton uzi ennubajn datumojn!"
 
 msgid "Bitmap"
 msgstr "Rastrumo"
@@ -216,7 +219,7 @@ msgid "Claves"
 msgstr "Klaveoj"
 
 msgid "cleanup"
-msgstr ""
+msgstr "purigo"
 
 msgid "Clear"
 msgstr "Forigi"
@@ -391,15 +394,14 @@ msgid "Erase"
 msgstr "Forigi"
 
 # 92%
-#, fuzzy
 msgid "Eraser width"
-msgstr "Larĝo de forviŝilo:"
+msgstr "Larĝo de forviŝilo"
 
 msgid "Error!"
-msgstr ""
+msgstr "Eraro!"
 
 msgid "export"
-msgstr ""
+msgstr "eksporti"
 
 msgid "fade in"
 msgstr "maldissolvi"
@@ -438,7 +440,7 @@ msgid "Flying"
 msgstr "Flugado"
 
 msgid "Font:"
-msgstr ""
+msgstr "Tiparo:"
 
 msgid "For all sprites"
 msgstr "Por ĉiuj roluloj"
@@ -474,7 +476,7 @@ msgid "hide"
 msgstr "kaŝi"
 
 msgid "High C"
-msgstr ""
+msgstr "Alta C"
 
 msgid "hour"
 msgstr "horo"
@@ -483,9 +485,8 @@ msgid "Human"
 msgstr "Homa"
 
 # 83%
-#, fuzzy
 msgid "import"
-msgstr "Importi"
+msgstr "importi"
 
 msgid "Import"
 msgstr "Importi"
@@ -503,7 +504,7 @@ msgid "Instruments"
 msgstr "Instrumentoj"
 
 msgid "large readout"
-msgstr ""
+msgstr "granda indikilo"
 
 msgid "last"
 msgstr "lasta"
@@ -518,7 +519,7 @@ msgid "left-right"
 msgstr "dekstra-maldekstra"
 
 msgid "length"
-msgstr ""
+msgstr "longo"
 
 msgid "Library"
 msgstr "Biblioteko"
@@ -533,9 +534,8 @@ msgid "Line"
 msgstr "Linio"
 
 # 90%
-#, fuzzy
 msgid "Line width"
-msgstr "Larĝo de linio:"
+msgstr "Larĝo de linio"
 
 # 75%
 msgid "list"
@@ -560,7 +560,7 @@ msgid "loudness"
 msgstr "laŭto"
 
 msgid "Low C"
-msgstr ""
+msgstr "Malalta C"
 
 msgid "Make a Block"
 msgstr "Konstrui blokon"
@@ -587,10 +587,10 @@ msgid "message1"
 msgstr "mesaĝo1"
 
 msgid "Microphone Volume:"
-msgstr ""
+msgstr "Mikrofona laŭteco:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "Meza C"
 
 msgid "Min"
 msgstr "Min"
@@ -671,13 +671,13 @@ msgid "No motion blocks"
 msgstr "Ne estas movaj blokoj"
 
 msgid "normal readout"
-msgstr ""
+msgstr "kutima montrilo"
 
 msgid "Not saved; network or server problem."
 msgstr "Ne konservita; estis problemo pri la konekto aŭ servilo."
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "Ne konserverita; projekto ne ŝargiĝis."
 
 msgid "of"
 msgstr "de"
@@ -686,7 +686,7 @@ msgid "off"
 msgstr "malŝaltita"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Eksterreta redaktilo"
 
 msgid "OK"
 msgstr "Bone"
@@ -761,7 +761,7 @@ msgid "Profile"
 msgstr "Profilo"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "Projekto ne ŝangiĝis."
 
 msgid "Project not saved!"
 msgstr "Projekto ne konservita!"
@@ -897,7 +897,7 @@ msgid "Set Costume Center"
 msgstr "Difini Centron de Kostumo"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "agordi maksimumon kaj minimumon de la ŝovilo"
 
 msgid "Share"
 msgstr "Kunhavigi"
@@ -945,10 +945,10 @@ msgid "size"
 msgstr "grando"
 
 msgid "slider"
-msgstr "potenciometro"
+msgstr "ŝovilo"
 
 msgid "Slider Range"
-msgstr "Amplekso de potenciometro"
+msgstr "Amplekso de la ŝovilo"
 
 msgid "Small stage layout"
 msgstr "Aranĝo kun malgranda scenejo"

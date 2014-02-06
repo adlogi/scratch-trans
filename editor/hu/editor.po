@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:52+0200\n"
-"PO-Revision-Date: 2014-01-30 21:10+0200\n"
+"PO-Revision-Date: 2014-02-05 17:13+0200\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -38,22 +38,22 @@ msgid "acos"
 msgstr "arccos"
 
 msgid "Add boolean input:"
-msgstr "Új logikai bemenet:"
+msgstr "Logikai mező hozzáadása:"
 
 msgid "add comment"
 msgstr "megjegyzés hozzáadása"
 
 msgid "Add label text:"
-msgstr "Új szöveges címke:"
+msgstr "Szöveg beszúrása:"
 
 msgid "Add number input:"
-msgstr "Új számérték bemenet:"
+msgstr "Szám mező hozzáadása:"
 
 msgid "Add string input:"
-msgstr "Új szövegbemenet:"
+msgstr "Szöveg mező hozzáadása:"
 
 msgid "All"
-msgstr "Összes"
+msgstr "Minden"
 
 msgid "all"
 msgstr "minden"
@@ -184,7 +184,7 @@ msgid "Category"
 msgstr "Kategória"
 
 msgid "ceiling"
-msgstr "felkerekítve"
+msgstr "felkerekítés"
 
 msgid "Cello"
 msgstr "Cselló"
@@ -270,9 +270,8 @@ msgid "Copying..."
 msgstr ""
 
 # 75%
-#, fuzzy
 msgid "cos"
-msgstr "arccos"
+msgstr "cos"
 
 msgid "Costume"
 msgstr "Jelmez"
@@ -287,14 +286,12 @@ msgid "costume name"
 msgstr ""
 
 # 77%
-#, fuzzy
 msgid "costume1"
-msgstr "jelmez sorszáma"
+msgstr "jelmez1"
 
 # 77%
-#, fuzzy
 msgid "costume2"
-msgstr "jelmez sorszáma"
+msgstr "jelmez2"
 
 msgid "Costumes"
 msgstr "Jelmezek"
@@ -418,9 +415,8 @@ msgstr ""
 msgid "fade out"
 msgstr ""
 
-#, fuzzy
 msgid "Fantasy"
-msgstr "Fantasy"
+msgstr "Fantázia"
 
 msgid "Features"
 msgstr ""
@@ -441,7 +437,7 @@ msgid "Flip up-down"
 msgstr "Fel-le tükrözés"
 
 msgid "floor"
-msgstr "lekerekítve"
+msgstr "lekerekítés"
 
 msgid "Flute"
 msgstr "Fuvola"
@@ -506,7 +502,7 @@ msgid "Importing sound..."
 msgstr ""
 
 msgid "Indoors"
-msgstr "Benti"
+msgstr "Beltér"
 
 msgid "Installing..."
 msgstr ""
@@ -530,7 +526,7 @@ msgid "left-right"
 msgstr "balra-jobbra nézzen"
 
 msgid "length"
-msgstr ""
+msgstr "hossz"
 
 msgid "Library"
 msgstr "Könyvtár"
@@ -594,10 +590,10 @@ msgid "meow"
 msgstr ""
 
 msgid "Message Name"
-msgstr ""
+msgstr "Üzenet"
 
 msgid "message1"
-msgstr ""
+msgstr "üzenet1"
 
 msgid "Microphone Volume:"
 msgstr ""
@@ -663,10 +659,10 @@ msgid "New List"
 msgstr "Új lista"
 
 msgid "new message..."
-msgstr ""
+msgstr "új üzenet..."
 
 msgid "New name"
-msgstr ""
+msgstr "Új név"
 
 msgid "New sound:"
 msgstr "Új hang:"
@@ -681,10 +677,10 @@ msgid "New Variable"
 msgstr "Új változó"
 
 msgid "No motion blocks"
-msgstr ""
+msgstr "nem lehet mozgatni"
 
 msgid "normal readout"
-msgstr ""
+msgstr "normál kijelző"
 
 msgid "Not saved; network or server problem."
 msgstr ""
@@ -729,16 +725,16 @@ msgid "other scripts in sprite"
 msgstr ""
 
 msgid "Outdoors"
-msgstr "Kinti"
+msgstr "Kültér"
 
 msgid "Paint new backdrop"
-msgstr "Új háttér rajzolása"
+msgstr "Új háttér festése"
 
 msgid "Paint new costume"
-msgstr "Új jelmez rajzolása"
+msgstr "Új jelmez festése"
 
 msgid "Paint new sprite"
-msgstr "Új szereplő rajzolása"
+msgstr "Új szereplő festése"
 
 msgid "paste"
 msgstr "beillesztés"
@@ -753,7 +749,7 @@ msgid "Percussion"
 msgstr "Ütőhangszerek"
 
 msgid "photo1"
-msgstr ""
+msgstr "fénykép1"
 
 msgid "Piano"
 msgstr "Zongora"
@@ -780,7 +776,7 @@ msgid "Project not saved!"
 msgstr ""
 
 msgid "random"
-msgstr ""
+msgstr "véletlen"
 
 msgid "Record"
 msgstr "Felvétel"
@@ -789,7 +785,7 @@ msgid "Record new sound"
 msgstr "Új hang felvétele"
 
 msgid "recording1"
-msgstr ""
+msgstr "felvétel1"
 
 msgid "Rectangle"
 msgstr "Téglalap"
@@ -850,15 +846,14 @@ msgid "right arrow"
 msgstr "jobbra gomb"
 
 msgid "rotation style:"
-msgstr ""
+msgstr "forgási stílus:"
 
 msgid "Run without screen refresh"
-msgstr ""
+msgstr "Futtatás képernyőfrissítés nélkül"
 
 # 80%
-#, fuzzy
 msgid "Save"
-msgstr "Mentve"
+msgstr "Mentés"
 
 msgid "Save as a copy"
 msgstr "Mentés másolatként"
@@ -867,7 +862,7 @@ msgid "Save now"
 msgstr "Mentés most"
 
 msgid "save to local file"
-msgstr ""
+msgstr "mentés fájlként"
 
 msgid "Saved"
 msgstr "Mentve"
@@ -882,13 +877,13 @@ msgid "Saxophone"
 msgstr "Szakszofon"
 
 msgid "Script"
-msgstr ""
+msgstr "Feladat"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Feladatok"
 
 msgid "Scripts:"
-msgstr ""
+msgstr "Feladatok:"
 
 msgid "second"
 msgstr "másodperc"
@@ -900,7 +895,7 @@ msgid "Select"
 msgstr "Kijelölés"
 
 msgid "select all"
-msgstr "minden kiválasztása"
+msgstr "minden kijelölése"
 
 msgid "Select and duplicate"
 msgstr ""
@@ -912,20 +907,18 @@ msgid "Set costume center"
 msgstr "Középpont beállítása"
 
 # 88%
-#, fuzzy
 msgid "Set Costume Center"
-msgstr "Jelmez közepének beállítása"
+msgstr "Középpont beállítása"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "csúszka határainak megadása"
 
 msgid "Share"
 msgstr "Megosztás"
 
 # 75%
-#, fuzzy
 msgid "shared"
-msgstr "megosztatlan"
+msgstr "megosztott"
 
 msgid "Shift:"
 msgstr "Shift:"
@@ -961,9 +954,8 @@ msgid "silence"
 msgstr "csend"
 
 # 75%
-#, fuzzy
 msgid "sin"
-msgstr "arcsin"
+msgstr "sin"
 
 msgid "size"
 msgstr "méret"
@@ -990,7 +982,6 @@ msgid "sound"
 msgstr "hang"
 
 # 83%
-#, fuzzy
 msgid "Sound"
 msgstr "Hangok"
 
@@ -1034,7 +1025,7 @@ msgid "Stage"
 msgstr "Játéktér"
 
 msgid "Stage selected:"
-msgstr ""
+msgstr "A játéktér van kiválasztva:"
 
 msgid "Steel Drum"
 msgstr ""
@@ -1076,7 +1067,7 @@ msgid "this script"
 msgstr ""
 
 msgid "this sprite"
-msgstr "aktuális szereplő"
+msgstr "e szereplő"
 
 msgid "this way"
 msgstr "erre"
@@ -1085,7 +1076,7 @@ msgid "Throw away all changes since opening this project?"
 msgstr ""
 
 msgid "timer"
-msgstr ""
+msgstr "óra"
 
 msgid "Tips"
 msgstr "Tippek"
@@ -1103,10 +1094,10 @@ msgid "Trombone"
 msgstr "Harsona"
 
 msgid "Turbo mode"
-msgstr "Turbo mód"
+msgstr "Turbó mód"
 
 msgid "Turbo Mode"
-msgstr "Turbo mód"
+msgstr "Turbó mód"
 
 msgid "Type"
 msgstr "Típus"
@@ -1116,7 +1107,7 @@ msgid "Undelete"
 msgstr "Törlés visszavonása"
 
 msgid "Underwater"
-msgstr "Vízalatti"
+msgstr "Vízalatt"
 
 # 75%
 msgid "Undo"
@@ -1213,10 +1204,10 @@ msgid "Wooden Flute"
 msgstr ""
 
 msgid "x position"
-msgstr ""
+msgstr "x hely"
 
 msgid "y position"
-msgstr ""
+msgstr "y hely"
 
 msgid "year"
 msgstr "év"

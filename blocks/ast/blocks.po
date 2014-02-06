@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-03-16 22:15+0200\n"
+"PO-Revision-Date: 2014-02-04 05:45+0200\n"
 "Last-Translator: Xuacu <xuacusk8@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ast\n"
@@ -197,276 +197,274 @@ msgid "letter %n of %s"
 msgstr "lletra %n de %s"
 
 msgid "Looks"
-msgstr ""
+msgstr "Aspeutu"
 
 msgid "loudness"
-msgstr ""
+msgstr "volume del soníu"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Más Bloques"
 
 msgid "Motion"
-msgstr ""
+msgstr "Movimientu"
 
 msgid "mouse down?"
-msgstr ""
+msgstr "¿mur calcáu?"
 
 msgid "mouse x"
-msgstr ""
+msgstr "x del mur"
 
 msgid "mouse y"
-msgstr ""
+msgstr "y del mur"
 
 msgid "move %n steps"
-msgstr ""
+msgstr "mover %n pasos"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr ""
+msgstr "siguiente fondu"
 
 msgid "next costume"
-msgstr ""
+msgstr "siguiente disfraz"
 
 msgid "not %b"
-msgstr ""
+msgstr "non %b"
 
 msgid "Operators"
-msgstr ""
+msgstr "Operadores"
 
 msgid "Pen"
-msgstr ""
+msgstr "Llápiz"
 
 msgid "pen down"
-msgstr ""
+msgstr "baxar llápiz"
 
 msgid "pen up"
-msgstr ""
+msgstr "xubir llápiz"
 
 msgid "pick random %n to %n"
-msgstr ""
+msgstr "númberu al debalu ente %n y %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr ""
+msgstr "tocar el tambor %d.drum demientres %n pulsos"
 
 msgid "play note %d.note for %n beats"
-msgstr ""
+msgstr "tocar la nota %d.note demientres %n pulsos"
 
 msgid "play sound %m.sound"
-msgstr ""
+msgstr "tocar el soníu %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr ""
+msgstr "tocar el soníu %m.sound fasta qu'acabe"
 
 msgid "point in direction %d.direction"
-msgstr ""
+msgstr "apuntar na direición %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr ""
+msgstr "apuntar pa %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr ""
+msgstr "repetir %n"
 
 msgid "repeat until %b"
-msgstr ""
+msgstr "repetir fasta %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr ""
+msgstr "trocar l'elementu %d.listItem de %m.list por %s"
 
 msgid "reset timer"
-msgstr ""
+msgstr "reaniciar el cronómetru"
 
 msgid "rest for %n beats"
-msgstr ""
+msgstr "silenciu de %n pulsos"
 
 msgid "round %n"
-msgstr ""
+msgstr "redondiar %n"
 
 msgid "say %s"
-msgstr ""
+msgstr "dicir %s"
 
 msgid "say %s for %n secs"
-msgstr ""
+msgstr "dicir %s demientres %n segundos"
 
 msgid "Sensing"
-msgstr ""
+msgstr "Sensores"
 
 msgid "sensor %m.booleanSensor?"
-msgstr ""
+msgstr "¿sensor %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
-msgstr ""
+msgstr "poner l'efeutu %m.effect a %n"
 
 msgid "set %m.var to %s"
-msgstr ""
+msgstr "poner %m.var a %s"
 
 msgid "set instrument to %d.instrument"
-msgstr ""
+msgstr "poner l'instrumentu a %d.instrument"
 
 msgid "set motor direction %m.motorDirection"
-msgstr ""
+msgstr "poner direición del motor %m.motorDirection"
 
 msgid "set motor power %n"
-msgstr ""
+msgstr "poner potencia del motor %n"
 
 msgid "set pen color to %c"
-msgstr ""
+msgstr "poner el color del llápiz a %c"
 
 msgid "set pen color to %n"
-msgstr ""
+msgstr "poner el color del llápiz a %n"
 
 msgid "set pen shade to %n"
-msgstr ""
+msgstr "poner la intensidá del llápiz a %n"
 
 msgid "set pen size to %n"
-msgstr ""
+msgstr "poner el tamañu del llápiz a %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "poner l'estilu de xiru %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr ""
+msgstr "poner el tamañu a %n%"
 
 msgid "set tempo to %n bpm"
-msgstr ""
+msgstr "poner el tempo a %n"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "poner la tresparencia de videu a %n%"
 
 msgid "set volume to %n%"
-msgstr ""
+msgstr "poner el volume a %n%"
 
 msgid "set x to %n"
-msgstr ""
+msgstr "poner x a %n"
 
 msgid "set y to %n"
-msgstr ""
+msgstr "poner y a %n"
 
 msgid "show"
-msgstr ""
+msgstr "amosar"
 
 # 76%
-#, fuzzy
 msgid "show list %m.list"
-msgstr "anubrir la llista %m.list"
+msgstr "amosar la llista %m.list"
 
 # 80%
-#, fuzzy
 msgid "show variable %m.var"
-msgstr "anubrir la variable %m.var"
+msgstr "amosar la variable %m.var"
 
 msgid "size"
-msgstr ""
+msgstr "tamañu"
 
 msgid "Sound"
-msgstr ""
+msgstr "Soníu"
 
 msgid "stamp"
-msgstr ""
+msgstr "sellu"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "parar %m.stop"
 
 msgid "stop all sounds"
-msgstr ""
+msgstr "parar tolos soníos"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "cambiar el fondu a %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "cambiar el fondu a %m.backdrop y esperar"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "cambiar el disfraz a %m.costume"
 
 msgid "tempo"
-msgstr ""
+msgstr "tempo"
 
 msgid "think %s"
-msgstr ""
+msgstr "pensar %s"
 
 msgid "think %s for %n secs"
-msgstr ""
+msgstr "pensar %s demientres %n segundos"
 
 msgid "tilt"
-msgstr ""
+msgstr "inclinación"
 
 msgid "timer"
-msgstr ""
+msgstr "cronómetru"
 
 msgid "touching %m.touching?"
-msgstr ""
+msgstr "¿tocando %m.touching?"
 
 msgid "touching color %c?"
-msgstr ""
+msgstr "¿tocando'l color %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "xirar @turnLeft %n graos"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "xirar @turnRight %n graos"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "apagar el motor"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "prender el motor"
 
 msgid "turn motor on for %n secs"
-msgstr ""
+msgstr "prender el motor %n segundos"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "poner videu %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "nome d'usuariu"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "videu %m.videoMotionType en %m.stageOrThis"
 
 msgid "volume"
-msgstr ""
+msgstr "volume"
 
 msgid "wait %n secs"
-msgstr ""
+msgstr "esperar %n segundos"
 
 msgid "wait until %b"
-msgstr ""
+msgstr "esperar fasta %b"
 
 msgid "when %m.booleanSensor"
-msgstr ""
+msgstr "cuando %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr ""
+msgstr "cuando se calque la tecla %m.key"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "cuando %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr ""
+msgstr "cuando se calque @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "cuando'l fondu cambie a %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "cuando la distancia seya < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "cuando reciba %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "cuando principie como clon"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "cuando se calque nesti personaxe"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "cuando la inclinación = %n"
 
 msgid "x position"
-msgstr ""
+msgstr "posición x"
 
 msgid "y position"
-msgstr ""
+msgstr "posición y"

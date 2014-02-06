@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2014-01-30 20:54+0200\n"
+"PO-Revision-Date: 2014-02-04 18:12+0200\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -39,7 +39,7 @@ msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr "add %2$m.list listához: %1$s"
+msgstr "add %m.list listához: %s"
 
 msgid "answer"
 msgstr "válasz"
@@ -122,7 +122,7 @@ msgid "define"
 msgstr "define"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "töröld %2$m.list %1$d.listDeleteItem elemét"
+msgstr "töröld %m.list %d.listDeleteItem elemét"
 
 msgid "delete this clone"
 msgstr "töröld ezt a másolatot"
@@ -176,10 +176,10 @@ msgid "if on edge, bounce"
 msgstr "ha szélen vagy, pattanj vissza"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "szúrd be %3$m.list %2$d.listItem helyére: %1$s"
+msgstr "szúrd be %m.list %d.listItem helyére: %s"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%2$m.list %1$d.listItem eleme"
+msgstr "%m.list %d.listItem eleme"
 
 msgid "join %s %s"
 msgstr "együtt %s %s"
@@ -194,13 +194,13 @@ msgid "length of %s"
 msgstr "%s hossza"
 
 msgid "letter %n of %s"
-msgstr "%2$s %1$n betűje"
+msgstr "%s %n betűje"
 
 msgid "Looks"
 msgstr "Kinézet"
 
 msgid "loudness"
-msgstr "hangerő"
+msgstr "hangosság"
 
 msgid "More Blocks"
 msgstr "Továbbiak"
@@ -271,7 +271,7 @@ msgid "repeat until %b"
 msgstr "ismételd eddig: %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "cseréld le %2$m.list %1$d.listItem elemét: %3$s"
+msgstr "cseréld le %m.list %d.listItem elemét: %s"
 
 msgid "reset timer"
 msgstr "nullázd az órát"
@@ -286,13 +286,13 @@ msgid "say %s"
 msgstr "mondd: %s"
 
 msgid "say %s for %n secs"
-msgstr "mondd: %s%n mp-ig"
+msgstr "mondd: %s %n mp-ig"
 
 msgid "Sensing"
 msgstr "Érzékelés"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "szenzoron %m.booleanSensor?"
+msgstr "sensor %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
 msgstr "%m.effect hatás legyen %n"
@@ -305,11 +305,11 @@ msgstr "hangszer legyen %d.instrument"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
-msgstr "motor iránya legyen %m.motorDirection"
+msgstr "set motor direction %m.motorDirection"
 
 # 77%
 msgid "set motor power %n"
-msgstr "motor teljesítmény legyen %n"
+msgstr "set motor power %n"
 
 msgid "set pen color to %c"
 msgstr "tollszín legyen %c"
@@ -333,7 +333,7 @@ msgid "set tempo to %n bpm"
 msgstr "tempó legyen %n ütem/perc"
 
 msgid "set video transparency to %n%"
-msgstr "videó áttetszősége legyen %n%"
+msgstr "videó átlátszósága legyen %n%"
 
 msgid "set volume to %n%"
 msgstr "hangerő legyen %n%"
@@ -357,7 +357,7 @@ msgid "size"
 msgstr "méret"
 
 msgid "Sound"
-msgstr "Hang"
+msgstr "Sound"
 
 msgid "stamp"
 msgstr "készíts lenyomatot"
@@ -386,10 +386,10 @@ msgid "think %s"
 msgstr "gondold: %s"
 
 msgid "think %s for %n secs"
-msgstr "gondold: %s%n mp-ig"
+msgstr "gondold: %s %n mp-ig"
 
 msgid "tilt"
-msgstr "dőlés"
+msgstr "tilt"
 
 msgid "timer"
 msgstr "óra"
@@ -407,15 +407,14 @@ msgid "turn @turnRight %n degrees"
 msgstr "fordulj @turnRight %n fokot"
 
 msgid "turn motor off"
-msgstr "motor kikapcsolása"
+msgstr "turn motor off"
 
 msgid "turn motor on"
-msgstr "motor bekapcsolása"
+msgstr "turn motor on"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "motor be %n mp-ig"
+msgstr "turn motor on for %n secs"
 
 msgid "turn video %m.videoState"
 msgstr "videót kapcsold %m.videoState"
@@ -424,7 +423,7 @@ msgid "username"
 msgstr "felhasználónév"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "%m.stageOrThis %m.videoMotionType észlelése"
 
 msgid "volume"
 msgstr "hangerő"
@@ -437,7 +436,7 @@ msgstr "várj eddig: %b"
 
 # 75%
 msgid "when %m.booleanSensor"
-msgstr "%m.booleanSensor esetén"
+msgstr "when %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "%m.key lenyomásakor"
@@ -453,7 +452,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "%m.backdrop háttérre váltáskor"
 
 msgid "when distance < %n"
-msgstr "távolság < %n esetén"
+msgstr "when distance < %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast üzenet érkezésekor"
@@ -465,7 +464,7 @@ msgid "when this sprite clicked"
 msgstr "szereplőre kattintáskor"
 
 msgid "when tilt = %n"
-msgstr "dőlés = %n esetén"
+msgstr "when tilt = %n"
 
 msgid "x position"
 msgstr "x hely"
