@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-11-30 04:38+0200\n"
+"PO-Revision-Date: 2014-02-12 00:47+0200\n"
 "Last-Translator: Emmanuella Pramudita <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -112,7 +112,7 @@ msgid "create clone of %m.spriteOnly"
 msgstr "buat clone dari %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr "saat ini %m.timeAndDate"
+msgstr "%m.timeAndDate saat ini"
 
 msgid "Data"
 msgstr "Data"
@@ -138,15 +138,16 @@ msgstr "jarak"
 msgid "distance to %m.spriteOrMouse"
 msgstr "jarak dari %m.spriteOrMouse"
 
+# simpler
 msgid "else"
-msgstr "jika tidak begitu"
+msgstr "jika tidak"
 
 msgid "Events"
 msgstr "Kejadian"
 
-# "selamanya" is confusing
+# correcting my own mistake
 msgid "forever"
-msgstr "terus"
+msgstr "selamanya"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr "meluncur %n detik ke x:%n y:%n"
@@ -392,8 +393,9 @@ msgstr "berpikir %s"
 msgid "think %s for %n secs"
 msgstr "berpikir %s selama %n detik"
 
+# "miring" lebih akurat daripada "kemiringan" ~R
 msgid "tilt"
-msgstr "kemiringan"
+msgstr "miring"
 
 msgid "timer"
 msgstr "timer"
@@ -469,7 +471,7 @@ msgid "when this sprite clicked"
 msgstr "ketika sprite ini diklik"
 
 msgid "when tilt = %n"
-msgstr "ketika kemiringan = %n"
+msgstr "ketika miring = %n"
 
 msgid "x position"
 msgstr "posisi x"

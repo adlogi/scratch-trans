@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:53+0200\n"
-"PO-Revision-Date: 2013-08-16 18:51+0200\n"
+"PO-Revision-Date: 2014-02-08 18:19+0200\n"
 "Last-Translator: Stefan Einar <stefaneinar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: is\n"
@@ -20,7 +20,7 @@ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only num
 msgstr ""
 "<b>Upplýsingar um breytur í Skýinu</b><br>&nbsp;<br>Eins og er þá má aðeins "
 "nota tölur<br>Spjallherbergi eru ekki leyfileg og verða fjarlægð<br>Frekari "
-"upplýsingar er að finna á, <a href= target=>see the cloud data FAQ!</a>"
+"upplýsingar er að finna á, <a href= target=>sjáið gögn í skýinu SOS!</a>"
 
 msgid "A connected"
 msgstr "A tengt"
@@ -120,6 +120,9 @@ msgstr "Fagott"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
+"Nú hefurðu nýjan Scratch reikning. Allar þær breytingar sem þú hefur vistað "
+"í skýinu munu ekki vistast. Haltu áfram að taka þátt á síðunum og þú munt "
+"geta vistað í skýinu fljótlega!"
 
 msgid "Bitmap"
 msgstr "Teikning"
@@ -397,7 +400,7 @@ msgid "Error!"
 msgstr "Villa!"
 
 msgid "export"
-msgstr ""
+msgstr "flytja út"
 
 msgid "fade in"
 msgstr "fjara inn"
@@ -481,7 +484,6 @@ msgid "Human"
 msgstr "Mannvera"
 
 # 83%
-#, fuzzy
 msgid "import"
 msgstr "sækja"
 
@@ -501,7 +503,7 @@ msgid "Instruments"
 msgstr "Hljóðfæri"
 
 msgid "large readout"
-msgstr ""
+msgstr "stór leturgerð"
 
 msgid "last"
 msgstr "síðasta"
@@ -668,7 +670,7 @@ msgid "No motion blocks"
 msgstr "Engar hreyfiblokkir"
 
 msgid "normal readout"
-msgstr ""
+msgstr "venjuleg leturgerð"
 
 msgid "Not saved; network or server problem."
 msgstr "Ekki vistað. Net- eða miðlaravandamál."
@@ -683,7 +685,7 @@ msgid "off"
 msgstr "Af"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Ótengt vinnusvæði"
 
 msgid "OK"
 msgstr "Í lagi"
@@ -894,7 +896,7 @@ msgid "Set Costume Center"
 msgstr "Stilla Búningamiðstöð"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "Stilla lággildi/hágildi rennu"
 
 msgid "Share"
 msgstr "Deila"
@@ -976,7 +978,7 @@ msgstr "bilslá"
 
 # 80%
 msgid "Space"
-msgstr "Bilslá"
+msgstr "Geimurinn"
 
 msgid "Sports"
 msgstr "Íþróttir"
