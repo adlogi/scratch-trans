@@ -3,18 +3,19 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2007-10-28\n"
-"PO-Revision-Date: 2007-10-28\n"
-"Last-Translator: Evelyn Eastmond <evelyn@media.mit.edu>\n"
+"PO-Revision-Date: 2014-02-15 12:32+0200\n"
+"Last-Translator: Manuel <mcaeiror@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
 
 ############################################
 # FORMATTING
 ############################################
-
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
 msgid "Language-Name"
@@ -23,43 +24,49 @@ msgstr "Galego"
 # Directionality of language
 # LTR = Left to Right
 # RTL = Right to Left
+# 
 msgid "Language-Direction"
 msgstr "LTR"
 
 # Scale to apply to font size (2 for twice as large)
 # Use this if the font is too small for legibility on the Scratch interface
+# 
 msgid "Font-Scale"
-msgstr ""
+msgstr "Tamaño da fonte"
 
 # Set to 'true' or 'false'
 # Use this if you do not want any of the text to be bolded, for legibility
+# 
 msgid "Suppress-Bold"
-msgstr ""
+msgstr "Suprimir-Negriña"
 
 # Font to use on a Windows system
+# 
 msgid "Win-Font"
-msgstr ""
+msgstr "Fonte-Windows"
 
 # Font to use on a Mac system
+# 
 msgid "Mac-Font"
-msgstr ""
+msgstr "Fonte-Mac"
 
 # Font to use on a Linux system
+# 
 msgid "Linux-Font"
-msgstr ""
+msgstr "Fonte-Linux"
 
-############################################
+# ##########################################
 # BLOCKS
-############################################
-
+# ##########################################
+# 
 msgid "%H sensor value"
-msgstr "valor do sensor %H"
+msgstr "%H valor do sensor"
 
 msgid "%L contains %s"
-msgstr ""
+msgstr "%L contén %s"
 
 msgid "%a of %m"
-msgstr ""
+msgstr "%a de %m"
 
 msgid "%b and %b"
 msgstr "%b e %b"
@@ -68,22 +75,22 @@ msgid "%b or %b"
 msgstr "%b ou %b"
 
 msgid "%f of %n"
-msgstr ""
+msgstr "%f de %n"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %L"
-msgstr ""
+msgstr "engadir %s a %L"
 
 msgid "answer"
-msgstr ""
+msgstr "resposta"
 
 msgid "ask %s and wait"
-msgstr ""
+msgstr "preguntar %s e agardar"
 
 msgid "background #"
-msgstr ""
+msgstr "fondo #"
 
 msgid "broadcast %e"
 msgstr "enviar a todos %e"
@@ -92,28 +99,28 @@ msgid "broadcast %e and wait"
 msgstr "enviar a todos %e e agardar"
 
 msgid "change %g effect by %n"
-msgstr "cambiar efecto %g por %n"
+msgstr "trocar efecto %g por %n"
 
 msgid "change %v by %n"
 msgstr "trocar %v por %n"
 
 msgid "change pen color by %n"
-msgstr "cambiar a cor do lapis a %n"
+msgstr "mudar a cor do lapis a %n"
 
 msgid "change pen shade by %n"
-msgstr "cambiar intensidade do lapis a %n"
+msgstr "mudar a intensidade do lapis a %n"
 
 msgid "change pen size by %n"
-msgstr "cambiar tamaño do lapis a %n"
+msgstr "mudar o tamaño do lapis a %n"
 
 msgid "change size by %n"
-msgstr "cambiar tamaño por %n"
+msgstr "mudar o tamaño a %n"
 
 msgid "change tempo by %n"
-msgstr ""
+msgstr "mudar o ritmo a %n"
 
 msgid "change volume by %n"
-msgstr ""
+msgstr "mudar o volume a %n"
 
 msgid "change x by %n"
 msgstr "trocar x por %n"
@@ -128,16 +135,16 @@ msgid "clear graphic effects"
 msgstr "quitar efectos gráficos"
 
 msgid "color %C is touching %C?"
-msgstr "¿cor %C sobre %C?"
+msgstr "cor %C tocando %C?"
 
 msgid "control"
 msgstr "control"
 
 msgid "costume #"
-msgstr ""
+msgstr "disfrace #"
 
 msgid "delete %y of %L"
-msgstr ""
+msgstr "borrar %y de %L"
 
 msgid "direction"
 msgstr "dirección"
@@ -155,10 +162,10 @@ msgid "forever if %b"
 msgstr "para sempre se %b"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "moverse %n seg cara a x:%n y:%n"
+msgstr "desprazar %n segundos cara a x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "enviar atrás %n capas"
+msgstr "enviar cara atrás %n capas"
 
 msgid "go to %m"
 msgstr "ir a %m"
@@ -173,7 +180,7 @@ msgid "hide"
 msgstr "agochar"
 
 msgid "hide variable %v"
-msgstr ""
+msgstr "agochar a variable %v"
 
 msgid "if %b"
 msgstr "se %b"
@@ -182,28 +189,28 @@ msgid "if on edge, bounce"
 msgstr "rebotar se toca un bordo"
 
 msgid "insert %s at %i of %L"
-msgstr ""
+msgstr "inserir %s en %i de %L"
 
 msgid "item %i of %L"
-msgstr ""
+msgstr "elemento %i de %L"
 
 msgid "join %s %s"
-msgstr ""
+msgstr "xuntar %s %s"
 
 msgid "key %k pressed?"
-msgstr "¿tecla %k premida?"
+msgstr "tecla %k premida?"
 
 msgid "length of %L"
-msgstr ""
+msgstr "lonxitude de %L"
 
 msgid "length of %s"
-msgstr ""
+msgstr "lonxitude de %s"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "letra %n de %s"
 
 msgid "list"
-msgstr ""
+msgstr "lista"
 
 msgid "looks"
 msgstr "apariencia"
@@ -218,22 +225,22 @@ msgid "motion"
 msgstr "movemento"
 
 msgid "motor direction %W"
-msgstr ""
+msgstr "dirección do motor %W"
 
 msgid "motor off"
-msgstr ""
+msgstr "motor apagado"
 
 msgid "motor on"
-msgstr ""
+msgstr "motor aceso"
 
 msgid "motor on for %n secs"
-msgstr ""
+msgstr "motor aceso por %n segundos"
 
 msgid "motor power %n"
-msgstr ""
+msgstr "potencia do motor %n"
 
 msgid "mouse down?"
-msgstr "¿clic esquerdo no rato?"
+msgstr "botón do rato premido?"
 
 msgid "mouse x"
 msgstr "rato x"
@@ -254,7 +261,7 @@ msgid "not %b"
 msgstr "non %b"
 
 msgid "operators"
-msgstr ""
+msgstr "operadores"
 
 msgid "pen"
 msgstr "lapis"
@@ -269,10 +276,10 @@ msgid "pick random %n to %n"
 msgstr "número ó chou entre %n e %n"
 
 msgid "play drum %D for %n beats"
-msgstr "facer soar o tambor %D durante %n"
+msgstr "facer soar o tambor %D durante %n pulsos"
 
 msgid "play note %N for %n beats"
-msgstr "facer soar a nota %N durante %n"
+msgstr "facer soar a nota %N durante %n pulsos"
 
 msgid "play sound %S"
 msgstr "facer soar %S"
@@ -281,10 +288,10 @@ msgid "play sound %S until done"
 msgstr "facer soar %S e agardar"
 
 msgid "point in direction %d"
-msgstr "apuntar cara á dirección %d"
+msgstr "apuntar cara a dirección %d"
 
 msgid "point towards %m"
-msgstr "apuntar cara a %m"
+msgstr "apuntar cara %m"
 
 msgid "repeat %n"
 msgstr "repetir %n"
@@ -293,13 +300,13 @@ msgid "repeat until %b"
 msgstr "repetir ata %b"
 
 msgid "replace item %i of %L with %s"
-msgstr ""
+msgstr "trocar elemento %i de %L por %s"
 
 msgid "reset timer"
 msgstr "reiniciar cronómetro"
 
 msgid "rest for %n beats"
-msgstr ""
+msgstr "silencio durante %n pulsos"
 
 msgid "round %n"
 msgstr "redondear %n"
@@ -314,49 +321,49 @@ msgid "sensing"
 msgstr "sensores"
 
 msgid "sensor %h?"
-msgstr "¿sensor %h activado?"
+msgstr "sensor %h activado?"
 
 msgid "set %g effect to %n"
 msgstr "fixar efecto %g a %n"
 
 msgid "set %v to %n"
-msgstr "establecer %v en %n"
+msgstr "fixar %v en %n"
 
 msgid "set instrument to %I"
-msgstr "escoller o instrumento %I"
+msgstr "fixar instrumento a %I"
 
 msgid "set pen color to %c"
-msgstr "fixar cor do lapis a %c"
+msgstr "fixar a cor do lapis a %c"
 
 msgid "set pen color to %n"
-msgstr "fixar cor do lapis a %n"
+msgstr "fixar a cor do lapis a %n"
 
 msgid "set pen shade to %n"
-msgstr "fixar intensidade do lapis a %n"
+msgstr "fixar a intensidade do lapis a %n"
 
 msgid "set pen size to %n"
-msgstr "fixar tamaño do lapis a %n"
+msgstr "fixar o tamaño do lapis a %n"
 
 msgid "set size to %n%"
-msgstr "fixar tamaño a %n%"
+msgstr "fixar o tamaño a %n%"
 
 msgid "set tempo to %n bpm"
-msgstr ""
+msgstr "fixar o ritmo a %n ppm"
 
 msgid "set volume to %n%"
-msgstr ""
+msgstr "fixar o volume a %n%"
 
 msgid "set x to %n"
-msgstr "establecer x en %n"
+msgstr "fixar x en %n"
 
 msgid "set y to %n"
-msgstr "establecer y en %n"
+msgstr "fixar y en %n"
 
 msgid "show"
 msgstr "amosar"
 
 msgid "show variable %v"
-msgstr ""
+msgstr "amosar a variable %v"
 
 msgid "size"
 msgstr "tamaño"
@@ -365,7 +372,7 @@ msgid "sound"
 msgstr "son"
 
 msgid "stamp"
-msgstr "debuxo"
+msgstr "selar"
 
 msgid "stop all"
 msgstr "deter todo"
@@ -374,7 +381,7 @@ msgid "stop all sounds"
 msgstr "deter todos os sons"
 
 msgid "stop script"
-msgstr "deter execución"
+msgstr "deter o programa"
 
 msgid "switch to background %l"
 msgstr "mudar o fondo a %l"
@@ -383,7 +390,7 @@ msgid "switch to costume %l"
 msgstr "mudar o disfrace a %l"
 
 msgid "tempo"
-msgstr ""
+msgstr "ritmo"
 
 msgid "think %s"
 msgstr "pensar %s"
@@ -395,10 +402,10 @@ msgid "timer"
 msgstr "cronómetro"
 
 msgid "touching %m?"
-msgstr "¿tocando %m?"
+msgstr "tocando %m?"
 
 msgid "touching color %C?"
-msgstr "¿tocando a cor %C?"
+msgstr "tocando a cor %C?"
 
 msgid "turn %n degrees"
 msgstr "xirar %n graos"
@@ -407,7 +414,7 @@ msgid "variables"
 msgstr "variables"
 
 msgid "volume"
-msgstr ""
+msgstr "volume"
 
 msgid "wait %n secs"
 msgstr "agardar %n segundos"
@@ -419,7 +426,7 @@ msgid "when %k key pressed"
 msgstr "ao premer a tecla %k"
 
 msgid "when %m clicked"
-msgstr "ao facer clic %m"
+msgstr "ao premer %m"
 
 msgid "when I receive %e"
 msgstr "ao recibir %e"
@@ -430,1490 +437,1492 @@ msgstr "posición x"
 msgid "y position"
 msgstr "posición y"
 
-############################################
+# ##########################################
 # USER INTERFACE
-############################################
-
+# ##########################################
+# 
 msgid "(empty)"
-msgstr ""
+msgstr "(baleira)"
 
 msgid "1 script"
-msgstr ""
+msgstr "1 programa"
 
 msgid "About Scratch"
-msgstr ""
+msgstr "Sobre Scratch"
 
 msgid "About this project:"
-msgstr ""
+msgstr "Sobre este proxecto:"
 
 msgid "abs"
-msgstr ""
+msgstr "abs"
 
 msgid "add comment"
-msgstr ""
+msgstr "engadir comentario"
 
 msgid "add comment here"
-msgstr ""
+msgstr "engadir comentario aquí"
 
 msgid "all"
-msgstr ""
+msgstr "todos"
 
 msgid "and"
-msgstr ""
+msgstr "e"
 
 msgid "Animation"
-msgstr ""
+msgstr "Animación"
 
 msgid "any"
-msgstr ""
+msgstr "calquera"
 
 msgid "Art"
-msgstr ""
+msgstr "Arte"
 
 msgid "background"
-msgstr ""
+msgstr "fondo"
 
 msgid "backgrounds"
-msgstr ""
+msgstr "fondos"
 
 msgid "Backgrounds"
-msgstr ""
+msgstr "Fondos"
 
 msgid "brightness"
-msgstr ""
+msgstr "luminosidade"
 
 msgid "Brush size: "
-msgstr ""
+msgstr "Tamaño da brocha: "
 
 msgid "button"
-msgstr ""
+msgstr "botón"
 
 msgid "button pressed"
-msgstr ""
+msgstr "botón premido"
 
 msgid "Camera"
-msgstr ""
+msgstr "Cámara"
 
 msgid "can rotate"
-msgstr ""
+msgstr "xiro habilitado"
 
 msgid "cancel"
-msgstr ""
+msgstr "cancelar"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "Choose a folder"
-msgstr ""
+msgstr "Escoller carpeta"
 
 msgid "Choose new sprite from file"
-msgstr ""
+msgstr "Escoller novo obxeto desde arquivo"
 
 msgid "clean up"
-msgstr ""
+msgstr "limpar"
 
 msgid "Clear"
-msgstr ""
+msgstr "Limpar"
 
 msgid "Clear canvas"
-msgstr ""
+msgstr "Limpar o lenzo"
 
 msgid "Close and continue"
-msgstr ""
+msgstr "Pechar e continuar"
 
 msgid "Close dialog?"
-msgstr ""
+msgstr "Pechar o diálogo?"
 
 msgid "Close paint editor?"
-msgstr ""
+msgstr "Pechar o editor de debuxo?"
 
 msgid "close port"
-msgstr ""
+msgstr "pechar porto"
 
 msgid "Close sound recorder?"
-msgstr ""
+msgstr "Pechar a gravadora de sons?"
 
 msgid "color"
-msgstr ""
+msgstr "cor"
 
 msgid "Compress Images"
-msgstr ""
+msgstr "Comprimir Imaxes"
 
 msgid "Compress Sounds"
-msgstr ""
+msgstr "Comprimir Sons"
 
 msgid "Compress sounds and images"
-msgstr ""
+msgstr "Comprimir sons e imaxes"
 
 msgid "Computer"
-msgstr ""
+msgstr "Ordenador"
 
 msgid "connected"
-msgstr ""
+msgstr "conectado"
 
 msgid "Connecting to "
-msgstr ""
+msgstr "Conectando a "
 
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 msgid "costume"
-msgstr ""
+msgstr "disfrace"
 
 msgid "costumes"
-msgstr ""
+msgstr "disfraces"
 
 msgid "Costumes"
-msgstr ""
+msgstr "Disfraces"
 
 msgid "Could not read"
-msgstr ""
+msgstr "Non se pode ler"
 
 msgid "Could not read project; file may be damaged"
-msgstr ""
+msgstr "Non se pode ler o proxecto; o arquivo pode estar danado"
 
 msgid "Could not write file"
-msgstr ""
+msgstr "Non se pode escribir o arquivo"
 
 msgid "Create account"
-msgstr ""
+msgstr "Crear conta"
 
 msgid "Create an empty project"
-msgstr ""
+msgstr "Crear un proxecto baleiro"
 
 msgid "Data sent. Waiting for response..."
-msgstr ""
+msgstr "Datos enviados. Agardando resposta..."
 
 msgid "delete"
-msgstr ""
+msgstr "borrar"
 
 msgid "Delete"
-msgstr ""
+msgstr "Borrar"
 
 msgid "Delete a list"
-msgstr ""
+msgstr "Borrar unha lista"
 
 msgid "Delete a variable"
-msgstr "Borrar variable"
+msgstr "Borrar unha variable"
 
 msgid "Delete this background"
-msgstr ""
+msgstr "Borrar este fondo"
 
 msgid "Delete this costume"
-msgstr ""
+msgstr "Borrar este disfrace"
 
 msgid "Delete this sound"
-msgstr ""
+msgstr "Borrar este son"
 
 msgid "Delete this sprite"
-msgstr ""
+msgstr "Borrar este obxecto"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Escritorio"
 
 msgid "disable remote sensor connections"
-msgstr ""
+msgstr "desactivar conexións de sensores remotos"
 
 msgid "distance"
-msgstr ""
+msgstr "distancia"
 
 msgid "Documents"
-msgstr ""
+msgstr "Documentos"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "non xirar"
 
 msgid "Don't Save"
-msgstr ""
+msgstr "Non gardar"
 
 msgid "Done"
-msgstr ""
+msgstr "Feito"
 
 msgid "down"
 msgstr "abaixo"
 
 msgid "down arrow"
-msgstr ""
+msgstr "frecha cara abaixo"
 
 msgid "drag to resize"
-msgstr ""
+msgstr "arrastrar para redimensionar"
 
 msgid "drag to rotate"
-msgstr ""
+msgstr "arrastrar para xirar"
 
 msgid "draggable on website?"
-msgstr ""
+msgstr "arrastre permitido no sitio web?"
 
 msgid "duplicate"
-msgstr ""
+msgstr "duplicar"
 
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplicar"
 
 msgid "edge"
-msgstr ""
+msgstr "bordo"
 
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
 msgstr ""
+"Ferramenta de elipses (debuxar círculos ou elipses só a contorna ou recheas)"
 
 msgid "enable remote sensor connections"
-msgstr ""
+msgstr "habilitar conexións de sensores remotos"
 
 msgid "Enter presentation mode"
-msgstr ""
+msgstr "Introducir modo de presentación"
 
 msgid "Eraser"
-msgstr ""
+msgstr "Borrador"
 
 msgid "Eraser size"
-msgstr ""
+msgstr "Tamaño do borrador"
 
 msgid "Error!"
-msgstr ""
+msgstr "Erro!"
 
 msgid "Examples"
-msgstr ""
+msgstr "Exemplos"
 
 msgid "Exit presentation"
-msgstr ""
+msgstr "Saír da presentación"
 
 msgid "Exit presentation mode"
-msgstr ""
+msgstr "Saír do modo presentación"
 
 msgid "export"
-msgstr ""
+msgstr "exportar"
 
 msgid "Export Background"
-msgstr ""
+msgstr "Exportar Fondo"
 
 msgid "Export Costume"
-msgstr ""
+msgstr "Exportar Disfrace"
 
 msgid "Export failed"
-msgstr ""
+msgstr "Fallo de exportación"
 
 msgid "Export Sound"
-msgstr ""
+msgstr "Exportar Son"
 
 msgid "Export Sprite"
-msgstr ""
+msgstr "Exportar Obxecto"
 
 msgid "export this costume"
-msgstr ""
+msgstr "exportar este disfrace"
 
 msgid "export this sound"
-msgstr ""
+msgstr "exportar este son"
 
 msgid "export this sprite"
-msgstr ""
+msgstr "exportar este obxecto"
 
 msgid "Extras menu"
-msgstr ""
+msgstr "Menú de extras"
 
 msgid "Eyedropper tool (select a color)"
-msgstr ""
+msgstr "Ferramenta de contagotas (recoller unha cor)"
 
 msgid "Failed:"
-msgstr ""
+msgstr "Fallado:"
 
 msgid "false"
-msgstr ""
+msgstr "falso"
 
 msgid "File"
-msgstr ""
+msgstr "Arquivo"
 
 msgid "File not found"
-msgstr ""
+msgstr "Arquivo non atopado"
 
 msgid "Fill tool (fill areas with color or gradient)"
-msgstr ""
+msgstr "Ferramenta de recheo (enche áreas con cor ou gradación)"
 
 msgid "first"
-msgstr ""
+msgstr "primeiro(a)"
 
 msgid "fisheye"
-msgstr ""
+msgstr "ollo de peixe"
 
 msgid "Flash blocks (fast)"
-msgstr ""
+msgstr "Iluminar bloques (rápido)"
 
 msgid "Flash blocks (slow)"
-msgstr ""
+msgstr "Iluminar bloques (lento)"
 
 msgid "Flip horizontally"
-msgstr ""
+msgstr "Xirar horizontalmente"
 
 msgid "Flip vertically"
-msgstr ""
+msgstr "Xirar verticalmente"
 
 msgid "For all sprites"
-msgstr ""
+msgstr "Para todos os obxectos"
 
 msgid "For this sprite only"
-msgstr ""
+msgstr "Só para este obxecto"
 
 msgid "Game"
-msgstr ""
+msgstr "Xogo"
 
 msgid "Get surprise sprite"
-msgstr ""
+msgstr "Obtén un obxecto sorpresa"
 
 msgid "Get the last thing deleted"
-msgstr ""
+msgstr "Obtén a última cousa borrada"
 
 msgid "Getting Started"
-msgstr ""
+msgstr "Comenzando"
 
 msgid "ghost"
-msgstr ""
+msgstr "esvairse"
 
 msgid "Go To Scratch Website"
-msgstr ""
+msgstr "Vai ao sitio web de Scratch"
 
 msgid "grab screen region for new costume"
-msgstr ""
+msgstr "seleccionar a rexión da pantalla para un novo disfrace"
 
 msgid "grab screen region for new sprite"
-msgstr ""
+msgstr "seleccionar a rexión da pantalla para un novo obxecto"
 
 msgid "Grow"
-msgstr ""
+msgstr "Agrandar"
 
 msgid "Grow sprite"
-msgstr ""
+msgstr "Agrandar obxecto"
 
 msgid "hello "
-msgstr ""
+msgstr "ola "
 
 msgid "Hello!"
-msgstr ""
+msgstr "Ola!"
 
 msgid "help"
-msgstr ""
+msgstr "axuda"
 
 msgid "Help"
-msgstr ""
+msgstr "Axuda"
 
 msgid "Help Page"
-msgstr ""
+msgstr "Páxina de Axuda"
 
 msgid "Help Screens"
-msgstr ""
+msgstr "Pantallas de Axuda"
 
 msgid "Hide Motor Blocks"
-msgstr ""
+msgstr "Agochar Bloques de Motor"
 
 msgid "High (biggest)"
-msgstr ""
+msgstr "Alta (a meirande)"
 
 msgid "Hmm..."
-msgstr ""
+msgstr "Umm..."
 
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 msgid "Images compressed"
-msgstr ""
+msgstr "Imaxes comprimidas"
 
 msgid "import"
-msgstr ""
+msgstr "importar"
 
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 msgid "Import an image on top of your current canvas"
-msgstr ""
+msgstr "Importar unha imaxe enriba do lenzo actual"
 
 msgid "Import Background"
-msgstr ""
+msgstr "Importar Fondo"
 
 msgid "Import Costume"
-msgstr ""
+msgstr "Importar Disfrace"
 
 msgid "Import Image"
-msgstr ""
+msgstr "Importar Imaxe"
 
 msgid "Import List"
-msgstr ""
+msgstr "Importar Lista"
 
 msgid "Import Project"
-msgstr ""
+msgstr "Importar Proxecto"
 
 msgid "import project"
-msgstr ""
+msgstr "importar proyecto"
 
 msgid "Import Sound"
-msgstr ""
+msgstr "Importar Son"
 
 msgid "Incompatible Scratch file format"
-msgstr ""
+msgstr "Formato de arquivo Scratch incompatible"
 
 msgid "Is the folder read-only?"
-msgstr ""
+msgstr "É o cartafol só de lectura?"
 
 msgid "JPEG Quality (10-100)?"
-msgstr ""
+msgstr "Calidade JPEG (10-100)?"
 
 msgid "kbytes"
-msgstr ""
+msgstr "kbytes"
 
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 msgid "large readout"
-msgstr ""
+msgstr "grande"
 
 msgid "last"
-msgstr ""
+msgstr "último"
 
 msgid "left"
 msgstr "esquerda"
 
 msgid "left arrow"
-msgstr ""
+msgstr "frecha cara a esqueda"
 
 msgid "length"
-msgstr ""
+msgstr "lonxitude"
 
 msgid "light"
-msgstr ""
+msgstr "luz"
 
 msgid "Line tool (draw lines)"
-msgstr ""
+msgstr "Ferramenta de liña (debuxar liñas)"
 
 msgid "List name?"
-msgstr ""
+msgstr "Nome da lista?"
 
 msgid "Low"
-msgstr ""
+msgstr "Baixa"
 
 msgid "Lowest (smallest)"
-msgstr ""
+msgstr "A máis baixa (a máis pequena)"
 
 msgid "Make a list"
-msgstr ""
+msgstr "Crear unha lista"
 
 msgid "Make a variable"
-msgstr "Nova variable"
+msgstr "Crear unha variable"
 
 msgid "Max:"
-msgstr ""
+msgstr "Max:"
 
 msgid "meow"
-msgstr ""
+msgstr "miau"
 
 msgid "Message name:"
-msgstr ""
+msgstr "Nome da mensaxe:"
 
 msgid "Min:"
-msgstr ""
+msgstr "Min:"
 
 msgid "mod"
-msgstr ""
+msgstr "mod"
 
 msgid "more"
-msgstr ""
+msgstr "máis"
 
 msgid "More tags:"
-msgstr ""
+msgstr "Máis etiquetas:"
 
 msgid "mosaic"
-msgstr ""
+msgstr "mosaico"
 
 msgid "mouse x:"
-msgstr ""
+msgstr "rato x:"
 
 msgid "mouse y:"
-msgstr ""
+msgstr "rato y:"
 
 msgid "mouse-pointer"
-msgstr ""
+msgstr "punteiro do rato"
 
 msgid "Move"
-msgstr ""
+msgstr "Mover"
 
 msgid "Music"
-msgstr ""
+msgstr "Música"
 
 msgid "My Projects"
-msgstr ""
+msgstr "Os Meus Proxectos"
 
 msgid "new"
-msgstr ""
+msgstr "novo"
 
 msgid "New"
-msgstr ""
+msgstr "Novo"
 
 msgid "New background:"
-msgstr ""
+msgstr "Novo fondo:"
 
 msgid "New costume:"
-msgstr ""
+msgstr "Novo disfrace:"
 
 msgid "New file name?"
-msgstr ""
+msgstr "Novo nome de arquivo?"
 
 msgid "New Filename:"
-msgstr ""
+msgstr "Novo Nome de Arquivo:"
 
 msgid "New sound:"
-msgstr ""
+msgstr "Novo son:"
 
 msgid "New Sprite"
-msgstr ""
+msgstr "Novo Obxecto"
 
 msgid "New sprite:"
-msgstr ""
+msgstr "Novo obxecto:"
 
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 msgid "No MIDI ports currently available."
-msgstr ""
+msgstr "Ningún porto MIDI dispoñible nestes momentos."
 
 msgid "No motion blocks"
-msgstr ""
+msgstr "Non hai bloques de movemento"
 
 msgid "no scripts"
-msgstr ""
+msgstr "sin programas"
 
 msgid "No serial ports found"
-msgstr ""
+msgstr "Non se atoparon portos serie"
 
 msgid "No variables."
-msgstr ""
+msgstr "Non hai variables."
 
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgid "normal readout"
-msgstr ""
+msgstr "lectura normal"
 
 msgid "Off"
-msgstr ""
+msgstr "Apagado"
 
 msgid "OK"
-msgstr ""
+msgstr "Aceptar"
 
 msgid "On"
-msgstr ""
+msgstr "Aceso"
 
 msgid "only face left-right"
-msgstr ""
+msgstr "só mirar esquerda-dereita"
 
 msgid "Open"
-msgstr ""
+msgstr "Abrir"
 
 msgid "Open a Scratch project"
-msgstr ""
+msgstr "Abrir un proxecto Scratch"
 
 msgid "Open Project"
-msgstr ""
+msgstr "Abrir Proxecto"
 
 msgid "or"
-msgstr ""
+msgstr "ou"
 
 msgid "Paint"
-msgstr ""
+msgstr "Pintar"
 
 msgid "Paint Editor"
-msgstr ""
+msgstr "Editor de Pintura"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "Pintar novo obxecto"
 
 msgid "Paintbrush"
-msgstr ""
+msgstr "Brocha"
 
 msgid "Password:"
-msgstr ""
+msgstr "Contrasinal:"
 
 msgid "Percent? (100 gives original size)"
-msgstr ""
+msgstr "Porcentaxe? (100 da o tamaño orixinal)"
 
 msgid "Pictures"
-msgstr ""
+msgstr "Fotos"
 
 msgid "pixelate"
-msgstr ""
+msgstr "pixelizar"
 
 msgid "play"
-msgstr ""
+msgstr "tocar"
 
 msgid "Please enter a number"
-msgstr ""
+msgstr "Por favor, introduza un número"
 
 msgid "pop"
-msgstr ""
+msgstr "pop"
 
 msgid "Position the cross-hair to set the rotation center"
-msgstr ""
+msgstr "Axustar o centro de rotación"
 
 msgid "Preparing project..."
-msgstr ""
+msgstr "Preparando proxecto..."
 
 msgid "Project author:"
-msgstr ""
+msgstr "Autor do proxecto:"
 
 msgid "Project name"
-msgstr ""
+msgstr "Nome do proxecto"
 
 msgid "Project Notes"
-msgstr ""
+msgstr "Notas do Proxecto"
 
 msgid "Project notes"
-msgstr ""
+msgstr "Notas do proxecto"
 
 msgid "Project uploaded."
-msgstr ""
+msgstr "Proxecto cargado."
 
 msgid "Projects"
-msgstr ""
+msgstr "Proxectos"
 
 msgid "Quit"
-msgstr ""
+msgstr "Sair"
 
 msgid "Quit Scratch"
-msgstr ""
+msgstr "Sair de Scratch"
 
 msgid "Reading"
-msgstr ""
+msgstr "Lendo"
 
 msgid "record"
-msgstr ""
+msgstr "gravar"
 
 msgid "Record"
-msgstr ""
+msgstr "Gravar"
 
 msgid "recording"
-msgstr ""
+msgstr "gravación"
 
 msgid "Rectangle tool (draw outlined or filled rectangle or square)"
 msgstr ""
+"Ferramenta de rectángulo (debuxa cadrados ou rectángulos pola contorna ou "
+"recheos)"
 
 msgid "Redo"
-msgstr ""
+msgstr "Repetir"
 
 msgid "Reference Guide"
-msgstr ""
+msgstr "Guía de Referencia"
 
 msgid "Remote sensor connections enabled"
-msgstr ""
+msgstr "Conexións de sensores remotos habilitadas"
 
 msgid "Remove viewer from stage"
-msgstr ""
+msgstr "Quitar mirador do escenairo"
 
 msgid "resistance"
-msgstr ""
+msgstr "resistencia"
 
 msgid "resize this sprite"
-msgstr ""
+msgstr "redimensionar este obxecto"
 
 msgid "reverse"
-msgstr ""
+msgstr "virar"
 
 msgid "right"
 msgstr "dereita"
 
 msgid "right arrow"
-msgstr ""
+msgstr "frecha cara a dereita"
 
 msgid "Rotate clock-wise"
-msgstr ""
+msgstr "Rotar no sentido das agullas do reloxio"
 
 msgid "Rotate counter-clock-wise"
-msgstr ""
+msgstr "Rotar no sentido contrario ás agullas do reloxio"
 
 msgid "rotate this sprite"
-msgstr ""
+msgstr "rotar este obxecto"
 
 msgid "Rotation degrees?"
-msgstr ""
+msgstr "Grados de rotación?"
 
 msgid "Save"
-msgstr ""
+msgstr "Gardar"
 
 msgid "Save a copy of the current project"
-msgstr ""
+msgstr "Gardar unha copia do proxecto actual"
 
 msgid "Save As"
-msgstr ""
+msgstr "Gardar como"
 
 msgid "Save changes before quitting?"
-msgstr ""
+msgstr "Gardar cambios antes de saír?"
 
 msgid "Save failed"
-msgstr ""
+msgstr "Fallo ao gardar"
 
 msgid "save picture of scripts"
-msgstr ""
+msgstr "gardar imaxe dos progamas"
 
 msgid "save picture of stage..."
-msgstr ""
+msgstr "gardar imaxe do escenario..."
 
 msgid "Save Project"
-msgstr ""
+msgstr "Gardar proxecto"
 
 msgid "Save Scripts Snapshot"
-msgstr ""
+msgstr "Gardar Captura de Imaxe dos Programas"
 
 msgid "Save Stage Shot"
-msgstr ""
+msgstr "Gardar Imaxe do Escenario"
 
 msgid "Save the current project"
-msgstr ""
+msgstr "Gardar o proxecto actual"
 
 msgid "Save the current project?"
-msgstr ""
+msgstr "Gardar o proxecto actual?"
 
 msgid "Save this project"
-msgstr ""
+msgstr "Gardar este proxecto"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Programas"
 
 msgid "select serial/USB port"
-msgstr ""
+msgstr "seleccionar porto serie/USB"
 
 msgid "Select tool (move, modify, or delete selection)"
-msgstr ""
+msgstr "Ferramenta de selección (mover, modificar ou borrar selección)"
 
 msgid "Set costume center"
-msgstr ""
+msgstr "Fixar o centro do disfrace"
 
 msgid "Set language"
-msgstr ""
+msgstr "Seleccionar o idioma"
 
 msgid "Set rotation center"
-msgstr ""
+msgstr "Fixar o centro de rotación"
 
 msgid "Set Single Stepping"
-msgstr ""
+msgstr "Fixar Paso a Paso"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "fixar os valores máximo e mínimo da barra de desprazamento"
 
 msgid "Share"
-msgstr ""
+msgstr "Compartir"
 
 msgid "Share this project"
-msgstr ""
+msgstr "Compartir este proxecto"
 
 msgid "Share This Project Online"
-msgstr ""
+msgstr "Compartir Este Proxecto en Liña"
 
 msgid "Show Motor Blocks"
-msgstr ""
+msgstr "Mostrar Bloques de Motor"
 
 msgid "show ScratchBoard watcher"
-msgstr ""
+msgstr "mostrar variables ScratchBoard"
 
 msgid "Shrink"
-msgstr ""
+msgstr "Encoller"
 
 msgid "Shrink sprite"
-msgstr ""
+msgstr "Encoller obxecto"
 
 msgid "Simulation"
-msgstr ""
+msgstr "Simulación"
 
 msgid "Single-step speed?"
-msgstr ""
+msgstr "Velocidade paso a paso?"
 
 msgid "slider"
-msgstr ""
+msgstr "barra de desprazamento"
 
 msgid "Slider range:"
-msgstr ""
+msgstr "Rango da barra de desprazamento:"
 
 msgid "Sound quality:"
-msgstr ""
+msgstr "Calidade do son:"
 
 msgid "Sound Recorder"
-msgstr ""
+msgstr "Gravador de Sons"
 
 msgid "Sounds"
-msgstr ""
+msgstr "Sons"
 
 msgid "Sounds compressed"
-msgstr ""
+msgstr "Sons comprimidos"
 
 msgid "space"
-msgstr ""
+msgstr "espazo"
 
 msgid "Sprite"
-msgstr ""
+msgstr "Obxecto"
 
 msgid "Sprites"
-msgstr ""
+msgstr "Obxectos"
 
 msgid "sqrt"
-msgstr ""
+msgstr "raíz cadrada"
 
 msgid "Stage"
-msgstr ""
+msgstr "Escenario"
 
 msgid "Stage selected:"
-msgstr ""
+msgstr "Escenario seleccionado:"
 
 msgid "Stamp tool (select area, then stamp copies of it)"
-msgstr ""
+msgstr "Selo (selecciona un área e estampa copias)"
 
 msgid "Start green flag scripts"
-msgstr ""
+msgstr "Iniciar programas coa bandeira verde"
 
 msgid "Start Single Stepping"
-msgstr ""
+msgstr "Iniciar Paso a Paso"
 
 msgid "stop"
-msgstr ""
+msgstr "parar"
 
 msgid "Stop everything"
-msgstr ""
+msgstr "Parar todo"
 
 msgid "Stop Single Stepping"
-msgstr ""
+msgstr "Parar Paso a Paso"
 
 msgid "Story"
-msgstr ""
+msgstr "Historia"
 
 msgid "Support Site"
-msgstr ""
+msgstr "Sitio de soporte"
 
 msgid "Switch colors"
-msgstr ""
+msgstr "Trocar cores"
 
 msgid "Switch to full stage"
-msgstr ""
+msgstr "Cambiar a escenario completo"
 
 msgid "Switch to presentation mode"
-msgstr ""
+msgstr "Cambiar a modo presentación"
 
 msgid "Switch to small stage"
-msgstr ""
+msgstr "Cambiar a modo escenario"
 
 msgid "Tags:"
-msgstr ""
+msgstr "Etiquetas:"
 
 msgid "Text tool (edit text layer)"
-msgstr ""
+msgstr "Ferramenta de texto (editar capa de texto)"
 
 msgid "That variable name is already in use"
-msgstr ""
+msgstr "Ese nome de variable xa está sendo utilizado"
 
 msgid "that way"
-msgstr ""
+msgstr "ese sentido"
 
 msgid "The file name already exists. Overwrite existing file?"
-msgstr ""
+msgstr "O nome do ficheiro xa existe. Desexa sobreescribilo?"
 
 msgid "thing"
-msgstr ""
+msgstr "cousa"
 
 msgid "this way"
-msgstr ""
+msgstr "este sentido"
 
 msgid "tilt"
-msgstr ""
+msgstr "inclinar"
 
 msgid "true"
-msgstr ""
+msgstr "verdadeiro"
 
 msgid "Turbo speed"
-msgstr ""
+msgstr "Velocidade turbo"
 
 msgid "turn into new sprite"
-msgstr ""
+msgstr "converter nun obxecto novo"
 
 msgid "Undelete"
-msgstr ""
+msgstr "Desfacer borrado"
 
 msgid "Undo"
-msgstr ""
+msgstr "Desfacer"
 
 msgid "up"
 msgstr "arriba"
 
 msgid "up arrow"
-msgstr ""
+msgstr "frecha cara arriba"
 
 msgid "Updating thumbnails"
-msgstr ""
+msgstr "Actualizando as miniaturas"
 
 msgid "Upload succeeded!"
-msgstr ""
+msgstr "Envio completado!"
 
 msgid "Upload to Scratch Server"
-msgstr ""
+msgstr "Enviar ao Servidor Scratch"
 
 msgid "Uploading"
-msgstr ""
+msgstr "Enviando"
 
 msgid "Variable name?"
-msgstr ""
+msgstr "Nome da variable?"
 
 msgid "View on stage"
-msgstr ""
+msgstr "Ver no escenario"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Como te chamas?"
 
 msgid "whirl"
-msgstr ""
+msgstr "remuiño"
 
 msgid "world"
-msgstr ""
+msgstr "mundo"
 
 msgid "Write Multiple Project Summaries"
-msgstr ""
+msgstr "Escribir Múltiples Resumos de Proxectos"
 
 msgid "Write Project Summary"
-msgstr ""
+msgstr "Escribir Resumo de Proxecto"
 
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 msgid "Your project is now online at"
-msgstr ""
+msgstr "O teu proxecto está na web agora"
 
 msgid "Your Scratch website login name:"
-msgstr ""
+msgstr "O teu nome de usuario no sitio web de Scratch:"
 
 msgid "Zoom in"
-msgstr ""
+msgstr "Achegar"
 
 msgid "Zoom out"
-msgstr ""
+msgstr "Alonxar"
 
-############################################
+# ##########################################
 # MIDI INSTRUMENTS
-############################################
-
+# ##########################################
+# 
 msgid "Accordion"
-msgstr ""
+msgstr "Acordeón"
 
 msgid "Acoustic Bass"
-msgstr ""
+msgstr "Baixo acústico"
 
 msgid "Acoustic Bass Drum"
-msgstr ""
+msgstr "Bombo Baixo Acústico"
 
 msgid "Acoustic Grand"
-msgstr ""
+msgstr "Piano de Cola Acústico"
 
 msgid "Acoustic Snare"
-msgstr ""
+msgstr "Tambor Acústico"
 
 msgid "Agogo"
-msgstr ""
+msgstr "Agogó"
 
 msgid "Alto Sax"
-msgstr ""
+msgstr "Saxofón Alto"
 
 msgid "Applause"
-msgstr ""
+msgstr "Aplauso"
 
 msgid "Bagpipe"
-msgstr ""
+msgstr "Gaita"
 
 msgid "Banjo"
-msgstr ""
+msgstr "Banjo"
 
 msgid "Baritone Sax"
-msgstr ""
+msgstr "Saxofón Barítono"
 
 msgid "Bass Drum 1"
-msgstr ""
+msgstr "Bombo Baixo 1"
 
 msgid "Bassoon"
-msgstr ""
+msgstr "Fagot"
 
 msgid "Bird Tweet"
-msgstr ""
+msgstr "Piada de Paxaro"
 
 msgid "Blown Bottle"
-msgstr ""
+msgstr "Botella Soprada"
 
 msgid "Brass Section"
-msgstr ""
+msgstr "Sección de Metais"
 
 msgid "Breath Noise"
-msgstr ""
+msgstr "Ruido de Respirar"
 
 msgid "Bright Acoustic"
-msgstr ""
+msgstr "Piano Acústico Brillante"
 
 msgid "Cabasa"
-msgstr ""
+msgstr "Cabasa"
 
 msgid "Celesta"
-msgstr ""
+msgstr "Celesta"
 
 msgid "Cello"
-msgstr ""
+msgstr "Violonchelo"
 
 msgid "Chinese Cymbal"
-msgstr ""
+msgstr "Platillo Chino"
 
 msgid "Choir Aahs"
-msgstr ""
+msgstr "Coro de Aahs"
 
 msgid "Church Organ"
-msgstr ""
+msgstr "Órgano de Igrexa"
 
 msgid "Clarinet"
-msgstr ""
+msgstr "Clarinete"
 
 msgid "Claves"
-msgstr ""
+msgstr "Claves"
 
 msgid "Clavinet"
-msgstr ""
+msgstr "Clavinet"
 
 msgid "Closed Hi-Hat"
-msgstr ""
+msgstr "Charles Pechado"
 
 msgid "Contrabass"
-msgstr ""
+msgstr "Contrabaixo"
 
 msgid "Cowbell"
-msgstr ""
+msgstr "Cencerro"
 
 msgid "Crash Cymbal 1"
-msgstr ""
+msgstr "Platillo Crash 1"
 
 msgid "Crash Cymbal 2"
-msgstr ""
+msgstr "Platillo Crash 2"
 
 msgid "Distortion Guitar"
-msgstr ""
+msgstr "Gruitarra Distorsionada"
 
 msgid "Drawbar Organ"
-msgstr ""
+msgstr "Órgano Hammond"
 
 msgid "Dulcimer"
-msgstr ""
+msgstr "Dulcémele"
 
 msgid "Electric Bass (finger)"
-msgstr ""
+msgstr "Baixo Eléctrico (dedos)"
 
 msgid "Electric Bass (pick)"
-msgstr ""
+msgstr "Baixo Eléctrico (uña)"
 
 msgid "Electric Clean Guitar"
-msgstr ""
+msgstr "Guitarra Eléctrica Clara"
 
 msgid "Electric Grand"
-msgstr ""
+msgstr "Piano Eléctrico Grande"
 
 msgid "Electric Jazz Guitar"
-msgstr ""
+msgstr "Guitarra Jazz Eléctrica"
 
 msgid "Electric Muted Guitar"
-msgstr ""
+msgstr "Guiitarra Sordina Eléctrica"
 
 msgid "Electric Piano 1"
-msgstr ""
+msgstr "Piano Eléctrico 1"
 
 msgid "Electric Piano 2"
-msgstr ""
+msgstr "Piano Eléctrico 2"
 
 msgid "Electric Snare"
-msgstr ""
+msgstr "Tambor Electrónico"
 
 msgid "English Horn"
-msgstr ""
+msgstr "Corno Inglés"
 
 msgid "FX 1 (rain)"
-msgstr ""
+msgstr "Efecto 1 (chuvia)"
 
 msgid "FX 2 (soundtrack)"
-msgstr ""
+msgstr "Efecto 2 (banda sonora)"
 
 msgid "FX 3 (crystal)"
-msgstr ""
+msgstr "Efecto 3 (cristal)"
 
 msgid "FX 4 (atmosphere)"
-msgstr ""
+msgstr "Efecto 4 (atmósfera)"
 
 msgid "FX 5 (brightness)"
-msgstr ""
+msgstr "Efecto 5 (luminosidade)"
 
 msgid "FX 6 (goblins)"
-msgstr ""
+msgstr "Efecto 6 (trasno)"
 
 msgid "FX 7 (echoes)"
-msgstr ""
+msgstr "Efecto 7 (ecos)"
 
 msgid "FX 8 (sci-fi)"
-msgstr ""
+msgstr "Efecto 8 (ciencia ficción)"
 
 msgid "Fiddle"
-msgstr ""
+msgstr "Violín celta"
 
 msgid "Flute"
-msgstr ""
+msgstr "Faula"
 
 msgid "French Horn"
-msgstr ""
+msgstr "Corno Francés"
 
 msgid "Fretless Bass"
-msgstr ""
+msgstr "Baixo sin Trastes"
 
 msgid "Glockenspiel"
-msgstr ""
+msgstr "Xogo de timbres"
 
 msgid "Guitar Fret Noise"
-msgstr ""
+msgstr "Trasteo de Guitarra"
 
 msgid "Guitar Harmonics"
-msgstr ""
+msgstr "Armónicos de Guitarra"
 
 msgid "Gunshot"
-msgstr ""
+msgstr "Disparo de fusil"
 
 msgid "Hand Clap"
-msgstr ""
+msgstr "Palmada"
 
 msgid "Harmonica"
-msgstr ""
+msgstr "Armónica"
 
 msgid "Harpsichord"
-msgstr ""
+msgstr "Clavicémbalo"
 
 msgid "Helicopter"
-msgstr ""
+msgstr "Helicóptero"
 
 msgid "Hi Bongo"
-msgstr ""
+msgstr "Bongó Agudo"
 
 msgid "Hi Wood Block"
-msgstr ""
+msgstr "Caixiña China Aguda"
 
 msgid "Hi-Mid Tom"
-msgstr ""
+msgstr "Tom Medio-Agudo"
 
 msgid "High Agogo"
-msgstr ""
+msgstr "Agogó Agudo"
 
 msgid "High Floor Tom"
-msgstr ""
+msgstr "Tom de Chan Agudo"
 
 msgid "High Timbale"
-msgstr ""
+msgstr "Timbal Agudo"
 
 msgid "High Tom"
-msgstr ""
+msgstr "Tom Agudo"
 
 msgid "Honky-Tonk"
-msgstr ""
+msgstr "Piano de Cantina"
 
 msgid "Kalimba"
-msgstr ""
+msgstr "Kalimba"
 
 msgid "Koto"
-msgstr ""
+msgstr "Koto"
 
 msgid "Lead 1 (square)"
-msgstr ""
+msgstr "Principal 1 (onda cadrada)"
 
 msgid "Lead 2 (sawtooth)"
-msgstr ""
+msgstr "Principal 2 (dente de serra)"
 
 msgid "Lead 3 (calliope)"
-msgstr ""
+msgstr "Principal 3 (órgano de vapor)"
 
 msgid "Lead 4 (chiff)"
-msgstr ""
+msgstr "Principal 4 (siseo órgano)"
 
 msgid "Lead 5 (charang)"
-msgstr ""
+msgstr "Principal 5 (charanga)"
 
 msgid "Lead 6 (voice)"
-msgstr ""
+msgstr "Principal 6 (voz)"
 
 msgid "Lead 7 (fifths)"
-msgstr ""
+msgstr "Principal 7 (quintas)"
 
 msgid "Lead 8 (bass+lead)"
-msgstr ""
+msgstr "Principal 8 (baixo e melodía)"
 
 msgid "Long Guiro"
-msgstr ""
+msgstr "Güiro Longo"
 
 msgid "Long Whistle"
-msgstr ""
+msgstr "Asubio Longo"
 
 msgid "Low Agogo"
-msgstr ""
+msgstr "Agogó Grave"
 
 msgid "Low Bongo"
-msgstr ""
+msgstr "Bongó Grave"
 
 msgid "Low Conga"
-msgstr ""
+msgstr "Conga Grave"
 
 msgid "Low Floor Tom"
-msgstr ""
+msgstr "Tom de Chan Grave"
 
 msgid "Low Timbale"
-msgstr ""
+msgstr "Timbal Grave"
 
 msgid "Low Tom"
-msgstr ""
+msgstr "Tom Grave"
 
 msgid "Low Wood Block"
-msgstr ""
+msgstr "Caixiña China Grave"
 
 msgid "Low-Mid Tom"
-msgstr ""
+msgstr "Tom Medio-Grave"
 
 msgid "Maracas"
-msgstr ""
+msgstr "Maracas"
 
 msgid "Marimba"
-msgstr ""
+msgstr "Marimba"
 
 msgid "Melodic Tom"
-msgstr ""
+msgstr "Timbala Melódica"
 
 msgid "Music Box"
-msgstr ""
+msgstr "Caixa de Múlsica"
 
 msgid "Mute Cuica"
-msgstr ""
+msgstr "Cuica Sorda"
 
 msgid "Mute Hi Conga"
-msgstr ""
+msgstr "Conga Aguda Sorda"
 
 msgid "Mute Triangle"
-msgstr ""
+msgstr "Triángulo Sordo"
 
 msgid "Muted Trumpet"
-msgstr ""
+msgstr "Trompeta con Sordina"
 
 msgid "Nylon String Guitar"
-msgstr ""
+msgstr "Gutarra Española"
 
 msgid "Oboe"
-msgstr ""
+msgstr "Oboe"
 
 msgid "Ocarina"
-msgstr ""
+msgstr "Ocarina"
 
 msgid "Open Cuica"
-msgstr ""
+msgstr "Cuica Solta"
 
 msgid "Open Hi Conga"
-msgstr ""
+msgstr "Conga Aguda Solta"
 
 msgid "Open Hi-Hat"
-msgstr ""
+msgstr "Charles Aberto"
 
 msgid "Open Triangle"
-msgstr ""
+msgstr "Triángulo Solto"
 
 msgid "Orchestra Hit"
-msgstr ""
+msgstr "Éxito de Orquesta"
 
 msgid "Orchestral Strings"
-msgstr ""
+msgstr "Cordas de Orquesta"
 
 msgid "Overdriven Guitar"
-msgstr ""
+msgstr "Guitarra Saturada"
 
 msgid "Pad 1 (new age)"
-msgstr ""
+msgstr "Fondo 1 (nova era)"
 
 msgid "Pad 2 (warm)"
-msgstr ""
+msgstr "Fondo 2 (cálido)"
 
 msgid "Pad 3 (polysynth)"
-msgstr ""
+msgstr "Fondo 3 (polisintetizador)"
 
 msgid "Pad 4 (choir)"
-msgstr ""
+msgstr "Fondo 4 (coro)"
 
 msgid "Pad 5 (bowed)"
-msgstr ""
+msgstr "Fondo 5 (de arco)"
 
 msgid "Pad 6 (metallic)"
-msgstr ""
+msgstr "Fondo 6 (metálico)"
 
 msgid "Pad 7 (halo)"
-msgstr ""
+msgstr "Fondo 7 (halo)"
 
 msgid "Pad 8 (sweep)"
-msgstr ""
+msgstr "Fondo 8 (barrido)"
 
 msgid "Pan Flute"
-msgstr ""
+msgstr "Flauta de Pan"
 
 msgid "Pedal Hi-Hat"
-msgstr ""
+msgstr "Charles Pedal"
 
 msgid "Percussive Organ"
-msgstr ""
+msgstr "Órgano Percusivo"
 
 msgid "Piccolo"
-msgstr ""
+msgstr "Flautín"
 
 msgid "Pizzicato Strings"
-msgstr ""
+msgstr "Cordas Pizzicato"
 
 msgid "Recorder"
-msgstr ""
+msgstr "Flauta doce"
 
 msgid "Reed Organ"
-msgstr ""
+msgstr "Armonio"
 
 msgid "Reverse Cymbal"
-msgstr ""
+msgstr "Platillo Invertido"
 
 msgid "Ride Bell"
-msgstr ""
+msgstr "Campana de Platillo Guía"
 
 msgid "Ride Cymbal 1"
-msgstr ""
+msgstr "Platillo Guía 1"
 
 msgid "Ride Cymbal 2"
-msgstr ""
+msgstr "Platillo Guía 2"
 
 msgid "Rock Organ"
-msgstr ""
+msgstr "Órgano de Rock"
 
 msgid "Seashore"
-msgstr ""
+msgstr "Costa"
 
 msgid "Shakuhachi"
-msgstr ""
+msgstr "Shakukachi"
 
 msgid "Shamisen"
-msgstr ""
+msgstr "Shamisen"
 
 msgid "Shanai"
-msgstr ""
+msgstr "Shanai"
 
 msgid "Short Guiro"
-msgstr ""
+msgstr "Güiro Corto"
 
 msgid "Short Whistle"
-msgstr ""
+msgstr "Asubio Corto"
 
 msgid "Side Stick"
-msgstr ""
+msgstr "Golpe Lateral"
 
 msgid "Sitar"
-msgstr ""
+msgstr "Sitara"
 
 msgid "Slap Bass 1"
-msgstr ""
+msgstr "Baixo Golpeado 1"
 
 msgid "Slap Bass 2"
-msgstr ""
+msgstr "Baixo Golpeado 2"
 
 msgid "Soprano Sax"
-msgstr ""
+msgstr "Saxofón Soprano"
 
 msgid "Splash Cymbal"
-msgstr ""
+msgstr "Platillo Splash"
 
 msgid "Steel Drums"
-msgstr ""
+msgstr "Tambores Metálicos"
 
 msgid "Steel String Guitar"
-msgstr ""
+msgstr "Guitarra Acústica"
 
 msgid "String Ensemble 1"
-msgstr ""
+msgstr "Conxunto de Cordas 1"
 
 msgid "String Ensemble 2"
-msgstr ""
+msgstr "Conxunto de Cordas 2"
 
 msgid "Synth Bass 1"
-msgstr ""
+msgstr "Baixo Sintetizado 1"
 
 msgid "Synth Bass 2"
-msgstr ""
+msgstr "Baixo Sintetizado 2"
 
 msgid "Synth Drum"
-msgstr ""
+msgstr "Percusión Sintetizada"
 
 msgid "Synth Voice"
-msgstr ""
+msgstr "Voz Sintetizada"
 
 msgid "SynthBrass 1"
-msgstr ""
+msgstr "Metales Sintetizados 1"
 
 msgid "SynthBrass 2"
-msgstr ""
+msgstr "Metales Sintetizados 2"
 
 msgid "SynthStrings 1"
-msgstr ""
+msgstr "Cordas Sintetizadas 1"
 
 msgid "SynthStrings 2"
-msgstr ""
+msgstr "Cordas Sintetizadas 2"
 
 msgid "Taiko Drum"
-msgstr ""
+msgstr "Tambor Taiko"
 
 msgid "Tambourine"
-msgstr ""
+msgstr "Pandereta"
 
 msgid "Tango Accordion"
-msgstr ""
+msgstr "Bandoneón"
 
 msgid "Telephone Ring"
-msgstr ""
+msgstr "Timbre de Teléfono"
 
 msgid "Tenor Sax"
-msgstr ""
+msgstr "Saxofón Tenor"
 
 msgid "Timpani"
-msgstr ""
+msgstr "Timbales"
 
 msgid "Tinkle Bell"
-msgstr ""
+msgstr "Campaniña"
 
 msgid "Tremolo Strings"
-msgstr ""
+msgstr "Cordas con Trémolo"
 
 msgid "Trombone"
-msgstr ""
+msgstr "Trombón"
 
 msgid "Trumpet"
-msgstr ""
+msgstr "Trompeta"
 
 msgid "Tuba"
-msgstr ""
+msgstr "Tuba"
 
 msgid "Tubular Bells"
-msgstr ""
+msgstr "Campanas Tubulares"
 
 msgid "Vibraphone"
-msgstr ""
+msgstr "Vibráfono"
 
 msgid "Vibraslap"
-msgstr ""
+msgstr "Tafaplás"
 
 msgid "Viola"
-msgstr ""
+msgstr "Viola"
 
 msgid "Violin"
-msgstr ""
+msgstr "Violín"
 
 msgid "Voice Oohs"
-msgstr ""
+msgstr "Voz de Oohs"
 
 msgid "Whistle"
-msgstr ""
+msgstr "Asubio"
 
 msgid "Woodblock"
-msgstr ""
+msgstr "Caixa china"
 
 msgid "Xylophone"
-msgstr ""
-
+msgstr "Xilófono"
