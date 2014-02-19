@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-29 06:40+0200\n"
-"PO-Revision-Date: 2014-02-05 13:43+0200\n"
+"PO-Revision-Date: 2014-02-16 23:34+0200\n"
 "Last-Translator: c.bajada <claudebajada@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mt\n"
@@ -84,14 +84,14 @@ msgid "change size by %n"
 msgstr "biddel id-daqs minn %n"
 
 msgid "change tempo by %n"
-msgstr ""
+msgstr "biddel il-veloċita' minn %n"
 
 #, fuzzy
 msgid "change volume by %n"
 msgstr "biddel il-volum minn %n"
 
 msgid "change x by %n"
-msgstr ""
+msgstr "biddel x minn %n"
 
 #, fuzzy
 msgid "change y by %n"
@@ -113,10 +113,10 @@ msgid "costume #"
 msgstr "kostum #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "ikkreja klonu ta %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "attwali %m.timeAndDate"
 
 #, fuzzy
 msgid "Data"
@@ -132,7 +132,7 @@ msgid "delete %d.listDeleteItem of %m.list"
 msgstr "neħħi %d.listDeleteItem ta %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "ħassar dan il klonu"
 
 msgid "direction"
 msgstr "direzzjoni"
@@ -153,7 +153,7 @@ msgid "forever"
 msgstr "dejjem"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr ""
+msgstr "ressaq %n sekondi lejn x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "mur lura %n saffi"
@@ -174,7 +174,7 @@ msgid "hide list %m.list"
 msgstr "aħbi il-lista %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "aħbi l-varjabbli %m.var"
 
 msgid "if %b then"
 msgstr "jekk %b imbagħad"
@@ -184,7 +184,7 @@ msgid "if on edge, bounce"
 msgstr "jekk fit-tarf, erġa lura"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr ""
+msgstr "daħħal %s għand %d.listItem ta %m.list"
 
 msgid "item %d.listItem of %m.list"
 msgstr "oġġett %d.listItem ta %m.list"
@@ -257,13 +257,13 @@ msgid "play drum %d.drum for %n beats"
 msgstr "doqq it-tanbur %d.drum għall- %n taħbita"
 
 msgid "play note %d.note for %n beats"
-msgstr ""
+msgstr "doqq in-nota %d.note għal %n taħbita"
 
 msgid "play sound %m.sound"
 msgstr "doqq %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr ""
+msgstr "doqq il-ħoss %m.sound sakemm ilesti"
 
 msgid "point in direction %d.direction"
 msgstr "ipponta fid-direzzjoni %d.direction"
@@ -281,19 +281,19 @@ msgid "replace item %d.listItem of %m.list with %s"
 msgstr "sostitwixxi ogett %d.listItem ta %m.list ma %s"
 
 msgid "reset timer"
-msgstr ""
+msgstr "ibda it-timer mill bidu"
 
 msgid "rest for %n beats"
-msgstr ""
+msgstr "strieħ ghall %n taħbit"
 
 msgid "round %n"
-msgstr ""
+msgstr "tond %n"
 
 msgid "say %s"
 msgstr "għajd %s"
 
 msgid "say %s for %n secs"
-msgstr ""
+msgstr "ghid %s ghall %n sekondi"
 
 msgid "Sensing"
 msgstr ""
@@ -302,40 +302,40 @@ msgid "sensor %m.booleanSensor?"
 msgstr ""
 
 msgid "set %m.effect effect to %n"
-msgstr ""
+msgstr "qieghed %m.effect effett għal %n"
 
 msgid "set %m.var to %s"
-msgstr ""
+msgstr "qieghed %m.var għal %s"
 
 msgid "set instrument to %d.instrument"
 msgstr ""
 
 msgid "set motor direction %m.motorDirection"
-msgstr ""
+msgstr "qiegħed id-direzzjoni tal-mutur %m.motorDirection"
 
 msgid "set motor power %n"
 msgstr ""
 
 msgid "set pen color to %c"
-msgstr ""
+msgstr "għamel il-kulur tal-pinna %c"
 
 msgid "set pen color to %n"
-msgstr ""
+msgstr "għamel il-kulur tal-pinna %n"
 
 msgid "set pen shade to %n"
-msgstr ""
+msgstr "għamel il-lewn tal-pinna %n"
 
 msgid "set pen size to %n"
-msgstr ""
+msgstr "għamel id-daqs tal-pinna %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "għamel is-stil tar-rotazzjoni %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr ""
+msgstr "għamel id-daqs %n%"
 
 msgid "set tempo to %n bpm"
-msgstr ""
+msgstr "ghamel il-velocita' %n bpm"
 
 msgid "set video transparency to %n%"
 msgstr ""
@@ -344,10 +344,10 @@ msgid "set volume to %n%"
 msgstr ""
 
 msgid "set x to %n"
-msgstr ""
+msgstr "għamel x ghall %n"
 
 msgid "set y to %n"
-msgstr ""
+msgstr "għamel y għall %n"
 
 msgid "show"
 msgstr "uri"
@@ -375,7 +375,7 @@ msgstr "waqqaf kull ħoss"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "biddel l'isfond għal %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
@@ -385,7 +385,7 @@ msgid "switch costume to %m.costume"
 msgstr "aqleb il-kostum ghall %m.costume"
 
 msgid "tempo"
-msgstr ""
+msgstr "veloċita'"
 
 msgid "think %s"
 msgstr "aħseb %s"
@@ -401,10 +401,10 @@ msgid "timer"
 msgstr "timer"
 
 msgid "touching %m.touching?"
-msgstr ""
+msgstr "imiss %m.touching?"
 
 msgid "touching color %c?"
-msgstr ""
+msgstr "imiss mal-kulur %c?"
 
 msgid "turn @turnLeft %n degrees"
 msgstr ""

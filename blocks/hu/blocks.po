@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2014-02-09 11:27+0200\n"
+"PO-Revision-Date: 2014-02-13 14:54+0200\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -125,7 +125,7 @@ msgid "delete %d.listDeleteItem of %m.list"
 msgstr "töröld %m.list %d.listDeleteItem elemét"
 
 msgid "delete this clone"
-msgstr "töröld ezt a másolatot"
+msgstr "töröld e másolatot"
 
 msgid "direction"
 msgstr "irány"
@@ -222,10 +222,10 @@ msgstr "menj %n lépést"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr "válts hátteret"
+msgstr "következő háttér"
 
 msgid "next costume"
-msgstr "válts jelmezt"
+msgstr "következő jelmez"
 
 msgid "not %b"
 msgstr "nem %b"
@@ -363,7 +363,7 @@ msgid "stamp"
 msgstr "készíts lenyomatot"
 
 msgid "stop %m.stop"
-msgstr "%m.stop állítsd le"
+msgstr "%m.stop álljon le"
 
 msgid "stop all sounds"
 msgstr "minden hangot állíts le"
@@ -445,7 +445,7 @@ msgid "when %m.triggerSensor > %n"
 msgstr "%m.triggerSensor > %n esetén"
 
 msgid "when @greenFlag clicked"
-msgstr "@greenFlag kattintásakor"
+msgstr "@greenFlag-ra kattintáskor"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
@@ -461,7 +461,7 @@ msgid "when I start as a clone"
 msgstr "másolatként kezdéskor"
 
 msgid "when this sprite clicked"
-msgstr "szereplőre kattintáskor"
+msgstr "e szereplőre kattintáskor"
 
 msgid "when tilt = %n"
 msgstr "when tilt = %n"
