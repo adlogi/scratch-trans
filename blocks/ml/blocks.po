@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-02 00:56+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2014-03-04 16:41+0200\n"
+"Last-Translator: dhanila <dhanilabk@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgid "%b and %b"
 msgstr "%b കൂടാതെ %b"
 
 msgid "%b or %b"
-msgstr "%b അഥവ %b"
+msgstr "%b അഥവാ %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStageന്റെ %m.attribute"
@@ -39,7 +39,7 @@ msgid "%n mod %n"
 msgstr "%n ശിഷ്ടം %n"
 
 msgid "add %s to %m.list"
-msgstr "%sനോട് കൂടി %m.list കൂട്ടുക"
+msgstr "%s നോട് കൂടി %m.ലിസ്റ്റ് കൂട്ടുക"
 
 msgid "answer"
 msgstr "ഉത്തരം"
@@ -108,19 +108,19 @@ msgid "costume #"
 msgstr "രൂപം #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "%mസ്പ്രയ്റ്റിന്‍റെമാത്രം ക്ലോണ്‍ ഉണ്ടാക്കുക"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "ഇപ്പോഴുള്ള %m സമയവും തിയ്യതിയും"
 
 msgid "Data"
-msgstr ""
+msgstr "വിവരങ്ങള്‍"
 
 msgid "days since 2000"
 msgstr ""
 
 msgid "define"
-msgstr ""
+msgstr "നിര്‍വചിക്കുക"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "%m.listന്റെ %d.listDeleteItem കളയുക"
@@ -132,7 +132,7 @@ msgid "direction"
 msgstr "ദിശ"
 
 msgid "distance"
-msgstr ""
+msgstr "ദൂരം"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "%m.spriteOrMouseലേക്കുള്ള ദൂരം"
@@ -441,7 +441,7 @@ msgid "when %m.triggerSensor > %n"
 msgstr ""
 
 msgid "when @greenFlag clicked"
-msgstr ""
+msgstr "ഗ്രീന്‍ ഫ്ലാഗ് ക്ലിക്ക് ചെയ്യുമ്പോള്‍"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"

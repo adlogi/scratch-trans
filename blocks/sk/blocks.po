@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-24 10:37+0200\n"
+"PO-Revision-Date: 2014-02-27 19:21+0200\n"
 "Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
@@ -146,7 +146,7 @@ msgid "forever"
 msgstr "stále opakuj"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n sekúnd sa presúvaj na pozíciu x:%n y:%n"
+msgstr "%n sekúnd sa presúvaj na pozíciu x:%n  y:%n"
 
 msgid "go back %n layers"
 msgstr "späť o %n vrstiev"
@@ -182,10 +182,10 @@ msgid "item %d.listItem of %m.list"
 msgstr "prvok %d.listItem z %m.list"
 
 msgid "join %s %s"
-msgstr "pridaj sa ku %s %s"
+msgstr "spoj %s a %s"
 
 msgid "key %m.key pressed?"
-msgstr "je klávesa %m.key stlačená?"
+msgstr "je kláves %m.key stlačený?"
 
 msgid "length of %m.list"
 msgstr "dĺžka %m.list"
@@ -259,7 +259,7 @@ msgid "play sound %m.sound until done"
 msgstr "zahraj zvuk %m.sound a počkaj"
 
 msgid "point in direction %d.direction"
-msgstr "natoč sa do smeru %d.direction"
+msgstr "natoč sa smerom %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
 msgstr "natoč sa ku %m.spriteOrMouse"
@@ -439,7 +439,7 @@ msgid "when %m.booleanSensor"
 msgstr "keď senzor %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr "po stlačení klávesy %m.key"
+msgstr "po stlačení klávesu %m.key"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "ak %m.triggerSensor > %n"

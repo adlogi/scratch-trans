@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:55+0200\n"
-"PO-Revision-Date: 2014-01-23 00:49+0200\n"
-"Last-Translator: etki <etkinator@gmail.com>\n"
+"PO-Revision-Date: 2014-03-02 19:42+0200\n"
+"Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr "10 ^"
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informácie o cloudových premenných</b><br>&nbsp;<br>Zatiaľ sú podporované "
-"len čísla<br>Chatovacie miestnosti niesu povolené a budú zmazané<br>Pre "
+"len čísla<br>Chatovacie miestnosti nie sú povolené a budú zmazané<br>Pre "
 "viac informácií <a href= target=>pozri cloud data FAQ!</a>"
 
 msgid "A connected"
@@ -59,7 +59,7 @@ msgid "all"
 msgstr "všetko"
 
 msgid "all around"
-msgstr "všetko okolo"
+msgstr "dokola"
 
 msgid "Animal"
 msgstr "Zviera"
@@ -89,7 +89,7 @@ msgid "backdrop"
 msgstr "pozadie"
 
 msgid "backdrop #"
-msgstr "pozadie číslo"
+msgstr "číslo pozadia"
 
 msgid "Backdrop Library"
 msgstr "Knižnica pozadí"
@@ -122,10 +122,10 @@ msgid "Because you have a new Scratch account, any changes to cloud data won't b
 msgstr ""
 
 msgid "Bitmap"
-msgstr "Bitmapa"
+msgstr "Rástrový"
 
 msgid "Bitmap Mode"
-msgstr "Režim bitmapy"
+msgstr "Rastrový režim"
 
 msgid "Block help"
 msgstr "Blok pomoci"
@@ -137,7 +137,7 @@ msgid "brightness"
 msgstr "jas"
 
 msgid "Bring to front"
-msgstr "Preniesť dopredu."
+msgstr "Preniesť dopredu"
 
 msgid "Broadcast"
 msgstr "Poslať všetkým"
@@ -167,7 +167,7 @@ msgid "can drag in player:"
 msgstr "môže byť presunuté hráčom:"
 
 msgid "Cancel"
-msgstr "Storno"
+msgstr "Zrušiť"
 
 msgid "Cannot Delete"
 msgstr "Nemôže zmazať"
@@ -182,7 +182,7 @@ msgid "Category"
 msgstr "Kategória"
 
 msgid "ceiling"
-msgstr "zaokruhliť"
+msgstr "zaokrúhli nahor"
 
 msgid "Cello"
 msgstr "Violončelo"
@@ -191,16 +191,16 @@ msgid "Choir"
 msgstr "Zbor"
 
 msgid "Choose backdrop from library"
-msgstr "Vyber pozadie z knižnice"
+msgstr "Vybrať pozadie z knižnice"
 
 msgid "Choose costume from library"
-msgstr "Vyber kostým z knižnice"
+msgstr "Vybrať kostým z knižnice"
 
 msgid "Choose sound from library"
-msgstr "Vyber zvuk z knižnice"
+msgstr "Vybrať zvuk z knižnice"
 
 msgid "Choose sprite from library"
-msgstr "Vyber postavu z knižnice"
+msgstr "Vybrať postavu z knižnice"
 
 msgid "Circle"
 msgstr "Kružnica"
@@ -215,7 +215,7 @@ msgid "Claves"
 msgstr "Claves"
 
 msgid "cleanup"
-msgstr ""
+msgstr "vyčisti"
 
 msgid "Clear"
 msgstr "Zmaž"
@@ -248,7 +248,7 @@ msgid "Conga"
 msgstr "Konga"
 
 msgid "Connecting to Cloud data server..."
-msgstr "Spájam s Cloud data serverom"
+msgstr "Spájam s Cloud data serverom..."
 
 msgid "Convert to bitmap"
 msgstr "Zmena na bitmapu"
@@ -260,7 +260,7 @@ msgid "Converting mp3..."
 msgstr "Mením na mp3..."
 
 msgid "copy"
-msgstr "Kopírovať"
+msgstr "kopírovať"
 
 msgid "Copying..."
 msgstr "Kopírujem..."
@@ -284,7 +284,7 @@ msgid "costume1"
 msgstr "kostým1"
 
 msgid "costume2"
-msgstr "kostým 2"
+msgstr "kostým2"
 
 msgid "Costumes"
 msgstr "Kostýmy"
@@ -324,7 +324,7 @@ msgid "Delete"
 msgstr "Zmazať"
 
 msgid "delete"
-msgstr "zrušiť"
+msgstr "zmazať"
 
 msgid "delete variable"
 msgstr "zmazať premennú"
@@ -345,16 +345,16 @@ msgid "down arrow"
 msgstr "šípka dole"
 
 msgid "Download"
-msgstr "Stiahnuť"
+msgstr "Prevziať"
 
 msgid "Download to your computer"
-msgstr "Stiahnuť do tvojho počítača"
+msgstr "Prevziať do tvojho počítača"
 
 msgid "duplicate"
 msgstr "kopírovať"
 
 msgid "Duplicate"
-msgstr "kopírovať"
+msgstr "Kopírovať"
 
 msgid "e ^"
 msgstr "exp"
@@ -363,7 +363,7 @@ msgid "edge"
 msgstr "okraj"
 
 msgid "edit"
-msgstr "Upraviť"
+msgstr "upraviť"
 
 msgid "Edit"
 msgstr "Upraviť"
@@ -387,24 +387,23 @@ msgid "Ellipse"
 msgstr "Elipsa"
 
 msgid "Erase"
-msgstr "Zmazanie"
+msgstr "Guma"
 
 # 92%
-#, fuzzy
 msgid "Eraser width"
-msgstr "Šírka gumy:"
+msgstr "Šírka gumy"
 
 msgid "Error!"
-msgstr ""
+msgstr "Chyba!"
 
 msgid "export"
-msgstr ""
+msgstr "export"
 
 msgid "fade in"
-msgstr "rozjasniť"
+msgstr "postupné zosilnenie"
 
 msgid "fade out"
-msgstr "stmaviť"
+msgstr "postupné stlmenie"
 
 msgid "Fantasy"
 msgstr "Fantázia"
@@ -416,16 +415,16 @@ msgid "File"
 msgstr "Súbor"
 
 msgid "Fill with color"
-msgstr "Vyplnenie farbou"
+msgstr "Výplň farbou"
 
 msgid "fisheye"
 msgstr "rybie oko"
 
 msgid "Flip left-right"
-msgstr "Preklopenie vľavo-vpravo"
+msgstr "Preklopiť zľava doprava"
 
 msgid "Flip up-down"
-msgstr "Preklopenie hore-dole"
+msgstr "Preklopiť zhora dole"
 
 msgid "floor"
 msgstr "zaokruhli"
@@ -437,7 +436,7 @@ msgid "Flying"
 msgstr "Lietanie"
 
 msgid "Font:"
-msgstr ""
+msgstr "Písmo:"
 
 msgid "For all sprites"
 msgstr "Pre všetky postavy"
@@ -458,7 +457,7 @@ msgid "Group"
 msgstr "Skupina"
 
 msgid "Grow"
-msgstr "Zväčšenie"
+msgstr "Zväčšiť"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -473,7 +472,7 @@ msgid "hide"
 msgstr "skryť"
 
 msgid "High C"
-msgstr ""
+msgstr "Vysoké C (c''')"
 
 msgid "hour"
 msgstr "hodín"
@@ -482,9 +481,8 @@ msgid "Human"
 msgstr "Človek"
 
 # 83%
-#, fuzzy
 msgid "import"
-msgstr "Import"
+msgstr "import"
 
 msgid "Import"
 msgstr "Import"
@@ -493,7 +491,7 @@ msgid "Importing sound..."
 msgstr "Importujem zvuk..."
 
 msgid "Indoors"
-msgstr "Vnútri"
+msgstr "Interiér"
 
 msgid "Installing..."
 msgstr "Inštalujem..."
@@ -517,7 +515,7 @@ msgid "left-right"
 msgstr "vľavo-vpravo"
 
 msgid "length"
-msgstr ""
+msgstr "dĺžka"
 
 msgid "Library"
 msgstr "Knižnica"
@@ -532,9 +530,8 @@ msgid "Line"
 msgstr "Úsečka"
 
 # 90%
-#, fuzzy
 msgid "Line width"
-msgstr "Šírka úsečky:"
+msgstr "Šírka úsečky"
 
 # 75%
 msgid "list"
@@ -586,10 +583,10 @@ msgid "message1"
 msgstr "správa1"
 
 msgid "Microphone Volume:"
-msgstr ""
+msgstr "Hlasitosť mikrofónu:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "Stredné C (c')"
 
 msgid "Min"
 msgstr "Minimum"
@@ -634,13 +631,13 @@ msgid "New"
 msgstr "Nový"
 
 msgid "New backdrop from camera"
-msgstr "Nové pozadie z kamery"
+msgstr "Odfotiť nové pozadie"
 
 msgid "New backdrop:"
 msgstr "Nové pozadie:"
 
 msgid "New costume from camera"
-msgstr "Nový kostým z kamery"
+msgstr "Odfotiť nový kostým"
 
 msgid "New costume:"
 msgstr "Nový kostým:"
@@ -658,7 +655,7 @@ msgid "New sound:"
 msgstr "Nový zvuk:"
 
 msgid "New sprite from camera"
-msgstr "Nová postava z kamery"
+msgstr "Odfotiť novú postavu"
 
 msgid "New sprite:"
 msgstr "Nová postava:"
@@ -670,7 +667,7 @@ msgid "No motion blocks"
 msgstr "Žiadne bloky pohybu"
 
 msgid "normal readout"
-msgstr ""
+msgstr "normálne zobrazenie"
 
 msgid "Not saved; network or server problem."
 msgstr "Neuložené; problém so sieťou, alebo serverom."
@@ -685,7 +682,7 @@ msgid "off"
 msgstr "vypnuté"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Editor bez pripojenia"
 
 msgid "OK"
 msgstr "OK"
@@ -715,7 +712,7 @@ msgid "other scripts in sprite"
 msgstr "zvyšné scenáre postavy"
 
 msgid "Outdoors"
-msgstr "Vonkajšie"
+msgstr "Exteriér"
 
 msgid "Paint new backdrop"
 msgstr "Nakresliť nové pozadie"
@@ -778,7 +775,7 @@ msgid "recording1"
 msgstr "záznam1"
 
 msgid "Rectangle"
-msgstr "Štvoruholník"
+msgstr "Obdĺžnik"
 
 # 75%
 msgid "Redo"
@@ -818,7 +815,7 @@ msgid "resistance-D"
 msgstr "odpor-D"
 
 msgid "reverse"
-msgstr "prevráť"
+msgstr "odzadu"
 
 msgid "Revert"
 msgstr "Vrátiť"
@@ -839,7 +836,7 @@ msgid "Run without screen refresh"
 msgstr "Spustiť bez obnovenia obrazovky"
 
 msgid "Save"
-msgstr "Uložit"
+msgstr "Uložiť"
 
 msgid "Save as a copy"
 msgstr "Uložiť kópiu"
@@ -899,13 +896,13 @@ msgid "set slider min and max"
 msgstr ""
 
 msgid "Share"
-msgstr "Zdieľanie"
+msgstr "Zverejniť"
 
 msgid "shared"
-msgstr "zdielané"
+msgstr "zdieľané"
 
 msgid "Shift:"
-msgstr "Posun:"
+msgstr "Shift:"
 
 msgid "show"
 msgstr "ukázať"
@@ -920,7 +917,7 @@ msgid "show:"
 msgstr "ukázať:"
 
 msgid "Shrink"
-msgstr "Zmenšenie"
+msgstr "Zmenšiť"
 
 msgid "Side Stick"
 msgstr "Okraj bubna"
@@ -959,7 +956,7 @@ msgid "Snare Drum"
 msgstr "Malý bubienok"
 
 msgid "softer"
-msgstr "mäkšie"
+msgstr "tichšie"
 
 msgid "sound"
 msgstr "zvuk"
@@ -1062,10 +1059,10 @@ msgid "Throw away all changes since opening this project?"
 msgstr "Zahodiť všetky zmeny od otvorenia tohto projektu?"
 
 msgid "timer"
-msgstr "stopky"
+msgstr "časovač"
 
 msgid "Tips"
-msgstr "Typy"
+msgstr "Tipy"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "Pred zmazaním bloku ho najprv odstráň zo všetkých scenárov."
@@ -1190,10 +1187,10 @@ msgid "Wooden Flute"
 msgstr "Zobcová flauta"
 
 msgid "x position"
-msgstr "súradnica x"
+msgstr "pozícia x"
 
 msgid "y position"
-msgstr "súradnica y"
+msgstr "pozícia y"
 
 msgid "year"
 msgstr "rok"

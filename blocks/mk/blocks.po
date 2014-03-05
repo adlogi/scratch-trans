@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2014-02-15 12:14+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2014-02-21 10:06+0200\n"
+"Last-Translator: Linda <lfahlberg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mk\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute од %m.spriteOrStage"
 
 msgid "%m.list contains %s"
-msgstr ""
+msgstr "%m.листа содржи %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp од %n"
@@ -48,13 +48,12 @@ msgid "ask %s and wait"
 msgstr "прашај %s и чекај"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "позадина бр."
+msgstr "позадина #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "име на позадина"
 
 msgid "broadcast %m.broadcast"
 msgstr "емитувај %m.broadcast"
@@ -105,34 +104,34 @@ msgid "Control"
 msgstr "Контрола"
 
 msgid "costume #"
-msgstr "маска бр."
+msgstr "маска #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "креирај клон од %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "моментално %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Датум"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "денови до 2000"
 
 msgid "define"
-msgstr ""
+msgstr "дефинирај"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "избриши %d.listDeleteItem од %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "избриши го овој клон"
 
 msgid "direction"
 msgstr "насока"
 
 msgid "distance"
-msgstr ""
+msgstr "растојание"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "растојание до %m.spriteOrMouse"
@@ -141,7 +140,7 @@ msgid "else"
 msgstr "или"
 
 msgid "Events"
-msgstr ""
+msgstr "Настани"
 
 msgid "forever"
 msgstr "постојано"
@@ -162,16 +161,16 @@ msgid "go to x:%n y:%n"
 msgstr "оди до x:%n y:%n"
 
 msgid "hide"
-msgstr "скриј"
+msgstr "сокриј"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "сокриј листа %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "сокриј променлива %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "ако %b тогаш"
 
 msgid "if on edge, bounce"
 msgstr "ако на работ, врати се назад"
@@ -201,16 +200,16 @@ msgid "Looks"
 msgstr "Погледи"
 
 msgid "loudness"
-msgstr "гласнност"
+msgstr "гласност"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Повеќе блокови"
 
 msgid "Motion"
 msgstr "Движења"
 
 msgid "mouse down?"
-msgstr "глувчето долу"
+msgstr "глувче долу?"
 
 msgid "mouse x"
 msgstr "глувче x"
@@ -222,7 +221,6 @@ msgid "move %n steps"
 msgstr "помести %n чекори"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "следна позадина"
 
@@ -233,16 +231,16 @@ msgid "not %b"
 msgstr "не %b"
 
 msgid "Operators"
-msgstr "оператори"
+msgstr "Оператори"
 
 msgid "Pen"
 msgstr "Молив"
 
 msgid "pen down"
-msgstr "моливот долу"
+msgstr "молив долу"
 
 msgid "pen up"
-msgstr "моливот горе"
+msgstr "моливо горе"
 
 msgid "pick random %n to %n"
 msgstr "избери случаен од %n до %n"
@@ -251,7 +249,6 @@ msgid "play drum %d.drum for %n beats"
 msgstr "свири тапани %d.drum за %n удари"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "свири нота %d.note за %n удари"
 
@@ -262,7 +259,7 @@ msgid "play sound %m.sound until done"
 msgstr "свири звук %m.sound до крај"
 
 msgid "point in direction %d.direction"
-msgstr "сврти во смерот %d.direction"
+msgstr "сврти во насока %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
 msgstr "оди кон %m.spriteOrMouse"
@@ -277,7 +274,7 @@ msgid "replace item %d.listItem of %m.list with %s"
 msgstr "замени %d.listItem од %m.list со %s"
 
 msgid "reset timer"
-msgstr "ресетирај го тајмерот"
+msgstr "ресетирај го одбројувачот"
 
 msgid "rest for %n beats"
 msgstr "одмори за %n удари"
@@ -307,20 +304,18 @@ msgid "set instrument to %d.instrument"
 msgstr "намести го инструментот %d.instrument"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "смер на моторот %m.motorDirection"
+msgstr "намести насока на моторот %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "мотор снага %n"
+msgstr "намести снага на мотор %n"
 
 msgid "set pen color to %c"
 msgstr "боја на моливот %c"
 
 msgid "set pen color to %n"
-msgstr "боја на моливот %c"
+msgstr "намести ја бојата на моливот за %c"
 
 msgid "set pen shade to %n"
 msgstr "намести сенка на моливот на %n"
@@ -329,7 +324,7 @@ msgid "set pen size to %n"
 msgstr "намести големина на моливот на %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "намести стил на ротација %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "намести големина на %n%"
@@ -338,7 +333,7 @@ msgid "set tempo to %n bpm"
 msgstr "намести темпо на %n удари/мин"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "намести провидност на видео на %n%"
 
 msgid "set volume to %n%"
 msgstr "намести глас на %n%"
@@ -353,10 +348,10 @@ msgid "show"
 msgstr "покажи"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "покажи листа %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "прикажи променлива %m.var"
 
 msgid "size"
 msgstr "големина"
@@ -368,21 +363,21 @@ msgid "stamp"
 msgstr "печат"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "стоп %m.stop"
 
 msgid "stop all sounds"
 msgstr "стопирај ги сите звуци"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "замени позадина со %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "замени позадина со %m.backdroр и почекај"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "смени маска на %m.costume"
 
 msgid "tempo"
 msgstr "темпо"
@@ -394,10 +389,10 @@ msgid "think %s for %n secs"
 msgstr "размислувај %s за %n сек."
 
 msgid "tilt"
-msgstr ""
+msgstr "наклон"
 
 msgid "timer"
-msgstr "тајмер"
+msgstr "одбројувач"
 
 msgid "touching %m.touching?"
 msgstr "%m.touching е допрена?"
@@ -406,42 +401,40 @@ msgid "touching color %c?"
 msgstr "бојата %c е допрена?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "заврти @на лево за %n степени"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "заврти @на десно за %n степени"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "исклучи го моторот"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "вклучи го моторот"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "мотор уклучи за %n секунди"
+msgstr "вклучи го моторот за %n секунди"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "вклучи го видеото %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "корисничко име"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "видео %m.videoMotionType на %m.stageOrThis"
 
 msgid "volume"
 msgstr "глас"
 
 msgid "wait %n secs"
-msgstr "чекај %n сек."
+msgstr "чекај %n секунди"
 
 msgid "wait until %b"
 msgstr "чекај додека %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
 msgstr "сензорот %m.booleanSensor е активен?"
 
@@ -449,29 +442,29 @@ msgid "when %m.key key pressed"
 msgstr "кога копчето %m.key е притиснато"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "кога %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "кога @greenFlag е кликнато"
+msgstr "кога @зеленоЗнаме е кликнато"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "кога позадината е заменета со %m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "кога растојанието < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "кога ке добијам %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "кога ке започнам како клон"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "кога фигурата е притисната"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "кога наклонот = %n"
 
 msgid "x position"
 msgstr "х позиција "
