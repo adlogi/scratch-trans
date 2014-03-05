@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2014-03-04 16:41+0200\n"
-"Last-Translator: dhanila <dhanilabk@gmail.com>\n"
+"PO-Revision-Date: 2014-03-05 10:04+0200\n"
+"Last-Translator: Midhila <midhila.p.2011@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -24,49 +24,48 @@ msgid "%b or %b"
 msgstr "%b അഥവാ %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.spriteOrStageന്റെ %m.attribute"
+msgstr "%m.സ്പ്രയ്റ്റിനെ അഥവാ രംഗത്ത സംബന്ധിക്കുന്ന.%m"
 
 msgid "%m.list contains %s"
 msgstr "%m.listല്‍ %s ഉണ്ടോ"
 
 msgid "%m.mathOp of %n"
-msgstr "%nന്റെ %m.mathOp"
+msgstr "%m ന്റെ %n.mathOp"
 
 msgid "%m.sensor sensor value"
-msgstr ""
+msgstr "സംവേദനിയുടെ വില %m."
 
 msgid "%n mod %n"
 msgstr "%n ശിഷ്ടം %n"
 
 msgid "add %s to %m.list"
-msgstr "%s നോട് കൂടി %m.ലിസ്റ്റ് കൂട്ടുക"
+msgstr "ലിസ്റ്റ് %s നോട്‌ കൂടി %m കൂട്ടുക"
 
 msgid "answer"
 msgstr "ഉത്തരം"
 
 msgid "ask %s and wait"
-msgstr "%s ചോദിച്ചു കാത്തിരിക്കുക"
+msgstr "ചോദിക്കു %s ശേഷം കാത്തിരിക്കുക"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "രംഗം #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "രംഗത്തിന്‍റെ പേര്"
 
 msgid "broadcast %m.broadcast"
-msgstr "%m.broadcast വിളംബരം ചെയ്യുക"
+msgstr "വിളംബരം ചെയ്യുക %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "%m.broadcast വിളംബരം ചെയ്തു കാത്തിരിക്കുക"
+msgstr "വിളംബരം ചെയ്യുക %m.broadcast ശേഷം കാത്തിരിക്കുക"
 
 msgid "change %m.effect effect by %n"
-msgstr "%m.effect %n കൊണ്ട് മാറ്റുക"
+msgstr "എഫ്ഫക്റ്റ്‌ %m effect %n കൊണ്ട് മാറ്റുക"
 
 msgid "change %m.var by %n"
-msgstr "%m.var,%n കൊണ്ട് മാറ്റുക"
+msgstr "ചരം %m var %n കൊണ്ട് മാറ്റുക"
 
 msgid "change pen color by %n"
 msgstr "പേനയുടെ നിറം %n കൊണ്ട് മാറ്റുക"
@@ -99,7 +98,7 @@ msgid "clear graphic effects"
 msgstr "ഗ്രാഫിക്‌ എഫ്ഫെക്ട്സ് മാറ്റുക"
 
 msgid "color %c is touching %c?"
-msgstr "%c കളര്‍ %cനെ തൊടുന്നുണ്ടോ?"
+msgstr "കളര്‍ %c %cനെ തൊടുന്നുണ്ടോ?"
 
 msgid "Control"
 msgstr "നിയന്ത്രണം"
@@ -117,7 +116,7 @@ msgid "Data"
 msgstr "വിവരങ്ങള്‍"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "2000 മുതല്‍ ഉള്ള ദിവസങ്ങള്‍"
 
 msgid "define"
 msgstr "നിര്‍വചിക്കുക"
@@ -126,7 +125,7 @@ msgid "delete %d.listDeleteItem of %m.list"
 msgstr "%m.listന്റെ %d.listDeleteItem കളയുക"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "ഈ ക്ലോണിനെ ഡിലീറ്റ് ചെയ്യുക"
 
 msgid "direction"
 msgstr "ദിശ"
@@ -141,7 +140,7 @@ msgid "else"
 msgstr "അല്ലെങ്കില്‍"
 
 msgid "Events"
-msgstr ""
+msgstr "കാര്യങ്ങള്‍"
 
 msgid "forever"
 msgstr "എല്ലായ്പ്പോഴും"
@@ -153,40 +152,40 @@ msgid "go back %n layers"
 msgstr "%n പാളി അകത്തേക്ക് പോവുക"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse ലേക്ക് പോവുക"
+msgstr "%m സ്പ്രയ്റ്റിലേക്ക് അഥവാ മൗസിലേക്ക് പോവുക"
 
 msgid "go to front"
 msgstr "ഉപരിതലത്തിലോട്ടു വരിക"
 
 msgid "go to x:%n y:%n"
-msgstr "x:%n,y:%nലേക്ക് പോവുക"
+msgstr "x:%n,y:%nലേക്കും പോവുക"
 
 msgid "hide"
 msgstr "ഒളിക്കുക"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "ലിസ്റ്റ് %m.നെ ഒളിപ്പിക്കുക"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "ചരം %m.നെ ഒളിപ്പിക്കുക"
 
 msgid "if %b then"
-msgstr ""
+msgstr "%b.യെങ്കില്‍ പിന്നെ"
 
 msgid "if on edge, bounce"
-msgstr "അറ്റത്താണെങ്കില്‍ തിരിച്ചു നടക്കുക"
+msgstr "അറ്റത്താണെങ്കില്‍ തിരിച്ചുവരിക"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "%m.listന്റെ %d.listItemല്‍ %s ഉള്‍പ്പെടുത്തുക"
+msgstr "%m.list ലെ %d.listItem ത്തില്‍ %s നെ ഉള്‍പെടുത്തുക"
 
 msgid "item %d.listItem of %m.list"
 msgstr "%m.listന്റെ %d.listItemമത്തെ ഐറ്റം"
 
 msgid "join %s %s"
-msgstr "%sഉം %sഉം യോജിപ്പിക്കുക"
+msgstr "%s.നോട്കൂടി %s യോജിപ്പിക്കുക"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key എന്ന കീ അമര്‍ത്തിയോ?"
+msgstr "കീ %m.key അമര്‍ത്തിയോ?"
 
 msgid "length of %m.list"
 msgstr "%m.listന്റെ നീളം"
@@ -204,269 +203,270 @@ msgid "loudness"
 msgstr "ഉച്ചത"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "കൂടുതല്‍ ബ്ലോക്കുകള്‍"
 
 msgid "Motion"
 msgstr "ചലനം"
 
 msgid "mouse down?"
-msgstr ""
+msgstr "മൗസ് അമര്‍ത്തിയോ?"
 
 msgid "mouse x"
-msgstr ""
+msgstr "മൗസ് x"
 
 msgid "mouse y"
-msgstr ""
+msgstr "മൗസ് y"
 
 msgid "move %n steps"
-msgstr ""
+msgstr "നീങ്ങുക %n അടി"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr ""
+msgstr "അടുത്ത രംഗം"
 
 msgid "next costume"
-msgstr ""
+msgstr "അടുത്ത രൂപം"
 
 msgid "not %b"
-msgstr ""
+msgstr "അല്ല %b യെങ്കില്‍"
 
 msgid "Operators"
-msgstr ""
+msgstr "ക്രിയകള്‍"
 
 msgid "Pen"
-msgstr ""
+msgstr "പേന"
 
 msgid "pen down"
-msgstr ""
+msgstr "വരയ്ക്കാന്‍ തുടങ്ങുക"
 
 msgid "pen up"
-msgstr ""
+msgstr "വരയ്ക്കുന്നത് നിര്‍ത്തുക"
 
 msgid "pick random %n to %n"
-msgstr ""
+msgstr "%n മുതല്‍ %n വരെയുള്ള ഏതെങ്കിലും സംഖ്യ എടുക്കുക"
 
 msgid "play drum %d.drum for %n beats"
-msgstr ""
+msgstr "%d ഡ്രം കൊണ്ടു %n ബീറ്റ്സ് അവതരിപ്പിക്കുക"
 
 msgid "play note %d.note for %n beats"
-msgstr ""
+msgstr "%d മത്തെ സ്വരം %n ബീറ്റ്സ് അവതരിപ്പിക്കുക"
 
 msgid "play sound %m.sound"
-msgstr ""
+msgstr "%m ശബ്ദമുണ്ടാക്കുക"
 
 msgid "play sound %m.sound until done"
-msgstr ""
+msgstr "തീരുന്നതുവരെ %m ശബ്ദമുണ്ടാക്കുക"
 
 msgid "point in direction %d.direction"
-msgstr ""
+msgstr "ദിശ %d ലേക്ക് തിരിയുക"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr ""
+msgstr "സ്ഥാനം %m ലേക്ക് തിരിയുക"
 
 msgid "repeat %n"
-msgstr ""
+msgstr "ആവര്‍ത്തിക്കുക %n തവണ"
 
 msgid "repeat until %b"
-msgstr ""
+msgstr "ആവര്‍ത്തിക്കുക %b വരെ"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr ""
+msgstr "ലിസ്റ്റ് %d ന്‍റെ %m മത്തെ ഐറ്റം %s കൊണ്ട് മാറ്റുക"
 
 msgid "reset timer"
-msgstr ""
+msgstr "ടൈമര്‍ വീണ്ടും തുടങ്ങുക"
 
 msgid "rest for %n beats"
-msgstr ""
+msgstr "കാത്തിരിക്കുക %n ബീറ്റ് സമയം"
 
 msgid "round %n"
-msgstr ""
+msgstr "റൌണ്ട് ചെയ്യുക %n"
 
 msgid "say %s"
-msgstr ""
+msgstr "പറയുക %s"
 
 msgid "say %s for %n secs"
-msgstr ""
+msgstr "പറയുക %s എന്ന്‍ %n നിമിഷം"
 
 msgid "Sensing"
-msgstr ""
+msgstr "സംവേധിനി"
 
 msgid "sensor %m.booleanSensor?"
-msgstr ""
+msgstr "മാപിനി %m.booleansensor"
 
 msgid "set %m.effect effect to %n"
-msgstr ""
+msgstr "സ്പെഷ്യല്‍ എഫ്ഫക്റ്റ്‌ %m നെ %n ആക്കുക"
 
 msgid "set %m.var to %s"
-msgstr ""
+msgstr "ചരം %m നെ %s ആക്കി മാറ്റുക"
 
 msgid "set instrument to %d.instrument"
-msgstr ""
+msgstr "സംഗീതോപകരണത്തെ %d ആക്കി മാറ്റുക"
 
 msgid "set motor direction %m.motorDirection"
-msgstr ""
+msgstr "മോട്ടോറിന്‍റെ ദിശ %m ആക്കുക"
 
 msgid "set motor power %n"
-msgstr ""
+msgstr "മോട്ടോറിന്‍റെ പവര്‍ %n ആക്കുക"
 
 msgid "set pen color to %c"
-msgstr ""
+msgstr "പേനയുടെ നിറം %c ആക്കി മാറ്റുക"
 
 msgid "set pen color to %n"
-msgstr ""
+msgstr "പേനയുടെ നിറം %n ആക്കുക"
 
 msgid "set pen shade to %n"
-msgstr ""
+msgstr "പേനയുടെ ഷേഡ് %n ആക്കുക"
 
 msgid "set pen size to %n"
-msgstr ""
+msgstr "പേനയുടെ വലുപ്പം %n ആക്കുക"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "ഭ്രമണം %m ആക്കുക"
 
 msgid "set size to %n%"
-msgstr ""
+msgstr "വലുപ്പം %n ആക്കുക"
 
 msgid "set tempo to %n bpm"
-msgstr ""
+msgstr "ഗതിവേഗത %n bpm ആക്കുക"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "വീഡിയോ തെളിച്ചം %n ആക്കുക"
 
 msgid "set volume to %n%"
-msgstr ""
+msgstr "ഒച്ച %n ആക്കുക"
 
 msgid "set x to %n"
-msgstr ""
+msgstr "x നെ %n ആക്കുക"
 
 msgid "set y to %n"
-msgstr ""
+msgstr "y നെ %n ആക്കുക"
 
 msgid "show"
-msgstr ""
+msgstr "കാണിക്കുക"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "ലിസ്റ്റ് %m നെ കാണിക്കുക"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "ചരം %m.var കാണിക്കുക"
 
 msgid "size"
-msgstr ""
+msgstr "വലുപ്പം"
 
 msgid "Sound"
-msgstr ""
+msgstr "ശബ്ദം"
 
 msgid "stamp"
-msgstr ""
+msgstr "ഒട്ടിക്കുക"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "നിര്‍ത്തുക %m"
 
 msgid "stop all sounds"
-msgstr ""
+msgstr "എല്ലാ ശബ്ദവും നിര്‍ത്തുക"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "ഇപ്പോഴത്തെ രംഗത്തില്‍ നിന്നും %m എന്ന രംഗത്തിലേക്ക് മാറുക"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
 msgstr ""
+"ഇപ്പോഴത്തെ രംഗത്തില്‍ നിന്നും %m എന്ന രംഗത്തിലേക്ക് മാറിയ ശേഷം കാത്തിരിക്കുക"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "ഇപ്പോഴത്തെ രൂപത്തില്‍ നിന്നും %m എന്ന രൂപത്തിലേക്ക് മാറുക"
 
 msgid "tempo"
-msgstr ""
+msgstr "ഗതിവേഗം"
 
 msgid "think %s"
-msgstr ""
+msgstr "ആലോചിക്കുക %s"
 
 msgid "think %s for %n secs"
-msgstr ""
+msgstr "ആലോചിക്കുക %s നിമിഷം %n"
 
 msgid "tilt"
-msgstr ""
+msgstr "ചരിക്കുക"
 
 msgid "timer"
-msgstr ""
+msgstr "ടൈമര്‍"
 
 msgid "touching %m.touching?"
-msgstr ""
+msgstr "തൊടുന്നുണ്ടോ %m?"
 
 msgid "touching color %c?"
-msgstr ""
+msgstr "നിറം %c തോടുന്നുണ്ടോ?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "ഇടത്തോട്ടു %n തിരിയുക"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "വലത്തോട്ടു %n തിരിയുക"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "മോട്ടോര്‍ ഓഫ്‌ ആക്കുക"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "മോട്ടോര്‍ ഓണ്‍ ആക്കുക"
 
 msgid "turn motor on for %n secs"
-msgstr ""
+msgstr "മോട്ടോര്‍ %n നിമിഷം ഓണാക്കുക"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "വീഡിയോ %m.videoState ആക്കുക"
 
 msgid "username"
-msgstr ""
+msgstr "ഉപയോക്താവിന്‍റെ പേര്"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "വീഡിയോ %m.videoMotionType ലെ %m.stageOrThis"
 
 msgid "volume"
-msgstr ""
+msgstr "ഒച്ച"
 
 msgid "wait %n secs"
-msgstr ""
+msgstr "കാത്തിരിക്കുക %n നിമിഷം"
 
 msgid "wait until %b"
-msgstr ""
+msgstr "കാത്തുനില്‍ക്കുക %b ആവുന്നതുവരെ"
 
 msgid "when %m.booleanSensor"
-msgstr ""
+msgstr "booleanSensor.%m ആവുമ്പോള്‍"
 
 msgid "when %m.key key pressed"
-msgstr ""
+msgstr "key.%m കീ അമര്‍ത്തുമ്പോള്‍"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "triggerSensor%m > %n ആവുമ്പോള്‍"
 
 msgid "when @greenFlag clicked"
 msgstr "ഗ്രീന്‍ ഫ്ലാഗ് ക്ലിക്ക് ചെയ്യുമ്പോള്‍"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "രംഗം %m ലേക്ക് മാറുമ്പോള്‍"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "ദൂരം < %n ആവുമ്പോള്‍"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "ഞാന്‍ %m.broadcast സ്വീകരിക്കുമ്പോള്‍"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "ക്ലോണായി തുടങ്ങുമ്പോള്‍"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "ഈ സ്പ്രയ്റ്റിനെ ക്ലിക്ക് ചെയ്യുമ്പോള്‍"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "ചെരിവ് = %n ആവുമ്പോള്‍"
 
 msgid "x position"
-msgstr ""
+msgstr "xസ്ഥാനം"
 
 msgid "y position"
-msgstr ""
+msgstr "yസ്ഥാനം"
 
 #~ msgid "forever if %b"
 #~ msgstr "%b ആണെങ്കില്‍ എല്ലായ്പ്പോഴും"
