@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2014-03-03 18:45+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2014-03-06 11:13+0200\n"
+"Last-Translator: vinayakumar  <vnkmr7620@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
-msgstr "ಕನ್ನಡ"
+msgstr "ಭಾಷೆ-ಹೆಸರು"
 
 msgid "%b and %b"
 msgstr "%b ಮತ್ತು %b"
@@ -24,43 +24,42 @@ msgid "%b or %b"
 msgstr "%b ಅಥವಾ %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribute ರ %m.spriteOrStage"
+msgstr "%m ಲಕ್ಷಣಗಳು %m.ಮೋಹಿನಿ ಅಥವಾ ವೇದಿಕೆ"
 
 msgid "%m.list contains %s"
-msgstr ""
+msgstr "%m.ಪಟ್ಟಿ %s ಅನ್ನು ಹೊಂದಿದೆ"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp ರ %n"
 
 msgid "%m.sensor sensor value"
-msgstr "%m.sensor ಗ್ರಹಿಕೆಯ ಮೌಲ್ಯ"
+msgstr "%m.ಗ್ರಹಿಕೆಯ ಗ್ರಹಿಕೆ ಮೌಲ್ಯ"
 
 msgid "%n mod %n"
 msgstr "%n ಶೇಷ %n"
 
 msgid "add %s to %m.list"
-msgstr ""
+msgstr "ಕೂಡಿಸು %s ಅನ್ನು %mಗೆ.ಪಟ್ಟಿ"
 
 msgid "answer"
-msgstr ""
+msgstr "ಉತ್ತರ"
 
 msgid "ask %s and wait"
-msgstr ""
+msgstr "ಕೇಳು %s ಅನ್ನುಮತ್ತು ನಿಧಾನಿಸು"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "ಹಿಂದಣ #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "ಹಿಂದಣದ ಹೆಸರು"
 
 msgid "broadcast %m.broadcast"
-msgstr "ಪ್ರಸರಿಸು %m.broadcast"
+msgstr "ಪ್ರಸರಿಸು %m.ಪ್ರಸರಿಸು"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "ಪ್ರಸರಿಸು ಮತ್ತು ಕಾಯಬೇಕು %m.broadcast"
+msgstr "ಪ್ರಸರಿಸು %m.ಪ್ರಸರಿಸು ಮತ್ತು ಕಾಯಬೇಕು"
 
 msgid "change %m.effect effect by %n"
 msgstr "ಪರಿಣಾಮವನ್ನು %m.effect ಗೆ ಬದಲಾಹಿಸು %n"
@@ -69,22 +68,22 @@ msgid "change %m.var by %n"
 msgstr "ಪರಿಣಾಮವನ್ನು %m.var ಗೆ ಬದಲಾಹಿಸು %n"
 
 msgid "change pen color by %n"
-msgstr "ರಷ್ಟು ಲೇಖಣಿ ಬಣ್ಣ ಬದಲಾಹಿಸು %n"
+msgstr "ಲೇಖಣಿ ಬಣ್ಣ %nರಷ್ಟು ಬದಲಾಹಿಸು"
 
 msgid "change pen shade by %n"
-msgstr "ರಷ್ಟು ಲೇಖಣಿ ನೆರಳನ್ನು ಬದಲಾಹಿಸು %n"
+msgstr "ಲೇಖಣಿ ನೆರಳನ್ನು %nರಷ್ಟು ಬದಲಾಹಿಸು"
 
 msgid "change pen size by %n"
-msgstr "ರಷ್ಟು ಲೇಖಣಿ ಗಾತ್ರವನ್ನು ಬದಲಾಹಿಸು %n"
+msgstr "ಲೇಖಣಿ ಗಾತ್ರವನ್ನು %nರಷ್ಟು ಬದಲಾಹಿಸು"
 
 msgid "change size by %n"
-msgstr "ರಷ್ಟು ಗಾತ್ರವನ್ನು ಬದಲಾಹಿಸು %n"
+msgstr "ಗಾತ್ರವನ್ನು %nರಷ್ಟು ಬದಲಾಹಿಸು"
 
 msgid "change tempo by %n"
-msgstr "ರಷ್ಟು ತಾಳವನ್ನು ಬದಲಾಹಿಸು %n"
+msgstr "ತಾಳವನ್ನು %nರಷ್ಟು ಬದಲಾಹಿಸು"
 
 msgid "change volume by %n"
-msgstr "ರಷ್ಟು ಗಾತ್ರವನ್ನು ಬದಲಾಹಿಸು %n"
+msgstr "ಗಾತ್ರವನ್ನು %nರಷ್ಟು ಬದಲಾಹಿಸು"
 
 msgid "change x by %n"
 msgstr "x ಅನ್ನು %n ಗೆ ಬದಲಾಹಿಸು"
@@ -99,7 +98,7 @@ msgid "clear graphic effects"
 msgstr "ಎಲ್ಲಾ ಪರಿಣಾಮಗಳನ್ನು ಅಳಿಸು"
 
 msgid "color %c is touching %c?"
-msgstr "%c ಬಣ್ಣ %c ಅನ್ನು ಮುಟ್ಟಿದಾಗ"
+msgstr "ಬಣ್ಣ %c ಅನ್ನು %c ಮುಟ್ಟಿದಾಗ?"
 
 msgid "Control"
 msgstr "ಹಿಡಿತ"
@@ -108,52 +107,52 @@ msgid "costume #"
 msgstr "ಉಡುಪು #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "ತದ್ರೂಪು %mರಷ್ಟು ರಚಿಸಿ.ಮೋಹಿನಿ ಮಾತ್ರ"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "ಹೀಗಿನ %m.ಸಮಯಮತ್ತುದಿನಾಂಕ"
 
 msgid "Data"
-msgstr ""
+msgstr "ದತ್ತಾ೦ಸಗಳು"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "2000 ದಿನದಿಂದಇಚಗೆ"
 
 msgid "define"
-msgstr ""
+msgstr "ವ್ಯಾಖ್ಯಾನ"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr ""
+msgstr "ಅಳಿಸು %d.ಪಟ್ಟಿಅಳಿಸುವವಸ್ತುವು %m.ಪಟ್ಟಿ"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "ಈ ತದ್ರೂಪು ಅನ್ನು ಅಳಿಸಿ"
 
 msgid "direction"
 msgstr "ದಿಕ್ಕು"
 
 msgid "distance"
-msgstr ""
+msgstr "ದೂರ"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse ಗೆ ಅಂತರ"
+msgstr "ದೂರ %m ಗೆ.ಮೋಹಿನಿ ಅಥವಾ ಮೌಸ್"
 
 msgid "else"
 msgstr "ಇಲ್ಲದಿದ್ದರೆ"
 
 msgid "Events"
-msgstr ""
+msgstr "ಸಂಭವಗಳು"
 
 msgid "forever"
 msgstr "ಯವಾಗಲು"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n ಸೆಕೆಂಡಿನಲ್ಲಿ x:%n y:%n ರಷ್ಟು ಸರಿ"
+msgstr "ಸರಿ %n ಸೆಕೆಂಡಿನಲ್ಲಿ xಗೆ:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "%n ಪದರಗಳು ಹಿಂದೆ ಹೋಗು"
+msgstr "ಪದರಗಳು %nರಷ್ಟು ಹಿಂದೆ ಹೋಗು"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse ಗೆ ಹೋಗು"
+msgstr "ಹೋಗು %mಗೆ.ಮೋಹಿನಿಅಥವಾಮೌಸ್"
 
 msgid "go to front"
 msgstr "ಮುಂದಕ್ಕೆ ಹೋಗು"
@@ -165,37 +164,37 @@ msgid "hide"
 msgstr "ಬಚ್ಚಿಡು"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "ಪಟ್ಟಿಯನ್ನು %mರಷ್ಟು ಬಚ್ಚಿಡು.ಪಟ್ಟಿ"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "ಪರಿವರ್ತನೆಯನ್ನು %mರಷ್ಟು ಬಚ್ಚಿಡು.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "ಒಂದು ವೇಳೆ %b ಇಲ್ಲದಿದ್ದರೆ"
 
 msgid "if on edge, bounce"
 msgstr "ಒಂದುವೇಳೆ ಕೊನೆಗೆ ಹೋದಾಗ ಜಿಗಿ"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr ""
+msgstr "ಕೂಡಿಸು %sಅನ್ನು %dನಲ್ಲಿ.ಪಟ್ಟಿವಸ್ತುವು %m.ಪಟ್ಟಿ"
 
 msgid "item %d.listItem of %m.list"
-msgstr ""
+msgstr "ವಸ್ತು %d.ಪತ್ತಿವಸ್ತುವು %m.ಪಟ್ಟಿ"
 
 msgid "join %s %s"
-msgstr ""
+msgstr "ಕೂಡಿಸು %s ಮತ್ತು %s"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key ಕೀ ಒತ್ತಿದರೆ?"
+msgstr "ಕೀಲಿ %m.ಕೀಲಿ ಒತ್ತಿದರೆ?"
 
 msgid "length of %m.list"
-msgstr ""
+msgstr "ಉದ್ದ %mನದ್ದು.ಪಟ್ಟಿ"
 
 msgid "length of %s"
-msgstr ""
+msgstr "ಉದ್ದ %sನದ್ದು"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "ಅಕ್ಷರ %nವು %sನದ್ದಾಗಿದೆ"
 
 msgid "Looks"
 msgstr "ಕಾಣುವುದು"
@@ -204,7 +203,7 @@ msgid "loudness"
 msgstr "ಧ್ವನಿಯುಕ್ತ"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "ಹೆಚ್ಚು ಇಟ್ಟಿಗೆಗಳು"
 
 msgid "Motion"
 msgstr "ಚಲನೆ"
@@ -219,10 +218,9 @@ msgid "mouse y"
 msgstr "ಮೌಸ್ y"
 
 msgid "move %n steps"
-msgstr "%n ಹೆಜ್ಜೆ ಮುಂದೆ ಹೋಗು"
+msgstr "ಹೆಜ್ಜೆ %nರಷ್ಟು ಮುಂದೆ ಹೋಗು"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "ಮುಂದಿನ ಹಿಂದಣ"
 
@@ -230,10 +228,10 @@ msgid "next costume"
 msgstr "ಮುಂದಿನ ಉಡುಪು"
 
 msgid "not %b"
-msgstr "%b ಅಲ್ಲ"
+msgstr "ಅಲ್ಲ %bಯು"
 
 msgid "Operators"
-msgstr ""
+msgstr "ಚಿಹ್ನ್ಹೆ"
 
 msgid "Pen"
 msgstr "ಲೇಖಣಿ"
@@ -245,99 +243,99 @@ msgid "pen up"
 msgstr "ಲೇಖಣಿಮುಕ್ತ"
 
 msgid "pick random %n to %n"
-msgstr "%n ನಿಂದ %n ವರೆಗೂ ಎಷ್ಟನ್ನಾದರೂ ಆಯ್ದುಕೊ"
+msgstr "ಯಾದೃಚಿಕವಾಗಿ %n ನಿಂದ %n ವರೆಗೂ ಆಯ್ದುಕೊ"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "%d.drum ಲಯದಲ್ಲಿ %n ಡೋಲು ಬಾರಿಸು"
+msgstr "ಡೋಲು ಬಾರಿಸು %dರಷ್ಟು.%n ಲಯದಲ್ಲಿ ಡೋಲನ್ನು ಬಾರಿಸು"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "%d.note ಲಯದಲ್ಲಿ %n ಸಂಗಿತದಸ್ವರ ಕೇಳಿಸು"
+msgstr ""
+"ಗುರುತುಪಟ್ಟಿಯಲ್ಲಿರುವಂತೆ %dರಷ್ಟು ಸಂಗಿತದಸ್ವರ ಕೇಳಿಸು.ಗುರುತುಪಟ್ಟಿಯು %n ಲಯದಲ್ಲಿ"
 
 msgid "play sound %m.sound"
-msgstr "%m.sound ಶಬ್ಧ ಕೇಳಿಸು"
+msgstr "ಶಬ್ಧ ಕೇಳಿಸು %mರಷ್ಟು.ಶಬ್ದ"
 
 msgid "play sound %m.sound until done"
-msgstr "%m.sound ಆಗುವವರೆಗೂ ಶಬ್ಧ ಕೇಳಿಸು"
+msgstr "ಶಬ್ಧ ಕೇಳಿಸು %mರಷ್ಟು.ಶಬ್ದ ಆಗುವವರೆಗೂ"
 
 msgid "point in direction %d.direction"
-msgstr "%d.direction ಯ ದಿಕ್ಕಿನಲ್ಲಿಡು"
+msgstr "ಚುಕ್ಕೆಯ ದಿಕ್ಕು %d ದಿಕ್ಕಿನಲ್ಲಿ"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse ಯ ಕಡೆ ಇಡು"
+msgstr "ಚುಕ್ಕೆಯ ದಿಕ್ಕು %mನ ಕಡೆಗೆ.ಮೋಹಿನಿ ಅಥವಾ ಮೌಸ್"
 
 msgid "repeat %n"
-msgstr "%n ಮರುಕಳಿಸು"
+msgstr "ಮರುಕಳಿಸು %n ರಷ್ಟು"
 
 msgid "repeat until %b"
-msgstr "%b ವರೆಗೂ ಮರುಕಳಿಸು"
+msgstr "ಮರುಕಳಿಸು %b ವರೆಗೂ"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr ""
+msgstr "ಬದಲಾಹಿಸುವ ವಸ್ತು %d.ಪಟ್ಟಿಯವಸ್ತುವಿನ %m.ಪಟ್ಟಿಯ ಜೊತೆ %s"
 
 msgid "reset timer"
 msgstr "ಸಮಯಸೂಚಕವನ್ನು ಮರುಹೊಂದಿಸು"
 
 msgid "rest for %n beats"
-msgstr "%n ಲಯವನ್ನು ನಿಲ್ಲಿಸು"
+msgstr "ಲಯವನ್ನು %nಗೆ ನಿಲ್ಲಿಸು"
 
 msgid "round %n"
-msgstr "%n ಸರಿಮಾಡು"
+msgstr "ಸರಿಮಾಡು %nರಷ್ಟು"
 
 msgid "say %s"
-msgstr "%s ಎಂದು ಹೇಳು"
+msgstr "ಹೇಳು%s ಎಂದು"
 
 msgid "say %s for %n secs"
-msgstr "%s ಎಂದು %n ಸೆಕೆಂಡಿನಲ್ಲಿ ಹೇಳು"
+msgstr "ಹೇಳು %s ಎಂದು %n ಸೆಕೆಂಡಿನಲ್ಲಿ"
 
 msgid "Sensing"
 msgstr "ಗ್ರಹಿಸುವುದು"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "%m.booleanSensor ಗ್ರಹಿಕೆ?"
+msgstr "ಗ್ರಹಿಕೆ %m.ಬೂಲಿಯನ್-ಗ್ರಹಿಕೆ?"
 
 msgid "set %m.effect effect to %n"
-msgstr "%m.effect ಪರಿಣಾಮವನ್ನು %n ಗೆ ಹೊಂದಿಸು"
+msgstr "ಹೊಂದಿಸು %mರಷ್ಟು.ಪರಿಣಾಮದ ಪರಿಣಾಮವನ್ನು %n ಗೆ"
 
 msgid "set %m.var to %s"
-msgstr "%m.var ಯನ್ನು %n ಗೆ ಹೊಂದಿಸು"
+msgstr "ಹೊಂದಿಸು %mಅನ್ನು.var %s ಗೆ"
 
 msgid "set instrument to %d.instrument"
-msgstr "%d.instrument ಗೆ ವಾದ್ಯವನ್ನು ಹೊಂದಿಸು"
+msgstr "ವಾದ್ಯವನ್ನು ಹೊಂದಿಸು %dಗೆ ಹೊಂದಿಸು.ವಾದ್ಯ"
 
 msgid "set motor direction %m.motorDirection"
-msgstr ""
+msgstr "ವಾಹನದ ದಿಕ್ಕನ್ನು %mಗೆ ಹೊಂದಿಸು.ವಾಹನದದಿಕ್ಕು"
 
 msgid "set motor power %n"
-msgstr ""
+msgstr "ವಾಹನದ ವಿದ್ಯುತ್ತನ್ನು %nಗೆ ಹೊಂದಿಸು"
 
 msgid "set pen color to %c"
-msgstr "%c ಗೆ ಲೇಖಣಿ ಬಣ್ಣವನ್ನು ಹೊಂದಿಸು"
+msgstr "ಲೇಖಣಿ ಬಣ್ಣವನ್ನು %cಗೆ ಹೊಂದಿಸು"
 
 msgid "set pen color to %n"
-msgstr "%c ಗೆ ಲೇಖಣಿ ಬಣ್ಣವನ್ನು ಹೊಂದಿಸು"
+msgstr "ಲೇಖಣಿ ಬಣ್ಣವನ್ನು %nಗೆ ಹೊಂದಿಸು"
 
 msgid "set pen shade to %n"
-msgstr "%n ರಷ್ಟಕ್ಕೆ ಲೇಖಣಿ ನೆರಳನ್ನು ಹೊಂದಿಸು"
+msgstr "ಲೇಖಣಿ ನೆರಳನ್ನು %nರಷ್ಟಕ್ಕೆ ಹೊಂದಿಸು"
 
 msgid "set pen size to %n"
-msgstr "%n ರಷ್ಟಕ್ಕೆ ಲೇಖಣಿ ಗಾತ್ರವನ್ನು ಹೊಂದಿಸು"
+msgstr "ಲೇಖಣಿ ಗಾತ್ರವನ್ನು %nರಷ್ಟಕ್ಕೆ ಹೊಂದಿಸು"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "ತಿರುಗು ದಿಕ್ಕನ್ನು %mಗೆ ಹೊಂದಿಸು.ತಿರುಗುದಿಕ್ಕು"
 
 msgid "set size to %n%"
-msgstr "%n% ರಷ್ಟಕ್ಕೆ ಗಾತ್ರವನ್ನು ಹೊಂದಿಸು"
+msgstr "ಗಾತ್ರವನ್ನು %n% ರಷ್ಟಕ್ಕೆ ಹೊಂದಿಸು"
 
 msgid "set tempo to %n bpm"
-msgstr "%n bpm ಗೆ ಲಯವನ್ನು ಹೊಂದಿಸು"
+msgstr "ಲಯವನ್ನು %n bpm ಗೆ ಹೊಂದಿಸು"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "ದೃಶ್ಯ ಪಾರದರ್ಶಕವನ್ನು %n%ಗೆ ಹೊಂದಿಸು"
 
 msgid "set volume to %n%"
-msgstr "%n% ಗೆ ಶಬ್ಧವನ್ನು ಹೊಂದಿಸು"
+msgstr "ಶಬ್ಧವನ್ನು %n% ಗೆ ಹೊಂದಿಸು"
 
 msgid "set x to %n"
 msgstr "x ಅನ್ನು %n ಗೆ ಹೊಂದಿಸು"
@@ -349,10 +347,10 @@ msgid "show"
 msgstr "ತೋರಿಸು"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "ಪಟ್ಟಿ %mಅನ್ನು ತೋರಿಸು.ಪಟ್ಟಿ"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "ಪರಿವರ್ತನೆ %mಅನ್ನು ತೋರಿಸು.var"
 
 msgid "size"
 msgstr "ಗಾತ್ರ"
@@ -364,108 +362,107 @@ msgid "stamp"
 msgstr "ಮುದ್ರಿಸು"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "ನಿಲ್ಲಿಸು %m.ನಿಲ್ಲಿಸು"
 
 msgid "stop all sounds"
 msgstr "ಎಲ್ಲಾ ಶಬ್ಧಗಳನ್ನು ನಿಲ್ಲಿಸು"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "ಹಿಂದಣವನ್ನು %mಗೆ ಬದಲಾಹಿಸು.ಹಿಂದಣ"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "ಹಿಂದಣವನ್ನು %mಗೆ ಬದಲಾಹಿಸು.ಹಿಂದಣ ಮತ್ತು ನಿಧಾನಿಸು"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "ಉಡುಪನ್ನು %mಗೆ ಬದಲಾಹಿಸು.ಉಡುಪು"
 
 msgid "tempo"
 msgstr "ತಾಳ"
 
 msgid "think %s"
-msgstr "%s ಎಂದು ಯೋಚಿಸು"
+msgstr "ಯೋಚಿಸು %s ಎಂದು"
 
 msgid "think %s for %n secs"
-msgstr "%s ಎಂದು %n ಸೆಕೆಂಡಿನಲ್ಲಿ ಯೋಚಿಸು"
+msgstr "ಯೋಚಿಸು %sರಷ್ಟು %n ಸೆಕೆಂಡಿನಲ್ಲಿ"
 
 msgid "tilt"
-msgstr ""
+msgstr "ಓರೆಮಾಡು"
 
 msgid "timer"
 msgstr "ಸಮಯಸೂಚಕ"
 
 msgid "touching %m.touching?"
-msgstr "%m.touching ಮುಟ್ಟಿದರೆ?"
+msgstr "ಮುಟ್ಟಿದಾಗ %m.ಮುಟ್ಟಿದರೆ?"
 
 msgid "touching color %c?"
-msgstr "%c ಬಣ್ಣವನ್ನು ಮುಟ್ಟಿದರೆ?"
+msgstr "ಬಣ್ಣ %cಅನ್ನು ಮುಟ್ಟಿದರೆ?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "ತಿರುಗು @ಎಡಗಡೆತಿರುಗು %n ಕೊನದಷ್ಟು"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "ತಿರುಗು @ಬಲಗಡೆತಿರುಗು %n ಕೊನದಷ್ಟು"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "ವಾಹನವನ್ನು ನಿಲ್ಲಿಸು"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "ವಾಹನವನ್ನು ಚಾಲನೆ ಮಾಡು"
 
 msgid "turn motor on for %n secs"
-msgstr ""
+msgstr "ವಾಹನವನ್ನು %n ಸೆಕೆಂಡಿನಷ್ಟು ಚಲಾನೆ ಮಾಡು"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "ದೃಶ್ಯವನ್ನು %mರಷ್ಟು ಚಾಲನೆ ಮಾಡು.ದೃಶ್ಯದ ಸ್ಥಿತಿ"
 
 msgid "username"
-msgstr ""
+msgstr "ಬಳಕೆದಾರರ ಹೆಸರು"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "ದೃಶ್ಯ %m.%mನ ಮೇಲೆ ದೃಶ್ಯದಚಲನೆಯವಿಧಾನ.ವೇದಿಕೆಅಥವಾಇದು"
 
 msgid "volume"
 msgstr "ಶಬ್ಧ"
 
 msgid "wait %n secs"
-msgstr "%n ಸೆಕೆಂಡುಗಳಷ್ಟು ಕಾಯಬೇಕು"
+msgstr "ಸೆಕೆಂಡು %nರಷ್ಟು ಕಾಯಬೇಕು"
 
 msgid "wait until %b"
-msgstr "%b ವರೆಗೂ ಕಾಯಬೇಕು"
+msgstr "ಕಾಯಿರಿ %b ವರೆಗೂ"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "%m.booleanSensor ಗ್ರಹಿಕೆ?"
+msgstr "ಯಾವಾಗ %m.ಬೂಲಿಯನ್-ಗ್ರಹಿಕೆ"
 
 msgid "when %m.key key pressed"
-msgstr "%m.key ಕೀ ಒತ್ತಿದಾಗ"
+msgstr "ಯಾವಾಗ %m.ಕೀಲಿ ಕೀಲಿಯನ್ನು ಒತ್ತಿದಾಗ"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "ಯಾವಾಗ %m.ಪ್ರತಿಕ್ರಿಯೆಗ್ರಹಿಕೆ > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "@greenFlag ಒತ್ತಿದಾಗ"
+msgstr "ಯಾವಾಗ @ಹಸಿರುಬಾವುಟವನ್ನು ಒತ್ತಿದಾಗ"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "ಹಿಂದಣವು %mಗೆ ಬದಲಾದಾಗ.ಹಿಂದಣ"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "ದೂರವು ಯಾವಾಗ < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "ಯಾವಗವೆಂದರೆ %mಅನ್ನು ಸ್ವಿಕರಿಸಿದಾಗ.ಪ್ರಸರಿಸು"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "ಯಾವಗವೆಂದರೆ ತದ್ರೂಪುದಂತೆ ಪ್ರಾರಂಬಿಸಿದಾಗ"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "ಯಾವಗವೆಂದರೆ ಈ ಮೋಹಿನಿಯನ್ನು ಕ್ಲಿಕ್ಕಿಸಿದಾಗ"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "ಯಾವಗವೆಂದರೆ ಓರೆಮಾಡು = %n"
 
 msgid "x position"
 msgstr "x ಸ್ಥಾನ"
