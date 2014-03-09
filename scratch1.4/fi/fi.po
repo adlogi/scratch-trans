@@ -3,20 +3,19 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2007-12-25\n"
-"PO-Revision-Date: 2009-05-28 12:07-0400\n"
-"Last-Translator: A Vuorilehto <avuorilehto@gmail.com>\n"
+"PO-Revision-Date: 2013-11-13 15:53+0200\n"
+"Last-Translator: Juha <juha.harviainen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 1.2.0\n"
+"X-Generator: Pootle 2.1.6\n"
 
 ############################################
 # FORMATTING
 ############################################
-
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
 msgid "Language-Name"
@@ -53,7 +52,6 @@ msgstr "Linux-kirjasin"
 ############################################
 # BLOCKS
 ############################################
-
 msgid "%H sensor value"
 msgstr "sensorin %H arvo"
 
@@ -435,7 +433,6 @@ msgstr "y-sijainti"
 ############################################
 # USER INTERFACE
 ############################################
-
 msgid "(empty)"
 msgstr "(tyhjä)"
 
@@ -956,7 +953,7 @@ msgid "New costume:"
 msgstr "Uusi asuste:"
 
 msgid "New file name?"
-msgstr ""
+msgstr "Uusi tiedostonimi?"
 
 msgid "New Filename:"
 msgstr "Uusi tiedostonimi:"
@@ -1306,7 +1303,6 @@ msgstr "Teksti-työkalu (muokkaa tekstikerrosta)"
 msgid "That variable name is already in use"
 msgstr "Muuttujanimi on jo käytössä"
 
-#, fuzzy
 msgid "that way"
 msgstr "tuohon suuntaan"
 
@@ -1316,7 +1312,6 @@ msgstr "Tiedosto on jo olemassa. Ylikirjoita vanha tiedosto uudella?"
 msgid "thing"
 msgstr "jokin"
 
-#, fuzzy
 msgid "this way"
 msgstr "tähän suuntaan"
 
@@ -1395,7 +1390,6 @@ msgstr "Zoomaa pienemmäksi"
 ############################################
 # MIDI INSTRUMENTS
 ############################################
-
 msgid "Accordion"
 msgstr "Haitari"
 
@@ -1574,7 +1568,7 @@ msgid "Guitar Fret Noise"
 msgstr "Kitaran nauhaääni"
 
 msgid "Guitar Harmonics"
-msgstr ""
+msgstr "Kitara-harmonikka"
 
 msgid "Gunshot"
 msgstr "Pyssynlaukaus"
@@ -1920,4 +1914,3 @@ msgstr ""
 
 msgid "Xylophone"
 msgstr "Xylofoni"
-

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2014-03-05 10:04+0200\n"
+"PO-Revision-Date: 2014-03-06 11:47+0200\n"
 "Last-Translator: Midhila <midhila.p.2011@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
@@ -33,7 +33,7 @@ msgid "%m.mathOp of %n"
 msgstr "%m ന്റെ %n.mathOp"
 
 msgid "%m.sensor sensor value"
-msgstr "സംവേദനിയുടെ വില %m."
+msgstr "%m.sensor സംവേദനിയുടെ വില"
 
 msgid "%n mod %n"
 msgstr "%n ശിഷ്ടം %n"
@@ -107,7 +107,7 @@ msgid "costume #"
 msgstr "രൂപം #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "%mസ്പ്രയ്റ്റിന്‍റെമാത്രം ക്ലോണ്‍ ഉണ്ടാക്കുക"
+msgstr "സ്പ്രയ്റ്റ് %m ന്‍റെ ക്ലോണ്‍ ഉണ്ടാക്കുക"
 
 msgid "current %m.timeAndDate"
 msgstr "ഇപ്പോഴുള്ള %m സമയവും തിയ്യതിയും"
@@ -122,7 +122,7 @@ msgid "define"
 msgstr "നിര്‍വചിക്കുക"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "%m.listന്റെ %d.listDeleteItem കളയുക"
+msgstr "ലിസ്റ്റ് %m.list ന്റെ %d.listDeleteItem കളയുക"
 
 msgid "delete this clone"
 msgstr "ഈ ക്ലോണിനെ ഡിലീറ്റ് ചെയ്യുക"
@@ -134,7 +134,7 @@ msgid "distance"
 msgstr "ദൂരം"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouseലേക്കുള്ള ദൂരം"
+msgstr "ദൂരം %m.spriteOrMouseലേക്കുള്ള"
 
 msgid "else"
 msgstr "അല്ലെങ്കില്‍"
@@ -146,10 +146,10 @@ msgid "forever"
 msgstr "എല്ലായ്പ്പോഴും"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n സെകന്റില്‍ x:%n,y:%nലേക്ക് നീങ്ങുക"
+msgstr "നീങ്ങുക %n നിമിഷം x:%n y:%n ലേക്ക്"
 
 msgid "go back %n layers"
-msgstr "%n പാളി അകത്തേക്ക് പോവുക"
+msgstr "അകത്തേക്ക് പോവുക %n പാളി"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "%m സ്പ്രയ്റ്റിലേക്ക് അഥവാ മൗസിലേക്ക് പോവുക"
@@ -170,13 +170,13 @@ msgid "hide variable %m.var"
 msgstr "ചരം %m.നെ ഒളിപ്പിക്കുക"
 
 msgid "if %b then"
-msgstr "%b.യെങ്കില്‍ പിന്നെ"
+msgstr "%b യെങ്കില്‍ പിന്നെ"
 
 msgid "if on edge, bounce"
 msgstr "അറ്റത്താണെങ്കില്‍ തിരിച്ചുവരിക"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "%m.list ലെ %d.listItem ത്തില്‍ %s നെ ഉള്‍പെടുത്തുക"
+msgstr "ലിസ്റ്റ് %m.list ലെ %d.listItem ത്തില്‍ %s നെ ഉള്‍പെടുത്തുക"
 
 msgid "item %d.listItem of %m.list"
 msgstr "%m.listന്റെ %d.listItemമത്തെ ഐറ്റം"
@@ -188,13 +188,13 @@ msgid "key %m.key pressed?"
 msgstr "കീ %m.key അമര്‍ത്തിയോ?"
 
 msgid "length of %m.list"
-msgstr "%m.listന്റെ നീളം"
+msgstr "ലിസ്റ്റ് %mlist ന്‍റെ നീളം"
 
 msgid "length of %s"
 msgstr "%sന്റെ നീളം"
 
 msgid "letter %n of %s"
-msgstr "%sന്റെ %nമത്തെ അക്ഷരം"
+msgstr "%s ന്‍റെ %n മത്തെ അക്ഷരം"
 
 msgid "Looks"
 msgstr "കാഴ്ച"
@@ -291,7 +291,7 @@ msgid "Sensing"
 msgstr "സംവേധിനി"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "മാപിനി %m.booleansensor"
+msgstr "മാപിനി %m.booleansensor?"
 
 msgid "set %m.effect effect to %n"
 msgstr "സ്പെഷ്യല്‍ എഫ്ഫക്റ്റ്‌ %m നെ %n ആക്കുക"
