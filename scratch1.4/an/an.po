@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Scratch 1.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-31 23:36+0200\n"
-"PO-Revision-Date: 2013-04-18 23:40+0200\n"
+"PO-Revision-Date: 2014-02-04 20:06+0200\n"
 "Last-Translator: Juan Pablo <juanpabl@gmail.com>\n"
 "Language-Team: softaragonés\n"
 "Language: an\n"
@@ -40,16 +40,19 @@ msgid "Suppress-Bold"
 msgstr "false"
 
 # Font to use on a Windows system
+# 
 msgid "Win-Font"
-msgstr ""
+msgstr "Win-Font"
 
 # Font to use on a Mac system
+# 
 msgid "Mac-Font"
-msgstr ""
+msgstr "Mac-Font"
 
 # Font to use on a Linux system
+# 
 msgid "Linux-Font"
-msgstr ""
+msgstr "Linux-Font"
 
 # ##########################################
 # BLOCKS

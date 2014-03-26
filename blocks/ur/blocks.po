@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-14 14:16+0200\n"
-"PO-Revision-Date: 2014-03-19 12:26+0200\n"
+"PO-Revision-Date: 2014-03-22 13:09+0200\n"
 "Last-Translator: abdul <mscs13011@itu.edu.pk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ur\n"
@@ -30,439 +30,440 @@ msgid "%m.list contains %s"
 msgstr "%m.list پرمشتمل ھے %s"
 
 msgid "%m.mathOp of %n"
-msgstr ""
+msgstr "%m.mathOp قیمت %n"
 
 msgid "%m.sensor sensor value"
-msgstr ""
+msgstr "ویلیو سینسر %m.sensor"
 
 msgid "%n mod %n"
-msgstr ""
+msgstr "%nباقی تقسیم%n"
 
 msgid "add %s to %m.list"
-msgstr ""
+msgstr "%m.list میں %s جمع کریں"
 
 msgid "answer"
-msgstr ""
+msgstr "جواب"
 
 msgid "ask %s and wait"
-msgstr ""
+msgstr "پوچھےُ %s اورانتظارکریں"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr ""
+msgstr "پس منظر #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "نام پس منظر"
 
 msgid "broadcast %m.broadcast"
-msgstr ""
+msgstr "نشر %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr ""
+msgstr "نشر کریں%m.broadcast اورانتظارکریں"
 
 msgid "change %m.effect effect by %n"
-msgstr ""
+msgstr "تغیر(تبدیل کریں) %m.effect اثربحساب %n"
 
 msgid "change %m.var by %n"
-msgstr ""
+msgstr "تغیر(تبدیل کریں) %m.var متغیربحساب %n"
 
 msgid "change pen color by %n"
-msgstr ""
+msgstr "تبدیلی رنگ قلم بمقدار %n"
 
 msgid "change pen shade by %n"
-msgstr ""
+msgstr "تبدیلی ظل قلم بمقدار %n"
 
 msgid "change pen size by %n"
-msgstr ""
+msgstr "تبدیل حجم القلم بمقدار %n"
 
 msgid "change size by %n"
-msgstr ""
+msgstr "تبدیل سائزبحساب%n"
 
 msgid "change tempo by %n"
-msgstr ""
+msgstr "تبدیل رفتاربحساب%n"
 
 msgid "change volume by %n"
-msgstr ""
+msgstr "تبدیل حجم صوت بحساب%n"
 
 msgid "change x by %n"
-msgstr ""
+msgstr "تبدیل س بمقدار %n"
 
 msgid "change y by %n"
-msgstr ""
+msgstr "تبدیل ص بمقدار %n"
 
 msgid "clear"
-msgstr ""
+msgstr "صاف"
 
 msgid "clear graphic effects"
-msgstr ""
+msgstr "گرافکس اثرات ختم کریں"
 
 msgid "color %c is touching %c?"
-msgstr ""
+msgstr "رنگ%c مس کر رہا ہے رنگ کو %c ؟"
 
 msgid "Control"
-msgstr ""
+msgstr "کنٹرول"
 
 msgid "costume #"
-msgstr ""
+msgstr "لباس #"
 
+# ِI am not sure of how it will look like
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "کا ھم جنس بناؤ %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "اس وقت%m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "تاریخ"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "دن ۲۰۰۰ ُکے بعد سے"
 
 msgid "define"
-msgstr ""
+msgstr "تعریف"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr ""
+msgstr "حذف کریں %d.listDeleteItem کی%m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "حذف کریں یہ جنس"
 
 msgid "direction"
-msgstr ""
+msgstr "رخ"
 
 msgid "distance"
-msgstr ""
+msgstr "فاصلہ"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr ""
+msgstr "فاصلہ بہ %m.spriteOrMouse"
 
 msgid "else"
-msgstr ""
+msgstr "ورنہ"
 
 msgid "Events"
-msgstr ""
+msgstr "واقعات"
 
 msgid "forever"
-msgstr ""
+msgstr "مسلسل"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr ""
+msgstr "گلا یؒڈ %n سیکنڈ س: %n ص: %n"
 
 msgid "go back %n layers"
-msgstr ""
+msgstr "پیچھے جا وُ %n سطحیں"
 
 msgid "go to %m.spriteOrMouse"
-msgstr ""
+msgstr "قصد کرو %m.spriteOrMouse"
 
 msgid "go to front"
-msgstr ""
+msgstr "سامنے جا وَ"
 
 msgid "go to x:%n y:%n"
-msgstr ""
+msgstr "قصد س:%n ص :%n"
 
 msgid "hide"
-msgstr ""
+msgstr "چھپا وُ"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "چھپا وُ فہرست %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "چھپا وُمتغیر%m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "اگر %b تو"
 
 msgid "if on edge, bounce"
-msgstr ""
+msgstr "اگرکنارےپرہے، اچھلو"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr ""
+msgstr "ڈالو  %s پر %d.listItem کی %m.list"
 
 msgid "item %d.listItem of %m.list"
-msgstr ""
+msgstr "شے %d.listItem کی %m.list"
 
 msgid "join %s %s"
-msgstr ""
+msgstr "جوڑیں %s %s"
 
 msgid "key %m.key pressed?"
-msgstr ""
+msgstr "چابی %m.key دب گیٔ؟"
 
 msgid "length of %m.list"
-msgstr ""
+msgstr "طول %m.list"
 
 msgid "length of %s"
-msgstr ""
+msgstr "طوالت %s"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "حرف %n کا %s"
 
 msgid "Looks"
-msgstr ""
+msgstr "مظاهر"
 
 msgid "loudness"
-msgstr ""
+msgstr "بلندی صوت"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "مزید ڈبے"
 
 msgid "Motion"
-msgstr ""
+msgstr "حركت"
 
 msgid "mouse down?"
-msgstr ""
+msgstr "ماوٰس نیچے ہے؟"
 
 msgid "mouse x"
-msgstr ""
+msgstr "ماوٰس س"
 
 msgid "mouse y"
-msgstr ""
+msgstr "ماوٰس ص"
 
 msgid "move %n steps"
-msgstr ""
+msgstr "چلو %n قدم"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr ""
+msgstr "اگلا پس منظر"
 
 msgid "next costume"
-msgstr ""
+msgstr "اگلا لباس"
 
 msgid "not %b"
-msgstr ""
+msgstr "نہیں%b"
 
 msgid "Operators"
-msgstr ""
+msgstr "عاملین"
 
 msgid "Pen"
-msgstr ""
+msgstr "قلم"
 
 msgid "pen down"
-msgstr ""
+msgstr "قلم نیچے"
 
 msgid "pen up"
-msgstr ""
+msgstr "قلم اوپر"
 
 msgid "pick random %n to %n"
-msgstr ""
+msgstr "کویٰ بھی اٹھاوٰ%nکی طرف%n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr ""
+msgstr "ڈھول بجاوٰ%d.drum تاآںکہ %nٹلے"
 
 msgid "play note %d.note for %n beats"
-msgstr ""
+msgstr "سر بجاوٰ%d.note تاآںکہ %nسر"
 
 msgid "play sound %m.sound"
-msgstr ""
+msgstr "موسیقی چلاوٰ %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr ""
+msgstr "موسیقی چلاوٰ %m.sound تااختتام"
 
 msgid "point in direction %d.direction"
-msgstr ""
+msgstr "اشارہ برخ %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr ""
+msgstr "اشارہ بطرف %d.direction"
 
 msgid "repeat %n"
-msgstr ""
+msgstr "دہراوٰ %n"
 
 msgid "repeat until %b"
-msgstr ""
+msgstr "دہراوٰ تاآنکہ %n"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr ""
+msgstr "بدلو شے%d.listItem کی%d.listItem سے %s"
 
 msgid "reset timer"
-msgstr ""
+msgstr "گھڑی واپس"
 
 msgid "rest for %n beats"
-msgstr ""
+msgstr "رکو%n سر"
 
 msgid "round %n"
-msgstr ""
+msgstr "گول%n"
 
 msgid "say %s"
-msgstr ""
+msgstr "کہیے%s"
 
 msgid "say %s for %n secs"
-msgstr ""
+msgstr "کہیے%s براےٰ %n سیکنڈ"
 
 msgid "Sensing"
-msgstr ""
+msgstr "تحسیس"
 
 msgid "sensor %m.booleanSensor?"
-msgstr ""
+msgstr "آلہ محسوسہ %m.booleanSensor؟"
 
 msgid "set %m.effect effect to %n"
-msgstr ""
+msgstr "مقرر%m.effect اثر بحساب %n"
 
 msgid "set %m.var to %s"
-msgstr ""
+msgstr "مقرر %m.varکو%s"
 
 msgid "set instrument to %d.instrument"
-msgstr ""
+msgstr "مقررآلہ%d.instrument"
 
 msgid "set motor direction %m.motorDirection"
-msgstr ""
+msgstr "مقررسمت موتر%m.motorDirection"
 
 msgid "set motor power %n"
-msgstr ""
+msgstr "مقرر موتر طاقت%n"
 
 msgid "set pen color to %c"
-msgstr ""
+msgstr "مقرررنگ قلم%c"
 
 msgid "set pen color to %n"
-msgstr ""
+msgstr "مقرررنگ قلم%n"
 
 msgid "set pen shade to %n"
-msgstr ""
+msgstr "مقررظل قلم%n"
 
 msgid "set pen size to %n"
-msgstr ""
+msgstr "مقررحجم القلم%n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "مقرر طرزگردش%m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr ""
+msgstr "مقررحجم القلم %n%"
 
 msgid "set tempo to %n bpm"
-msgstr ""
+msgstr "مقرررفتار n % bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "مقرر ویڈیو شفافیت %n%"
 
 msgid "set volume to %n%"
-msgstr ""
+msgstr "مقررحجم صوت %n%"
 
 msgid "set x to %n"
-msgstr ""
+msgstr "مقرر س%n"
 
 msgid "set y to %n"
-msgstr ""
+msgstr "مقرر ص%n"
 
 msgid "show"
-msgstr ""
+msgstr "دکھاوٰ"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "فہرست دکھاوٰ%m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "متغیردکھاوٰ %m.var"
 
 msgid "size"
-msgstr ""
+msgstr "سائز"
 
 msgid "Sound"
-msgstr ""
+msgstr "آواز"
 
 msgid "stamp"
-msgstr ""
+msgstr "مہر"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "روک%m.stop"
 
 msgid "stop all sounds"
-msgstr ""
+msgstr "تمام آوازیں روک دو"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "سوئچ پس منظر%m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "سوئچ پس منظر%m.backdropاورانتظارکرو"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "سوئچ لباس %m.costume"
 
 msgid "tempo"
-msgstr ""
+msgstr "رفتار"
 
 msgid "think %s"
-msgstr ""
+msgstr "سوچےٰ%s"
 
 msgid "think %s for %n secs"
-msgstr ""
+msgstr "سوچےٰ%sبراےٰ%n سیکنڈ"
 
 msgid "tilt"
-msgstr ""
+msgstr "إمالہ"
 
 msgid "timer"
-msgstr ""
+msgstr "گھڑی"
 
 msgid "touching %m.touching?"
-msgstr ""
+msgstr "چھورہاہے%m.touching؟"
 
 msgid "touching color %c?"
-msgstr ""
+msgstr "رنگ چھورہاہے%c؟"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "مڑو@turnLeft %nدرجہ"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "مڑو@turnRight %nدرجہ"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "موٹربند"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "موٹرچلاوٰ"
 
 msgid "turn motor on for %n secs"
-msgstr ""
+msgstr "موٹرچلاوٰبراےٰ%nسیکنڈ"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "ویڈیوچلاوٰ%m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "اسم"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "ویڈیو%m.videoMotionTypeپر%m.stageOrThis"
 
 msgid "volume"
-msgstr ""
+msgstr "حجم صوت"
 
 msgid "wait %n secs"
-msgstr ""
+msgstr "انتظارکرو%n سیکنڈ"
 
 msgid "wait until %b"
-msgstr ""
+msgstr "انتظارکروتاآنکہ%b"
 
 msgid "when %m.booleanSensor"
-msgstr ""
+msgstr "جب%m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr ""
+msgstr "جب%m.key چابی دبے"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "جب %m.triggerSensor  > %n"
 
 msgid "when @greenFlag clicked"
-msgstr ""
+msgstr "جب @greenFlag دبے"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "جب پس منظر تبدیل ہو%m.backdrop"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "جب فاصلہ  < %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "جب مجھے ملے%m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "جب میں بطورجنس شروع کروں"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "جب یہ بھوت دبے"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "جب جھکاوٰ= %n"
 
 msgid "x position"
-msgstr ""
+msgstr "س کی جگہ"
 
 msgid "y position"
-msgstr ""
+msgstr "ص کی جگہ"
