@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:53+0200\n"
-"PO-Revision-Date: 2013-06-29 06:35+0200\n"
+"PO-Revision-Date: 2014-04-01 10:54+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -18,8 +18,8 @@ msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
-"<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されません(削除され"
-"ます)。<br>詳細な情報は <a href= target=>クラウドデータFAQを読んでください!</a>"
+"<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されていないため、削"
+"除されます<br>詳細な情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
 
 msgid "A connected"
 msgstr "Aがつながれた"
@@ -121,6 +121,8 @@ msgstr "バスーン"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
+"Scratchの新しいアカウントを使用していますので、クラウド・データへの変更は保存できません。このまま使用してください。すぐにクラウド・データを使用す"
+"ることができるようになります。"
 
 msgid "Bitmap"
 msgstr "ビットマップ"
@@ -216,7 +218,7 @@ msgid "Claves"
 msgstr "クラーベ"
 
 msgid "cleanup"
-msgstr ""
+msgstr "きれいにする"
 
 msgid "Clear"
 msgstr "消す"
@@ -391,15 +393,14 @@ msgid "Erase"
 msgstr "消す"
 
 # 92%
-#, fuzzy
 msgid "Eraser width"
-msgstr "消しゴムの幅:"
+msgstr "消しゴムの幅"
 
 msgid "Error!"
-msgstr ""
+msgstr "エラー !"
 
 msgid "export"
-msgstr ""
+msgstr "書き出し"
 
 msgid "fade in"
 msgstr "フェードイン"
@@ -438,7 +439,7 @@ msgid "Flying"
 msgstr "飛ぶ"
 
 msgid "Font:"
-msgstr ""
+msgstr "フォント:"
 
 msgid "For all sprites"
 msgstr "すべてのスプライト用"
@@ -474,7 +475,7 @@ msgid "hide"
 msgstr "隠す"
 
 msgid "High C"
-msgstr ""
+msgstr "高いド"
 
 msgid "hour"
 msgstr "時"
@@ -483,7 +484,6 @@ msgid "Human"
 msgstr "人"
 
 # 83%
-#, fuzzy
 msgid "import"
 msgstr "読み込み"
 
@@ -503,7 +503,7 @@ msgid "Instruments"
 msgstr "楽器"
 
 msgid "large readout"
-msgstr ""
+msgstr "大きな表示"
 
 msgid "last"
 msgstr "最後"
@@ -518,7 +518,7 @@ msgid "left-right"
 msgstr "左右のみ"
 
 msgid "length"
-msgstr ""
+msgstr "長さ"
 
 msgid "Library"
 msgstr "ライブラリ"
@@ -533,9 +533,8 @@ msgid "Line"
 msgstr "直線"
 
 # 90%
-#, fuzzy
 msgid "Line width"
-msgstr "線の幅:"
+msgstr "線の幅"
 
 msgid "list"
 msgstr "リスト"
@@ -559,7 +558,7 @@ msgid "loudness"
 msgstr "音量"
 
 msgid "Low C"
-msgstr ""
+msgstr "低いド"
 
 msgid "Make a Block"
 msgstr "ブロックを作る"
@@ -586,10 +585,10 @@ msgid "message1"
 msgstr "メッセージ1"
 
 msgid "Microphone Volume:"
-msgstr ""
+msgstr "マイクの音量:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "真ん中のド"
 
 msgid "Min"
 msgstr "最小値"
@@ -670,13 +669,13 @@ msgid "No motion blocks"
 msgstr "動きのブロックはありません"
 
 msgid "normal readout"
-msgstr ""
+msgstr "普通の表示"
 
 msgid "Not saved; network or server problem."
 msgstr "保存できません。ネットワークかサーバーに問題があります。"
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "保存できません。プロジェクトが読み込まれていません。"
 
 msgid "of"
 msgstr "の"
@@ -685,7 +684,7 @@ msgid "off"
 msgstr "切"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "オフライン・エディター"
 
 msgid "OK"
 msgstr "OK"
@@ -761,7 +760,7 @@ msgid "Profile"
 msgstr "プロフィール"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "プロジェクトが読み込まれていません。"
 
 msgid "Project not saved!"
 msgstr "作品は保存されていません!"
@@ -896,7 +895,7 @@ msgid "Set Costume Center"
 msgstr "コスチュームの中心を設定"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "スライダーの最小値と最大値を設定"
 
 msgid "Share"
 msgstr "共有"
