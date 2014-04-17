@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 20:55+0200\n"
-"PO-Revision-Date: 2014-04-09 09:22+0200\n"
-"Last-Translator: lokar <matija.lokar@fmf.uni-lj.si>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2014-04-17 00:19+0200\n"
+"Last-Translator: Matija.Lokar@fmf.uni-lj.si\n"
+"Language-Team: FMF <Matija.Lokar@fmf.uni-lj.si>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,10 +18,12 @@ msgid "10 ^"
 msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+###ED, 12.4. dogovorili smo se, da bomo uporabnike tikali, zato sem popravili poglejte v poglej oz. oglej
+### poleg tega sem številke spremenila v števila
 msgstr ""
-"<b>Informacije o spremenljivkah v oblaku</b><br>&nbsp;<br>Sedaj so podprte "
-"samo številke<br>Klepetalnice niso dovoljene in bodo odstranjene<br>Za več "
-"informacij <a href= target=>poglejte FAQ !</a>"
+"<b>Informacije o spremenljivkah v oblaku</b><br>&nbsp;<br>Trenutno so podprta "
+"samo števila<br>Klepetalnice niso dovoljene in bodo odstranjene<br>Za več "
+"informacij <a href= target=>si oglej Pogosta vprašanja o podatkih o podatkih v oblaku!</a>"
 
 msgid "A connected"
 msgstr "A se je pridružil"
@@ -30,15 +32,22 @@ msgid "a copy of the project file on your computer."
 msgstr "kopija projektne datoteke na tvojem računalniku."
 
 msgid "abs"
-msgstr "abs"
+### msgstr "abs"
+### Mogoče otrokom več pomeni "absolutna vrednost" (ali pa tudi ne...)
+msgstr "absolutna vrednost"
 
 msgid "Account settings"
 msgstr "Nastavitve računa"
 
 msgid "acos"
-msgstr "acos"
+### msgstr "acos"
+### Mislin, da se pri nas uporablja arc cos (vsaj mi smo tako pisali
+### v srednji šoli)
+###ED, 12.4. mislim, da se piše skupaj
+msgstr "arccos"
 
 msgid "Add boolean input:"
+###ED, 12.4. so tu mišljeni Boolovi logični operatorji?
 msgstr "Dodaj logični vnos:"
 
 msgid "add comment"
@@ -60,7 +69,9 @@ msgid "all"
 msgstr "vse"
 
 msgid "all around"
-msgstr "vsepovsod"
+### msgstr "vsepovsod"
+### Gre za to, kam se obrača (nikamor, levo-desno, na vse strani)
+msgstr "na vse strani"
 
 msgid "Animal"
 msgstr "Žival"
@@ -69,13 +80,15 @@ msgid "Animals"
 msgstr "Živali"
 
 msgid "asin"
-msgstr "asin"
+### msgstr "asin"
+msgstr "arcsin"
 
 msgid "assets loaded"
 msgstr "naloženih vsebin"
 
 msgid "atan"
-msgstr "atan"
+### msgstr "atan"
+msgstr "arctan"
 
 msgid "B connected"
 msgstr "B se je pridružil"
@@ -108,7 +121,9 @@ msgid "Backdrops"
 msgstr "Ozadja"
 
 msgid "Backpack"
-msgstr "Nahrbtnik"
+###ED, 12.4. prevajamo kot 'shramba'
+###msgstr "Nahrbtnik"
+msgstr "Shramba"
 
 msgid "Bass"
 msgstr "Bas"
@@ -120,10 +135,12 @@ msgid "Bassoon"
 msgstr "Fagot"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+### "Scratch račun" sem spremenil v "račun Scratch".
+### Lahko tudi "račun na Scratchu"
 msgstr ""
-"Ker imate nov Scratch račun, spremembe podatkov v oblaku še ne bodo "
-"shranjene. Sodelujte še naprej na spletni strani in podatke v oblaku boste "
-"lahko kmalu uporabljali!"
+"Ker imaš nov račun Scratch, spremembe podatkov v oblaku še ne bodo "
+"shranjene. Sodeluj še naprej na spletni strani in podatke v oblaku boš "
+"lahko kmalu uporabljal!"
 
 msgid "Bitmap"
 msgstr "Bitna slika"
@@ -150,16 +167,19 @@ msgid "Brush"
 msgstr "Čopič"
 
 msgid "button pressed"
-msgstr "gumb je pritisnjen"
+### msgstr "gumb pritisnjen"
+msgstr "tipka pritisnjena"
 
 msgid "by"
-msgstr "za"
+###msgstr "za"
+msgstr "od"
+
 
 msgid "bytes loaded"
 msgstr "naloženih bajtov"
 
 msgid "C connected"
-msgstr "C povezan"
+msgstr "C se je pridružil"
 
 msgid "Cabasa"
 msgstr "Ropotulja kabasa"
@@ -174,10 +194,13 @@ msgid "Cancel"
 msgstr "Prekliči"
 
 msgid "Cannot Delete"
-msgstr "Ne morem zbrisati"
+###ED, 12.4.
+###msgstr "Ne morem zbrisati"
+msgstr "Ne more biti izbrisano"
 
 msgid "Can’t find network connection or reach server."
-msgstr "Ne najdem internetne povezave ali se ne morem povezati s strežnikom."
+### msgstr "Ne najdem internetne povezave ali se ne morem povezati s strežnikom."
+msgstr "Ne morem se povezati s spletnim strežnikom."
 
 msgid "Castle"
 msgstr "Grad"
@@ -186,7 +209,8 @@ msgid "Category"
 msgstr "Kategorija"
 
 msgid "ceiling"
-msgstr "strop"
+### msgstr "strop"
+msgstr "gornji približek"
 
 msgid "Cello"
 msgstr "Čelo"
@@ -228,7 +252,8 @@ msgid "clear senders/receivers"
 msgstr "pobriši pošiljatelje/prejemnike"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr "Klikni    za ponovni poskus ali    za shranjevanje"
+### msgstr "Klikni   Shrani takoj   za ponovni poskus ali   Prenesi   za shranjevanje"
+msgstr "Klikni "Shrani takoj" za ponovni poskus ali "Prenesi" za shranjevanje"
 
 msgid "Close"
 msgstr "Zapri"
@@ -252,7 +277,8 @@ msgid "Conga"
 msgstr "Konga bobni"
 
 msgid "Connecting to Cloud data server..."
-msgstr "Povezujem se s podatki v oblaku..."
+### msgstr "Povezujem se s podatki v oblaku..."
+msgstr "Povezujem se s strežnikom za podatke v oblaku..."
 
 msgid "Convert to bitmap"
 msgstr "Pretvori v bitno sliko"
@@ -269,7 +295,6 @@ msgstr "kopija"
 msgid "Copying..."
 msgstr "Kopiram..."
 
-# 75%
 msgid "cos"
 msgstr "cos"
 
@@ -310,14 +335,16 @@ msgid "Creating..."
 msgstr "Ustvarjam..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr "Trenutno lahko v oblačne spremenljivke shranite samo številke."
+###msgstr "Trenutno lahko v oblačne spremenljivke shranite samo številke."
+###ED, 12. 4. cloud variables = spremenljivke v oblaku
+msgstr "Trenutno so lahko v spremenljivkah v oblaku shranjena le števila."
 
 msgid "cut"
 msgstr "izreži"
 
 # 90%
 msgid "D connected"
-msgstr "D je povezan"
+msgstr "D se je pridružil"
 
 msgid "date"
 msgstr "datum"
@@ -325,7 +352,6 @@ msgstr "datum"
 msgid "day of week"
 msgstr "dan v tednu"
 
-# 83%
 msgid "Delete"
 msgstr "Izbriši"
 
@@ -342,7 +368,10 @@ msgid "direction:"
 msgstr "smer:"
 
 msgid "don't rotate"
-msgstr "ne vrti"
+###msgstr "ne vrti"
+###ED, 12.4. predlagam
+msgstr "ne zasukaj"
+
 
 msgid "down"
 msgstr "dol"
@@ -396,7 +425,8 @@ msgid "Erase"
 msgstr "Zradiraj"
 
 msgid "Eraser width"
-msgstr "Velikost radirke"
+### msgstr "Velikost radirke"
+msgstr "Širina radirke"
 
 msgid "Error!"
 msgstr "Napaka!"
@@ -405,7 +435,9 @@ msgid "export"
 msgstr "izvozi"
 
 msgid "fade in"
-msgstr "vglasi (fade in)"
+### msgstr "vglasi (fade in)"
+### JC, 8.4. Pravilno slovensko je "uglasi"
+msgstr "uglasi (fade in)"
 
 msgid "fade out"
 msgstr "izzveni (fade out)"
@@ -432,7 +464,8 @@ msgid "Flip up-down"
 msgstr "Prezrcali gor-dol"
 
 msgid "floor"
-msgstr "tla"
+### msgstr "tla"
+msgstr "spodnji približek"
 
 msgid "Flute"
 msgstr "Flavta"
@@ -485,7 +518,6 @@ msgstr "ura"
 msgid "Human"
 msgstr "Človek"
 
-# 83%
 msgid "import"
 msgstr "uvozi"
 
@@ -499,7 +531,9 @@ msgid "Indoors"
 msgstr "Notranjost"
 
 msgid "Installing..."
-msgstr "Nameščam..."
+###msgstr "Nameščam..."
+###ED, 12.4. predlagam
+msgstr "Nameščanje..."
 
 msgid "Instruments"
 msgstr "Glasbila"
@@ -529,15 +563,18 @@ msgid "light"
 msgstr "nepoudarjeno"
 
 msgid "limit reached"
-msgstr "dosežena omejitev"
+###msgstr "dosežena omejitev"
+###ED, 12.4.
+msgstr "meja je dosežena"
 
 msgid "Line"
 msgstr "Črta"
 
 msgid "Line width"
-msgstr "Širina črte"
+### msgstr "Širina črte:"
+### JC, 8.4. Predlagam "Debelina črte:", da bo konsistentno z "Debelina radirke"
+msgstr "Debelina črte:"
 
-# 75%
 msgid "list"
 msgstr "seznam"
 
@@ -545,7 +582,7 @@ msgid "List name"
 msgstr "Ime seznama"
 
 msgid "ln"
-msgstr "ln"
+msgstr "V"
 
 msgid "Loading project..."
 msgstr "Nalagam projekt..."
@@ -581,7 +618,8 @@ msgid "meow"
 msgstr "mijav"
 
 msgid "Message Name"
-msgstr "Ime sporočila"
+### msgstr "Ime sporočila"
+msgstr "Sporočilo"
 
 msgid "message1"
 msgstr "sporočilo1"
@@ -602,6 +640,7 @@ msgid "month"
 msgstr "mesec"
 
 msgid "mosaic"
+### msgstr "kvadriraj"
 msgstr "mozaik"
 
 msgid "motion"
@@ -626,7 +665,8 @@ msgid "My Stuff"
 msgstr "Moje Stvari"
 
 msgid "myself"
-msgstr "jaz"
+### msgstr "jaz"
+msgstr "sebe"
 
 msgid "Nature"
 msgstr "Narava"
@@ -635,13 +675,15 @@ msgid "New"
 msgstr "Nov"
 
 msgid "New backdrop from camera"
-msgstr "Novo ozadje iz fotoaparata"
+###msgstr "Novo ozadje iz fotoaparata"
+###ED, 12.4. camera = kamera
+msgstr "Novo ozadje iz kamere"
 
 msgid "New backdrop:"
 msgstr "Novo ozadje:"
 
 msgid "New costume from camera"
-msgstr "Nov videz iz fotoaparata"
+msgstr "Nov videz iz kamere"
 
 msgid "New costume:"
 msgstr "Nov videz:"
@@ -659,7 +701,7 @@ msgid "New sound:"
 msgstr "Nov zvok:"
 
 msgid "New sprite from camera"
-msgstr "Nova figura iz fotoaparata"
+msgstr "Nova figura iz kamere"
 
 msgid "New sprite:"
 msgstr "Nova figura:"
@@ -677,31 +719,38 @@ msgid "Not saved; network or server problem."
 msgstr "Ni bilo shranjeno; napaka v omrežju ali na strežniku."
 
 msgid "Not saved; project did not load."
-msgstr "Ni shranjeno, projekt se ni naložil."
+### msgstr "Ni shranjeno, projekt se ni naložil."
+msgstr "Ni shranjeno; projekt se ni naložil."
 
 msgid "of"
 msgstr "od"
 
 msgid "off"
-msgstr "izključeno"
+### Glej blocks.po, reč se nanaša na motorje
+### msgstr "izključen"
+msgstr "izključi"
 
 msgid "Offline Editor"
-msgstr "Urejevalnik brez povezave"
+msgstr "Urejevalnik brez povezave v internet"
 
 msgid "OK"
 msgstr "V redu"
 
 msgid "on"
-msgstr "vključeno"
+### Glej blocks.po, reč se nanaša na motorje
+### msgstr "vključen"
+msgstr "vključi"
 
 msgid "on-flipped"
 msgstr "prezrcali"
 
 msgid "Open Cuica"
-msgstr "Odprta Cuica"
+###msgstr "Odprta Cuica"
+###ED, 12.4. tu verjetno mišljeno odpri
+msgstr "Odpri boben Cuica"
 
 msgid "Open Hi-Hat"
-msgstr "Odprta Hi-Hat činela"
+msgstr "Odpri činelo Hi-Hat"
 
 msgid "Options"
 msgstr "Možnosti"
@@ -713,12 +762,15 @@ msgid "Other"
 msgstr "Drugo"
 
 msgid "other scripts in sprite"
-msgstr "druge skripte v figuri"
+### msgstr "druge skripte v figuri"
+###ED, 12.4.: other = ostale
+msgstr "ostale skripte figure"
 
 msgid "Outdoors"
 msgstr "Zunanjost"
 
 msgid "Paint new backdrop"
+###ED,12.4. paint = naslikaj / nariši ?
 msgstr "Nariši novo ozadje"
 
 msgid "Paint new costume"
@@ -749,22 +801,29 @@ msgid "Pick up color"
 msgstr "Izberi barvo"
 
 msgid "pixelate"
-msgstr "kvadriraj"
+###msgstr "mozaik"
+msgstr "pikseliraj"
 
 msgid "Pizzicato"
 msgstr "Godalo Pizzicato"
 
 msgid "pop"
-msgstr "poberi s sklada"
+### Ne vem... če ne vedo, kaj je sklad - je boljše
+### razložiti ali zamolčati? 
+### msgstr "poberi s sklada"
+msgstr "poberi"
 
 msgid "Profile"
-msgstr "Oris"
+###msgstr "Oris"
+###ED, 12.4.  prevajamo kar profil
+msgstr: "Profil"
 
 msgid "Project did not load."
 msgstr "Projekt se ni naložil."
 
 msgid "Project not saved!"
 msgstr "Projekt se ni shranil!"
+###ED,12.4. projekt ni bil shranjen
 
 msgid "random"
 msgstr "naključno"
@@ -781,7 +840,6 @@ msgstr "posnetek1"
 msgid "Rectangle"
 msgstr "Pravokotnik"
 
-# 75%
 msgid "Redo"
 msgstr "Uveljavi"
 
@@ -801,7 +859,8 @@ msgid "rename variable"
 msgstr "preimenuj spremenljivko"
 
 msgid "requires sign in"
-msgstr "potrebna je prijava"
+### msgstr "potrebna je prijava"
+msgstr "zahteva prijavo"
 
 msgid "Reshape"
 msgstr "Preoblikuj"
@@ -834,7 +893,11 @@ msgid "right arrow"
 msgstr "puščica desno"
 
 msgid "rotation style:"
-msgstr "način obračanja:"
+### msgstr "način obračanja:"
+###msgstr "slog obračanja:"
+### (ni pa bistvene razlike)
+###ED, 12.4. v blocks.poo je prevedeno način vrtenja
+msgstr "način vrtenja:"
 
 msgid "Run without screen refresh"
 msgstr "Izvajaj brez osveževanja zaslona"
@@ -846,7 +909,7 @@ msgid "Save as a copy"
 msgstr "Shrani kot kopijo"
 
 msgid "Save now"
-msgstr "Shrani zdaj"
+msgstr "Shrani takoj"
 
 msgid "save to local file"
 msgstr "shrani v datoteko na računalniku"
@@ -855,10 +918,13 @@ msgid "Saved"
 msgstr "Shranjeno"
 
 msgid "Saving changes..."
-msgstr "Shranjujem spremembe..."
+###msgstr "Shranjujem spremembe..."
+###ED, 12.4.
+msgstr "Shranjevanje sprememb..."
 
 msgid "Saving..."
-msgstr "Shranjujem..."
+###msgstr "Shranjujem..."
+msgstr "Shranjevanje..."
 
 msgid "Saxophone"
 msgstr "Saksofon"
@@ -876,7 +942,9 @@ msgid "second"
 msgstr "sekunda"
 
 msgid "See project page"
-msgstr "Glej projektno stran"
+### msgstr "Glej projektno stran"
+### JC, 8.4. Predlagam: "Glej stran projekta"
+msgstr "Glej stran projekta"
 
 msgid "Select"
 msgstr "Izberi"
@@ -924,16 +992,24 @@ msgid "Shrink"
 msgstr "Skrči"
 
 msgid "Side Stick"
-msgstr "Palica ob strani"
+### msgstr "Palica ob strani"
+###JC, 8.4. Predlagam: "Stranska palica"
+msgstr "Stranska palica"
 
 msgid "Sign in"
-msgstr "Prijava"
+###msgstr "Prjava"
+###ED, 12.4. sign in = vpiši se
+msgstr "Vpiši se"
+
 
 msgid "Sign in to save"
-msgstr "Prijavi se za shranjevanje"
+###msgstr "Prijavi se za shranjevanje"
+###ED, 12.4. če želiš shraniti, se vpiši
+msgstr "Za shranjevanje se vpiši"
 
 msgid "Sign out"
-msgstr "Odjava"
+###msgstr "Odjava"
+msgstr "Izpiši se"
 
 msgid "silence"
 msgstr "tišina"
@@ -951,13 +1027,17 @@ msgid "Slider Range"
 msgstr "Obseg drsnika"
 
 msgid "Small stage layout"
-msgstr "Razpored z malim odrom"
+###msgstr "Razpored z malim odrom"
+###ED, 12.4.
+msgstr "Postavitev malega odra"
 
 msgid "Smooth"
 msgstr "Gladko"
 
 msgid "Snare Drum"
-msgstr "Snare boben"
+### msgstr "Snare boben"
+### JC, 8.4. V slovarju "Mali boben"
+msgstr "Mali boben"
 
 msgid "softer"
 msgstr "tišje"
@@ -975,23 +1055,22 @@ msgid "Sounds"
 msgstr "Zvoki"
 
 msgid "space"
-msgstr "vesolje"
+### msgstr "vesolje"
+msgstr "presledek"
 
-# 80%
 msgid "Space"
-msgstr "Vesolje"
+### msgstr "Vesolje"
+msgstr "Presledek"
 
 msgid "Sports"
 msgstr "Šport"
 
-# 85%
 msgid "Sprite"
 msgstr "Figura"
 
 msgid "Sprite Library"
 msgstr "Knjižnica figur"
 
-# 85%
 msgid "Sprite1"
 msgstr "Figura1"
 
@@ -1000,12 +1079,14 @@ msgstr "Figure"
 
 msgid "sqrt"
 msgstr "sqrt"
+###msgstr "koren"
 
 msgid "Square"
 msgstr "Kvadrat"
 
 msgid "Stage"
-msgstr "Prizorišče"
+###msgstr "Prizorišče"
+msgstr "Oder"
 
 msgid "Stage selected:"
 msgstr "Izbrani oder:"
@@ -1017,7 +1098,8 @@ msgid "stored on server"
 msgstr "shranjeno na strežnik"
 
 msgid "Synth Lead"
-msgstr "Prvi sintetizator"
+### msgstr "Prvi sintetizator"
+msgstr "Vodilni sintetizator"
 
 msgid "Synth Pad"
 msgstr "Sintetizator Pad"
@@ -1032,7 +1114,8 @@ msgid "Text"
 msgstr "Besedilo"
 
 msgid "that way"
-msgstr "v tisto smer"
+### msgstr "v tisto smer"
+msgstr "v to smer"
 
 msgid "Theme"
 msgstr "Tema"
@@ -1042,12 +1125,12 @@ msgstr "Stvari"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Ta projekt lahko s pomočjo bloka \"uporabnikovo ime\" zazna, kdo ga uporablja. "
+"Ta projekt lahko s pomočjo bloka \"uporabniško ime\" zazna, kdo ga uporablja. "
 "Če želiš skriti svojo identiteto, se pred uporabo projekta odjavi."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
-"Ta projekt uporablja oblačne podatke - možnost, ki je na voljo le "
+"Ta projekt uporablja podatke v oblaku - možnost, ki je na voljo le "
 "prijavljenim uporabnikom."
 
 msgid "this script"
@@ -1061,6 +1144,7 @@ msgstr "v to smer"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Ali želiš zavreči vse spremembe, narejene po odpiranju projekta?"
+###ED, 12.4. Jaz bi to skrajšala kar v: ali želiš zavreči vse spremembe?
 
 msgid "timer"
 msgstr "štoparica"
@@ -1069,7 +1153,11 @@ msgid "Tips"
 msgstr "Namigi"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr "Da odstraniš definicijo bloka, najprej odstrani vse uporabe bloka."
+### S tem, ko odstraniš uporabe, še ne odstraniš definicije...
+### msgstr "Da odstraniš definicijo bloka, najprej odstrani vse uporabe bloka."
+### msgstr "Preded odstraniš definicijo bloka, moraš odstraniti vse njegove uporabe."
+### JC, 8.4. Predlagam: "Da bi odstranil definicijo bloka, moraš najprej odstraniti vse pojavitve bloka."
+msgstr "Da bi odstranil definicijo bloka, moraš najprej odstraniti vse pojavitve bloka."
 
 msgid "Transportation"
 msgstr "Prevoz"
@@ -1089,14 +1177,12 @@ msgstr "Hitri način"
 msgid "Type"
 msgstr "Vrsta"
 
-# 75%
 msgid "Undelete"
 msgstr "Povrni izbrisano"
 
 msgid "Underwater"
 msgstr "Pod vodo"
 
-# 75%
 msgid "Undo"
 msgstr "Razveljavi"
 
@@ -1125,7 +1211,9 @@ msgid "Upload costume from file"
 msgstr "Naloži videz iz datoteke"
 
 msgid "Upload from your computer"
-msgstr "Naloži iz računalnika"
+### msgstr "Naloži iz računalnika"
+### JC, 8.4. Predlagam: "Naloži z računalnika", ker je shranjeno NA rač. in ne V rač. 
+msgstr "Naloži z računalnika"
 
 msgid "Upload sound from file"
 msgstr "Naloži zvok iz datoteke"
@@ -1167,7 +1255,8 @@ msgid "Video on:"
 msgstr "Video vklopljen:"
 
 msgid "Vocals"
-msgstr "Vokali"
+### msgstr "Vokali"
+msgstr "Glasovi"
 
 msgid "volume"
 msgstr "glasnost"
@@ -1201,25 +1290,28 @@ msgstr "leto"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
-"Ne moreš urejati oblačnih podatkov v tujem projektu.<br>Vsaka sprememba v "
+"Ne moreš urejati podatkov v oblaku v tujem projektu.<br>Vsaka sprememba v "
 "urejevalniku bo začasna in ne trajna."
 
 msgid "Eraser width:"
-msgstr "Debelina radirke:"
+### msgstr "Debelina radirke:"
+msgstr "Širina radirke:"
 
 msgid "Line width:"
-msgstr "Širina črte:"
+### msgstr "Širina črte:"
+### JC, 8.4. Predlagam "Debelina črte:", da bo konsistentno z "Debelina radirke"
+msgstr "Debelina črte:"
 
-# 90%
-#, fuzzy
 #~ msgid "New sprite"
-#~ msgstr "Nova sličica:"
+#~ msgstr "Nova figura"
 
 #~ msgid "Paint"
-#~ msgstr "Risar"
+#~ msgstr "Slikar"
 
 #~ msgid "any"
-#~ msgstr "katerikoli"
+####~ msgstr "katerikoli"
+###ED, 12. 4. predlagam
+#~ msgstr "poljuben"
 
 #~ msgid "High Tom"
 #~ msgstr "Visoki Tom"
@@ -1237,19 +1329,21 @@ msgstr "Širina črte:"
 #~ msgstr "Nizki Tom"
 
 #~ msgid "Low Wood Block"
-#~ msgstr "Nizki leseni kvader"
+### ED,12.4. #~ msgstr "Nizki leseni kvader"
+#~ msgstr "Nizki leseni blok"
 
 #~ msgid "Maracas"
 #~ msgstr "Marakas"
 
 #~ msgid "More"
-#~ msgstr "več"
+#~ msgstr "Več"
 
 #~ msgid "Mute Triangle"
 #~ msgstr "Nemi triangel"
 
 #~ msgid "Open Triangle"
-#~ msgstr "Odprt Triangel"
+### ED, 12.4. #~ msgstr "Odprt Triangel"
+#~ msgstr "Odpi triangel"
 
 #~ msgid "Pedal Hi-Hat"
 #~ msgstr "Činele s pedalom"

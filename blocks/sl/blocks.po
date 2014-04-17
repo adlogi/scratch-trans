@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-12-08 00:19+0200\n"
-"Last-Translator: juozhe <juozhe@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2014-04-17 00:19+0200\n"
+"Last-Translator: Matija.Lokar@fmf.uni-lj.si\n"
+"Language-Team: FMF <Matija.Lokar@fmf.uni-lj.si>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,6 +13,26 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3);\n"
 "X-Generator: Pootle 2.1.6\n"
+
+
+### JD: Predlagam, da spremenimo bloke, v katere se vstavijo pogoji tako, da
+### - "če je" spremenimo v "če"
+### - "počakaj dokler ni" v "počakaj do takrat, ko"
+### - "ponavljaj, če" v "ponavljaj do takrat, ko"
+### Pogoji se spremenijo tako, da nimajo vprašajev in vsebujejo glagol,
+### na primer
+### - je pritisnjena tipka %s
+### - se barva %c dotika %c
+### Tako se stvari lepše berejo. Prej smo imeli, recimo
+### "počakaj, dokler ni tipka %m.key pritisnjena?" in
+### "počakaj, dokler ni barva %c se dotika %c?", 
+### "če je barva %c se dotika %c? potem"
+### zdaj pa bi imeli
+### "počakaj do takrat, ko je pritisnjena tipka %m.key" in
+### "počakaj do takrat, ko se barva %c dotika %c" in
+### "če barva %c se dotika %c".
+### To je še vedno daleč od Cankarja, je pa po mojem mnenju boljše kot prej.
+
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -31,13 +51,16 @@ msgid "%m.list contains %s"
 msgstr "%m.list vsebuje %s"
 
 msgid "%m.mathOp of %n"
-msgstr "%m.mathOp od %n"
+### msgstr "%m.mathOp od %n"
+### JD: mislim, da se "sin 15" bere lepše kot "sin od 15" 
+msgstr "%m.mathOp %n"
 
 msgid "%m.sensor sensor value"
 msgstr "vrednost tipala %m.sensor"
 
 msgid "%n mod %n"
-msgstr "ostanek %n z %n"
+### msgstr "ostanek %n z %n"
+msgstr "ostanek po deljenju %n z %n"
 
 msgid "add %s to %m.list"
 msgstr "dodaj %s v %m.list"
@@ -75,7 +98,8 @@ msgid "change pen shade by %n"
 msgstr "spremeni senco svinčnika za %n"
 
 msgid "change pen size by %n"
-msgstr "spremeni velikost svinčnika za %n"
+### msgstr "spremeni velikost svinčnika za %n"
+msgstr "spremeni širino svinčnika za %n"
 
 msgid "change size by %n"
 msgstr "spremeni velikost za %n"
@@ -99,7 +123,8 @@ msgid "clear graphic effects"
 msgstr "izbriši slikovne učinke"
 
 msgid "color %c is touching %c?"
-msgstr "barva %c se dotika %c?"
+### msgstr "barva %c se dotika %c?"
+msgstr "se barva %c dotika %c"
 
 msgid "Control"
 msgstr "Krmiljenje"
@@ -117,7 +142,8 @@ msgid "Data"
 msgstr "Podatki"
 
 msgid "days since 2000"
-msgstr "dnevi od leta 2000"
+### msgstr "dnevi od leta 2000"
+msgstr "dni od leta 2000"
 
 msgid "define"
 msgstr "definiraj"
@@ -171,7 +197,11 @@ msgid "hide variable %m.var"
 msgstr "skrij spremenljivko %m.var"
 
 msgid "if %b then"
-msgstr "če je %b potem"
+### msgstr "če je %b potem"
+### Glej komentar na vrhu
+### Alternativa: "če %b, potem"
+msgstr "če %b"
+
 
 msgid "if on edge, bounce"
 msgstr "odbij se, če si na robu"
@@ -186,7 +216,11 @@ msgid "join %s %s"
 msgstr "združi %s %s"
 
 msgid "key %m.key pressed?"
-msgstr "tipka %m.key pritisnjena?"
+### msgstr "tipka %m.key je pritisnjena?"
+### Glej komentar na vrhu strani. Prejšnji prevod je
+### res bližje originalu, vendar predlagani (vsaj v
+### slovenščini) lepše teče.
+msgstr "je pritisnjena tipka %m.key"
 
 msgid "length of %m.list"
 msgstr "dolžina %m.list"
@@ -195,7 +229,10 @@ msgid "length of %s"
 msgstr "dolžina %s"
 
 msgid "letter %n of %s"
-msgstr "%n -ta črka v %s"
+### "%n -ta črka v %s"
+### Problem prejšnjega prevoda je, da dobimo 1 -ta, 2 -ta črka...
+### V predlaganem dobimo 1. črka, 2. črka ...
+msgstr "%n . črka v %s"
 
 msgid "Looks"
 msgstr "Izgled"
@@ -210,7 +247,10 @@ msgid "Motion"
 msgstr "Premikanje"
 
 msgid "mouse down?"
-msgstr "miška pritisnjena?"
+### Glej pripombo na vrhu strani
+### Čeprav je v originalu vprašaj, je po mojem nepotreben
+### msgstr "miška pritisnjena?"
+msgstr "miška pritisnjena"
 
 msgid "mouse x"
 msgstr "miška x"
@@ -244,12 +284,16 @@ msgid "pen up"
 msgstr "dvigni svinčnik"
 
 msgid "pick random %n to %n"
-msgstr "izberi naključno med %n in %n"
+### msgstr "izberi naključno med %n in %n"
+### V prejšnji verziji smo imeli potem pogoje kot npr.
+### "če izberi naključno med 1 in 10 > 7" po predlaganem pa
+### "če naključno število med 1 in 10 > 7"
+### (res pa v tem primeru manjka glagol v pogoju!)
+msgstr "naključno število med %n in %n"
 
 msgid "play drum %d.drum for %n beats"
 msgstr "zaigraj na %d.drum %n udarcev"
 
-# 83%
 msgid "play note %d.note for %n beats"
 msgstr "zaigraj noto %d.note za %n udarcev"
 
@@ -266,10 +310,16 @@ msgid "point towards %m.spriteOrMouse"
 msgstr "obrni se proti %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr "ponovi %n"
+### Stari prevod je bližje originalu, prevod pa je morda jasnejši
+### msgstr "ponovi %n"
+msgstr "ponovi %n-krat"
 
 msgid "repeat until %b"
-msgstr "ponavljaj dokler ni %b"
+### Glej pripombo na vrhu
+### Različica "dokler ni" je sicer lepša, vendar se potem ne
+### da pisati lepih pogojev.
+### msgstr "ponavljaj dokler ni %b"
+msgstr "ponavljaj do takrat, ko %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr "zamenjaj %d.listItem -ti člen v %m.list z %s"
@@ -284,10 +334,12 @@ msgid "round %n"
 msgstr "zaokroži %n"
 
 msgid "say %s"
-msgstr "povej %s"
+### msgstr "povej %s"
+msgstr "reci %s"
 
 msgid "say %s for %n secs"
-msgstr "povej %s za %n sekund"
+### msgstr "povej %s za %n sekund"
+msgstr "reci %s za %n sekund"
 
 msgid "Sensing"
 msgstr "Zaznavanje"
@@ -312,17 +364,22 @@ msgstr "nastavi smer motorja %m.motorDirection"
 msgid "set motor power %n"
 msgstr "nastavi moč motorja %n"
 
-msgid "set pen color to %c"
-msgstr "nastavi barvo svinčnika na %c"
-
 msgid "set pen color to %n"
+msgstr "nastavi barvo svinčnika na %n"
+
+msgid "set pen color to %c"
+### Popravek formatiranja (staro ni delovalo)
+### msgstr "nastavi barvo svinčnika na %n"
 msgstr "nastavi barvo svinčnika na %c"
 
 msgid "set pen shade to %n"
 msgstr "nastavi senco svinčnika na %n"
 
 msgid "set pen size to %n"
-msgstr "nastavi debelino svinčnika na %n"
+### Stari prevod je bil bližje originalu, vendar
+### je predlagani prevod točnejši.
+### msgstr "nastavi širino svinčnika na %n"
+msgstr "nastavi širino svinčnika na %n"
 
 msgid "set rotation style %m.rotationStyle"
 msgstr "nastavi način vrtenja %m.rotationStyle"
@@ -361,13 +418,18 @@ msgid "Sound"
 msgstr "Zvok"
 
 msgid "stamp"
-msgstr "odtis"
+### Po mojem je takole boljše
+### msgstr "odtis"
+msgstr "odtisni"
 
 msgid "stop %m.stop"
 msgstr "ustavi %m.stop"
 
 msgid "stop all sounds"
-msgstr "prekini vse zvoke"
+### V resnici jih najbrž ustavi, ne? (Po prekinitvi se ne
+### morejo več nadaljevati, drži?)
+### msgstr "prekini vse zvoke"
+msgstr "ustavi vse zvoke"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
@@ -396,10 +458,12 @@ msgid "timer"
 msgstr "štoparica"
 
 msgid "touching %m.touching?"
-msgstr "se dotika %m.touching?"
+### msgstr "se dotika %m.touching?"
+msgstr "se dotika %m.touching"
 
 msgid "touching color %c?"
-msgstr "se dotika barve %c?"
+### msgstr "se dotika barve %c?"
+msgstr "se dotika barve %c"
 
 msgid "turn @turnLeft %n degrees"
 msgstr "obrni se za @turnLeft %n stopinj"
@@ -413,14 +477,21 @@ msgstr "ugasni motor"
 msgid "turn motor on"
 msgstr "prižgi motor"
 
-# 80%
 msgid "turn motor on for %n secs"
 msgstr "vključi motor za %n sekund"
 
 msgid "turn video %m.videoState"
-msgstr "prižgi video %m.videoState"
+### %m.videoState je "on" ali "off", tako da dobimo
+### turn video on ali turn video off. V slovenščini
+### smo potem dobili "prižgi video vključen" in
+### "prižgi video vključen". To lahko obrnemo tako,
+### da "on" in "off" prevedemo v "vključi" in "izključi"
+### ter s spodnjim nizom dobimo "vključi video" in
+### "izključi video". To seveda deluje samo, ker se
+### "on" in "off" pojavita samo tu in v tem pomenu.
+### msgstr "prižgi video %m.videoState"
+msgstr "%m.videoState video"
 
-# 88%
 msgid "username"
 msgstr "uporabniško ime"
 
@@ -434,9 +505,8 @@ msgid "wait %n secs"
 msgstr "počakaj %n sekund"
 
 msgid "wait until %b"
-msgstr "počakaj dokler ni %b"
+msgstr "počakaj do takrat, ko %b"
 
-# 75%
 msgid "when %m.booleanSensor"
 msgstr "ko je %m.booleanSensor"
 
@@ -478,7 +548,7 @@ msgstr "položaj y"
 #~ msgstr "ime uporabnika"
 
 #~ msgid "forever if %b"
-#~ msgstr "ponavljaj, če %b"
+#~ msgstr "ponavljaj do takrat, ko %b"
 
 #~ msgid "if %b"
 #~ msgstr "če %b"
@@ -487,10 +557,10 @@ msgstr "položaj y"
 #~ msgstr "smer motorja %m.motorDirection"
 
 #~ msgid "motor off"
-#~ msgstr "izključi motor"
+#~ msgstr "motor izključen"
 
 #~ msgid "motor on"
-#~ msgstr "vključi motor"
+#~ msgstr "motor vključen"
 
 #~ msgid "motor on for %n secs"
 #~ msgstr "vključi motor za %n sekund"
