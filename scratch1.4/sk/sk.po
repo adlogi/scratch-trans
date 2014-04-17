@@ -3,20 +3,19 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-08-16 08:11-0400\n"
-"PO-Revision-Date: 2011-09-16 07:56-0400\n"
-"Last-Translator: Miroslava Drahosova <drahosovam@gmail.com>\n"
+"PO-Revision-Date: 2014-02-27 18:58+0200\n"
+"Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Pootle 1.2.1\n"
+"X-Generator: Pootle 2.1.6\n"
 
 ############################################
 # FORMATTING
 ############################################
-
 # Language name as you'd like it to appear in the Languages menu&amp;amp;amp;lt;br /&amp;amp;amp;gt;&amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
 # &amp;amp;amp;lt;br /&amp;amp;amp;gt;&amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
 # (Required)<br />
@@ -42,7 +41,7 @@ msgstr "LTR"
 # Use this if the font is too small for legibility on the Scratch interface
 # Scale to apply to font size (2 for twice as large)
 msgid "Font-Scale"
-msgstr ""
+msgstr "Mierka písma"
 
 # Set to 'true' or 'false'&amp;amp;amp;amp;lt;br /&amp;amp;amp;amp;gt;&amp;amp;amp;lt;br /&amp;amp;amp;gt;&amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
 # &amp;amp;amp;amp;lt;br /&amp;amp;amp;amp;gt;&amp;amp;amp;lt;br /&amp;amp;amp;gt;&amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
@@ -51,24 +50,23 @@ msgstr ""
 # Use this if you do not want any of the text to be bolded, for legibility
 # Set to 'true' or 'false'
 msgid "Suppress-Bold"
-msgstr ""
+msgstr "Potlačiť tučné"
 
 # Font to use on a Windows system
 msgid "Win-Font"
-msgstr ""
+msgstr "Písmo pre Windows"
 
 # Font to use on a Mac system
 msgid "Mac-Font"
-msgstr ""
+msgstr "Písmo pre Mac"
 
 # Font to use on a Linux system
 msgid "Linux-Font"
-msgstr ""
+msgstr "Písmo pre Linux"
 
 ############################################
 # BLOCKS
 ############################################
-
 # ###########################################
 # BLOCKS
 msgid "%H sensor value"
@@ -283,7 +281,6 @@ msgstr "pero"
 msgid "pen down"
 msgstr "pero dolu"
 
-#, fuzzy
 msgid "pen up"
 msgstr "pero hore"
 
@@ -455,7 +452,6 @@ msgstr "pozícia y"
 ############################################
 # USER INTERFACE
 ############################################
-
 # ###########################################
 # USER INTERFACE
 msgid "(empty)"
@@ -1420,7 +1416,6 @@ msgstr "Oddiaľ"
 # BLOCKS
 # USER INTERFACE
 # MIDI INSTRUMENTS
-
 # ###########################################
 # MIDI INSTRUMENTS
 msgid "Accordion"

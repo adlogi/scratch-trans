@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-09-19 03:48-0400\n"
-"PO-Revision-Date: 2013-12-29 15:07+0200\n"
+"PO-Revision-Date: 2014-02-09 11:44+0200\n"
 "Last-Translator: Emmanuella Pramudita <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -149,7 +149,7 @@ msgstr "bersihkan semua efek grafik"
 
 # simpler
 msgid "color %C is touching %C?"
-msgstr "warna %C menyentuh %C?"
+msgstr "warna %C menyentuh warna %C?"
 
 msgid "control"
 msgstr "kontrol"
@@ -443,7 +443,7 @@ msgstr "menyentuh warna %C?"
 
 # corrected
 msgid "turn %n degrees"
-msgstr "belok %n derajat"
+msgstr "putar %n derajat"
 
 msgid "variables"
 msgstr "variabel"
