@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:21+0200\n"
 "PO-Revision-Date: 2014-02-12 00:47+0200\n"
 "Last-Translator: Emmanuella Pramudita <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -209,7 +209,7 @@ msgstr "kekerasan suara"
 msgid "More Blocks"
 msgstr "Custom Blok"
 
-# Do you forgot to use capitals? 
+# Do you forgot to use capitals?
 msgid "Motion"
 msgstr "Gerakan"
 
@@ -308,9 +308,15 @@ msgstr "set %m.var ke %s"
 msgid "set instrument to %d.instrument"
 msgstr "set alat musik ke %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "atur arah motor %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -412,6 +418,15 @@ msgstr "putar @turnLeft %n derajat"
 msgid "turn @turnRight %n degrees"
 msgstr "putar @turnRight %n derajat"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "matikan motor"
 
@@ -454,9 +469,13 @@ msgstr "ketika %m.triggerSensor > %n"
 msgid "when @greenFlag clicked"
 msgstr "ketika @greenFlag diklik"
 
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 # If we can keep it simple, just keep it simple. ~R
 msgid "when backdrop switches to %m.backdrop"
 msgstr "ketika latar menjadi %m.backdrop"
+
+msgid "when distance %m.lessMore %n"
+msgstr ""
 
 msgid "when distance < %n"
 msgstr "ketika jarak < %n"
@@ -469,6 +488,9 @@ msgstr "ketika aku mulai sebagai clone"
 
 msgid "when this sprite clicked"
 msgstr "ketika sprite ini diklik"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "ketika miring = %n"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2013-05-02 20:29+0200\n"
 "Last-Translator: Григорій <ggromko@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -304,9 +304,15 @@ msgstr "встановити %m.var в %s"
 msgid "set instrument to %d.instrument"
 msgstr "задати інструмент %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 100%
 msgid "set motor direction %m.motorDirection"
 msgstr "напрям двигуна %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -407,6 +413,15 @@ msgstr "поворот @turnLeft %n градусів"
 msgid "turn @turnRight %n degrees"
 msgstr "поворот @turnRight %n градусів"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "вимкнути двигун"
 
@@ -453,6 +468,9 @@ msgstr "коли натиснуто @greenFlag"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "коли тло зміниться на %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "коли відстань < %n"
 
@@ -464,6 +482,9 @@ msgstr "коли я починаю як клон"
 
 msgid "when this sprite clicked"
 msgstr "коли спрайт натиснуто"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "коли нахил = %n"

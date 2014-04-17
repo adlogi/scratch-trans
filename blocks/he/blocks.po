@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scratch Hebrew Version 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:21+0200\n"
 "PO-Revision-Date: 2013-05-30 14:18+0200\n"
 "Last-Translator: MotiB <moti.ben.ari@gmail.com>\n"
 "Language-Team: Scratch Hebrew Translators <moti.ben.ari@gmail.com>\n"
@@ -302,8 +302,14 @@ msgstr "קבע %m.var ל %s"
 msgid "set instrument to %d.instrument"
 msgstr "קבע כלי נגינה ל %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 msgid "set motor direction %m.motorDirection"
 msgstr "קבע כיוון מנוע ל %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 msgid "set motor power %n"
 msgstr "קבע עוצמת מנוע ל %n"
@@ -403,6 +409,15 @@ msgstr "הסתובב @turnLeft %n מעלות"
 msgid "turn @turnRight %n degrees"
 msgstr "הסתובב @turnRight %n מעלות"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "כבה מנוע"
 
@@ -447,6 +462,9 @@ msgstr "כאשר לוחצים על  @greenFlag  "
 msgid "when backdrop switches to %m.backdrop"
 msgstr "כאשר הרקע משתנה ל %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "כאשר מרחק > %n"
 
@@ -458,6 +476,9 @@ msgstr "כשאני מופעל ככפיל"
 
 msgid "when this sprite clicked"
 msgstr "כאשר לוחצים על דמות זו"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "כאשר הטיה = %n"

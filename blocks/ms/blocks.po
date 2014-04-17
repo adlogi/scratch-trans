@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2013-05-02 00:56+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -306,10 +306,16 @@ msgstr "tetapkan %m.var kepada %n"
 msgid "set instrument to %d.instrument"
 msgstr "tetapkan instrumen kepada %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 #, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "arah motor %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 #, fuzzy
@@ -411,6 +417,15 @@ msgstr ""
 msgid "turn @turnRight %n degrees"
 msgstr ""
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr ""
 
@@ -458,6 +473,9 @@ msgstr "bila @greenFlag diklik"
 msgid "when backdrop switches to %m.backdrop"
 msgstr ""
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr ""
 
@@ -468,6 +486,9 @@ msgid "when I start as a clone"
 msgstr ""
 
 msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt %m.eNe %n"
 msgstr ""
 
 msgid "when tilt = %n"

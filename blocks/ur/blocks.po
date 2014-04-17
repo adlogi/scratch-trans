@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-14 14:16+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2014-03-22 13:09+0200\n"
 "Last-Translator: abdul <mscs13011@itu.edu.pk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,8 +303,14 @@ msgstr "مقرر %m.varکو%s"
 msgid "set instrument to %d.instrument"
 msgstr "مقررآلہ%d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 msgid "set motor direction %m.motorDirection"
 msgstr "مقررسمت موتر%m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 msgid "set motor power %n"
 msgstr "مقرر موتر طاقت%n"
@@ -404,6 +410,15 @@ msgstr "مڑو@turnLeft %nدرجہ"
 msgid "turn @turnRight %n degrees"
 msgstr "مڑو@turnRight %nدرجہ"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "موٹربند"
 
@@ -447,6 +462,9 @@ msgstr "جب @greenFlag دبے"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "جب پس منظر تبدیل ہو%m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "جب فاصلہ  < %n"
 
@@ -458,6 +476,9 @@ msgstr "جب میں بطورجنس شروع کروں"
 
 msgid "when this sprite clicked"
 msgstr "جب یہ بھوت دبے"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "جب جھکاوٰ= %n"

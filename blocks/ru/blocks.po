@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2014-03-29 03:23+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -304,9 +304,15 @@ msgstr "задать %m.var значение %s"
 msgid "set instrument to %d.instrument"
 msgstr "выбрать инструмент %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "направление мотора %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -407,6 +413,15 @@ msgstr "повернуть @turnLeft на %n градусов"
 msgid "turn @turnRight %n degrees"
 msgstr "повернуть @turnRight на %n градусов"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "выключить мотор"
 
@@ -452,6 +467,9 @@ msgstr "когда щелкнут по @greenFlag"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "когда фон меняется на %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "когда расстояние < %n"
 
@@ -463,6 +481,9 @@ msgstr "когда я начинаю как клон"
 
 msgid "when this sprite clicked"
 msgstr "когда спрайт нажат"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "когда наклон = %n"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2013-02-02 22:24+0200\n"
 "Last-Translator: craftsmaster <pornieks@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,8 +303,14 @@ msgstr "iestatīt %m.var uz %s"
 msgid "set instrument to %d.instrument"
 msgstr "iestatīt instrumentu uz %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 msgid "set motor direction %m.motorDirection"
 msgstr "iestatīt motora virzienu uz %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 msgid "set motor power %n"
 msgstr "iestatīt motora jaudu %n"
@@ -404,6 +410,15 @@ msgstr "pagriezties @turnLeft pa %n grādiem"
 msgid "turn @turnRight %n degrees"
 msgstr "pagriezties @turnRigth pa %n grādiem"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "izslēgt motoru"
 
@@ -447,6 +462,9 @@ msgstr "kad nospiests @greenFlag"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "kad fons nomainās uz %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "kad attālums < %n"
 
@@ -458,6 +476,9 @@ msgstr ""
 
 msgid "when this sprite clicked"
 msgstr "kad uzklikšķināts uz šī gariņa"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "kad noliekts = %n"

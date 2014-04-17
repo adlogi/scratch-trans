@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-19 20:53+0200\n"
+"POT-Creation-Date: 2013-08-01 08:55+0200\n"
 "PO-Revision-Date: 2014-01-20 08:34+0200\n"
 "Last-Translator: janggoons <janggoons@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,10 @@ msgid "10 ^"
 msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-msgstr "<b>클라우드 변수 정보</b><br>&nbsp;<br>현재, 스크래치 웹사이트 회원만 사용할 수 있습니다.<br>채팅방은 현재 허용되지 않으며, 조만간 없어질 예정입니다.<br>관련 정보는, <a href=\"/help/faq/#clouddata\" target=\"_blank\">cloud data FAQ!</a> 를 참고하세요!"
+msgstr ""
+"<b>클라우드 변수 정보</b><br>&nbsp;<br>현재, 스크래치 웹사이트 회원만 사용할 수 있습니다.<br>채팅방은 현재 허용되지 "
+"않으며, 조만간 없어질 예정입니다.<br>관련 정보는, <a href=\"/help/faq/#clouddata\" "
+"target=\"_blank\">cloud data FAQ!</a> 를 참고하세요!"
 
 msgid "A connected"
 msgstr "A 연결됨"
@@ -58,6 +61,9 @@ msgstr "모두"
 
 msgid "all around"
 msgstr "회전하기"
+
+msgid "all motors"
+msgstr ""
 
 msgid "Animal"
 msgstr "동물"
@@ -607,6 +613,15 @@ msgstr "모자이크"
 msgid "motion"
 msgstr "동작"
 
+msgid "motor"
+msgstr ""
+
+msgid "motor A"
+msgstr ""
+
+msgid "motor B"
+msgstr ""
+
 msgid "mouse-pointer"
 msgstr "마우스 포인터"
 
@@ -672,6 +687,9 @@ msgstr "사용 가능한 동작 블럭이 없습니다."
 
 msgid "normal readout"
 msgstr "변수이름-변수값 보기"
+
+msgid "not ="
+msgstr ""
 
 msgid "Not saved; network or server problem."
 msgstr "네트워크 또는 서버 문제로 저장되지 않음."
@@ -1043,7 +1061,9 @@ msgid "Things"
 msgstr "물건"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
-msgstr "이 프로젝트에는 당신이 누구인지 알 수 있는 \"사용자이름\" 블록이 사용되었습니다. 당신의 계정이름을 숨기고 싶다면, 이 프로젝트를 시작하기 전에 로그아웃 하세요."
+msgstr ""
+"이 프로젝트에는 당신이 누구인지 알 수 있는 \"사용자이름\" 블록이 사용되었습니다. 당신의 계정이름을 숨기고 싶다면, 이 프로젝트를 "
+"시작하기 전에 로그아웃 하세요."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr "이 프로젝트는 클라우드 데이터를 사용합니다. - 로그인한 사용자만 실행할 수 있습니다."
@@ -1199,7 +1219,9 @@ msgid "year"
 msgstr "년"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
-msgstr "다른사람의 프로젝트에 있는 클라우드 데이터는 편집할 수 없습니다.<br>이에 편집기안에서의 모든 변경사항은 임시적이고  영구적이지 않습니다."
+msgstr ""
+"다른사람의 프로젝트에 있는 클라우드 데이터는 편집할 수 없습니다.<br>이에 편집기안에서의 모든 변경사항은 임시적이고  영구적이지 "
+"않습니다."
 
 msgid "Eraser width:"
 msgstr "지우개 크기:"

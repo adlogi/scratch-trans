@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
-"PO-Revision-Date: 2013-05-02 00:55+0200\n"
+"POT-Creation-Date: 2014-04-18 00:20+0200\n"
+"PO-Revision-Date: 2014-04-18 00:24+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -305,8 +305,18 @@ msgid "set instrument to %d.instrument"
 msgstr "اجعل الآلة هي %d.instrument"
 
 # 89%
+# 86%
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr "اجعل اتجاه %m.motor %m.motorDirection"
+
+# 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "اجعل اتجاه المحرك %m.motorDirection"
+
+# 77%
+# 75%
+msgid "set %m.motor power to %n"
+msgstr "اجعل طاقة %m.motor مساويةً %n"
 
 # 77%
 msgid "set motor power %n"
@@ -410,6 +420,19 @@ msgstr "استدر @turnLeft %n درجة"
 msgid "turn @turnRight %n degrees"
 msgstr "استدر @turnRight %n درجة"
 
+# 82%
+msgid "turn %m.motor off"
+msgstr "أوقف %m.motor"
+
+# 81%
+msgid "turn %m.motor on"
+msgstr "شغِّل %m.motor"
+
+# 80%
+# 89%
+msgid "turn %m.motor on for %n secs"
+msgstr "شغِّل %m.motor لمدة %n ثانية"
+
 msgid "turn motor off"
 msgstr "أوقف المحرك"
 
@@ -456,6 +479,9 @@ msgstr "عند نقر @greenFlag"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "عندما تتغير الخلفية إلى %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr "عندما المسافة %m.lessMore %n"
+
 msgid "when distance < %n"
 msgstr "عندما المسافة > %n"
 
@@ -467,6 +493,9 @@ msgstr "عندما تبدأ نسخة مني"
 
 msgid "when this sprite clicked"
 msgstr "عند نقر هذا الكائن"
+
+msgid "when tilt %m.eNe %n"
+msgstr "عندما الميل %m.eNe %n"
 
 msgid "when tilt = %n"
 msgstr "عندما الميل = %n"

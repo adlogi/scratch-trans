@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:21+0200\n"
 "PO-Revision-Date: 2014-02-06 02:02+0200\n"
 "Last-Translator: timsk3 <translate_scratch@timsk.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,9 +303,15 @@ msgstr "valorigi %m.var al %s"
 msgid "set instrument to %d.instrument"
 msgstr "valorigi instrumenton al %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "valorigi motordirekton al %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -406,6 +412,15 @@ msgstr "turni @turnLeft je %n gradoj"
 msgid "turn @turnRight %n degrees"
 msgstr "turni @turnRight je %n gradoj"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "malŝalti motoron"
 
@@ -451,6 +466,9 @@ msgstr "kiam @greenFlag estas alklakita"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "kiam fono ŝanĝiĝas al %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "kiam distanco < %n"
 
@@ -462,6 +480,9 @@ msgstr "kiam mi komenciĝas kiel klono"
 
 msgid "when this sprite clicked"
 msgstr "kiam tiu ĉi rolulo estas alklakita"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "kiam klino = %n"

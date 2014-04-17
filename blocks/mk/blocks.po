@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2014-02-21 10:06+0200\n"
 "Last-Translator: Linda <lfahlberg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,9 +303,15 @@ msgstr "намести %m.var на %n"
 msgid "set instrument to %d.instrument"
 msgstr "намести го инструментот %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "намести насока на моторот %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -406,6 +412,15 @@ msgstr "заврти @на лево за %n степени"
 msgid "turn @turnRight %n degrees"
 msgstr "заврти @на десно за %n степени"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "исклучи го моторот"
 
@@ -451,6 +466,9 @@ msgstr "кога @зеленоЗнаме е кликнато"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "кога позадината е заменета со %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "кога растојанието < %n"
 
@@ -462,6 +480,9 @@ msgstr "кога ке започнам како клон"
 
 msgid "when this sprite clicked"
 msgstr "кога фигурата е притисната"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "кога наклонот = %n"

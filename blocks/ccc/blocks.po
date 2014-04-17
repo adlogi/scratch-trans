@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-27 00:04+0200\n"
+"POT-Creation-Date: 2014-04-18 00:21+0200\n"
 "PO-Revision-Date: 2014-03-28 18:44+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -301,7 +301,13 @@ msgstr ""
 msgid "set instrument to %d.instrument"
 msgstr ""
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 msgid "set motor direction %m.motorDirection"
+msgstr ""
+
+msgid "set %m.motor power to %n"
 msgstr ""
 
 msgid "set motor power %n"
@@ -402,6 +408,15 @@ msgstr ""
 msgid "turn @turnRight %n degrees"
 msgstr ""
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr ""
 
@@ -445,6 +460,9 @@ msgstr "when @greenFlag meowed"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "when meow meows to %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "when meow < %n"
 
@@ -456,6 +474,9 @@ msgstr "when I meow as a meow"
 
 msgid "when this sprite clicked"
 msgstr "when this sprite meowed"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "when meow = %n"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-13 19:14+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2014-02-20 04:44+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,8 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.1.6\n"
 
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR Zuza Software Foundation (Translate.org.za)
 # The language name as it will appear in the language menu
 msgid "Language-Name"
 msgstr ""
@@ -50,12 +48,10 @@ msgid "ask %s and wait"
 msgstr "%s అడిగి, వేచియుండు"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #, fuzzy
 msgid "backdrop #"
 msgstr "వెనుకస్థలం/పరస్థలం/వెనుకతెర #"
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr ""
@@ -226,7 +222,6 @@ msgid "move %n steps"
 msgstr "%n అడుగులు జరుగు"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #, fuzzy
 msgid "next backdrop"
 msgstr "తదుపరి - వెనుకవుండేది"
@@ -309,7 +304,13 @@ msgstr "%m.var లో %n ను పెట్టు"
 msgid "set instrument to %d.instrument"
 msgstr "%d.instrument కు పరికరాన్ని పెట్టు"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 msgid "set motor direction %m.motorDirection"
+msgstr ""
+
+msgid "set %m.motor power to %n"
 msgstr ""
 
 msgid "set motor power %n"
@@ -373,11 +374,9 @@ msgid "stop all sounds"
 msgstr "అన్నీ శబ్దాలు నిలుపు"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
 msgstr ""
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
 msgstr ""
@@ -410,6 +409,15 @@ msgid "turn @turnLeft %n degrees"
 msgstr ""
 
 msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
 msgstr ""
 
 msgid "turn motor off"
@@ -452,8 +460,10 @@ msgid "when @greenFlag clicked"
 msgstr "@greenFlag ఒత్తినప్పుడు"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance %m.lessMore %n"
 msgstr ""
 
 msgid "when distance < %n"
@@ -466,6 +476,9 @@ msgid "when I start as a clone"
 msgstr ""
 
 msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt %m.eNe %n"
 msgstr ""
 
 msgid "when tilt = %n"

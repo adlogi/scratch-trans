@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:21+0200\n"
 "PO-Revision-Date: 2013-05-07 11:17+0200\n"
 "Last-Translator: Alisha <panjwani.alisha@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,9 +303,15 @@ msgstr "%n पर %m.var सेट करे"
 msgid "set instrument to %d.instrument"
 msgstr "%d.instrument पर साधन सेट करे"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "मोटर की दिशा %m.motorDirection पर सेट करे"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -408,6 +414,15 @@ msgstr "@turnLeft %n डिग्री से घूम जाए"
 msgid "turn @turnRight %n degrees"
 msgstr "@turnRight %n डिग्री से घूम जाए"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "मोटर बंद करें"
 
@@ -453,6 +468,9 @@ msgstr "जब @greenFlag क्लिक किया गया हो"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "जब पृष्ठभूमि % m.backdrop में बदल जाए"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "जब दूरी< %n"
 
@@ -464,6 +482,9 @@ msgstr "मेरे एक क्लोन के रूप में शुर
 
 msgid "when this sprite clicked"
 msgstr "इस स्प्राईट को क्लिक करने पर"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "जब झुकाव = %n"

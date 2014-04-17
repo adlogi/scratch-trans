@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2014-03-06 11:47+0200\n"
 "Last-Translator: Midhila <midhila.p.2011@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -302,8 +302,14 @@ msgstr "ചരം %m നെ %s ആക്കി മാറ്റുക"
 msgid "set instrument to %d.instrument"
 msgstr "സംഗീതോപകരണത്തെ %d ആക്കി മാറ്റുക"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 msgid "set motor direction %m.motorDirection"
 msgstr "മോട്ടോറിന്‍റെ ദിശ %m ആക്കുക"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 msgid "set motor power %n"
 msgstr "മോട്ടോറിന്‍റെ പവര്‍ %n ആക്കുക"
@@ -404,6 +410,15 @@ msgstr "ഇടത്തോട്ടു %n തിരിയുക"
 msgid "turn @turnRight %n degrees"
 msgstr "വലത്തോട്ടു %n തിരിയുക"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "മോട്ടോര്‍ ഓഫ്‌ ആക്കുക"
 
@@ -447,6 +462,9 @@ msgstr "ഗ്രീന്‍ ഫ്ലാഗ് ക്ലിക്ക് ചെ
 msgid "when backdrop switches to %m.backdrop"
 msgstr "രംഗം %m ലേക്ക് മാറുമ്പോള്‍"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "ദൂരം < %n ആവുമ്പോള്‍"
 
@@ -458,6 +476,9 @@ msgstr "ക്ലോണായി തുടങ്ങുമ്പോള്‍"
 
 msgid "when this sprite clicked"
 msgstr "ഈ സ്പ്രയ്റ്റിനെ ക്ലിക്ക് ചെയ്യുമ്പോള്‍"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "ചെരിവ് = %n ആവുമ്പോള്‍"

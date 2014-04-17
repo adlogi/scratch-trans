@@ -287,7 +287,13 @@ msgstr ""
 msgid "set instrument to %d.instrument"
 msgstr ""
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 msgid "set motor direction %m.motorDirection"
+msgstr ""
+
+msgid "set %m.motor power to %n"
 msgstr ""
 
 msgid "set motor power %n"
@@ -388,6 +394,15 @@ msgstr ""
 msgid "turn @turnRight %n degrees"
 msgstr ""
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr ""
 
@@ -431,6 +446,9 @@ msgstr ""
 msgid "when backdrop switches to %m.backdrop"
 msgstr ""
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr ""
 
@@ -441,6 +459,9 @@ msgid "when I start as a clone"
 msgstr ""
 
 msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt %m.eNe %n"
 msgstr ""
 
 msgid "when tilt = %n"

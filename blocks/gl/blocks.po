@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:21+0200\n"
 "PO-Revision-Date: 2014-02-17 00:40+0200\n"
 "Last-Translator: Manuel <mcaeiror@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,8 +303,14 @@ msgstr "fixar %m.var a %s"
 msgid "set instrument to %d.instrument"
 msgstr "escoller o instrumento %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 msgid "set motor direction %m.motorDirection"
 msgstr "fixar dirección do motor %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 msgid "set motor power %n"
 msgstr "fixar potencia do motor a %n"
@@ -404,6 +410,15 @@ msgstr "xirar @turnLeft %n grados"
 msgid "turn @turnRight %n degrees"
 msgstr "xirar @turnRight %n grados"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "apagar motor"
 
@@ -448,6 +463,9 @@ msgstr "ao premer @greenFlag"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "cando o fondo cambie a %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "cando a distancia sexa < %n"
 
@@ -459,6 +477,9 @@ msgstr "cando comence como clon"
 
 msgid "when this sprite clicked"
 msgstr "ao premer este obxecto"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "cando a pendente = %n"

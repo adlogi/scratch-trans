@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2013-04-27 14:51+0200\n"
 "Last-Translator: Ye Kyaw Thu <wasedakuma@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,10 +305,16 @@ msgstr "%m.var ကို %n အဖြစ် သတ်မှတ်"
 msgid "set instrument to %d.instrument"
 msgstr "တူရိယာ ကို %d.instrument အဖြစ် သတ်မှတ်"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 #, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "မော်တာရဲ့ လည်ပတ်မှု့ကို %m.motorDirection အဖြစ်ထား"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 #, fuzzy
@@ -410,6 +416,15 @@ msgstr "@turnLeft %n ဒီဂရီ လှည့်"
 msgid "turn @turnRight %n degrees"
 msgstr "@turnLeft %n ဒီဂရီ လှည့်"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "မော်တာကို ပိတ်"
 
@@ -459,6 +474,9 @@ msgstr "@greenFlag ကို ကလစ် နှိပ်ခဲ့ရင်"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "နောက်ခံက %m.backdrop အဖြစ် ပြောင်းတဲ့အခါ"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "distance < %n ဖြစ်တဲ့ အခါ"
 
@@ -470,6 +488,9 @@ msgstr "ပုံတူပွားထားသူ အဖြစ် စတဲ့�
 
 msgid "when this sprite clicked"
 msgstr "ဒီ ဇာတ်ကောင်က ကလစ်အနှိပ် ခံရတဲ့အခါ"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "စောင်းတဲ့ ပမာဏ = %n ဖြစ်တဲ့အခါ"

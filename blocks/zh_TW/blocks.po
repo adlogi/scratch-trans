@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:57+0200\n"
+"POT-Creation-Date: 2014-04-18 00:23+0200\n"
 "PO-Revision-Date: 2014-02-17 04:50+0200\n"
 "Last-Translator: Chao-Hsiung <pesder@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,9 +303,15 @@ msgstr "將變數 %m.var 的值設為 %s"
 msgid "set instrument to %d.instrument"
 msgstr "設定樂器為 %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "設定馬達運轉方向 %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -406,6 +412,15 @@ msgstr "將 @turnLeft 轉 %n 度"
 msgid "turn @turnRight %n degrees"
 msgstr "將 @turnRight 轉 %n 度"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "關閉馬達"
 
@@ -451,6 +466,9 @@ msgstr "當 @greenFlag 被點一下"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "當背景切換為 %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "當距離 < %n"
 
@@ -462,6 +480,9 @@ msgstr "當分身產生時"
 
 msgid "when this sprite clicked"
 msgstr "當角色被點一下"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "當傾斜度 = %n"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2013-05-16 12:48+0200\n"
 "Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -318,9 +318,15 @@ msgstr "%m.var =  %s"
 msgid "set instrument to %d.instrument"
 msgstr "instrumentas = %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "variklio kryptis = %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -422,6 +428,15 @@ msgstr "pasisuk @turnLeft %n °"
 msgid "turn @turnRight %n degrees"
 msgstr "pasisuk @turnRight %n °"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "išjunk variklį"
 
@@ -468,6 +483,9 @@ msgstr "Kai paspausta @greenFlag"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "Kai fonas keičiasi į %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "Kai atstumas < %n"
 
@@ -479,6 +497,9 @@ msgstr "Kai pradedu veikti kaip klonas"
 
 msgid "when this sprite clicked"
 msgstr "Kai spusteli veikėją"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "Kai pasvirimas = %n"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-29 16:07+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2014-04-07 18:21+0200\n"
 "Last-Translator: Fabrizio <utalabi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -302,8 +302,14 @@ msgstr "pone %m.var a %s"
 msgid "set instrument to %d.instrument"
 msgstr "sèbera s'aina %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 msgid "set motor direction %m.motorDirection"
 msgstr "diretzione de su motore a %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 msgid "set motor power %n"
 msgstr "potèntzia de su motore a %n"
@@ -403,6 +409,15 @@ msgstr "gira @turnLeft de %n grados"
 msgid "turn @turnRight %n degrees"
 msgstr "gira @turnRight de %n grados"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "istuda su motore"
 
@@ -446,6 +461,9 @@ msgstr "cando si carcat @greenFlag"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "cando su fundale càmbiat a %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "cando su tretu < %n"
 
@@ -457,6 +475,9 @@ msgstr "cando comintzo che clonadu"
 
 msgid "when this sprite clicked"
 msgstr "cando si carcat custu duendu"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "cando s'incurvadura = %n"

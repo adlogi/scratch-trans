@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-19 20:51+0200\n"
+"POT-Creation-Date: 2013-08-01 08:55+0200\n"
 "PO-Revision-Date: 2013-11-08 00:22+0200\n"
 "Last-Translator: Gloria Elena <formacion@eduteka.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,6 +62,9 @@ msgstr "todos"
 # Se refiere al estilo de rotación, que puede ser fijo, en dos direcciones o todas
 msgid "all around"
 msgstr "en todas direcciones"
+
+msgid "all motors"
+msgstr ""
 
 msgid "Animal"
 msgstr "Animal"
@@ -607,6 +610,15 @@ msgstr "mosaico"
 msgid "motion"
 msgstr "movimiento"
 
+msgid "motor"
+msgstr ""
+
+msgid "motor A"
+msgstr ""
+
+msgid "motor B"
+msgstr ""
+
 msgid "mouse-pointer"
 msgstr "puntero del ratón"
 
@@ -672,6 +684,9 @@ msgstr "No existen bloques de movimiento"
 
 msgid "normal readout"
 msgstr "tamaño normal"
+
+msgid "not ="
+msgstr ""
 
 msgid "Not saved; network or server problem."
 msgstr "No se guardó; problema de red o del servidor."

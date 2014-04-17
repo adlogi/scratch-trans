@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:21+0200\n"
 "PO-Revision-Date: 2013-07-05 01:27+0200\n"
 "Last-Translator: Stavros Rafael <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,9 +303,15 @@ msgstr "όρισε το %m.var σε %s"
 msgid "set instrument to %d.instrument"
 msgstr "όρισε το μουσικό όργανο σε %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -406,6 +412,15 @@ msgstr "στρίψε @turnLeft %n μοίρες"
 msgid "turn @turnRight %n degrees"
 msgstr "στρίψε @turnRight %n μοίρες"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "απενεργοποίησε τον κινητήρα"
 
@@ -451,6 +466,9 @@ msgstr "Όταν στο @greenFlag γίνει κλίκ"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "Όταν το υπόβαθρο αλλάξει σε %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "Όταν η απόσταση < %n"
 
@@ -462,6 +480,9 @@ msgstr "Όταν ξεκινήσει ο κλώνος"
 
 msgid "when this sprite clicked"
 msgstr "Όταν σε αυτό το αντικείμενο γίνει κλικ"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "Όταν η κλίση = %n"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:21+0200\n"
 "PO-Revision-Date: 2014-02-13 14:54+0200\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,9 +303,15 @@ msgstr "%m.var legyen %s"
 msgid "set instrument to %d.instrument"
 msgstr "hangszer legyen %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "set motor direction %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -406,6 +412,15 @@ msgstr "fordulj @turnLeft %n fokot"
 msgid "turn @turnRight %n degrees"
 msgstr "fordulj @turnRight %n fokot"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "turn motor off"
 
@@ -451,6 +466,9 @@ msgstr "@greenFlag-ra kattintáskor"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "%m.backdrop háttérre váltáskor"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "when distance < %n"
 
@@ -462,6 +480,9 @@ msgstr "másolatként kezdéskor"
 
 msgid "when this sprite clicked"
 msgstr "e szereplőre kattintáskor"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "when tilt = %n"

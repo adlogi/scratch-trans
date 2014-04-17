@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2013-07-28 16:44+0200\n"
 "Last-Translator: ehermann <everton.hermann@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,9 +303,15 @@ msgstr "mude %m.var para %s"
 msgid "set instrument to %d.instrument"
 msgstr "use o instrumento %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "use a direção do motor %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -407,6 +413,15 @@ msgstr "gire @turnLeft %n graus"
 msgid "turn @turnRight %n degrees"
 msgstr "gire @turnRight %n graus"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "desligue o motor"
 
@@ -453,6 +468,9 @@ msgstr "quando clicar em @greenFlag"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "quando o pano de fundo mudar para %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "quando a distância for < %n"
 
@@ -464,6 +482,9 @@ msgstr "quando este ator começar como clone"
 
 msgid "when this sprite clicked"
 msgstr "quando este ator for clicado"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "quando a inclinação for = %n"

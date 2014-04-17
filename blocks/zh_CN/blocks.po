@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:57+0200\n"
+"POT-Creation-Date: 2014-04-18 00:23+0200\n"
 "PO-Revision-Date: 2013-05-23 05:01+0200\n"
 "Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,9 +303,15 @@ msgstr "将 %m.var 设定为 %s"
 msgid "set instrument to %d.instrument"
 msgstr "设定乐器为 %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "马达转动方向设定为 %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -406,6 +412,15 @@ msgstr "向左旋转 @turnLeft %n 度"
 msgid "turn @turnRight %n degrees"
 msgstr "向右旋转 @turnRight %n 度"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "关闭马达"
 
@@ -451,6 +466,9 @@ msgstr "当 @greenFlag 被点击"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "当背景切换到 %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "当距离 < %n"
 
@@ -462,6 +480,9 @@ msgstr "当作为克隆体启动时"
 
 msgid "when this sprite clicked"
 msgstr "当角色被点击时"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "当倾角 = %n"

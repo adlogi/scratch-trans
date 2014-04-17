@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:21+0200\n"
 "PO-Revision-Date: 2013-08-01 00:32+0200\n"
 "Last-Translator: zeta11 <tajana.toto@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -221,6 +221,7 @@ msgstr "miš y"
 msgid "move %n steps"
 msgstr "idi %n koraka"
 
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "sljedeća pozadina"
 
@@ -302,9 +303,15 @@ msgstr "postavi %m.var na %s"
 msgid "set instrument to %d.instrument"
 msgstr "postavi instrument na %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "postavi smjer motora %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -371,6 +378,7 @@ msgstr "tišina"
 msgid "switch backdrop to %m.backdrop"
 msgstr "promijeni pozadinu na %m.backdrop"
 
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
 msgstr "promijeni pozadinu na %m.backdrop i pričekajte"
 
@@ -403,6 +411,15 @@ msgstr "skreni @turnLeft %n stupnjeva"
 
 msgid "turn @turnRight %n degrees"
 msgstr "skreni @turnRight %n stupnjeva"
+
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
 
 msgid "turn motor off"
 msgstr "isključi motor"
@@ -443,8 +460,12 @@ msgstr "kada je %m.triggerSensor > %n"
 msgid "when @greenFlag clicked"
 msgstr "kada je @greenFlag kliknut"
 
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
 msgstr "kada se pozadina mijenja u %m.backdrop"
+
+msgid "when distance %m.lessMore %n"
+msgstr ""
 
 msgid "when distance < %n"
 msgstr "kada je udaljenost < %n"
@@ -458,6 +479,9 @@ msgstr "kada krećem kao klon"
 msgid "when this sprite clicked"
 msgstr "kada je lik kliknut"
 
+msgid "when tilt %m.eNe %n"
+msgstr ""
+
 msgid "when tilt = %n"
 msgstr "kad je nagib = %n"
 
@@ -467,26 +491,26 @@ msgstr "x položaj"
 msgid "y position"
 msgstr "y položaj"
 
-msgid "forever if %b"
-msgstr "ponavljaj ako je %b"
+#~ msgid "forever if %b"
+#~ msgstr "ponavljaj ako je %b"
 
-msgid "if %b"
-msgstr "ako je %b"
+#~ msgid "if %b"
+#~ msgstr "ako je %b"
 
-msgid "motor direction %m.motorDirection"
-msgstr "smjer motora %m.motorDirection"
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "smjer motora %m.motorDirection"
 
-msgid "motor off"
-msgstr "upali motor"
+#~ msgid "motor off"
+#~ msgstr "upali motor"
 
-msgid "motor on"
-msgstr "ugasi motor"
+#~ msgid "motor on"
+#~ msgstr "ugasi motor"
 
-msgid "motor on for %n secs"
-msgstr "upali motor na %n sekunda"
+#~ msgid "motor on for %n secs"
+#~ msgstr "upali motor na %n sekunda"
 
-msgid "motor power %n"
-msgstr "snaga motora %n"
+#~ msgid "motor power %n"
+#~ msgstr "snaga motora %n"
 
-msgid "play note %n for %n beats"
-msgstr "sviraj notu %d.note %n puta"
+#~ msgid "play note %n for %n beats"
+#~ msgstr "sviraj notu %d.note %n puta"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-19 20:55+0200\n"
+"POT-Creation-Date: 2013-08-01 08:55+0200\n"
 "PO-Revision-Date: 2013-08-04 12:13+0200\n"
 "Last-Translator: ehermann <everton.hermann@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,6 +61,9 @@ msgstr "todos"
 
 msgid "all around"
 msgstr "em todas as direções"
+
+msgid "all motors"
+msgstr ""
 
 msgid "Animal"
 msgstr "Animal"
@@ -606,6 +609,15 @@ msgstr "mosaico"
 msgid "motion"
 msgstr "movimento"
 
+msgid "motor"
+msgstr ""
+
+msgid "motor A"
+msgstr ""
+
+msgid "motor B"
+msgstr ""
+
 msgid "mouse-pointer"
 msgstr "ponteiro do mouse"
 
@@ -671,6 +683,9 @@ msgstr "Não há blocos de movimento"
 
 msgid "normal readout"
 msgstr "normal"
+
+msgid "not ="
+msgstr ""
 
 msgid "Not saved; network or server problem."
 msgstr "Impossível salvar: problema de rede ou de servidor."
@@ -1213,11 +1228,9 @@ msgstr ""
 "alteração que faça no editor será temporária e não persistente."
 
 # 92%
-# 92%
 msgid "Eraser width:"
 msgstr "Espessura da borracha:"
 
-# 90%
 # 90%
 msgid "Line width:"
 msgstr "Espessura da linha:"

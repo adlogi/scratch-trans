@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-29 06:40+0200\n"
+"POT-Creation-Date: 2014-04-18 00:22+0200\n"
 "PO-Revision-Date: 2014-02-27 22:33+0200\n"
 "Last-Translator: c.bajada <claudebajada@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -310,8 +310,14 @@ msgstr "qieghed %m.var għal %s"
 msgid "set instrument to %d.instrument"
 msgstr ""
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 msgid "set motor direction %m.motorDirection"
 msgstr "qiegħed id-direzzjoni tal-mutur %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 msgid "set motor power %n"
 msgstr ""
@@ -412,6 +418,15 @@ msgstr "dawwar @turnLeft %n gradi"
 msgid "turn @turnRight %n degrees"
 msgstr "dawwar @turnRight %n gradi"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "itfi il-mutur"
 
@@ -456,6 +471,9 @@ msgstr "meta @greenFlag tingħafas"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "meta l'isfond jaqleb ghal %m.backdrop"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "meta id-distanza < %n"
 
@@ -466,6 +484,9 @@ msgid "when I start as a clone"
 msgstr ""
 
 msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt %m.eNe %n"
 msgstr ""
 
 msgid "when tilt = %n"

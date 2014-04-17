@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-02 00:56+0200\n"
+"POT-Creation-Date: 2014-04-18 00:21+0200\n"
 "PO-Revision-Date: 2013-09-04 23:31+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -311,9 +311,15 @@ msgstr "setze %m.var auf %s"
 msgid "set instrument to %d.instrument"
 msgstr "setze Instrument auf %d.instrument"
 
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr ""
+
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "setze Motordrehung %m.motorDirection"
+
+msgid "set %m.motor power to %n"
+msgstr ""
 
 # 77%
 msgid "set motor power %n"
@@ -415,6 +421,15 @@ msgstr "drehe dich @turnLeft um %n Grad"
 msgid "turn @turnRight %n degrees"
 msgstr "drehe dich @turnRight um %n Grad"
 
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
 msgid "turn motor off"
 msgstr "schalte Motor aus"
 
@@ -461,6 +476,9 @@ msgstr "Wenn @greenFlag angeklickt"
 msgid "when backdrop switches to %m.backdrop"
 msgstr "Wenn das Bühnenbild zu %m.backdrop wechselt"
 
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
 msgid "when distance < %n"
 msgstr "Wenn Abstand < %n"
 
@@ -472,6 +490,9 @@ msgstr "Wenn ich als Klon entstehe"
 
 msgid "when this sprite clicked"
 msgstr "Wenn ich angeklickt werde"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
 
 msgid "when tilt = %n"
 msgstr "Wenn Neigung = %n"
