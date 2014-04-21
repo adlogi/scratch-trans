@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-04-14 17:03+0200\n"
+"PO-Revision-Date: 2014-04-21 22:19+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -29,6 +29,12 @@ msgstr "A angeschlossen"
 msgid "a copy of the project file on your computer."
 msgstr "eine Kopie der Projektdatei auf deinem Rechner."
 
+msgid "About"
+msgstr "Info"
+
+msgid "About LEGO WeDo extension..."
+msgstr "Über die LEGO-WeDo-Erweiterung..."
+
 msgid "abs"
 msgstr "Betrag"
 
@@ -37,6 +43,9 @@ msgstr "Kontoeinstellungen"
 
 msgid "acos"
 msgstr "acos"
+
+msgid "Add an Extension"
+msgstr "Erweiterung hinzufügen"
 
 # 90%
 msgid "Add boolean input:"
@@ -67,7 +76,7 @@ msgid "all around"
 msgstr "rundherum"
 
 msgid "all motors"
-msgstr ""
+msgstr "alle Motoren"
 
 msgid "Animal"
 msgstr "Tier"
@@ -426,6 +435,12 @@ msgstr "Fehler!"
 msgid "export"
 msgstr "Exportieren"
 
+msgid "Extension Library"
+msgstr "Erweiterungsbibliothek"
+
+msgid "Extension Problem"
+msgstr "Erweiterungsproblem"
+
 # sounds->effects
 msgid "fade in"
 msgstr "einblenden"
@@ -497,6 +512,9 @@ msgstr "Gitarre"
 msgid "Hand Clap"
 msgstr "Klatschen"
 
+msgid "Hardware"
+msgstr "Hardware"
+
 # sollte als Menüeintrag 'Verstecken' sein, kollidiert aber mit hide in blocks.po
 #, fuzzy
 msgid "hide"
@@ -545,6 +563,9 @@ msgstr "Pfeil nach links"
 # Drehtyp
 msgid "left-right"
 msgstr "links-rechts"
+
+msgid "LEGO WeDo"
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "Länge"
@@ -638,13 +659,13 @@ msgid "motion"
 msgstr "Bewegung"
 
 msgid "motor"
-msgstr ""
+msgstr "Motor"
 
 msgid "motor A"
-msgstr ""
+msgstr "Motor A"
 
 msgid "motor B"
-msgstr ""
+msgstr "Motor B"
 
 msgid "mouse-pointer"
 msgstr "Mauszeiger"
@@ -718,7 +739,7 @@ msgid "normal readout"
 msgstr "Normale Anzeigengröße"
 
 msgid "not ="
-msgstr ""
+msgstr "nicht ="
 
 msgid "Not saved; network or server problem."
 msgstr "Nicht gespeichert: Netzwerk- oder Server-Problem"
@@ -846,6 +867,9 @@ msgstr "Remixen"
 msgid "Remixing..."
 msgstr "Erstelle Remix..."
 
+msgid "Remove extension blocks"
+msgstr "Erweiterungsblöcke entfernen"
+
 msgid "Rename"
 msgstr "Umbenennen"
 
@@ -931,6 +955,11 @@ msgstr "Sekunde"
 
 msgid "See project page"
 msgstr "Zeige Projektseite"
+
+msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgstr ""
+"Beachte das Fenster (rechts am Rand) mit Tipps zur Installation des Plugins "
+"und zur Inbetriebnahme der Erweiterung."
 
 msgid "Select"
 msgstr "Auswählen"
