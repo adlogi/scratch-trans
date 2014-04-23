@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2014-02-27 19:21+0200\n"
+"PO-Revision-Date: 2014-04-23 15:58+0200\n"
 "Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
@@ -146,7 +146,7 @@ msgid "forever"
 msgstr "stále opakuj"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n sekúnd sa presúvaj na pozíciu x:%n  y:%n"
+msgstr "%n sekúnd sa presúvaj na pozíciu x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "späť o %n vrstiev"
@@ -303,15 +303,19 @@ msgstr "nastav %m.var na %s"
 msgid "set instrument to %d.instrument"
 msgstr "nastav nástroj na %d.instrument"
 
+# 89%
+# 86%
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "nastav smer %m.motor na %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "nastav smer motora na %m.motorDirection"
 
+# 77%
+# 75%
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "nastav silu motora %m.motor na %n"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +416,18 @@ msgstr "otoč sa o @turnLeft %n stupňov"
 msgid "turn @turnRight %n degrees"
 msgstr "otoč sa o @turnRight %n stupňov"
 
+# 82%
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "vypni motor %m.motor"
 
+# 81%
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "zapni motor %m.motor"
 
+# 80%
+# 89%
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "zapni motor %m.motor na %n sekúnd"
 
 msgid "turn motor off"
 msgstr "vypni motor"
