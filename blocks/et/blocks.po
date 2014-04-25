@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2014-03-05 14:40+0200\n"
+"PO-Revision-Date: 2014-04-24 16:43+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -183,7 +183,7 @@ msgid "item %d.listItem of %m.list"
 msgstr "liige %d.listItem %m.list"
 
 msgid "join %s %s"
-msgstr "%s + %s"
+msgstr "%s & %s"
 
 msgid "key %m.key pressed?"
 msgstr "klahv %m.key all?"
@@ -304,15 +304,21 @@ msgstr "võta %m.var = %s"
 msgid "set instrument to %d.instrument"
 msgstr "võta instrumendiks %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "mootori suund %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "mootori suund %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "mootori võimsus %n"
 
 # 77%
 msgid "set motor power %n"
@@ -413,14 +419,21 @@ msgstr "pööra @turnLeft %n kraadi"
 msgid "turn @turnRight %n degrees"
 msgstr "pööra @turnRight %n kraadi"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "lülita mootor välja"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "lülita mootor sisse"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "mootor sisse %n sekundiks"
 
 msgid "turn motor off"
 msgstr "lülita mootor välja"
@@ -446,7 +459,7 @@ msgid "volume"
 msgstr "helitugevus"
 
 msgid "wait %n secs"
-msgstr "paus %n sek"
+msgstr "oota %n sek"
 
 msgid "wait until %b"
 msgstr "oota kuni %b"

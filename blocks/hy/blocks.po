@@ -303,15 +303,21 @@ msgstr "%m.var ը կայել %n ին"
 msgid "set instrument to %d.instrument"
 msgstr "կայել գործիք %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "Սահմանել շարժիչի ուղղությունը %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "Սահմանել շարժիչի ուղղությունը %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "Սահմանել շարժիչի հզորությունը %n"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +418,21 @@ msgstr "Շրջել @turnLeft %n աստիճան"
 msgid "turn @turnRight %n degrees"
 msgstr "Շրջել @turnRight %n աստիճան"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "Անջատել շարժիչը"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "Միացնել շարժիչը"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "Միացնել շարժիչը %n վայրկյանով"
 
 msgid "turn motor off"
 msgstr "Անջատել շարժիչը"

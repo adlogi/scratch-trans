@@ -303,14 +303,18 @@ msgstr "مقرر %m.varکو%s"
 msgid "set instrument to %d.instrument"
 msgstr "مقررآلہ%d.instrument"
 
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "مقررسمت موتر%m.motorDirection"
 
 msgid "set motor direction %m.motorDirection"
 msgstr "مقررسمت موتر%m.motorDirection"
 
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "مقرر موتر طاقت%n"
 
 msgid "set motor power %n"
 msgstr "مقرر موتر طاقت%n"
@@ -410,14 +414,20 @@ msgstr "مڑو@turnLeft %nدرجہ"
 msgid "turn @turnRight %n degrees"
 msgstr "مڑو@turnRight %nدرجہ"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "موٹربند"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "موٹرچلاوٰ"
 
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "موٹرچلاوٰبراےٰ%nسیکنڈ"
 
 msgid "turn motor off"
 msgstr "موٹربند"

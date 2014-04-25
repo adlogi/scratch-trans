@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="define">
         <source>define</source>
-        <target state="translated"></target>
+        <target state="translated">дефиниране на</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete %d.listDeleteItem of %m.list">
         <source>delete %d.listDeleteItem of %m.list</source>
@@ -317,7 +317,7 @@
       <trans-unit xml:space="preserve" approved="yes" id="play note %d.note for %n beats">
         <source>play note %d.note for %n beats</source>
         <target state="translated">свири нота %d.note %n такта</target>
-        <note from="translator">83%&#13;
+        <note from="translator">83%
 100%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play sound %m.sound">
@@ -388,16 +388,30 @@
         <source>set instrument to %d.instrument</source>
         <target state="translated">избери инструмент %d.instrument</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="set %m.motor direction to %m.motorDirection">
+        <source>set %m.motor direction to %m.motorDirection</source>
+        <target state="needs-translation">посока на мотора %m.motorDirection</target>
+        <note from="translator">89%
+100%
+86%</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set motor direction %m.motorDirection">
         <source>set motor direction %m.motorDirection</source>
         <target state="translated">посока на мотора %m.motorDirection</target>
-        <note from="translator">89%&#13;
+        <note from="translator">89%
 100%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="set %m.motor power to %n">
+        <source>set %m.motor power to %n</source>
+        <target state="needs-translation">избери мощност на мотора %n</target>
+        <note from="translator">77%
+100%
+75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set motor power %n">
         <source>set motor power %n</source>
         <target state="translated">избери мощност на мотора %n</target>
-        <note from="translator">77%&#13;
+        <note from="translator">77%
 100%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen color to %c">
@@ -418,7 +432,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set rotation style %m.rotationStyle">
         <source>set rotation style %m.rotationStyle</source>
-        <target state="translated">избери начин на въретене %m.rotationStyle</target>
+        <target state="translated">избери начин на въртене %m.rotationStyle</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set size to %n%">
         <source>set size to %n%</source>
@@ -430,7 +444,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set video transparency to %n%">
         <source>set video transparency to %n%</source>
-        <target state="translated"></target>
+        <target state="translated">избери прозрачност на видео %n%</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
         <source>set volume to %n%</source>
@@ -526,6 +540,23 @@
         <source>turn @turnRight %n degrees</source>
         <target state="translated">завърти се @turnRight %n градуса</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="turn %m.motor off">
+        <source>turn %m.motor off</source>
+        <target state="needs-translation">изключи мотора</target>
+        <note from="translator">82%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="turn %m.motor on">
+        <source>turn %m.motor on</source>
+        <target state="needs-translation">включи мотора</target>
+        <note from="translator">81%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="turn %m.motor on for %n secs">
+        <source>turn %m.motor on for %n secs</source>
+        <target state="needs-translation">включи мотора за %n сек</target>
+        <note from="translator">80%
+100%
+89%</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn motor off">
         <source>turn motor off</source>
         <target state="translated">изключи мотора</target>
@@ -537,20 +568,21 @@
       <trans-unit xml:space="preserve" approved="yes" id="turn motor on for %n secs">
         <source>turn motor on for %n secs</source>
         <target state="translated">включи мотора за %n сек</target>
-        <note from="translator">80%&#13;
+        <note from="translator">80%
 100%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn video %m.videoState">
         <source>turn video %m.videoState</source>
-        <target state="translated"></target>
+        <target state="translated">превключи към видео %m.videoState</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="user id">
-        <source>user id</source>
-        <target state="translated"></target>
+      <trans-unit xml:space="preserve" approved="yes" id="username">
+        <source>username</source>
+        <target state="translated">потребителско име</target>
+        <note from="translator">88%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
         <source>video %m.videoMotionType on %m.stageOrThis</source>
-        <target state="translated"></target>
+        <target state="translated">видео %m.videoMotionType на %m.stageOrThis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="volume">
         <source>volume</source>
@@ -567,7 +599,7 @@
       <trans-unit xml:space="preserve" approved="yes" id="when %m.booleanSensor">
         <source>when %m.booleanSensor</source>
         <target state="translated">когато %m.booleanSensor</target>
-        <note from="translator">75%&#13;
+        <note from="translator">75%
 100%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %m.key key pressed">
@@ -587,6 +619,10 @@
         <target state="translated">когато декорът се смени на %m.backdrop</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when distance %m.lessMore %n">
+        <source>when distance %m.lessMore %n</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when distance &lt; %n">
         <source>when distance &lt; %n</source>
         <target state="translated">когато разстояние &lt; %n</target>
@@ -602,6 +638,10 @@
       <trans-unit xml:space="preserve" approved="yes" id="when this sprite clicked">
         <source>when this sprite clicked</source>
         <target state="translated">когато този спрайт се щракнат</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when tilt %m.eNe %n">
+        <source>when tilt %m.eNe %n</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when tilt = %n">
         <source>when tilt = %n</source>

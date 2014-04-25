@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-05 06:56+0200\n"
-"PO-Revision-Date: 2013-07-19 20:53+0200\n"
+"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"PO-Revision-Date: 2014-04-18 01:32+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kk\n"
@@ -25,6 +25,12 @@ msgstr "Aがつながれた"
 msgid "a copy of the project file on your computer."
 msgstr "てもとのコンピューターにあるさくひんのコピー。"
 
+msgid "About"
+msgstr ""
+
+msgid "About LEGO WeDo extension..."
+msgstr ""
+
 msgid "abs"
 msgstr "ぜったいち"
 
@@ -33,6 +39,9 @@ msgstr "アカウントせってい"
 
 msgid "acos"
 msgstr "acos"
+
+msgid "Add an Extension"
+msgstr ""
 
 msgid "Add boolean input:"
 msgstr "しんぎちのひきすうをついか:"
@@ -58,6 +67,9 @@ msgstr "すべて"
 
 msgid "all around"
 msgstr "じゆうにかいてん"
+
+msgid "all motors"
+msgstr ""
 
 msgid "Animal"
 msgstr "どうぶつ"
@@ -213,6 +225,9 @@ msgstr "クラリネット"
 
 msgid "Claves"
 msgstr "クラーベ"
+
+msgid "cleanup"
+msgstr ""
 
 msgid "Clear"
 msgstr "けす"
@@ -396,10 +411,21 @@ msgstr "だえん"
 msgid "Erase"
 msgstr "けす"
 
+# 92%
+#, fuzzy
 msgid "Eraser width"
-msgstr ""
+msgstr "けしゴムのはば:"
 
 msgid "Error!"
+msgstr ""
+
+msgid "export"
+msgstr ""
+
+msgid "Extension Library"
+msgstr ""
+
+msgid "Extension Problem"
 msgstr ""
 
 msgid "fade in"
@@ -438,6 +464,9 @@ msgstr "フルート"
 msgid "Flying"
 msgstr "とぶ"
 
+msgid "Font:"
+msgstr ""
+
 msgid "For all sprites"
 msgstr "すべてのスプライトよう"
 
@@ -468,6 +497,9 @@ msgstr "ギター"
 msgid "Hand Clap"
 msgstr "はくしゅ"
 
+msgid "Hardware"
+msgstr ""
+
 msgid "hide"
 msgstr "かくす"
 
@@ -479,6 +511,11 @@ msgstr "とき"
 
 msgid "Human"
 msgstr "ひと"
+
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "よみこみ"
 
 msgid "Import"
 msgstr "よみこみ"
@@ -495,6 +532,9 @@ msgstr "インストールちゅう..."
 msgid "Instruments"
 msgstr "がっき"
 
+msgid "large readout"
+msgstr ""
+
 msgid "last"
 msgstr "さいご"
 
@@ -506,6 +546,12 @@ msgstr "ひだりむきやじるし"
 
 msgid "left-right"
 msgstr "さゆうのみ"
+
+msgid "LEGO WeDo"
+msgstr ""
+
+msgid "length"
+msgstr ""
 
 msgid "Library"
 msgstr "ライブラリ"
@@ -593,6 +639,15 @@ msgstr "モザイク"
 msgid "motion"
 msgstr "モーション"
 
+msgid "motor"
+msgstr ""
+
+msgid "motor A"
+msgstr ""
+
+msgid "motor B"
+msgstr ""
+
 msgid "mouse-pointer"
 msgstr "マウスのポインター"
 
@@ -657,6 +712,12 @@ msgstr "あたらしいへんすう"
 msgid "No motion blocks"
 msgstr "うごきのブロックはありません"
 
+msgid "normal readout"
+msgstr ""
+
+msgid "not ="
+msgstr ""
+
 msgid "Not saved; network or server problem."
 msgstr "ほぞんできません。ネットワークかサーバーにもんだいがあります。"
 
@@ -668,6 +729,9 @@ msgstr "の"
 
 msgid "off"
 msgstr "せつ"
+
+msgid "Offline Editor"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -775,6 +839,9 @@ msgstr "リミックス"
 msgid "Remixing..."
 msgstr "リミックスちゅう..."
 
+msgid "Remove extension blocks"
+msgstr ""
+
 msgid "Rename"
 msgstr "なまえをへんこう"
 
@@ -859,6 +926,9 @@ msgstr "びょう"
 msgid "See project page"
 msgstr "プロジェクトページさんしょう"
 
+msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgstr ""
+
 msgid "Select"
 msgstr "せんたく"
 
@@ -876,6 +946,9 @@ msgstr "コスチュームのちゅうしんをせってい"
 
 msgid "Set Costume Center"
 msgstr "コスチュームのちゅうしんをせってい"
+
+msgid "set slider min and max"
+msgstr ""
 
 msgid "Share"
 msgstr "きょうゆう"
@@ -1176,17 +1249,17 @@ msgstr "とし"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
 
+msgid "Eraser width:"
+msgstr "けしゴムのはば:"
+
+msgid "Line width:"
+msgstr "せんのはば:"
+
 #~ msgid "<B>Information about Cloud variables</B><BR>&nbsp;<BR>Currently, only numbers are supported<BR>Chat rooms are not allowed, and will be removed<BR>For more info, <A href="file:///C:/help/faq/#clouddata" target=_blank>see the cloud data FAQ!</A>"
 #~ msgstr "<B>クラウドへんすうについて</B><BR>&nbsp;<BR>げんざい、すうちのみがサポートされています<BR>チャットルームのさくせいはきょかされません(さくじょされます)。<BR>しょうさいなじょうほうは <A href="file:///C:/Users/abee/Desktop/editor-ja%20(1)/target=">クラウドデータFAQをよんでください!</A>"
 
 #~ msgid "Costumes &gt; 1"
 #~ msgstr "コスチューム &gt; 1"
-
-#~ msgid "Eraser width:"
-#~ msgstr "けしゴムのはば:"
-
-#~ msgid "Line width:"
-#~ msgstr "せんのはば:"
 
 #~ msgid "This project uses Cloud data ??? a feature that is available only to signed in users."
 #~ msgstr "このプロジェクトはクラウドデータをつかっています。このきのうはサインインしたユーザーだけつかうことができます。"
@@ -1232,32 +1305,3 @@ msgstr ""
 
 #~ msgid "any"
 #~ msgstr "кез келген"
-
-msgid "cleanup"
-msgstr ""
-
-msgid "export"
-msgstr ""
-
-msgid "Font:"
-msgstr ""
-
-# 83%
-#, fuzzy
-msgid "import"
-msgstr "よみこみ"
-
-msgid "large readout"
-msgstr ""
-
-msgid "length"
-msgstr ""
-
-msgid "normal readout"
-msgstr ""
-
-msgid "Offline Editor"
-msgstr ""
-
-msgid "set slider min and max"
-msgstr ""

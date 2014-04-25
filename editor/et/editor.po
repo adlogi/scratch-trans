@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-03-25 02:11+0200\n"
+"PO-Revision-Date: 2014-04-25 15:54+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -28,6 +28,12 @@ msgstr "A ühendatud"
 msgid "a copy of the project file on your computer."
 msgstr "kopeeri projekt oma arvutisse."
 
+msgid "About"
+msgstr ""
+
+msgid "About LEGO WeDo extension..."
+msgstr "LEGO WeDo laiendusest ..."
+
 msgid "abs"
 msgstr "abs"
 
@@ -36,6 +42,9 @@ msgstr "Konto seaded"
 
 msgid "acos"
 msgstr "acos"
+
+msgid "Add an Extension"
+msgstr "Lisa laiendus"
 
 # 90%
 msgid "Add boolean input:"
@@ -65,7 +74,7 @@ msgid "all around"
 msgstr "suvaline"
 
 msgid "all motors"
-msgstr ""
+msgstr "kõik mootorid"
 
 msgid "Animal"
 msgstr "Loom"
@@ -417,6 +426,12 @@ msgstr "Viga!"
 msgid "export"
 msgstr "eksport"
 
+msgid "Extension Library"
+msgstr "Laienduste teek"
+
+msgid "Extension Problem"
+msgstr "Probleem laiendusega"
+
 msgid "fade in"
 msgstr "tuhmumine sisse"
 
@@ -486,6 +501,9 @@ msgstr "Kitarr"
 msgid "Hand Clap"
 msgstr "Aplaus"
 
+msgid "Hardware"
+msgstr "Riistvara"
+
 msgid "hide"
 msgstr "peida"
 
@@ -531,6 +549,9 @@ msgstr "vasaknool"
 
 msgid "left-right"
 msgstr "vasak-parem"
+
+msgid "LEGO WeDo"
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "pikkus"
@@ -622,13 +643,13 @@ msgid "motion"
 msgstr "liikumine"
 
 msgid "motor"
-msgstr ""
+msgstr "mootor"
 
 msgid "motor A"
-msgstr ""
+msgstr "mootor A"
 
 msgid "motor B"
-msgstr ""
+msgstr "mootor B"
 
 msgid "mouse-pointer"
 msgstr "hiirekursor"
@@ -700,7 +721,7 @@ msgid "normal readout"
 msgstr "tavaline näidik"
 
 msgid "not ="
-msgstr ""
+msgstr "pole ="
 
 msgid "Not saved; network or server problem."
 msgstr "Ei salvestatud: võrgu või serveri probleem."
@@ -827,6 +848,9 @@ msgstr "Remiksi"
 msgid "Remixing..."
 msgstr "Remiksimine..."
 
+msgid "Remove extension blocks"
+msgstr "Eemalda laienduse plokid"
+
 msgid "Rename"
 msgstr "Muuda nime"
 
@@ -912,6 +936,11 @@ msgstr "sekund"
 
 msgid "See project page"
 msgstr "Vaata projektilehte"
+
+msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgstr ""
+"Vt. vihjete aknast (paremal), kuidas installeerida <i>plug-in</i> ja panna "
+"laiendus tööle."
 
 msgid "Select"
 msgstr "Vali"

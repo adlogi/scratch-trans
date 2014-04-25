@@ -306,16 +306,22 @@ msgstr "à %m.var attribuer %n"
 msgid "set instrument to %d.instrument"
 msgstr "mettre l'instrument à %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "direction du moteur %m.motorDirection"
 
 # 89%
 #, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "direction du moteur %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "force du moteur %n"
 
 # 77%
 #, fuzzy
@@ -425,8 +431,11 @@ msgstr ""
 msgid "turn %m.motor on"
 msgstr ""
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "moteur actif durant %n secondes"
 
 msgid "turn motor off"
 msgstr ""

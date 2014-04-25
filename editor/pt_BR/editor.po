@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2013-08-04 12:13+0200\n"
-"Last-Translator: ehermann <everton.hermann@gmail.com>\n"
+"PO-Revision-Date: 2014-04-22 16:09+0200\n"
+"Last-Translator: Mariana <mcasetto@ig.com.br>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -29,6 +29,12 @@ msgstr "A conectado"
 msgid "a copy of the project file on your computer."
 msgstr "uma cópia do arquivo do projeto em seu computador."
 
+msgid "About"
+msgstr "Sobre"
+
+msgid "About LEGO WeDo extension..."
+msgstr "Sobre a extensão LEGO WeDo..."
+
 msgid "abs"
 msgstr "módulo"
 
@@ -37,6 +43,9 @@ msgstr "Minha conta"
 
 msgid "acos"
 msgstr "arco cosseno"
+
+msgid "Add an Extension"
+msgstr "Adicionar uma Extensão"
 
 msgid "Add boolean input:"
 msgstr "Adicionar entrada lógica:"
@@ -63,7 +72,7 @@ msgid "all around"
 msgstr "em todas as direções"
 
 msgid "all motors"
-msgstr ""
+msgstr "todos os motores"
 
 msgid "Animal"
 msgstr "Animal"
@@ -406,6 +415,12 @@ msgstr "Erro!"
 msgid "export"
 msgstr "exporta"
 
+msgid "Extension Library"
+msgstr "Biblioteca de Extensão"
+
+msgid "Extension Problem"
+msgstr "Problema de Extensão"
+
 msgid "fade in"
 msgstr "aparecer"
 
@@ -475,6 +490,9 @@ msgstr "Guitarra"
 msgid "Hand Clap"
 msgstr "Palmas"
 
+msgid "Hardware"
+msgstr "Hardware"
+
 msgid "hide"
 msgstr "esconder"
 
@@ -520,6 +538,9 @@ msgstr "seta para a esquerda"
 
 msgid "left-right"
 msgstr "esquerda-direita"
+
+msgid "LEGO WeDo"
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "tamanho"
@@ -610,13 +631,13 @@ msgid "motion"
 msgstr "movimento"
 
 msgid "motor"
-msgstr ""
+msgstr "motor"
 
 msgid "motor A"
-msgstr ""
+msgstr "motor A"
 
 msgid "motor B"
-msgstr ""
+msgstr "motor B"
 
 msgid "mouse-pointer"
 msgstr "ponteiro do mouse"
@@ -685,7 +706,7 @@ msgid "normal readout"
 msgstr "normal"
 
 msgid "not ="
-msgstr ""
+msgstr "não ="
 
 msgid "Not saved; network or server problem."
 msgstr "Impossível salvar: problema de rede ou de servidor."
@@ -809,6 +830,9 @@ msgstr "Remix"
 msgid "Remixing..."
 msgstr "Remixando..."
 
+msgid "Remove extension blocks"
+msgstr "Remover blocos de extensão"
+
 msgid "Rename"
 msgstr "Renomear"
 
@@ -894,6 +918,11 @@ msgstr "segundo"
 
 msgid "See project page"
 msgstr "Ver a página do projeto"
+
+msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgstr ""
+"Veja a janela Dicas (à direita) para instalar o plug-in e habilitar o "
+"funcionamento da extensão."
 
 msgid "Select"
 msgstr "Selecionar"

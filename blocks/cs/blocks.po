@@ -310,16 +310,24 @@ msgstr "nastav %m.var na %s"
 msgid "set instrument to %d.instrument"
 msgstr "nastav nástroj %d.instrument"
 
+# 89%
+# 100%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "nastav směr motoru %m.motorDirection"
 
 # 89%
 # 100%
 msgid "set motor direction %m.motorDirection"
 msgstr "nastav směr motoru %m.motorDirection"
 
+# 77%
+# 100%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "nastav sílu motoru %n"
 
 # 77%
 # 100%
@@ -421,14 +429,22 @@ msgstr "otoč se o @turnLeft %n stupňů"
 msgid "turn @turnRight %n degrees"
 msgstr "otoč se o @turnRight %n stupňů"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "vypni motor"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "zapni motor"
 
+# 80%
+# 100%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "zapni motor na %n s"
 
 msgid "turn motor off"
 msgstr "vypni motor"

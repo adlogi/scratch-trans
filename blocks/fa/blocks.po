@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2014-02-08 17:41+0200\n"
+"PO-Revision-Date: 2014-04-18 00:21+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fa\n"
@@ -306,16 +306,22 @@ msgstr "کن %n را %m.var"
 msgid "set instrument to %d.instrument"
 msgstr "کن %d.instrument دستگاه را"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "%m.motorDirection راستای حرکت موتور به"
 
 # 89%
 #, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "%m.motorDirection راستای حرکت موتور به"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "%n :قدرت موتور"
 
 # 77%
 #, fuzzy
@@ -423,8 +429,11 @@ msgstr ""
 msgid "turn %m.motor on"
 msgstr ""
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "ثانیه روشن کن %n موتور را برای"
 
 msgid "turn motor off"
 msgstr ""

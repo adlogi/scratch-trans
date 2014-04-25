@@ -302,14 +302,18 @@ msgstr "קבע %m.var ל %s"
 msgid "set instrument to %d.instrument"
 msgstr "קבע כלי נגינה ל %d.instrument"
 
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "קבע כיוון מנוע ל %m.motorDirection"
 
 msgid "set motor direction %m.motorDirection"
 msgstr "קבע כיוון מנוע ל %m.motorDirection"
 
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "קבע עוצמת מנוע ל %n"
 
 msgid "set motor power %n"
 msgstr "קבע עוצמת מנוע ל %n"
@@ -409,14 +413,20 @@ msgstr "הסתובב @turnLeft %n מעלות"
 msgid "turn @turnRight %n degrees"
 msgstr "הסתובב @turnRight %n מעלות"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "כבה מנוע"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "הפעל מנוע"
 
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "הפעל מנוע ל %n שניות"
 
 msgid "turn motor off"
 msgstr "כבה מנוע"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2014-02-15 01:39+0200\n"
+"PO-Revision-Date: 2014-04-22 00:52+0200\n"
 "Last-Translator: aitolajau <aitorolano@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eu\n"
@@ -303,15 +303,19 @@ msgstr "%m.var aldagaia = %s"
 msgid "set instrument to %d.instrument"
 msgstr "musika tresna = %d.instrument"
 
+# 89%
+# 86%
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "motorearen norabidea = %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "motore norabidea = %m.motorDirection"
 
+# 77%
+# 75%
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "motorearen ahalmena = %n"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +416,18 @@ msgstr "biratu @turnLeft %n gradu"
 msgid "turn @turnRight %n degrees"
 msgstr "biratu @turnRight %n gradu"
 
+# 82%
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "%m.motor itzali"
 
+# 81%
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "%m.motor piztu"
 
+# 80%
+# 89%
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "%m.motor piztu %n segunduz"
 
 msgid "turn motor off"
 msgstr "motorea itzali"
@@ -429,7 +437,7 @@ msgstr "motorea piztu"
 
 # 80%
 msgid "turn motor on for %n secs"
-msgstr "motorea piztuta eduki %n segunduz"
+msgstr "motorea piztu %n segunduz"
 
 msgid "turn video %m.videoState"
 msgstr "bideoa %m.videoState bihurtu"
@@ -438,7 +446,7 @@ msgid "username"
 msgstr "erabiltzaile izena"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "%m.videoMotionType bideoa %m.stageOrThis (e)n"
+msgstr "bideoaren %m.videoMotionType , non: %m.stageOrThis "
 
 msgid "volume"
 msgstr "bolumena"
@@ -467,7 +475,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "hondoa %m.backdrop (e)ra aldatzen denean"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "distantzia  %m.lessMore %n denean"
 
 msgid "when distance < %n"
 msgstr "distantzia < %n denean"
@@ -482,7 +490,7 @@ msgid "when this sprite clicked"
 msgstr "Sprite hau sakatzean"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "malda %m.eNe %n denean"
 
 msgid "when tilt = %n"
 msgstr "malda = %n denean"

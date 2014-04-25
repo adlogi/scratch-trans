@@ -5,14 +5,15 @@ msgstr ""
 "Project-Id-Version: Scratch 2.0 Block\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2013-05-05 23:57+0200\n"
-"Last-Translator: Kevin Scannell\n"
+"PO-Revision-Date: 2013-05-09 07:16+0200\n"
+"Last-Translator: Kevin <kscanne@gmail.com>\n"
 "Language-Team: Irish\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
+"X-Generator: Pootle 2.1.6\n"
 
 # The language name as it will appear in the language menu
 # ###########################################
@@ -307,14 +308,18 @@ msgstr "socraigh %m.var: %s"
 msgid "set instrument to %d.instrument"
 msgstr "socraigh ionstraim: %d.instrument"
 
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "socraigh treo an mhótair: %m.motorDirection"
 
 msgid "set motor direction %m.motorDirection"
 msgstr "socraigh treo an mhótair: %m.motorDirection"
 
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "socraigh cumhacht an mhótair: %n"
 
 msgid "set motor power %n"
 msgstr "socraigh cumhacht an mhótair: %n"
@@ -414,14 +419,20 @@ msgstr "rothlaigh @turnLeft %n céim"
 msgid "turn @turnRight %n degrees"
 msgstr "rothlaigh @turnRight %n céim"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "stop an mótar"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "cuir an mótar ar siúl"
 
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "cuir an mótar ar siúl ar feadh %n soicind"
 
 msgid "turn motor off"
 msgstr "stop an mótar"

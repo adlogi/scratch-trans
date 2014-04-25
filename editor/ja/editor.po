@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-04-01 10:54+0200\n"
+"PO-Revision-Date: 2014-04-20 19:03+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -27,6 +27,12 @@ msgstr "Aがつながれた"
 msgid "a copy of the project file on your computer."
 msgstr "手元のコンピューターにある作品のコピー。"
 
+msgid "About"
+msgstr "説明"
+
+msgid "About LEGO WeDo extension..."
+msgstr "レゴWeDo拡張について..."
+
 msgid "abs"
 msgstr "絶対値"
 
@@ -35,6 +41,9 @@ msgstr "アカウント設定"
 
 msgid "acos"
 msgstr "acos"
+
+msgid "Add an Extension"
+msgstr "拡張機能を追加"
 
 msgid "Add boolean input:"
 msgstr "真偽値の引数を追加:"
@@ -61,7 +70,7 @@ msgid "all around"
 msgstr "自由に回転"
 
 msgid "all motors"
-msgstr ""
+msgstr "すべてのモーター"
 
 msgid "Animal"
 msgstr "動物"
@@ -405,6 +414,12 @@ msgstr "エラー !"
 msgid "export"
 msgstr "書き出し"
 
+msgid "Extension Library"
+msgstr "拡張ライブラリー"
+
+msgid "Extension Problem"
+msgstr "拡張の問題"
+
 msgid "fade in"
 msgstr "フェードイン"
 
@@ -474,6 +489,9 @@ msgstr "ギター"
 msgid "Hand Clap"
 msgstr "拍手"
 
+msgid "Hardware"
+msgstr "ハードウェア"
+
 msgid "hide"
 msgstr "隠す"
 
@@ -519,6 +537,9 @@ msgstr "左向き矢印"
 
 msgid "left-right"
 msgstr "左右のみ"
+
+msgid "LEGO WeDo"
+msgstr "レゴWeDo"
 
 msgid "length"
 msgstr "長さ"
@@ -609,13 +630,13 @@ msgid "motion"
 msgstr "モーション"
 
 msgid "motor"
-msgstr ""
+msgstr "モーター"
 
 msgid "motor A"
-msgstr ""
+msgstr "モーターA"
 
 msgid "motor B"
-msgstr ""
+msgstr "モーターB"
 
 msgid "mouse-pointer"
 msgstr "マウスのポインター"
@@ -684,7 +705,7 @@ msgid "normal readout"
 msgstr "普通の表示"
 
 msgid "not ="
-msgstr ""
+msgstr "= ではない"
 
 msgid "Not saved; network or server problem."
 msgstr "保存できません。ネットワークかサーバーに問題があります。"
@@ -807,6 +828,9 @@ msgstr "リミックス"
 msgid "Remixing..."
 msgstr "リミックス中..."
 
+msgid "Remove extension blocks"
+msgstr "拡張ブロックを削除"
+
 msgid "Rename"
 msgstr "名前を変更"
 
@@ -890,6 +914,9 @@ msgstr "秒"
 
 msgid "See project page"
 msgstr "プロジェクトページ参照"
+
+msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgstr "プラグインをインストールして拡張機能を使う方法は、(右側の)ヒントウィンドウを見てください。"
 
 msgid "Select"
 msgstr "選択"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2013-12-18 07:53+0200\n"
+"PO-Revision-Date: 2014-04-18 00:23+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: vi\n"
@@ -306,16 +306,22 @@ msgstr "đặt %m.var là %n"
 msgid "set instrument to %d.instrument"
 msgstr "chọn nhạc cụ %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "chiều quay động cơ %m.motorDirection"
 
 # 89%
 #, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "chiều quay động cơ %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "sức mạnh động cơ %n"
 
 # 77%
 #, fuzzy
@@ -423,8 +429,11 @@ msgstr ""
 msgid "turn %m.motor on"
 msgstr ""
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "bật động cơ trong %n giây"
 
 msgid "turn motor off"
 msgstr ""

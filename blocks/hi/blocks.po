@@ -303,15 +303,21 @@ msgstr "%n पर %m.var सेट करे"
 msgid "set instrument to %d.instrument"
 msgstr "%d.instrument पर साधन सेट करे"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "मोटर की दिशा %m.motorDirection पर सेट करे"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "मोटर की दिशा %m.motorDirection पर सेट करे"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "मोटर की शक्ति %n पर सेट करे"
 
 # 77%
 msgid "set motor power %n"
@@ -414,14 +420,21 @@ msgstr "@turnLeft %n डिग्री से घूम जाए"
 msgid "turn @turnRight %n degrees"
 msgstr "@turnRight %n डिग्री से घूम जाए"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "मोटर बंद करें"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "मोटर चालू करें"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "%n सेकंड के लिए मोटर चालू करें"
 
 msgid "turn motor off"
 msgstr "मोटर बंद करें"

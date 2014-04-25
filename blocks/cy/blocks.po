@@ -304,16 +304,24 @@ msgstr "gosod %m.var i %n"
 msgid "set instrument to %d.instrument"
 msgstr "gosod offeryn i %d.instrument"
 
+# 89%
+# 100%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "cyfeiriad modur %m.modurCyfeiriad"
 
 # 89%
 # 100%
 msgid "set motor direction %m.motorDirection"
 msgstr "cyfeiriad modur %m.modurCyfeiriad"
 
+# 77%
+# 100%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "gosod pŵer modur %n"
 
 # 77%
 # 100%
@@ -415,14 +423,22 @@ msgstr "troi @troiChwith %n gradd"
 msgid "turn @turnRight %n degrees"
 msgstr " troi @troiDde %n gradd "
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "troi modur bant"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "troi modur arno"
 
+# 80%
+# 100%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "modur arno am %n eiliad"
 
 msgid "turn motor off"
 msgstr "troi modur bant"

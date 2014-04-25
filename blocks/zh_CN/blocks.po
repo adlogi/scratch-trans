@@ -303,15 +303,21 @@ msgstr "将 %m.var 设定为 %s"
 msgid "set instrument to %d.instrument"
 msgstr "设定乐器为 %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "马达转动方向设定为 %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "马达转动方向设定为 %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "将马达功率设定为 %n"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +418,21 @@ msgstr "向左旋转 @turnLeft %n 度"
 msgid "turn @turnRight %n degrees"
 msgstr "向右旋转 @turnRight %n 度"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "关闭马达"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "开启马达"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "启动马达 %n 秒"
 
 msgid "turn motor off"
 msgstr "关闭马达"

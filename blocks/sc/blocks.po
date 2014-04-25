@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2014-04-07 18:21+0200\n"
+"PO-Revision-Date: 2014-04-23 23:34+0200\n"
 "Last-Translator: Fabrizio <utalabi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sc\n"
@@ -146,7 +146,7 @@ msgid "forever"
 msgstr "pro semper"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "bae in %n secundos a x:%n y:%n"
+msgstr "giumpa in %n segundos a x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "bae a segus de %n pitzos"
@@ -302,14 +302,16 @@ msgstr "pone %m.var a %s"
 msgid "set instrument to %d.instrument"
 msgstr "sèbera s'aina %d.instrument"
 
+# 86%
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "diretzione de %m.motor a %m.motorDirection"
 
 msgid "set motor direction %m.motorDirection"
 msgstr "diretzione de su motore a %m.motorDirection"
 
+# 75%
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "potèntzia de %m.motor a %n"
 
 msgid "set motor power %n"
 msgstr "potèntzia de su motore a %n"
@@ -409,14 +411,17 @@ msgstr "gira @turnLeft de %n grados"
 msgid "turn @turnRight %n degrees"
 msgstr "gira @turnRight de %n grados"
 
+# 82%
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "istuda %m.motor"
 
+# 81%
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "pone in motu %m.motor"
 
+# 89%
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "mantene in motu %m.motor pro %n segundos"
 
 msgid "turn motor off"
 msgstr "istuda su motore"
@@ -462,7 +467,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "cando su fundale càmbiat a %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "cando sa distàntzia %m.lessMore %n"
 
 msgid "when distance < %n"
 msgstr "cando su tretu < %n"
@@ -477,7 +482,7 @@ msgid "when this sprite clicked"
 msgstr "cando si carcat custu duendu"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "cando s'incurvadura %m.eNe %n"
 
 msgid "when tilt = %n"
 msgstr "cando s'incurvadura = %n"

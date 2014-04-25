@@ -303,14 +303,18 @@ msgstr "iestatīt %m.var uz %s"
 msgid "set instrument to %d.instrument"
 msgstr "iestatīt instrumentu uz %d.instrument"
 
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "iestatīt motora virzienu uz %m.motorDirection"
 
 msgid "set motor direction %m.motorDirection"
 msgstr "iestatīt motora virzienu uz %m.motorDirection"
 
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "iestatīt motora jaudu %n"
 
 msgid "set motor power %n"
 msgstr "iestatīt motora jaudu %n"
@@ -410,14 +414,20 @@ msgstr "pagriezties @turnLeft pa %n grādiem"
 msgid "turn @turnRight %n degrees"
 msgstr "pagriezties @turnRigth pa %n grādiem"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "izslēgt motoru"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "ieslēgt motoru"
 
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "iezlēgt motoru uz %n sekundēm"
 
 msgid "turn motor off"
 msgstr "izslēgt motoru"

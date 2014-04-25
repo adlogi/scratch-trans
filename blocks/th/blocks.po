@@ -163,8 +163,10 @@ msgstr "ไปยัง x:%n y:%n"
 msgid "hide"
 msgstr "ซ่อน"
 
+# 76%
+#, fuzzy
 msgid "hide list %m.list"
-msgstr ""
+msgstr "แสดงรายการ %m.list"
 
 msgid "hide variable %m.var"
 msgstr "ซ่อนตัวแปล %m.var"
@@ -304,15 +306,21 @@ msgstr "ตั้งค่า %m.var ไปเป็น %n"
 msgid "set instrument to %d.instrument"
 msgstr "ตั้งค่าเครื่องดนตรีเป็น %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "ทิศทางของมอเตอร์ %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "ทิศทางของมอเตอร์ %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "พลังงานมอเตอร์ %n"
 
 # 77%
 msgid "set motor power %n"
@@ -357,8 +365,10 @@ msgstr "แสดง"
 msgid "show list %m.list"
 msgstr "แสดงรายการ %m.list"
 
+# 80%
+#, fuzzy
 msgid "show variable %m.var"
-msgstr ""
+msgstr "ซ่อนตัวแปล %m.var"
 
 msgid "size"
 msgstr "ขนาด"
@@ -413,14 +423,21 @@ msgstr "หมุน @turnLeft %n องศา"
 msgid "turn @turnRight %n degrees"
 msgstr "หมุน @turnRight %n องศา"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "ปิดมอเตอร์"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "เืปิดมอเตอร์"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "เปิดมอเตอร์เป็นเวลา %n วินาที"
 
 msgid "turn motor off"
 msgstr "ปิดมอเตอร์"

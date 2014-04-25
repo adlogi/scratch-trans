@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2013-05-18 10:07+0200\n"
+"PO-Revision-Date: 2014-04-25 22:12+0200\n"
 "Last-Translator: Jean-Jacques <i.scool@mac.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -303,15 +303,19 @@ msgstr "mettre %m.var à %s"
 msgid "set instrument to %d.instrument"
 msgstr "choisir l'instrument n° %d.instrument"
 
+# 89%
+# 86%
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "Choisir la direction du moteur %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "choisir la direction du moteur %m.motorDirection"
 
+# 77%
+# 75%
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "Mettre la puissance du moteur à %n"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +416,21 @@ msgstr "tourner @turnLeft de %n degrés"
 msgid "turn @turnRight %n degrees"
 msgstr "tourner @turnRight de %n degrés"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "arrêter le moteur"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "lancer le moteur"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "lancer le moteur pour %n secs"
 
 msgid "turn motor off"
 msgstr "arrêter le moteur"

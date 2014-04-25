@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-01-22 23:11+0200\n"
+"PO-Revision-Date: 2014-04-22 00:59+0200\n"
 "Last-Translator: aitolajau <aitorolano@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eu\n"
@@ -29,6 +29,12 @@ msgstr "A konektatuta"
 msgid "a copy of the project file on your computer."
 msgstr "proiektu fitxategiaren kopia bat zeure ordenagailuan."
 
+msgid "About"
+msgstr "Honi buruz"
+
+msgid "About LEGO WeDo extension..."
+msgstr "LEGO WeDo extentsioari buruz..."
+
 msgid "abs"
 msgstr "abs"
 
@@ -37,6 +43,9 @@ msgstr "Kontuaren ezarpenak"
 
 msgid "acos"
 msgstr "acos"
+
+msgid "Add an Extension"
+msgstr "Extentsioa"
 
 msgid "Add boolean input:"
 msgstr "Sarrera boolearra gehitu"
@@ -63,7 +72,7 @@ msgid "all around"
 msgstr "norabide guztietan"
 
 msgid "all motors"
-msgstr ""
+msgstr "motore guztiak"
 
 msgid "Animal"
 msgstr "Animalia"
@@ -406,6 +415,12 @@ msgstr "Errorea!"
 msgid "export"
 msgstr "esportatu"
 
+msgid "Extension Library"
+msgstr "Extentsioen liburutegia"
+
+msgid "Extension Problem"
+msgstr "Extentsioaren Arazoa"
+
 msgid "fade in"
 msgstr "bistaratu"
 
@@ -475,6 +490,9 @@ msgstr "Gitarra"
 msgid "Hand Clap"
 msgstr "Txaloa"
 
+msgid "Hardware"
+msgstr "Hardwarea"
+
 msgid "hide"
 msgstr "ezkutatu"
 
@@ -520,6 +538,9 @@ msgstr "ezkerreranzko gezia"
 
 msgid "left-right"
 msgstr "ezker-eskubi"
+
+msgid "LEGO WeDo"
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "luzera"
@@ -610,13 +631,13 @@ msgid "motion"
 msgstr "mugimendua"
 
 msgid "motor"
-msgstr ""
+msgstr "motorea"
 
 msgid "motor A"
-msgstr ""
+msgstr "A motorea"
 
 msgid "motor B"
-msgstr ""
+msgstr "B motorea"
 
 msgid "mouse-pointer"
 msgstr "xaguaren erakuslea"
@@ -685,7 +706,7 @@ msgid "normal readout"
 msgstr "ohiko tamaina"
 
 msgid "not ="
-msgstr ""
+msgstr "ez ="
 
 msgid "Not saved; network or server problem."
 msgstr "Ez da gorde, sareko edota zerbitzariaren arazoa dela eta."
@@ -808,6 +829,9 @@ msgstr "Birnahastu"
 msgid "Remixing..."
 msgstr "Birnahasten..."
 
+msgid "Remove extension blocks"
+msgstr "Extentsio blokeak ezabatu"
+
 msgid "Rename"
 msgstr "Berrizendatu"
 
@@ -891,6 +915,11 @@ msgstr "segundua"
 
 msgid "See project page"
 msgstr "Proiektuaren orrialdea ikusi"
+
+msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgstr ""
+"Aholkuen leihoa ikusi (eskuinean) plug-ina instalatzeko eta extentsioa "
+"martxan jartzea lortzeko."
 
 msgid "Select"
 msgstr "Aukeratu"

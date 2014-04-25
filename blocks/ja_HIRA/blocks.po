@@ -303,15 +303,21 @@ msgstr "%m.var を %n にする"
 msgid "set instrument to %d.instrument"
 msgstr "がっきを %d.instrument にする"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "モーターのかいてんを %m.motorDirection にする"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "モーターのかいてんを %m.motorDirection にする"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "モーターのパワーを %n にする"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +418,21 @@ msgstr "@turnLeft %n どまわす"
 msgid "turn @turnRight %n degrees"
 msgstr "@turnRight %n どまわす"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "モーターをオフにする"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "モーターをオンにする"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "モーターを %n びょうオンにする"
 
 msgid "turn motor off"
 msgstr "モーターをオフにする"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-02-21 14:03+0200\n"
+"PO-Revision-Date: 2014-04-24 18:15+0200\n"
 "Last-Translator: s_federici <s_federici@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -29,6 +29,12 @@ msgstr "A connesso"
 msgid "a copy of the project file on your computer."
 msgstr "una copia del file del progetto sul tuo computer."
 
+msgid "About"
+msgstr "Info"
+
+msgid "About LEGO WeDo extension..."
+msgstr "Informazioni sull'estensione LEGO WeDO"
+
 msgid "abs"
 msgstr "abs"
 
@@ -37,6 +43,9 @@ msgstr "Configurazione account"
 
 msgid "acos"
 msgstr "acos"
+
+msgid "Add an Extension"
+msgstr "Aggiungi un'Estensione"
 
 # 90%
 msgid "Add boolean input:"
@@ -66,7 +75,7 @@ msgid "all around"
 msgstr "può ruotare"
 
 msgid "all motors"
-msgstr ""
+msgstr "tutti i motori"
 
 msgid "Animal"
 msgstr "Animale"
@@ -419,6 +428,12 @@ msgstr "Errore!"
 msgid "export"
 msgstr "esporta"
 
+msgid "Extension Library"
+msgstr "Libreria di Estensioni"
+
+msgid "Extension Problem"
+msgstr "Problemi delle Estensioni"
+
 msgid "fade in"
 msgstr "ingresso"
 
@@ -488,6 +503,9 @@ msgstr "Chitarra"
 msgid "Hand Clap"
 msgstr "Battimano"
 
+msgid "Hardware"
+msgstr "Hardware"
+
 msgid "hide"
 msgstr "nasconditi"
 
@@ -533,6 +551,9 @@ msgstr "freccia sinistra"
 
 msgid "left-right"
 msgstr "sinistra-destra"
+
+msgid "LEGO WeDo"
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "lunghezza"
@@ -624,13 +645,13 @@ msgid "motion"
 msgstr "movimento"
 
 msgid "motor"
-msgstr ""
+msgstr "motore"
 
 msgid "motor A"
-msgstr ""
+msgstr "motore A"
 
 msgid "motor B"
-msgstr ""
+msgstr "motore B"
 
 msgid "mouse-pointer"
 msgstr "puntatore del mouse"
@@ -702,7 +723,7 @@ msgid "normal readout"
 msgstr "normale"
 
 msgid "not ="
-msgstr ""
+msgstr "non ="
 
 msgid "Not saved; network or server problem."
 msgstr "Il salvataggio è fallito: problema sulla rete o sul server."
@@ -826,6 +847,9 @@ msgstr "Remix"
 msgid "Remixing..."
 msgstr "Creazione del remix in corso..."
 
+msgid "Remove extension blocks"
+msgstr "Rimuovi i blocchi dell'estensione"
+
 msgid "Rename"
 msgstr "Rinomina"
 
@@ -911,6 +935,11 @@ msgstr "secondo"
 
 msgid "See project page"
 msgstr "Vai alla pagina del progetto"
+
+msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgstr ""
+"Guarda nella finestra dei Suggerimenti (a destra) per installare il plug-in "
+"e far funzionare l'estensione."
 
 msgid "Select"
 msgstr "Seleziona"

@@ -303,15 +303,21 @@ msgstr "aseta %m.var arvoon %s"
 msgid "set instrument to %d.instrument"
 msgstr "aseta soittimeksi %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "moottorinsuunta %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "moottorinsuunta %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "moottorin voima %n"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +418,21 @@ msgstr "käänny @turnLeft %n astetta"
 msgid "turn @turnRight %n degrees"
 msgstr "käänny @turnRight %n astetta"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "moottori pois päältä"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "moottori päälle"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "moottori päälle %n sekunniksi"
 
 msgid "turn motor off"
 msgstr "moottori pois päältä"

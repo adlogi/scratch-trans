@@ -308,15 +308,21 @@ msgstr "set %m.var ke %s"
 msgid "set instrument to %d.instrument"
 msgstr "set alat musik ke %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "atur arah motor %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "atur arah motor %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "atur daya motor %n"
 
 # 77%
 msgid "set motor power %n"
@@ -418,14 +424,21 @@ msgstr "putar @turnLeft %n derajat"
 msgid "turn @turnRight %n degrees"
 msgstr "putar @turnRight %n derajat"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "matikan motor"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "hidupkan motor"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "hidupkan motor selama %n detik"
 
 msgid "turn motor off"
 msgstr "matikan motor"

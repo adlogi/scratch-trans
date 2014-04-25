@@ -303,15 +303,21 @@ msgstr "намести %m.var на %n"
 msgid "set instrument to %d.instrument"
 msgstr "намести го инструментот %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "намести насока на моторот %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "намести насока на моторот %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "намести снага на мотор %n"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +418,21 @@ msgstr "заврти @на лево за %n степени"
 msgid "turn @turnRight %n degrees"
 msgstr "заврти @на десно за %n степени"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "исклучи го моторот"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "вклучи го моторот"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "вклучи го моторот за %n секунди"
 
 msgid "turn motor off"
 msgstr "исклучи го моторот"

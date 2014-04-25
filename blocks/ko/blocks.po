@@ -309,15 +309,21 @@ msgstr "%m.var 을(를) %s 로 정하기"
 msgid "set instrument to %d.instrument"
 msgstr "%d.instrument 번 악기로 정하기"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "모터 방향을 %m.motorDirection 쪽으로 정하기"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "모터 방향을 %m.motorDirection 쪽으로 정하기"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "모터 파워를 %n (으)로 정하기"
 
 # 77%
 msgid "set motor power %n"
@@ -418,14 +424,21 @@ msgstr "@turnLeft %n 도 돌기"
 msgid "turn @turnRight %n degrees"
 msgstr "@turnRight %n 도 돌기"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "모터 끄기"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "모터 켜기"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "%n 초 동안 모터 켜기"
 
 msgid "turn motor off"
 msgstr "모터 끄기"

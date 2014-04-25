@@ -303,15 +303,21 @@ msgstr "%m.var legyen %s"
 msgid "set instrument to %d.instrument"
 msgstr "hangszer legyen %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "set motor direction %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "set motor direction %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "set motor power %n"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +418,21 @@ msgstr "fordulj @turnLeft %n fokot"
 msgid "turn @turnRight %n degrees"
 msgstr "fordulj @turnRight %n fokot"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "turn motor off"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "turn motor on"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "turn motor on for %n secs"
 
 msgid "turn motor off"
 msgstr "turn motor off"

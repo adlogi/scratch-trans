@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: 0.3.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2013-07-01 16:02+0200\n"
+"PO-Revision-Date: 2013-07-01 16:05+0200\n"
 "Last-Translator: Milan <milan.cajic@open.telekom.rs>\n"
 "Language-Team: српски <>\n"
 "Language: sr\n"
@@ -307,14 +307,18 @@ msgstr "нека %m.var буде %s"
 msgid "set instrument to %d.instrument"
 msgstr "нека инструмент буде %d.instrument"
 
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "нека смер мотора буде %m.motorDirection"
 
 msgid "set motor direction %m.motorDirection"
 msgstr "нека смер мотора буде %m.motorDirection"
 
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "нека снага мотора буде %n"
 
 msgid "set motor power %n"
 msgstr "нека снага мотора буде %n"
@@ -414,14 +418,20 @@ msgstr "окрет @turnLeft за %n сетпени"
 msgid "turn @turnRight %n degrees"
 msgstr "окрет @turnRight за %n степени"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "искључи мотор"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "укључи мотор"
 
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "покрени мотор током %n секунди"
 
 msgid "turn motor off"
 msgstr "искључи мотор"

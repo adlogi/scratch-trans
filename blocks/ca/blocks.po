@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2013-05-06 20:26+0200\n"
+"PO-Revision-Date: 2014-04-21 21:10+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -307,16 +307,22 @@ msgstr "assigna a %m.var el valor %s"
 msgid "set instrument to %d.instrument"
 msgstr "fixa l'instrument a %d.instrument"
 
+# 89%
+# 100%
+# 86%
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "fixa la direcció del motor %m.motor a %m.motorDirection"
 
 # 89%
 # 100%
 msgid "set motor direction %m.motorDirection"
 msgstr "direcció del motor %m.motorDirection"
 
+# 77%
+# 100%
+# 75%
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "fixa potència del motor a %n"
 
 # 77%
 # 100%
@@ -419,14 +425,17 @@ msgstr "gira @turnLeft %n graus"
 msgid "turn @turnRight %n degrees"
 msgstr "gira @turnRight %n graus"
 
+# 82%
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "atura el motor %m.motor"
 
+# 81%
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "activa el motor %m.motor"
 
+# 89%
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "activa el motor %m.motor durant %n segons"
 
 msgid "turn motor off"
 msgstr "desactiva el motor"
@@ -473,7 +482,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "quan l'escenari canviï al fons %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "quan la distància sigui %m.lessMore %n"
 
 msgid "when distance < %n"
 msgstr "quan distància < %n"
@@ -488,7 +497,7 @@ msgid "when this sprite clicked"
 msgstr "quan es cliqui aquest personatge"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "quan la inclinació sigui %m.eNe %n"
 
 msgid "when tilt = %n"
 msgstr "quan inclinació = %n"

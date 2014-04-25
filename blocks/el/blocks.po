@@ -303,15 +303,21 @@ msgstr "όρισε το %m.var σε %s"
 msgid "set instrument to %d.instrument"
 msgstr "όρισε το μουσικό όργανο σε %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "όρισε την ισχύ κινητήρα σε %n"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +418,20 @@ msgstr "στρίψε @turnLeft %n μοίρες"
 msgid "turn @turnRight %n degrees"
 msgstr "στρίψε @turnRight %n μοίρες"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "απενεργοποίησε τον κινητήρα"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "ενεργοποίησε τον κινητήρα"
 
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα"
 
 msgid "turn motor off"
 msgstr "απενεργοποίησε τον κινητήρα"

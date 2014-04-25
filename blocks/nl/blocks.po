@@ -302,15 +302,21 @@ msgstr "maak %m.var %s"
 msgid "set instrument to %d.instrument"
 msgstr "gebruik instrument %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "zet motorrichting op %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "zet motorrichting op %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "zet motorvermogen op %n"
 
 # 77%
 msgid "set motor power %n"
@@ -411,14 +417,21 @@ msgstr "draai @turnLeft %n graden"
 msgid "turn @turnRight %n degrees"
 msgstr "draai @turnRight %n graden"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "zet motor uit"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "zet motor aan"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "zet motor %n sec. aan"
 
 msgid "turn motor off"
 msgstr "zet motor uit"

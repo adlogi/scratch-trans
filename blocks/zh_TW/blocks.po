@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:23+0200\n"
-"PO-Revision-Date: 2014-02-17 04:50+0200\n"
+"PO-Revision-Date: 2014-04-22 02:45+0200\n"
 "Last-Translator: Chao-Hsiung <pesder@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -303,15 +303,19 @@ msgstr "將變數 %m.var 的值設為 %s"
 msgid "set instrument to %d.instrument"
 msgstr "設定樂器為 %d.instrument"
 
+# 89%
+# 86%
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "設定 %m.motor 運轉方向 %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "設定馬達運轉方向 %m.motorDirection"
 
+# 77%
+# 75%
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "設定 %m.motor 動力 %n"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +416,18 @@ msgstr "將 @turnLeft 轉 %n 度"
 msgid "turn @turnRight %n degrees"
 msgstr "將 @turnRight 轉 %n 度"
 
+# 82%
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "關閉 %m.motor"
 
+# 81%
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "啟動 %m.motor"
 
+# 80%
+# 89%
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "啟動 %m.motor 運轉 %n 秒"
 
 msgid "turn motor off"
 msgstr "關閉馬達"

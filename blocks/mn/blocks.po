@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2014-01-19 17:36+0200\n"
+"PO-Revision-Date: 2014-04-18 00:22+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mn\n"
@@ -306,16 +306,22 @@ msgstr "%m.var -г %n болго"
 msgid "set instrument to %d.instrument"
 msgstr "%d.instrument хөгжим сонго"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "%m.motorDirection хөдөлгүүрийн чиг"
 
 # 89%
 #, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "%m.motorDirection хөдөлгүүрийн чиг"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "хөдөлгүүр %n чадалтай"
 
 # 77%
 #, fuzzy
@@ -423,8 +429,11 @@ msgstr ""
 msgid "turn %m.motor on"
 msgstr ""
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "%n секунд хөдөлгүүр асаах"
 
 msgid "turn motor off"
 msgstr ""

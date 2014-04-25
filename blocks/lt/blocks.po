@@ -318,15 +318,21 @@ msgstr "%m.var =  %s"
 msgid "set instrument to %d.instrument"
 msgstr "instrumentas = %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "variklio kryptis = %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "variklio kryptis = %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "variklio galia = %n"
 
 # 77%
 msgid "set motor power %n"
@@ -428,14 +434,21 @@ msgstr "pasisuk @turnLeft %n °"
 msgid "turn @turnRight %n degrees"
 msgstr "pasisuk @turnRight %n °"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "išjunk variklį"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "įjunk variklį"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "įjunk variklį %n sekundėms"
 
 msgid "turn motor off"
 msgstr "išjunk variklį"

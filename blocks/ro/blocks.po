@@ -304,15 +304,21 @@ msgstr "seteaza %m.var la %s"
 msgid "set instrument to %d.instrument"
 msgstr "seteaza instrumentul la %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "seteaza directia motorului la %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "seteaza directia motorului la %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "seteaza puterea motorului la %n"
 
 # 77%
 msgid "set motor power %n"
@@ -413,14 +419,21 @@ msgstr "roteste @turnLeft %n grade"
 msgid "turn @turnRight %n degrees"
 msgstr "roteste @turnRight %n grade"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "opreste motorul"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "porneste motorul"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "porneste motorul pentru %n sec"
 
 msgid "turn motor off"
 msgstr "opreste motorul"

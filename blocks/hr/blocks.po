@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2013-08-01 00:32+0200\n"
+"PO-Revision-Date: 2013-08-06 13:48+0200\n"
 "Last-Translator: zeta11 <tajana.toto@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
@@ -303,15 +303,21 @@ msgstr "postavi %m.var na %s"
 msgid "set instrument to %d.instrument"
 msgstr "postavi instrument na %d.instrument"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "postavi smjer motora %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "postavi smjer motora %m.motorDirection"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "postavi snagu motora %n"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +418,20 @@ msgstr "skreni @turnLeft %n stupnjeva"
 msgid "turn @turnRight %n degrees"
 msgstr "skreni @turnRight %n stupnjeva"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "isključi motor"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "uključi motor"
 
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "uključi motor na %n sekundi"
 
 msgid "turn motor off"
 msgstr "isključi motor"

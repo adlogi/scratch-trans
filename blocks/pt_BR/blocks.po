@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2013-07-28 16:44+0200\n"
-"Last-Translator: ehermann <everton.hermann@gmail.com>\n"
+"PO-Revision-Date: 2014-04-22 15:58+0200\n"
+"Last-Translator: Mariana <mcasetto@ig.com.br>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -303,15 +303,19 @@ msgstr "mude %m.var para %s"
 msgid "set instrument to %d.instrument"
 msgstr "use o instrumento %d.instrument"
 
+# 89%
+# 86%
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "use a direção %m.motor para %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
 msgstr "use a direção do motor %m.motorDirection"
 
+# 77%
+# 75%
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "use a potência %m.motor para %n"
 
 # 77%
 msgid "set motor power %n"
@@ -413,14 +417,18 @@ msgstr "gire @turnLeft %n graus"
 msgid "turn @turnRight %n degrees"
 msgstr "gire @turnRight %n graus"
 
+# 82%
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "desligue o %m.motor"
 
+# 81%
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "ligue o %m.motor"
 
+# 80%
+# 89%
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "ligue o %m.motor por %n segundos"
 
 msgid "turn motor off"
 msgstr "desligue o motor"
@@ -469,7 +477,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "quando o pano de fundo mudar para %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "quando a distância %m.lessMore %n"
 
 msgid "when distance < %n"
 msgstr "quando a distância for < %n"
@@ -484,7 +492,7 @@ msgid "when this sprite clicked"
 msgstr "quando este ator for clicado"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "quando a inclinação for %m.eNe %n"
 
 msgid "when tilt = %n"
 msgstr "quando a inclinação for = %n"

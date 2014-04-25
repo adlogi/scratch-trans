@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-04-07 18:13+0200\n"
+"PO-Revision-Date: 2014-04-23 23:55+0200\n"
 "Last-Translator: Fabrizio <utalabi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sc\n"
@@ -29,6 +29,12 @@ msgstr "A connessu"
 msgid "a copy of the project file on your computer."
 msgstr "una còpia de su file de su progetu in s'elaboradore tuo."
 
+msgid "About"
+msgstr "Ite est"
+
+msgid "About LEGO WeDo extension..."
+msgstr "A pitzu de s'estensione LEGO WeDo..."
+
 msgid "abs"
 msgstr "abs"
 
@@ -37,6 +43,10 @@ msgstr "Sèberos de s'identidade"
 
 msgid "acos"
 msgstr "acos"
+
+#, fuzzy
+msgid "Add an Extension"
+msgstr "Agiunghe una Estensione"
 
 msgid "Add boolean input:"
 msgstr "Agiunghe un'intrada booleana:"
@@ -63,7 +73,7 @@ msgid "all around"
 msgstr "podet girare a in tundu"
 
 msgid "all motors"
-msgstr ""
+msgstr "Totu sos motores"
 
 msgid "Animal"
 msgstr "Animales"
@@ -406,6 +416,14 @@ msgstr "Errore!"
 msgid "export"
 msgstr "esporta"
 
+#, fuzzy
+msgid "Extension Library"
+msgstr "Regorta de Estensiones"
+
+#, fuzzy
+msgid "Extension Problem"
+msgstr "Problema de Estensione"
+
 msgid "fade in"
 msgstr "incarada"
 
@@ -475,6 +493,9 @@ msgstr "Chiterra"
 msgid "Hand Clap"
 msgstr "Tzocamanos"
 
+msgid "Hardware"
+msgstr "Machinàriu"
+
 msgid "hide"
 msgstr "cua"
 
@@ -519,6 +540,9 @@ msgstr "fritza a manca"
 
 msgid "left-right"
 msgstr "manca-dereta"
+
+msgid "LEGO WeDo"
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "longària"
@@ -608,13 +632,13 @@ msgid "motion"
 msgstr "movimentu"
 
 msgid "motor"
-msgstr ""
+msgstr "motore"
 
 msgid "motor A"
-msgstr ""
+msgstr "motore A"
 
 msgid "motor B"
-msgstr ""
+msgstr "motore B"
 
 msgid "mouse-pointer"
 msgstr "su puntadore de su sòrighe"
@@ -683,10 +707,10 @@ msgid "normal readout"
 msgstr "normale"
 
 msgid "not ="
-msgstr ""
+msgstr "no ="
 
 msgid "Not saved; network or server problem."
-msgstr "Non est istadu allogadu; problema in sa retza o in su serbidore."
+msgstr "No est istadu allogadu; problema in sa retza o in su serbidore."
 
 msgid "Not saved; project did not load."
 msgstr "No est istadu allogadu; su progetu no est istadu carrigadu."
@@ -805,6 +829,10 @@ msgstr "Remixa"
 msgid "Remixing..."
 msgstr "Remixende..."
 
+#, fuzzy
+msgid "Remove extension blocks"
+msgstr "Boga sos blocos de estensione"
+
 msgid "Rename"
 msgstr "Càmbia su nùmene"
 
@@ -888,6 +916,11 @@ msgstr "segundu"
 
 msgid "See project page"
 msgstr "Bae a sa pàgina de su progetu"
+
+msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgstr ""
+"Pòmpia sa bentana de consìgios (a dereta) pro installare unu connetore e "
+"tènnere s'estensione traballende."
 
 msgid "Select"
 msgstr "Sèbera"
@@ -1191,7 +1224,7 @@ msgid "Which column do you want to import"
 msgstr "Cale colunna est de importare?"
 
 msgid "whirl"
-msgstr "gurgu"
+msgstr "molineddu"
 
 msgid "Wood Block"
 msgstr "Blocu de Linna"

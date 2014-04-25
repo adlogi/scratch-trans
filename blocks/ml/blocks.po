@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2014-03-06 11:47+0200\n"
+"PO-Revision-Date: 2014-04-23 07:26+0200\n"
 "Last-Translator: Midhila <midhila.p.2011@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
@@ -182,7 +182,7 @@ msgid "item %d.listItem of %m.list"
 msgstr "%m.listന്റെ %d.listItemമത്തെ ഐറ്റം"
 
 msgid "join %s %s"
-msgstr "%s.നോട്കൂടി %s യോജിപ്പിക്കുക"
+msgstr "%s നോട്കൂടി %s യോജിപ്പിക്കുക"
 
 msgid "key %m.key pressed?"
 msgstr "കീ %m.key അമര്‍ത്തിയോ?"
@@ -191,10 +191,10 @@ msgid "length of %m.list"
 msgstr "ലിസ്റ്റ് %mlist ന്‍റെ നീളം"
 
 msgid "length of %s"
-msgstr "%sന്റെ നീളം"
+msgstr "%s ന്റെ നീളം"
 
 msgid "letter %n of %s"
-msgstr "%s ന്‍റെ %n മത്തെ അക്ഷരം"
+msgstr "%n ന്‍റെ %s മത്തെ അക്ഷരം"
 
 msgid "Looks"
 msgstr "കാഴ്ച"
@@ -302,14 +302,16 @@ msgstr "ചരം %m നെ %s ആക്കി മാറ്റുക"
 msgid "set instrument to %d.instrument"
 msgstr "സംഗീതോപകരണത്തെ %d ആക്കി മാറ്റുക"
 
+# 86%
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "മോട്ടോറിന്‍റെ ദിശ %m ഇല്‍ നിന്നും %m ആക്കി മാറ്റുക"
 
 msgid "set motor direction %m.motorDirection"
 msgstr "മോട്ടോറിന്‍റെ ദിശ %m ആക്കുക"
 
+# 75%
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "മോട്ടോറിന്‍റെ പവര്‍ %m ഇല്‍ നിന്നും %n ആക്കുക"
 
 msgid "set motor power %n"
 msgstr "മോട്ടോറിന്‍റെ പവര്‍ %n ആക്കുക"
@@ -410,14 +412,17 @@ msgstr "ഇടത്തോട്ടു %n തിരിയുക"
 msgid "turn @turnRight %n degrees"
 msgstr "വലത്തോട്ടു %n തിരിയുക"
 
+# 82%
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "മോട്ടോര്‍ %m ഓഫ്‌ ആക്കുക"
 
+# 81%
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "മോട്ടോര്‍ %m ഓണ്‍ ആക്കുക"
 
+# 89%
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "മോട്ടോര്‍ %m %n നിമിഷം ഓണാക്കുക"
 
 msgid "turn motor off"
 msgstr "മോട്ടോര്‍ ഓഫ്‌ ആക്കുക"
@@ -463,7 +468,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "രംഗം %m ലേക്ക് മാറുമ്പോള്‍"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "ദൂരം %m.lessMore %n"
 
 msgid "when distance < %n"
 msgstr "ദൂരം < %n ആവുമ്പോള്‍"
@@ -478,7 +483,7 @@ msgid "when this sprite clicked"
 msgstr "ഈ സ്പ്രയ്റ്റിനെ ക്ലിക്ക് ചെയ്യുമ്പോള്‍"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "ചരിവ് %m.എനെ %n"
 
 msgid "when tilt = %n"
 msgstr "ചെരിവ് = %n ആവുമ്പോള്‍"

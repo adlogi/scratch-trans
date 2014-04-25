@@ -304,16 +304,24 @@ msgstr "sæt %m.var til %s"
 msgid "set instrument to %d.instrument"
 msgstr "skift instrument til %d.instrument"
 
+# 89%
+# 100%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "sæt motorretning til %m.motorDirection"
 
 # 89%
 # 100%
 msgid "set motor direction %m.motorDirection"
 msgstr "sæt motorretning til %m.motorDirection"
 
+# 77%
+# 100%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "sæt motorkraft til %n"
 
 # 77%
 # 100%
@@ -415,14 +423,22 @@ msgstr "drej @turnLeft %n grader"
 msgid "turn @turnRight %n degrees"
 msgstr "drej @turnRight %n grader"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "sluk motoren"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "start motoren"
 
+# 80%
+# 100%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "kør motoren i %n sekunder"
 
 msgid "turn motor off"
 msgstr "sluk motoren"

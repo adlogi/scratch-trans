@@ -305,16 +305,22 @@ msgstr "%m.var ကို %n အဖြစ် သတ်မှတ်"
 msgid "set instrument to %d.instrument"
 msgstr "တူရိယာ ကို %d.instrument အဖြစ် သတ်မှတ်"
 
+# 89%
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "မော်တာရဲ့ လည်ပတ်မှု့ကို %m.motorDirection အဖြစ်ထား"
 
 # 89%
 #, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "မော်တာရဲ့ လည်ပတ်မှု့ကို %m.motorDirection အဖြစ်ထား"
 
+# 77%
+# 75%
+#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "မော်တာ ပါဝါကို  %n အဖြစ်ထား"
 
 # 77%
 #, fuzzy
@@ -416,14 +422,21 @@ msgstr "@turnLeft %n ဒီဂရီ လှည့်"
 msgid "turn @turnRight %n degrees"
 msgstr "@turnLeft %n ဒီဂရီ လှည့်"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "မော်တာကို ပိတ်"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "မော်တာကို ဖွင့်"
 
+# 80%
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "မော်တာကို  %n စက္ကန့် ဖွင့်"
 
 msgid "turn motor off"
 msgstr "မော်တာကို ပိတ်"

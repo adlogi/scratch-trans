@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2014-03-29 15:59+0200\n"
+"PO-Revision-Date: 2014-04-20 19:52+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -30,7 +30,7 @@ msgid "%m.list contains %s"
 msgstr "%m.list に %s が含まれる"
 
 msgid "%m.mathOp of %n"
-msgstr "%n の %m.mathOp"
+msgstr " %m.mathOp ( %n )"
 
 msgid "%m.sensor sensor value"
 msgstr "%m.sensor センサーの値"
@@ -194,7 +194,7 @@ msgid "length of %s"
 msgstr "%s の長さ"
 
 msgid "letter %n of %s"
-msgstr "%s の %n 番目の文字"
+msgstr " %n 番目( %s )の文字"
 
 msgid "Looks"
 msgstr "見た目"
@@ -303,15 +303,19 @@ msgstr "%m.var を %s にする"
 msgid "set instrument to %d.instrument"
 msgstr "楽器を %d.instrument にする"
 
+# 89%
+# 86%
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "%m.motor の回転方向を %m.motorDirection にする"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
-msgstr "モーターの回転を %m.motorDirection にする"
+msgstr "モーターの回転方向を %m.motorDirection にする"
 
+# 77%
+# 75%
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "%m.motor のパワーを %n にする"
 
 # 77%
 msgid "set motor power %n"
@@ -412,14 +416,18 @@ msgstr "@turnLeft %n 度回す"
 msgid "turn @turnRight %n degrees"
 msgstr "@turnRight %n 度回す"
 
+# 82%
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "%m.motor をオフにする"
 
+# 81%
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "%m.motor をオンにする"
 
+# 80%
+# 89%
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "%m.motor を %n 秒オンにする"
 
 msgid "turn motor off"
 msgstr "モーターをオフにする"
@@ -439,7 +447,7 @@ msgid "username"
 msgstr "ユーザー名"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "ビデオの %m.videoMotionType の %m.stageOrThis についての値"
+msgstr "ビデオの %m.videoMotionType ( %m.stageOrThis )"
 
 msgid "volume"
 msgstr "音量"
@@ -468,7 +476,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "背景が %m.backdrop になったとき"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "距離 %m.lessMore %n のとき"
 
 msgid "when distance < %n"
 msgstr "距離 < %n のとき"
@@ -483,7 +491,7 @@ msgid "when this sprite clicked"
 msgstr "このスプライトがクリックされたとき"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "傾き %m.eNe %n のとき"
 
 msgid "when tilt = %n"
 msgstr "傾き = %n のとき"

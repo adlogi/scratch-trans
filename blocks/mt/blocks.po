@@ -298,8 +298,10 @@ msgstr "ghid %s ghall %n sekondi"
 msgid "Sensing"
 msgstr ""
 
+# 75%
+#, fuzzy
 msgid "sensor %m.booleanSensor?"
-msgstr ""
+msgstr "meta %m.booleanSensor"
 
 msgid "set %m.effect effect to %n"
 msgstr "qieghed %m.effect effett għal %n"
@@ -310,8 +312,10 @@ msgstr "qieghed %m.var għal %s"
 msgid "set instrument to %d.instrument"
 msgstr ""
 
+# 86%
+#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
+msgstr "qiegħed id-direzzjoni tal-mutur %m.motorDirection"
 
 msgid "set motor direction %m.motorDirection"
 msgstr "qiegħed id-direzzjoni tal-mutur %m.motorDirection"
@@ -418,14 +422,20 @@ msgstr "dawwar @turnLeft %n gradi"
 msgid "turn @turnRight %n degrees"
 msgstr "dawwar @turnRight %n gradi"
 
+# 82%
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "itfi il-mutur"
 
+# 81%
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "ixgħel il-mutur"
 
+# 89%
+#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "ixgħel il-mutur ghall %n sekondi"
 
 msgid "turn motor off"
 msgstr "itfi il-mutur"

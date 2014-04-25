@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2013-11-29 19:02+0200\n"
+"PO-Revision-Date: 2014-04-21 21:08+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -29,6 +29,12 @@ msgstr "A connectat"
 msgid "a copy of the project file on your computer."
 msgstr "una còpia del teu projecte al teu ordinador."
 
+msgid "About"
+msgstr "Quant a"
+
+msgid "About LEGO WeDo extension..."
+msgstr "Sobre l'extensió de LEGO WeDo..."
+
 msgid "abs"
 msgstr "abs"
 
@@ -37,6 +43,9 @@ msgstr "Configuració del compte"
 
 msgid "acos"
 msgstr "acos"
+
+msgid "Add an Extension"
+msgstr "Afegeix una Extensió"
 
 # 90%
 msgid "Add boolean input:"
@@ -66,7 +75,7 @@ msgid "all around"
 msgstr "al voltant"
 
 msgid "all motors"
-msgstr ""
+msgstr "tots els motors"
 
 msgid "Animal"
 msgstr "Animal"
@@ -418,6 +427,12 @@ msgstr "Error!"
 msgid "export"
 msgstr "exporta"
 
+msgid "Extension Library"
+msgstr "Galeria d'Extensions"
+
+msgid "Extension Problem"
+msgstr "Problema amb l'Extensió"
+
 msgid "fade in"
 msgstr "augmenta"
 
@@ -487,6 +502,9 @@ msgstr "Guitarra"
 msgid "Hand Clap"
 msgstr "Aplaudiment"
 
+msgid "Hardware"
+msgstr "Maquinari"
+
 msgid "hide"
 msgstr "amaga"
 
@@ -532,6 +550,9 @@ msgstr "fletxa esquerra"
 
 msgid "left-right"
 msgstr "esquerra-dreta"
+
+msgid "LEGO WeDo"
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "llargada"
@@ -623,13 +644,13 @@ msgid "motion"
 msgstr "moviment"
 
 msgid "motor"
-msgstr ""
+msgstr "motor"
 
 msgid "motor A"
-msgstr ""
+msgstr "motor A"
 
 msgid "motor B"
-msgstr ""
+msgstr "motor B"
 
 msgid "mouse-pointer"
 msgstr "punter del ratolí"
@@ -701,7 +722,7 @@ msgid "normal readout"
 msgstr "pantalla normal"
 
 msgid "not ="
-msgstr ""
+msgstr "no ="
 
 msgid "Not saved; network or server problem."
 msgstr "No s'ha desat; problemes a la xarxa o al servidor."
@@ -826,6 +847,9 @@ msgstr "Reinventa"
 msgid "Remixing..."
 msgstr "Reinventant..."
 
+msgid "Remove extension blocks"
+msgstr "Treure els blocs d'extensió"
+
 msgid "Rename"
 msgstr "Canvia el nom"
 
@@ -911,6 +935,11 @@ msgstr "segon"
 
 msgid "See project page"
 msgstr "Veure la pàgina del projecte"
+
+msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgstr ""
+"Mira la finestra d'ajuda (de la dreta) per instal·lar el connector i fer que "
+"l'extensió funcioni."
 
 msgid "Select"
 msgstr "Selecciona"
