@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2014-01-16 21:42+0200\n"
+"PO-Revision-Date: 2014-04-26 16:54+0200\n"
 "Last-Translator: Juha <juha.harviainen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
@@ -71,10 +71,10 @@ msgid "change pen color by %n"
 msgstr "vaihda kynän väriä määrällä %n"
 
 msgid "change pen shade by %n"
-msgstr "vaihda kynään varjostusta määrällä %n"
+msgstr "vaihda kynän tummuutta määrällä %n"
 
 msgid "change pen size by %n"
-msgstr "vaihdan kynän kokoa määrällä %n"
+msgstr "vaihda kynän kokoa määrällä %n"
 
 msgid "change size by %n"
 msgstr "muuta kokoa määrällä %n"
@@ -110,7 +110,7 @@ msgid "create clone of %m.spriteOnly"
 msgstr "luo klooni kohteesta %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr "pvm %m.timeAndDate"
+msgstr "%m.timeAndDate nyt"
 
 msgid "Data"
 msgstr "Tieto"
@@ -305,9 +305,8 @@ msgstr "aseta soittimeksi %d.instrument"
 
 # 89%
 # 86%
-#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr "moottorinsuunta %m.motorDirection"
+msgstr "aseta moottorin suunnaksi %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
@@ -315,9 +314,8 @@ msgstr "moottorinsuunta %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "moottorin voima %n"
+msgstr "aseta moottorin voimaksi %n"
 
 # 77%
 msgid "set motor power %n"
@@ -330,7 +328,7 @@ msgid "set pen color to %n"
 msgstr "aseta kynälle väri %n"
 
 msgid "set pen shade to %n"
-msgstr "aseta kynän sävyksi %n"
+msgstr "aseta kynän tummuudeksi %n"
 
 msgid "set pen size to %n"
 msgstr "aseta kynälle koko %n"
@@ -419,20 +417,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "käänny @turnRight %n astetta"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "moottori pois päältä"
+msgstr "laita %m.motor pois päältä"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "moottori päälle"
+msgstr "laita %m.motor päälle"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "moottori päälle %n sekunniksi"
+msgstr "laita %m.motor päälle %n sekunniksi"
 
 msgid "turn motor off"
 msgstr "moottori pois päältä"
@@ -482,7 +477,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "kun tausta vaihtuu taustaksi %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "kun etäisyys %m.lessMore %n"
 
 msgid "when distance < %n"
 msgstr "kun etäisyys < %n"
@@ -497,7 +492,7 @@ msgid "when this sprite clicked"
 msgstr "kun tätä hahmoa klikataan"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "kun kallistuminen %m.eNe %n"
 
 msgid "when tilt = %n"
 msgstr "kun kallistuminen = %n"

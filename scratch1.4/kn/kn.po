@@ -3,60 +3,68 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2008-01-29\n"
-"PO-Revision-Date: 2008-01-29\n"
-"Last-Translator: Palash <mpalash@gmail.com>, Murali <murali.drishya@gmail.com>\n"
+"PO-Revision-Date: 2014-04-29 16:14+0200\n"
+"Last-Translator: vinayakumar  <vnkmr7620@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: kn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
 
-############################################
+# ##########################################
 # FORMATTING
-############################################
-
+# ##########################################
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
+# 
 msgid "Language-Name"
-msgstr "ಕನ್ನಡ"
+msgstr "ಭಾಷೆ-ಹೆಸರು"
 
 # Directionality of language
 # LTR = Left to Right
 # RTL = Right to Left
+# 
 msgid "Language-Direction"
-msgstr "LTR"
+msgstr "ಭಾಷೆ-ದಿಕ್ಕು"
 
 # Scale to apply to font size (2 for twice as large)
 # Use this if the font is too small for legibility on the Scratch interface
+# 
 msgid "Font-Scale"
 msgstr "1.8"
 
 # Set to 'true' or 'false'
 # Use this if you do not want any of the text to be bolded, for legibility
+# 
 msgid "Suppress-Bold"
 msgstr "true"
 
 # Font to use on a Windows system
+# 
 msgid "Win-Font"
 msgstr "Arial Unicode MS"
 
 # Font to use on a Mac system
+# 
 msgid "Mac-Font"
 msgstr ""
 
 # Font to use on a Linux system
+# 
 msgid "Linux-Font"
 msgstr ""
 
-############################################
+# ##########################################
 # BLOCKS
-############################################
-
+# ##########################################
+# 
 msgid "%H sensor value"
 msgstr "%H ಗ್ರಹಿಕೆಯ ಮೌಲ್ಯ"
 
 msgid "%L contains %s"
-msgstr ""
+msgstr "%L ಹೊಂದಿದೆ %s"
 
 msgid "%a of %m"
 msgstr "%a ರ %m"
@@ -74,13 +82,13 @@ msgid "%n mod %n"
 msgstr "%n ಶೇಷ %n"
 
 msgid "add %s to %L"
-msgstr ""
+msgstr "%L ಗೆ %s ಅನ್ನು ಕೂಡಿಸಿ"
 
 msgid "answer"
-msgstr ""
+msgstr "ಉತ್ತರ"
 
 msgid "ask %s and wait"
-msgstr ""
+msgstr "ಕೇಳು %s ಮತ್ತು ನಿಧಾನಿಸು"
 
 msgid "background #"
 msgstr "ಹಿಂದಣ #"
@@ -89,7 +97,7 @@ msgid "broadcast %e"
 msgstr "ಪ್ರಸರಿಸು %e"
 
 msgid "broadcast %e and wait"
-msgstr "ಪ್ರಸರಿಸು ಮತ್ತು ಕಾಯಬೇಕು %e"
+msgstr "ಪ್ರಸರಿಸು %e ಮತ್ತು ಕಾಯಬೇಕು"
 
 msgid "change %g effect by %n"
 msgstr "ಪರಿಣಾಮವನ್ನು %g ಗೆ ಬದಲಾಹಿಸು %n"
@@ -128,7 +136,7 @@ msgid "clear graphic effects"
 msgstr "ಎಲ್ಲಾ ಪರಿಣಾಮಗಳನ್ನು ಅಳಿಸು"
 
 msgid "color %C is touching %C?"
-msgstr "%C ಬಣ್ಣ %C ಅನ್ನು ಮುಟ್ಟಿದಾಗ"
+msgstr "ಬಣ್ಣ %Cಯು %C ಅನ್ನು ಮುಟ್ಟಿದಾಗ?"
 
 msgid "control"
 msgstr "ಹಿಡಿತ"
@@ -137,13 +145,13 @@ msgid "costume #"
 msgstr "ಉಡುಪು #"
 
 msgid "delete %y of %L"
-msgstr ""
+msgstr "ಅಳಿಸು %y ಅನ್ನು %L ರಷ್ಟು"
 
 msgid "direction"
 msgstr "ದಿಕ್ಕು"
 
 msgid "distance to %m"
-msgstr "%m ಗೆ ಅಂತರ"
+msgstr "ದೂರ %m ಗೆ"
 
 msgid "else"
 msgstr "ಇಲ್ಲದಿದ್ದರೆ"
@@ -155,13 +163,13 @@ msgid "forever if %b"
 msgstr "ಒಂದುವೇಳೆ %b ಯವಾಗಲು"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n ಸೆಕೆಂಡಿನಲ್ಲಿ x:%n y:%n ರಷ್ಟು ಸರಿ"
+msgstr "x ಗೆ %n ಸೆಕೆಂಡಿನಲ್ಲಿ ಜಾರು:%n y:%n ರಷ್ಟು ಸರಿ"
 
 msgid "go back %n layers"
-msgstr "%n ಪದರಗಳು ಹಿಂದೆ ಹೋಗು"
+msgstr "ಪದರಗಳು %nರಷ್ಟು ಹಿಂದೆ ಹೋಗು"
 
 msgid "go to %m"
-msgstr "%m ಗೆ ಹೋಗು"
+msgstr "ಹೋಗು %mರಷ್ಟು"
 
 msgid "go to front"
 msgstr "ಮುಂದಕ್ಕೆ ಹೋಗು"
@@ -173,7 +181,7 @@ msgid "hide"
 msgstr "ಬಚ್ಚಿಡು"
 
 msgid "hide variable %v"
-msgstr ""
+msgstr "ಪರಿವರ್ತನೆಯನ್ನು ಬಚ್ಚಿಡು %v"
 
 msgid "if %b"
 msgstr "ಒಂದುವೇಳೆ %b"
@@ -182,34 +190,34 @@ msgid "if on edge, bounce"
 msgstr "ಒಂದುವೇಳೆ ಕೊನೆಗೆ ಹೋದಾಗ ಜಿಗಿ"
 
 msgid "insert %s at %i of %L"
-msgstr ""
+msgstr "ಕೂಡಿಸಿ %sಅನ್ನು %iನಲ್ಲಿ %L ರಷ್ಟು"
 
 msgid "item %i of %L"
-msgstr ""
+msgstr "ವಸ್ತು %i ರ %L"
 
 msgid "join %s %s"
-msgstr ""
+msgstr "ಕೂಡಿಸು %s ಮತ್ತು %s"
 
 msgid "key %k pressed?"
-msgstr "%k ಕೀ ಒತ್ತಿದರೆ?"
+msgstr "ಕೀಲಿ %kಅನ್ನು ಒತ್ತಿದಾಗ?"
 
 msgid "length of %L"
-msgstr ""
+msgstr "ಉದ್ದವು %Lರದ್ದು"
 
 msgid "length of %s"
-msgstr ""
+msgstr "ಉದ್ದವು %sರದ್ದು"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "ಅಕ್ಷರ %n ರ %s"
 
 msgid "list"
-msgstr ""
+msgstr "ಪಟ್ಟಿ"
 
 msgid "looks"
 msgstr "ಕಾಣುವುದು"
 
 msgid "loud?"
-msgstr "ಧ್ವನಿ?"
+msgstr "ದೊಡ್ಡ ಧ್ವನಿ?"
 
 msgid "loudness"
 msgstr "ಧ್ವನಿಯುಕ್ತ"
@@ -218,19 +226,19 @@ msgid "motion"
 msgstr "ಚಲನೆ"
 
 msgid "motor direction %W"
-msgstr ""
+msgstr "ವಾಹನದ ದಿಕ್ಕು %W"
 
 msgid "motor off"
-msgstr ""
+msgstr "ವಾಹನ ನಿಲ್ಲಿಸು"
 
 msgid "motor on"
-msgstr ""
+msgstr "ವಾಹನವನ್ನು ಚಾಲನೆಮಾಡು"
 
 msgid "motor on for %n secs"
-msgstr ""
+msgstr "ಸೆಕೆಂಡು %nರಷ್ಟು ವಾಹನವನ್ನು ಚಾಲನೆಮಾಡು"
 
 msgid "motor power %n"
-msgstr ""
+msgstr "ವಾಹನದ ಶಕ್ತಿ %n"
 
 msgid "mouse down?"
 msgstr "ಮೌಸ್ ಒತ್ತಿದಾಗ?"
@@ -242,7 +250,7 @@ msgid "mouse y"
 msgstr "ಮೌಸ್ y"
 
 msgid "move %n steps"
-msgstr "%n ಹೆಜ್ಜೆ ಮುಂದೆ ಹೋಗು"
+msgstr "ಹೆಜ್ಜೆಗಳು %nರಷ್ಟು ಮುಂದೆ ಹೋಗು"
 
 msgid "next background"
 msgstr "ಮುಂದಿನ ಹಿಂದಣ"
@@ -251,10 +259,10 @@ msgid "next costume"
 msgstr "ಮುಂದಿನ ಉಡುಪು"
 
 msgid "not %b"
-msgstr "%b ಅಲ್ಲ"
+msgstr "ಅಲ್ಲ %bಯು"
 
 msgid "operators"
-msgstr ""
+msgstr "ಚಿಹ್ನ್ನೆಗಳು "
 
 msgid "pen"
 msgstr "ಲೇಖಣಿ"
@@ -266,85 +274,85 @@ msgid "pen up"
 msgstr "ಲೇಖಣಿಮುಕ್ತ"
 
 msgid "pick random %n to %n"
-msgstr "%n ನಿಂದ %n ವರೆಗೂ ಎಷ್ಟನ್ನಾದರೂ ಆಯ್ದುಕೊ"
+msgstr "ಯಾದೃಚಿಕವಾಗಿ %n ಅನ್ನು %nಗೆ ಆಯ್ಕೆ ಮಾಡು"
 
 msgid "play drum %D for %n beats"
-msgstr "%D ಲಯದಲ್ಲಿ %n ಡೋಲು ಬಾರಿಸು"
+msgstr "ಡೋಲು ಬಾರಿಸು %Dರಷ್ಟಕ್ಕೆ %n ಲಯದಲ್ಲಿ"
 
 msgid "play note %N for %n beats"
-msgstr "%N ಲಯದಲ್ಲಿ %n ಸಂಗಿತದಸ್ವರ ಕೇಳಿಸು"
+msgstr "ಸಂಗಿತದಸ್ವರ ಕೇಳಿಸು %Nರಷ್ಟಕ್ಕೆ %n ಲಯದಲ್ಲಿ"
 
 msgid "play sound %S"
-msgstr "%S ಶಬ್ಧ ಕೇಳಿಸು"
+msgstr "ಶಬ್ಧ ಕೇಳಿಸು %Sರಷ್ಟು"
 
 msgid "play sound %S until done"
-msgstr "%S ಆಗುವವರೆಗೂ ಶಬ್ಧ ಕೇಳಿಸು"
+msgstr "ಶಬ್ಧ ಕೇಳಿಸು %S ಆಗುವವರೆಗೂ"
 
 msgid "point in direction %d"
-msgstr "%d ಯ ದಿಕ್ಕಿನಲ್ಲಿಡು"
+msgstr "ದಿಕ್ಕು %d ನಲ್ಲಿಡಿ"
 
 msgid "point towards %m"
-msgstr "%m ಯ ಕಡೆ ಇಡು"
+msgstr "ಇಡು %m ನ ಕಡೇ"
 
 msgid "repeat %n"
-msgstr "%n ಮರುಕಳಿಸು"
+msgstr "ಮರುಕಳಿಸು %nರಷ್ಟು"
 
 msgid "repeat until %b"
-msgstr "%b ವರೆಗೂ ಮರುಕಳಿಸು"
+msgstr "ಮರುಕಳಿಸು %b ವರೆಗೂ"
 
 msgid "replace item %i of %L with %s"
-msgstr ""
+msgstr "ವಸ್ತು %i ರ %L ಜೊತೆ %sಅನ್ನು ಬದಲಾಯಿಸು"
 
 msgid "reset timer"
 msgstr "ಸಮಯಸೂಚಕವನ್ನು ಮರುಹೊಂದಿಸು"
 
 msgid "rest for %n beats"
-msgstr "%n ಲಯವನ್ನು ನಿಲ್ಲಿಸು"
+msgstr "ಲಯವನ್ನು %nರಷ್ಟು ನಿಲ್ಲಿಸು"
 
 msgid "round %n"
-msgstr "%n ಸರಿಮಾಡು"
+msgstr "ಸರಿಮಾಡು %nರಷ್ಟು"
 
 msgid "say %s"
-msgstr "%s ಎಂದು ಹೇಳು"
+msgstr "ಹೇಳು %s ಎಂದು"
 
 msgid "say %s for %n secs"
-msgstr "%s ಎಂದು %n ಸೆಕೆಂಡಿನಲ್ಲಿ ಹೇಳು"
+msgstr "ಹೇಳು %s ಎಂದು %n ಸೆಕೆಂಡುವರಗೆ"
 
 msgid "sensing"
 msgstr "ಗ್ರಹಿಸುವುದು"
 
 msgid "sensor %h?"
-msgstr "%h ಗ್ರಹಿಕೆ?"
+msgstr "ಗ್ರಹಿಕೆ %h?"
 
 msgid "set %g effect to %n"
-msgstr "%g ಪರಿಣಾಮವನ್ನು %n ಗೆ ಹೊಂದಿಸು"
+msgstr "ಪರಿಣಾಮ %gಅನ್ನು %nಗೆ ಹೊಂದಿಸು"
 
 msgid "set %v to %n"
-msgstr "%v ಯನ್ನು %n ಗೆ ಹೊಂದಿಸು"
+msgstr "ಹೊಂದಿಸು %v ಯನ್ನು %nಗೆ"
 
 msgid "set instrument to %I"
-msgstr "%I ಗೆ ವಾದ್ಯವನ್ನು ಹೊಂದಿಸು"
+msgstr "ವಾದ್ಯವನ್ನು %Iಗೆ ಹೊಂದಿಸು"
 
 msgid "set pen color to %c"
-msgstr "%c ಗೆ ಲೇಖಣಿ ಬಣ್ಣವನ್ನು ಹೊಂದಿಸು"
+msgstr "ಲೇಖಣಿ ಬಣ್ಣವನ್ನು %cಗೆ ಹೊಂದಿಸು"
 
 msgid "set pen color to %n"
-msgstr "%n ಗೆ ಲೇಖಣಿ ಬಣ್ಣವನ್ನು ಹೊಂದಿಸು"
+msgstr "ಲೇಖಣಿ ಬಣ್ಣವನ್ನು %nಗೆ ಹೊಂದಿಸು"
 
 msgid "set pen shade to %n"
-msgstr "%n ರಷ್ಟಕ್ಕೆ ಲೇಖಣಿ ನೆರಳನ್ನು ಹೊಂದಿಸು"
+msgstr "ಲೇಖಣಿ ನೆರಳನ್ನು %nರಷ್ಟಕ್ಕೆ ಹೊಂದಿಸು"
 
 msgid "set pen size to %n"
-msgstr "%n ರಷ್ಟಕ್ಕೆ ಲೇಖಣಿ ಗಾತ್ರವನ್ನು ಹೊಂದಿಸು"
+msgstr "ಲೇಖಣಿ ಗಾತ್ರವನ್ನು %nರಷ್ಟಕ್ಕೆ ಹೊಂದಿಸು"
 
 msgid "set size to %n%"
-msgstr "%n% ರಷ್ಟಕ್ಕೆ ಗಾತ್ರವನ್ನು ಹೊಂದಿಸು"
+msgstr "ಗಾತ್ರವನ್ನು %n%ರಷ್ಟಕ್ಕೆ ಹೊಂದಿಸು"
 
 msgid "set tempo to %n bpm"
-msgstr "%n bpm ಗೆ ಲಯವನ್ನು ಹೊಂದಿಸು"
+msgstr "ಲಯವನ್ನು %n bpmಗೆ ಹೊಂದಿಸು"
 
 msgid "set volume to %n%"
-msgstr "%n% ಗೆ ಶಬ್ಧವನ್ನು ಹೊಂದಿಸು"
+msgstr "ಶಬ್ಧವನ್ನು %n%ಗೆ ಹೊಂದಿಸು"
 
 msgid "set x to %n"
 msgstr "x ಅನ್ನು %n ಗೆ ಹೊಂದಿಸು"
@@ -356,7 +364,7 @@ msgid "show"
 msgstr "ತೋರಿಸು"
 
 msgid "show variable %v"
-msgstr ""
+msgstr "ಪರಿವರ್ತನೆ %vಅನ್ನು ತೋರಿಸು"
 
 msgid "size"
 msgstr "ಗಾತ್ರ"
@@ -377,31 +385,31 @@ msgid "stop script"
 msgstr "ಆಜ್ಞೆ ನಿಲ್ಲಿಸು"
 
 msgid "switch to background %l"
-msgstr "%l ಗೆ ಹಿಂದಣವನ್ನು ಬದಲಾಹಿಸು"
+msgstr "ಹಿಂದಣವನ್ನು %l ಗೆ ಬದಲಾಹಿಸು"
 
 msgid "switch to costume %l"
-msgstr "%l ಉಡುಪಿಗೆ ಬದಲಾಹಿಸು"
+msgstr "ಉಡುಪನ್ನು %lಗೆ ಬದಲಾಹಿಸು"
 
 msgid "tempo"
 msgstr "ತಾಳ"
 
 msgid "think %s"
-msgstr "%s ಎಂದು ಯೋಚಿಸು"
+msgstr "ಯೋಚಿಸು %s ಎಂದು"
 
 msgid "think %s for %n secs"
-msgstr "%s ಎಂದು %n ಸೆಕೆಂಡಿನಲ್ಲಿ ಯೋಚಿಸು"
+msgstr "ಯೋಚಿಸು %s ಎಂದು %n ಸೆಕೆಂಡಿನಲ್ಲಿ"
 
 msgid "timer"
 msgstr "ಸಮಯಸೂಚಕ"
 
 msgid "touching %m?"
-msgstr "%m ಮುಟ್ಟಿದರೆ?"
+msgstr "ಮುಟ್ಟಿದರೆ %mಅನ್ನು?"
 
 msgid "touching color %C?"
-msgstr "%C ಬಣ್ಣವನ್ನು ಮುಟ್ಟಿದರೆ?"
+msgstr "ಬಣ್ಣ %Cಅನ್ನು ಮುಟ್ಟಿದರೆ?"
 
 msgid "turn %n degrees"
-msgstr "%n ಡಿಗ್ರಿಯಷ್ಟು ತಿರುಗು"
+msgstr "ಡಿಗ್ರಿ %nರಷ್ಟು ತಿರುಗು"
 
 msgid "variables"
 msgstr "ಪರಿವರ್ತನೆಗಳು"
@@ -410,19 +418,19 @@ msgid "volume"
 msgstr "ಶಬ್ಧ"
 
 msgid "wait %n secs"
-msgstr "%n ಸೆಕೆಂಡುಗಳಷ್ಟು ಕಾಯಬೇಕು"
+msgstr "ಸೆಕೆಂಡು %nರಷ್ಟು ಕಾಯಬೇಕು"
 
 msgid "wait until %b"
-msgstr "%b ವರೆಗೂ ಕಾಯಬೇಕು"
+msgstr "ಕಾಯಬೇಕು %b ರಷ್ಟು"
 
 msgid "when %k key pressed"
-msgstr "%k ಕೀ ಒತ್ತಿದಾಗ"
+msgstr "ಕೀಲಿ %k ಒತ್ತಿದಾಗ"
 
 msgid "when %m clicked"
-msgstr "%m ಒತ್ತಿದಾಗ"
+msgstr "ಯಾವಾಗವೆಂದರೆ %m ಒತ್ತಿದಾಗ"
 
 msgid "when I receive %e"
-msgstr "%e ಅನ್ನು ಪಡೆದಾಗ"
+msgstr "ಯಾವಾಗವೆಂದರೆ %e ಅನ್ನು ಪಡೆದಾಗ"
 
 msgid "x position"
 msgstr "x ಸ್ಥಾನ"
@@ -430,12 +438,12 @@ msgstr "x ಸ್ಥಾನ"
 msgid "y position"
 msgstr "y ಸ್ಥಾನ"
 
-############################################
+# ##########################################
 # USER INTERFACE
-############################################
-
+# ##########################################
+# 
 msgid "(empty)"
-msgstr ""
+msgstr "(ಖಾಲಿ)"
 
 msgid "1 script"
 msgstr "1 ಆಜ್ಞೆ"
@@ -444,31 +452,31 @@ msgid "About Scratch"
 msgstr "ಸ್ಕ್ರ್ಯಾಚ್ ಬಗ್ಗೆ"
 
 msgid "About this project:"
-msgstr "ಈ ಯೋಜನೆ ಬಗ್ಗೆ"
+msgstr "ಈ ಯೋಜನೆ ಬಗ್ಗೆ:"
 
 msgid "abs"
 msgstr "ಪೂರ್ಣಾಂಕ"
 
 msgid "add comment"
-msgstr ""
+msgstr "ತಿಕೆಯನ್ನು ಕೂಡಿಸು"
 
 msgid "add comment here"
-msgstr ""
+msgstr "ಇಲ್ಲಿ ಟೀಕೆಯನ್ನು ಕೂಡಿಸು"
 
 msgid "all"
-msgstr ""
+msgstr "ಎಲ್ಲಾ"
 
 msgid "and"
 msgstr "ಮತ್ತು"
 
 msgid "Animation"
-msgstr ""
+msgstr "ತಿಟ್ಟೋಟ"
 
 msgid "any"
-msgstr ""
+msgstr "ಯಾವುದಾದರರು"
 
 msgid "Art"
-msgstr ""
+msgstr "ಕಲೆ"
 
 msgid "background"
 msgstr "ಹಿಂದಣ"
@@ -483,7 +491,7 @@ msgid "brightness"
 msgstr "ಪ್ರಕಾಶಮಾನ"
 
 msgid "Brush size: "
-msgstr "ಕುಂಚದ ಗಾತ್ರ : "
+msgstr "ಕುಂಚದ ಗಾತ್ರ: "
 
 msgid "button"
 msgstr "ಒತ್ತುಗುಂಡಿ"
@@ -492,22 +500,22 @@ msgid "button pressed"
 msgstr "ಒತ್ತುಗುಂಡಿಯನ್ನು ಒತ್ತಿದಾಗ"
 
 msgid "Camera"
-msgstr ""
+msgstr "ಬಿಂಬಗ್ರಾಹಿ"
 
 msgid "can rotate"
 msgstr "ತಿರುಗಿಸಬಹುದು"
 
 msgid "cancel"
-msgstr ""
+msgstr "ರದ್ದುಮಾಡು"
 
 msgid "Cancel"
 msgstr "ರದ್ದುಮಾಡು"
 
 msgid "Choose a folder"
-msgstr "ಫೋಲ್ಡರನ್ನು ಆರಿಸು"
+msgstr "ಮಡಿತೆಯನ್ನು ಆರಿಸು"
 
 msgid "Choose new sprite from file"
-msgstr "ಫೈಲ್-ನಿಂದ ಹೊಸ ಸ್ಪ್ರೈಟನ್ನು ಆರಿಸು"
+msgstr "ಕಡತದಿಂದ ಹೊಸ ಮೋಹಿನಿಯನ್ನು ಆರಿಸು"
 
 msgid "clean up"
 msgstr "ನಾಜೂಕು ಮಾಡು"
@@ -519,19 +527,19 @@ msgid "Clear canvas"
 msgstr "ಜಾಗವನ್ನು ಅಳಿಸು"
 
 msgid "Close and continue"
-msgstr ""
+msgstr "ಮುಚ್ಚಿ ಮತ್ತು ಮುಂದುವರಿಸಿ"
 
 msgid "Close dialog?"
-msgstr ""
+msgstr "ಗತಿಸಂವಾದವನ್ನು ಮುಚ್ಚಿ"
 
 msgid "Close paint editor?"
-msgstr ""
+msgstr "ಚಿತ್ರ ಸಂಕಲನವನ್ನು ಮುಚ್ಚಿ?"
 
 msgid "close port"
 msgstr "ಬಿರಟೆಯನ್ನು ಮುಚ್ಚು"
 
 msgid "Close sound recorder?"
-msgstr ""
+msgstr "ಧ್ವನಿಗ್ರಹಣವನ್ನು ಮುಚ್ಚಿ?"
 
 msgid "color"
 msgstr "ಬಣ್ಣ"
@@ -546,7 +554,7 @@ msgid "Compress sounds and images"
 msgstr "ಶಬ್ಧಗಳು ಮತ್ತು ಚಿತ್ರಗಳನ್ನು ಕುಗ್ಗಿಸು"
 
 msgid "Computer"
-msgstr "ಕಂಪ್ಯೂಟರ್"
+msgstr "ಗಣಕಯಂತ್ರ"
 
 msgid "connected"
 msgstr "ಜೋಡಿಸಿದೆ"
@@ -570,10 +578,10 @@ msgid "Could not read"
 msgstr "ವಾಚಿಸಲಿಲ್ಲ"
 
 msgid "Could not read project; file may be damaged"
-msgstr ""
+msgstr "ನೀಯೋಜನೆಯನ್ನು ವಾಚಿಸಲಿಲ್ಲ:ಕಡತ ಹಾಳಾಗಿರಬಹುದು"
 
 msgid "Could not write file"
-msgstr "ಉಳಿಸಲಿಲ್ಲ"
+msgstr "ಕಡತಕ್ಕೆ ಬರೆಯಲಿಲ್ಲ"
 
 msgid "Create account"
 msgstr "ಖಾತೆ ತೆರೆ"
@@ -591,13 +599,13 @@ msgid "Delete"
 msgstr "ಅಳಿಸು"
 
 msgid "Delete a list"
-msgstr ""
+msgstr "ಪಟ್ಟಿಯನ್ನು ಅಳಿಸು"
 
 msgid "Delete a variable"
-msgstr "ಪರಿವರ್ತನೆ ಅಳಿಸು"
+msgstr "ಪರಿವರ್ತನೆಯನ್ನು ಅಳಿಸು"
 
 msgid "Delete this background"
-msgstr ""
+msgstr "ಈ ಹಿಂದಣವನ್ನು ಅಳಿಸು"
 
 msgid "Delete this costume"
 msgstr "ಈ ಉಡುಪನ್ನು ಅಳಿಸು"
@@ -606,40 +614,40 @@ msgid "Delete this sound"
 msgstr "ಈ ಶಬ್ಧವನ್ನು ಅಳಿಸು"
 
 msgid "Delete this sprite"
-msgstr ""
+msgstr "ಈ ಮೋಹಿನಿಯನ್ನು ಅಳಿಸು"
 
 msgid "Desktop"
-msgstr ""
+msgstr "ಮೇಜು"
 
 msgid "disable remote sensor connections"
-msgstr ""
+msgstr "ದೂರದ ಗ್ರಹಿಕೆ ಸಭಂದವನ್ನು ಅನರ್ಹ ಮಾಡಿ"
 
 msgid "distance"
-msgstr ""
+msgstr "ದೂರ"
 
 msgid "Documents"
-msgstr "ಡಾಕ್ಯುಮೆಂಟ್ಸ್"
+msgstr "ದಸ್ತಾವೇಜುಗಳು"
 
 msgid "don't rotate"
 msgstr "ತಿರುಗಬೇಡ"
 
 msgid "Don't Save"
-msgstr ""
+msgstr "ಉಳಿಸಬೇಡ"
 
 msgid "Done"
-msgstr ""
+msgstr "ಮುಗಿದಿದೆ"
 
 msgid "down"
 msgstr "ಕೆಳಗೆ"
 
 msgid "down arrow"
-msgstr "ಕೆಳ ಒತ್ತುಗುಂಡಿ"
+msgstr "ಕೆಳ ದಿಕ್ಸೂಚಕ ಚಿಹ್ನೆ"
 
 msgid "drag to resize"
-msgstr ""
+msgstr "ಗಾತ್ರ ಸರಿಪಡಿಸುಗೆ ಸರಿಸಿರಿ"
 
 msgid "drag to rotate"
-msgstr ""
+msgstr "ತಿರುಗುಗೆ ಸರಿಸಿರಿ"
 
 msgid "draggable on website?"
 msgstr "ಅಂತರ್ಜಾಲದಲ್ಲಿ ಸರಿಸಬಹುದು?"
@@ -657,31 +665,32 @@ msgid "Edit"
 msgstr "ಚಿತ್ರ ಸಂಕಲನ"
 
 msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
-msgstr "ಅಂಡಾಕೃತಿ ಉಪಕರಣ (ಹೊರರೇಖಾ ಅಥವಾ ತುಂಬಿಸಿದ)"
+msgstr ""
+"ದೀರ್ಘವೃತ್ತ ಉಪಕರಣ (ಹೊರರೇಖೆಯನ್ನು ಬರೆ ಅಥವಾ ತುಂಬಿಸಿದ ದೀರ್ಘವೃತ್ತ ಅಥವಾ ವೃತ್ತ)"
 
 msgid "enable remote sensor connections"
-msgstr ""
+msgstr "ದೂರದ ಗ್ರಹಿಕೆಯ ಸ೦ಭ೦ದವನ್ನು ಶಕ್ತಪಡಿಸಿರಿ"
 
 msgid "Enter presentation mode"
-msgstr "ಪ್ರದರ್ಶನ ಮಾಡು"
+msgstr "ನಿರೂಪಣೆ ದಿಶೆಗೆ ಪ್ರವೇಶಿಸಿ"
 
 msgid "Eraser"
-msgstr "ಒರಸು"
+msgstr "ರಬ್ಬರು"
 
 msgid "Eraser size"
-msgstr "ಒರೆಸುವ ಗಾತ್ರ"
+msgstr "ರಬ್ಬರಿನ ಗಾತ್ರ"
 
 msgid "Error!"
-msgstr ""
+msgstr "ತಪ್ಪು!"
 
 msgid "Examples"
-msgstr ""
+msgstr "ಉದಾಹರಣೆಗಳು"
 
 msgid "Exit presentation"
-msgstr ""
+msgstr "ನಿರೂಪಣೆಯಿಂದ ಹೊರಬನ್ನಿ"
 
 msgid "Exit presentation mode"
-msgstr "ಪ್ರದರ್ಶನ ನಿಲ್ಲಿಸು"
+msgstr "ನಿರೂಪಣೆ ದಿಶೆಯಿಂದ ಹೊರಬನ್ನಿ"
 
 msgid "export"
 msgstr "ರಪ್ತು"
@@ -699,31 +708,31 @@ msgid "Export Sound"
 msgstr "ಶಬ್ಧವನ್ನು ರಪ್ತುಮಾಡು"
 
 msgid "Export Sprite"
-msgstr "ಸ್ಪ್ರ್ಯೆಟನ್ನು ರಪ್ತುಮಾಡು"
+msgstr "ಮೋಹಿನಿಯನ್ನು ರಪ್ತುಮಾಡು"
 
 msgid "export this costume"
-msgstr ""
+msgstr "ಈ ಉಡುಪನ್ನು ರಪ್ತುಮಾಡು"
 
 msgid "export this sound"
-msgstr ""
+msgstr "ಈ ಧ್ವನಿಯನ್ನು ರಪ್ತುಮಾಡು"
 
 msgid "export this sprite"
-msgstr "ಈ ಸ್ಪ್ರ್ಯೆಟನ್ನು ರಪ್ತುಮಾಡು"
+msgstr "ಈಮೋಹಿನಿಯನ್ನು ರಪ್ತುಮಾಡು"
 
 msgid "Extras menu"
 msgstr "ಇತರೆಯ ಪಟ್ಟಿ"
 
 msgid "Eyedropper tool (select a color)"
-msgstr "ಬಣ್ಣವನ್ನು ಆರಿಸುವ ಉಪಕರಣ"
+msgstr "ಬಣ್ಣವನ್ನು ಆರಿಸುವ ಉಪಕರಣ (ಬಣ್ಣವನ್ನು ಆಯ್ಕೆ ಮಾಡು)"
 
 msgid "Failed:"
-msgstr "ಆಗಲಿಲ್ಲ:"
+msgstr "ಸೋಲು"
 
 msgid "false"
 msgstr "ತಪ್ಪು"
 
 msgid "File"
-msgstr ""
+msgstr "ಕಡತ"
 
 msgid "File not found"
 msgstr "ತಪ್ಪು"
@@ -732,7 +741,7 @@ msgid "Fill tool (fill areas with color or gradient)"
 msgstr "ತುಂಬಿಸುವ ಉಪಕರಣ (ಬಣ್ಣ ಅಥವಾ ಬಣ್ಣದ ಏರಿಳಿತ)"
 
 msgid "first"
-msgstr ""
+msgstr "ಮೊದಲು"
 
 msgid "fisheye"
 msgstr "ಮತ್ಸ್ಯ ನೋಟ"
@@ -750,46 +759,46 @@ msgid "Flip vertically"
 msgstr "ಲಂಬಾಂತರವಾಗಿ ಬದಲಿಸು"
 
 msgid "For all sprites"
-msgstr "ಎಲ್ಲಾ ಸ್ಪ್ರ್ಯೆಟ್-ಗಳಿಗೂ"
+msgstr "ಎಲ್ಲಾ ಮೊಹಿನಿಗಳಿಗು"
 
 msgid "For this sprite only"
-msgstr "ಈ ಸ್ಪ್ರ್ಯೆಟ್-ಗೆ ಮಾತ್ರ"
+msgstr "ಈ ಮೋಹಿನಿಗೆ ಮಾತ್ರ"
 
 msgid "Game"
-msgstr ""
+msgstr "ಸ್ಪರ್ದೆ"
 
 msgid "Get surprise sprite"
-msgstr "ಹೊಸ ಸ್ಪ್ರ್ಯೆಟನ್ನು ತೆಗೆದುಕೊ"
+msgstr "ವಿಸ್ಮಯವನ್ನುಂಟುಮಾಡು ಮೋಹಿನಿಯನ್ನು ತೆಗೆದುಕೊ"
 
 msgid "Get the last thing deleted"
-msgstr "ಕೊನೆಯದಾಗಿ ಮಾಡಿದ್ದನ್ನು ಸರಿಮಾಡು"
+msgstr "ಕೊನೆಯದಾಗಿ ಅಳಿಸಿದ್ದನ್ನು ತಗೆದುಕೊ"
 
 msgid "Getting Started"
-msgstr ""
+msgstr "ಪ್ರಾರಂಬವಾಗಲು ಶುರುವಾಗಿದೆ"
 
 msgid "ghost"
 msgstr "ಭೂತ"
 
 msgid "Go To Scratch Website"
-msgstr ""
+msgstr "ಸ್ಕ್ರಾಚ್ ಮಿನ್ನಲೆಗೆ ಹೋಗಿ"
 
 msgid "grab screen region for new costume"
 msgstr "ಹಿಂದಣದ ಜಾಗವನ್ನು ಹೊಸ ಉಡುಪಿಗಾಗಿ ತೆಗೆದುಕೊ"
 
 msgid "grab screen region for new sprite"
-msgstr "ಹಿಂದಣದ ಜಾಗವನ್ನು ಹೊಸ ಸ್ಪ್ರ್ಯೆಟ್-ಗಾಗಿ ತೆಗೆದುಕೊ"
+msgstr "ಹಿಂದಣದ ಜಾಗವನ್ನು ಹೊಸ ಮೋಹಿನಿಗಾಗಿ ತೆಗೆದುಕೊ"
 
 msgid "Grow"
 msgstr "ದೊಡ್ಡದಾಗು"
 
 msgid "Grow sprite"
-msgstr "ಸ್ಪ್ರ್ಯೆಟ್ ದೊಡ್ಡದಾಗು"
+msgstr "ಮೋಹಿನಿ ದೊಡ್ಡದಾಗು"
 
 msgid "hello "
-msgstr ""
+msgstr "ಹಲೋ"
 
 msgid "Hello!"
-msgstr "ಹೆಲೋ"
+msgstr "ಹೆಲೋ!"
 
 msgid "help"
 msgstr "ಸಹಾಯ"
@@ -798,34 +807,34 @@ msgid "Help"
 msgstr "ಸಹಾಯ"
 
 msgid "Help Page"
-msgstr ""
+msgstr "ಸಹಾಯ ಪುಟ"
 
 msgid "Help Screens"
-msgstr ""
+msgstr "ಸಹಾಯ ಪರದೆ"
 
 msgid "Hide Motor Blocks"
-msgstr ""
+msgstr "ವಾಹನದ ಬಿರಡೆಗಳನ್ನು ಬಚ್ಚಿಡಿ"
 
 msgid "High (biggest)"
-msgstr "ಹೆಚ್ಚು"
+msgstr "ಹೆಚ್ಚು (ಅಧಿಕವಾದುದ್ದು)"
 
 msgid "Hmm..."
 msgstr "ಹಮ್..."
 
 msgid "Home"
-msgstr ""
+msgstr "ಮನೆ"
 
 msgid "Images compressed"
 msgstr "ಚಿತ್ರಗಳನ್ನು ಕುಗ್ಗಿಸು"
 
 msgid "import"
-msgstr ""
+msgstr "ಆಮದು"
 
 msgid "Import"
 msgstr "ಆಮದು"
 
 msgid "Import an image on top of your current canvas"
-msgstr "ವೇದಿಕೆಯ ಮೇಲೆ ಚಿತ್ರವನ್ನು ಆಮದುಮಾಡಿಕೊ"
+msgstr "ನಿಮ್ಮ ಈಗಿನ ಜಾಗದ ಮೇಲೆ ಚಿತ್ರವನ್ನು ಆಮದುಮಾಡಿಕೊ"
 
 msgid "Import Background"
 msgstr "ಹಿಂದಣವನ್ನು ಆಮದುಮಾಡಿಕೊ"
@@ -837,28 +846,28 @@ msgid "Import Image"
 msgstr "ಚಿತ್ರವನ್ನು ಆಮದುಮಾಡಿಕೊ"
 
 msgid "Import List"
-msgstr ""
+msgstr "ಪಟ್ಟಿಯನ್ನು ಆಮದುಮಾಡಿಕೊ"
 
 msgid "Import Project"
-msgstr "ಯೋಜನೆಯನ್ನು ಆಮದುಮಾಡಿಕೊ"
+msgstr "ನೀಯೋಜನೆಯನ್ನು ಆಮದುಮಾಡಿಕೊ"
 
 msgid "import project"
-msgstr ""
+msgstr "ನೀಯೋಜನೆಯನ್ನು ಆಮದು ಮಾಡಿಕೋ"
 
 msgid "Import Sound"
 msgstr "ಶಬ್ಧವನ್ನು ಆಮದುಮಾಡಿಕೊ"
 
 msgid "Incompatible Scratch file format"
-msgstr "ತಪ್ಪಾದ ಸ್ಕ್ರ್ಯಾಚ್ ಫೈಲ್-ವ್ಯವಸ್ಥೆ"
+msgstr "ಹೊಂದಿಕೊಳ್ಳದ ಸ್ಕ್ರಾಚ್ ಕಡತದ ವಿನ್ಯಾಸ"
 
 msgid "Is the folder read-only?"
-msgstr "ಈ ಫೋಲ್ಡರ್ ನೋಡುವುದಕ್ಕಾಗಿ ಮಾತ್ರ? "
+msgstr "ಈ ಮಡಿತೆ ಓದುವುದಕ್ಕೆ ಮಾತ್ರ?"
 
 msgid "JPEG Quality (10-100)?"
-msgstr "JPEG ಗುಣಮಟ್ಟ (1-100)"
+msgstr "JPEG ಗುಣಮಟ್ಟ (10-100)?"
 
 msgid "kbytes"
-msgstr "kbytes"
+msgstr "kಅಷ್ಟಕಗಳು"
 
 msgid "Language"
 msgstr "ಭಾಷೆ"
@@ -867,34 +876,34 @@ msgid "large readout"
 msgstr "ದೊಡ್ಡದಾಗಿ ಕಾಣಿಸು"
 
 msgid "last"
-msgstr ""
+msgstr "ಕೊನೆ"
 
 msgid "left"
 msgstr "ಎಡ"
 
 msgid "left arrow"
-msgstr "ಎಡ ಒತ್ತುಗುಂಡಿ"
+msgstr "ಎಡ ದಿಕ್ಸೂಚಕ ಚಿಹ್ನೆ"
 
 msgid "length"
-msgstr ""
+msgstr "ಉದ್ದ"
 
 msgid "light"
 msgstr "ಬೆಳಕು"
 
 msgid "Line tool (draw lines)"
-msgstr "ರೇಖೆಯನ್ನು ರಚಿಸು"
+msgstr "ರೇಖೆಯನ್ನು ರಚಿಸು (ರೇಖೆಗಳನ್ನು ಬರೆ)"
 
 msgid "List name?"
-msgstr ""
+msgstr "ಪಟ್ಟಿಯ ಹೆಸರು?"
 
 msgid "Low"
 msgstr "ಕಡಿಮೆ"
 
 msgid "Lowest (smallest)"
-msgstr "ಕಡಿಮೆಯಾದ"
+msgstr "ಕಡಿಮೆಯಾದ (ಚಿಕ್ಕದಾದ)"
 
 msgid "Make a list"
-msgstr ""
+msgstr "ಪಟ್ಟಿಯನ್ನು ಮಾಡು"
 
 msgid "Make a variable"
 msgstr "ಪರಿವರ್ತನೆ ಮಾಡು"
@@ -930,7 +939,7 @@ msgid "mouse y:"
 msgstr "ಮೌಸ್ y:"
 
 msgid "mouse-pointer"
-msgstr "ಮೌಸ್"
+msgstr "ಮೌಸ್-ಸೂಚಕ"
 
 msgid "Move"
 msgstr "ಚಲಿಸು"
@@ -939,7 +948,7 @@ msgid "Music"
 msgstr "ಸಂಗೀತ"
 
 msgid "My Projects"
-msgstr ""
+msgstr "ನನ್ನ ನೀಯೋಜನೆಗಳು"
 
 msgid "new"
 msgstr "ಹೊಸ"
@@ -954,10 +963,10 @@ msgid "New costume:"
 msgstr "ಹೊಸ ಉಡುಪು:"
 
 msgid "New file name?"
-msgstr ""
+msgstr "ಹೊಸದಾದ ಕಡತದ ಹೆಸರು?"
 
 msgid "New Filename:"
-msgstr "ಹೊಸ ಫೈಲ್-ಹೆಸರು:"
+msgstr "ಹೊಸ ಕಡತದ ಹೆಸರು:"
 
 msgid "New sound:"
 msgstr "ಹೊಸ ಶಬ್ಧ:"
@@ -966,25 +975,25 @@ msgid "New Sprite"
 msgstr "ಹೊಸ ಸ್ಪ್ರೈಟ್"
 
 msgid "New sprite:"
-msgstr ""
+msgstr "ಹೊಸ ಮೋಹಿನಿ:"
 
 msgid "No"
 msgstr "ಬೇಡ"
 
 msgid "No MIDI ports currently available."
-msgstr "ಮಿಡಿ-ಬಿರಟೆಗಳು ಸಿಗುತ್ತಿಲ್ಲ"
+msgstr "MIDI ಬಿರಟೆಗಳು ಇವಾಗ ಸಿಗುತ್ತಿಲ್ಲ."
 
 msgid "No motion blocks"
-msgstr "ಚಲಿಸುವ-ಇಟ್ಟಿಗೆಗಳು ಇಲ್ಲ"
+msgstr "ಚಲಿಸುವ ಇಟ್ಟಿಗೆಗಳು ಇಲ್ಲ"
 
 msgid "no scripts"
-msgstr ""
+msgstr "ಲಿಪಿಗಳು ಇಲ್ಲ"
 
 msgid "No serial ports found"
-msgstr "ಸಿರಿಯಲ್-ಬಿರಟೆಗಳು ಸಿಗುತ್ತಿಲ್ಲ"
+msgstr "ಕ್ರಮಬದ್ದ ಬಿರಟೆಗಳು ಸಿಗುತ್ತಿಲ್ಲ"
 
 msgid "No variables."
-msgstr "ಪರಿವರ್ತನೆಗಳು ಇಲ್ಲ"
+msgstr "ಪರಿವರ್ತನೆಗಳು ಇಲ್ಲ."
 
 msgid "Normal"
 msgstr "ಸಾಮಾನ್ಯ"
@@ -996,10 +1005,10 @@ msgid "Off"
 msgstr "ನಿಲ್ಲಿಸು"
 
 msgid "OK"
-msgstr "ಸರಿ"
+msgstr "OK"
 
 msgid "On"
-msgstr "ಚಲಿಸು"
+msgstr "ಚಾಲನೆ ಮಾಡು"
 
 msgid "only face left-right"
 msgstr "ಎಡ-ಬಲ ಮುಖ ಮಾತ್ರಮಾಡು"
@@ -1008,7 +1017,7 @@ msgid "Open"
 msgstr "ತೆರೆ"
 
 msgid "Open a Scratch project"
-msgstr "ಸ್ಕ್ರ್ಯಾಚ್ ಯೋಜನೆಯನ್ನು ತೆರೆ"
+msgstr "ಸ್ಕ್ರ್ಯಾಚ್ ನೀಯೋಜನೆಯನ್ನು ತೆರೆ"
 
 msgid "Open Project"
 msgstr "ಯೋಜೆನೆ ತೆರೆ"
@@ -1023,7 +1032,7 @@ msgid "Paint Editor"
 msgstr "ಚಿತ್ರ ಸಂಕಲನ"
 
 msgid "Paint new sprite"
-msgstr "ಹೊಸ ಸ್ಪ್ರೈಟನ್ನು ಚಿತ್ರಿಸು"
+msgstr "ಹೊಸ ಮೋಹಿನಿಯನ್ನು ಚಿತ್ರಿಸು"
 
 msgid "Paintbrush"
 msgstr "ಚಿತ್ರ-ಕುಂಚ"
@@ -1032,7 +1041,7 @@ msgid "Password:"
 msgstr "ಗುರುತುಪದ:"
 
 msgid "Percent? (100 gives original size)"
-msgstr "ಶೇಖಡ?"
+msgstr "ಶೇಖಡ? (100 ಅಸಲಾದ ಗಾತ್ರವನ್ನು ನೀಡುತ್ತದೆ)"
 
 msgid "Pictures"
 msgstr "ಚಿತ್ರಗಳು"
@@ -1056,31 +1065,31 @@ msgid "Preparing project..."
 msgstr "ಯೋಜನೆ ಸಿದ್ದವಾಗುತ್ತಿದೆ..."
 
 msgid "Project author:"
-msgstr "ಯೋಜನೆಕಾರರು:"
+msgstr "ನೀಯೋಜನೆಕಾರರು:"
 
 msgid "Project name"
-msgstr "ಯೋಜನೆ ಹೆಸರು"
+msgstr "ನೀಯೋಜನೆ ಹೆಸರು"
 
 msgid "Project Notes"
-msgstr "ಯೋಜನೆ ಬರಹ"
+msgstr "ನೀಯೋಜನೆ ಬರಹ"
 
 msgid "Project notes"
-msgstr "ಯೋಜನೆ ಬರಹ"
+msgstr "ನೀಯೋಜನೆ ಬರಹ"
 
 msgid "Project uploaded."
-msgstr "ಯೋಜನೆ ಹೇರಿಸಿದೆ"
+msgstr "ನೀಯೋಜನೆ ಮಿನ್ನೆರಿಸು."
 
 msgid "Projects"
-msgstr "ಯೋಜನೆಗಳು"
+msgstr "ನೀಯೋಜನೆಗಳು"
 
 msgid "Quit"
-msgstr ""
+msgstr "ನಿಲ್ಲಿಸು"
 
 msgid "Quit Scratch"
-msgstr ""
+msgstr "ಸ್ಕ್ರಾಚ್ ಅನ್ನು ನಿಲ್ಲಿಸು"
 
 msgid "Reading"
-msgstr ""
+msgstr "ಓದುವುದು"
 
 msgid "record"
 msgstr "ಧ್ವನಿ ಗ್ರಹಣ"
@@ -1089,7 +1098,7 @@ msgid "Record"
 msgstr "ಧ್ವನಿ ಗ್ರಹಣ"
 
 msgid "recording"
-msgstr "ಧ್ವನಿ"
+msgstr "ಧ್ವನಿಗ್ರಹಣ ಮಾಡುವುದು"
 
 msgid "Rectangle tool (draw outlined or filled rectangle or square)"
 msgstr "ಆಯುತ ಉಪಕರಣ (ಹೊರರೇಖಾ ಅಥವಾ ತುಂಬಿಸಿದ)"
@@ -1098,10 +1107,10 @@ msgid "Redo"
 msgstr "ಮತ್ತೆ ಮಾಡು"
 
 msgid "Reference Guide"
-msgstr ""
+msgstr "ಉಲ್ಲೇಖ ಗ್ರಂಥ"
 
 msgid "Remote sensor connections enabled"
-msgstr ""
+msgstr "ದೂರ ಗ್ರಹಿಕೆಯ ಸಭಂದಗಳು ಸಮರ್ಥವಾಗಿವೆ"
 
 msgid "Remove viewer from stage"
 msgstr "ವೇದಿಕೆ ಮೇಲೆ ನೋಡುವುದನ್ನು ನಿಲ್ಲಿಸು"
@@ -1110,16 +1119,16 @@ msgid "resistance"
 msgstr "ಪ್ರತಿರೋಧಕ"
 
 msgid "resize this sprite"
-msgstr ""
+msgstr "ಮೋಹಿನಿಯ ಗಾತ್ರವನ್ನು ಬದಲಿಸು"
 
 msgid "reverse"
-msgstr ""
+msgstr "ಹಿನ್ನಡೆಸು"
 
 msgid "right"
 msgstr "ಬಲ"
 
 msgid "right arrow"
-msgstr "ಬಲ ಒತ್ತುಗುಂಡಿ"
+msgstr "ಬಲ ದಿಕ್ಸೂಚಕ ಚಿಹ್ನೆ"
 
 msgid "Rotate clock-wise"
 msgstr "ಬಲಗಡೆ ತಿರುಗು"
@@ -1128,25 +1137,25 @@ msgid "Rotate counter-clock-wise"
 msgstr "ಎಡಗಡೆ ತಿರುಗು"
 
 msgid "rotate this sprite"
-msgstr ""
+msgstr "ಈ ಮೋಹಿನಿಯನ್ನು ತಿರುಗಿಸು"
 
 msgid "Rotation degrees?"
-msgstr "ಡಿಗ್ರಿಗಳಲ್ಲಿ ತಿರುಗುವಿಕೆ"
+msgstr "ಕೋನಗಳಲ್ಲಿ ತಿರುಗುವಿಕೆ?"
 
 msgid "Save"
 msgstr "ಉಳಿಸು"
 
 msgid "Save a copy of the current project"
-msgstr "ಈ ಯೋಜನೆಯ ಪ್ರತಿಯನ್ನು ಉಳಿಸು"
+msgstr "ಈ ನೀಯೋಜನೆಯ ಪ್ರತಿಯನ್ನು ಉಳಿಸು"
 
 msgid "Save As"
 msgstr "ಎಂದು ಉಳಿಸು"
 
 msgid "Save changes before quitting?"
-msgstr ""
+msgstr "ಬದಲಾವಣೆಗಳನ್ನು ನಿಲ್ಲಿಸುವ ಮೊದಲು ಉಳಿಸಿ?"
 
 msgid "Save failed"
-msgstr "ಉಳಿಸಲಿಲ್ಲ"
+msgstr "ಉಳಿಸು ವಿಫಲವಾಗಿದೆ"
 
 msgid "save picture of scripts"
 msgstr "ಆಜ್ಞೆಗಳ ಚಿತ್ರವನ್ನು ಉಳಿಸು"
@@ -1164,28 +1173,28 @@ msgid "Save Stage Shot"
 msgstr "ವೇದಿಕೆಯ ಚಿತ್ರವನ್ನು ಉಳಿಸು"
 
 msgid "Save the current project"
-msgstr "ಯೋಜನೆಯನ್ನು ಉಳಿಸು"
+msgstr "ಈಗಿನ ನೀಯೋಜನೆಯನ್ನು ಉಳಿಸು"
 
 msgid "Save the current project?"
-msgstr "ಯೋಜನೆಯನ್ನು ಉಳಿಸು?"
+msgstr "ಈಗಿನ ನೀಯೋಜನೆಯನ್ನು ಉಳಿಸು?"
 
 msgid "Save this project"
-msgstr ""
+msgstr "ಈ ನೀಯೋಜನೆಯನ್ನು ಉಳಿಸು"
 
 msgid "Scripts"
 msgstr "ಆಜ್ಞೆಗಳು"
 
 msgid "select serial/USB port"
-msgstr "ಸಿರಿಯಲ್/ಯು.ಎಸ್.ಬಿ ಬಿರಟೆಯನ್ನು ಆರಿಸಿಕೊ"
+msgstr "ಕ್ರಮವಾದ ಯು.ಎಸ್.ಬಿ ಬಿರಟೆಯನ್ನು ಆರಿಸಿಕೊ"
 
 msgid "Select tool (move, modify, or delete selection)"
 msgstr "ಆರಿಸುವ ಉಪರಕಣ (ಚಲಿಸು, ಬದಲಾವಣೆ ಅಥವಾ ಅಳಿಸು)"
 
 msgid "Set costume center"
-msgstr ""
+msgstr "ಉಡುಪನ್ನು ಮದ್ಯಕ್ಕೆ ಹೊಂದಿಸು"
 
 msgid "Set language"
-msgstr ""
+msgstr "ಭಾಷೆಯನ್ನೂ ಹೊಂದಿಸು"
 
 msgid "Set rotation center"
 msgstr "ತಿರಗುವ ಕೇಂದ್ರಬಿಂದುವನ್ನು ಹೊಂದಿಸು"
@@ -1200,25 +1209,25 @@ msgid "Share"
 msgstr "ಹಂಚು"
 
 msgid "Share this project"
-msgstr ""
+msgstr "ಈ ನೀಯೋಜನೆಯನ್ನು ಹಂಚು"
 
 msgid "Share This Project Online"
-msgstr "ಈ ಯೋಜನೆಯನ್ನು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಹಂಚಿಕೊ"
+msgstr "ಈ ನೀಯೋಜನೆಯನ್ನು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಹಂಚಿಕೊ"
 
 msgid "Show Motor Blocks"
-msgstr ""
+msgstr "ವಾಹನದ ಖಂಡಗಳನ್ನು ತೋರಿಸು"
 
 msgid "show ScratchBoard watcher"
-msgstr "ಸ್ಕ್ರ್ಯಾಚ್-ಬೋರ್ಡ್ ನೀರಿಕ್ಷಕವನ್ನು ತೊರಿಸು"
+msgstr "ಸ್ಕ್ರ್ಯಾಚ್-ಹಲಗೆ ನೀರಿಕ್ಷಕವನ್ನು ತೊರಿಸು"
 
 msgid "Shrink"
 msgstr "ಮುದುಡು"
 
 msgid "Shrink sprite"
-msgstr "ಸ್ಪ್ರೈಟ್ ಮುದುಡಿಕೊ"
+msgstr "ಮೋಹಿನಿ ಮುದುಡಿಕೊ"
 
 msgid "Simulation"
-msgstr ""
+msgstr "ಅಣುಕು"
 
 msgid "Single-step speed?"
 msgstr "ಪ್ರತಿಹಂತದ ವೇಗ"
@@ -1245,10 +1254,10 @@ msgid "space"
 msgstr "ಜಾಗ"
 
 msgid "Sprite"
-msgstr "ಸ್ಪ್ರೈಟ್"
+msgstr "ಮೋಹಿನಿ"
 
 msgid "Sprites"
-msgstr ""
+msgstr "ಮೊಹಿನಿಗಳು"
 
 msgid "sqrt"
 msgstr "ವರ್ಗಮೂಲ"
@@ -1278,22 +1287,22 @@ msgid "Stop Single Stepping"
 msgstr "ಪ್ರತಿಯೊಂದು ಹಂತವನ್ನು ನಿಲ್ಲಿಸು"
 
 msgid "Story"
-msgstr ""
+msgstr "ಕಥೆ"
 
 msgid "Support Site"
-msgstr ""
+msgstr "ಆಧಾರ ಸ್ಥಳ"
 
 msgid "Switch colors"
 msgstr "ಬಣ್ಣವನ್ನು ಬದಲಾಹಿಸು"
 
 msgid "Switch to full stage"
-msgstr ""
+msgstr "ಪೂರ್ತಿ ವೇದಿಕೆಗೆ ಬದಲಾಹಿಸು"
 
 msgid "Switch to presentation mode"
-msgstr ""
+msgstr "ನಿರೂಪಣೆ ದಿಶೆಗೆ ಬದಲಾಹಿಸು"
 
 msgid "Switch to small stage"
-msgstr ""
+msgstr "ಚಿಕ್ಕ ವೇದಿಕೆಗೆ ಬದಲಾಹಿಸು"
 
 msgid "Tags:"
 msgstr "ಗುರುತುಚೀಟಿಗಳು:"
@@ -1302,22 +1311,22 @@ msgid "Text tool (edit text layer)"
 msgstr "ಅಕ್ಷರ ಉಪಕರಣ (ಅಕ್ಷರ ಸಂಕಲನ)"
 
 msgid "That variable name is already in use"
-msgstr ""
+msgstr "ಪರ್ವರ್ತನೆಯ ಹೆಸರು ಅವಾಗಲೇ ಉಪಯೋಗದಲ್ಲಿದೆ"
 
 msgid "that way"
-msgstr ""
+msgstr "ಈ ದಾರಿ"
 
 msgid "The file name already exists. Overwrite existing file?"
-msgstr ""
+msgstr "ಕಡತದ ಹೆಸರು ಅವಾಗಲೇ ಇದೆ.ಇರುವ ಕಡತವನ್ನು ಮರುಬರವಣಿಗೆ ಮಾಡುವುದೇ?"
 
 msgid "thing"
-msgstr ""
+msgstr "ವಸ್ತು"
 
 msgid "this way"
-msgstr ""
+msgstr "ಈ ದಾರಿ"
 
 msgid "tilt"
-msgstr ""
+msgstr "ಓರೆ"
 
 msgid "true"
 msgstr "ಸರಿ"
@@ -1326,10 +1335,10 @@ msgid "Turbo speed"
 msgstr "ಅತಿ-ವೇಗ"
 
 msgid "turn into new sprite"
-msgstr "ಹೊಸ ಸ್ಪ್ರೈಟ್-ಗೆ ಬದಲಿಸು"
+msgstr "ಹೊಸ ಮೊಹಿನೀಗೆ ಬದಲಿಸು"
 
 msgid "Undelete"
-msgstr ""
+msgstr "ಅಳಿಸಬೇಡ"
 
 msgid "Undo"
 msgstr "ಮಾಡ ಬೇಡ"
@@ -1338,19 +1347,19 @@ msgid "up"
 msgstr "ಮೇಲೆ"
 
 msgid "up arrow"
-msgstr "ಮೇಲೆ ಒತ್ತುಗುಂಡಿ"
+msgstr "ಮೇಲೆ ದಿಕ್ಸೂಚಕ ಚಿಹ್ನೆ"
 
 msgid "Updating thumbnails"
 msgstr ""
 
 msgid "Upload succeeded!"
-msgstr "ಅಂತರ್ಜಾಲದಲ್ಲಿ ಸಂಗ್ರಹಣೆ ಪೂರ್ಣಗೊಂಡಿದೆ!"
+msgstr "ಅಂತರ್ಜಾಲದಲ್ಲಿ ಮಿನ್ನೆರಿಸು ಪೂರ್ಣಗೊಂಡಿದೆ!"
 
 msgid "Upload to Scratch Server"
-msgstr "ಸ್ಕ್ರ್ಯಾಚ್-ಸರ್ವರ್-ನಲ್ಲಿ ಸಂಗ್ರಹಣೆ ಮಾಡು"
+msgstr "ಸ್ಕ್ರ್ಯಾಚ್ ಸೇವಕದಲ್ಲಿ ಮಿನ್ನೆರಿಸು"
 
 msgid "Uploading"
-msgstr "ಅಂತರ್ಜಾಲದಲ್ಲಿ ಸಂಗ್ರಹಣೆಯಾಗುತ್ತಿದೆ"
+msgstr "ಮಿನ್ನೆರುತ್ತಿದೆ"
 
 msgid "Variable name?"
 msgstr "ಪರಿವರ್ತನೆಯ ಹೆಸರು?"
@@ -1359,25 +1368,25 @@ msgid "View on stage"
 msgstr "ವೇದಿಕೆ ಮೇಲೆ ನೋಡು"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "ನಿಮ್ಮ ಹೆಸರೇನು?"
 
 msgid "whirl"
 msgstr "ತಿರುಗು"
 
 msgid "world"
-msgstr ""
+msgstr "ಪ್ರಪಂಚ"
 
 msgid "Write Multiple Project Summaries"
-msgstr "ಯೋಜನೆಯ ಬಹು ಸರಾಂಶಗಳನ್ನು ಬರೆ"
+msgstr "ಬಹು ನೀಯೋಜನೆಯ ಸಾರಾಂಶಗಳನ್ನು ಬರೆ"
 
 msgid "Write Project Summary"
-msgstr "ಯೋಜನೆಯ ಸರಾಂಶವನ್ನು ಬರೆ"
+msgstr "ನೀಯೋಜನೆಯ ಸಾರಾಂಶವನ್ನು ಬರೆ"
 
 msgid "Yes"
 msgstr "ಸರಿ"
 
 msgid "Your project is now online at"
-msgstr "ಇಲ್ಲಿ ನಿಮ್ಮ ಯೋಜನೆ ಅಂತರ್ಜಾಲದಲ್ಲಿದೆ"
+msgstr "ಇಲ್ಲಿ ನಿಮ್ಮ ನೀಯೋಜನೆ ಅಂತರ್ಜಾಲದಲ್ಲಿದೆ"
 
 msgid "Your Scratch website login name:"
 msgstr "ನಿಮ್ಮ ಸ್ಕ್ರ್ಯಾಚ್-ಅಂತರ್ಜಾಲದ ಹೆಸರು:"
@@ -1388,12 +1397,12 @@ msgstr "ದೊಡ್ಡದಾಗಿ ತೋರಿಸು"
 msgid "Zoom out"
 msgstr "ಚಿಕ್ಕದಾಗಿ ತೋರಿಸು"
 
-############################################
+# ##########################################
 # MIDI INSTRUMENTS
-############################################
-
+# ##########################################
+# 
 msgid "Accordion"
-msgstr ""
+msgstr "ಚ್ಚಿಕ್ಕವಾದ್ಯೆ"
 
 msgid "Acoustic Bass"
 msgstr ""
@@ -1414,10 +1423,10 @@ msgid "Alto Sax"
 msgstr ""
 
 msgid "Applause"
-msgstr ""
+msgstr "ಶ್ಲಾಘನೆ"
 
 msgid "Bagpipe"
-msgstr ""
+msgstr "ಕಿನ್ನೋರಿ"
 
 msgid "Banjo"
 msgstr ""
@@ -1432,16 +1441,16 @@ msgid "Bassoon"
 msgstr ""
 
 msgid "Bird Tweet"
-msgstr ""
+msgstr "ಹಕ್ಕಿ ಚಿಲಿಪಿಲಿಗುಟ್ಟು"
 
 msgid "Blown Bottle"
 msgstr ""
 
 msgid "Brass Section"
-msgstr ""
+msgstr "ಹಿತ್ತಾಳೆ ಸಂಗೀತ ವಾದ್ಯಗಳ ವಿಭಾಗ"
 
 msgid "Breath Noise"
-msgstr ""
+msgstr "ಉಸಿರಾಟದ ಶಬ್ದ"
 
 msgid "Bright Acoustic"
 msgstr ""
@@ -1528,37 +1537,37 @@ msgid "English Horn"
 msgstr ""
 
 msgid "FX 1 (rain)"
-msgstr ""
+msgstr "FX 1 (ಮಳೆ)"
 
 msgid "FX 2 (soundtrack)"
-msgstr ""
+msgstr "FX 2 (ಧ್ವನಿವಾಹಿನಿ)"
 
 msgid "FX 3 (crystal)"
-msgstr ""
+msgstr "FX 3 (ಸ್ಫಟಿಕ)"
 
 msgid "FX 4 (atmosphere)"
-msgstr ""
+msgstr "FX 4 (ವಾತಾವರಣ)"
 
 msgid "FX 5 (brightness)"
-msgstr ""
+msgstr "FX 5 (ಹೊಳಪು)"
 
 msgid "FX 6 (goblins)"
-msgstr ""
+msgstr "FX 6 (ತುಂಟುದೆವ್ವಗಳು)"
 
 msgid "FX 7 (echoes)"
-msgstr ""
+msgstr "FX 7 (ಪ್ರತಿದ್ವನಿಗಳು)"
 
 msgid "FX 8 (sci-fi)"
-msgstr ""
+msgstr "FX 8 (sci-fi)"
 
 msgid "Fiddle"
-msgstr ""
+msgstr "ಪಿಟೀಲು"
 
 msgid "Flute"
-msgstr ""
+msgstr "ಕೊಳಲು"
 
 msgid "French Horn"
-msgstr ""
+msgstr "ಫ್ರೆಂಚ್-ನ ಹಾರನ್ನು"
 
 msgid "Fretless Bass"
 msgstr ""
@@ -1573,19 +1582,19 @@ msgid "Guitar Harmonics"
 msgstr ""
 
 msgid "Gunshot"
-msgstr ""
+msgstr "ಬಂದೂಕಿನ ಶಬ್ದ"
 
 msgid "Hand Clap"
-msgstr ""
+msgstr "ಕೈ ಚಪ್ಪಾಳೆ"
 
 msgid "Harmonica"
-msgstr ""
+msgstr "ರಾಗಮಾಲಿಕೆ"
 
 msgid "Harpsichord"
 msgstr ""
 
 msgid "Helicopter"
-msgstr ""
+msgstr "ಬಾ೦ದೇರು"
 
 msgid "Hi Bongo"
 msgstr ""
@@ -1681,7 +1690,7 @@ msgid "Melodic Tom"
 msgstr ""
 
 msgid "Music Box"
-msgstr ""
+msgstr "ಸಂಗೀತ ಪೆಟ್ಟಿಗೆ"
 
 msgid "Mute Cuica"
 msgstr ""
@@ -1717,37 +1726,37 @@ msgid "Open Triangle"
 msgstr ""
 
 msgid "Orchestra Hit"
-msgstr ""
+msgstr "ವಾದ್ಯಮೇಳ ಬಡಿತ"
 
 msgid "Orchestral Strings"
-msgstr ""
+msgstr "ವಾದ್ಯಮೆಳ ತಂತಿ"
 
 msgid "Overdriven Guitar"
 msgstr ""
 
 msgid "Pad 1 (new age)"
-msgstr ""
+msgstr "ಜೋಡಣೆ 1 (ಹೊಸ ವರ್ಷ)"
 
 msgid "Pad 2 (warm)"
-msgstr ""
+msgstr "ಜೋಡಣೆ 2 (ಬೆಚ್ಚಗೆ ಮಾಡು)"
 
 msgid "Pad 3 (polysynth)"
 msgstr ""
 
 msgid "Pad 4 (choir)"
-msgstr ""
+msgstr "ಜೋಡಣೆ 4 (ಗಾಯಕವೃಂದ)"
 
 msgid "Pad 5 (bowed)"
-msgstr ""
+msgstr "ಜೋಡಣೆ 5 (ನಮಸ್ಕರಿಸಿದ)"
 
 msgid "Pad 6 (metallic)"
 msgstr ""
 
 msgid "Pad 7 (halo)"
-msgstr ""
+msgstr "ಜೋಡಣೆ 7 (ತೇಜೋ ಮಂಡಲ)"
 
 msgid "Pad 8 (sweep)"
-msgstr ""
+msgstr "ಜೋಡಣೆ 8 (ತಿರುವು)"
 
 msgid "Pan Flute"
 msgstr ""
@@ -1765,13 +1774,13 @@ msgid "Pizzicato Strings"
 msgstr ""
 
 msgid "Recorder"
-msgstr ""
+msgstr "ಧ್ವನಿ ಮುದ್ರಣ ಯಂತ್ರ"
 
 msgid "Reed Organ"
-msgstr ""
+msgstr "ಪೀಪಿಯ ವಾದ್ಯ"
 
 msgid "Reverse Cymbal"
-msgstr ""
+msgstr "ಝಲ್ಲರಿಯ ಹಿನ್ನಡೆ"
 
 msgid "Ride Bell"
 msgstr ""
@@ -1786,7 +1795,7 @@ msgid "Rock Organ"
 msgstr ""
 
 msgid "Seashore"
-msgstr ""
+msgstr "ಸಮುದ್ರತೀರ"
 
 msgid "Shakuhachi"
 msgstr ""
@@ -1867,7 +1876,7 @@ msgid "Tango Accordion"
 msgstr ""
 
 msgid "Telephone Ring"
-msgstr ""
+msgstr "ದೂರವಾಣಿ ಶಬ್ದ"
 
 msgid "Tenor Sax"
 msgstr ""
@@ -1909,11 +1918,10 @@ msgid "Voice Oohs"
 msgstr ""
 
 msgid "Whistle"
-msgstr ""
+msgstr "ಶಿಲ್ಪಿ"
 
 msgid "Woodblock"
-msgstr ""
+msgstr "ಮರದವಿಭಾಗ"
 
 msgid "Xylophone"
 msgstr ""
-

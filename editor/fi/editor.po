@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-03-12 20:59+0200\n"
+"PO-Revision-Date: 2014-04-26 17:04+0200\n"
 "Last-Translator: Juha <juha.harviainen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
@@ -20,7 +20,7 @@ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only num
 msgstr ""
 "<b>Tietoa pilvipalveluista ja -muuttujista</b><br>&nbsp;<br>Tällä hetkellä "
 "vain numerot on tuettuja<br>Keskustelufoorumeja ei sallita ja ne "
-"poistetaan<br>Lisätietoa, <a href= target=>see the cloud data FAQ!</a>"
+"poistetaan<br>Lisätietoa: <a href= target=>usein kysytyt kysymykset</a>"
 
 msgid "A connected"
 msgstr "A liitetty"
@@ -29,10 +29,10 @@ msgid "a copy of the project file on your computer."
 msgstr "kopio projektitiedostosta tietokoneessasi."
 
 msgid "About"
-msgstr ""
+msgstr "Tietoa"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "Tietoa LEGO WeDo laajennuksesta..."
 
 msgid "abs"
 msgstr "itseisarvo"
@@ -44,11 +44,11 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Lisää laajennus"
 
 # 90%
 msgid "Add boolean input:"
-msgstr "Lisää binäärinen syöte:"
+msgstr "Lisää totuusarvo:"
 
 msgid "add comment"
 msgstr "lisää kommentti"
@@ -71,10 +71,10 @@ msgid "all"
 msgstr "kaikki"
 
 msgid "all around"
-msgstr "kaikki ympärillä"
+msgstr "joka suuntaan"
 
 msgid "all motors"
-msgstr ""
+msgstr "kaikki moottorit"
 
 msgid "Animal"
 msgstr "Eläin"
@@ -136,7 +136,7 @@ msgid "Bass Drum"
 msgstr "Bassorumpu"
 
 msgid "Bassoon"
-msgstr "Bassoon"
+msgstr "Fagotti"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
@@ -166,7 +166,7 @@ msgid "Broadcast"
 msgstr "Lähetä"
 
 msgid "Brush"
-msgstr "Harja"
+msgstr "Sivellin"
 
 msgid "button pressed"
 msgstr "näppäin painettu"
@@ -187,7 +187,7 @@ msgid "Camera"
 msgstr "Kamera"
 
 msgid "can drag in player:"
-msgstr "voidaan raahata soittimessa:"
+msgstr "voidaan raahata pelissä:"
 
 msgid "Cancel"
 msgstr "Peruuta"
@@ -205,7 +205,7 @@ msgid "Category"
 msgstr "Luokka"
 
 msgid "ceiling"
-msgstr "katto"
+msgstr "pyöristys ylös"
 
 msgid "Cello"
 msgstr "Sello"
@@ -265,7 +265,7 @@ msgid "color"
 msgstr "väri"
 
 msgid "Color a shape"
-msgstr "Muodon väri"
+msgstr "Täytä värillä"
 
 msgid "Conga"
 msgstr "Konga"
@@ -381,7 +381,7 @@ msgid "duplicate"
 msgstr "kopioi"
 
 msgid "Duplicate"
-msgstr "kopioi"
+msgstr "Kopioi"
 
 msgid "e ^"
 msgstr "e ^"
@@ -390,7 +390,7 @@ msgid "edge"
 msgstr "reuna"
 
 msgid "edit"
-msgstr "Muokkaa"
+msgstr "muokkaa"
 
 msgid "Edit"
 msgstr "Muokkaa"
@@ -427,10 +427,10 @@ msgid "export"
 msgstr "vie"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "Laajennuskirjasto"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "Laajennusongelma"
 
 msgid "fade in"
 msgstr "vaimenna alku"
@@ -454,13 +454,13 @@ msgid "fisheye"
 msgstr "kalansilmä"
 
 msgid "Flip left-right"
-msgstr "Vaihda vasen-oikea"
+msgstr "Peilaa vaakasuunnassa"
 
 msgid "Flip up-down"
-msgstr "Vaihda ylhäällä-alhaalla"
+msgstr "Peilaa pystysuunnassa"
 
 msgid "floor"
-msgstr "lattia"
+msgstr "pyöristä alaspäin"
 
 msgid "Flute"
 msgstr "Huilu"
@@ -502,7 +502,7 @@ msgid "Hand Clap"
 msgstr "Taputus"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Laitteisto"
 
 msgid "hide"
 msgstr "piilota"
@@ -551,7 +551,7 @@ msgid "left-right"
 msgstr "vasen-oikea"
 
 msgid "LEGO WeDo"
-msgstr ""
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "pituus"
@@ -580,13 +580,13 @@ msgid "List name"
 msgstr "Luettelonimi"
 
 msgid "ln"
-msgstr "Joukossa"
+msgstr "luonnollinen logaritmi"
 
 msgid "Loading project..."
 msgstr "Projektia ladataan..."
 
 msgid "log"
-msgstr "loki"
+msgstr "10-logaritmi"
 
 msgid "louder"
 msgstr "voimakkaammin"
@@ -643,13 +643,13 @@ msgid "motion"
 msgstr "liike"
 
 msgid "motor"
-msgstr ""
+msgstr "moottori"
 
 msgid "motor A"
-msgstr ""
+msgstr "moottori A"
 
 msgid "motor B"
-msgstr ""
+msgstr "moottori B"
 
 msgid "mouse-pointer"
 msgstr "hiiriosoitin"
@@ -721,7 +721,7 @@ msgid "normal readout"
 msgstr "normaali lukuasu"
 
 msgid "not ="
-msgstr ""
+msgstr "ei ="
 
 msgid "Not saved; network or server problem."
 msgstr "Ei tallennettu; verkko- tai palvelinongelmia."
@@ -846,7 +846,7 @@ msgid "Remixing..."
 msgstr "Remixaa..."
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "Poista laajennuslohkot"
 
 msgid "Rename"
 msgstr "Uudelleennimeä"
@@ -934,6 +934,8 @@ msgstr "Katso projektisivu"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
 msgstr ""
+"Katso ohjeet ikkuna (oikealla) asentaaksesi liitännäisen ja saadaksesi "
+"laajennuksen toimimaan."
 
 msgid "Select"
 msgstr "Valitse"
@@ -948,10 +950,10 @@ msgid "Send to back"
 msgstr "Vie taakse"
 
 msgid "Set costume center"
-msgstr "Aseta asustekeskipiste"
+msgstr "Aseta asusteen keskipiste"
 
 msgid "Set Costume Center"
-msgstr "Aseta asuste keskipiste"
+msgstr "Aseta asusteen keskipiste"
 
 msgid "set slider min and max"
 msgstr "aseta säätimen minimi ja maksimi"
@@ -1262,7 +1264,7 @@ msgstr "vuosi"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
-"Et voi muokata pilvitietoa jonkun toisen projektissa.<b>Kaikki muutokset "
+"Et voi muokata pilvitietoa jonkun toisen projektissa.<br>Kaikki muutokset "
 "joita teet ovat paikallisia eivät tallennu."
 
 msgid "Eraser width:"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2014-04-25 22:12+0200\n"
+"PO-Revision-Date: 2014-04-27 12:31+0200\n"
 "Last-Translator: Jean-Jacques <i.scool@mac.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -315,7 +315,7 @@ msgstr "choisir la direction du moteur %m.motorDirection"
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
-msgstr "Mettre la puissance du moteur à %n"
+msgstr "mettre %m.motor power à %n"
 
 # 77%
 msgid "set motor power %n"
@@ -417,18 +417,15 @@ msgid "turn @turnRight %n degrees"
 msgstr "tourner @turnRight de %n degrés"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
 msgstr "arrêter le moteur"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
 msgstr "lancer le moteur"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
 msgstr "lancer le moteur pour %n secs"
 
@@ -478,7 +475,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "quand l'arrière-plan bascule sur %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "quand la distance% m.lessMore% n"
 
 msgid "when distance < %n"
 msgstr "quand la distance < %n"
@@ -493,10 +490,10 @@ msgid "when this sprite clicked"
 msgstr "quand ce lutin est cliqué"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "quand l'inclinaison %m.eNe %n"
 
 msgid "when tilt = %n"
-msgstr "quand inclinaison = %n"
+msgstr "quand l'inclinaison = %n"
 
 msgid "x position"
 msgstr "position x"
