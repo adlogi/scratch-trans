@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2013-05-02 20:29+0200\n"
+"PO-Revision-Date: 2014-05-07 21:38+0200\n"
 "Last-Translator: Григорій <ggromko@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uk\n"
@@ -306,9 +306,8 @@ msgstr "задати інструмент %d.instrument"
 
 # 100%
 # 86%
-#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr "напрям двигуна %m.motorDirection"
+msgstr "встановити для %m.motor напрям %m.motorDirection"
 
 # 100%
 msgid "set motor direction %m.motorDirection"
@@ -316,9 +315,8 @@ msgstr "напрям двигуна %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "потужність двигуна %n"
+msgstr "встановити для %m.motor потужність %n"
 
 # 77%
 msgid "set motor power %n"
@@ -420,20 +418,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "поворот @turnRight %n градусів"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "вимкнути двигун"
+msgstr "вимкнути %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "увімкнути двигун"
+msgstr "увімкнути %m.motor"
 
 # 100%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "двигун увімкнути на %n сек"
+msgstr "увімкнути %m.motor на %n сек"
 
 msgid "turn motor off"
 msgstr "вимкнути двигун"
@@ -482,7 +477,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "коли тло зміниться на %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "якщо відстань %m.lessMore %n"
 
 msgid "when distance < %n"
 msgstr "коли відстань < %n"
@@ -497,7 +492,7 @@ msgid "when this sprite clicked"
 msgstr "коли спрайт натиснуто"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "якщо нахил %m.eNe %n"
 
 msgid "when tilt = %n"
 msgstr "коли нахил = %n"

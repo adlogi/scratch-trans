@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2013-10-31 00:11+0200\n"
+"PO-Revision-Date: 2014-05-14 17:03+0200\n"
 "Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -304,9 +304,8 @@ msgstr "gebruik instrument %d.instrument"
 
 # 89%
 # 86%
-#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr "zet motorrichting op %m.motorDirection"
+msgstr "zet %m.motor richting op %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
@@ -314,9 +313,8 @@ msgstr "zet motorrichting op %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "zet motorvermogen op %n"
+msgstr "zet %m.motor vermogen op %n"
 
 # 77%
 msgid "set motor power %n"
@@ -418,20 +416,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "draai @turnRight %n graden"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "zet motor uit"
+msgstr "zet %m.motor uit"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "zet motor aan"
+msgstr "zet %m.motor aan"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "zet motor %n sec. aan"
+msgstr "zet %m.motor %n sec. aan"
 
 msgid "turn motor off"
 msgstr "zet motor uit"
@@ -479,7 +474,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "wanneer achtergrond verandert naar %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "wanneer afstand %m.lessMore %n"
 
 msgid "when distance < %n"
 msgstr "wanneer afstand < %n"
@@ -494,7 +489,7 @@ msgid "when this sprite clicked"
 msgstr "wanneer op deze sprite wordt geklikt"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "wanneer draaiing %m.eNe %n"
 
 msgid "when tilt = %n"
 msgstr "wanneer gekanteld = %n"

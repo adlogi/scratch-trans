@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2007-10-28\n"
-"PO-Revision-Date: 2011-10-16 15:23-0400\n"
-"Last-Translator: Mihai Agape <mihai_agape@yahoo.com>\n"
+"PO-Revision-Date: 2013-07-15 19:20+0200\n"
+"Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
-"X-Generator: Pootle 1.2.1\n"
+"X-Generator: Pootle 2.1.6\n"
 
 ############################################
 # FORMATTING
@@ -32,13 +32,13 @@ msgstr "LTR"
 # &lt;br /&gt;<br />
 # Use this if the font is too small for legibility on the Scratch interface
 msgid "Font-Scale"
-msgstr "1"
+msgstr "Marime-Font"
 
 # Set to 'true' or 'false'&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
 # &amp;lt;br /&amp;gt;&lt;br /&gt;<br />
 # Use this if you do not want any of the text to be bolded, for legibility
 msgid "Suppress-Bold"
-msgstr "false"
+msgstr "Eliminare-Bold"
 
 # Font to use on a Windows system
 msgid "Win-Font"
@@ -52,14 +52,15 @@ msgstr "Verdana"
 msgid "Linux-Font"
 msgstr "DejaVu Sans"
 
-############################################
+# ##########################################
 # BLOCKS
-############################################
+# ##########################################
+# 
 msgid "%H sensor value"
-msgstr "valoarea senzorului %H"
+msgstr "%H valoarea senzorului"
 
 msgid "%L contains %s"
-msgstr "%L conține %s"
+msgstr "%L contine %s"
 
 msgid "%a of %m"
 msgstr "%a din %m"
@@ -191,7 +192,7 @@ msgid "insert %s at %i of %L"
 msgstr "insereaza %s la %i din %L"
 
 msgid "item %i of %L"
-msgstr "articolul %i din %L"
+msgstr "elementul %i din %L"
 
 msgid "join %s %s"
 msgstr "alatura %s %s"
@@ -275,7 +276,7 @@ msgid "pick random %n to %n"
 msgstr "alege un numar aleatoriu intre %n si %n"
 
 msgid "play drum %D for %n beats"
-msgstr "canta la tobele %D pentru %n timpi"
+msgstr "canta la toba %D pentru %n timpi"
 
 msgid "play note %N for %n beats"
 msgstr "canta nota %N pentru %n timpi"
@@ -489,7 +490,7 @@ msgid "brightness"
 msgstr "stralucire"
 
 msgid "Brush size: "
-msgstr "Dimensiune pensula:"
+msgstr "Dimensiune pensula: "
 
 msgid "button"
 msgstr "buton"
@@ -558,7 +559,7 @@ msgid "connected"
 msgstr "conectat"
 
 msgid "Connecting to "
-msgstr "Conectare la"
+msgstr "Se conectare la "
 
 msgid "Copy"
 msgstr "Copiaza"
@@ -744,10 +745,10 @@ msgid "fisheye"
 msgstr "ochi de peste"
 
 msgid "Flash blocks (fast)"
-msgstr "Blocuri Flash (rapid)"
+msgstr "Blocuri flash (rapid)"
 
 msgid "Flash blocks (slow)"
-msgstr "Blocuri Flash (lent)"
+msgstr "Blocuri flash (lent)"
 
 msgid "Flip horizontally"
 msgstr "Rastoarna orizontal"
@@ -780,10 +781,10 @@ msgid "Go To Scratch Website"
 msgstr "Mergi la site-ul Scratch"
 
 msgid "grab screen region for new costume"
-msgstr ""
+msgstr "regiunea de captura pentru un nou costum"
 
 msgid "grab screen region for new sprite"
-msgstr ""
+msgstr "regiunea de captura pentru un nou costum"
 
 msgid "Grow"
 msgstr "Mareste"
@@ -792,7 +793,7 @@ msgid "Grow sprite"
 msgstr "Mareste spiridusul"
 
 msgid "hello "
-msgstr "salut"
+msgstr "salut "
 
 msgid "Hello!"
 msgstr "Salut!"
@@ -864,7 +865,7 @@ msgid "JPEG Quality (10-100)?"
 msgstr "Calitate JPEG (10-100)?"
 
 msgid "kbytes"
-msgstr "Kocteti"
+msgstr "kilocteti"
 
 msgid "Language"
 msgstr "Limba"
@@ -897,7 +898,7 @@ msgid "Low"
 msgstr "Mic"
 
 msgid "Lowest (smallest)"
-msgstr "Cel mai mic"
+msgstr "Cel mai jos (cel mai mic)"
 
 msgid "Make a list"
 msgstr "Creeaza o lista"
@@ -912,7 +913,7 @@ msgid "meow"
 msgstr "miau"
 
 msgid "Message name:"
-msgstr "Numele mesajului"
+msgstr "Numele mesajului:"
 
 msgid "Min:"
 msgstr "Minim:"
@@ -1095,7 +1096,7 @@ msgid "Record"
 msgstr "Inregistrare"
 
 msgid "recording"
-msgstr "Inregistrare"
+msgstr "inregistrare"
 
 msgid "Rectangle tool (draw outlined or filled rectangle or square)"
 msgstr ""
@@ -1217,7 +1218,7 @@ msgid "Show Motor Blocks"
 msgstr "Arata Blocurile Motor"
 
 msgid "show ScratchBoard watcher"
-msgstr ""
+msgstr "afiseaza panoul de supraveghere ScratchBoard"
 
 msgid "Shrink"
 msgstr "Micsoreaza"
@@ -1304,7 +1305,7 @@ msgid "Switch to small stage"
 msgstr "Comuta la scena mica"
 
 msgid "Tags:"
-msgstr "Etichete"
+msgstr "Tag-uri:"
 
 msgid "Text tool (edit text layer)"
 msgstr "Text (editeaza stratul text)"
@@ -1332,7 +1333,7 @@ msgid "true"
 msgstr "adevarat"
 
 msgid "Turbo speed"
-msgstr "viteza Turbo"
+msgstr "Viteza turbo"
 
 msgid "turn into new sprite"
 msgstr "transforma in spiridus nou"
@@ -1581,7 +1582,7 @@ msgid "Guitar Harmonics"
 msgstr "Guitar Harmonics"
 
 msgid "Gunshot"
-msgstr "Foc de Arma"
+msgstr "Foc de arma"
 
 msgid "Hand Clap"
 msgstr "Bataie din Palme"
@@ -1626,58 +1627,58 @@ msgid "Koto"
 msgstr "Koto"
 
 msgid "Lead 1 (square)"
-msgstr ""
+msgstr "Loc 1 (patrat)"
 
 msgid "Lead 2 (sawtooth)"
-msgstr ""
+msgstr "Loc 2 (dinti de fierastrau)"
 
 msgid "Lead 3 (calliope)"
-msgstr ""
+msgstr "Loc 3 (caliope)"
 
 msgid "Lead 4 (chiff)"
-msgstr ""
+msgstr "Loc 4 (chiff)"
 
 msgid "Lead 5 (charang)"
-msgstr ""
+msgstr "Loc 5 (charang)"
 
 msgid "Lead 6 (voice)"
-msgstr ""
+msgstr "Loc 6 (voce)"
 
 msgid "Lead 7 (fifths)"
-msgstr ""
+msgstr "Loc 7 (cincime)"
 
 msgid "Lead 8 (bass+lead)"
-msgstr ""
+msgstr "Loc 8 (bass+conducere)"
 
 msgid "Long Guiro"
-msgstr ""
+msgstr "Guiro lung"
 
 msgid "Long Whistle"
 msgstr "Fluier lung"
 
 msgid "Low Agogo"
-msgstr ""
+msgstr "Agogo jos"
 
 msgid "Low Bongo"
-msgstr ""
+msgstr "Bongo jos"
 
 msgid "Low Conga"
-msgstr ""
+msgstr "Conga jos"
 
 msgid "Low Floor Tom"
-msgstr ""
+msgstr "Low Floor Tom"
 
 msgid "Low Timbale"
-msgstr ""
+msgstr "Timbale jos"
 
 msgid "Low Tom"
-msgstr ""
+msgstr "Low Tom"
 
 msgid "Low Wood Block"
-msgstr ""
+msgstr "Block de lemn jos"
 
 msgid "Low-Mid Tom"
-msgstr ""
+msgstr "Low-Mid Tom"
 
 msgid "Maracas"
 msgstr "Maracas"
@@ -1686,22 +1687,22 @@ msgid "Marimba"
 msgstr "Marimba"
 
 msgid "Melodic Tom"
-msgstr ""
+msgstr "Melodic Tom"
 
 msgid "Music Box"
 msgstr "Cutie muzicala"
 
 msgid "Mute Cuica"
-msgstr ""
+msgstr "Mute Cuica"
 
 msgid "Mute Hi Conga"
-msgstr ""
+msgstr "Mute Hi Conga"
 
 msgid "Mute Triangle"
-msgstr ""
+msgstr "Mute Triangle"
 
 msgid "Muted Trumpet"
-msgstr ""
+msgstr "Muted Trumpet"
 
 msgid "Nylon String Guitar"
 msgstr "Chitara cu Coarde de Nailon"
@@ -1713,115 +1714,115 @@ msgid "Ocarina"
 msgstr "Ocarina"
 
 msgid "Open Cuica"
-msgstr ""
+msgstr "Open Cuica"
 
 msgid "Open Hi Conga"
-msgstr ""
+msgstr "Hi Conga Deschisa"
 
 msgid "Open Hi-Hat"
-msgstr ""
+msgstr "Hi-Hat deschisa"
 
 msgid "Open Triangle"
-msgstr ""
+msgstr "Trianglu deschis"
 
 msgid "Orchestra Hit"
-msgstr ""
+msgstr "Orchestra Hit"
 
 msgid "Orchestral Strings"
-msgstr ""
+msgstr "Corzi orchestrale"
 
 msgid "Overdriven Guitar"
-msgstr ""
+msgstr "Chitara overdriven"
 
 msgid "Pad 1 (new age)"
-msgstr ""
+msgstr "Pad 1 (new age)"
 
 msgid "Pad 2 (warm)"
-msgstr ""
+msgstr "Pad 2 (cald)"
 
 msgid "Pad 3 (polysynth)"
-msgstr ""
+msgstr "Pad 3 (polysynth)"
 
 msgid "Pad 4 (choir)"
-msgstr ""
+msgstr "Pad 4 (cor)"
 
 msgid "Pad 5 (bowed)"
-msgstr ""
+msgstr "Pad 5 (bowed)"
 
 msgid "Pad 6 (metallic)"
-msgstr ""
+msgstr "Pad 6 (metallic)"
 
 msgid "Pad 7 (halo)"
-msgstr ""
+msgstr "Pad 7 (halo)"
 
 msgid "Pad 8 (sweep)"
-msgstr ""
+msgstr "Pad 8 (sweep)"
 
 msgid "Pan Flute"
-msgstr ""
+msgstr "Nai"
 
 msgid "Pedal Hi-Hat"
-msgstr ""
+msgstr "Pedal Hi-Hat"
 
 msgid "Percussive Organ"
-msgstr ""
+msgstr "Percussive Organ"
 
 msgid "Piccolo"
-msgstr ""
+msgstr "Piccolo"
 
 msgid "Pizzicato Strings"
-msgstr ""
+msgstr "Corzi Pizzicato"
 
 msgid "Recorder"
-msgstr ""
+msgstr "Recorder"
 
 msgid "Reed Organ"
-msgstr ""
+msgstr "Reed Organ"
 
 msgid "Reverse Cymbal"
-msgstr ""
+msgstr "Reverse Cymbal"
 
 msgid "Ride Bell"
-msgstr ""
+msgstr "Ride Bell"
 
 msgid "Ride Cymbal 1"
-msgstr ""
+msgstr "Ride Cymbal 1"
 
 msgid "Ride Cymbal 2"
-msgstr ""
+msgstr "Ride Cymbal 2"
 
 msgid "Rock Organ"
-msgstr ""
+msgstr "Rock Organ"
 
 msgid "Seashore"
-msgstr ""
+msgstr "Seashore"
 
 msgid "Shakuhachi"
-msgstr ""
+msgstr "Shakuhachi"
 
 msgid "Shamisen"
-msgstr ""
+msgstr "Shamisen"
 
 msgid "Shanai"
-msgstr ""
+msgstr "Shanai"
 
 msgid "Short Guiro"
-msgstr ""
+msgstr "Short Guiro"
 
 msgid "Short Whistle"
-msgstr ""
+msgstr "Short Whistle"
 
 msgid "Side Stick"
-msgstr ""
+msgstr "Side Stick"
 
 msgid "Sitar"
-msgstr ""
+msgstr "Sitar"
 
 msgid "Slap Bass 1"
-msgstr ""
+msgstr "Slap Bass 1"
 
 msgid "Slap Bass 2"
-msgstr ""
+msgstr "Slap Bass 2"
 
 msgid "Soprano Sax"
 msgstr "Saxofon Sopran"
@@ -1842,10 +1843,10 @@ msgid "String Ensemble 2"
 msgstr "Ansamblu de Coarde 2"
 
 msgid "Synth Bass 1"
-msgstr ""
+msgstr "Synth Bass 1"
 
 msgid "Synth Bass 2"
-msgstr ""
+msgstr "Synth Bass 2"
 
 msgid "Synth Drum"
 msgstr "Sintetizator de Tobe"
@@ -1899,7 +1900,7 @@ msgid "Tuba"
 msgstr "Tuba"
 
 msgid "Tubular Bells"
-msgstr ""
+msgstr "Tubular Bells"
 
 msgid "Vibraphone"
 msgstr "Vibrafon"
@@ -1914,13 +1915,13 @@ msgid "Violin"
 msgstr "Vioara"
 
 msgid "Voice Oohs"
-msgstr ""
+msgstr "Voice Oohs"
 
 msgid "Whistle"
 msgstr "Fluier"
 
 msgid "Woodblock"
-msgstr ""
+msgstr "Woodblock"
 
 msgid "Xylophone"
 msgstr "Xilofon"

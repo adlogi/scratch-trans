@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-09-13 21:16+0200\n"
+"PO-Revision-Date: 2013-10-23 08:01+0200\n"
 "Last-Translator: Jasmine <udea_jasmine@yahoo.com>\n"
 "Language-Team: \n"
 "Language: hy\n"
@@ -40,7 +40,7 @@ msgstr "Տառատեսակի չափսը"
 # &lt;br /&gt;<br />
 # Use this if you do not want any of the text to be bolded, for legibility
 msgid "Suppress-Bold"
-msgstr "false"
+msgstr "Արգելել թավատառը"
 
 # Font to use on a Windows system
 msgid "Win-Font"
@@ -83,7 +83,7 @@ msgid "add %s to %L"
 msgstr "%L ին ավելացնել %s"
 
 msgid "answer"
-msgstr "պատասխանել"
+msgstr "պատասխան"
 
 msgid "ask %s and wait"
 msgstr "հարցնել %s և սպասել"
@@ -242,10 +242,10 @@ msgid "mouse down?"
 msgstr "մկնիկն իջեցվա՞ծ է"
 
 msgid "mouse x"
-msgstr "մկնիկը x առանցքով"
+msgstr "մկնիկի x առանցքը"
 
 msgid "mouse y"
-msgstr "մկնիկը y առանցքով"
+msgstr "մկնիկի y առանցքը"
 
 msgid "move %n steps"
 msgstr "տեղափոխվել %n քայլ"
@@ -272,7 +272,7 @@ msgid "pen up"
 msgstr "գրիչը բարձրացնել"
 
 msgid "pick random %n to %n"
-msgstr "գեներացնել պատահական %n ից %n"
+msgstr "վերցնել պատահական %n ից %n"
 
 msgid "play drum %D for %n beats"
 msgstr "%D թմբուկով նվագել %n տակտ"
@@ -302,7 +302,7 @@ msgid "replace item %i of %L with %s"
 msgstr "փոխարինել %i տարրը %L ից %s ով"
 
 msgid "reset timer"
-msgstr "զրոյացնել վայրկյանաչափի արժեքը"
+msgstr "վերսկսել վայրկյանաչափը"
 
 msgid "rest for %n beats"
 msgstr "դադարեցնել %n տակտ"
@@ -476,19 +476,19 @@ msgid "Art"
 msgstr "Արվեստ"
 
 msgid "background"
-msgstr "ֆոն"
+msgstr "Ետնապատ"
 
 msgid "backgrounds"
-msgstr "Ֆոներ"
+msgstr "Ետնապատեր"
 
 msgid "Backgrounds"
-msgstr "Ֆոներ"
+msgstr "Ետնապատեր"
 
 msgid "brightness"
 msgstr "պայծառություն"
 
 msgid "Brush size: "
-msgstr "Վրձնի չափը."
+msgstr "Վրձնի չափսը."
 
 msgid "button"
 msgstr "կոճակ"
@@ -515,7 +515,7 @@ msgid "Choose new sprite from file"
 msgstr "Ընտրել նոր օբյեկտ նիշքից"
 
 msgid "clean up"
-msgstr "կարգի բերել"
+msgstr "Մաքրել"
 
 msgid "Clear"
 msgstr "Մաքրել"
@@ -563,13 +563,13 @@ msgid "Copy"
 msgstr "Պատճենել"
 
 msgid "costume"
-msgstr "կերպար"
+msgstr "Դիրք"
 
 msgid "costumes"
-msgstr "կերպարներ"
+msgstr "Դիրքեր"
 
 msgid "Costumes"
-msgstr "Կերպարներ"
+msgstr "Դիրքեր"
 
 msgid "Could not read"
 msgstr "Հնարավոր չէ կարդալ"
@@ -602,10 +602,10 @@ msgid "Delete a variable"
 msgstr "Ջնջել փոփոխականը"
 
 msgid "Delete this background"
-msgstr "Ջնջել այս ֆոնը"
+msgstr "Ջնջել այս ետնապատը"
 
 msgid "Delete this costume"
-msgstr "Ջնջել այս կերպարը"
+msgstr "Ջնջել այս դիրքը"
 
 msgid "Delete this sound"
 msgstr "Ջնջել այս ձայնը"
@@ -617,7 +617,7 @@ msgid "Desktop"
 msgstr "Աշխատանքային սեղան"
 
 msgid "disable remote sensor connections"
-msgstr "անջատել սենսորը"
+msgstr "Անջատել հեռավոր սենսոր կապերը"
 
 msgid "distance"
 msgstr "հեռավորություն"
@@ -638,16 +638,16 @@ msgid "down"
 msgstr "ներքև"
 
 msgid "down arrow"
-msgstr "սլաքը ներքև"
+msgstr "սլաքը վար"
 
 msgid "drag to resize"
-msgstr "քաշելով փոփոխել չափը"
+msgstr "Սահեցնելով փոփոխել չափսը"
 
 msgid "drag to rotate"
-msgstr "քաշելով պտտել"
+msgstr "Սահեցնելով՝ պտտել"
 
 msgid "draggable on website?"
-msgstr "քաշե՞լ կայքի վրա"
+msgstr "քարտահանե՞լ Scratch-ի կայքէջ"
 
 msgid "duplicate"
 msgstr "կրկնօրինակել"
@@ -665,7 +665,7 @@ msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
 msgstr "Էլիպս (նկարում է եզրագծված կամ գունավորած էլիպս կամ շրջան)"
 
 msgid "enable remote sensor connections"
-msgstr "միացնել սենսորը"
+msgstr "Միացնել հեռակա սենսորային կապերը"
 
 msgid "Enter presentation mode"
 msgstr "Անցնել ցուցադրության կերպին"
@@ -674,7 +674,7 @@ msgid "Eraser"
 msgstr "Ռետին"
 
 msgid "Eraser size"
-msgstr "Ռետինի չափը"
+msgstr "Ռետինի չափսը"
 
 msgid "Error!"
 msgstr "Սխալ"
@@ -692,7 +692,7 @@ msgid "export"
 msgstr "արտահանել"
 
 msgid "Export Background"
-msgstr "Արտահանել ֆոնը"
+msgstr "Արտահանել ետնապատը"
 
 msgid "Export Costume"
 msgstr "Արտահանել կերպարը"

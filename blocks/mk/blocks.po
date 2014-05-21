@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2014-02-21 10:06+0200\n"
+"PO-Revision-Date: 2014-05-18 15:34+0200\n"
 "Last-Translator: Linda <lfahlberg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mk\n"
@@ -24,10 +24,10 @@ msgid "%b or %b"
 msgstr "%b или %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribute од %m.spriteOrStage"
+msgstr "%m.attribute на %m.spriteOrStage"
 
 msgid "%m.list contains %s"
-msgstr "%m.листа содржи %s"
+msgstr "%m.list содржи %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp од %n"
@@ -305,9 +305,8 @@ msgstr "намести го инструментот %d.instrument"
 
 # 89%
 # 86%
-#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
-msgstr "намести насока на моторот %m.motorDirection"
+msgstr "намести насока на моторот на %m.motorDirection"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
@@ -315,9 +314,8 @@ msgstr "намести насока на моторот %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "намести снага на мотор %n"
+msgstr "намести снага на мотор на %n"
 
 # 77%
 msgid "set motor power %n"
@@ -419,20 +417,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "заврти @на десно за %n степени"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "исклучи го моторот"
+msgstr "исклучи го моторот %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "вклучи го моторот"
+msgstr "вклучи го моторот %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "вклучи го моторот за %n секунди"
+msgstr "вклучи го %m.motor моторот за %n секунди"
 
 msgid "turn motor off"
 msgstr "исклучи го моторот"
@@ -480,7 +475,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "кога позадината е заменета со %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "кога растојанието е %m.lessMore %n"
 
 msgid "when distance < %n"
 msgstr "кога растојанието < %n"
@@ -495,13 +490,13 @@ msgid "when this sprite clicked"
 msgstr "кога фигурата е притисната"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "кога насловот е %m.eNe %n"
 
 msgid "when tilt = %n"
 msgstr "кога наклонот = %n"
 
 msgid "x position"
-msgstr "х позиција "
+msgstr "х позиција"
 
 msgid "y position"
 msgstr "у позиција"

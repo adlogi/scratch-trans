@@ -3,20 +3,19 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-09-18 15:51-0400\n"
-"PO-Revision-Date: 2010-04-30 08:53-0400\n"
-"Last-Translator: Jüri Vilipõld <vilip@cc.ttu.ee>\n"
+"PO-Revision-Date: 2014-03-10 15:07+0200\n"
+"Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 1.2.1\n"
+"X-Generator: Pootle 2.1.6\n"
 
 ############################################
 # FORMATTING
 ############################################
-
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
 msgid "Language-Name"
@@ -30,38 +29,43 @@ msgstr "LTR"
 
 # Scale to apply to font size (2 for twice as large)
 # Use this if the font is too small for legibility on the Scratch interface
+# 
 msgid "Font-Scale"
-msgstr "1"
+msgstr "Kirja skaleerimine"
 
 # Set to 'true' or 'false'
 # Use this if you do not want any of the text to be bolded, for legibility
+# 
 msgid "Suppress-Bold"
-msgstr "false"
+msgstr "False"
 
 # Font to use on a Windows system
+# 
 msgid "Win-Font"
 msgstr "Win-Font"
 
 # Font to use on a Mac system
+# 
 msgid "Mac-Font"
 msgstr "Mac-Font"
 
 # Font to use on a Linux system
+# 
 msgid "Linux-Font"
 msgstr "Linux-Font"
 
-############################################
+# ##########################################
 # BLOCKS
-############################################
-
+# ##########################################
+# 
 msgid "%H sensor value"
-msgstr "%H anduri väärtus"
+msgstr "anduri %H väärtus"
 
 msgid "%L contains %s"
 msgstr "%L sisaldab %s"
 
 msgid "%a of %m"
-msgstr "%a kujundil %m"
+msgstr "spraidi %m %a"
 
 msgid "%b and %b"
 msgstr "%b ja %b"
@@ -76,7 +80,7 @@ msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %L"
-msgstr "lisa %L-le %s"
+msgstr "lisa %s %L-le"
 
 msgid "answer"
 msgstr "vastus"
@@ -139,7 +143,7 @@ msgid "costume #"
 msgstr "kostüüm #"
 
 msgid "delete %y of %L"
-msgstr "eemalda %L %y"
+msgstr "eemalda %y %L-st"
 
 msgid "direction"
 msgstr "suund"
@@ -151,13 +155,13 @@ msgid "else"
 msgstr "muidu"
 
 msgid "forever"
-msgstr "lõputult"
+msgstr "korda lõputult"
 
 msgid "forever if %b"
 msgstr "lõputult kui %b"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "liigu %n sek. x:%n y:%n-le"
+msgstr "liugle x:%n y:%n %n sek."
 
 msgid "go back %n layers"
 msgstr "mine %n kihti tagasi"
@@ -184,10 +188,10 @@ msgid "if on edge, bounce"
 msgstr "kui äärel, põrka"
 
 msgid "insert %s at %i of %L"
-msgstr "sisesta %L %i-ks %s"
+msgstr "sisesta %s %i-ks %L-sse"
 
 msgid "item %i of %L"
-msgstr "%L %i"
+msgstr "elem %i %L-s"
 
 msgid "join %s %s"
 msgstr "ühenda %s %s"
@@ -202,7 +206,7 @@ msgid "length of %s"
 msgstr "%s pikkus"
 
 msgid "letter %n of %s"
-msgstr "%s %n-s täht"
+msgstr "täht %n %s-s"
 
 msgid "list"
 msgstr "loend"
@@ -262,7 +266,7 @@ msgid "pen"
 msgstr "pliiats"
 
 msgid "pen down"
-msgstr "pliiats all"
+msgstr "pliiats alla"
 
 msgid "pen up"
 msgstr "pliiats üleval"
@@ -295,7 +299,7 @@ msgid "repeat until %b"
 msgstr "korda kuni %b"
 
 msgid "replace item %i of %L with %s"
-msgstr "võta %L %i = %s"
+msgstr "asenda %i %L-s %s-ga"
 
 msgid "reset timer"
 msgstr "taimer algseisu"
@@ -310,7 +314,7 @@ msgid "say %s"
 msgstr "ütle %s"
 
 msgid "say %s for %n secs"
-msgstr "ütle %s %n sekundit"
+msgstr "ütle %s %n sek."
 
 msgid "sensing"
 msgstr "andurid"
@@ -367,7 +371,7 @@ msgid "sound"
 msgstr "heli"
 
 msgid "stamp"
-msgstr "jälg"
+msgstr "jäljend"
 
 msgid "stop all"
 msgstr "peata kõik"
@@ -391,7 +395,7 @@ msgid "think %s"
 msgstr "mõtle %s"
 
 msgid "think %s for %n secs"
-msgstr "mõtle %s %n sekundit"
+msgstr "mõtle %s %n sek."
 
 msgid "timer"
 msgstr "taimer"
@@ -427,15 +431,14 @@ msgid "when I receive %e"
 msgstr "kui saabub teade %e"
 
 msgid "x position"
-msgstr "x asukoht"
+msgstr "x"
 
 msgid "y position"
-msgstr "y asukoht"
+msgstr "y"
 
 ############################################
 # USER INTERFACE
 ############################################
-
 msgid "(empty)"
 msgstr "(tühi)"
 
@@ -443,10 +446,10 @@ msgid "1 script"
 msgstr "1 skript"
 
 msgid "About Scratch"
-msgstr "Scratch-ist"
+msgstr "Scratchist"
 
 msgid "About this project:"
-msgstr "Sellest projektist"
+msgstr "Sellest projektist:"
 
 msgid "abs"
 msgstr "abs"
@@ -512,7 +515,7 @@ msgid "Choose new sprite from file"
 msgstr "Vali uus sprait failist"
 
 msgid "clean up"
-msgstr "Tühjenda"
+msgstr "tühjenda"
 
 msgid "Clear"
 msgstr "Puhasta"
@@ -527,10 +530,10 @@ msgid "Close dialog?"
 msgstr "Sulge dialoog?"
 
 msgid "Close paint editor?"
-msgstr "Sulge joonistamisredaktor"
+msgstr "Sulge joonistamisredaktor?"
 
 msgid "close port"
-msgstr "Sulge port"
+msgstr "sulge port"
 
 msgid "Close sound recorder?"
 msgstr "Sulge helisalvestaja?"
@@ -554,7 +557,7 @@ msgid "connected"
 msgstr "ühendatud"
 
 msgid "Connecting to "
-msgstr "Ühendamine "
+msgstr "Ühendamine"
 
 msgid "Copy"
 msgstr "Kopeeri"
@@ -623,7 +626,7 @@ msgid "Documents"
 msgstr "Dokumendid"
 
 msgid "don't rotate"
-msgstr "ei pöörata"
+msgstr "ei pööra"
 
 msgid "Don't Save"
 msgstr "Ära salvesta"
@@ -644,7 +647,7 @@ msgid "drag to rotate"
 msgstr "pööra lohistades"
 
 msgid "draggable on website?"
-msgstr "veebilehele lohistatav"
+msgstr "lohistatav veebilehel?"
 
 msgid "duplicate"
 msgstr "paljunda"
@@ -659,13 +662,13 @@ msgid "Edit"
 msgstr "Redigeeri"
 
 msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
-msgstr "Ellipsi tööriist (joonista kontuuriga või täidetud ellips või ring)"
+msgstr "Ellipsi (joonista kontuuriga või täidetud ellips või ring)"
 
 msgid "enable remote sensor connections"
 msgstr "luba väljast tulevad sensorite ühendused"
 
 msgid "Enter presentation mode"
-msgstr "Sisene esitlusrezhiimi"
+msgstr "Sisene esitlusrežiimi"
 
 msgid "Eraser"
 msgstr "Kustutaja"
@@ -683,7 +686,7 @@ msgid "Exit presentation"
 msgstr "Välju esitlusest"
 
 msgid "Exit presentation mode"
-msgstr "Välju esitlusrezhiimist"
+msgstr "Välju esitlusrežiimist"
 
 msgid "export"
 msgstr "ekspordi"
@@ -716,7 +719,7 @@ msgid "Extras menu"
 msgstr "Lisade menüü"
 
 msgid "Eyedropper tool (select a color)"
-msgstr "Värvi lugemise tööriist (vali värv)"
+msgstr "Värvipipett (vali värv)"
 
 msgid "Failed:"
 msgstr "Ebaõnnestunud:"
@@ -731,7 +734,7 @@ msgid "File not found"
 msgstr "Faili ei leitud"
 
 msgid "Fill tool (fill areas with color or gradient)"
-msgstr "Värvimise tööriist (värvi alasid ühtlaselt või üleminekuga)"
+msgstr "Täitevärv (värvi alad ühtlaselt või üleminekuga)"
 
 msgid "first"
 msgstr "esimene"
@@ -788,7 +791,7 @@ msgid "Grow sprite"
 msgstr "Kasvata spraiti"
 
 msgid "hello "
-msgstr "tere"
+msgstr "tere..."
 
 msgid "Hello!"
 msgstr "Tere!"
@@ -797,7 +800,7 @@ msgid "help"
 msgstr "abi"
 
 msgid "Help"
-msgstr "abi"
+msgstr "Abiinfo"
 
 msgid "Help Page"
 msgstr "Abiinfo leht"
@@ -854,10 +857,10 @@ msgid "Incompatible Scratch file format"
 msgstr "Mittesobiv Scratch'i faili formaat"
 
 msgid "Is the folder read-only?"
-msgstr "Kas kataloog on kirjutamiskaitsega"
+msgstr "Kas kataloog on kirjutamiskaitsega?"
 
 msgid "JPEG Quality (10-100)?"
-msgstr "JPEG kvaliteet (10-100)"
+msgstr "JPEG kvaliteet (10-100)?"
 
 msgid "kbytes"
 msgstr "kilobaiti"
@@ -977,7 +980,7 @@ msgid "No MIDI ports currently available."
 msgstr "Praegu pole vabu MIDI porte."
 
 msgid "No motion blocks"
-msgstr "Ei ole liikumise plokid"
+msgstr "Puuduvad liikumise plokid"
 
 msgid "no scripts"
 msgstr "pole skripte"
@@ -992,7 +995,7 @@ msgid "Normal"
 msgstr "Normaalne"
 
 msgid "normal readout"
-msgstr "tavaline näit"
+msgstr "tavanäit"
 
 msgid "Off"
 msgstr "Väljas"
@@ -1001,16 +1004,16 @@ msgid "OK"
 msgstr "OK"
 
 msgid "On"
-msgstr "Sees"
+msgstr ""
 
 msgid "only face left-right"
-msgstr "ainult nägu vasakule/paremale"
+msgstr "ainult vasakule/paremale"
 
 msgid "Open"
 msgstr "Ava"
 
 msgid "Open a Scratch project"
-msgstr "Ava Scratch projekt"
+msgstr "Ava Scratchi projekt"
 
 msgid "Open Project"
 msgstr "Projekti avamine"
@@ -1052,7 +1055,7 @@ msgid "pop"
 msgstr "pop"
 
 msgid "Position the cross-hair to set the rotation center"
-msgstr "Positsioneeri ristkursor seadmaks pööramise keskpunkti"
+msgstr "Positsioneeri ristkursor pööramise keskmesses"
 
 msgid "Preparing project..."
 msgstr "Projekti valmistamine..."
@@ -1070,7 +1073,7 @@ msgid "Project notes"
 msgstr "Projekti märkused"
 
 msgid "Project uploaded."
-msgstr "Projekt üles laaditud"
+msgstr "Projekt üles laetud."
 
 msgid "Projects"
 msgstr "Projektid"
@@ -1121,7 +1124,7 @@ msgid "right"
 msgstr "parem"
 
 msgid "right arrow"
-msgstr "parem nool"
+msgstr "paremnool"
 
 msgid "Rotate clock-wise"
 msgstr "Pööra päripäeva"
@@ -1133,7 +1136,7 @@ msgid "rotate this sprite"
 msgstr "pööra seda spraiti"
 
 msgid "Rotation degrees?"
-msgstr "Pöördenurk kraadides"
+msgstr "Pöördenurk kraadides?"
 
 msgid "Save"
 msgstr "Salvesta"
@@ -1208,7 +1211,7 @@ msgid "Share This Project Online"
 msgstr "Jaga seda projekti internetis"
 
 msgid "Show Motor Blocks"
-msgstr "Näite mootori plokke"
+msgstr "Näita mootori plokke"
 
 msgid "show ScratchBoard watcher"
 msgstr "näita ScratchBoard'i jälgijat"
@@ -1232,7 +1235,7 @@ msgid "Slider range:"
 msgstr "Liuguri ulatus:"
 
 msgid "Sound quality:"
-msgstr "heli kvaliteet:"
+msgstr "Helikvaliteet:"
 
 msgid "Sound Recorder"
 msgstr "Helisalvesti"
@@ -1259,10 +1262,10 @@ msgid "Stage"
 msgstr "Lava"
 
 msgid "Stage selected:"
-msgstr "Valitud lava:"
+msgstr "Valitud on lava:"
 
 msgid "Stamp tool (select area, then stamp copies of it)"
-msgstr "Templi tööriist (vali ala ning tekita sellest koopiaid)"
+msgstr "Tempel (vali ala ning tekita sellest koopiaid)"
 
 msgid "Start green flag scripts"
 msgstr "Käivita rohelise lipuga skriptid"
@@ -1289,10 +1292,10 @@ msgid "Switch colors"
 msgstr "Vaheta värvi"
 
 msgid "Switch to full stage"
-msgstr "Lülitu tervele lavale"
+msgstr "Lülitu suurele lavale"
 
 msgid "Switch to presentation mode"
-msgstr "Lülitu presentatsiooni rezhiimile"
+msgstr "Lülitu presentatsioonirezhiimile"
 
 msgid "Switch to small stage"
 msgstr "Lüli väikesele lavale"
@@ -1301,13 +1304,13 @@ msgid "Tags:"
 msgstr "Märksõnad:"
 
 msgid "Text tool (edit text layer)"
-msgstr "Teksti tööriist (muuda teksti kihti)"
+msgstr "Teksti tööriist (muuda tekstikihti)"
 
 msgid "That variable name is already in use"
 msgstr "See muutujanimi on juba kasutuses"
 
 msgid "that way"
-msgstr "toda viisi"
+msgstr "todaviisi"
 
 msgid "The file name already exists. Overwrite existing file?"
 msgstr "Selle nimega fail juba eksisteerib. Kirjutan selle üle?"
@@ -1316,7 +1319,7 @@ msgid "thing"
 msgstr "asi"
 
 msgid "this way"
-msgstr "seda viisi"
+msgstr "sedaviisi"
 
 msgid "tilt"
 msgstr "kalle"
@@ -1325,16 +1328,16 @@ msgid "true"
 msgstr "true"
 
 msgid "Turbo speed"
-msgstr "Turbo kiirus"
+msgstr "Turbokiirus"
 
 msgid "turn into new sprite"
 msgstr "muuda uueks spraidiks"
 
 msgid "Undelete"
-msgstr "Võta kustutamine tagasi"
+msgstr "Tühista kustutamine"
 
 msgid "Undo"
-msgstr "Tagasivõtt"
+msgstr "Tühista"
 
 msgid "up"
 msgstr "üles"
@@ -1355,7 +1358,7 @@ msgid "Uploading"
 msgstr "Üleslaadimine"
 
 msgid "Variable name?"
-msgstr "muutuja nimi?"
+msgstr "Muutuja nimi?"
 
 msgid "View on stage"
 msgstr "Vaata laval"
@@ -1370,10 +1373,10 @@ msgid "world"
 msgstr "maailm"
 
 msgid "Write Multiple Project Summaries"
-msgstr "kirjuta mitmeid projekti kokkuvõtteid"
+msgstr "Kirjuta mitme projekti kokkuvõtted"
 
 msgid "Write Project Summary"
-msgstr "kirjuta projekti kokkuvõte"
+msgstr "Kirjuta projekti kokkuvõte"
 
 msgid "Yes"
 msgstr "Jah"
@@ -1382,7 +1385,7 @@ msgid "Your project is now online at"
 msgstr "Sinu projekt on nüüd internetis aadressil"
 
 msgid "Your Scratch website login name:"
-msgstr "Sinu Scratchi veebilehekülje kasutajanimi:"
+msgstr "Sinu kasutajanimi Scratchi veebilehel:"
 
 msgid "Zoom in"
 msgstr "Suurendus sisse"
@@ -1393,7 +1396,6 @@ msgstr "Suurendus välja"
 ############################################
 # MIDI INSTRUMENTS
 ############################################
-
 msgid "Accordion"
 msgstr "Akordion"
 
@@ -1404,16 +1406,17 @@ msgid "Acoustic Bass Drum"
 msgstr "Akustiline basstrumm"
 
 msgid "Acoustic Grand"
-msgstr "Akustiline tiibklaver"
+msgstr "Akustiline klaver"
 
+#, fuzzy
 msgid "Acoustic Snare"
-msgstr "Akustiline  keel"
+msgstr "Acoustic Snare"
 
 msgid "Agogo"
 msgstr "Agogo"
 
 msgid "Alto Sax"
-msgstr "Altsaksafon"
+msgstr "Altsaksofon"
 
 msgid "Applause"
 msgstr "Aplaus"
@@ -1428,7 +1431,7 @@ msgid "Baritone Sax"
 msgstr "Baritonsaksafon"
 
 msgid "Bass Drum 1"
-msgstr "Basstrumm"
+msgstr "Basstrumm 1"
 
 msgid "Bassoon"
 msgstr "Fagott"
@@ -1451,20 +1454,22 @@ msgstr "Hele akustika"
 msgid "Cabasa"
 msgstr "Cabasa"
 
+#, fuzzy
 msgid "Celesta"
-msgstr "Tšelesta"
+msgstr "Celesta"
 
 msgid "Cello"
 msgstr "Tšello"
 
 msgid "Chinese Cymbal"
-msgstr "Hiina  simbel"
+msgstr "Hiina simbel"
 
+#, fuzzy
 msgid "Choir Aahs"
-msgstr "Koori pasun"
+msgstr "Choir Aahs"
 
 msgid "Church Organ"
-msgstr "Kiriku orel"
+msgstr "Kirikuorel"
 
 msgid "Clarinet"
 msgstr "Klarnet"
@@ -1482,19 +1487,23 @@ msgid "Contrabass"
 msgstr "Kontrabass"
 
 msgid "Cowbell"
-msgstr "Karjakell"
+msgstr "Lehmakell"
 
+#, fuzzy
 msgid "Crash Cymbal 1"
-msgstr "Müra simbel 1"
+msgstr "Crash Cymbal 1"
 
+#, fuzzy
 msgid "Crash Cymbal 2"
-msgstr "Müra simbel 2"
+msgstr "Crash Cymbal 2"
 
+#, fuzzy
 msgid "Distortion Guitar"
-msgstr "Hägus gitarr"
+msgstr "Distortion Guitar"
 
+#, fuzzy
 msgid "Drawbar Organ"
-msgstr "Tõmbekang"
+msgstr "Drawbar Organ"
 
 msgid "Dulcimer"
 msgstr "Dulsimer"
@@ -1505,26 +1514,28 @@ msgstr "Elekribass (sõrm)"
 msgid "Electric Bass (pick)"
 msgstr "Elekribass (valik)"
 
+#, fuzzy
 msgid "Electric Clean Guitar"
-msgstr "Elektri täisgitarr"
+msgstr "Electric Clean Guitar"
 
 msgid "Electric Grand"
-msgstr "Elektri tiibklaver"
+msgstr "Elektriline tiibklaver"
 
 msgid "Electric Jazz Guitar"
-msgstr "Elektri dšäsgitarr"
+msgstr "Elektriline džässkitarr"
 
 msgid "Electric Muted Guitar"
-msgstr "Elektri sordiingitarr"
+msgstr "Elektriline sordiinkitarr"
 
 msgid "Electric Piano 1"
-msgstr "Elektriklaver I"
+msgstr "Elektriklaver 1"
 
 msgid "Electric Piano 2"
 msgstr "Elektriklaver 2"
 
+#, fuzzy
 msgid "Electric Snare"
-msgstr "Elektri keel"
+msgstr "Electric Snare"
 
 msgid "English Horn"
 msgstr "Inglise sarv"
@@ -1578,7 +1589,7 @@ msgid "Gunshot"
 msgstr "Püsipauk"
 
 msgid "Hand Clap"
-msgstr "Käteplagin"
+msgstr "käteplaks"
 
 msgid "Harmonica"
 msgstr "Suupill"
@@ -1617,7 +1628,7 @@ msgid "Kalimba"
 msgstr "Kalimba"
 
 msgid "Koto"
-msgstr "Koto "
+msgstr "Koto"
 
 msgid "Lead 1 (square)"
 msgstr "Lead 1(ruut)"
@@ -1671,7 +1682,7 @@ msgid "Low Wood Block"
 msgstr "Low Wood Block"
 
 msgid "Low-Mid Tom"
-msgstr "Low-Mid Tom "
+msgstr "Low-Mid Tom"
 
 msgid "Maracas"
 msgstr "Maracas"
@@ -1698,7 +1709,7 @@ msgid "Muted Trumpet"
 msgstr "Sordiin trompet"
 
 msgid "Nylon String Guitar"
-msgstr "Nailon keelega gitarr"
+msgstr "Nailonkeeltega kitarr"
 
 msgid "Oboe"
 msgstr "Oboe"
@@ -1718,12 +1729,15 @@ msgstr "Open Hi-Hat"
 msgid "Open Triangle"
 msgstr "Avatud triangel"
 
+#, fuzzy
 msgid "Orchestra Hit"
-msgstr "Orkestri hit"
+msgstr "Orchestra Hit"
 
+#, fuzzy
 msgid "Orchestral Strings"
-msgstr "Orkestri keeled"
+msgstr "Orchestral Strings"
 
+#, fuzzy
 msgid "Overdriven Guitar"
 msgstr "Overdriven Guitar"
 
@@ -1751,14 +1765,16 @@ msgstr "Pad 7 (halo)"
 msgid "Pad 8 (sweep)"
 msgstr "Pad 8 (sweep)"
 
+#, fuzzy
 msgid "Pan Flute"
-msgstr "Pan flööt"
+msgstr "Pan Flute"
 
 msgid "Pedal Hi-Hat"
 msgstr "Pedal Hi-Hat"
 
+#, fuzzy
 msgid "Percussive Organ"
-msgstr "Löögi orel"
+msgstr "Percussive Organ"
 
 msgid "Piccolo"
 msgstr "Piccolo"
@@ -1769,20 +1785,23 @@ msgstr "Pizzicato Strings"
 msgid "Recorder"
 msgstr "Salvesti"
 
+#, fuzzy
 msgid "Reed Organ"
-msgstr "Pilliroo orel"
+msgstr "Reed Organ"
 
 msgid "Reverse Cymbal"
-msgstr "Pöördsimbel "
+msgstr "Pöördsimbel"
 
+#, fuzzy
 msgid "Ride Bell"
-msgstr "Aisakell"
+msgstr "Ride Bell"
 
 msgid "Ride Cymbal 1"
-msgstr "Aisasimbel I"
+msgstr "Aisasimbel 1"
 
+#, fuzzy
 msgid "Ride Cymbal 2"
-msgstr "Aisasimbel 2"
+msgstr "Ride Cymbal 2"
 
 msgid "Rock Organ"
 msgstr "Rokkorel"
@@ -1820,53 +1839,67 @@ msgstr "Slap Bass 2"
 msgid "Soprano Sax"
 msgstr "Sopransaksofon"
 
+#, fuzzy
 msgid "Splash Cymbal"
-msgstr "Pritsimbel"
+msgstr "Splash Cymbal"
 
+#, fuzzy
 msgid "Steel Drums"
-msgstr "Metall trummid"
+msgstr "Steel Drums"
 
+#, fuzzy
 msgid "Steel String Guitar"
-msgstr "Metall keeltega gitarr"
+msgstr "Steel String Guitar"
 
+#, fuzzy
 msgid "String Ensemble 1"
-msgstr "Keelte ansambel 1"
+msgstr "String Ensemble 1"
 
+#, fuzzy
 msgid "String Ensemble 2"
-msgstr "Keelte ansambel 2"
+msgstr "String Ensemble 2"
 
+#, fuzzy
 msgid "Synth Bass 1"
-msgstr "Bass süntesaator 1"
+msgstr "Synth Bass 1"
 
+#, fuzzy
 msgid "Synth Bass 2"
-msgstr "Bass süntesaator 2"
+msgstr "Synth Bass 2"
 
+#, fuzzy
 msgid "Synth Drum"
-msgstr "Trumm süntesaator"
+msgstr "Synth Drum"
 
+#, fuzzy
 msgid "Synth Voice"
-msgstr "Hääle süntesaator"
+msgstr "Synth Voice"
 
+#, fuzzy
 msgid "SynthBrass 1"
-msgstr "Puhkpilli süntesaator 1"
+msgstr "SynthBrass 1"
 
+#, fuzzy
 msgid "SynthBrass 2"
-msgstr "Puhkpilli süntesaator 2"
+msgstr "SynthBrass 2"
 
+#, fuzzy
 msgid "SynthStrings 1"
-msgstr "Keelsüntesaator 1"
+msgstr "SynthStrings 1"
 
+#, fuzzy
 msgid "SynthStrings 2"
-msgstr "Keelsüntesaator 2"
+msgstr "SynthStrings 2"
 
 msgid "Taiko Drum"
-msgstr " Taiko trumm"
+msgstr "Taikotrumm"
 
 msgid "Tambourine"
 msgstr "Tamburiin"
 
+#, fuzzy
 msgid "Tango Accordion"
-msgstr "Tango okerdeon"
+msgstr "Tango Accordion"
 
 msgid "Telephone Ring"
 msgstr "Telefoni helin"
@@ -1877,11 +1910,13 @@ msgstr "Tenorsaksofon"
 msgid "Timpani"
 msgstr "Timpan"
 
+#, fuzzy
 msgid "Tinkle Bell"
-msgstr "Helisev kell"
+msgstr "Tinkle Bell"
 
+#, fuzzy
 msgid "Tremolo Strings"
-msgstr "Tremolo keeled"
+msgstr "Tremolo Strings"
 
 msgid "Trombone"
 msgstr "Tromboon"
@@ -1892,14 +1927,16 @@ msgstr "Trompet"
 msgid "Tuba"
 msgstr "Tuuba"
 
+#, fuzzy
 msgid "Tubular Bells"
-msgstr "Tubulaari kellad"
+msgstr "Tubular Bells"
 
 msgid "Vibraphone"
 msgstr "Vibrafon"
 
+#, fuzzy
 msgid "Vibraslap"
-msgstr "Põskvibrafon"
+msgstr "Vibraslap"
 
 msgid "Viola"
 msgstr "Vioola"
@@ -1914,7 +1951,7 @@ msgid "Whistle"
 msgstr "Vile"
 
 msgid "Woodblock"
-msgstr "Puuklots"
+msgstr "Puuplokk"
 
 msgid "Xylophone"
 msgstr "Ksülofon"

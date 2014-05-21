@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-04-25 17:01+0200\n"
-"Last-Translator: nikpeev <peiopeev@gmail.com>\n"
+"PO-Revision-Date: 2014-05-12 14:02+0200\n"
+"Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -19,9 +19,9 @@ msgstr ""
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Информация за Облачни променливи</b><br>&nbsp;<br>Към момента се "
-"поддържат само числови променливи<br>Чат стаи не са разрешени и ще бъдат "
-"премахвани<br>За повече информация, <a href= target=>see the cloud data "
-"FAQ!</a>"
+"поддържат само числa<br>Чат стаи не са разрешени и ще бъдат премахвани<br>За "
+"повече информация, <a href= target=>вижте често задавани въпроси (FAQ) за "
+"облачни променливи</a>"
 
 msgid "A connected"
 msgstr "A свързан"
@@ -30,10 +30,10 @@ msgid "a copy of the project file on your computer."
 msgstr "копие на файла на проекта върху вашия компютър."
 
 msgid "About"
-msgstr ""
+msgstr "За Scratch"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "За LEGO WeDo приставка..."
 
 msgid "abs"
 msgstr "абсолютна стойност"
@@ -45,7 +45,7 @@ msgid "acos"
 msgstr ""
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Добави приставка"
 
 # 90%
 msgid "Add boolean input:"
@@ -55,7 +55,7 @@ msgid "add comment"
 msgstr "добавяне на коментар"
 
 msgid "Add label text:"
-msgstr "Добавяне надпис с текст:"
+msgstr "Добавяне на етикет с текст:"
 
 # 89%
 msgid "Add number input:"
@@ -75,7 +75,7 @@ msgid "all around"
 msgstr "във всички посоки"
 
 msgid "all motors"
-msgstr ""
+msgstr "всички мотори"
 
 msgid "Animal"
 msgstr "Животни"
@@ -128,10 +128,10 @@ msgid "Backpack"
 msgstr "Раница"
 
 msgid "Bass"
-msgstr ""
+msgstr "Бас"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Бас барабан"
 
 msgid "Bassoon"
 msgstr "Фагот"
@@ -149,7 +149,7 @@ msgid "Block help"
 msgstr "Помощ"
 
 msgid "Bongo"
-msgstr ""
+msgstr "Бонго"
 
 msgid "brightness"
 msgstr "яркост"
@@ -158,7 +158,7 @@ msgid "Bring to front"
 msgstr "Довеждане най-отпред"
 
 msgid "Broadcast"
-msgstr ""
+msgstr "Разпространи"
 
 msgid "Brush"
 msgstr "Четка"
@@ -176,7 +176,7 @@ msgid "C connected"
 msgstr "C свързан"
 
 msgid "Cabasa"
-msgstr ""
+msgstr "Кабаса"
 
 msgid "Camera"
 msgstr "Камера"
@@ -206,7 +206,7 @@ msgid "Cello"
 msgstr "Виолончело"
 
 msgid "Choir"
-msgstr ""
+msgstr "Хор"
 
 msgid "Choose backdrop from library"
 msgstr "Избор на декор от библиотека"
@@ -239,7 +239,7 @@ msgid "Clear"
 msgstr "Изчистване"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "изчисти изпращащи/получаващи"
 
 msgid "Click "Save now" to try again or "Download" to save"
 msgstr "Кликнете  за повторен опит или  за запис"
@@ -248,7 +248,7 @@ msgid "Close"
 msgstr "Затвори"
 
 msgid "Closed Hi-Hat"
-msgstr ""
+msgstr "Затворен педален чинел"
 
 msgid "Cloud"
 msgstr "Облачна"
@@ -263,7 +263,7 @@ msgid "Color a shape"
 msgstr "Оцветяване на форма"
 
 msgid "Conga"
-msgstr ""
+msgstr "Конга"
 
 msgid "Connecting to Cloud data server..."
 msgstr "Свързване към облачен сървър на данни..."
@@ -319,7 +319,7 @@ msgid "Cowbell"
 msgstr "Пастирски звънец"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Краш чинел"
 
 msgid "Creating..."
 msgstr "Създаване..."
@@ -396,10 +396,10 @@ msgid "Effects"
 msgstr "Ефекти"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Електрическа китара"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Синтезатор"
 
 msgid "Electronic"
 msgstr "Електронни"
@@ -421,13 +421,13 @@ msgid "export"
 msgstr "експорт"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "Библиотека с приставки"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "Проблем с приставка"
 
 msgid "fade in"
-msgstr "усилване"
+msgstr "засилване"
 
 msgid "fade out"
 msgstr "затихване"
@@ -487,22 +487,22 @@ msgid "Grow"
 msgstr "Увеличаване"
 
 msgid "Guiro"
-msgstr ""
+msgstr "Гуиро"
 
 msgid "Guitar"
-msgstr ""
+msgstr "Китара"
 
 msgid "Hand Clap"
 msgstr "Ръкопляскане"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Хардуер"
 
 msgid "hide"
 msgstr "скрий"
 
 msgid "High C"
-msgstr ""
+msgstr "Горно До"
 
 msgid "hour"
 msgstr "час"
@@ -548,7 +548,7 @@ msgid "LEGO WeDo"
 msgstr ""
 
 msgid "length"
-msgstr ""
+msgstr "дължина"
 
 msgid "Library"
 msgstr "Библиотека"
@@ -589,7 +589,7 @@ msgid "loudness"
 msgstr "шумно"
 
 msgid "Low C"
-msgstr ""
+msgstr "Долно До"
 
 msgid "Make a Block"
 msgstr "Създаване на блок"
@@ -601,7 +601,7 @@ msgid "Make a Variable"
 msgstr "Създаване на променлива"
 
 msgid "Marimba"
-msgstr ""
+msgstr "Маримба"
 
 msgid "Max"
 msgstr "Максимум"
@@ -619,7 +619,7 @@ msgid "Microphone Volume:"
 msgstr "Ниво на микрофона:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "Средно До"
 
 msgid "Min"
 msgstr "Минимум"
@@ -637,13 +637,13 @@ msgid "motion"
 msgstr "движение"
 
 msgid "motor"
-msgstr ""
+msgstr "мотор"
 
 msgid "motor A"
-msgstr ""
+msgstr "мотор А"
 
 msgid "motor B"
-msgstr ""
+msgstr "мотор Б"
 
 msgid "mouse-pointer"
 msgstr "показалец на мишката"
@@ -655,7 +655,7 @@ msgid "Music and Dance"
 msgstr "Музика и танци"
 
 msgid "Music Box"
-msgstr ""
+msgstr "Музикална кутия"
 
 msgid "Music Loops"
 msgstr "Музикални лупове"
@@ -715,7 +715,7 @@ msgid "normal readout"
 msgstr "нормално изписване"
 
 msgid "not ="
-msgstr ""
+msgstr "не ="
 
 msgid "Not saved; network or server problem."
 msgstr "Не е записано; мрежов или сървърен проблем."
@@ -730,7 +730,7 @@ msgid "off"
 msgstr "изключено"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Офлайн редактор"
 
 msgid "OK"
 msgstr ""
@@ -745,13 +745,13 @@ msgid "Open Cuica"
 msgstr ""
 
 msgid "Open Hi-Hat"
-msgstr ""
+msgstr "Затворен педален чинел"
 
 msgid "Options"
 msgstr "Параметри"
 
 msgid "Organ"
-msgstr ""
+msgstr "Орган"
 
 msgid "Other"
 msgstr "Други"
@@ -787,7 +787,7 @@ msgid "photo1"
 msgstr "снимка1"
 
 msgid "Piano"
-msgstr ""
+msgstr "Пиано"
 
 # 92%
 msgid "Pick up color"
@@ -797,7 +797,7 @@ msgid "pixelate"
 msgstr "мрежа"
 
 msgid "Pizzicato"
-msgstr ""
+msgstr "Пицикато"
 
 msgid "pop"
 msgstr "пук"
@@ -840,7 +840,7 @@ msgid "Remixing..."
 msgstr "Ремиксиране..."
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "Премахни блоковета на приставката"
 
 msgid "Rename"
 msgstr "Преименуване"
@@ -909,7 +909,7 @@ msgid "Saving..."
 msgstr "Записване..."
 
 msgid "Saxophone"
-msgstr ""
+msgstr "Саксофон"
 
 # 85%
 msgid "Script"
@@ -930,6 +930,8 @@ msgstr "Към страницата на проекта"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
 msgstr ""
+"Вижте прозореца със съветите (от дясно) за да инсталирате \"plug-in\" и да "
+"заработи приставката."
 
 msgid "Select"
 msgstr "Маркиране"
@@ -967,10 +969,10 @@ msgid "show"
 msgstr "покажи"
 
 msgid "show receivers"
-msgstr ""
+msgstr "покажи изпращачите"
 
 msgid "show senders"
-msgstr ""
+msgstr "покажи получателите"
 
 msgid "show:"
 msgstr "покажи:"
@@ -1012,7 +1014,7 @@ msgid "Smooth"
 msgstr "Заглаждане"
 
 msgid "Snare Drum"
-msgstr ""
+msgstr "Малък барабан"
 
 msgid "softer"
 msgstr "по-слабо"
@@ -1068,7 +1070,7 @@ msgid "Stage selected:"
 msgstr "Избрана е сцената:"
 
 msgid "Steel Drum"
-msgstr ""
+msgstr "Стоманен барабан"
 
 msgid "stored on server"
 msgstr "съхранявана на сървър"
@@ -1132,7 +1134,7 @@ msgid "Transportation"
 msgstr "Транспорт"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Триъгълник"
 
 msgid "Trombone"
 msgstr "Тромбон"
@@ -1242,10 +1244,10 @@ msgid "whirl"
 msgstr "завихряне"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Дървено трупче"
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Дървена флейта"
 
 msgid "x position"
 msgstr "x позиция"

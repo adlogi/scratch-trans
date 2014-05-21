@@ -3,20 +3,19 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2010-02-24 08:59-0400\n"
-"Last-Translator: Sreeja Velayudhan <sree.arkays@gmail.com>\n"
+"PO-Revision-Date: 2014-04-29 11:23+0200\n"
+"Last-Translator: dhanila <dhanilabk@gmail.com>\n"
 "Language-Team: \n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 1.2.1\n"
+"X-Generator: Pootle 2.1.6\n"
 
 ############################################
 # FORMATTING
 ############################################
-
 # Language name as you'd like it to appear in the Languages menu&amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
 # &amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
 # (Required)
@@ -35,37 +34,41 @@ msgstr "LTR"
 # <br />
 # Use this if the font is too small for legibility on the Scratch interface
 msgid "Font-Scale"
-msgstr "2"
+msgstr "ലിപി-അളവ്"
 
 # Set to 'true' or 'false'
 # Use this if you do not want any of the text to be bolded, for legibility
+# 
 msgid "Suppress-Bold"
-msgstr ""
+msgstr "ബോള്‍ഡ് കുറയ്ക്കുക"
 
 # Font to use on a Windows system
+# 
 msgid "Win-Font"
-msgstr ""
+msgstr "വിന്‍ഡോസ്-ലിപി"
 
 # Font to use on a Mac system
+# 
 msgid "Mac-Font"
-msgstr ""
+msgstr "മാക്‌-ലിപി"
 
 # Font to use on a Linux system
+# 
 msgid "Linux-Font"
-msgstr ""
+msgstr "ലിനക്സ്‌-ലിപി"
 
-############################################
+# ##########################################
 # BLOCKS
-############################################
-
+# ##########################################
+# 
 msgid "%H sensor value"
-msgstr ""
+msgstr "%H മാപിനി വില"
 
 msgid "%L contains %s"
-msgstr "%Lല്‍ %s ഉണ്ടോ"
+msgstr "%Lല്‍ ഉള്ള %s "
 
 msgid "%a of %m"
-msgstr "%mന്റെ %a"
+msgstr "%m ന്‍റെ %a"
 
 msgid "%b and %b"
 msgstr "%b കൂടാതെ %b"
@@ -74,13 +77,13 @@ msgid "%b or %b"
 msgstr "%b അഥവ %b"
 
 msgid "%f of %n"
-msgstr "%nന്റെ %f"
+msgstr "%n ന്‍റെ %f"
 
 msgid "%n mod %n"
 msgstr "%n ശിഷ്ടം %n"
 
 msgid "add %s to %L"
-msgstr "%sനോട് കൂടി %L കൂട്ടുക"
+msgstr "%s നോട് കൂടി %L കൂട്ടുക"
 
 msgid "answer"
 msgstr "ഉത്തരം"
@@ -99,10 +102,10 @@ msgid "broadcast %e and wait"
 msgstr "%e വിളംബരം ചെയ്തു കാത്തിരിക്കുക"
 
 msgid "change %g effect by %n"
-msgstr "%g %n കൊണ്ട് മാറ്റുക"
+msgstr "%g നെ %n കൊണ്ട് മാറ്റുക"
 
 msgid "change %v by %n"
-msgstr "%v,%n കൊണ്ട് മാറ്റുക"
+msgstr "%v നെ %n കൊണ്ട് മാറ്റുക"
 
 msgid "change pen color by %n"
 msgstr "പേനയുടെ നിറം %n കൊണ്ട് മാറ്റുക"
@@ -120,7 +123,7 @@ msgid "change tempo by %n"
 msgstr "ടെംപോ %n കൊണ്ട് മാറ്റുക"
 
 msgid "change volume by %n"
-msgstr "ശബ്ദത്തെ %nകൊണ്ട് മാറ്റുക"
+msgstr "ശബ്ദത്തെ %n കൊണ്ട് മാറ്റുക"
 
 msgid "change x by %n"
 msgstr "xനെ %n കൊണ്ട് മാറ്റുക"
@@ -132,10 +135,10 @@ msgid "clear"
 msgstr "മായ്ക്കുക"
 
 msgid "clear graphic effects"
-msgstr "ഗ്രാഫിക്‌ എഫ്ഫെക്ട്സ് മാറ്റുക"
+msgstr "ഗ്രാഫിക്‌ ഇഫെക്റ്റ്സ് മാറ്റുക"
 
 msgid "color %C is touching %C?"
-msgstr "%C കളര്‍ %Cനെ തൊടുന്നുണ്ടോ?"
+msgstr "%C കളര്‍ %C നെ തൊടുന്നുണ്ടോ?"
 
 msgid "control"
 msgstr "നിയന്ത്രണം"
@@ -144,13 +147,13 @@ msgid "costume #"
 msgstr "രൂപം #"
 
 msgid "delete %y of %L"
-msgstr "%Lന്റെ %y കളയുക"
+msgstr "%L ന്‍റെ %y കളയുക"
 
 msgid "direction"
 msgstr "ദിശ"
 
 msgid "distance to %m"
-msgstr "%mലേക്കുള്ള ദൂരം"
+msgstr "%m ലേക്കുള്ള ദൂരം"
 
 msgid "else"
 msgstr "അല്ലെങ്കില്‍"
@@ -162,7 +165,7 @@ msgid "forever if %b"
 msgstr "%b ആണെങ്കില്‍ എല്ലായ്പ്പോഴും"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "%n സെകന്റില്‍ x:%n,y:%nലേക്ക് നീങ്ങുക"
+msgstr "%n സെകന്റില്‍ x:%n y:%nലേക്ക് നീങ്ങുക"
 
 msgid "go back %n layers"
 msgstr "%n പാളി അകത്തേക്ക് പോവുക"
@@ -174,14 +177,14 @@ msgid "go to front"
 msgstr "ഉപരിതലത്തിലോട്ടു വരിക"
 
 msgid "go to x:%n y:%n"
-msgstr "x:%n,y:%nലേക്ക് പോവുക"
+msgstr "x:%n,y:%n ലേക്ക് പോവുക"
 
-# /അപ്രത്യക്ഷമാവുക
+# അപ്രത്യക്ഷമാവുക
 msgid "hide"
 msgstr "ഒളിക്കുക"
 
 msgid "hide variable %v"
-msgstr "%vഎന്ന ചരത്തെ ഒളിപ്പിച്ചു വയ്ക്കുക"
+msgstr "%v എന്ന ചരത്തെ ഒളിപ്പിച്ചു വയ്ക്കുക"
 
 msgid "if %b"
 msgstr "%b ആണെങ്കില്‍"
@@ -190,25 +193,25 @@ msgid "if on edge, bounce"
 msgstr "അറ്റത്താണെങ്കില്‍ തിരിച്ചു നടക്കുക"
 
 msgid "insert %s at %i of %L"
-msgstr "%Lന്റെ %iല്‍ %s ഉള്‍പ്പെടുത്തുക"
+msgstr "%L ന്‍റെ %i ല്‍ %s ഉള്‍പ്പെടുത്തുക"
 
 msgid "item %i of %L"
-msgstr "%Lന്റെ %iമത്തെ ഐറ്റം"
+msgstr "%L ന്‍റെ %i മത്തെ ഐറ്റം"
 
 msgid "join %s %s"
-msgstr "%sഉം %sഉം യോജിപ്പിക്കുക"
+msgstr "%s, %s മായി യോജിപ്പിക്കുക"
 
 msgid "key %k pressed?"
-msgstr "%k എന്ന കീ അമര്‍ത്തിയോ?"
+msgstr "%k കീ അമര്‍ത്തിയോ?"
 
 msgid "length of %L"
-msgstr "%Lന്റെ നീളം"
+msgstr "%Lന്‍റെ നീളം"
 
 msgid "length of %s"
-msgstr "%sന്റെ നീളം"
+msgstr "%s ന്‍റെ നീളം"
 
 msgid "letter %n of %s"
-msgstr "%sന്റെ %nമത്തെ അക്ഷരം"
+msgstr "%s ന്‍റെ %n മത്തെ അക്ഷരം"
 
 msgid "list"
 msgstr "ലിസ്റ്റ്"
@@ -239,7 +242,7 @@ msgid "motor on for %n secs"
 msgstr "%n സെകന്റ് സമയത്തേക്ക് മോട്ടോര്‍ ഓണ്‍ ചെയ്യുക"
 
 msgid "motor power %n"
-msgstr "മോട്ടോറിന്റെ പവര്‍ %n"
+msgstr "മോട്ടോറിന്‍റെ പവര്‍ %n"
 
 msgid "mouse down?"
 msgstr "മൗസ് താഴെയാണോ?"
@@ -328,7 +331,7 @@ msgid "sensing"
 msgstr "ഗ്രഹണം"
 
 msgid "sensor %h?"
-msgstr ""
+msgstr "മാപിനി %h?"
 
 msgid "set %g effect to %n"
 msgstr "%gഎന്ന സ്പെഷല്‍ എഫെക്റ്റ് %nആക്കുക"
@@ -450,7 +453,6 @@ msgstr "yസ്ഥാനം"
 ############################################
 # USER INTERFACE
 ############################################
-
 msgid "(empty)"
 msgstr "(ഒഴിഞ്ഞ)"
 
@@ -503,7 +505,7 @@ msgid "brightness"
 msgstr "തെളിച്ചം"
 
 msgid "Brush size: "
-msgstr "ബ്രഷിന്റെ വലിപ്പം:"
+msgstr "ബ്രഷിന്റെ വലിപ്പം: "
 
 msgid "button"
 msgstr "ബട്ടണ്‍"
@@ -551,7 +553,7 @@ msgid "Close paint editor?"
 msgstr "പെയിന്റ് എഡിറ്റര്‍ ക്ലോസ് ചെയ്യണോ?"
 
 msgid "close port"
-msgstr ""
+msgstr "പോര്‍ട്ട്‌ ക്ലോസ് ചെയ്യുക"
 
 msgid "Close sound recorder?"
 msgstr "സൗണ്ട് റെക്കോഡര്‍ ക്ലോസ് ചെയ്യണോ?"
@@ -576,7 +578,7 @@ msgid "connected"
 msgstr "ബന്ധിപ്പിക്കുക"
 
 msgid "Connecting to "
-msgstr "ലോട്ട് ബന്ധിപ്പിക്കുക"
+msgstr "ലോട്ട് ബന്ധിപ്പിക്കുക "
 
 # /പകര്‍ത്തുക
 msgid "Copy"
@@ -648,7 +650,7 @@ msgid "Desktop"
 msgstr "ഡെസ്ക്ടോപ്പ്"
 
 msgid "disable remote sensor connections"
-msgstr ""
+msgstr "വിദൂര സേന്സ്റ് ബന്ദം പ്രവര്ത്തന രഹിതമാക്കുക"
 
 msgid "distance"
 msgstr "ദൂരം"
@@ -699,7 +701,7 @@ msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
 msgstr "എലിപ്സ് ടൂള്‍സ്(ഔട്ട്‌ലൈന്‍,എലിപ്സ്,വൃത്തം എന്നിവ വരയ്ക്കാന്‍)"
 
 msgid "enable remote sensor connections"
-msgstr ""
+msgstr "വിദൂര സേന്സ്റ് ബന്ദം പ്രവര്ത്തന സജ്ജമാക്കുക"
 
 msgid "Enter presentation mode"
 msgstr "പ്രസന്റേഷന്‍ മോഡ് തുടങ്ങുക"
@@ -711,7 +713,7 @@ msgid "Eraser size"
 msgstr "റബ്ബറിന്റെ വലിപ്പം"
 
 msgid "Error!"
-msgstr "തെറ്റ് !"
+msgstr "തെറ്റ്!"
 
 msgid "Examples"
 msgstr "ഉദാഹരണങ്ങള്‍"
@@ -831,10 +833,10 @@ msgid "Grow sprite"
 msgstr "സ്പ്രയ്റ്റ് വളരുക"
 
 msgid "hello "
-msgstr "ഹലോ"
+msgstr "ഹലോ "
 
 msgid "Hello!"
-msgstr "ഹലോ !"
+msgstr "ഹലോ!"
 
 msgid "help"
 msgstr "സഹായം"
@@ -855,7 +857,7 @@ msgid "High (biggest)"
 msgstr "ഉയര്‍ന്നതായ (ഏറ്റവും വലുതായ )"
 
 msgid "Hmm..."
-msgstr ".....ഹ് മ് മും...."
+msgstr "ഹ് മ് മും..."
 
 msgid "Home"
 msgstr "വീട്"
@@ -937,7 +939,7 @@ msgid "Line tool (draw lines)"
 msgstr "ലൈന്‍ ടൂള്‍(വരകള്‍)"
 
 msgid "List name?"
-msgstr "ലിസ്റ്റിന്റെ പേര്"
+msgstr "ലിസ്റ്റിന്‍റെ പേര്?"
 
 msgid "Low"
 msgstr "കുറവ്"
@@ -973,13 +975,13 @@ msgid "More tags:"
 msgstr "കൂടുതല്‍ ടാഗ്കള്‍:"
 
 msgid "mosaic"
-msgstr ""
+msgstr "മൊസൈക്"
 
 msgid "mouse x:"
-msgstr "മൗസിന്റെ x സ്ഥാനം"
+msgstr "മൗസിന്റെ x സ്ഥാനം:"
 
 msgid "mouse y:"
-msgstr "മൗസിന്റെ y സ്ഥാനം"
+msgstr "മൗസിന്റെ y സ്ഥാനം:"
 
 msgid "mouse-pointer"
 msgstr "മൗസ്- പോയിന്റെര്‍"
@@ -1011,10 +1013,10 @@ msgid "New file name?"
 msgstr "പുതിയ ഫയല്‍ ന്റെ പേര്?"
 
 msgid "New Filename:"
-msgstr "പുതിയ ഫയലിന്റെ പേര് :"
+msgstr "പുതിയ ഫയലിന്റെ പേര്:"
 
 msgid "New sound:"
-msgstr "പുതിയ ശബ്ദം :"
+msgstr "പുതിയ ശബ്ദം:"
 
 msgid "New Sprite"
 msgstr "പുതിയ സ്പ്രയ്റ്റ്"
@@ -1027,7 +1029,7 @@ msgid "No"
 msgstr "അല്ല"
 
 msgid "No MIDI ports currently available."
-msgstr "MIDI പോര്‍ട്ടുകള്‍ ഇല്ല"
+msgstr "MIDI പോര്‍ട്ടുകള്‍ ഇല്ല."
 
 msgid "No motion blocks"
 msgstr "ചലനതടസ്സം ഇല്ല"
@@ -1053,7 +1055,7 @@ msgid "Off"
 msgstr "ഓഫ്‌"
 
 msgid "OK"
-msgstr "ഓകേ"
+msgstr "ഓകെ"
 
 msgid "On"
 msgstr "ഓണ്‍"
@@ -1092,7 +1094,7 @@ msgstr "പെയിന്റിംഗ് ബ്രഷ്"
 
 # /തിരിച്ചറിയല്‍പദം,/അടയാളവാക്ക്,/രഹസ്യ കോഡ്
 msgid "Password:"
-msgstr "പാസ്സ്‌വേര്‍ഡ്‌"
+msgstr "പാസ്സ്‌വേര്‍ഡ്‌:"
 
 msgid "Percent? (100 gives original size)"
 msgstr "നൂറുശതമാനം? (100 ശരിയായ വലിപ്പം തരുന്നു )"
@@ -1132,7 +1134,7 @@ msgid "Project notes"
 msgstr "പ്രോജെക്റ്റ്‌ കുറിപ്പുകള്‍"
 
 msgid "Project uploaded."
-msgstr "പ്രോജെക്റ്റ്‌ അപ്‌ലോഡ്‌ ചെയ്തിരിക്കുന്നു"
+msgstr "പ്രോജെക്റ്റ്‌ അപ്‌ലോഡ്‌ ചെയ്തിരിക്കുന്നു."
 
 msgid "Projects"
 msgstr "പ്രോജെക്റ്റുകള്‍"
@@ -1171,7 +1173,7 @@ msgid "Reference Guide"
 msgstr "റഫറന്‍സ് ഗൈഡ്"
 
 msgid "Remote sensor connections enabled"
-msgstr ""
+msgstr "വിദൂര സേന്സ്റ് ബന്ദം പ്രവര്ത്തന സജ്ജമായി"
 
 msgid "Remove viewer from stage"
 msgstr "സ്റ്റേജ് ല്‍ നിന്നും കാഴ്ചക്കാരനെ നീക്കം ചെയ്യുക"
@@ -1227,7 +1229,7 @@ msgid "save picture of scripts"
 msgstr "പ്രോഗ്രാം ന്റെ ചിത്രങ്ങള്‍ സേവ് ചെയ്യുക"
 
 msgid "save picture of stage..."
-msgstr "സ്റ്റേജ് ന്റെ ചിത്രം സേവ് ചെയ്യുക"
+msgstr "സ്റ്റേജ് ന്റെ ചിത്രം സേവ് ചെയ്യുക..."
 
 msgid "Save Project"
 msgstr "പ്രോജെക്റ്റ്‌ സേവ് ചെയ്യുക"
@@ -1267,7 +1269,7 @@ msgid "Set rotation center"
 msgstr "സ്ല്യ്ഡര്‍ ന്റെ മിനിമവും മാക്സിമവും തീരുമാനിക്കുക"
 
 msgid "Set Single Stepping"
-msgstr "പ്രോഗ്രാംന്റെ വേഗത ഓരോ അടി വീതം ആക്കുക...."
+msgstr "പ്രോഗ്രാംന്റെ വേഗത ഓരോ അടി വീതം ആക്കുക"
 
 msgid "set slider min and max"
 msgstr "സ്ല്യ്ഡര്‍ ന്റെ മിനിമവും മാക്സിമവും തീരുമാനിക്കുക"
@@ -1288,7 +1290,7 @@ msgid "Show Motor Blocks"
 msgstr "മോട്ടോര്‍ ബ്ലോക്കുകള്‍ കാണിക്കുക"
 
 msgid "show ScratchBoard watcher"
-msgstr ""
+msgstr "സ്ക്രാച്ബോര്‍ഡ്‌ കാവല്‍ക്കാരനെ കാണിക്കുക"
 
 msgid "Shrink"
 msgstr "ചെറുതാവുക"
@@ -1419,7 +1421,7 @@ msgid "Undelete"
 msgstr "കളയാതിരിക്കുക"
 
 msgid "Undo"
-msgstr ""
+msgstr "നിഷ്‌ഫലമാക്കുക"
 
 # /മുകളില്‍
 msgid "up"
@@ -1429,10 +1431,10 @@ msgid "up arrow"
 msgstr "മുകളിലേക്കുള്ള ആരോമാര്‍ക്ക്‌"
 
 msgid "Updating thumbnails"
-msgstr ""
+msgstr "ചിത്രത്തിന്റെ ചെറുരൂപം നവീകരിക്കുക"
 
 msgid "Upload succeeded!"
-msgstr "അപ്‌ലോഡ്‌ വിജയിച്ചിരിക്കുന്നു !"
+msgstr "അപ്‌ലോഡ്‌ വിജയിച്ചിരിക്കുന്നു!"
 
 msgid "Upload to Scratch Server"
 msgstr "സ്ക്രാച് സെര്‍വര്‍ ല്‍ അപ്‌ലോഡ്‌ ചെയ്യുക"
@@ -1481,21 +1483,20 @@ msgstr "പുറത്തേക്ക് സൂം ചെയ്യുക"
 ############################################
 # MIDI INSTRUMENTS
 ############################################
-
 msgid "Accordion"
 msgstr "വാദ്യോപകരണങ്ങള്‍"
 
 msgid "Acoustic Bass"
-msgstr ""
+msgstr "ശബ്ദം ക്രമീകരിച്ച താണ സ്വരം"
 
 msgid "Acoustic Bass Drum"
-msgstr ""
+msgstr "oശബ്ദം ക്രമീകരിച്ച താണ സ്വരത്തിലുള്ള ഡ്രം"
 
 msgid "Acoustic Grand"
 msgstr ""
 
 msgid "Acoustic Snare"
-msgstr ""
+msgstr "ശബ്ദം ക്രമീകരിച്ച താണ സ്വരത്തിലുള്ള ചര്മ്മവാദ്യം"
 
 msgid "Agogo"
 msgstr ""
@@ -1507,7 +1508,7 @@ msgid "Applause"
 msgstr "കയ്യടി"
 
 msgid "Bagpipe"
-msgstr ""
+msgstr "ബാഗ്പ്പൈപ് സംഗീതോപകരണം"
 
 msgid "Banjo"
 msgstr ""
@@ -1516,13 +1517,13 @@ msgid "Baritone Sax"
 msgstr ""
 
 msgid "Bass Drum 1"
-msgstr ""
+msgstr "ബാസ്സ് ഡ്രം"
 
 msgid "Bassoon"
 msgstr ""
 
 msgid "Bird Tweet"
-msgstr ""
+msgstr "പക്ഷിശബ്‌ദം"
 
 msgid "Blown Bottle"
 msgstr ""
@@ -1531,7 +1532,7 @@ msgid "Brass Section"
 msgstr ""
 
 msgid "Breath Noise"
-msgstr ""
+msgstr "ശ്വസനശബ്ദം"
 
 msgid "Bright Acoustic"
 msgstr ""
@@ -1555,7 +1556,7 @@ msgid "Church Organ"
 msgstr ""
 
 msgid "Clarinet"
-msgstr ""
+msgstr "ക്ലാരിനെറ്റ്"
 
 msgid "Claves"
 msgstr ""
@@ -1663,7 +1664,7 @@ msgid "Guitar Harmonics"
 msgstr ""
 
 msgid "Gunshot"
-msgstr ""
+msgstr "വെടി ശബ്ദം"
 
 msgid "Hand Clap"
 msgstr "കയ്യടി"
@@ -1675,7 +1676,7 @@ msgid "Harpsichord"
 msgstr ""
 
 msgid "Helicopter"
-msgstr ""
+msgstr "ഹെലികോപ്‌റ്റര്‍"
 
 msgid "Hi Bongo"
 msgstr ""
@@ -1735,7 +1736,7 @@ msgid "Long Guiro"
 msgstr ""
 
 msgid "Long Whistle"
-msgstr ""
+msgstr "നീട്ടീ ചൂളംവിളി"
 
 msgid "Low Agogo"
 msgstr ""
@@ -1771,7 +1772,7 @@ msgid "Melodic Tom"
 msgstr ""
 
 msgid "Music Box"
-msgstr ""
+msgstr "പാട്ട് പെട്ടി"
 
 msgid "Mute Cuica"
 msgstr ""
@@ -1957,7 +1958,7 @@ msgid "Tango Accordion"
 msgstr ""
 
 msgid "Telephone Ring"
-msgstr ""
+msgstr "ടെലിഫോണ് ശബ്ദം"
 
 msgid "Tenor Sax"
 msgstr ""
@@ -1978,7 +1979,7 @@ msgid "Trumpet"
 msgstr "കൊമ്പുവാദ്യം"
 
 msgid "Tuba"
-msgstr ""
+msgstr "താഴ്ന്ന സ്വരത്തില് മാത്രം ഊതുന്ന വാദ്യം"
 
 msgid "Tubular Bells"
 msgstr ""

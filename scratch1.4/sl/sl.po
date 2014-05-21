@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2010-12-14 00:44-0400\n"
-"Last-Translator: Sasa Divjak <sasa.divjak@fri.uni-lj.si>\n"
+"PO-Revision-Date: 2013-12-08 01:49+0200\n"
+"Last-Translator: juozhe <juozhe@gmail.com>\n"
 "Language-Team: \n"
 "Language: sl\n"
 "MIME-Version: \n"
@@ -12,12 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 1.2.1\n"
+"X-Generator: Pootle 2.1.6\n"
 
 ############################################
 # FORMATTING
 ############################################
-
 # Language name as you'd like it to appear in the Languages menu<br />
 # <br />
 # (Required)
@@ -55,7 +54,6 @@ msgstr "Linux font"
 ############################################
 # BLOCKS
 ############################################
-
 msgid "%H sensor value"
 msgstr "vrednost tipala %H"
 
@@ -103,22 +101,22 @@ msgid "change %v by %n"
 msgstr "spremeni %v za %n"
 
 msgid "change pen color by %n"
-msgstr "spremeni barvo svinčnika v %n"
+msgstr "spremeni barvo svinčnika za %n"
 
 msgid "change pen shade by %n"
-msgstr "spremeni senco svinčnika v %n"
+msgstr "spremeni nianso svinčnika za %n"
 
 msgid "change pen size by %n"
-msgstr "spremeni velikost svinčnika na %n"
+msgstr "spremeni debelino svinčnika za %n"
 
 msgid "change size by %n"
-msgstr "spremeni velikost na %n"
+msgstr "spremeni debelino za %n"
 
 msgid "change tempo by %n"
 msgstr "spremeni tempo za %n"
 
 msgid "change volume by %n"
-msgstr "spremeni nivo zvoka za %n"
+msgstr "spremeni glasnost za %n"
 
 msgid "change x by %n"
 msgstr "spremeni x za %n"
@@ -166,7 +164,7 @@ msgid "go back %n layers"
 msgstr "postavi za %n plasti nazaj"
 
 msgid "go to %m"
-msgstr "pojdi na mesto %m"
+msgstr "pojdi na položaj %m"
 
 msgid "go to front"
 msgstr "postavi v ospredje"
@@ -274,7 +272,7 @@ msgid "pick random %n to %n"
 msgstr "izberi naključno med %n in %n"
 
 msgid "play drum %D for %n beats"
-msgstr "po %D %n udarcev "
+msgstr "po %D %n udarcev"
 
 msgid "play note %N for %n beats"
 msgstr "zaigraj noto %N  %n udarcev"
@@ -295,7 +293,7 @@ msgid "repeat %n"
 msgstr "ponovi %n"
 
 msgid "repeat until %b"
-msgstr "ponovljaj dokler %b"
+msgstr "ponavljaj dokler ni %b"
 
 msgid "replace item %i of %L with %s"
 msgstr "zamenjaj %i -ti člen v %L z %s"
@@ -325,7 +323,7 @@ msgid "set %g effect to %n"
 msgstr "postavi učinek %g na %n"
 
 msgid "set %v to %n"
-msgstr "postavi %v na %n"
+msgstr "nastavi %v na %n"
 
 msgid "set instrument to %I"
 msgstr "postavi glasbilo na %I"
@@ -337,10 +335,10 @@ msgid "set pen color to %n"
 msgstr "postavi barvo svinčnika na %n"
 
 msgid "set pen shade to %n"
-msgstr "postavi senco svinčnika na %n"
+msgstr "nastavi nianso svinčnika na %n"
 
 msgid "set pen size to %n"
-msgstr "postavi velikost svinčnika na %n"
+msgstr "nastavi debelino svinčnika na %n"
 
 msgid "set size to %n%"
 msgstr "postavi velikost na %n%"
@@ -370,7 +368,7 @@ msgid "sound"
 msgstr "zvok"
 
 msgid "stamp"
-msgstr "žig"
+msgstr "odtis"
 
 msgid "stop all"
 msgstr "končaj vse"
@@ -430,15 +428,14 @@ msgid "when I receive %e"
 msgstr "ko prejmem %e"
 
 msgid "x position"
-msgstr "mesto x"
+msgstr "položaj x"
 
 msgid "y position"
-msgstr "mesto y"
+msgstr "položaj y"
 
 ############################################
 # USER INTERFACE
 ############################################
-
 msgid "(empty)"
 msgstr "(prazno)"
 
@@ -557,7 +554,7 @@ msgid "connected"
 msgstr "povezan"
 
 msgid "Connecting to "
-msgstr "Povezujem se na"
+msgstr "Povezujem se na   "
 
 msgid "Copy"
 msgstr "Nov izvod"
@@ -860,7 +857,7 @@ msgid "Is the folder read-only?"
 msgstr "Ali je mapa samo za branje?"
 
 msgid "JPEG Quality (10-100)?"
-msgstr "Kakovost JPEG (10-100)"
+msgstr "Kakovost JPEG (10-100)?"
 
 msgid "kbytes"
 msgstr "kB"
@@ -990,7 +987,7 @@ msgid "No serial ports found"
 msgstr "Ni zaporednih vrat"
 
 msgid "No variables."
-msgstr "Ni spremenljivk"
+msgstr "Ni spremenljivk."
 
 msgid "Normal"
 msgstr "Navadno"
@@ -1137,7 +1134,7 @@ msgid "rotate this sprite"
 msgstr "vrti to sličico"
 
 msgid "Rotation degrees?"
-msgstr "Stopinje zasuka"
+msgstr "Stopinje zasuka?"
 
 msgid "Save"
 msgstr "Shrani"
@@ -1397,7 +1394,6 @@ msgstr "Pomanjšaj"
 ############################################
 # MIDI INSTRUMENTS
 ############################################
-
 msgid "Accordion"
 msgstr "Harmonika"
 

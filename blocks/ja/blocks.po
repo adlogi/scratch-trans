@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2014-04-20 19:52+0200\n"
+"PO-Revision-Date: 2014-05-18 09:40+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -30,7 +30,7 @@ msgid "%m.list contains %s"
 msgstr "%m.list に %s が含まれる"
 
 msgid "%m.mathOp of %n"
-msgstr " %m.mathOp ( %n )"
+msgstr "%m.mathOp ( %n )"
 
 msgid "%m.sensor sensor value"
 msgstr "%m.sensor センサーの値"
@@ -194,7 +194,7 @@ msgid "length of %s"
 msgstr "%s の長さ"
 
 msgid "letter %n of %s"
-msgstr " %n 番目( %s )の文字"
+msgstr "%n 番目( %s )の文字"
 
 msgid "Looks"
 msgstr "見た目"
@@ -460,7 +460,7 @@ msgstr "%b まで待つ"
 
 # 75%
 msgid "when %m.booleanSensor"
-msgstr "%m.booleanSensor のとき"
+msgstr "%m.booleanSensor とき"
 
 msgid "when %m.key key pressed"
 msgstr "%m.key キーが押されたとき"
