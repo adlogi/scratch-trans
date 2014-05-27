@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2014-02-12 00:47+0200\n"
+"PO-Revision-Date: 2014-05-23 10:59+0200\n"
 "Last-Translator: Emmanuella Pramudita <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -310,7 +310,6 @@ msgstr "set alat musik ke %d.instrument"
 
 # 89%
 # 86%
-#, fuzzy
 msgid "set %m.motor direction to %m.motorDirection"
 msgstr "atur arah motor %m.motorDirection"
 
@@ -320,9 +319,8 @@ msgstr "atur arah motor %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "atur daya motor %n"
+msgstr "atur kekuatan motor pada %n"
 
 # 77%
 msgid "set motor power %n"
@@ -425,20 +423,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "putar @turnRight %n derajat"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "matikan motor"
+msgstr "matikan %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "hidupkan motor"
+msgstr "hidupkan %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "hidupkan motor selama %n detik"
+msgstr "hidupkan %mmotor selama %n detik"
 
 msgid "turn motor off"
 msgstr "matikan motor"
@@ -488,7 +483,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "ketika latar menjadi %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "ketika jarak %m.lessMore %n"
 
 msgid "when distance < %n"
 msgstr "ketika jarak < %n"
@@ -503,7 +498,7 @@ msgid "when this sprite clicked"
 msgstr "ketika sprite ini diklik"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "ketika kemiringan %m.eNe %n"
 
 msgid "when tilt = %n"
 msgstr "ketika miring = %n"
