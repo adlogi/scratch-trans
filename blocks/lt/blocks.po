@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-05-16 12:48+0200\n"
 "Last-Translator: Jurgis <jurgis@akl.lt>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -320,22 +320,15 @@ msgstr "instrumentas = %d.instrument"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "variklio kryptis = %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "variklio kryptis = %m.motorDirection"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "variklio galia = %n"
-
-# 77%
-msgid "set motor power %n"
 msgstr "variklio galia = %n"
 
 # pakeistas c į n kitoje eilutėje
@@ -450,16 +443,6 @@ msgstr "įjunk variklį"
 msgid "turn %m.motor on for %n secs"
 msgstr "įjunk variklį %n sekundėms"
 
-msgid "turn motor off"
-msgstr "išjunk variklį"
-
-msgid "turn motor on"
-msgstr "įjunk variklį"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "įjunk variklį %n sekundėms"
-
 #, fuzzy
 msgid "turn video %m.videoState"
 msgstr "filmuojamo vaizdo sekimą %m.videoState"
@@ -486,6 +469,9 @@ msgstr "kai %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "Kai paspausta %m.key"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "Kai %m.triggerSensor > %n"
 
@@ -499,9 +485,6 @@ msgstr "Kai fonas keičiasi į %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "Kai atstumas < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "Kai gausi žinią %m.broadcast"
 
@@ -514,14 +497,41 @@ msgstr "Kai spusteli veikėją"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "Kai pasvirimas = %n"
-
 msgid "x position"
 msgstr "x koordinatė"
 
 msgid "y position"
 msgstr "y koordinatė"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "variklio kryptis = %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "variklio galia = %n"
+
+msgid "turn motor off"
+msgstr "išjunk variklį"
+
+msgid "turn motor on"
+msgstr "įjunk variklį"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "įjunk variklį %n sekundėms"
+
+msgid "when distance < %n"
+msgstr "Kai atstumas < %n"
+
+msgid "when tilt = %n"
+msgstr "Kai pasvirimas = %n"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "variklio kryptis = %m.motorDirection"
 
 #~ msgid "user id"
 #~ msgstr "naudotojo ID"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:23+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-04-22 02:45+0200\n"
 "Last-Translator: Chao-Hsiung <pesder@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,21 +305,15 @@ msgstr "設定樂器為 %d.instrument"
 
 # 89%
 # 86%
-msgid "set %m.motor direction to %m.motorDirection"
+# 97%
+#, fuzzy
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "設定 %m.motor 運轉方向 %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "設定馬達運轉方向 %m.motorDirection"
 
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
 msgstr "設定 %m.motor 動力 %n"
-
-# 77%
-msgid "set motor power %n"
-msgstr "設定馬達動力 %n"
 
 msgid "set pen color to %c"
 msgstr "將畫筆顏色設定為 %c"
@@ -429,16 +423,6 @@ msgstr "啟動 %m.motor"
 msgid "turn %m.motor on for %n secs"
 msgstr "啟動 %m.motor 運轉 %n 秒"
 
-msgid "turn motor off"
-msgstr "關閉馬達"
-
-msgid "turn motor on"
-msgstr "啟動馬達"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "啟動馬達運轉 %n 秒"
-
 msgid "turn video %m.videoState"
 msgstr "將視訊設定為 %m.videoState "
 
@@ -464,6 +448,9 @@ msgstr "當偵測器 %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "當按下 %m.key 鍵"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "當 %m.triggerSensor > %n"
 
@@ -477,9 +464,6 @@ msgstr "當背景切換為 %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "當距離 < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "當我接收到 %m.broadcast"
 
@@ -492,14 +476,40 @@ msgstr "當角色被點一下"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "當傾斜度 = %n"
-
 msgid "x position"
 msgstr "x 座標"
 
 msgid "y position"
 msgstr "y 座標"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "設定馬達運轉方向 %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "設定馬達動力 %n"
+
+msgid "turn motor off"
+msgstr "關閉馬達"
+
+msgid "turn motor on"
+msgstr "啟動馬達"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "啟動馬達運轉 %n 秒"
+
+msgid "when distance < %n"
+msgstr "當距離 < %n"
+
+msgid "when tilt = %n"
+msgstr "當傾斜度 = %n"
+
+# 89%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "設定 %m.motor 運轉方向 %m.motorDirection"
 
 #~ msgid "forever if %b"
 #~ msgstr "每當 %b"

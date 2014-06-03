@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-06-06 00:06+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -308,22 +308,15 @@ msgstr "ตั้งค่าเครื่องดนตรีเป็น %d
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "ทิศทางของมอเตอร์ %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "ทิศทางของมอเตอร์ %m.motorDirection"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "พลังงานมอเตอร์ %n"
-
-# 77%
-msgid "set motor power %n"
 msgstr "พลังงานมอเตอร์ %n"
 
 msgid "set pen color to %c"
@@ -439,16 +432,6 @@ msgstr "เืปิดมอเตอร์"
 msgid "turn %m.motor on for %n secs"
 msgstr "เปิดมอเตอร์เป็นเวลา %n วินาที"
 
-msgid "turn motor off"
-msgstr "ปิดมอเตอร์"
-
-msgid "turn motor on"
-msgstr "เืปิดมอเตอร์"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "เปิดมอเตอร์เป็นเวลา %n วินาที"
-
 msgid "turn video %m.videoState"
 msgstr "เปิดวิดีโอ %m.videoState"
 
@@ -474,6 +457,9 @@ msgstr "เมื่อ %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "เมื่อคีย์ %m.key ถูกกด"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "เมื่อ %m.triggerSensor > %n"
 
@@ -487,9 +473,6 @@ msgstr "เมื่อฉากหลังเปลี่ยนเป็น %m
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "เมื่อระยะห่าง < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "เมื่อฉันได้รับ %m.broadcast"
 
@@ -502,14 +485,41 @@ msgstr ""
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr ""
-
 msgid "x position"
 msgstr "ตำแหน่ง x "
 
 msgid "y position"
 msgstr "ตำแหน่ง y"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "ทิศทางของมอเตอร์ %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "พลังงานมอเตอร์ %n"
+
+msgid "turn motor off"
+msgstr "ปิดมอเตอร์"
+
+msgid "turn motor on"
+msgstr "เืปิดมอเตอร์"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "เปิดมอเตอร์เป็นเวลา %n วินาที"
+
+msgid "when distance < %n"
+msgstr "เมื่อระยะห่าง < %n"
+
+msgid "when tilt = %n"
+msgstr ""
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "ทิศทางของมอเตอร์ %m.motorDirection"
 
 #~ msgid "forever if %b"
 #~ msgstr "วนซ้ำตลอดหาก %b"

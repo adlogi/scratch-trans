@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-04-21 22:09+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -311,19 +311,13 @@ msgstr "setze %m.var auf %s"
 msgid "set instrument to %d.instrument"
 msgstr "setze Instrument auf %d.instrument"
 
-msgid "set %m.motor direction to %m.motorDirection"
+# 97%
+#, fuzzy
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "setze Drehung von %m.motor auf %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "setze Motordrehung %m.motorDirection"
 
 msgid "set %m.motor power to %n"
 msgstr "setze Leistung von %m.motor auf %n"
-
-# 77%
-msgid "set motor power %n"
-msgstr "setze Motorleistung auf %n"
 
 msgid "set pen color to %c"
 msgstr "setze Stiftfarbe auf %c"
@@ -430,16 +424,6 @@ msgstr "schalte %m.motor an"
 msgid "turn %m.motor on for %n secs"
 msgstr "schalte %m.motor für %n Sekunden an"
 
-msgid "turn motor off"
-msgstr "schalte Motor aus"
-
-msgid "turn motor on"
-msgstr "schalte Motor an"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "schalte Motor für %n Sekunden an"
-
 # 'turn video on/off/on-flipped'
 msgid "turn video %m.videoState"
 msgstr "schalte Video %m.videoState"
@@ -466,6 +450,9 @@ msgstr "Wenn %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "Wenn Taste %m.key gedrückt"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "Wenn %m.triggerSensor > %n"
 
@@ -479,9 +466,6 @@ msgstr "Wenn das Bühnenbild zu %m.backdrop wechselt"
 msgid "when distance %m.lessMore %n"
 msgstr "Wenn Abstand %m.lessMore %n"
 
-msgid "when distance < %n"
-msgstr "Wenn Abstand < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "Wenn ich %m.broadcast empfange"
 
@@ -494,14 +478,38 @@ msgstr "Wenn ich angeklickt werde"
 msgid "when tilt %m.eNe %n"
 msgstr "Wenn Neigung %m.eNe %n"
 
-msgid "when tilt = %n"
-msgstr "Wenn Neigung = %n"
-
 msgid "x position"
 msgstr "x-Position"
 
 msgid "y position"
 msgstr "y-Position"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "setze Motordrehung %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "setze Motorleistung auf %n"
+
+msgid "turn motor off"
+msgstr "schalte Motor aus"
+
+msgid "turn motor on"
+msgstr "schalte Motor an"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "schalte Motor für %n Sekunden an"
+
+msgid "when distance < %n"
+msgstr "Wenn Abstand < %n"
+
+msgid "when tilt = %n"
+msgstr "Wenn Neigung = %n"
+
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "setze Drehung von %m.motor auf %m.motorDirection"
 
 #~ msgid "user name"
 #~ msgstr "Benutzername"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-05-14 17:03+0200\n"
 "Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -302,23 +302,15 @@ msgstr "maak %m.var %s"
 msgid "set instrument to %d.instrument"
 msgstr "gebruik instrument %d.instrument"
 
-# 89%
-# 86%
-msgid "set %m.motor direction to %m.motorDirection"
+# 97%
+#, fuzzy
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "zet %m.motor richting op %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "zet motorrichting op %m.motorDirection"
 
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
 msgstr "zet %m.motor vermogen op %n"
-
-# 77%
-msgid "set motor power %n"
-msgstr "zet motorvermogen op %n"
 
 msgid "set pen color to %c"
 msgstr "maak penkleur %c"
@@ -428,16 +420,6 @@ msgstr "zet %m.motor aan"
 msgid "turn %m.motor on for %n secs"
 msgstr "zet %m.motor %n sec. aan"
 
-msgid "turn motor off"
-msgstr "zet motor uit"
-
-msgid "turn motor on"
-msgstr "zet motor aan"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "zet motor %n sec. aan"
-
 msgid "turn video %m.videoState"
 msgstr "zet video %m.videoState"
 
@@ -463,6 +445,9 @@ msgstr "wanneer %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "wanneer %m.key wordt ingedrukt"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "wanneer %m.triggerSensor > %n"
 
@@ -476,9 +461,6 @@ msgstr "wanneer achtergrond verandert naar %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr "wanneer afstand %m.lessMore %n"
 
-msgid "when distance < %n"
-msgstr "wanneer afstand < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "wanneer ik signaal %m.broadcast ontvang"
 
@@ -491,14 +473,40 @@ msgstr "wanneer op deze sprite wordt geklikt"
 msgid "when tilt %m.eNe %n"
 msgstr "wanneer draaiing %m.eNe %n"
 
-msgid "when tilt = %n"
-msgstr "wanneer gekanteld = %n"
-
 msgid "x position"
 msgstr "x-positie"
 
 msgid "y position"
 msgstr "y-positie"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "zet motorrichting op %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "zet motorvermogen op %n"
+
+msgid "turn motor off"
+msgstr "zet motor uit"
+
+msgid "turn motor on"
+msgstr "zet motor aan"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "zet motor %n sec. aan"
+
+msgid "when distance < %n"
+msgstr "wanneer afstand < %n"
+
+msgid "when tilt = %n"
+msgstr "wanneer gekanteld = %n"
+
+# 89%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "zet %m.motor richting op %m.motorDirection"
 
 #~ msgid "user name"
 #~ msgstr "gebruikersnaam"

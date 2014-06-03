@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-04-12 21:02+0200\n"
+"PO-Revision-Date: 2014-05-28 23:32+0200\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nb\n"
@@ -29,10 +29,13 @@ msgid "a copy of the project file on your computer."
 msgstr "en kopi av prosjektfilen på datamaskinen."
 
 msgid "About"
-msgstr ""
+msgstr "Info"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "Info om LEGO WeDo extension..."
+
+msgid "About PicoBoard extension..."
+msgstr "Info om PicoBoard extension..."
 
 msgid "abs"
 msgstr "abs"
@@ -44,7 +47,7 @@ msgid "acos"
 msgstr "arccos"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Hent tilleggsfunksjoner"
 
 # 90%
 msgid "Add boolean input:"
@@ -74,7 +77,7 @@ msgid "all around"
 msgstr "fri rotasjon"
 
 msgid "all motors"
-msgstr ""
+msgstr "alle motorer"
 
 msgid "Animal"
 msgstr "Dyr"
@@ -422,14 +425,17 @@ msgstr "Viskelærbredde"
 msgid "Error!"
 msgstr "Feil!"
 
+msgid "everything"
+msgstr "alt"
+
 msgid "export"
 msgstr "eksport"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "Tilleggsfunksjoner"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "Problemer med tilleggsfunksjonen"
 
 msgid "fade in"
 msgstr "inntoning"
@@ -501,7 +507,7 @@ msgid "Hand Clap"
 msgstr "Håndklapp"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Maskinvare"
 
 msgid "hide"
 msgstr "skjul"
@@ -550,7 +556,7 @@ msgid "left-right"
 msgstr "vend sideveis"
 
 msgid "LEGO WeDo"
-msgstr ""
+msgstr "Lego WeDo"
 
 msgid "length"
 msgstr "lengde"
@@ -559,6 +565,10 @@ msgid "Library"
 msgstr "Bibliotek"
 
 msgid "light"
+msgstr "lys"
+
+# 83%
+msgid "lights"
 msgstr "lys"
 
 msgid "limit reached"
@@ -642,13 +652,13 @@ msgid "motion"
 msgstr "bevegelse"
 
 msgid "motor"
-msgstr ""
+msgstr "motor"
 
 msgid "motor A"
-msgstr ""
+msgstr "motor A"
 
 msgid "motor B"
-msgstr ""
+msgstr "motor B"
 
 msgid "mouse-pointer"
 msgstr "musepeker"
@@ -720,7 +730,7 @@ msgid "normal readout"
 msgstr "vanlig visning"
 
 msgid "not ="
-msgstr ""
+msgstr "ikke ="
 
 msgid "Not saved; network or server problem."
 msgstr "Ikke lagret, nettverksproblemer."
@@ -846,7 +856,7 @@ msgid "Remixing..."
 msgstr "Remikser..."
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "Fjern tilleggsfunksjon"
 
 msgid "Rename"
 msgstr "Nytt navn"
@@ -935,7 +945,7 @@ msgid "See project page"
 msgstr "Se prosjektsiden"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
-msgstr ""
+msgstr "Se tips (til høyre) for å få tilleggsfunksjonen til å virke."
 
 msgid "Select"
 msgstr "Velg"

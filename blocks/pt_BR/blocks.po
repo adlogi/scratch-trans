@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2014-04-22 15:58+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
+"PO-Revision-Date: 2014-05-30 14:28+0200\n"
 "Last-Translator: Mariana <mcasetto@ig.com.br>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -65,7 +65,7 @@ msgid "change %m.effect effect by %n"
 msgstr "adicione ao efeito %m.effect %n"
 
 msgid "change %m.var by %n"
-msgstr "adicione a %m.var , %n"
+msgstr "adicione %n a %m.var"
 
 msgid "change pen color by %n"
 msgstr "adicione %n à cor da caneta"
@@ -164,10 +164,10 @@ msgid "hide"
 msgstr "esconda"
 
 msgid "hide list %m.list"
-msgstr "esconda lista %m.list"
+msgstr "esconda a lista %m.list"
 
 msgid "hide variable %m.var"
-msgstr "esconda variável %m.var"
+msgstr "esconda a variável %m.var"
 
 msgid "if %b then"
 msgstr "se %b então"
@@ -305,21 +305,14 @@ msgstr "use o instrumento %d.instrument"
 
 # 89%
 # 86%
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "use a direção %m.motor para %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "use a direção do motor %m.motorDirection"
+# 97%
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "use a direção %m.motor2 para %m.motorDirection"
 
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
 msgstr "use a potência %m.motor para %n"
-
-# 77%
-msgid "set motor power %n"
-msgstr "mude a potência do motor para %n"
 
 msgid "set pen color to %c"
 msgstr "mude a cor da caneta para %c"
@@ -430,16 +423,6 @@ msgstr "ligue o %m.motor"
 msgid "turn %m.motor on for %n secs"
 msgstr "ligue o %m.motor por %n segundos"
 
-msgid "turn motor off"
-msgstr "desligue o motor"
-
-msgid "turn motor on"
-msgstr "ligue o motor"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "ligue o motor por %n segundos"
-
 msgid "turn video %m.videoState"
 msgstr "vídeo %m.videoState"
 
@@ -457,7 +440,7 @@ msgid "wait %n secs"
 msgstr "espere %n segundos"
 
 msgid "wait until %b"
-msgstr "espere até que %b"
+msgstr "espere até %b"
 
 # 75%
 msgid "when %m.booleanSensor"
@@ -465,6 +448,9 @@ msgstr "quando %m.booleanSenso"
 
 msgid "when %m.key key pressed"
 msgstr "quando a tecla %m.key for pressionada"
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "quando %m.sensor for %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "quando %m.triggerSensor > %n"
@@ -479,14 +465,11 @@ msgstr "quando o pano de fundo mudar para %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr "quando a distância %m.lessMore %n"
 
-msgid "when distance < %n"
-msgstr "quando a distância for < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "quando receber %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "quando este ator começar como clone"
+msgstr "quando eu começar como clone"
 
 msgid "when this sprite clicked"
 msgstr "quando este ator for clicado"
@@ -494,14 +477,40 @@ msgstr "quando este ator for clicado"
 msgid "when tilt %m.eNe %n"
 msgstr "quando a inclinação for %m.eNe %n"
 
-msgid "when tilt = %n"
-msgstr "quando a inclinação for = %n"
-
 msgid "x position"
 msgstr "posição x"
 
 msgid "y position"
 msgstr "posição y"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "use a direção do motor %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "mude a potência do motor para %n"
+
+msgid "turn motor off"
+msgstr "desligue o motor"
+
+msgid "turn motor on"
+msgstr "ligue o motor"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "ligue o motor por %n segundos"
+
+msgid "when distance < %n"
+msgstr "quando a distância for < %n"
+
+msgid "when tilt = %n"
+msgstr "quando a inclinação for = %n"
+
+# 89%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "use a direção %m.motor para %m.motorDirection"
 
 #~ msgid "user name"
 #~ msgstr "Nome de Usuário"

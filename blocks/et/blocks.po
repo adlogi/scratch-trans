@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-05-01 22:08+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -306,22 +306,15 @@ msgstr "võta instrumendiks %d.instrument"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "mootori suund %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "mootori suund %m.motorDirection"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "mootori võimsus %n"
-
-# 77%
-msgid "set motor power %n"
 msgstr "mootori võimsus %n"
 
 msgid "set pen color to %c"
@@ -435,16 +428,6 @@ msgstr "lülita mootor sisse"
 msgid "turn %m.motor on for %n secs"
 msgstr "mootor sisse %n sekundiks"
 
-msgid "turn motor off"
-msgstr "lülita mootor välja"
-
-msgid "turn motor on"
-msgstr "lülita mootor sisse"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "mootor sisse %n sekundiks"
-
 msgid "turn video %m.videoState"
 msgstr "lülita video %m.videoState"
 
@@ -471,6 +454,9 @@ msgstr "kui %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "kui vajutatakse klahvi %m.key"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "kui %m.triggerSensor > %n"
 
@@ -484,9 +470,6 @@ msgstr "kui taustaks saab %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "kui kaugus < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "kui teade %m.broadcast"
 
@@ -499,14 +482,41 @@ msgstr "kui spraiti klõpsatakse"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "kui kalle = %n"
-
 msgid "x position"
 msgstr "x"
 
 msgid "y position"
 msgstr "y"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "mootori suund %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "mootori võimsus %n"
+
+msgid "turn motor off"
+msgstr "lülita mootor välja"
+
+msgid "turn motor on"
+msgstr "lülita mootor sisse"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "mootor sisse %n sekundiks"
+
+msgid "when distance < %n"
+msgstr "kui kaugus < %n"
+
+msgid "when tilt = %n"
+msgstr "kui kalle = %n"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "mootori suund %m.motorDirection"
 
 #~ msgid "user name"
 #~ msgstr "kasutajanimi"

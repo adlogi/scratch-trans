@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-05-07 14:54+0200\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,22 +305,15 @@ msgstr "hangszer legyen %d.instrument"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "set motor direction %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "set motor direction %m.motorDirection"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "set motor power %n"
-
-# 77%
-msgid "set motor power %n"
 msgstr "set motor power %n"
 
 msgid "set pen color to %c"
@@ -434,16 +427,6 @@ msgstr "turn motor on"
 msgid "turn %m.motor on for %n secs"
 msgstr "turn motor on for %n secs"
 
-msgid "turn motor off"
-msgstr "turn motor off"
-
-msgid "turn motor on"
-msgstr "turn motor on"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "turn motor on for %n secs"
-
 msgid "turn video %m.videoState"
 msgstr "videót kapcsold %m.videoState"
 
@@ -469,6 +452,9 @@ msgstr "when %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "%m.key lenyomásakor"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "%m.triggerSensor > %n esetén"
 
@@ -482,9 +468,6 @@ msgstr "%m.backdrop háttérre váltáskor"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "when distance < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast üzenet érkezésekor"
 
@@ -497,14 +480,41 @@ msgstr "e szereplőre kattintáskor"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "when tilt = %n"
-
 msgid "x position"
 msgstr "x hely"
 
 msgid "y position"
 msgstr "y hely"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "set motor direction %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "set motor power %n"
+
+msgid "turn motor off"
+msgstr "turn motor off"
+
+msgid "turn motor on"
+msgstr "turn motor on"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "turn motor on for %n secs"
+
+msgid "when distance < %n"
+msgstr "when distance < %n"
+
+msgid "when tilt = %n"
+msgstr "when tilt = %n"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "set motor direction %m.motorDirection"
 
 #~ msgid "forever if %b"
 #~ msgstr "mindig ha %b"

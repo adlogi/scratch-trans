@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-04-22 16:09+0200\n"
+"PO-Revision-Date: 2014-05-30 18:58+0200\n"
 "Last-Translator: Mariana <mcasetto@ig.com.br>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -18,10 +18,10 @@ msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
-"<b>Informações sobre variáveis em Nuvem</b><br>&nbsp;<br>Atualmente, apenas "
+"<b>Informações sobre variáveis na Nuvem</b><br>&nbsp;<br>Atualmente, apenas "
 "números são suportados<br>Salas de bate-papo não são autorizadas, e serão "
-"removidas<br>Para mais informação, <a href= target=>veja a FAQ sobre dados "
-"da Nuvem!</a>"
+"removidas<br>Para obter mais informações, <a href= target=>veja as Perguntas "
+"Frequentes sobre dados na nuvem!</a>"
 
 msgid "A connected"
 msgstr "A conectado"
@@ -35,11 +35,14 @@ msgstr "Sobre"
 msgid "About LEGO WeDo extension..."
 msgstr "Sobre a extensão LEGO WeDo..."
 
+msgid "About PicoBoard extension..."
+msgstr "Sobre a extensão PicoBoard..."
+
 msgid "abs"
 msgstr "módulo"
 
 msgid "Account settings"
-msgstr "Minha conta"
+msgstr "Configurações da conta"
 
 msgid "acos"
 msgstr "arco cosseno"
@@ -102,16 +105,16 @@ msgid "backdrop"
 msgstr "pano de fundo"
 
 msgid "backdrop #"
-msgstr "n° do fundo"
+msgstr "n° do pano de fundo"
 
 msgid "Backdrop Library"
-msgstr "Acervo de panos de fundo"
+msgstr "Biblioteca de panos de fundo"
 
 msgid "backdrop name"
 msgstr "nome do pano de fundo"
 
 msgid "backdrop1"
-msgstr "fundo1"
+msgstr "pano de fundo1"
 
 msgid "backdrops"
 msgstr "panos de fundo"
@@ -186,10 +189,10 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Cannot Delete"
-msgstr "Impossível Apagar"
+msgstr "Não é Possível Apagar"
 
 msgid "Can’t find network connection or reach server."
-msgstr "Impossível de conectar à rede ou ao servidor."
+msgstr "Não é possível se conectar à rede ou ao servidor."
 
 msgid "Castle"
 msgstr "Castelo"
@@ -207,16 +210,16 @@ msgid "Choir"
 msgstr "Coro"
 
 msgid "Choose backdrop from library"
-msgstr "Escolher fundo do acervo"
+msgstr "Escolher pano de fundo da biblioteca"
 
 msgid "Choose costume from library"
-msgstr "Escolher fantasia do acervo"
+msgstr "Escolher fantasia da biblioteca"
 
 msgid "Choose sound from library"
-msgstr "Escolher som do acervo"
+msgstr "Escolher som da biblioteca"
 
 msgid "Choose sprite from library"
-msgstr "Escolher ator do acervo"
+msgstr "Escolher ator da biblioteca"
 
 msgid "Circle"
 msgstr "Círculo"
@@ -231,7 +234,7 @@ msgid "Claves"
 msgstr "Claves"
 
 msgid "cleanup"
-msgstr "limpa"
+msgstr "limpar"
 
 msgid "Clear"
 msgstr "Limpar"
@@ -240,7 +243,7 @@ msgid "clear senders/receivers"
 msgstr "apagar emissores/receptores"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr "Clique  para tentar novamente ou  para baixar o arquivo"
+msgstr "Clique  para tentar novamente ou  para salvar"
 
 msgid "Close"
 msgstr "Fechar"
@@ -285,13 +288,13 @@ msgid "cos"
 msgstr "cosseno"
 
 msgid "Costume"
-msgstr "Fantasia1"
+msgstr "Fantasia"
 
 msgid "costume #"
 msgstr "n° da fantasia"
 
 msgid "Costume Library"
-msgstr "Acervo de Fantasias"
+msgstr "Biblioteca de Fantasias"
 
 msgid "costume name"
 msgstr "nome da fantasia"
@@ -412,11 +415,14 @@ msgstr "Espessura da borracha"
 msgid "Error!"
 msgstr "Erro!"
 
+msgid "everything"
+msgstr "tudo"
+
 msgid "export"
 msgstr "exporta"
 
 msgid "Extension Library"
-msgstr "Biblioteca de Extensão"
+msgstr "Biblioteca de Extensões"
 
 msgid "Extension Problem"
 msgstr "Problema de Extensão"
@@ -473,7 +479,7 @@ msgid "ghost"
 msgstr "fantasma"
 
 msgid "Go to My Stuff"
-msgstr "Ira para as Minhas coisas"
+msgstr "Ira para Minhas Coisas"
 
 msgid "Group"
 msgstr "Grupo"
@@ -525,7 +531,7 @@ msgid "Instruments"
 msgstr "Instrumentos"
 
 msgid "large readout"
-msgstr "grande"
+msgstr "letras grandes"
 
 msgid "last"
 msgstr "último"
@@ -546,10 +552,14 @@ msgid "length"
 msgstr "tamanho"
 
 msgid "Library"
-msgstr "Acervo"
+msgstr "Biblioteca"
 
 msgid "light"
 msgstr "luz"
+
+# 83%
+msgid "lights"
+msgstr "luzes"
 
 msgid "limit reached"
 msgstr "limite atingido"
@@ -568,7 +578,7 @@ msgid "List name"
 msgstr "Nome da lista"
 
 msgid "ln"
-msgstr "logaritmo natural de"
+msgstr "Em"
 
 msgid "Loading project..."
 msgstr "Carregando projeto..."
@@ -577,7 +587,7 @@ msgid "log"
 msgstr "logaritmo"
 
 msgid "louder"
-msgstr "mais forte"
+msgstr "mais alto"
 
 msgid "loudness"
 msgstr "ruído"
@@ -667,10 +677,10 @@ msgid "New"
 msgstr "Novo"
 
 msgid "New backdrop from camera"
-msgstr "Usar imagem da câmera como fundo"
+msgstr "Usar imagem da câmera como fano de fundo"
 
 msgid "New backdrop:"
-msgstr "Novo fundo:"
+msgstr "Novo pano de fundo:"
 
 msgid "New costume from camera"
 msgstr "Usar imagem da câmera como fantasia"
@@ -703,13 +713,13 @@ msgid "No motion blocks"
 msgstr "Não há blocos de movimento"
 
 msgid "normal readout"
-msgstr "normal"
+msgstr "letras tamanho normal"
 
 msgid "not ="
 msgstr "não ="
 
 msgid "Not saved; network or server problem."
-msgstr "Impossível salvar: problema de rede ou de servidor."
+msgstr "Não é possível salvar; problema de rede ou de servidor."
 
 msgid "Not saved; project did not load."
 msgstr "Não salvo; o projeto não foi carregado."
@@ -733,7 +743,7 @@ msgid "on-flipped"
 msgstr "ligado e espelhado"
 
 msgid "Open Cuica"
-msgstr "Cuíca"
+msgstr "Cuíca aberta"
 
 msgid "Open Hi-Hat"
 msgstr "Pratos de Choque Abertos"
@@ -812,7 +822,7 @@ msgid "Record new sound"
 msgstr "Gravar novo som"
 
 msgid "recording1"
-msgstr "a gravação 1"
+msgstr "gravação 1"
 
 msgid "Rectangle"
 msgstr "Retângulo"
@@ -944,7 +954,7 @@ msgid "Set Costume Center"
 msgstr "Especificar Centro da Fantasia"
 
 msgid "set slider min and max"
-msgstr "define cursor min e max"
+msgstr "definir cursor mín. e máx."
 
 msgid "Share"
 msgstr "Compartilhar"
@@ -953,7 +963,7 @@ msgid "shared"
 msgstr "compartilhado"
 
 msgid "Shift:"
-msgstr "Shift:"
+msgstr "Trocar:"
 
 msgid "show"
 msgstr "mostrar"
@@ -992,10 +1002,10 @@ msgid "size"
 msgstr "tamanho"
 
 msgid "slider"
-msgstr "potenciómetro"
+msgstr "controle deslizante"
 
 msgid "Slider Range"
-msgstr "Gama de Valores do Deslizador"
+msgstr "Valores do controle deslizante"
 
 msgid "Small stage layout"
 msgstr "Disposição com palco pequeno"
@@ -1017,7 +1027,7 @@ msgid "Sound"
 msgstr "Som"
 
 msgid "Sound Library"
-msgstr "Acervo de Sons"
+msgstr "Biblioteca de Sons"
 
 msgid "Sounds"
 msgstr "Sons"
@@ -1037,7 +1047,7 @@ msgid "Sprite"
 msgstr "Ator"
 
 msgid "Sprite Library"
-msgstr "Acervo de Atores"
+msgstr "Biblioteca de Atores"
 
 # 85%
 msgid "Sprite1"
@@ -1091,12 +1101,12 @@ msgstr "Coisas"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Este projeto pode detectar quem está usando através do bloco \"nome de "
-"usuário\". Para esconder a sua identidade, saia antes de usar este projeto."
+"Este projeto pode detectar quem está usando-o através do bloco \"nome de "
+"usuário\". Para esconder sua identidade, saia antes de usar este projeto."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
-"Este projecto usa dados de Nuvem - uma funcionalidade disponível apenas para "
+"Este projeto usa dados de Nuvem - uma funcionalidade disponível apenas para "
 "usuários autenticados."
 
 msgid "this script"
@@ -1112,7 +1122,7 @@ msgid "Throw away all changes since opening this project?"
 msgstr "Descartar todas as alterações realizadas desde a abertura do projeto?"
 
 msgid "timer"
-msgstr "valor do cronómetro"
+msgstr "valor do cronômetro"
 
 msgid "Tips"
 msgstr "Dicas"
@@ -1213,7 +1223,7 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video motion"
-msgstr "o movimento do vídeo"
+msgstr "movimento do vídeo"
 
 msgid "Video on:"
 msgstr "Vídeo ativo:"
@@ -1253,8 +1263,9 @@ msgstr "ano"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
-"Não pode editar dados de nuvem nos projetos de outras pessoas.<br>Qualquer "
-"alteração que faça no editor será temporária e não persistente."
+"Não é possível editar dados de nuvem nos projetos de outras "
+"pessoas.<br>Qualquer alteração que faça no editor será temporária e não "
+"persistente."
 
 # 92%
 msgid "Eraser width:"

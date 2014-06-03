@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:20+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-05-12 13:54+0200\n"
 "Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -307,24 +307,16 @@ msgstr "избери инструмент %d.instrument"
 # 89%
 # 100%
 # 86%
-msgid "set %m.motor direction to %m.motorDirection"
+# 97%
+#, fuzzy
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "задай на %m.motor посока %m.motorDirection"
-
-# 89%
-# 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "посока на мотора %m.motorDirection"
 
 # 77%
 # 100%
 # 75%
 msgid "set %m.motor power to %n"
 msgstr "задай на %m.motor мощност %n"
-
-# 77%
-# 100%
-msgid "set motor power %n"
-msgstr "избери мощност на мотора %n"
 
 msgid "set pen color to %c"
 msgstr "избери цвят на молива %c"
@@ -435,17 +427,6 @@ msgstr "включи %m.motor"
 msgid "turn %m.motor on for %n secs"
 msgstr "включи %m.motor за %n сек"
 
-msgid "turn motor off"
-msgstr "изключи мотора"
-
-msgid "turn motor on"
-msgstr "включи мотора"
-
-# 80%
-# 100%
-msgid "turn motor on for %n secs"
-msgstr "включи мотора за %n сек"
-
 msgid "turn video %m.videoState"
 msgstr "превключи към видео %m.videoState"
 
@@ -473,6 +454,9 @@ msgstr "когато %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "когато е натиснат клавиш %m.key"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "когато %m.triggerSensor > %n"
 
@@ -486,9 +470,6 @@ msgstr "когато декорът се смени на %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr "когато разстоянието е %m.lessMore %n"
 
-msgid "when distance < %n"
-msgstr "когато разстояние < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "когато получа %m.broadcast"
 
@@ -501,14 +482,44 @@ msgstr "когато този спрайт се щракнат"
 msgid "when tilt %m.eNe %n"
 msgstr "когато наклон %m.eNe %n"
 
-msgid "when tilt = %n"
-msgstr "когато наклон = %n"
-
 msgid "x position"
 msgstr "x позиция"
 
 msgid "y position"
 msgstr "y позиция"
+
+# 89%
+# 100%
+msgid "set motor direction %m.motorDirection"
+msgstr "посока на мотора %m.motorDirection"
+
+# 77%
+# 100%
+msgid "set motor power %n"
+msgstr "избери мощност на мотора %n"
+
+msgid "turn motor off"
+msgstr "изключи мотора"
+
+msgid "turn motor on"
+msgstr "включи мотора"
+
+# 80%
+# 100%
+msgid "turn motor on for %n secs"
+msgstr "включи мотора за %n сек"
+
+msgid "when distance < %n"
+msgstr "когато разстояние < %n"
+
+msgid "when tilt = %n"
+msgstr "когато наклон = %n"
+
+# 89%
+# 100%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "задай на %m.motor посока %m.motorDirection"
 
 #~ msgid "user name"
 #~ msgstr "потребителско име"

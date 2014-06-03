@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
+"PO-Revision-Date: 2014-05-27 21:24+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ote\n"
@@ -307,24 +307,15 @@ msgstr "hñuts'i ya mpefi ha %d.instrument"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "ra nguni ra moto %m.motorDirection"
-
-# 89%
-#, fuzzy
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "ra nguni ra moto %m.motorDirection"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "ra tsedi ra moto %n"
-
-# 77%
-#, fuzzy
-msgid "set motor power %n"
 msgstr "ra tsedi ra moto %n"
 
 msgid "set pen color to %c"
@@ -434,17 +425,6 @@ msgstr ""
 msgid "turn %m.motor on for %n secs"
 msgstr "nzäge ra moto ra %n yä'ä"
 
-msgid "turn motor off"
-msgstr ""
-
-msgid "turn motor on"
-msgstr ""
-
-# 80%
-#, fuzzy
-msgid "turn motor on for %n secs"
-msgstr "nzäge ra moto ra %n yä'ä"
-
 msgid "turn video %m.videoState"
 msgstr ""
 
@@ -471,6 +451,9 @@ msgstr "¿zora nthom'i%m.booleanSensor?"
 msgid "when %m.key key pressed"
 msgstr "Ngu gi %m.key tom’ä ha rä t’ohni"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr ""
 
@@ -482,9 +465,6 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr ""
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
-
-msgid "when distance < %n"
 msgstr ""
 
 msgid "when I receive %m.broadcast"
@@ -499,14 +479,44 @@ msgstr ""
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr ""
-
 msgid "x position"
 msgstr "Ra hñuts’i x"
 
 msgid "y position"
 msgstr "Ra hñuts’i y"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "ra nguni ra moto %m.motorDirection"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "ra tsedi ra moto %n"
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "nzäge ra moto ra %n yä'ä"
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "ra nguni ra moto %m.motorDirection"
 
 #~ msgid "forever if %b"
 #~ msgstr "b'u nzantho %b"

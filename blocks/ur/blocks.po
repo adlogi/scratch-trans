@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-03-22 13:09+0200\n"
 "Last-Translator: abdul <mscs13011@itu.edu.pk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -304,19 +304,14 @@ msgid "set instrument to %d.instrument"
 msgstr "مقررآلہ%d.instrument"
 
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "مقررسمت موتر%m.motorDirection"
-
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "مقررسمت موتر%m.motorDirection"
 
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "مقرر موتر طاقت%n"
-
-msgid "set motor power %n"
 msgstr "مقرر موتر طاقت%n"
 
 msgid "set pen color to %c"
@@ -429,15 +424,6 @@ msgstr "موٹرچلاوٰ"
 msgid "turn %m.motor on for %n secs"
 msgstr "موٹرچلاوٰبراےٰ%nسیکنڈ"
 
-msgid "turn motor off"
-msgstr "موٹربند"
-
-msgid "turn motor on"
-msgstr "موٹرچلاوٰ"
-
-msgid "turn motor on for %n secs"
-msgstr "موٹرچلاوٰبراےٰ%nسیکنڈ"
-
 msgid "turn video %m.videoState"
 msgstr "ویڈیوچلاوٰ%m.videoState"
 
@@ -462,6 +448,9 @@ msgstr "جب%m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "جب%m.key چابی دبے"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "جب %m.triggerSensor  > %n"
 
@@ -475,9 +464,6 @@ msgstr "جب پس منظر تبدیل ہو%m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "جب فاصلہ  < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "جب مجھے ملے%m.broadcast"
 
@@ -490,11 +476,34 @@ msgstr "جب یہ بھوت دبے"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "جب جھکاوٰ= %n"
-
 msgid "x position"
 msgstr "س کی جگہ"
 
 msgid "y position"
 msgstr "ص کی جگہ"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "مقررسمت موتر%m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "مقرر موتر طاقت%n"
+
+msgid "turn motor off"
+msgstr "موٹربند"
+
+msgid "turn motor on"
+msgstr "موٹرچلاوٰ"
+
+msgid "turn motor on for %n secs"
+msgstr "موٹرچلاوٰبراےٰ%nسیکنڈ"
+
+msgid "when distance < %n"
+msgstr "جب فاصلہ  < %n"
+
+msgid "when tilt = %n"
+msgstr "جب جھکاوٰ= %n"
+
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "مقررسمت موتر%m.motorDirection"

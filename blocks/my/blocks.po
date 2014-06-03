@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-04-27 14:51+0200\n"
 "Last-Translator: Ye Kyaw Thu <wasedakuma@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -307,24 +307,15 @@ msgstr "တူရိယာ ကို %d.instrument အဖြစ် သတ်မ�
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "မော်တာရဲ့ လည်ပတ်မှု့ကို %m.motorDirection အဖြစ်ထား"
-
-# 89%
-#, fuzzy
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "မော်တာရဲ့ လည်ပတ်မှု့ကို %m.motorDirection အဖြစ်ထား"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "မော်တာ ပါဝါကို  %n အဖြစ်ထား"
-
-# 77%
-#, fuzzy
-msgid "set motor power %n"
 msgstr "မော်တာ ပါဝါကို  %n အဖြစ်ထား"
 
 msgid "set pen color to %c"
@@ -438,17 +429,6 @@ msgstr "မော်တာကို ဖွင့်"
 msgid "turn %m.motor on for %n secs"
 msgstr "မော်တာကို  %n စက္ကန့် ဖွင့်"
 
-msgid "turn motor off"
-msgstr "မော်တာကို ပိတ်"
-
-msgid "turn motor on"
-msgstr "မော်တာကို ဖွင့်"
-
-# 80%
-#, fuzzy
-msgid "turn motor on for %n secs"
-msgstr "မော်တာကို  %n စက္ကန့် ဖွင့်"
-
 msgid "turn video %m.videoState"
 msgstr "ဗီဒီယိုကို %m.videoState အဖြစ် ပြောင်း"
 
@@ -477,6 +457,9 @@ msgstr "အာရုံခံကိရိယာ %m.booleanSensor လား"
 msgid "when %m.key key pressed"
 msgstr "%m.key ကီးကိုနှိပ်ခဲ့ရင်"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "%m.triggerSensor > %n ဖြစ်တဲ့အခါ"
 
@@ -490,9 +473,6 @@ msgstr "နောက်ခံက %m.backdrop အဖြစ် ပြောင်�
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "distance < %n ဖြစ်တဲ့ အခါ"
-
 msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast ကို လက်ခံရတဲ့အခါ"
 
@@ -505,14 +485,44 @@ msgstr "ဒီ ဇာတ်ကောင်က ကလစ်အနှိပ် ခ
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "စောင်းတဲ့ ပမာဏ = %n ဖြစ်တဲ့အခါ"
-
 msgid "x position"
 msgstr "xဝင်ရိုး"
 
 msgid "y position"
 msgstr "yဝင်ရိုး"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "မော်တာရဲ့ လည်ပတ်မှု့ကို %m.motorDirection အဖြစ်ထား"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "မော်တာ ပါဝါကို  %n အဖြစ်ထား"
+
+msgid "turn motor off"
+msgstr "မော်တာကို ပိတ်"
+
+msgid "turn motor on"
+msgstr "မော်တာကို ဖွင့်"
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "မော်တာကို  %n စက္ကန့် ဖွင့်"
+
+msgid "when distance < %n"
+msgstr "distance < %n ဖြစ်တဲ့ အခါ"
+
+msgid "when tilt = %n"
+msgstr "စောင်းတဲ့ ပမာဏ = %n ဖြစ်တဲ့အခါ"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "မော်တာရဲ့ လည်ပတ်မှု့ကို %m.motorDirection အဖြစ်ထား"
 
 #~ msgid "user name"
 #~ msgstr "အသုံးပြုသူ နာမည်"

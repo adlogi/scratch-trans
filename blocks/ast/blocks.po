@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:20+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-02-04 05:45+0200\n"
 "Last-Translator: Xuacu <xuacusk8@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,19 +303,14 @@ msgid "set instrument to %d.instrument"
 msgstr "poner l'instrumentu a %d.instrument"
 
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "poner direición del motor %m.motorDirection"
-
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "poner direición del motor %m.motorDirection"
 
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "poner potencia del motor %n"
-
-msgid "set motor power %n"
 msgstr "poner potencia del motor %n"
 
 msgid "set pen color to %c"
@@ -430,15 +425,6 @@ msgstr "prender el motor"
 msgid "turn %m.motor on for %n secs"
 msgstr "prender el motor %n segundos"
 
-msgid "turn motor off"
-msgstr "apagar el motor"
-
-msgid "turn motor on"
-msgstr "prender el motor"
-
-msgid "turn motor on for %n secs"
-msgstr "prender el motor %n segundos"
-
 msgid "turn video %m.videoState"
 msgstr "poner videu %m.videoState"
 
@@ -463,6 +449,9 @@ msgstr "cuando %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "cuando se calque la tecla %m.key"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "cuando %m.triggerSensor > %n"
 
@@ -476,9 +465,6 @@ msgstr "cuando'l fondu cambie a %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "cuando la distancia seya < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "cuando reciba %m.broadcast"
 
@@ -491,11 +477,34 @@ msgstr "cuando se calque nesti personaxe"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "cuando la inclinación = %n"
-
 msgid "x position"
 msgstr "posición x"
 
 msgid "y position"
 msgstr "posición y"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "poner direición del motor %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "poner potencia del motor %n"
+
+msgid "turn motor off"
+msgstr "apagar el motor"
+
+msgid "turn motor on"
+msgstr "prender el motor"
+
+msgid "turn motor on for %n secs"
+msgstr "prender el motor %n segundos"
+
+msgid "when distance < %n"
+msgstr "cuando la distancia seya < %n"
+
+msgid "when tilt = %n"
+msgstr "cuando la inclinación = %n"
+
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "poner direición del motor %m.motorDirection"

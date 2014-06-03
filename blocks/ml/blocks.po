@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-04-23 07:26+0200\n"
 "Last-Translator: Midhila <midhila.p.2011@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -303,18 +303,14 @@ msgid "set instrument to %d.instrument"
 msgstr "സംഗീതോപകരണത്തെ %d ആക്കി മാറ്റുക"
 
 # 86%
-msgid "set %m.motor direction to %m.motorDirection"
+# 97%
+#, fuzzy
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "മോട്ടോറിന്‍റെ ദിശ %m ഇല്‍ നിന്നും %m ആക്കി മാറ്റുക"
-
-msgid "set motor direction %m.motorDirection"
-msgstr "മോട്ടോറിന്‍റെ ദിശ %m ആക്കുക"
 
 # 75%
 msgid "set %m.motor power to %n"
 msgstr "മോട്ടോറിന്‍റെ പവര്‍ %m ഇല്‍ നിന്നും %n ആക്കുക"
-
-msgid "set motor power %n"
-msgstr "മോട്ടോറിന്‍റെ പവര്‍ %n ആക്കുക"
 
 msgid "set pen color to %c"
 msgstr "പേനയുടെ നിറം %c ആക്കി മാറ്റുക"
@@ -424,15 +420,6 @@ msgstr "മോട്ടോര്‍ %m ഓണ്‍ ആക്കുക"
 msgid "turn %m.motor on for %n secs"
 msgstr "മോട്ടോര്‍ %m %n നിമിഷം ഓണാക്കുക"
 
-msgid "turn motor off"
-msgstr "മോട്ടോര്‍ ഓഫ്‌ ആക്കുക"
-
-msgid "turn motor on"
-msgstr "മോട്ടോര്‍ ഓണ്‍ ആക്കുക"
-
-msgid "turn motor on for %n secs"
-msgstr "മോട്ടോര്‍ %n നിമിഷം ഓണാക്കുക"
-
 msgid "turn video %m.videoState"
 msgstr "വീഡിയോ %m.videoState ആക്കുക"
 
@@ -457,6 +444,9 @@ msgstr "booleanSensor.%m ആവുമ്പോള്‍"
 msgid "when %m.key key pressed"
 msgstr "key.%m കീ അമര്‍ത്തുമ്പോള്‍"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "triggerSensor%m > %n ആവുമ്പോള്‍"
 
@@ -470,9 +460,6 @@ msgstr "രംഗം %m ലേക്ക് മാറുമ്പോള്‍"
 msgid "when distance %m.lessMore %n"
 msgstr "ദൂരം %m.lessMore %n"
 
-msgid "when distance < %n"
-msgstr "ദൂരം < %n ആവുമ്പോള്‍"
-
 msgid "when I receive %m.broadcast"
 msgstr "ഞാന്‍ %m.broadcast സ്വീകരിക്കുമ്പോള്‍"
 
@@ -485,14 +472,36 @@ msgstr "ഈ സ്പ്രയ്റ്റിനെ ക്ലിക്ക് ച
 msgid "when tilt %m.eNe %n"
 msgstr "ചരിവ് %m.എനെ %n"
 
-msgid "when tilt = %n"
-msgstr "ചെരിവ് = %n ആവുമ്പോള്‍"
-
 msgid "x position"
 msgstr "xസ്ഥാനം"
 
 msgid "y position"
 msgstr "yസ്ഥാനം"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "മോട്ടോറിന്‍റെ ദിശ %m ആക്കുക"
+
+msgid "set motor power %n"
+msgstr "മോട്ടോറിന്‍റെ പവര്‍ %n ആക്കുക"
+
+msgid "turn motor off"
+msgstr "മോട്ടോര്‍ ഓഫ്‌ ആക്കുക"
+
+msgid "turn motor on"
+msgstr "മോട്ടോര്‍ ഓണ്‍ ആക്കുക"
+
+msgid "turn motor on for %n secs"
+msgstr "മോട്ടോര്‍ %n നിമിഷം ഓണാക്കുക"
+
+msgid "when distance < %n"
+msgstr "ദൂരം < %n ആവുമ്പോള്‍"
+
+msgid "when tilt = %n"
+msgstr "ചെരിവ് = %n ആവുമ്പോള്‍"
+
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "മോട്ടോറിന്‍റെ ദിശ %m ഇല്‍ നിന്നും %m ആക്കി മാറ്റുക"
 
 #~ msgid "forever if %b"
 #~ msgstr "%b ആണെങ്കില്‍ എല്ലായ്പ്പോഴും"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-09-13 22:16+0200\n"
 "Last-Translator: Jasmine <udea_jasmine@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,22 +305,15 @@ msgstr "կայել գործիք %d.instrument"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "Սահմանել շարժիչի ուղղությունը %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "Սահմանել շարժիչի ուղղությունը %m.motorDirection"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "Սահմանել շարժիչի հզորությունը %n"
-
-# 77%
-msgid "set motor power %n"
 msgstr "Սահմանել շարժիչի հզորությունը %n"
 
 msgid "set pen color to %c"
@@ -434,16 +427,6 @@ msgstr "Միացնել շարժիչը"
 msgid "turn %m.motor on for %n secs"
 msgstr "Միացնել շարժիչը %n վայրկյանով"
 
-msgid "turn motor off"
-msgstr "Անջատել շարժիչը"
-
-msgid "turn motor on"
-msgstr "Միացնել շարժիչը"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "Միացնել շարժիչը %n վայրկյանով"
-
 msgid "turn video %m.videoState"
 msgstr "Միացնել video %m.videoState տեսագրությունը"
 
@@ -469,6 +452,9 @@ msgstr "Երբ %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "երբ %m.key ստեղնը սեղմված է"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "Երբ %m.triggerSensor > %n"
 
@@ -482,9 +468,6 @@ msgstr "Երբ ետնապատը փոխարինվում է %m.backdrop ետնապ
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "Երբ տարածությունը < %n ից"
-
 msgid "when I receive %m.broadcast"
 msgstr "Երբ ստանամ %m.broadcast"
 
@@ -497,14 +480,41 @@ msgstr "Երբ սեղմեմ այս օբյեկտի վրա"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "Երբ թեքությունը = %n"
-
 msgid "x position"
 msgstr "Դիրքն x ի վրա"
 
 msgid "y position"
 msgstr "Դիրքն y ի վրա"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "Սահմանել շարժիչի ուղղությունը %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "Սահմանել շարժիչի հզորությունը %n"
+
+msgid "turn motor off"
+msgstr "Անջատել շարժիչը"
+
+msgid "turn motor on"
+msgstr "Միացնել շարժիչը"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "Միացնել շարժիչը %n վայրկյանով"
+
+msgid "when distance < %n"
+msgstr "Երբ տարածությունը < %n ից"
+
+msgid "when tilt = %n"
+msgstr "Երբ թեքությունը = %n"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "Սահմանել շարժիչի ուղղությունը %m.motorDirection"
 
 #~ msgid "forever if %b"
 #~ msgstr "միշտ, եթե %b"

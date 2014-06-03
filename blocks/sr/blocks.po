@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.3.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-07-01 16:05+0200\n"
 "Last-Translator: Milan <milan.cajic@open.telekom.rs>\n"
 "Language-Team: српски <>\n"
@@ -308,19 +308,14 @@ msgid "set instrument to %d.instrument"
 msgstr "нека инструмент буде %d.instrument"
 
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "нека смер мотора буде %m.motorDirection"
-
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "нека смер мотора буде %m.motorDirection"
 
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "нека снага мотора буде %n"
-
-msgid "set motor power %n"
 msgstr "нека снага мотора буде %n"
 
 msgid "set pen color to %c"
@@ -433,15 +428,6 @@ msgstr "укључи мотор"
 msgid "turn %m.motor on for %n secs"
 msgstr "покрени мотор током %n секунди"
 
-msgid "turn motor off"
-msgstr "искључи мотор"
-
-msgid "turn motor on"
-msgstr "укључи мотор"
-
-msgid "turn motor on for %n secs"
-msgstr "покрени мотор током %n секунди"
-
 msgid "turn video %m.videoState"
 msgstr "подеси стање видеа %m.videoState"
 
@@ -466,6 +452,9 @@ msgstr "када је %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "када је дирка %m.key притиснута"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "када је %m.triggerSensor > %n"
 
@@ -479,9 +468,6 @@ msgstr "када се позадина промени у %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "када је растојање < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "када примим %m.broadcast"
 
@@ -494,14 +480,37 @@ msgstr "када је кликнуто на овај лик"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "када је нагиб = %n"
-
 msgid "x position"
 msgstr "место x"
 
 msgid "y position"
 msgstr "место y"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "нека смер мотора буде %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "нека снага мотора буде %n"
+
+msgid "turn motor off"
+msgstr "искључи мотор"
+
+msgid "turn motor on"
+msgstr "укључи мотор"
+
+msgid "turn motor on for %n secs"
+msgstr "покрени мотор током %n секунди"
+
+msgid "when distance < %n"
+msgstr "када је растојање < %n"
+
+msgid "when tilt = %n"
+msgstr "када је нагиб = %n"
+
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "нека смер мотора буде %m.motorDirection"
 
 #~ msgid "user id"
 #~ msgstr "корисникова ознака"

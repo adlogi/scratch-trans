@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-05-07 11:17+0200\n"
 "Last-Translator: Alisha <panjwani.alisha@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,22 +305,15 @@ msgstr "%d.instrument पर साधन सेट करे"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "मोटर की दिशा %m.motorDirection पर सेट करे"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "मोटर की दिशा %m.motorDirection पर सेट करे"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "मोटर की शक्ति %n पर सेट करे"
-
-# 77%
-msgid "set motor power %n"
 msgstr "मोटर की शक्ति %n पर सेट करे"
 
 msgid "set pen color to %c"
@@ -436,16 +429,6 @@ msgstr "मोटर चालू करें"
 msgid "turn %m.motor on for %n secs"
 msgstr "%n सेकंड के लिए मोटर चालू करें"
 
-msgid "turn motor off"
-msgstr "मोटर बंद करें"
-
-msgid "turn motor on"
-msgstr "मोटर चालू करें"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "%n सेकंड के लिए मोटर चालू करें"
-
 msgid "turn video %m.videoState"
 msgstr "वीडियो m.videoState% करें"
 
@@ -471,6 +454,9 @@ msgstr "जब %m.booleanSensor हो"
 msgid "when %m.key key pressed"
 msgstr "जब %m.key बटन दबा हुआ है"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "जब %m.triggerSensor > %n"
 
@@ -484,9 +470,6 @@ msgstr "जब पृष्ठभूमि % m.backdrop में बदल ज�
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "जब दूरी< %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "मुझे %m.broadcast मिलने पर"
 
@@ -499,14 +482,41 @@ msgstr "इस स्प्राईट को क्लिक करने प�
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "जब झुकाव = %n"
-
 msgid "x position"
 msgstr "x स्थिति"
 
 msgid "y position"
 msgstr "y स्थिति"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "मोटर की दिशा %m.motorDirection पर सेट करे"
+
+# 77%
+msgid "set motor power %n"
+msgstr "मोटर की शक्ति %n पर सेट करे"
+
+msgid "turn motor off"
+msgstr "मोटर बंद करें"
+
+msgid "turn motor on"
+msgstr "मोटर चालू करें"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "%n सेकंड के लिए मोटर चालू करें"
+
+msgid "when distance < %n"
+msgstr "जब दूरी< %n"
+
+msgid "when tilt = %n"
+msgstr "जब झुकाव = %n"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "मोटर की दिशा %m.motorDirection पर सेट करे"
 
 #~ msgid "user id"
 #~ msgstr "उपयोगकर्ता आईडी"

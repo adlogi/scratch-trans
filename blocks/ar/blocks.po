@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:20+0200\n"
-"PO-Revision-Date: 2014-04-18 00:24+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
+"PO-Revision-Date: 2014-05-27 21:24+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -306,21 +306,15 @@ msgstr "اجعل الآلة هي %d.instrument"
 
 # 89%
 # 86%
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "اجعل اتجاه %m.motor %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "اجعل اتجاه المحرك %m.motorDirection"
+# 97%
+# 100%
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "اجعل اتجاه %m.motor2 %m.motorDirection"
 
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
 msgstr "اجعل طاقة %m.motor مساويةً %n"
-
-# 77%
-msgid "set motor power %n"
-msgstr "اجعل طاقة المحرك مساويةً %n"
 
 msgid "set pen color to %c"
 msgstr "اجعل لون القلم مساوياً %c"
@@ -433,16 +427,6 @@ msgstr "شغِّل %m.motor"
 msgid "turn %m.motor on for %n secs"
 msgstr "شغِّل %m.motor لمدة %n ثانية"
 
-msgid "turn motor off"
-msgstr "أوقف المحرك"
-
-msgid "turn motor on"
-msgstr "شغّل المحرك"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "شغِّل المحرك لمدة %n ثانية"
-
 msgid "turn video %m.videoState"
 msgstr "اجعل الفيديو %m.videoState"
 
@@ -469,6 +453,9 @@ msgstr "عندما %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "عند ضغط مفتاح %m.key"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "عندما %m.sensor %m.lessMore %n"
+
 msgid "when %m.triggerSensor > %n"
 msgstr "عندما %m.triggerSensor < %n"
 
@@ -482,9 +469,6 @@ msgstr "عندما تتغير الخلفية إلى %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr "عندما المسافة %m.lessMore %n"
 
-msgid "when distance < %n"
-msgstr "عندما المسافة > %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "عندما تستقبل %m.broadcast"
 
@@ -497,14 +481,40 @@ msgstr "عند نقر هذا الكائن"
 msgid "when tilt %m.eNe %n"
 msgstr "عندما الميل %m.eNe %n"
 
-msgid "when tilt = %n"
-msgstr "عندما الميل = %n"
-
 msgid "x position"
 msgstr "الموضع س"
 
 msgid "y position"
 msgstr "الموضع ص"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "اجعل اتجاه المحرك %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "اجعل طاقة المحرك مساويةً %n"
+
+msgid "turn motor off"
+msgstr "أوقف المحرك"
+
+msgid "turn motor on"
+msgstr "شغّل المحرك"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "شغِّل المحرك لمدة %n ثانية"
+
+msgid "when distance < %n"
+msgstr "عندما المسافة > %n"
+
+msgid "when tilt = %n"
+msgstr "عندما الميل = %n"
+
+# 89%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "اجعل اتجاه %m.motor %m.motorDirection"
 
 #~ msgid "user name"
 #~ msgstr "اسم المستخدم"

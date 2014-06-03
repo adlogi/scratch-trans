@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2014-05-16 08:55+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
+"PO-Revision-Date: 2014-05-27 21:23+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fil\n"
@@ -304,21 +304,13 @@ msgstr ""
 msgid "set instrument to %d.instrument"
 msgstr ""
 
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
-
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr ""
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "lakas ng motor %n"
-
-# 77%
-#, fuzzy
-msgid "set motor power %n"
 msgstr "lakas ng motor %n"
 
 msgid "set pen color to %c"
@@ -428,17 +420,6 @@ msgstr ""
 msgid "turn %m.motor on for %n secs"
 msgstr "buksan ang motor sa %n segundo"
 
-msgid "turn motor off"
-msgstr ""
-
-msgid "turn motor on"
-msgstr ""
-
-# 80%
-#, fuzzy
-msgid "turn motor on for %n secs"
-msgstr "buksan ang motor sa %n segundo"
-
 msgid "turn video %m.videoState"
 msgstr ""
 
@@ -463,6 +444,9 @@ msgstr ""
 msgid "when %m.key key pressed"
 msgstr ""
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr ""
 
@@ -474,9 +458,6 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr ""
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
-
-msgid "when distance < %n"
 msgstr ""
 
 msgid "when I receive %m.broadcast"
@@ -491,13 +472,35 @@ msgstr ""
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr ""
-
 msgid "x position"
 msgstr ""
 
 msgid "y position"
+msgstr ""
+
+msgid "set motor direction %m.motorDirection"
+msgstr ""
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "lakas ng motor %n"
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "buksan ang motor sa %n segundo"
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when tilt = %n"
 msgstr ""
 
 #~ msgid "motor off"

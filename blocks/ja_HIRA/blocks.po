@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-05-04 11:33+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE\n"
@@ -305,22 +305,15 @@ msgstr "がっきを %d.instrument にする"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "モーターのかいてんを %m.motorDirection にする"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "モーターのかいてんを %m.motorDirection にする"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "モーターのパワーを %n にする"
-
-# 77%
-msgid "set motor power %n"
 msgstr "モーターのパワーを %n にする"
 
 msgid "set pen color to %c"
@@ -434,16 +427,6 @@ msgstr "モーターをオンにする"
 msgid "turn %m.motor on for %n secs"
 msgstr "モーターを %n びょうオンにする"
 
-msgid "turn motor off"
-msgstr "モーターをオフにする"
-
-msgid "turn motor on"
-msgstr "モーターをオンにする"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "モーターを %n びょうオンにする"
-
 msgid "turn video %m.videoState"
 msgstr "ビデオを %m.videoState にする"
 
@@ -470,6 +453,9 @@ msgstr "%m.booleanSensor のとき"
 msgid "when %m.key key pressed"
 msgstr "%m.key キーがおされたとき"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "%m.triggerSensor > %n のとき"
 
@@ -483,9 +469,6 @@ msgstr "はいけいが %m.backdrop になったとき"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "きょり < %n のとき"
-
 msgid "when I receive %m.broadcast"
 msgstr "わたしが %m.broadcast をうけとったとき"
 
@@ -498,14 +481,41 @@ msgstr "このスプライトがクリックされたとき"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "かたむき = %n のとき"
-
 msgid "x position"
 msgstr "xざひょう"
 
 msgid "y position"
 msgstr "yざひょう"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "モーターのかいてんを %m.motorDirection にする"
+
+# 77%
+msgid "set motor power %n"
+msgstr "モーターのパワーを %n にする"
+
+msgid "turn motor off"
+msgstr "モーターをオフにする"
+
+msgid "turn motor on"
+msgstr "モーターをオンにする"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "モーターを %n びょうオンにする"
+
+msgid "when distance < %n"
+msgstr "きょり < %n のとき"
+
+msgid "when tilt = %n"
+msgstr "かたむき = %n のとき"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "モーターのかいてんを %m.motorDirection にする"
 
 #~ msgid "user name"
 #~ msgstr "ユーザーめい"

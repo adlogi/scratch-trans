@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-07-05 01:27+0200\n"
 "Last-Translator: Stavros Rafael <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,22 +305,15 @@ msgstr "όρισε το μουσικό όργανο σε %d.instrument"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "όρισε την ισχύ κινητήρα σε %n"
-
-# 77%
-msgid "set motor power %n"
 msgstr "όρισε την ισχύ κινητήρα σε %n"
 
 msgid "set pen color to %c"
@@ -433,16 +426,6 @@ msgstr "ενεργοποίησε τον κινητήρα"
 msgid "turn %m.motor on for %n secs"
 msgstr "ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα"
 
-msgid "turn motor off"
-msgstr "απενεργοποίησε τον κινητήρα"
-
-msgid "turn motor on"
-msgstr "ενεργοποίησε τον κινητήρα"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα"
-
 msgid "turn video %m.videoState"
 msgstr "%m.videoState την προβολή κάμερας"
 
@@ -468,6 +451,9 @@ msgstr "όταν %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "Όταν το πλήκτρο %m.key πατηθεί"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "Όταν %m.triggerSensor > %n"
 
@@ -481,9 +467,6 @@ msgstr "Όταν το υπόβαθρο αλλάξει σε %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "Όταν η απόσταση < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "Όταν λάβω το %m.broadcast"
 
@@ -496,14 +479,41 @@ msgstr "Όταν σε αυτό το αντικείμενο γίνει κλικ"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "Όταν η κλίση = %n"
-
 msgid "x position"
 msgstr "θέση του x"
 
 msgid "y position"
 msgstr "θέση του y"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "όρισε την ισχύ κινητήρα σε %n"
+
+msgid "turn motor off"
+msgstr "απενεργοποίησε τον κινητήρα"
+
+msgid "turn motor on"
+msgstr "ενεργοποίησε τον κινητήρα"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα"
+
+msgid "when distance < %n"
+msgstr "Όταν η απόσταση < %n"
+
+msgid "when tilt = %n"
+msgstr "Όταν η κλίση = %n"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
 
 #~ msgid "user name"
 #~ msgstr "Όνομα χρήστη"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-04-23 15:58+0200\n"
 "Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,21 +305,15 @@ msgstr "nastav nástroj na %d.instrument"
 
 # 89%
 # 86%
-msgid "set %m.motor direction to %m.motorDirection"
+# 97%
+#, fuzzy
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "nastav smer %m.motor na %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "nastav smer motora na %m.motorDirection"
 
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
 msgstr "nastav silu motora %m.motor na %n"
-
-# 77%
-msgid "set motor power %n"
-msgstr "nastav silu motora na %n"
 
 msgid "set pen color to %c"
 msgstr "nastav farbu pera na %c"
@@ -429,16 +423,6 @@ msgstr "zapni motor %m.motor"
 msgid "turn %m.motor on for %n secs"
 msgstr "zapni motor %m.motor na %n sekúnd"
 
-msgid "turn motor off"
-msgstr "vypni motor"
-
-msgid "turn motor on"
-msgstr "zapni motor"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "zapni motor na %n sekúnd"
-
 msgid "turn video %m.videoState"
 msgstr "prepni video na %m.videoState"
 
@@ -464,6 +448,9 @@ msgstr "keď senzor %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "po stlačení klávesu %m.key"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "ak %m.triggerSensor > %n"
 
@@ -477,9 +464,6 @@ msgstr "ak sa pozadie zmení na %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "ak je vzdialenosť < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "po prijatí správy %m.broadcast"
 
@@ -492,14 +476,40 @@ msgstr "po kliknutí na mňa"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "ak sa sklon = %n"
-
 msgid "x position"
 msgstr "pozícia x"
 
 msgid "y position"
 msgstr "pozícia y"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "nastav smer motora na %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "nastav silu motora na %n"
+
+msgid "turn motor off"
+msgstr "vypni motor"
+
+msgid "turn motor on"
+msgstr "zapni motor"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "zapni motor na %n sekúnd"
+
+msgid "when distance < %n"
+msgstr "ak je vzdialenosť < %n"
+
+msgid "when tilt = %n"
+msgstr "ak sa sklon = %n"
+
+# 89%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "nastav smer %m.motor na %m.motorDirection"
 
 #~ msgid "forever if %b"
 #~ msgstr "stále opakuj, ak %b"

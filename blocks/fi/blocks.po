@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-04-26 16:54+0200\n"
 "Last-Translator: Juha <juha.harviainen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,21 +305,15 @@ msgstr "aseta soittimeksi %d.instrument"
 
 # 89%
 # 86%
-msgid "set %m.motor direction to %m.motorDirection"
+# 97%
+#, fuzzy
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "aseta moottorin suunnaksi %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "moottorinsuunta %m.motorDirection"
 
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
 msgstr "aseta moottorin voimaksi %n"
-
-# 77%
-msgid "set motor power %n"
-msgstr "moottorin voima %n"
 
 msgid "set pen color to %c"
 msgstr "aseta kynälle väri %c"
@@ -429,16 +423,6 @@ msgstr "laita %m.motor päälle"
 msgid "turn %m.motor on for %n secs"
 msgstr "laita %m.motor päälle %n sekunniksi"
 
-msgid "turn motor off"
-msgstr "moottori pois päältä"
-
-msgid "turn motor on"
-msgstr "moottori päälle"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "moottori päälle %n sekunniksi"
-
 # no idea what this does
 msgid "turn video %m.videoState"
 msgstr "käännä video %m.videoState"
@@ -466,6 +450,9 @@ msgstr "sensori %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "kun painetaan %m.key"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "kun %m.triggerSensor > %n"
 
@@ -479,9 +466,6 @@ msgstr "kun tausta vaihtuu taustaksi %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr "kun etäisyys %m.lessMore %n"
 
-msgid "when distance < %n"
-msgstr "kun etäisyys < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "kun vastaanotan %m.broadcast"
 
@@ -494,14 +478,40 @@ msgstr "kun tätä hahmoa klikataan"
 msgid "when tilt %m.eNe %n"
 msgstr "kun kallistuminen %m.eNe %n"
 
-msgid "when tilt = %n"
-msgstr "kun kallistuminen = %n"
-
 msgid "x position"
 msgstr "x-sijainti"
 
 msgid "y position"
 msgstr "y-sijainti"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "moottorinsuunta %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "moottorin voima %n"
+
+msgid "turn motor off"
+msgstr "moottori pois päältä"
+
+msgid "turn motor on"
+msgstr "moottori päälle"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "moottori päälle %n sekunniksi"
+
+msgid "when distance < %n"
+msgstr "kun etäisyys < %n"
+
+msgid "when tilt = %n"
+msgstr "kun kallistuminen = %n"
+
+# 89%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "aseta moottorin suunnaksi %m.motorDirection"
 
 #~ msgid "user id"
 #~ msgstr "käyttäjätunnus"

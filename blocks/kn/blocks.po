@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-03-06 11:13+0200\n"
 "Last-Translator: vinayakumar  <vnkmr7620@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,19 +305,14 @@ msgid "set instrument to %d.instrument"
 msgstr "ವಾದ್ಯವನ್ನು ಹೊಂದಿಸು %dಗೆ ಹೊಂದಿಸು.ವಾದ್ಯ"
 
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "ವಾಹನದ ದಿಕ್ಕನ್ನು %mಗೆ ಹೊಂದಿಸು.ವಾಹನದದಿಕ್ಕು"
-
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "ವಾಹನದ ದಿಕ್ಕನ್ನು %mಗೆ ಹೊಂದಿಸು.ವಾಹನದದಿಕ್ಕು"
 
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "ವಾಹನದ ವಿದ್ಯುತ್ತನ್ನು %nಗೆ ಹೊಂದಿಸು"
-
-msgid "set motor power %n"
 msgstr "ವಾಹನದ ವಿದ್ಯುತ್ತನ್ನು %nಗೆ ಹೊಂದಿಸು"
 
 msgid "set pen color to %c"
@@ -430,15 +425,6 @@ msgstr "ವಾಹನವನ್ನು ಚಾಲನೆ ಮಾಡು"
 msgid "turn %m.motor on for %n secs"
 msgstr "ವಾಹನವನ್ನು %n ಸೆಕೆಂಡಿನಷ್ಟು ಚಲಾನೆ ಮಾಡು"
 
-msgid "turn motor off"
-msgstr "ವಾಹನವನ್ನು ನಿಲ್ಲಿಸು"
-
-msgid "turn motor on"
-msgstr "ವಾಹನವನ್ನು ಚಾಲನೆ ಮಾಡು"
-
-msgid "turn motor on for %n secs"
-msgstr "ವಾಹನವನ್ನು %n ಸೆಕೆಂಡಿನಷ್ಟು ಚಲಾನೆ ಮಾಡು"
-
 msgid "turn video %m.videoState"
 msgstr "ದೃಶ್ಯವನ್ನು %mರಷ್ಟು ಚಾಲನೆ ಮಾಡು.ದೃಶ್ಯದ ಸ್ಥಿತಿ"
 
@@ -464,6 +450,9 @@ msgstr "ಯಾವಾಗ %m.ಬೂಲಿಯನ್-ಗ್ರಹಿಕೆ"
 msgid "when %m.key key pressed"
 msgstr "ಯಾವಾಗ %m.ಕೀಲಿ ಕೀಲಿಯನ್ನು ಒತ್ತಿದಾಗ"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "ಯಾವಾಗ %m.ಪ್ರತಿಕ್ರಿಯೆಗ್ರಹಿಕೆ > %n"
 
@@ -477,9 +466,6 @@ msgstr "ಹಿಂದಣವು %mಗೆ ಬದಲಾದಾಗ.ಹಿಂದಣ"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "ದೂರವು ಯಾವಾಗ < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "ಯಾವಗವೆಂದರೆ %mಅನ್ನು ಸ್ವಿಕರಿಸಿದಾಗ.ಪ್ರಸರಿಸು"
 
@@ -492,14 +478,37 @@ msgstr "ಯಾವಗವೆಂದರೆ ಈ ಮೋಹಿನಿಯನ್ನು ಕ
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "ಯಾವಗವೆಂದರೆ ಓರೆಮಾಡು = %n"
-
 msgid "x position"
 msgstr "x ಸ್ಥಾನ"
 
 msgid "y position"
 msgstr "y ಸ್ಥಾನ"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "ವಾಹನದ ದಿಕ್ಕನ್ನು %mಗೆ ಹೊಂದಿಸು.ವಾಹನದದಿಕ್ಕು"
+
+msgid "set motor power %n"
+msgstr "ವಾಹನದ ವಿದ್ಯುತ್ತನ್ನು %nಗೆ ಹೊಂದಿಸು"
+
+msgid "turn motor off"
+msgstr "ವಾಹನವನ್ನು ನಿಲ್ಲಿಸು"
+
+msgid "turn motor on"
+msgstr "ವಾಹನವನ್ನು ಚಾಲನೆ ಮಾಡು"
+
+msgid "turn motor on for %n secs"
+msgstr "ವಾಹನವನ್ನು %n ಸೆಕೆಂಡಿನಷ್ಟು ಚಲಾನೆ ಮಾಡು"
+
+msgid "when distance < %n"
+msgstr "ದೂರವು ಯಾವಾಗ < %n"
+
+msgid "when tilt = %n"
+msgstr "ಯಾವಗವೆಂದರೆ ಓರೆಮಾಡು = %n"
+
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "ವಾಹನದ ದಿಕ್ಕನ್ನು %mಗೆ ಹೊಂದಿಸು.ವಾಹನದದಿಕ್ಕು"
 
 #~ msgid "forever if %b"
 #~ msgstr "ಒಂದುವೇಳೆ %b ಯವಾಗಲು"

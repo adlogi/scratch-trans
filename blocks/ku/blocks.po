@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
-"PO-Revision-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
+"PO-Revision-Date: 2014-05-27 21:23+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ku\n"
@@ -308,24 +308,15 @@ msgstr "instrument bike %d.instrument"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "rexa motor %m.motorDirection"
-
-# 89%
-#, fuzzy
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "rexa motor %m.motorDirection"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "hêza motor %n"
-
-# 77%
-#, fuzzy
-msgid "set motor power %n"
 msgstr "hêza motor %n"
 
 msgid "set pen color to %c"
@@ -435,17 +426,6 @@ msgstr ""
 msgid "turn %m.motor on for %n secs"
 msgstr "motor vekirîye bo %n saniye"
 
-msgid "turn motor off"
-msgstr ""
-
-msgid "turn motor on"
-msgstr ""
-
-# 80%
-#, fuzzy
-msgid "turn motor on for %n secs"
-msgstr "motor vekirîye bo %n saniye"
-
 msgid "turn video %m.videoState"
 msgstr ""
 
@@ -472,6 +452,9 @@ msgstr "sensor %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "heger tûşa %m.key çapkirî be "
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr ""
 
@@ -483,9 +466,6 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr ""
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
-
-msgid "when distance < %n"
 msgstr ""
 
 msgid "when I receive %m.broadcast"
@@ -500,14 +480,44 @@ msgstr ""
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr ""
-
 msgid "x position"
 msgstr "pozîsyona x"
 
 msgid "y position"
 msgstr "pozîsyona y"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "rexa motor %m.motorDirection"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "hêza motor %n"
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "motor vekirîye bo %n saniye"
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "rexa motor %m.motorDirection"
 
 #~ msgid "forever if %b"
 #~ msgstr "herdem heger %b"

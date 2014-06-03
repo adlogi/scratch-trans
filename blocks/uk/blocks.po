@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-05-07 21:38+0200\n"
 "Last-Translator: Григорій <ggromko@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -306,21 +306,15 @@ msgstr "задати інструмент %d.instrument"
 
 # 100%
 # 86%
-msgid "set %m.motor direction to %m.motorDirection"
+# 97%
+#, fuzzy
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "встановити для %m.motor напрям %m.motorDirection"
-
-# 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "напрям двигуна %m.motorDirection"
 
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
 msgstr "встановити для %m.motor потужність %n"
-
-# 77%
-msgid "set motor power %n"
-msgstr "потужність двигуна %n"
 
 msgid "set pen color to %c"
 msgstr "колір олівця %c"
@@ -430,16 +424,6 @@ msgstr "увімкнути %m.motor"
 msgid "turn %m.motor on for %n secs"
 msgstr "увімкнути %m.motor на %n сек"
 
-msgid "turn motor off"
-msgstr "вимкнути двигун"
-
-msgid "turn motor on"
-msgstr "увімкнути двигун"
-
-# 100%
-msgid "turn motor on for %n secs"
-msgstr "двигун увімкнути на %n сек"
-
 msgid "turn video %m.videoState"
 msgstr "перемкнути відео %m.videoState"
 
@@ -466,6 +450,9 @@ msgstr "датчик %m.booleanSensor?"
 msgid "when %m.key key pressed"
 msgstr "коли натиснуто клавішу %m.key"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "коли %m.triggerSensor > %n"
 
@@ -479,9 +466,6 @@ msgstr "коли тло зміниться на %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr "якщо відстань %m.lessMore %n"
 
-msgid "when distance < %n"
-msgstr "коли відстань < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "коли я отримаю %m.broadcast"
 
@@ -494,14 +478,40 @@ msgstr "коли спрайт натиснуто"
 msgid "when tilt %m.eNe %n"
 msgstr "якщо нахил %m.eNe %n"
 
-msgid "when tilt = %n"
-msgstr "коли нахил = %n"
-
 msgid "x position"
 msgstr "значення x"
 
 msgid "y position"
 msgstr "значення y"
+
+# 100%
+msgid "set motor direction %m.motorDirection"
+msgstr "напрям двигуна %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "потужність двигуна %n"
+
+msgid "turn motor off"
+msgstr "вимкнути двигун"
+
+msgid "turn motor on"
+msgstr "увімкнути двигун"
+
+# 100%
+msgid "turn motor on for %n secs"
+msgstr "двигун увімкнути на %n сек"
+
+msgid "when distance < %n"
+msgstr "коли відстань < %n"
+
+msgid "when tilt = %n"
+msgstr "коли нахил = %n"
+
+# 100%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "встановити для %m.motor напрям %m.motorDirection"
 
 #~ msgid "user name"
 #~ msgstr "користувач"

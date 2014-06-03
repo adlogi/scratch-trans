@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-04-21 21:10+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -310,24 +310,16 @@ msgstr "fixa l'instrument a %d.instrument"
 # 89%
 # 100%
 # 86%
-msgid "set %m.motor direction to %m.motorDirection"
+# 97%
+#, fuzzy
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "fixa la direcció del motor %m.motor a %m.motorDirection"
-
-# 89%
-# 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "direcció del motor %m.motorDirection"
 
 # 77%
 # 100%
 # 75%
 msgid "set %m.motor power to %n"
 msgstr "fixa potència del motor a %n"
-
-# 77%
-# 100%
-msgid "set motor power %n"
-msgstr "potència del motor a %n"
 
 msgid "set pen color to %c"
 msgstr "fixa el color del llapis a %c"
@@ -437,15 +429,6 @@ msgstr "activa el motor %m.motor"
 msgid "turn %m.motor on for %n secs"
 msgstr "activa el motor %m.motor durant %n segons"
 
-msgid "turn motor off"
-msgstr "desactiva el motor"
-
-msgid "turn motor on"
-msgstr "activa el motor"
-
-msgid "turn motor on for %n secs"
-msgstr "activa el motor %n segons"
-
 msgid "turn video %m.videoState"
 msgstr "posa vídeo %m.videoState"
 
@@ -471,6 +454,9 @@ msgstr "quan %m.booleanSensor actiu"
 msgid "when %m.key key pressed"
 msgstr "quan la tecla %m.key es premi"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "quan %m.triggerSensor > %n"
 
@@ -484,9 +470,6 @@ msgstr "quan l'escenari canviï al fons %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr "quan la distància sigui %m.lessMore %n"
 
-msgid "when distance < %n"
-msgstr "quan distància < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "quan rebi %m.broadcast"
 
@@ -499,14 +482,42 @@ msgstr "quan es cliqui aquest personatge"
 msgid "when tilt %m.eNe %n"
 msgstr "quan la inclinació sigui %m.eNe %n"
 
-msgid "when tilt = %n"
-msgstr "quan inclinació = %n"
-
 msgid "x position"
 msgstr "posició x"
 
 msgid "y position"
 msgstr "posició y"
+
+# 89%
+# 100%
+msgid "set motor direction %m.motorDirection"
+msgstr "direcció del motor %m.motorDirection"
+
+# 77%
+# 100%
+msgid "set motor power %n"
+msgstr "potència del motor a %n"
+
+msgid "turn motor off"
+msgstr "desactiva el motor"
+
+msgid "turn motor on"
+msgstr "activa el motor"
+
+msgid "turn motor on for %n secs"
+msgstr "activa el motor %n segons"
+
+msgid "when distance < %n"
+msgstr "quan distància < %n"
+
+msgid "when tilt = %n"
+msgstr "quan inclinació = %n"
+
+# 89%
+# 100%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "fixa la direcció del motor %m.motor a %m.motorDirection"
 
 #~ msgid "user name"
 #~ msgstr "nom d'usuari"

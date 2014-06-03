@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-04-20 19:03+0200\n"
+"PO-Revision-Date: 2014-05-28 11:54+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -32,6 +32,9 @@ msgstr "説明"
 
 msgid "About LEGO WeDo extension..."
 msgstr "レゴWeDo拡張について..."
+
+msgid "About PicoBoard extension..."
+msgstr "PicoBoard機能拡張について..."
 
 msgid "abs"
 msgstr "絶対値"
@@ -411,6 +414,9 @@ msgstr "消しゴムの幅"
 msgid "Error!"
 msgstr "エラー !"
 
+msgid "everything"
+msgstr "すべて"
+
 msgid "export"
 msgstr "書き出し"
 
@@ -548,6 +554,10 @@ msgid "Library"
 msgstr "ライブラリ"
 
 msgid "light"
+msgstr "明るさ"
+
+# 83%
+msgid "lights"
 msgstr "明るさ"
 
 msgid "limit reached"

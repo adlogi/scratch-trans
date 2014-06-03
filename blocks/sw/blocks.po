@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
+"PO-Revision-Date: 2014-05-27 21:25+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sw\n"
@@ -306,21 +306,13 @@ msgstr "weka %m.var kwenda %n"
 msgid "set instrument to %d.instrument"
 msgstr "weka chombo kwenda %d.instrument"
 
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr ""
-
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr ""
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "mota nguvu %n"
-
-# 77%
-#, fuzzy
-msgid "set motor power %n"
 msgstr "mota nguvu %n"
 
 msgid "set pen color to %c"
@@ -430,17 +422,6 @@ msgstr ""
 msgid "turn %m.motor on for %n secs"
 msgstr "mota washa kwa %n seku"
 
-msgid "turn motor off"
-msgstr ""
-
-msgid "turn motor on"
-msgstr ""
-
-# 80%
-#, fuzzy
-msgid "turn motor on for %n secs"
-msgstr "mota washa kwa %n seku"
-
 msgid "turn video %m.videoState"
 msgstr ""
 
@@ -467,6 +448,9 @@ msgstr "kihisio %m.booleanSensor?"
 msgid "when %m.key key pressed"
 msgstr "wakati %m.key kitufe kikibonyenzwa"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr ""
 
@@ -478,9 +462,6 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr ""
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
-
-msgid "when distance < %n"
 msgstr ""
 
 msgid "when I receive %m.broadcast"
@@ -495,14 +476,36 @@ msgstr ""
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr ""
-
 msgid "x position"
 msgstr "x nafasi"
 
 msgid "y position"
 msgstr "y nafasi"
+
+msgid "set motor direction %m.motorDirection"
+msgstr ""
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "mota nguvu %n"
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "mota washa kwa %n seku"
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
 
 #~ msgid "forever if %b"
 #~ msgstr "milele kama %b"

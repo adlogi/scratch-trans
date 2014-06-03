@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-04-22 00:52+0200\n"
 "Last-Translator: aitolajau <aitorolano@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,20 +305,14 @@ msgstr "musika tresna = %d.instrument"
 
 # 89%
 # 86%
-msgid "set %m.motor direction to %m.motorDirection"
+# 97%
+#, fuzzy
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "motorearen norabidea = %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "motore norabidea = %m.motorDirection"
 
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
-msgstr "motorearen ahalmena = %n"
-
-# 77%
-msgid "set motor power %n"
 msgstr "motorearen ahalmena = %n"
 
 msgid "set pen color to %c"
@@ -429,16 +423,6 @@ msgstr "%m.motor piztu"
 msgid "turn %m.motor on for %n secs"
 msgstr "%m.motor piztu %n segunduz"
 
-msgid "turn motor off"
-msgstr "motorea itzali"
-
-msgid "turn motor on"
-msgstr "motorea piztu"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "motorea piztu %n segunduz"
-
 msgid "turn video %m.videoState"
 msgstr "bideoa %m.videoState bihurtu"
 
@@ -464,6 +448,9 @@ msgstr "%m.booleanSensor denean "
 msgid "when %m.key key pressed"
 msgstr "%m.key tekla sakatzean"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "%m.triggerSensor > %n denean"
 
@@ -477,9 +464,6 @@ msgstr "hondoa %m.backdrop (e)ra aldatzen denean"
 msgid "when distance %m.lessMore %n"
 msgstr "distantzia  %m.lessMore %n denean"
 
-msgid "when distance < %n"
-msgstr "distantzia < %n denean"
-
 msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast jasotzean"
 
@@ -492,14 +476,40 @@ msgstr "Sprite hau sakatzean"
 msgid "when tilt %m.eNe %n"
 msgstr "malda %m.eNe %n denean"
 
-msgid "when tilt = %n"
-msgstr "malda = %n denean"
-
 msgid "x position"
 msgstr "x posizioa"
 
 msgid "y position"
 msgstr "y posizioa"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "motore norabidea = %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "motorearen ahalmena = %n"
+
+msgid "turn motor off"
+msgstr "motorea itzali"
+
+msgid "turn motor on"
+msgstr "motorea piztu"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "motorea piztu %n segunduz"
+
+msgid "when distance < %n"
+msgstr "distantzia < %n denean"
+
+msgid "when tilt = %n"
+msgstr "malda = %n denean"
+
+# 89%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "motorearen norabidea = %m.motorDirection"
 
 #~ msgid "forever if %b"
 #~ msgstr "beti baldin eta %b"

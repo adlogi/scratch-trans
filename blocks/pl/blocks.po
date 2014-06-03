@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-11-01 18:24+0200\n"
 "Last-Translator: Adam <awal@interia.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -308,22 +308,15 @@ msgstr "ustaw instrument na %d.instrument"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "ustaw kierunek silnika %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "ustaw kierunek silnika %m.motorDirection"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "ustaw moc silnika %n"
-
-# 77%
-msgid "set motor power %n"
 msgstr "ustaw moc silnika %n"
 
 msgid "set pen color to %c"
@@ -438,16 +431,6 @@ msgstr "włącz silnik"
 msgid "turn %m.motor on for %n secs"
 msgstr "włącz silnik na %n s"
 
-msgid "turn motor off"
-msgstr "wyłącz silnik"
-
-msgid "turn motor on"
-msgstr "włącz silnik"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "włącz silnik na %n s"
-
 msgid "turn video %m.videoState"
 msgstr "kamera %m.videoState"
 
@@ -473,6 +456,9 @@ msgstr "kiedy %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "kiedy klawisz %m.key naciśnięty"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "kiedy %m.triggerSensor > %n"
 
@@ -485,9 +471,6 @@ msgstr "kiedy tło zmieni się na %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
 msgstr ""
-
-msgid "when distance < %n"
-msgstr "kiedy odległość < %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "kiedy otrzymam %m.broadcast"
@@ -502,14 +485,41 @@ msgstr "kiedy duszek kliknięty"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "kiedy wychylenie = %n"
-
 msgid "x position"
 msgstr "współrzędna x"
 
 msgid "y position"
 msgstr "współrzędna y"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "ustaw kierunek silnika %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "ustaw moc silnika %n"
+
+msgid "turn motor off"
+msgstr "wyłącz silnik"
+
+msgid "turn motor on"
+msgstr "włącz silnik"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "włącz silnik na %n s"
+
+msgid "when distance < %n"
+msgstr "kiedy odległość < %n"
+
+msgid "when tilt = %n"
+msgstr "kiedy wychylenie = %n"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "ustaw kierunek silnika %m.motorDirection"
 
 #~ msgid "user id"
 #~ msgstr "id użytkownika"

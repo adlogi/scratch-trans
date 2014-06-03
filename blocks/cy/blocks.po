@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-06-07 22:13+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -307,13 +307,9 @@ msgstr "gosod offeryn i %d.instrument"
 # 89%
 # 100%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "cyfeiriad modur %m.modurCyfeiriad"
-
-# 89%
-# 100%
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "cyfeiriad modur %m.modurCyfeiriad"
 
 # 77%
@@ -321,11 +317,6 @@ msgstr "cyfeiriad modur %m.modurCyfeiriad"
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "gosod pŵer modur %n"
-
-# 77%
-# 100%
-msgid "set motor power %n"
 msgstr "gosod pŵer modur %n"
 
 msgid "set pen color to %c"
@@ -440,17 +431,6 @@ msgstr "troi modur arno"
 msgid "turn %m.motor on for %n secs"
 msgstr "modur arno am %n eiliad"
 
-msgid "turn motor off"
-msgstr "troi modur bant"
-
-msgid "turn motor on"
-msgstr "troi modur arno"
-
-# 80%
-# 100%
-msgid "turn motor on for %n secs"
-msgstr "modur arno am %n eiliad"
-
 msgid "turn video %m.videoState"
 msgstr "troi fideo %m.fideoState"
 
@@ -477,6 +457,9 @@ msgstr "synhwyrydd %m.booleanSynhwyrydd?"
 msgid "when %m.key key pressed"
 msgstr "pan fo bysell %m.key wedi ei wasgu"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "pan %m.sbardunoSynhwyrydd > %n"
 
@@ -490,9 +473,6 @@ msgstr "pan mae cefndir newid i %m.cefndir"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "pan mae pellter yn < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "pan derbynai %m.ddarlledir"
 
@@ -505,14 +485,45 @@ msgstr "pan caiff cymeriad ei clicio"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "pan mae troawd = %n"
-
 msgid "x position"
 msgstr "safle 'x'"
 
 msgid "y position"
 msgstr "safle 'y'"
+
+# 89%
+# 100%
+msgid "set motor direction %m.motorDirection"
+msgstr "cyfeiriad modur %m.modurCyfeiriad"
+
+# 77%
+# 100%
+msgid "set motor power %n"
+msgstr "gosod pŵer modur %n"
+
+msgid "turn motor off"
+msgstr "troi modur bant"
+
+msgid "turn motor on"
+msgstr "troi modur arno"
+
+# 80%
+# 100%
+msgid "turn motor on for %n secs"
+msgstr "modur arno am %n eiliad"
+
+msgid "when distance < %n"
+msgstr "pan mae pellter yn < %n"
+
+msgid "when tilt = %n"
+msgstr "pan mae troawd = %n"
+
+# 89%
+# 100%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "cyfeiriad modur %m.modurCyfeiriad"
 
 #~ msgid "forever if %b"
 #~ msgstr "am byth os %b"

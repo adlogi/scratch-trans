@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scratch 2.0 Block\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:21+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-05-09 07:16+0200\n"
 "Last-Translator: Kevin <kscanne@gmail.com>\n"
 "Language-Team: Irish\n"
@@ -309,19 +309,14 @@ msgid "set instrument to %d.instrument"
 msgstr "socraigh ionstraim: %d.instrument"
 
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "socraigh treo an mhótair: %m.motorDirection"
-
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "socraigh treo an mhótair: %m.motorDirection"
 
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "socraigh cumhacht an mhótair: %n"
-
-msgid "set motor power %n"
 msgstr "socraigh cumhacht an mhótair: %n"
 
 msgid "set pen color to %c"
@@ -434,15 +429,6 @@ msgstr "cuir an mótar ar siúl"
 msgid "turn %m.motor on for %n secs"
 msgstr "cuir an mótar ar siúl ar feadh %n soicind"
 
-msgid "turn motor off"
-msgstr "stop an mótar"
-
-msgid "turn motor on"
-msgstr "cuir an mótar ar siúl"
-
-msgid "turn motor on for %n secs"
-msgstr "cuir an mótar ar siúl ar feadh %n soicind"
-
 msgid "turn video %m.videoState"
 msgstr "cuir an físeán %m.videoState"
 
@@ -467,6 +453,9 @@ msgstr "nuair a %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "nuair a bhrúitear eochair %m.key"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "nuair a bhíonn %m.triggerSensor > %n"
 
@@ -480,9 +469,6 @@ msgstr "nuair a chuirtear %m.backdrop suas"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "nuair a bhíonn fad < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "nuair a fhaighim %m.broadcast"
 
@@ -495,11 +481,34 @@ msgstr "nuair a chliceáiltear an sprid seo"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "nuair atá claon = %n"
-
 msgid "x position"
 msgstr "ionad x"
 
 msgid "y position"
 msgstr "ionad y"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "socraigh treo an mhótair: %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "socraigh cumhacht an mhótair: %n"
+
+msgid "turn motor off"
+msgstr "stop an mótar"
+
+msgid "turn motor on"
+msgstr "cuir an mótar ar siúl"
+
+msgid "turn motor on for %n secs"
+msgstr "cuir an mótar ar siúl ar feadh %n soicind"
+
+msgid "when distance < %n"
+msgstr "nuair a bhíonn fad < %n"
+
+msgid "when tilt = %n"
+msgstr "nuair atá claon = %n"
+
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "socraigh treo an mhótair: %m.motorDirection"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-10-20 13:01+0200\n"
 "Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -306,22 +306,15 @@ msgstr "seteaza instrumentul la %d.instrument"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "seteaza directia motorului la %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "seteaza directia motorului la %m.motorDirection"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "seteaza puterea motorului la %n"
-
-# 77%
-msgid "set motor power %n"
 msgstr "seteaza puterea motorului la %n"
 
 msgid "set pen color to %c"
@@ -435,16 +428,6 @@ msgstr "porneste motorul"
 msgid "turn %m.motor on for %n secs"
 msgstr "porneste motorul pentru %n sec"
 
-msgid "turn motor off"
-msgstr "opreste motorul"
-
-msgid "turn motor on"
-msgstr "porneste motorul"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "porneste motorul pentru %n sec"
-
 msgid "turn video %m.videoState"
 msgstr "comuta video la %m.videoState"
 
@@ -470,6 +453,9 @@ msgstr "cand %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "cand tasta %m.key este apasata"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "cand %m.triggerSensor > %n"
 
@@ -483,9 +469,6 @@ msgstr "cand se schimba fundalul la %m.fundal"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "cand distanta < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "cand primesc %m.broadcast"
 
@@ -498,14 +481,41 @@ msgstr "cand se da clic pe acest sprite"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "cand inclinarea = %n"
-
 msgid "x position"
 msgstr "pozitia x"
 
 msgid "y position"
 msgstr "pozitia y"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "seteaza directia motorului la %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "seteaza puterea motorului la %n"
+
+msgid "turn motor off"
+msgstr "opreste motorul"
+
+msgid "turn motor on"
+msgstr "porneste motorul"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "porneste motorul pentru %n sec"
+
+msgid "when distance < %n"
+msgstr "cand distanta < %n"
+
+msgid "when tilt = %n"
+msgstr "cand inclinarea = %n"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "seteaza directia motorului la %m.motorDirection"
 
 #~ msgid "user id"
 #~ msgstr "id utilizator"

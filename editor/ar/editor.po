@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-04-18 01:36+0200\n"
+"PO-Revision-Date: 2014-05-27 21:28+0200\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -33,7 +33,10 @@ msgid "About"
 msgstr "عن سكراتش"
 
 msgid "About LEGO WeDo extension..."
-msgstr "عن إضافة ليغو ويدو..."
+msgstr "عن إضافة LEGO WeDo..."
+
+msgid "About PicoBoard extension..."
+msgstr "عن إضافة PicoBoard..."
 
 msgid "abs"
 msgstr "القيمة المطلقة"
@@ -429,6 +432,9 @@ msgstr "عرض الممحاة"
 msgid "Error!"
 msgstr "خطأ!"
 
+msgid "everything"
+msgstr "كل شيء"
+
 msgid "export"
 msgstr "تصدير"
 
@@ -557,7 +563,7 @@ msgid "left-right"
 msgstr "يمين - يسار"
 
 msgid "LEGO WeDo"
-msgstr "ليغو ويدو"
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "الطول"
@@ -566,6 +572,10 @@ msgid "Library"
 msgstr "المكتبة"
 
 msgid "light"
+msgstr "الضوء"
+
+# 83%
+msgid "lights"
 msgstr "الضوء"
 
 msgid "limit reached"

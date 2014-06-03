@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
-"PO-Revision-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
+"PO-Revision-Date: 2014-05-27 21:24+0200\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mn\n"
@@ -308,24 +308,15 @@ msgstr "%d.instrument хөгжим сонго"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "%m.motorDirection хөдөлгүүрийн чиг"
-
-# 89%
-#, fuzzy
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "%m.motorDirection хөдөлгүүрийн чиг"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "хөдөлгүүр %n чадалтай"
-
-# 77%
-#, fuzzy
-msgid "set motor power %n"
 msgstr "хөдөлгүүр %n чадалтай"
 
 msgid "set pen color to %c"
@@ -435,17 +426,6 @@ msgstr ""
 msgid "turn %m.motor on for %n secs"
 msgstr "%n секунд хөдөлгүүр асаах"
 
-msgid "turn motor off"
-msgstr ""
-
-msgid "turn motor on"
-msgstr ""
-
-# 80%
-#, fuzzy
-msgid "turn motor on for %n secs"
-msgstr "%n секунд хөдөлгүүр асаах"
-
 msgid "turn video %m.videoState"
 msgstr ""
 
@@ -472,6 +452,9 @@ msgstr "%m.booleanSensor мэдэр?"
 msgid "when %m.key key pressed"
 msgstr "хэзээ %m.key дарагдсан"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr ""
 
@@ -483,9 +466,6 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr ""
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
-
-msgid "when distance < %n"
 msgstr ""
 
 msgid "when I receive %m.broadcast"
@@ -500,14 +480,44 @@ msgstr ""
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr ""
-
 msgid "x position"
 msgstr "x - утга"
 
 msgid "y position"
 msgstr "y - утга"
+
+# 89%
+#, fuzzy
+msgid "set motor direction %m.motorDirection"
+msgstr "%m.motorDirection хөдөлгүүрийн чиг"
+
+# 77%
+#, fuzzy
+msgid "set motor power %n"
+msgstr "хөдөлгүүр %n чадалтай"
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+# 80%
+#, fuzzy
+msgid "turn motor on for %n secs"
+msgstr "%n секунд хөдөлгүүр асаах"
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "%m.motorDirection хөдөлгүүрийн чиг"
 
 #~ msgid "forever if %b"
 #~ msgstr "%b нь үнэн бол үргэлж"

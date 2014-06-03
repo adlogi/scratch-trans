@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2013-05-03 09:01+0200\n"
 "Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,22 +305,15 @@ msgstr "sätt instrument till %d.instrument"
 
 # 89%
 # 86%
+# 97%
 #, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "sätt motorriktning %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
+msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "sätt motorriktning %m.motorDirection"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "sätt motorkraft %n"
-
-# 77%
-msgid "set motor power %n"
 msgstr "sätt motorkraft %n"
 
 msgid "set pen color to %c"
@@ -434,16 +427,6 @@ msgstr "starta motorn"
 msgid "turn %m.motor on for %n secs"
 msgstr "motorn på i %n sekunder"
 
-msgid "turn motor off"
-msgstr "stoppa motorn"
-
-msgid "turn motor on"
-msgstr "starta motorn"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "motorn på i %n sekunder"
-
 msgid "turn video %m.videoState"
 msgstr "vänd video %m.videoState"
 
@@ -469,6 +452,9 @@ msgstr "när %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "när %m.key trycks ned"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
 msgid "when %m.triggerSensor > %n"
 msgstr "när %m.triggerSensor > %n"
 
@@ -482,9 +468,6 @@ msgstr "när bakgrunden växlar till %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "när avståndet är < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "när jag tar emot %m.broadcast"
 
@@ -497,14 +480,41 @@ msgstr "när denna sprite klickas på"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-msgid "when tilt = %n"
-msgstr "om luta = %n"
-
 msgid "x position"
 msgstr "x-läge"
 
 msgid "y position"
 msgstr "y-läge"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "sätt motorriktning %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "sätt motorkraft %n"
+
+msgid "turn motor off"
+msgstr "stoppa motorn"
+
+msgid "turn motor on"
+msgstr "starta motorn"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "motorn på i %n sekunder"
+
+msgid "when distance < %n"
+msgstr "när avståndet är < %n"
+
+msgid "when tilt = %n"
+msgstr "om luta = %n"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "sätt motorriktning %m.motorDirection"
 
 #~ msgid "user id"
 #~ msgstr "användarnamn"

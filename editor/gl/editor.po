@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-05-03 10:43+0200\n"
+"PO-Revision-Date: 2014-05-29 16:40+0200\n"
 "Last-Translator: Manuel <mcaeiror@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gl\n"
@@ -34,6 +34,9 @@ msgstr "Acerca de"
 
 msgid "About LEGO WeDo extension..."
 msgstr "Acerca da extensión LEGO WeDo"
+
+msgid "About PicoBoard extension..."
+msgstr ""
 
 msgid "abs"
 msgstr "valor absoluto"
@@ -410,6 +413,9 @@ msgstr "Groso do borrador"
 msgid "Error!"
 msgstr "Erro!"
 
+msgid "everything"
+msgstr ""
+
 msgid "export"
 msgstr "exportar"
 
@@ -547,6 +553,12 @@ msgstr "Biblioteca"
 
 # 80%
 msgid "light"
+msgstr "luz"
+
+# 80%
+# 83%
+#, fuzzy
+msgid "lights"
 msgstr "luz"
 
 msgid "limit reached"
@@ -1032,7 +1044,7 @@ msgid "Sprite1"
 msgstr "Obxecto1"
 
 msgid "Sprites"
-msgstr "Obxectis"
+msgstr "Obxectos"
 
 msgid "sqrt"
 msgstr "raíz cadrada"
