@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-04-26 16:54+0200\n"
+"PO-Revision-Date: 2014-06-03 21:23+0200\n"
 "Last-Translator: Juha <juha.harviainen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
@@ -306,9 +306,8 @@ msgstr "aseta soittimeksi %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "aseta moottorin suunnaksi %m.motorDirection"
+msgstr "aseta %m.motor2 suunnaksi %m.motorDirection"
 
 # 77%
 # 75%
@@ -451,7 +450,7 @@ msgid "when %m.key key pressed"
 msgstr "kun painetaan %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "kun %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "kun %m.triggerSensor > %n"
