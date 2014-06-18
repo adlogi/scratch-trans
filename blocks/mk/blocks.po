@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-05-18 15:34+0200\n"
+"PO-Revision-Date: 2014-06-11 19:04+0200\n"
 "Last-Translator: Linda <lfahlberg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mk\n"
@@ -306,9 +306,8 @@ msgstr "намести го инструментот %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "намести насока на моторот на %m.motorDirection"
+msgstr "намести %m.motor2 насока на моторот на %m.motorDirection"
 
 # 77%
 # 75%
@@ -449,7 +448,7 @@ msgid "when %m.key key pressed"
 msgstr "кога копчето %m.key е притиснато"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "кога %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "кога %m.triggerSensor > %n"

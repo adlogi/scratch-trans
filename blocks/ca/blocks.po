@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-04-21 21:10+0200\n"
+"PO-Revision-Date: 2014-06-11 19:24+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -296,7 +296,7 @@ msgid "Sensing"
 msgstr "Sensors"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "sensor %m.booleanSensor ?"
+msgstr "sensor %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
 msgstr "fixa l'efecte %m.effect a %n"
@@ -311,9 +311,8 @@ msgstr "fixa l'instrument a %d.instrument"
 # 100%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "fixa la direcció del motor %m.motor a %m.motorDirection"
+msgstr "fixa la direcció del motor2 %m.motor a %m.motorDirection"
 
 # 77%
 # 100%
@@ -455,7 +454,7 @@ msgid "when %m.key key pressed"
 msgstr "quan la tecla %m.key es premi"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "quan %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "quan %m.triggerSensor > %n"

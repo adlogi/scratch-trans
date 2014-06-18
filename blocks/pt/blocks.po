@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-05-04 17:23+0200\n"
+"PO-Revision-Date: 2014-06-12 22:43+0200\n"
 "Last-Translator: Manuel <mmsequeira@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt\n"
@@ -306,9 +306,8 @@ msgstr "altera o teu instrumento para %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "altera a direcção de %m.motor para %m.motorDirection"
+msgstr "altera a direcção de %m.motor2 para %m.motorDirection"
 
 # 77%
 # 75%
@@ -450,7 +449,7 @@ msgid "when %m.key key pressed"
 msgstr "Quando alguém pressionar a tecla %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "Quando o valor do sensor %m.sensor for %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "Quando o valor do sensor %m.triggerSensor exceder %n"

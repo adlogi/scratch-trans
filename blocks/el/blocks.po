@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-07-05 01:27+0200\n"
+"PO-Revision-Date: 2014-06-18 07:49+0200\n"
 "Last-Translator: Stavros Rafael <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
@@ -306,13 +306,12 @@ msgstr "όρισε το μουσικό όργανο σε %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
+msgstr ""
+"όρισε την κατεύθυνση κίνησης του κινητήρα %m.motor2 σε %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
 msgstr "όρισε την ισχύ κινητήρα σε %n"
 
@@ -412,19 +411,16 @@ msgid "turn @turnRight %n degrees"
 msgstr "στρίψε @turnRight %n μοίρες"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "απενεργοποίησε τον κινητήρα"
+msgstr "απενεργοποίησε τον κινητήρα %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "ενεργοποίησε τον κινητήρα"
+msgstr "ενεργοποίησε τον κινητήρα %m.motor"
 
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα"
+msgstr "ενεργοποίησε τον κινητήρα %m.motor για %n δευτερόλεπτα"
 
 msgid "turn video %m.videoState"
 msgstr "%m.videoState την προβολή κάμερας"

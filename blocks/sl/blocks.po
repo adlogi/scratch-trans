@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-04-28 17:15+0200\n"
+"PO-Revision-Date: 2014-06-17 08:26+0200\n"
 "Last-Translator: Matija <matija.lokar@fmf.uni-lj.si>\n"
 "Language-Team: FMF <Matija.Lokar@fmf.uni-lj.si>\n"
 "Language: sl\n"
@@ -84,7 +84,7 @@ msgid "change tempo by %n"
 msgstr "spremeni tempo za %n"
 
 msgid "change volume by %n"
-msgstr "spremeni glasnost za %n"
+msgstr "spremeni jakost za %n"
 
 msgid "change x by %n"
 msgstr "spremeni x za %n"
@@ -304,14 +304,12 @@ msgid "set instrument to %d.instrument"
 msgstr "izberi glasbilo %d.instrument"
 
 # 84%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "nastavi smer motorja %m.motorDirection"
+msgstr "naj ima %m.motor2 smer %m.motorDirection"
 
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "nastavi moč motorja %n"
+msgstr "nastavi moč motorja %m.motor na %n"
 
 msgid "set pen color to %c"
 msgstr "nastavi barvo svinčnika na %c"
@@ -338,7 +336,7 @@ msgid "set video transparency to %n%"
 msgstr "nastavi prosojnost videa na %n%"
 
 msgid "set volume to %n%"
-msgstr "nastavi glasnost na %n%"
+msgstr "nastavi jakost na %n%"
 
 msgid "set x to %n"
 msgstr "nastavi x na %n"
@@ -409,19 +407,16 @@ msgid "turn @turnRight %n degrees"
 msgstr "obrni se za @turnRight %n stopinj"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "ugasni motor"
+msgstr "ugasni motor %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "prižgi motor"
+msgstr "prižgi motor %m.motor"
 
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "vključi motor za %n sekund"
+msgstr "vključi motor %m.motor za %n sekund"
 
 msgid "turn video %m.videoState"
 msgstr "%m.videoState video"
@@ -433,7 +428,7 @@ msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "video %m.videoMotionType na %m.stageOrThis"
 
 msgid "volume"
-msgstr "glasnost"
+msgstr "jakost"
 
 msgid "wait %n secs"
 msgstr "počakaj %n sekund"
@@ -448,7 +443,7 @@ msgid "when %m.key key pressed"
 msgstr "ko je pritisnjena tipka %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "ko %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "ko je %m.triggerSensor > %n"
@@ -461,7 +456,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "ko se ozadje zamenja na %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "ko je razdalja %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "ko prejmem %m.broadcast"
@@ -473,7 +468,7 @@ msgid "when this sprite clicked"
 msgstr "ko je ta figura kliknjena"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "ko je nagib %m.eNe %n"
 
 msgid "x position"
 msgstr "položaj x"

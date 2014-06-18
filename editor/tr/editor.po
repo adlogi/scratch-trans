@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2013-08-07 10:45+0200\n"
+"PO-Revision-Date: 2014-06-12 19:24+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -30,13 +30,13 @@ msgid "a copy of the project file on your computer."
 msgstr "bilgisayarındaki proje dosyasının bir kopyası."
 
 msgid "About"
-msgstr ""
+msgstr "Hakkında"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "LEGO WeDo eklentisi hakkında..."
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "PicoBoard eklentisi hakkında..."
 
 msgid "abs"
 msgstr "mutlak değer"
@@ -48,7 +48,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Bir Eklenti ekle"
 
 # 90%
 msgid "Add boolean input:"
@@ -78,7 +78,7 @@ msgid "all around"
 msgstr "her yöne dönebilsin"
 
 msgid "all motors"
-msgstr ""
+msgstr "tüm motorlar"
 
 msgid "Animal"
 msgstr "Hayvan"
@@ -427,16 +427,16 @@ msgid "Error!"
 msgstr "Hata!"
 
 msgid "everything"
-msgstr ""
+msgstr "herşey"
 
 msgid "export"
 msgstr "dönüştür kaydet"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "Eklenti Kütüphanesi"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "Eklenti Problemi"
 
 msgid "fade in"
 msgstr "giderek yükselt"
@@ -508,7 +508,7 @@ msgid "Hand Clap"
 msgstr "El Çırpma"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Donanım"
 
 msgid "hide"
 msgstr "gizle"
@@ -557,7 +557,7 @@ msgid "left-right"
 msgstr "sağa-sola dönebilsin"
 
 msgid "LEGO WeDo"
-msgstr ""
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "uzunluk"
@@ -569,9 +569,8 @@ msgid "light"
 msgstr "ışık"
 
 # 83%
-#, fuzzy
 msgid "lights"
-msgstr "ışık"
+msgstr "ışıklar"
 
 msgid "limit reached"
 msgstr "limite ulaşıldı"
@@ -654,13 +653,13 @@ msgid "motion"
 msgstr "hareket"
 
 msgid "motor"
-msgstr ""
+msgstr "motor"
 
 msgid "motor A"
-msgstr ""
+msgstr "motor A"
 
 msgid "motor B"
-msgstr ""
+msgstr "motor B"
 
 msgid "mouse-pointer"
 msgstr "fare oku"
@@ -732,7 +731,7 @@ msgid "normal readout"
 msgstr "normal görünüm"
 
 msgid "not ="
-msgstr ""
+msgstr "= değil"
 
 msgid "Not saved; network or server problem."
 msgstr "Kaydedilmedi; ağ veya sunucuda sorun var."
@@ -857,7 +856,7 @@ msgid "Remixing..."
 msgstr "Ekliyorum..."
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "Eklenti taşlarını kaldır"
 
 msgid "Rename"
 msgstr "Yeniden adlandır"
@@ -947,6 +946,8 @@ msgstr "Proje sayfasına bak"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
 msgstr ""
+"Eklentiyi yüklemek ve çalıştırmak için (sağ taraftaki) ipuçları penceresine "
+"gözat."
 
 msgid "Select"
 msgstr "Seç"

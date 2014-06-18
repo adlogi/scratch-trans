@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-05-03 23:10+0200\n"
+"PO-Revision-Date: 2014-06-17 08:25+0200\n"
 "Last-Translator: Matija <matija.lokar@fmf.uni-lj.si>\n"
 "Language-Team: FMF <Matija.Lokar@fmf.uni-lj.si>\n"
 "Language: sl\n"
@@ -31,13 +31,13 @@ msgid "a copy of the project file on your computer."
 msgstr "kopija projektne datoteke na tvojem računalniku."
 
 msgid "About"
-msgstr ""
+msgstr "O Scratchu"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "O razširitvi LEGO WeDo..."
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "O razširitvi PicoBoard..."
 
 msgid "abs"
 msgstr "absolutna vrednost"
@@ -49,7 +49,7 @@ msgid "acos"
 msgstr "arccos"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Dodaj razširitev"
 
 msgid "Add boolean input:"
 msgstr "Dodaj logični vnos:"
@@ -76,7 +76,7 @@ msgid "all around"
 msgstr "na vse strani"
 
 msgid "all motors"
-msgstr ""
+msgstr "vsi motorji"
 
 msgid "Animal"
 msgstr "Žival"
@@ -415,16 +415,16 @@ msgid "Error!"
 msgstr "Napaka!"
 
 msgid "everything"
-msgstr ""
+msgstr "vse"
 
 msgid "export"
 msgstr "izvozi"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "Knjižnjica razširitev"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "Problem z razširitvijo"
 
 msgid "fade in"
 msgstr "uglasi (fade in)"
@@ -496,7 +496,7 @@ msgid "Hand Clap"
 msgstr "Plosk"
 
 msgid "Hardware"
-msgstr ""
+msgstr "strojna oprema"
 
 msgid "hide"
 msgstr "skrij"
@@ -544,7 +544,7 @@ msgid "left-right"
 msgstr "levo-desno"
 
 msgid "LEGO WeDo"
-msgstr ""
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "dolžina"
@@ -556,7 +556,6 @@ msgid "light"
 msgstr "nepoudarjeno"
 
 # 83%
-#, fuzzy
 msgid "lights"
 msgstr "nepoudarjeno"
 
@@ -639,13 +638,13 @@ msgid "motion"
 msgstr "gibanje"
 
 msgid "motor"
-msgstr ""
+msgstr "motor"
 
 msgid "motor A"
-msgstr ""
+msgstr "motor A"
 
 msgid "motor B"
-msgstr ""
+msgstr "motor B"
 
 msgid "mouse-pointer"
 msgstr "kazalec miške"
@@ -714,7 +713,7 @@ msgid "normal readout"
 msgstr "navaden prikaz"
 
 msgid "not ="
-msgstr ""
+msgstr "ne ="
 
 msgid "Not saved; network or server problem."
 msgstr "Ni bilo shranjeno; napaka v omrežju ali na strežniku."
@@ -837,7 +836,7 @@ msgid "Remixing..."
 msgstr "Predelovanje..."
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "Odstrani bloke razširitve"
 
 msgid "Rename"
 msgstr "Preimenuj"
@@ -925,6 +924,8 @@ msgstr "Glej stran projekta"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
 msgstr ""
+"Poglej okno z namigi (na desni) in namesti vtičnik, da bo razširitev "
+"delovala."
 
 msgid "Select"
 msgstr "Izberi"
@@ -999,7 +1000,7 @@ msgid "Slider Range"
 msgstr "Obseg drsnika"
 
 msgid "Small stage layout"
-msgstr "RAzpored malega odra"
+msgstr "Razpored malega odra"
 
 msgid "Smooth"
 msgstr "Gladko"

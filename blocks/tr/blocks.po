@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-10-13 14:12+0200\n"
+"PO-Revision-Date: 2014-06-12 19:18+0200\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -306,15 +306,13 @@ msgstr "çalgıyı %d.instrument yap"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "motor yönünü %m.motorDirection yap"
+msgstr "%m.motor2 yönünü %m.motorDirection yap"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "motor gücünü %n yap"
+msgstr "%m.motor gücünü %n yap"
 
 msgid "set pen color to %c"
 msgstr "kalem rengini %c yap"
@@ -412,20 +410,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "@turnRight %n derece dön"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "motoru kapat"
+msgstr "%m.motor unu kapat"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "motoru çalıştır"
+msgstr "%m.motor unu çalıştır"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "%n saniye motoru çalıştır"
+msgstr "%n saniyeliğine %m.motor unu çalıştır"
 
 msgid "turn video %m.videoState"
 msgstr "videoyu %m.videoState"
@@ -454,7 +449,7 @@ msgid "when %m.key key pressed"
 msgstr "%m.key tuşu basılınca"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "%m.sensor %m.lessMore %n olduğunda"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "%m.triggerSensor > %n olunca"
@@ -467,7 +462,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "dekor %m.backdrop olunca"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "mesafe %m.llessMore %n olduğunda"
 
 msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast haberi gelince"
@@ -479,7 +474,7 @@ msgid "when this sprite clicked"
 msgstr "bu kukla tıklanınca"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "eğiklik %m.eNe %n olduğunda"
 
 msgid "x position"
 msgstr "x konumu"
