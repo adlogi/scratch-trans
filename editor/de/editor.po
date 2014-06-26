@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-04-21 22:19+0200\n"
+"PO-Revision-Date: 2014-06-26 11:26+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -36,7 +36,7 @@ msgid "About LEGO WeDo extension..."
 msgstr "Über die LEGO-WeDo-Erweiterung..."
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "Über die PicoBoard-Erweiterung..."
 
 msgid "abs"
 msgstr "Betrag"
@@ -436,7 +436,7 @@ msgid "Error!"
 msgstr "Fehler!"
 
 msgid "everything"
-msgstr ""
+msgstr "alles"
 
 msgid "export"
 msgstr "Exportieren"
@@ -579,15 +579,13 @@ msgstr "Länge"
 msgid "Library"
 msgstr "Bibliothek"
 
-# Sensor
+# Sensor? LegoWeDo: ein- und ausschalten
 msgid "light"
-msgstr "Helligkeit"
+msgstr "Licht"
 
-# Sensor
-# 83%
-#, fuzzy
+# Sensor? LegoWeDo
 msgid "lights"
-msgstr "Helligkeit"
+msgstr "Leuchten"
 
 msgid "limit reached"
 msgstr "Grenze erreicht"
