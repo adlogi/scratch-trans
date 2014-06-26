@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-04-21 22:09+0200\n"
+"PO-Revision-Date: 2014-06-26 11:18+0200\n"
 "Last-Translator: Markus <m.slg@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -312,9 +312,8 @@ msgid "set instrument to %d.instrument"
 msgstr "setze Instrument auf %d.instrument"
 
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "setze Drehung von %m.motor auf %m.motorDirection"
+msgstr "setze Drehung von %m.motor2 auf %m.motorDirection"
 
 msgid "set %m.motor power to %n"
 msgstr "setze Leistung von %m.motor auf %n"
@@ -451,7 +450,7 @@ msgid "when %m.key key pressed"
 msgstr "Wenn Taste %m.key gedrückt"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "Wenn %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "Wenn %m.triggerSensor > %n"
