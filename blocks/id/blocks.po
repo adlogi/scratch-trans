@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-05-23 10:59+0200\n"
+"PO-Revision-Date: 2014-06-25 14:14+0200\n"
 "Last-Translator: Emmanuella Pramudita <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -311,7 +311,6 @@ msgstr "set alat musik ke %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "atur arah motor %m.motorDirection"
 
@@ -456,7 +455,7 @@ msgid "when %m.key key pressed"
 msgstr "ketika tombol %m.key ditekan"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "ketika %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "ketika %m.triggerSensor > %n"

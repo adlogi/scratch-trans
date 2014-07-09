@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-01-24 12:31+0200\n"
+"PO-Revision-Date: 2014-06-30 17:12+0200\n"
 "Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
@@ -29,13 +29,13 @@ msgid "a copy of the project file on your computer."
 msgstr "en kopia av projektfilen på din dator."
 
 msgid "About"
-msgstr ""
+msgstr "Om"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "Om LEGO WeDo anslutning..."
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "Om Picoboard anslutning..."
 
 msgid "abs"
 msgstr "abs"
@@ -47,7 +47,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Lägg till en anslutning"
 
 # 90%
 msgid "Add boolean input:"
@@ -77,7 +77,7 @@ msgid "all around"
 msgstr "rotera"
 
 msgid "all motors"
-msgstr ""
+msgstr "alla motorer"
 
 msgid "Animal"
 msgstr "Djur"
@@ -429,16 +429,16 @@ msgid "Error!"
 msgstr "Fel!"
 
 msgid "everything"
-msgstr ""
+msgstr "allting"
 
 msgid "export"
 msgstr "exportera"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "Tilläggsbibliotek"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "Problem med tillägg"
 
 msgid "fade in"
 msgstr "tona in"
@@ -510,7 +510,7 @@ msgid "Hand Clap"
 msgstr "Handklapp"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Hårdvara"
 
 msgid "hide"
 msgstr "göm"
@@ -559,7 +559,7 @@ msgid "left-right"
 msgstr "vänster-höger"
 
 msgid "LEGO WeDo"
-msgstr ""
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "längd"
@@ -571,7 +571,6 @@ msgid "light"
 msgstr "ljus"
 
 # 83%
-#, fuzzy
 msgid "lights"
 msgstr "ljus"
 
@@ -656,13 +655,13 @@ msgid "motion"
 msgstr "rörelse"
 
 msgid "motor"
-msgstr ""
+msgstr "motor"
 
 msgid "motor A"
-msgstr ""
+msgstr "motor A"
 
 msgid "motor B"
-msgstr ""
+msgstr "motor B"
 
 msgid "mouse-pointer"
 msgstr "muspekare"
@@ -734,7 +733,7 @@ msgid "normal readout"
 msgstr "normal avläsning"
 
 msgid "not ="
-msgstr ""
+msgstr "inte ="
 
 msgid "Not saved; network or server problem."
 msgstr "Sparades inte; nätverks- eller serverproblem."
@@ -860,7 +859,7 @@ msgid "Remixing..."
 msgstr "Remixar..."
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "Ta bort tilläggsblock"
 
 msgid "Rename"
 msgstr "Ändra namn"
@@ -950,6 +949,7 @@ msgstr "Se projektsida"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
 msgstr ""
+"Se tipsrutan (till höger) för att installera och få tillägget att fungera."
 
 msgid "Select"
 msgstr "Välj"
@@ -1110,7 +1110,7 @@ msgid "Text"
 msgstr "Text"
 
 msgid "that way"
-msgstr "det sättet"
+msgstr "andra hållet"
 
 msgid "Theme"
 msgstr "Tema"
@@ -1135,7 +1135,7 @@ msgid "this sprite"
 msgstr "denna sprite"
 
 msgid "this way"
-msgstr "detta sätt"
+msgstr "detta hållet"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Vill du kasta bort alla ändringar sen du öppnade projektet?"

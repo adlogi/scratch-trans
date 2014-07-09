@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-05-26 22:24+0200\n"
+"PO-Revision-Date: 2014-07-06 14:41+0200\n"
 "Last-Translator: Jean-Jacques <i.scool@mac.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -306,14 +306,13 @@ msgstr "choisir l'instrument n° %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "Choisir la direction du moteur %m.motorDirection"
+msgstr "Mettre %m.motor2 direction à %m.motorDirection"
 
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
-msgstr "mettre %m.motor power à %n"
+msgstr "mettre la puissance à %n pour %m.motor"
 
 msgid "set pen color to %c"
 msgstr "choisir la couleur %c pour le stylo"
@@ -412,16 +411,16 @@ msgstr "tourner @turnRight de %n degrés"
 
 # 82%
 msgid "turn %m.motor off"
-msgstr "arrêter le moteur"
+msgstr "arrêter le %m.motor"
 
 # 81%
 msgid "turn %m.motor on"
-msgstr "lancer le moteur"
+msgstr "lancer le %m.motor"
 
 # 80%
 # 89%
 msgid "turn %m.motor on for %n secs"
-msgstr "lancer le moteur pour %n secs"
+msgstr "lancer le %m.motor pour %n secs"
 
 msgid "turn video %m.videoState"
 msgstr "activer la vidéo %m.videoState"
@@ -449,7 +448,7 @@ msgid "when %m.key key pressed"
 msgstr "quand %m.key est pressé"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "Quand %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "quand %m.triggerSensor > %n"
@@ -462,7 +461,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "quand l'arrière-plan bascule sur %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr "quand la distance % m.lessMore% n"
+msgstr "quand la distance %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "quand je reçois %m.broadcast"

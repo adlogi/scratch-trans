@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-05-03 09:01+0200\n"
+"PO-Revision-Date: 2014-06-26 10:01+0200\n"
 "Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
@@ -306,15 +306,13 @@ msgstr "sätt instrument till %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "sätt motorriktning %m.motorDirection"
+msgstr "sätt %m.motor2 riktning till %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "sätt motorkraft %n"
+msgstr "sätt %m.motor kraft till %n"
 
 msgid "set pen color to %c"
 msgstr "sätt pennans färg till %c"
@@ -412,20 +410,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "vänd @turnRight %n grader"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "stoppa motorn"
+msgstr "stoppa %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "starta motorn"
+msgstr "starta %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "motorn på i %n sekunder"
+msgstr "sätt på %m.motor i %n sekunder"
 
 msgid "turn video %m.videoState"
 msgstr "vänd video %m.videoState"
@@ -453,7 +448,7 @@ msgid "when %m.key key pressed"
 msgstr "när %m.key trycks ned"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "när %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "när %m.triggerSensor > %n"
@@ -466,7 +461,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "när bakgrunden växlar till %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "när distans %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "när jag tar emot %m.broadcast"
@@ -478,7 +473,7 @@ msgid "when this sprite clicked"
 msgstr "när denna sprite klickas på"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "när luta %m.eNe %n"
 
 msgid "x position"
 msgstr "x-läge"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-11-08 00:23+0200\n"
-"Last-Translator: Gloria Elena <formacion@eduteka.org>\n"
+"PO-Revision-Date: 2014-07-01 20:12+0200\n"
+"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -306,15 +306,13 @@ msgstr "fijar instrumento a %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "fijar dirección del motor: %m.motorDirection"
+msgstr "fijar dirección del %m.motor2 a %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "fijar fuerza del motor a %n"
+msgstr "fijar fuerza del %m.motor a %n"
 
 msgid "set pen color to %c"
 msgstr "fijar color de lápiz a %c"
@@ -412,20 +410,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "girar @turnRight %n grados"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "apagar motor"
+msgstr "apagar %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "encender motor"
+msgstr "encender %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "encender motor por %n segundos"
+msgstr "encender %m.motor por %n segundos"
 
 msgid "turn video %m.videoState"
 msgstr "video %m.videoState"
@@ -489,7 +484,7 @@ msgstr "posición en y"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
-msgstr "fijar dirección del motor: %m.motorDirection"
+msgstr "fijar dirección del motor a %m.motorDirection"
 
 # 77%
 msgid "set motor power %n"
