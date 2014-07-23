@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-06 14:41+0200\n"
+"PO-Revision-Date: 2014-07-20 22:46+0200\n"
 "Last-Translator: Jean-Jacques <i.scool@mac.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -24,7 +24,7 @@ msgid "%b or %b"
 msgstr "%b ou %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribut de %m.spriteOrStage"
+msgstr "%m.attribute de %m.spriteOrStage"
 
 msgid "%m.list contains %s"
 msgstr "%m.list contient %s"
@@ -218,7 +218,7 @@ msgid "mouse y"
 msgstr "souris y"
 
 msgid "move %n steps"
-msgstr "avancer de %n pas"
+msgstr "avancer de %n pixels"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
@@ -259,10 +259,10 @@ msgid "play sound %m.sound until done"
 msgstr "jouer le son %m.sound jusqu'au bout"
 
 msgid "point in direction %d.direction"
-msgstr "se diriger en faisant un angle de %d.direction"
+msgstr "s'orienter suivant un angle de %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "se diriger vers %m.spriteOrMouse"
+msgstr "s'orienter vers %m.spriteOrMouse"
 
 msgid "repeat %n"
 msgstr "répéter %n fois"
@@ -469,6 +469,9 @@ msgstr "quand je reçois %m.broadcast"
 msgid "when I start as a clone"
 msgstr "quand je commence comme un clone"
 
+msgid "when Stage clicked"
+msgstr "quand la Scène est cliquée"
+
 msgid "when this sprite clicked"
 msgstr "quand ce lutin est cliqué"
 
@@ -476,10 +479,10 @@ msgid "when tilt %m.eNe %n"
 msgstr "quand l'inclinaison %m.eNe %n"
 
 msgid "x position"
-msgstr "position x"
+msgstr "abscisse x"
 
 msgid "y position"
-msgstr "position y"
+msgstr "ordonnée y"
 
 # 89%
 msgid "set motor direction %m.motorDirection"

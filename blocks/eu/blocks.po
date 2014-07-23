@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-06-13 12:05+0200\n"
+"PO-Revision-Date: 2014-07-14 14:12+0200\n"
 "Last-Translator: aitolajau <aitorolano@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eu\n"
@@ -448,7 +448,7 @@ msgid "when %m.key key pressed"
 msgstr "%m.key tekla sakatzean"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "%m.sensor %m.lessMore %n denean"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "%m.triggerSensor > %n denean"
@@ -468,6 +468,9 @@ msgstr "%m.broadcast jasotzean"
 
 msgid "when I start as a clone"
 msgstr "klon moduan hastean"
+
+msgid "when Stage clicked"
+msgstr "Eszenatokia sakatzean"
 
 msgid "when this sprite clicked"
 msgstr "Sprite hau sakatzean"

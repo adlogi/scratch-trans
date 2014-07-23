@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-18 00:22+0200\n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
 "PO-Revision-Date: 2014-05-31 14:26+0200\n"
 "Last-Translator: lewtds <ndtrung4419@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,22 +305,14 @@ msgstr "chọn nhạc cụ %d.instrument"
 
 # 89%
 # 86%
-#, fuzzy
-msgid "set %m.motor direction to %m.motorDirection"
-msgstr "chiều quay động cơ %m.motorDirection"
-
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "chỉnh chiều quay động cơ thành %m.motorDirection"
+# 97%
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "chỉnh chiều quay động cơ %m.motor2 thành %m.motorDirection"
 
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
 msgstr "chỉnh sức mạnh động cơ thành %n"
-
-# 77%
-msgid "set motor power %n"
-msgstr "chỉnh sức mạnh động cơ thứ %n"
 
 msgid "set pen color to %c"
 msgstr "dùng màu vẽ %c"
@@ -428,16 +420,6 @@ msgstr "bật động cơ %m.motor"
 msgid "turn %m.motor on for %n secs"
 msgstr "bật động cơ %m.motor trong %n giây"
 
-msgid "turn motor off"
-msgstr "tắt động cơ"
-
-msgid "turn motor on"
-msgstr "bật động cơ"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "bật động cơ trong %n giây"
-
 msgid "turn video %m.videoState"
 msgstr "chỉnh video thành %m.videoState"
 
@@ -463,6 +445,9 @@ msgstr "khi %m.booleanSensor"
 msgid "when %m.key key pressed"
 msgstr "khi nhấn phím %m.key"
 
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "khi %m.sensor %m.lessMore %n"
+
 msgid "when %m.triggerSensor > %n"
 msgstr "khi %m.triggerSensor > %n"
 
@@ -476,14 +461,14 @@ msgstr "khi hình nền đổi thành %m.backdrop"
 msgid "when distance %m.lessMore %n"
 msgstr "khi khoảng cách %m.lessMore %n"
 
-msgid "when distance < %n"
-msgstr "khi khoảng cách < %n"
-
 msgid "when I receive %m.broadcast"
 msgstr "khi tôi nhận được thông báo %m.broadcast"
 
 msgid "when I start as a clone"
 msgstr "khi tôi khởi đầu là một bản sao"
+
+msgid "when Stage clicked"
+msgstr ""
 
 msgid "when this sprite clicked"
 msgstr "khi hình họa này được nhấn vào"
@@ -491,14 +476,41 @@ msgstr "khi hình họa này được nhấn vào"
 msgid "when tilt %m.eNe %n"
 msgstr "khi nghiêng %m.eNe %n"
 
-msgid "when tilt = %n"
-msgstr "khi độ nghiêng = %n"
-
 msgid "x position"
 msgstr "vị trí x"
 
 msgid "y position"
 msgstr "vị trí y"
+
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "chỉnh chiều quay động cơ thành %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "chỉnh sức mạnh động cơ thứ %n"
+
+msgid "turn motor off"
+msgstr "tắt động cơ"
+
+msgid "turn motor on"
+msgstr "bật động cơ"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "bật động cơ trong %n giây"
+
+msgid "when distance < %n"
+msgstr "khi khoảng cách < %n"
+
+msgid "when tilt = %n"
+msgstr "khi độ nghiêng = %n"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "chiều quay động cơ %m.motorDirection"
 
 #~ msgid "forever if %b"
 #~ msgstr "lặp mãi mãi nếu %b"
@@ -523,12 +535,3 @@ msgstr "vị trí y"
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "chơi nốt nhạc %d.note trong %n nhịp"
-
-# 89%
-# 86%
-# 97%
-msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "chỉnh chiều quay động cơ %m.motor2 thành %m.motorDirection"
-
-msgid "when %m.sensor %m.lessMore %n"
-msgstr "khi %m.sensor %m.lessMore %n"

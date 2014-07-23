@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-06-11 19:24+0200\n"
+"PO-Revision-Date: 2014-07-14 20:47+0200\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -312,13 +312,13 @@ msgstr "fixa l'instrument a %d.instrument"
 # 86%
 # 97%
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "fixa la direcció del motor2 %m.motor a %m.motorDirection"
+msgstr "fixa la direcció del motor %m.motor2 a %m.motorDirection"
 
 # 77%
 # 100%
 # 75%
 msgid "set %m.motor power to %n"
-msgstr "fixa potència del motor a %n"
+msgstr "fixa potència del motor %m.motor a %n"
 
 msgid "set pen color to %c"
 msgstr "fixa el color del llapis a %c"
@@ -474,6 +474,9 @@ msgstr "quan rebi %m.broadcast"
 
 msgid "when I start as a clone"
 msgstr "quan una còpia meva comenci"
+
+msgid "when Stage clicked"
+msgstr "quan es cliqui l'escenari"
 
 msgid "when this sprite clicked"
 msgstr "quan es cliqui aquest personatge"
