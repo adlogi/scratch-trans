@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-20 22:46+0200\n"
+"PO-Revision-Date: 2014-08-06 22:41+0200\n"
 "Last-Translator: Jean-Jacques <i.scool@mac.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -218,7 +218,7 @@ msgid "mouse y"
 msgstr "souris y"
 
 msgid "move %n steps"
-msgstr "avancer de %n pixels"
+msgstr "avancer de %n "
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
@@ -259,7 +259,7 @@ msgid "play sound %m.sound until done"
 msgstr "jouer le son %m.sound jusqu'au bout"
 
 msgid "point in direction %d.direction"
-msgstr "s'orienter suivant un angle de %d.direction"
+msgstr "s'orienter à %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
 msgstr "s'orienter vers %m.spriteOrMouse"
@@ -307,12 +307,12 @@ msgstr "choisir l'instrument n° %d.instrument"
 # 86%
 # 97%
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "Mettre %m.motor2 direction à %m.motorDirection"
+msgstr "fixer la direction de %m.motor2 en sens %m.motorDirection"
 
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
-msgstr "mettre la puissance à %n pour %m.motor"
+msgstr "fixer %m.motor à la puissance %n"
 
 msgid "set pen color to %c"
 msgstr "choisir la couleur %c pour le stylo"
@@ -327,7 +327,7 @@ msgid "set pen size to %n"
 msgstr "choisir la taille %n pour le stylo"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "choisir le style de rotation %m.rotationStyle"
+msgstr "fixer le sens de rotation %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "mettre à %n % de la taille initiale"
@@ -415,12 +415,12 @@ msgstr "arrêter le %m.motor"
 
 # 81%
 msgid "turn %m.motor on"
-msgstr "lancer le %m.motor"
+msgstr "allumer le %m.motor"
 
 # 80%
 # 89%
 msgid "turn %m.motor on for %n secs"
-msgstr "lancer le %m.motor pour %n secs"
+msgstr "allumer le %m.motor pour %n secs"
 
 msgid "turn video %m.videoState"
 msgstr "activer la vidéo %m.videoState"
@@ -496,11 +496,11 @@ msgid "turn motor off"
 msgstr "arrêter le moteur"
 
 msgid "turn motor on"
-msgstr "lancer le moteur"
+msgstr "démarrer le moteur"
 
 # 80%
 msgid "turn motor on for %n secs"
-msgstr "lancer le moteur pour %n secs"
+msgstr "allumer le moteur pour %n secs"
 
 msgid "when distance < %n"
 msgstr "quand la distance < %n"

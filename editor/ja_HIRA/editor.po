@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2013-06-29 18:45+0200\n"
+"PO-Revision-Date: 2014-08-03 19:48+0200\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
-"Language-Team: LANGUAGE <LL@LI.ORG>\n"
+"Language-Team: LANGUAGE\n"
 "Language: ja_HIRA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +17,7 @@ msgid "10 ^"
 msgstr "10 ^"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-msgstr ""
+msgstr "クラウドへんすうについて</b><br>&nbsp;<br>げんざい、すうちのみがサポートされています<br>チャットルームのさくせいはきょかされていないため、さくじょされます<br>しょうさいなじょうほうは <a href="/help/faq/#clouddata" target="_blank">クラウドデータにかんするFAQをよんでください！</a>"
 
 msgid "A connected"
 msgstr "Aがつながれた"
@@ -26,13 +26,13 @@ msgid "a copy of the project file on your computer."
 msgstr "てもとのコンピューターにあるさくひんのコピー。"
 
 msgid "About"
-msgstr ""
+msgstr "せつめい"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "レゴWeDoかくちょうについて..."
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "PicoBoardきのうかくちょうについて..."
 
 msgid "abs"
 msgstr "ぜったいち"
@@ -44,7 +44,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "かくちょうきのうをついか"
 
 msgid "Add boolean input:"
 msgstr "しんぎちのひきすうをついか:"
@@ -71,7 +71,7 @@ msgid "all around"
 msgstr "じゆうにかいてん"
 
 msgid "all motors"
-msgstr ""
+msgstr "すべてのモーター"
 
 msgid "Animal"
 msgstr "どうぶつ"
@@ -133,7 +133,7 @@ msgid "Bassoon"
 msgstr "バスーン"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
-msgstr ""
+msgstr "あたらしいScratchのアカウントをつかっているので、クラウド・データへのへんこうはほぞんできません。このサイトに参加し続けると、すぐにクラウド・データをつかえるようになります。"
 
 msgid "Bitmap"
 msgstr "ビットマップ"
@@ -229,7 +229,7 @@ msgid "Claves"
 msgstr "クラーベ"
 
 msgid "cleanup"
-msgstr ""
+msgstr "きれいにする"
 
 msgid "Clear"
 msgstr "けす"
@@ -305,7 +305,7 @@ msgid "Costumes"
 msgstr "コスチューム"
 
 msgid "Costumes > 1"
-msgstr ""
+msgstr "コスチューム > 1"
 
 msgid "Costumes:"
 msgstr "コスチューム:"
@@ -347,7 +347,7 @@ msgid "direction"
 msgstr "むき"
 
 msgid "direction:"
-msgstr "むかいき:"
+msgstr "むき:"
 
 msgid "don't rotate"
 msgstr "かいてんしない"
@@ -404,24 +404,23 @@ msgid "Erase"
 msgstr "けす"
 
 # 92%
-#, fuzzy
 msgid "Eraser width"
-msgstr "けしゴムのはば:"
+msgstr "けしゴムのはば"
 
 msgid "Error!"
-msgstr ""
+msgstr "エラー !"
 
 msgid "everything"
-msgstr ""
+msgstr "すべて"
 
 msgid "export"
-msgstr ""
+msgstr "かきだし"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "かくちょうライブラリー"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "かくちょうのもんだい"
 
 msgid "fade in"
 msgstr "フェードイン"
@@ -460,7 +459,7 @@ msgid "Flying"
 msgstr "とぶ"
 
 msgid "Font:"
-msgstr ""
+msgstr "フォント:"
 
 msgid "For all sprites"
 msgstr "すべてのスプライトよう"
@@ -493,13 +492,13 @@ msgid "Hand Clap"
 msgstr "はくしゅ"
 
 msgid "Hardware"
-msgstr ""
+msgstr "ハードウェア"
 
 msgid "hide"
 msgstr "かくす"
 
 msgid "High C"
-msgstr ""
+msgstr "たかいド"
 
 msgid "hour"
 msgstr "とき"
@@ -508,7 +507,6 @@ msgid "Human"
 msgstr "ひと"
 
 # 83%
-#, fuzzy
 msgid "import"
 msgstr "よみこみ"
 
@@ -528,7 +526,7 @@ msgid "Instruments"
 msgstr "がっき"
 
 msgid "large readout"
-msgstr ""
+msgstr "おおきなひょうじ"
 
 msgid "last"
 msgstr "さいご"
@@ -543,10 +541,10 @@ msgid "left-right"
 msgstr "さゆうのみ"
 
 msgid "LEGO WeDo"
-msgstr ""
+msgstr "レゴWeDo"
 
 msgid "length"
-msgstr ""
+msgstr "ながさ"
 
 msgid "Library"
 msgstr "ライブラリ"
@@ -555,7 +553,6 @@ msgid "light"
 msgstr "あかるさ"
 
 # 83%
-#, fuzzy
 msgid "lights"
 msgstr "あかるさ"
 
@@ -566,9 +563,8 @@ msgid "Line"
 msgstr "ちょくせん"
 
 # 90%
-#, fuzzy
 msgid "Line width"
-msgstr "せんのはば:"
+msgstr "せんのはば"
 
 msgid "list"
 msgstr "リスト"
@@ -592,7 +588,7 @@ msgid "loudness"
 msgstr "おんりょう"
 
 msgid "Low C"
-msgstr ""
+msgstr "ひくいド"
 
 msgid "Make a Block"
 msgstr "ブロックをつくる"
@@ -619,10 +615,10 @@ msgid "message1"
 msgstr "メッセージ1"
 
 msgid "Microphone Volume:"
-msgstr ""
+msgstr "マイクのおんりょう:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "まんなかのド"
 
 msgid "Min"
 msgstr "さいしょうち"
@@ -640,13 +636,13 @@ msgid "motion"
 msgstr "モーション"
 
 msgid "motor"
-msgstr ""
+msgstr "モーター"
 
 msgid "motor A"
-msgstr ""
+msgstr "モーターA"
 
 msgid "motor B"
-msgstr ""
+msgstr "モーターB"
 
 msgid "mouse-pointer"
 msgstr "マウスのポインター"
@@ -712,16 +708,16 @@ msgid "No motion blocks"
 msgstr "うごきのブロックはありません"
 
 msgid "normal readout"
-msgstr ""
+msgstr "ふつうのひょうじ"
 
 msgid "not ="
-msgstr ""
+msgstr "= ではない"
 
 msgid "Not saved; network or server problem."
 msgstr "ほぞんできません。ネットワークかサーバーにもんだいがあります。"
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "ほぞんできません。プロジェクトがよみこまれていません。"
 
 msgid "of"
 msgstr "の"
@@ -730,7 +726,7 @@ msgid "off"
 msgstr "せつ"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "オフライン・エディター"
 
 msgid "OK"
 msgstr "OK"
@@ -773,7 +769,7 @@ msgid "Paint new sprite"
 msgstr "あたらしいスプライトをえがく"
 
 msgid "paste"
-msgstr "はりつきけ"
+msgstr "はりつけ"
 
 msgid "Pencil"
 msgstr "えんぴつ"
@@ -806,7 +802,7 @@ msgid "Profile"
 msgstr "プロフィール"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "プロジェクトがよみこまれていません。"
 
 msgid "Project not saved!"
 msgstr "さくひんはほぞんされていません!"
@@ -839,7 +835,7 @@ msgid "Remixing..."
 msgstr "リミックスちゅう..."
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "かくちょうブロックをさくじょ"
 
 msgid "Rename"
 msgstr "なまえをへんこう"
@@ -926,7 +922,7 @@ msgid "See project page"
 msgstr "プロジェクトページさんしょう"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
-msgstr ""
+msgstr "プラグインをインストールしてかくちょうきのうをつかうほうほうは、(みぎがわの)ヒントウィンドウをみてください。"
 
 msgid "Select"
 msgstr "せんたく"
@@ -947,7 +943,7 @@ msgid "Set Costume Center"
 msgstr "コスチュームのちゅうしんをせってい"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "スライダーのさいしょうちとさいだいちをせってい"
 
 msgid "Share"
 msgstr "きょうゆう"
@@ -1089,12 +1085,10 @@ msgid "Things"
 msgstr "もの"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
-msgstr ""
-"このプロジェクトは「ユーザーめい」ブロックをつかって、だれがつかっているかをけんしゅつします。とくていされたくないばあいはこのプロジェクトをつかうまえに"
-"サインアウトしてください。"
+msgstr "このプロジェクトは「ユーザーめい」ブロックをつかって、だれがつかっているかをけんしゅつします。とくていされたくないばあいはこのプロジェクトをつかうまえにサインアウトしてください。"
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
-msgstr ""
+msgstr "このプロジェクトはクラウドデータをつかっています。このきのうはサインインしたユーザーだけつかうことができます。"
 
 msgid "this script"
 msgstr "このスクリプト"
@@ -1244,25 +1238,13 @@ msgid "year"
 msgstr "とし"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
-msgstr ""
+msgstr "ほかのひとのプロジェクトのクラウドデータをへんしゅうすることはできません。<br>エディターでおこなったへんこうはいちじてきなものでえいぞくせいはありません。"
 
 msgid "Eraser width:"
 msgstr "けしゴムのはば:"
 
 msgid "Line width:"
 msgstr "せんのはば:"
-
-#~ msgid "<B>Information about Cloud variables</B><BR>&nbsp;<BR>Currently, only numbers are supported<BR>Chat rooms are not allowed, and will be removed<BR>For more info, <A href="file:///C:/help/faq/#clouddata" target=_blank>see the cloud data FAQ!</A>"
-#~ msgstr "<B>クラウドへんすうについて</B><BR>&nbsp;<BR>げんざい、すうちのみがサポートされています<BR>チャットルームのさくせいはきょかされません(さくじょされます)。<BR>しょうさいなじょうほうは <A href="file:///C:/Users/abee/Desktop/editor-ja%20(1)/target=">クラウドデータFAQをよんでください!</A>"
-
-#~ msgid "Costumes &gt; 1"
-#~ msgstr "コスチューム &gt; 1"
-
-#~ msgid "This project uses Cloud data ??? a feature that is available only to signed in users."
-#~ msgstr "このプロジェクトはクラウドデータをつかっています。このきのうはサインインしたユーザーだけつかうことができます。"
-
-#~ msgid "You cannot edit cloud data in someone else's project.<BR>Any change that you make in the editor will be temporary and not persistent."
-#~ msgstr "ほかのひとのプロジェクトのクラウドデータをへんしゅうすることはできません。<BR>エディターでいったへんこうはいちじてきなものでえいぞくせいはありません。"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "しんぎちのひきすうをついか:"

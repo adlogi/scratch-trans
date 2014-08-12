@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-04-24 18:11+0200\n"
+"PO-Revision-Date: 2014-08-05 05:43+0200\n"
 "Last-Translator: s_federici <s_federici@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -308,7 +308,7 @@ msgstr "passa a strumento %d.instrument"
 # 97%
 #, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "porta direzione motore a %m.motorDirection"
+msgstr "porta direzione motore %m.motor2 a %m.motorDirection"
 
 # 77%
 # 75%
@@ -450,7 +450,7 @@ msgid "when %m.key key pressed"
 msgstr "quando si preme il tasto %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "quando %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "quando %m.triggerSensor > %n"
@@ -472,7 +472,7 @@ msgid "when I start as a clone"
 msgstr "quando vengo clonato"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "quando Stage cliccato"
 
 msgid "when this sprite clicked"
 msgstr "quando si clicca questo sprite"

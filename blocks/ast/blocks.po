@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-02-04 05:45+0200\n"
+"PO-Revision-Date: 2014-07-31 23:08+0200\n"
 "Last-Translator: Xuacu <xuacusk8@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ast\n"
@@ -36,7 +36,7 @@ msgid "%m.sensor sensor value"
 msgstr "valor del sensor %m.sensor"
 
 msgid "%n mod %n"
-msgstr "%n mod %n"
+msgstr "restu de dividir %n por %n"
 
 msgid "add %s to %m.list"
 msgstr "amiesta %s a %m.list"
@@ -182,7 +182,7 @@ msgid "item %d.listItem of %m.list"
 msgstr "elementu %d.listItem de %m.list"
 
 msgid "join %s %s"
-msgstr "xunir %s %s"
+msgstr "xunir %s y %s"
 
 msgid "key %m.key pressed?"
 msgstr "¿ta calcada la tecla %m.key?"
@@ -209,7 +209,7 @@ msgid "Motion"
 msgstr "Movimientu"
 
 msgid "mouse down?"
-msgstr "¿mur calcáu?"
+msgstr "¿tá'l mur calcáu?"
 
 msgid "mouse x"
 msgstr "x del mur"
@@ -304,14 +304,12 @@ msgstr "poner l'instrumentu a %d.instrument"
 
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "poner direición del motor %m.motorDirection"
+msgstr "poner la direición de %m.motor2 a %m.motorDirection"
 
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "poner potencia del motor %n"
+msgstr "poner la potencia de %m.motor a %n"
 
 msgid "set pen color to %c"
 msgstr "poner el color del llápiz a %c"
@@ -411,19 +409,16 @@ msgid "turn @turnRight %n degrees"
 msgstr "xirar @turnRight %n graos"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "apagar el motor"
+msgstr "apagar %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "prender el motor"
+msgstr "prender %m.motor"
 
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "prender el motor %n segundos"
+msgstr "prender %m.motor %n segundos"
 
 msgid "turn video %m.videoState"
 msgstr "poner videu %m.videoState"
@@ -450,7 +445,7 @@ msgid "when %m.key key pressed"
 msgstr "cuando se calque la tecla %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "cuando %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "cuando %m.triggerSensor > %n"
@@ -463,7 +458,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "cuando'l fondu cambie a %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "cuando la distancia seta %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "cuando reciba %m.broadcast"
@@ -472,13 +467,13 @@ msgid "when I start as a clone"
 msgstr "cuando principie como clon"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "cuando se faiga click nel escenariu"
 
 msgid "when this sprite clicked"
 msgstr "cuando se calque nesti personaxe"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "cuando la inclinación seya %m.eNe %n"
 
 msgid "x position"
 msgstr "posición x"

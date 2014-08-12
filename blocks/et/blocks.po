@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-22 11:07+0200\n"
+"PO-Revision-Date: 2014-08-09 23:57+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -105,7 +105,7 @@ msgid "Control"
 msgstr "Juhtimine"
 
 msgid "costume #"
-msgstr "kostüümi nr"
+msgstr "kostüümi number"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "klooni %m.spriteOnly"
@@ -123,7 +123,7 @@ msgid "define"
 msgstr "defineeri"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "eemalda %d.listDeleteItem %m.list"
+msgstr "eemalda %d.listDeleteItem . liige loendist %m.list"
 
 msgid "delete this clone"
 msgstr "eemalda see kloon"
@@ -147,10 +147,10 @@ msgid "forever"
 msgstr "korda lõputult"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "liigu %n sek. x:%n y:%n-le"
+msgstr "liigu %n sekundiga x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "mine %n kihti tagasi"
+msgstr "liiguta %n kihti tagasi"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "mine %m.spriteOrMouse"
@@ -171,13 +171,13 @@ msgid "hide variable %m.var"
 msgstr "peida muutuja %m.var"
 
 msgid "if %b then"
-msgstr "kui %b, siis"
+msgstr "kui %b siis"
 
 msgid "if on edge, bounce"
 msgstr "kui äärel, põrka"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "sisesta %s nr %d.listItem %m.list"
+msgstr "pane %s %d.listItem . liikmeks %m.list loendis"
 
 msgid "item %d.listItem of %m.list"
 msgstr "liige %d.listItem %m.list"
@@ -257,7 +257,7 @@ msgid "play sound %m.sound"
 msgstr "mängi heli %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr "mängi heli %m.sound kuni valmis"
+msgstr "mängi heli %m.sound kuni lõpuni"
 
 msgid "point in direction %d.direction"
 msgstr "osuta suunas %d.direction"
@@ -477,7 +477,7 @@ msgid "when I start as a clone"
 msgstr "kui alustan kloonina"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "kui Lava klõpsatakse"
 
 msgid "when this sprite clicked"
 msgstr "kui spraiti klõpsatakse"
