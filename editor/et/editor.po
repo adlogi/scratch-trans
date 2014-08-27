@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-08-08 02:08+0200\n"
-"Last-Translator: hasso <hasso.tepper@gmail.com>\n"
+"PO-Revision-Date: 2014-08-25 16:21+0200\n"
+"Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
@@ -23,13 +23,13 @@ msgstr ""
 "href= target=>vaata pilveandmete KKK!</a>"
 
 msgid "A connected"
-msgstr "A ühendatud"
+msgstr "A on ühendatud"
 
 msgid "a copy of the project file on your computer."
-msgstr "kopeeri projekt oma arvutisse."
+msgstr "projektifaili koopia su arvutis."
 
 msgid "About"
-msgstr ""
+msgstr "Info"
 
 msgid "About LEGO WeDo extension..."
 msgstr "LEGO WeDo laiendusest ..."
@@ -80,7 +80,7 @@ msgid "all motors"
 msgstr "kõik mootorid"
 
 msgid "Animal"
-msgstr "Loom"
+msgstr "Loomad"
 
 msgid "Animals"
 msgstr "Loomad"
@@ -110,8 +110,9 @@ msgid "backdrop"
 msgstr "taust"
 
 msgid "backdrop #"
-msgstr "tausta nr"
+msgstr "taust #"
 
+# teek on ok termin
 msgid "Backdrop Library"
 msgstr "Taustade teek"
 
@@ -143,9 +144,9 @@ msgstr "Fagott"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
-"Kuna sul on uus Scratchi konto, siis pilveandmete muudatusi veel ei "
-"salvestata. Olles edaspidigi saidi kasutaja, saad pilveandmeid varsti "
-"kasutada!"
+"Kuna su Scratchi konto on uus, siis pilveandmete muudatusi veel ei "
+"salvestata. Kui jätkad osalemist saidi töös, saad varsti ka pilveandmeid "
+"kasutada."
 
 msgid "Bitmap"
 msgstr "Raster"
@@ -157,7 +158,7 @@ msgid "Block help"
 msgstr "Käsuploki abiinfo"
 
 msgid "Bongo"
-msgstr "Bongotrumm"
+msgstr "Bongo"
 
 msgid "brightness"
 msgstr "heledus"
@@ -166,22 +167,22 @@ msgid "Bring to front"
 msgstr "Too esiplaanile"
 
 msgid "Broadcast"
-msgstr "Teavitus"
+msgstr "Teade"
 
 msgid "Brush"
 msgstr "Pintsel"
 
 msgid "button pressed"
-msgstr "nupp all"
+msgstr "nupp on all"
 
 msgid "by"
 msgstr "autor"
 
 msgid "bytes loaded"
-msgstr "baiti laetud"
+msgstr "baiti laaditud"
 
 msgid "C connected"
-msgstr "C ühendatud"
+msgstr "C on ühendatud"
 
 msgid "Cabasa"
 msgstr "Cabasa"
@@ -190,7 +191,7 @@ msgid "Camera"
 msgstr "Kaamera"
 
 msgid "can drag in player:"
-msgstr "saab lohistada täitmisel:"
+msgstr "lohistatav täitmisrežiimil:"
 
 msgid "Cancel"
 msgstr "Katkesta"
@@ -201,11 +202,12 @@ msgstr "Ei saa kustutada"
 msgid "Can’t find network connection or reach server."
 msgstr "Ei leia võrguühendust või serverit."
 
+# fantaasiategelaste hulk
 msgid "Castle"
-msgstr "Muinasjutt"
+msgstr "Loss"
 
 msgid "Category"
-msgstr "Kategooria"
+msgstr "Kategooriad"
 
 msgid "ceiling"
 msgstr "ceiling"
@@ -217,16 +219,16 @@ msgid "Choir"
 msgstr "Koor"
 
 msgid "Choose backdrop from library"
-msgstr "Vali taust teegist"
+msgstr "Tausta valimine teegist"
 
 msgid "Choose costume from library"
-msgstr "Vali kostüüm teegist"
+msgstr "Kostüümi valimine teegist"
 
 msgid "Choose sound from library"
-msgstr "Vali helind teegist"
+msgstr "Helindi valimine teegist"
 
 msgid "Choose sprite from library"
-msgstr "Vali sprait teegist"
+msgstr "Spraidi valimine teegist"
 
 msgid "Circle"
 msgstr "Ring"
@@ -238,7 +240,7 @@ msgid "Clarinet"
 msgstr "Klarnet"
 
 msgid "Claves"
-msgstr "Kõlapulgad"
+msgstr "Pulgad"
 
 msgid "cleanup"
 msgstr "puhastamine"
@@ -249,6 +251,7 @@ msgstr "Kustuta"
 msgid "clear senders/receivers"
 msgstr "kustuta saatjad/saajad"
 
+# kus selline tekst asub?
 msgid "Click "Save now" to try again or "Download" to save"
 msgstr "Klõpsa uueks katseks või salvestamiseks"
 
@@ -256,7 +259,7 @@ msgid "Close"
 msgstr "Sulge"
 
 msgid "Closed Hi-Hat"
-msgstr "Suletud Hi-Hat"
+msgstr "Kinnine Hi-Hat"
 
 msgid "Cloud"
 msgstr "Pilv"
@@ -268,22 +271,23 @@ msgid "color"
 msgstr "värv"
 
 msgid "Color a shape"
-msgstr "Värvi kujund"
+msgstr "Kujundi värvimine"
 
 msgid "Conga"
-msgstr "Tumba"
+msgstr "Konga"
 
 msgid "Connecting to Cloud data server..."
-msgstr "Ühendumine pilveandmete serveriga..."
+msgstr "Ühenduse loomine pilveandmete serveriga ..."
 
 msgid "Convert to bitmap"
 msgstr "Rastergraafikasse"
 
+# teisenda?
 msgid "Convert to vector"
 msgstr "Vektorgraafikasse"
 
 msgid "Converting mp3..."
-msgstr "Mp3 teisendamine..."
+msgstr "Mp3 konvertimine ..."
 
 msgid "copy"
 msgstr "kopeeri"
@@ -299,7 +303,7 @@ msgid "Costume"
 msgstr "Kostüüm"
 
 msgid "costume #"
-msgstr "kostüümi nr"
+msgstr "kostüümi number"
 
 msgid "Costume Library"
 msgstr "Kostüümide teek"
@@ -319,7 +323,7 @@ msgid "Costumes"
 msgstr "Kostüümid"
 
 msgid "Costumes > 1"
-msgstr "Kostüüme > 1"
+msgstr "Kostüüm > 1"
 
 msgid "Costumes:"
 msgstr "Kostüümid:"
@@ -328,10 +332,10 @@ msgid "Cowbell"
 msgstr "Lehmakell"
 
 msgid "Crash Cymbal"
-msgstr "Taldrikud"
+msgstr "Crash taldrik"
 
 msgid "Creating..."
-msgstr "Loomine ..."
+msgstr "Loomine..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr "Praegu saab pilvemuutujatesse salvestada ainult arve."
@@ -340,10 +344,10 @@ msgid "cut"
 msgstr "lõika"
 
 msgid "D connected"
-msgstr "D ühendatud"
+msgstr "D on ühendatud"
 
 msgid "date"
-msgstr "päev"
+msgstr "kuupäev"
 
 msgid "day of week"
 msgstr "nädalapäev"
@@ -358,6 +362,7 @@ msgstr "eemalda"
 msgid "delete variable"
 msgstr "eemalda muutuja"
 
+# lühem on parem
 msgid "direction"
 msgstr "suund"
 
@@ -365,6 +370,7 @@ msgstr "suund"
 msgid "direction:"
 msgstr "suund:"
 
+# pööratakse küll, aga kujund ei pöördu
 msgid "don't rotate"
 msgstr "ei pöördu"
 
@@ -375,10 +381,10 @@ msgid "down arrow"
 msgstr "allanool"
 
 msgid "Download"
-msgstr "Lae alla"
+msgstr "Laadi alla"
 
 msgid "Download to your computer"
-msgstr "Lae oma arvutisse"
+msgstr "Laadi oma arvutisse"
 
 msgid "duplicate"
 msgstr "paljunda"
@@ -396,8 +402,9 @@ msgid "edit"
 msgstr "redigeeri"
 
 msgid "Edit"
-msgstr "Redigeeri"
+msgstr "Redigeerimine"
 
+# kus see tekst on?
 msgid "Edit Block"
 msgstr "Redigeeri plokki"
 
@@ -411,7 +418,7 @@ msgid "Electric Piano"
 msgstr "Elektriklaver"
 
 msgid "Electronic"
-msgstr "Elektroonilised"
+msgstr "Elektroonika"
 
 msgid "Ellipse"
 msgstr "Ellips"
@@ -426,6 +433,7 @@ msgstr "Kustutaja laius"
 msgid "Error!"
 msgstr "Viga!"
 
+# kõik
 msgid "everything"
 msgstr ""
 
@@ -445,7 +453,7 @@ msgid "fade out"
 msgstr "tuhmumine välja"
 
 msgid "Fantasy"
-msgstr "Fantaasiaolendid"
+msgstr "Fantaasia"
 
 msgid "Features"
 msgstr "Võimalused"
@@ -472,7 +480,7 @@ msgid "Flute"
 msgstr "Flööt"
 
 msgid "Flying"
-msgstr "Lendavad"
+msgstr "Lendamine"
 
 msgid "Font:"
 msgstr "Font:"
@@ -490,13 +498,13 @@ msgid "ghost"
 msgstr "kummitus"
 
 msgid "Go to My Stuff"
-msgstr "Mine minu loomingu juurde"
+msgstr "Mine minu asjade juurde"
 
 msgid "Group"
 msgstr "Grupp"
 
 msgid "Grow"
-msgstr "Kasva"
+msgstr "Kasvata"
 
 msgid "Guiro"
 msgstr "Guiro"
@@ -505,7 +513,7 @@ msgid "Guitar"
 msgstr "Kitarr"
 
 msgid "Hand Clap"
-msgstr "Aplaus"
+msgstr "Käteplaks"
 
 msgid "Hardware"
 msgstr "Riistvara"
@@ -517,7 +525,7 @@ msgid "High C"
 msgstr "ülemine C"
 
 msgid "hour"
-msgstr "tund"
+msgstr "tunnid"
 
 msgid "Human"
 msgstr "Inimesed"
@@ -530,10 +538,10 @@ msgid "Import"
 msgstr "Impordi"
 
 msgid "Importing sound..."
-msgstr "Heli importimine..."
+msgstr "Heli importimine ..."
 
 msgid "Indoors"
-msgstr "Sisevaated"
+msgstr "Ruumis"
 
 msgid "Installing..."
 msgstr "Installeerimine..."
@@ -548,7 +556,7 @@ msgid "last"
 msgstr "viimane"
 
 msgid "left"
-msgstr "vasak"
+msgstr "vasakule"
 
 msgid "left arrow"
 msgstr "vasaknool"
@@ -566,7 +574,7 @@ msgid "Library"
 msgstr "Teek"
 
 msgid "light"
-msgstr "heledus"
+msgstr "valgus"
 
 # 83%
 #, fuzzy
@@ -574,7 +582,7 @@ msgid "lights"
 msgstr "heledus"
 
 msgid "limit reached"
-msgstr "on jõutud piirini"
+msgstr "limiit ületatud"
 
 msgid "Line"
 msgstr "Joon"
@@ -588,25 +596,25 @@ msgid "list"
 msgstr "loend"
 
 msgid "List name"
-msgstr "Loendi nimi"
+msgstr "Loend nimi"
 
 msgid "ln"
 msgstr "ln"
 
 msgid "Loading project..."
-msgstr "Projekti laadimine..."
+msgstr "Projekti laadimine ..."
 
 msgid "log"
 msgstr "log"
 
 msgid "louder"
-msgstr "valjemini"
+msgstr "valjemaks"
 
 msgid "loudness"
 msgstr "valjus"
 
 msgid "Low C"
-msgstr "alumine C"
+msgstr "Madal C"
 
 msgid "Make a Block"
 msgstr "Loo plokk"
@@ -624,7 +632,7 @@ msgid "Max"
 msgstr "Max"
 
 msgid "meow"
-msgstr "näu"
+msgstr "mäu"
 
 msgid "Message Name"
 msgstr "Teate nimi"
@@ -633,7 +641,7 @@ msgid "message1"
 msgstr "teade1"
 
 msgid "Microphone Volume:"
-msgstr "Mikrofoni tugevus:"
+msgstr "Mikrofoni helitugevus:"
 
 msgid "Middle C"
 msgstr "Keskmine C"
@@ -642,7 +650,7 @@ msgid "Min"
 msgstr "Min"
 
 msgid "minute"
-msgstr "minut"
+msgstr "minutid"
 
 msgid "month"
 msgstr "kuu"
@@ -672,16 +680,16 @@ msgid "Music and Dance"
 msgstr "Muusika ja tants"
 
 msgid "Music Box"
-msgstr "Muusikatoos"
+msgstr "Mängutoos"
 
 msgid "Music Loops"
-msgstr "Muusikapalad"
+msgstr "Muusika"
 
 msgid "My Stuff"
-msgstr "Minu asjad"
+msgstr "Minu Asjad"
 
 msgid "myself"
-msgstr "ennast"
+msgstr "endast"
 
 msgid "Nature"
 msgstr "Loodus"
@@ -707,14 +715,14 @@ msgid "New List"
 msgstr "Uus loend"
 
 msgid "new message..."
-msgstr "uus teade..."
+msgstr "uus teade ..."
 
 msgid "New name"
 msgstr "Uus nimi"
 
 # 90%
 msgid "New sound:"
-msgstr "Uus helind:"
+msgstr "Uus heli:"
 
 msgid "New sprite from camera"
 msgstr "Uus sprait kaameraga"
@@ -735,10 +743,10 @@ msgid "not ="
 msgstr "pole ="
 
 msgid "Not saved; network or server problem."
-msgstr "Ei salvestatud: võrgu või serveri probleem."
+msgstr "Ei salvestatud: probleem võrgu või serveriga."
 
 msgid "Not saved; project did not load."
-msgstr "Pole salvestatud; projekti ei laetud."
+msgstr "Ei salvestanud; projekt ei ole laaditud."
 
 msgid "of"
 msgstr "  "
@@ -747,7 +755,7 @@ msgid "off"
 msgstr "välja"
 
 msgid "Offline Editor"
-msgstr "Offline redaktor"
+msgstr "Offline Redaktor"
 
 msgid "OK"
 msgstr "OK"
@@ -756,15 +764,13 @@ msgid "on"
 msgstr "sisse"
 
 msgid "on-flipped"
-msgstr "peegeldatud"
+msgstr "peegeldatuna"
 
-#, fuzzy
 msgid "Open Cuica"
-msgstr "Avatud Cuica"
+msgstr "Lahtine Cuica"
 
-#, fuzzy
 msgid "Open Hi-Hat"
-msgstr "Avatud Hi-Hat"
+msgstr "Lahtine Hi-Hat"
 
 msgid "Options"
 msgstr "Valikud"
@@ -780,7 +786,7 @@ msgid "other scripts in sprite"
 msgstr "teised spraidi skriptid"
 
 msgid "Outdoors"
-msgstr "Välisvaated"
+msgstr "Õues"
 
 msgid "Paint new backdrop"
 msgstr "Uue tausta joonistamine"
@@ -857,7 +863,7 @@ msgid "Remix"
 msgstr "Remiksi"
 
 msgid "Remixing..."
-msgstr "Remiksimine..."
+msgstr "Remiksimine ..."
 
 msgid "Remove extension blocks"
 msgstr "Eemalda laienduse plokid"
@@ -872,22 +878,22 @@ msgid "requires sign in"
 msgstr "nõuab sisselogimist"
 
 msgid "Reshape"
-msgstr "Muuda kuju"
+msgstr "Kuju muutmine"
 
 msgid "resistance-A"
-msgstr "takistus-A"
+msgstr "A takistus"
 
 msgid "resistance-B"
-msgstr "takistus-B"
+msgstr "B takistus"
 
 msgid "resistance-C"
-msgstr "takistus-C"
+msgstr "C takistus"
 
 msgid "resistance-D"
-msgstr "takistus-D"
+msgstr "D takistus"
 
 msgid "reverse"
-msgstr "revers"
+msgstr "vastupidine"
 
 msgid "Revert"
 msgstr "Taasta"
@@ -896,14 +902,16 @@ msgid "Reverting..."
 msgstr "Taastamine..."
 
 msgid "right"
-msgstr "parem"
+msgstr "paremale"
 
 msgid "right arrow"
-msgstr "paremnool"
+msgstr "nool paremale"
 
+# originaalis on väiketäht
 msgid "rotation style:"
 msgstr "pööramisstiil:"
 
+# lisaploki käskude täitmisel ei uuendata ekraanikuva
 msgid "Run without screen refresh"
 msgstr "Täida ekraanikuva uuendamata"
 
@@ -911,7 +919,7 @@ msgid "Save"
 msgstr "Salvesta"
 
 msgid "Save as a copy"
-msgstr "Salvesta koopia"
+msgstr "Salvesta koopiana"
 
 msgid "Save now"
 msgstr "Salvesta nüüd"
@@ -923,10 +931,10 @@ msgid "Saved"
 msgstr "Salvestatud"
 
 msgid "Saving changes..."
-msgstr "Muutuste salvestamine..."
+msgstr "Muudatuste salvestamine ..."
 
 msgid "Saving..."
-msgstr "Salvestamine..."
+msgstr "Salvestamine ..."
 
 msgid "Saxophone"
 msgstr "Saksofon"
@@ -943,14 +951,14 @@ msgid "Scripts:"
 msgstr "Skriptid:"
 
 msgid "second"
-msgstr "sekund"
+msgstr "sekundid"
 
 msgid "See project page"
 msgstr "Vaata projektilehte"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
 msgstr ""
-"Vt. vihjete aknast (paremal), kuidas installeerida <i>plug-in</i> ja panna "
+"Vaata vihjete aknast (paremal), kuidas installeerida plug-in ja panna "
 "laiendus tööle."
 
 msgid "Select"
@@ -962,15 +970,16 @@ msgstr "vali kõik"
 msgid "Select and duplicate"
 msgstr "Vali ja paljunda"
 
+# lühem on parem
 msgid "Send to back"
-msgstr "Tagaplaanile"
+msgstr "Tahaplaanile"
 
 # 88%
 msgid "Set costume center"
-msgstr "Määra kostüümi kese"
+msgstr "Kostüümi keskme määramine"
 
 msgid "Set Costume Center"
-msgstr "Määra kostüümi kese"
+msgstr "Kostüümi keskme määramine"
 
 msgid "set slider min and max"
 msgstr "määra liuguri min ja max"
@@ -994,13 +1003,13 @@ msgid "show senders"
 msgstr "näita saatjaid"
 
 msgid "show:"
-msgstr "näita:"
+msgstr "nähtav:"
 
 msgid "Shrink"
-msgstr "Kahanda"
+msgstr "Vähenda"
 
 msgid "Side Stick"
-msgstr "Juhtkang"
+msgstr "Trummi serv"
 
 msgid "Sign in"
 msgstr "Logi sisse"
@@ -1009,7 +1018,7 @@ msgid "Sign in to save"
 msgstr "Salvestamiseks logi sisse"
 
 msgid "Sign out"
-msgstr "Logi välja"
+msgstr "Välja logimine"
 
 msgid "silence"
 msgstr "vaikus"
@@ -1024,7 +1033,7 @@ msgid "slider"
 msgstr "liugur"
 
 msgid "Slider Range"
-msgstr "Liuguri ulatus"
+msgstr "Liuguri muutepiirkond"
 
 msgid "Small stage layout"
 msgstr "Väike lava"
@@ -1036,7 +1045,7 @@ msgid "Snare Drum"
 msgstr "Soolotrumm"
 
 msgid "softer"
-msgstr "pehmem"
+msgstr "vaiksemaks"
 
 msgid "sound"
 msgstr "helind"
@@ -1095,10 +1104,10 @@ msgid "stored on server"
 msgstr "salvestatud serverisse"
 
 msgid "Synth Lead"
-msgstr "Süntesaator"
+msgstr "Süntesaatori soolo"
 
 msgid "Synth Pad"
-msgstr "Süntesaator"
+msgstr "Süntesaatori taust"
 
 msgid "Tambourine"
 msgstr "Tamburiin"
@@ -1110,23 +1119,23 @@ msgid "Text"
 msgstr "Tekst"
 
 msgid "that way"
-msgstr "nii"
+msgstr "teises suunas"
 
 msgid "Theme"
-msgstr "Teema"
+msgstr "Teemad"
 
 msgid "Things"
-msgstr "Esemed"
+msgstr "Asjad"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"See projekt saab ploki “kasutajanimi” abil kasutaja kindlaks teha. Oma "
-"identiteedi peitmiseks logige välja enne projekti käivitamist."
+"Projekt saab “kasutajanime” ploki abil teha kindlaks, kes seda kasutab. Oma "
+"identiteedi peitmiseks logi enne projekti kasutamist välja."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
-"Antud projekt kasutab pilveandmeid, see võimalus on kättesaadav ainult "
-"sisselogitud kasutajatele."
+"Antud projekt kasutab pilveandmeid - neid saavad kasutada ainult "
+"sisselogitud kasutajad."
 
 msgid "this script"
 msgstr "see skript"
@@ -1135,24 +1144,22 @@ msgid "this sprite"
 msgstr "see sprait"
 
 msgid "this way"
-msgstr "sedaviisi"
+msgstr "ühes suunas"
 
 msgid "Throw away all changes since opening this project?"
-msgstr "Loobud kõigist pärast projekti avamist tehtud muudatustest?"
+msgstr "Kas loobuda kõigist pärast projekti avamist tehtud muudatustest?"
 
 msgid "timer"
 msgstr "taimer"
 
 msgid "Tips"
-msgstr "Nõuanded"
+msgstr "Selgitused"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr ""
-"Enne ploki kirjelduse kustutamist, eemalda ploki kasutamine kõigist "
-"skriptidest."
+msgstr "Enne ploki kirjelduse eemaldamist eemalda kõik ploki kasutused."
 
 msgid "Transportation"
-msgstr "Transpordivahendid"
+msgstr "Transport"
 
 msgid "Triangle"
 msgstr "Triangel"
@@ -1168,21 +1175,21 @@ msgid "Turbo Mode"
 msgstr "Turborežiim"
 
 msgid "Type"
-msgstr "Tüüp"
+msgstr "Tüübid"
 
 # 75%
 msgid "Undelete"
 msgstr "Taasta"
 
 msgid "Underwater"
-msgstr "Veealune"
+msgstr "Vee all"
 
 # 75%
 msgid "Undo"
-msgstr "Tühista"
+msgstr "Võta tagasi"
 
 msgid "undo"
-msgstr "tühista"
+msgstr "võta tagasi"
 
 msgid "Undo Revert"
 msgstr "Võta tagasi tühistamine"
@@ -1206,7 +1213,7 @@ msgid "Upload costume from file"
 msgstr "Kostüümi laadimine failist"
 
 msgid "Upload from your computer"
-msgstr "Lae üles oma arvutist"
+msgstr "Lae ülesse oma arvutist"
 
 msgid "Upload sound from file"
 msgstr "Helindi laadimine failist"
@@ -1215,13 +1222,13 @@ msgid "Upload sprite from file"
 msgstr "Spraidi laadimine failist"
 
 msgid "Uploading image..."
-msgstr "Pildi üleslaadimine..."
+msgstr "Pildi üleslaadimine ..."
 
 msgid "Uploading sound..."
 msgstr "Helindi üleslaadimine..."
 
 msgid "Uploading sprite..."
-msgstr "Spraidi üleslaadimine..."
+msgstr "Spraidi üleslaadimine ..."
 
 msgid "variable"
 msgstr "muutuja"
@@ -1266,10 +1273,10 @@ msgid "whirl"
 msgstr "pööris"
 
 msgid "Wood Block"
-msgstr "Puitplokk"
+msgstr "Puitklots"
 
 msgid "Wooden Flute"
-msgstr "Vilepill"
+msgstr "Puitflööt"
 
 msgid "x position"
 msgstr "x"

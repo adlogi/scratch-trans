@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2008-05-02\n"
-"PO-Revision-Date: 2013-05-04 11:29+0200\n"
-"Last-Translator: Kazuhiro Abe <abee@squeakland.jp>\n"
+"PO-Revision-Date: 2014-08-18 06:18+0200\n"
+"Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ja\n"
+"Language: ja_HIRA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -430,11 +430,12 @@ msgstr "xざひょう"
 msgid "y position"
 msgstr "yざひょう"
 
-############################################
+# ##########################################
 # USER INTERFACE
-############################################
+# ##########################################
+# 
 msgid "(empty)"
-msgstr "(そら)"
+msgstr "(から)"
 
 msgid "1 script"
 msgstr "1 スクリプト"
@@ -578,7 +579,7 @@ msgid "Create account"
 msgstr "アカウントをつくる"
 
 msgid "Create an empty project"
-msgstr "そらのプロジェクトをつくる"
+msgstr "からのプロジェクトをつくる"
 
 msgid "Data sent. Waiting for response..."
 msgstr "データをそうしんしました。おうとうをまっています..."
@@ -992,13 +993,13 @@ msgid "normal readout"
 msgstr "ふつうのひょうじ"
 
 msgid "Off"
-msgstr "せつ"
+msgstr "きり"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "On"
-msgstr "にゅう"
+msgstr "いり"
 
 msgid "only face left-right"
 msgstr "さゆうにはんてんするだけ"

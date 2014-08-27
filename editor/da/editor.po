@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-06-26 17:11+0200\n"
+"PO-Revision-Date: 2014-08-19 10:13+0200\n"
 "Last-Translator: Kirsten <kirstendampedersen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
@@ -101,28 +101,28 @@ msgid "Back a layer"
 msgstr "Flyt et lag tilbage"
 
 msgid "Backdrop"
-msgstr "Bagtæppe"
+msgstr "Baggrund"
 
 msgid "backdrop"
-msgstr "bagtæppe"
+msgstr "baggrund"
 
 msgid "backdrop #"
-msgstr "bagtæppe nr."
+msgstr "baggrund #"
 
 msgid "Backdrop Library"
-msgstr "Bagtæppe Bibliotek"
+msgstr "Bibliotek med Baggrunde"
 
 msgid "backdrop name"
-msgstr "bagtæppenavn"
+msgstr "baggrundens navn"
 
 msgid "backdrop1"
-msgstr "bagtæppe1"
+msgstr "baggrund1"
 
 msgid "backdrops"
-msgstr "bagtæpper"
+msgstr "baggrunde"
 
 msgid "Backdrops"
-msgstr "Bagtæpper"
+msgstr "Baggrunde"
 
 msgid "Backpack"
 msgstr "Rygsæk"
@@ -148,7 +148,7 @@ msgid "Bitmap Mode"
 msgstr "Bitmapformat"
 
 msgid "Block help"
-msgstr "Hjælp til kloderne"
+msgstr "Hjælp til brikkerne"
 
 msgid "Bongo"
 msgstr "Bongotromme"
@@ -211,7 +211,7 @@ msgid "Choir"
 msgstr "Kor"
 
 msgid "Choose backdrop from library"
-msgstr "Vælg bagtæppe fra biblioteket"
+msgstr "Vælg baggrund fra biblioteket"
 
 msgid "Choose costume from library"
 msgstr "Vælg kostume fra biblioteket"
@@ -296,10 +296,10 @@ msgid "costume #"
 msgstr "kostume nr."
 
 msgid "Costume Library"
-msgstr "Kostume Bibliotek"
+msgstr "Bibliotek med Kostumer"
 
 msgid "costume name"
-msgstr "kostumenavn"
+msgstr "navn på kostume"
 
 msgid "costume1"
 msgstr "kostume1"
@@ -348,7 +348,7 @@ msgid "delete"
 msgstr "slet"
 
 msgid "delete variable"
-msgstr "slet variablen"
+msgstr "slet variabel"
 
 msgid "direction"
 msgstr "retning"
@@ -384,13 +384,13 @@ msgid "edge"
 msgstr "kant"
 
 msgid "edit"
-msgstr "editer"
+msgstr "redigér"
 
 msgid "Edit"
-msgstr "Editer"
+msgstr "Redigér"
 
 msgid "Edit Block"
-msgstr "Rediger klodsen"
+msgstr "Redigér Brikken"
 
 msgid "Effects"
 msgstr "Effekter"
@@ -430,10 +430,10 @@ msgid "Extension Problem"
 msgstr "Problem med Udvidelser"
 
 msgid "fade in"
-msgstr "opton"
+msgstr "fade ind"
 
 msgid "fade out"
-msgstr "udton"
+msgstr "fade ud"
 
 msgid "Fantasy"
 msgstr "Fantasi"
@@ -481,7 +481,7 @@ msgid "ghost"
 msgstr "spøgelse"
 
 msgid "Go to My Stuff"
-msgstr "Mine sager"
+msgstr "Mine Ting"
 
 msgid "Group"
 msgstr "Grupper"
@@ -496,7 +496,7 @@ msgid "Guitar"
 msgstr "Guitar"
 
 msgid "Hand Clap"
-msgstr "Håndklap"
+msgstr "Klap med Hånden"
 
 msgid "Hardware"
 msgstr "Hardware"
@@ -542,7 +542,7 @@ msgid "left"
 msgstr "venstre"
 
 msgid "left arrow"
-msgstr "venstrepil"
+msgstr "venstre pil"
 
 msgid "left-right"
 msgstr "venstre-højre"
@@ -599,7 +599,7 @@ msgid "Low C"
 msgstr "Det lave C"
 
 msgid "Make a Block"
-msgstr "Skab en Klods"
+msgstr "Skab en Brik"
 
 msgid "Make a List"
 msgstr "Lav en Liste"
@@ -626,7 +626,7 @@ msgid "Microphone Volume:"
 msgstr "Mikrofonstyrke:"
 
 msgid "Middle C"
-msgstr "Midter C"
+msgstr "Midterste C"
 
 msgid "Min"
 msgstr "Min"
@@ -680,10 +680,10 @@ msgid "New"
 msgstr "Ny"
 
 msgid "New backdrop from camera"
-msgstr "Nyt bagtæppe fra kamera"
+msgstr "Ny baggrund fra kamera"
 
 msgid "New backdrop:"
-msgstr "Nyt bagtæppe:"
+msgstr "Ny baggrund:"
 
 msgid "New costume from camera"
 msgstr "Nyt kostume fra kamera"
@@ -713,7 +713,7 @@ msgid "New Variable"
 msgstr "Ny variabel"
 
 msgid "No motion blocks"
-msgstr "Ingen bevægelses klodser"
+msgstr "Ingen bevægelses brikker"
 
 msgid "normal readout"
 msgstr "normal visning"
@@ -725,7 +725,7 @@ msgid "Not saved; network or server problem."
 msgstr "Ikke gemt; netværk eller server problem."
 
 msgid "Not saved; project did not load."
-msgstr "Ikke gemt; projektet ikke indlæst."
+msgstr "Ikke gemt; projektet blev ikke indlæst."
 
 msgid "of"
 msgstr "af"
@@ -767,7 +767,7 @@ msgid "Outdoors"
 msgstr "Udendørs"
 
 msgid "Paint new backdrop"
-msgstr "Tegn nyt bagtæppe"
+msgstr "Tegn ny baggrund"
 
 msgid "Paint new costume"
 msgstr "Tegn nyt kostume"
@@ -776,7 +776,7 @@ msgid "Paint new sprite"
 msgstr "Tegn ny sprite"
 
 msgid "paste"
-msgstr "klistr"
+msgstr "sæt ind"
 
 msgid "Pencil"
 msgstr "Blyant"
@@ -843,13 +843,13 @@ msgid "Remixing..."
 msgstr "Remixer..."
 
 msgid "Remove extension blocks"
-msgstr "Slet udvidelsesklodserne"
+msgstr "Slet udvidelsesbrikkerne"
 
 msgid "Rename"
 msgstr "Omdøb"
 
 msgid "rename variable"
-msgstr "omdøb variabelnavn"
+msgstr "omdøb variabel"
 
 msgid "requires sign in"
 msgstr "kræver log-in"
@@ -876,13 +876,13 @@ msgid "Revert"
 msgstr "Vend tilbage"
 
 msgid "Reverting..."
-msgstr "Tilbagevending..."
+msgstr "Vender tilbage..."
 
 msgid "right"
 msgstr "højre"
 
 msgid "right arrow"
-msgstr "højrepil"
+msgstr "højre pil"
 
 msgid "rotation style:"
 msgstr "rotationsstil:"
@@ -918,10 +918,10 @@ msgid "Script"
 msgstr "Script"
 
 msgid "Scripts"
-msgstr "Script"
+msgstr "Scripts"
 
 msgid "Scripts:"
-msgstr "Script:"
+msgstr "Scripts:"
 
 msgid "second"
 msgstr "sekund"
@@ -944,7 +944,7 @@ msgid "Select and duplicate"
 msgstr "Marker og kopier"
 
 msgid "Send to back"
-msgstr "Flyt længst tilbage"
+msgstr "Send bagerst"
 
 msgid "Set costume center"
 msgstr "Sæt kostumets center"
@@ -953,7 +953,7 @@ msgid "Set Costume Center"
 msgstr "Sæt Kostumets Center"
 
 msgid "set slider min and max"
-msgstr "sæt skydemodstands min og maks"
+msgstr "sæt skyderen til min og maks"
 
 msgid "Share"
 msgstr "Del"
@@ -1002,10 +1002,10 @@ msgid "size"
 msgstr "størrelse"
 
 msgid "slider"
-msgstr "skydemodstand"
+msgstr "skyder"
 
 msgid "Slider Range"
-msgstr "Skydemodstands Rækkevidde"
+msgstr "Skyderens Rækkevidde"
 
 msgid "Small stage layout"
 msgstr "Lille scene opsætning"
@@ -1017,7 +1017,7 @@ msgid "Snare Drum"
 msgstr "Lilletromme"
 
 msgid "softer"
-msgstr "lavere"
+msgstr "blødere"
 
 msgid "sound"
 msgstr "lyd"
@@ -1026,7 +1026,7 @@ msgid "Sound"
 msgstr "Lyd"
 
 msgid "Sound Library"
-msgstr "Lydbibliotek"
+msgstr "Bibliotek med Lyde"
 
 msgid "Sounds"
 msgstr "Lyde"
@@ -1036,7 +1036,7 @@ msgstr "mellemrum"
 
 # 80%
 msgid "Space"
-msgstr "Rum"
+msgstr "Mellemrum"
 
 msgid "Sports"
 msgstr "Sport"
@@ -1046,7 +1046,7 @@ msgid "Sprite"
 msgstr "Sprite"
 
 msgid "Sprite Library"
-msgstr "Sprite Bibliotek"
+msgstr "Bibliotek med Sprites"
 
 # 85%
 msgid "Sprite1"
@@ -1065,7 +1065,7 @@ msgid "Stage"
 msgstr "Scene"
 
 msgid "Stage selected:"
-msgstr "Udvalgt scene:"
+msgstr "Scene valgt:"
 
 msgid "Steel Drum"
 msgstr "Ståltromme"
@@ -1090,17 +1090,17 @@ msgid "Text"
 msgstr "Tekst"
 
 msgid "that way"
-msgstr "mod uret"
+msgstr "den måde"
 
 msgid "Theme"
 msgstr "Tema"
 
 msgid "Things"
-msgstr "Tingester"
+msgstr "Ting"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Dette project kan afsløre hvem som bruger det, gennem \"brugernavn\"-klodsen. "
+"Dette project kan afsløre hvem som bruger det, gennem \"brugernavn\"-brikken. "
 " For at skjule din identitet, log af inden du andvender projektet."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
@@ -1115,10 +1115,10 @@ msgid "this sprite"
 msgstr "denne sprite"
 
 msgid "this way"
-msgstr "med uret"
+msgstr "denne måde"
 
 msgid "Throw away all changes since opening this project?"
-msgstr "Kasser alle ændringer siden projektet åbnedes?"
+msgstr "Slet alle ændringer siden projektet blev åbnet?"
 
 msgid "timer"
 msgstr "timer"
@@ -1127,7 +1127,8 @@ msgid "Tips"
 msgstr "Idéer"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr "For at slette en klodsdefination, fjern først alt brug af klodsen."
+msgstr ""
+"For at slette definitionen af en en klods, fjern først alt brug af klodsen."
 
 msgid "Transportation"
 msgstr "Transportmidler"
@@ -1177,7 +1178,7 @@ msgid "up arrow"
 msgstr "pil opad"
 
 msgid "Upload backdrop from file"
-msgstr "Upload bagtæppe fra fil"
+msgstr "Upload baggrund fra fil"
 
 msgid "Upload costume from file"
 msgstr "Upload kostume fra fil"
@@ -1204,7 +1205,7 @@ msgid "variable"
 msgstr "variabel"
 
 msgid "Variable name"
-msgstr "Variabelnavn"
+msgstr "Navn på variabel"
 
 msgid "Vector"
 msgstr "Vektor"
@@ -1234,7 +1235,7 @@ msgid "Walking"
 msgstr "Gående"
 
 msgid "Want to save? Click remix"
-msgstr "Vil du gemme? Klick remix"
+msgstr "Vil du gemme? Klik remix"
 
 msgid "Which column do you want to import"
 msgstr "Hvilken kolonne vil du importere"
@@ -1259,7 +1260,7 @@ msgstr "år"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
-"Du kan ikke editere skydata i en andens projekt.<br>Eventuelle ændringer "
+"Du kan ikke redigere skydata i en andens projekt.<br>Eventuelle ændringer "
 "bliver kun midlertidige, ikke vedvarende."
 
 msgid "Eraser width:"

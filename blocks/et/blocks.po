@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-08-09 23:57+0200\n"
+"PO-Revision-Date: 2014-08-25 01:31+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -24,8 +24,9 @@ msgid "%b or %b"
 msgstr "%b või %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribute spraidil %m.spriteOrStage"
+msgstr "objekti %m.spriteOrStage %m.attribute"
 
+# lühem variant on parem; kui siis väärtus
 msgid "%m.list contains %s"
 msgstr "%m.list sisaldab %s"
 
@@ -40,7 +41,7 @@ msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr "lisa %s loendile %m.list"
+msgstr "lisa %s loendisse %m.list"
 
 msgid "answer"
 msgstr "vastus"
@@ -50,7 +51,7 @@ msgstr "küsi %s ja oota"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "tausta nr"
+msgstr "tausta #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
@@ -62,8 +63,9 @@ msgstr "teata %m.broadcast"
 msgid "broadcast %m.broadcast and wait"
 msgstr "teata %m.broadcast ja oota"
 
+# lühem variant on parem
 msgid "change %m.effect effect by %n"
-msgstr "muuda %m.effect efekti %n võrra"
+msgstr "muuda efekti %m.effect %n võrra"
 
 msgid "change %m.var by %n"
 msgstr "muuda %m.var %n võrra"
@@ -86,6 +88,7 @@ msgstr "muuda tempot %n võrra"
 msgid "change volume by %n"
 msgstr "muuda helitugevust %n võrra"
 
+# lühem on parem, väärtuseks võib olla avaldis
 msgid "change x by %n"
 msgstr "muuda x %n võrra"
 
@@ -105,13 +108,13 @@ msgid "Control"
 msgstr "Juhtimine"
 
 msgid "costume #"
-msgstr "kostüümi number"
+msgstr "kostüümi #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "klooni %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr "jooksev %m.timeAndDate"
+msgstr "hetke %m.timeAndDate"
 
 msgid "Data"
 msgstr "Andmed"
@@ -123,7 +126,7 @@ msgid "define"
 msgstr "defineeri"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "eemalda %d.listDeleteItem . liige loendist %m.list"
+msgstr "eemalda %d.listDeleteItem loendist %m.list"
 
 msgid "delete this clone"
 msgstr "eemalda see kloon"
@@ -137,6 +140,7 @@ msgstr "kaugus"
 msgid "distance to %m.spriteOrMouse"
 msgstr "kaugus %m.spriteOrMouse-st"
 
+# muidu on lühem ja mugavam
 msgid "else"
 msgstr "muidu"
 
@@ -150,8 +154,9 @@ msgid "glide %n secs to x:%n y:%n"
 msgstr "liigu %n sekundiga x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "liiguta %n kihti tagasi"
+msgstr "mine %n kihti tagasi"
 
+# tegelikult hüppab sprait teise spraidi asukohta (arvestatakse keskkohti)
 msgid "go to %m.spriteOrMouse"
 msgstr "mine %m.spriteOrMouse"
 
@@ -173,27 +178,32 @@ msgstr "peida muutuja %m.var"
 msgid "if %b then"
 msgstr "kui %b siis"
 
+# tegu pole lihtsalt pööramisega, sprait põrkub (peegeldub)
 msgid "if on edge, bounce"
 msgstr "kui äärel, põrka"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "pane %s %d.listItem . liikmeks %m.list loendis"
+msgstr "sisesta %s %d.listItem . liikmeks loendis %m.list"
 
+# lühem on parem, kasutatakse avaldises
 msgid "item %d.listItem of %m.list"
 msgstr "liige %d.listItem %m.list"
 
+# tekstide ühendamise plokk läks pidevalt segamini liitmise plokiga; võtmesõna "ühenda" oleks liiga pikk
 msgid "join %s %s"
 msgstr "%s & %s"
 
 msgid "key %m.key pressed?"
-msgstr "klahv %m.key all?"
+msgstr "klahv %m.key on all?"
 
+# algul ei lubatud muuta elementide järjestust
 msgid "length of %m.list"
-msgstr "pikkus %m.list"
+msgstr "%m.list pikkus"
 
 msgid "length of %s"
 msgstr "%s pikkus"
 
+# võimalikult lühem, kasutatakse avaldises
 msgid "letter %n of %s"
 msgstr "märk %n sõnas %s"
 
@@ -210,7 +220,7 @@ msgid "Motion"
 msgstr "Liikumine"
 
 msgid "mouse down?"
-msgstr "hiir all?"
+msgstr "hiirenupp on all?"
 
 msgid "mouse x"
 msgstr "hiire x"
@@ -218,6 +228,7 @@ msgstr "hiire x"
 msgid "mouse y"
 msgstr "hiire y"
 
+# punkti, pikslit, sammu, ühikut?
 msgid "move %n steps"
 msgstr "liigu %n punkti"
 
@@ -259,6 +270,7 @@ msgstr "mängi heli %m.sound"
 msgid "play sound %m.sound until done"
 msgstr "mängi heli %m.sound kuni lõpuni"
 
+# pöördu
 msgid "point in direction %d.direction"
 msgstr "osuta suunas %d.direction"
 
@@ -266,7 +278,7 @@ msgid "point towards %m.spriteOrMouse"
 msgstr "osuta %m.spriteOrMouse-le"
 
 msgid "repeat %n"
-msgstr "korda %n"
+msgstr "korda %n korda"
 
 msgid "repeat until %b"
 msgstr "korda kuni %b"
@@ -295,9 +307,11 @@ msgstr "Andurid"
 msgid "sensor %m.booleanSensor?"
 msgstr "andur %m.booleanSensor?"
 
+# lühem on parem, võtmesõna on vaieldav
 msgid "set %m.effect effect to %n"
 msgstr "pane %m.effect efekt %n-le"
 
+# lühem on parem, avaldised võivad olla väga pikad
 msgid "set %m.var to %s"
 msgstr "võta %m.var = %s"
 
@@ -307,21 +321,23 @@ msgstr "võta instrumendiks %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "mootori suund %m.motorDirection"
+msgstr "määra %m.motor2 suunaks %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "mootori võimsus %n"
+msgstr "määra %m.motor võimsuseks %n"
 
+# taotlus on erineda käsust 
+# võta pliiatsi värviks %n
 msgid "set pen color to %c"
 msgstr "vali pliiatsi värviks %c"
 
+# taotlus on erineda käsust 
+# vali pliiatsi värviks %c
 msgid "set pen color to %n"
-msgstr "vali pliiatsi värviks %n"
+msgstr "võta pliiatsi värviks %n"
 
 msgid "set pen shade to %n"
 msgstr "võta pliiatsi varjundiks %n"
@@ -329,6 +345,7 @@ msgstr "võta pliiatsi varjundiks %n"
 msgid "set pen size to %n"
 msgstr "võta pliiatsi suuruseks %n"
 
+# üldiselt eelistasime lühemat varianti
 msgid "set rotation style %m.rotationStyle"
 msgstr "pööramisstiil %m.rotationStyle"
 
@@ -339,7 +356,7 @@ msgid "set tempo to %n bpm"
 msgstr "võta tempoks %n lööki/min"
 
 msgid "set video transparency to %n%"
-msgstr "võta video läbipaistvus %n%"
+msgstr "võta video läbipaistvuseks %n%"
 
 msgid "set volume to %n%"
 msgstr "võta helitugevuseks %n%"
@@ -347,6 +364,7 @@ msgstr "võta helitugevuseks %n%"
 msgid "set x to %n"
 msgstr "pane x %n-ks"
 
+# tuleks leida võimalikult lühike variant, sest avaldised võivad olla väga pikad
 msgid "set y to %n"
 msgstr "pane y %n-ks"
 
@@ -368,8 +386,9 @@ msgstr "Heli"
 msgid "stamp"
 msgstr "jäljend"
 
+# ka lõpeta, katkesta
 msgid "stop %m.stop"
-msgstr "stopp %m.stop"
+msgstr "peata %m.stop"
 
 msgid "stop all sounds"
 msgstr "peata kõik helid"
@@ -395,7 +414,7 @@ msgid "think %s for %n secs"
 msgstr "mõtle %s %n sek"
 
 msgid "tilt"
-msgstr "kalluta"
+msgstr "kalle"
 
 msgid "timer"
 msgstr "taimer"
@@ -413,28 +432,26 @@ msgid "turn @turnRight %n degrees"
 msgstr "pööra @turnRight %n kraadi"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "lülita mootor välja"
+msgstr "lülita %m.motor välja"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "lülita mootor sisse"
+msgstr "lülita %m.motor sisse"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "mootor sisse %n sekundiks"
+msgstr "%m.motor sisse %n sekundiks"
 
 msgid "turn video %m.videoState"
-msgstr "lülita video %m.videoState"
+msgstr "lülita kaamera %m.videoState"
 
 # 88%
 msgid "username"
 msgstr "kasutajanimi"
 
+# siin videopildi liikumine ja suund?
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "video %m.videoMotionType %m.stageOrThis"
 
@@ -455,7 +472,7 @@ msgid "when %m.key key pressed"
 msgstr "kui vajutatakse klahvi %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "kui %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "kui %m.triggerSensor > %n"
@@ -468,7 +485,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "kui taustaks saab %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "kui kaugus %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "kui teade %m.broadcast"
@@ -480,10 +497,10 @@ msgid "when Stage clicked"
 msgstr "kui Lava klõpsatakse"
 
 msgid "when this sprite clicked"
-msgstr "kui spraiti klõpsatakse"
+msgstr "kui klõpsatakse sel spraidil"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "kui kalle %m.eNe %n"
 
 msgid "x position"
 msgstr "x"
@@ -507,7 +524,7 @@ msgstr "lülita mootor sisse"
 
 # 80%
 msgid "turn motor on for %n secs"
-msgstr "mootor sisse %n sekundiks"
+msgstr "lülita mootor %n sekundiks sisse"
 
 msgid "when distance < %n"
 msgstr "kui kaugus < %n"
