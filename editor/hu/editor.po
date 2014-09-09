@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-08-11 13:16+0200\n"
+"PO-Revision-Date: 2014-09-05 09:32+0200\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -29,7 +29,7 @@ msgid "a copy of the project file on your computer."
 msgstr ""
 
 msgid "About"
-msgstr ""
+msgstr "Névjegy"
 
 msgid "About LEGO WeDo extension..."
 msgstr ""
@@ -95,7 +95,7 @@ msgid "B connected"
 msgstr ""
 
 msgid "Back a layer"
-msgstr ""
+msgstr "Hátrébb küldés"
 
 msgid "Backdrop"
 msgstr "Háttér"
@@ -139,13 +139,13 @@ msgid "Because you have a new Scratch account, any changes to cloud data won't b
 msgstr ""
 
 msgid "Bitmap"
-msgstr "Raszter"
+msgstr "Pixeles"
 
 msgid "Bitmap Mode"
-msgstr "Raszterkép mód"
+msgstr "Pixeles kép"
 
 msgid "Block help"
-msgstr "Kocka súgó"
+msgstr "Parancssúgó"
 
 msgid "Bongo"
 msgstr ""
@@ -154,7 +154,7 @@ msgid "brightness"
 msgstr "fényerő"
 
 msgid "Bring to front"
-msgstr ""
+msgstr "Előrehozás"
 
 msgid "Broadcast"
 msgstr ""
@@ -181,7 +181,7 @@ msgid "Camera"
 msgstr "Kamera"
 
 msgid "can drag in player:"
-msgstr ""
+msgstr "játékos vonszolhatja:"
 
 msgid "Cancel"
 msgstr "Mégse"
@@ -232,7 +232,7 @@ msgid "Claves"
 msgstr "Claves"
 
 msgid "cleanup"
-msgstr ""
+msgstr "rendrakás"
 
 msgid "Clear"
 msgstr "Törlés"
@@ -260,7 +260,7 @@ msgid "color"
 msgstr "szín"
 
 msgid "Color a shape"
-msgstr ""
+msgstr "Alakzat színezése"
 
 #, fuzzy
 msgid "Conga"
@@ -270,10 +270,10 @@ msgid "Connecting to Cloud data server..."
 msgstr ""
 
 msgid "Convert to bitmap"
-msgstr "Raszterképpé alakítás"
+msgstr "Pixeles képpé alakítás"
 
 msgid "Convert to vector"
-msgstr "Vektorképpé alakítás"
+msgstr "Vektoros képpé alakítás"
 
 msgid "Converting mp3..."
 msgstr ""
@@ -312,7 +312,7 @@ msgid "Costumes"
 msgstr "Jelmezek"
 
 msgid "Costumes > 1"
-msgstr ""
+msgstr "Jelmezek > 1"
 
 # 88%
 #, fuzzy
@@ -375,10 +375,10 @@ msgid "Download to your computer"
 msgstr "Letöltés saját gépre"
 
 msgid "duplicate"
-msgstr "másolás"
+msgstr "duplázás"
 
 msgid "Duplicate"
-msgstr "Másolás"
+msgstr "Duplázás"
 
 msgid "e ^"
 msgstr "e ^"
@@ -434,10 +434,10 @@ msgid "Extension Problem"
 msgstr ""
 
 msgid "fade in"
-msgstr ""
+msgstr "felkeverés"
 
 msgid "fade out"
-msgstr ""
+msgstr "lekeverés"
 
 msgid "Fantasy"
 msgstr "Fantázia"
@@ -449,7 +449,7 @@ msgid "File"
 msgstr "Fájl"
 
 msgid "Fill with color"
-msgstr "Feltöltés egy színnel"
+msgstr "Kitöltés"
 
 msgid "fisheye"
 msgstr "halszem"
@@ -479,16 +479,16 @@ msgid "For this sprite only"
 msgstr "A kiválasztott szereplőé"
 
 msgid "Forward a layer"
-msgstr ""
+msgstr "Előbbre hozás"
 
 msgid "ghost"
 msgstr "szellem"
 
 msgid "Go to My Stuff"
-msgstr ""
+msgstr "Ugrás a dolgaimhoz"
 
 msgid "Group"
-msgstr ""
+msgstr "Csoportosítás"
 
 msgid "Grow"
 msgstr "Nagyítás"
@@ -523,7 +523,7 @@ msgid "import"
 msgstr "betöltés"
 
 msgid "Import"
-msgstr "betöltés"
+msgstr "Betöltés"
 
 msgid "Importing sound..."
 msgstr ""
@@ -631,7 +631,7 @@ msgid "message1"
 msgstr "üzenet1"
 
 msgid "Microphone Volume:"
-msgstr ""
+msgstr "Mikrofon hangereje:"
 
 msgid "Middle C"
 msgstr ""
@@ -664,7 +664,7 @@ msgid "mouse-pointer"
 msgstr "egérmutató"
 
 msgid "Multiple"
-msgstr ""
+msgstr "Többszörös"
 
 msgid "Music and Dance"
 msgstr "Zene és tánc"
@@ -676,7 +676,7 @@ msgid "Music Loops"
 msgstr ""
 
 msgid "My Stuff"
-msgstr "Saját cuccok"
+msgstr "Dolgaim"
 
 msgid "myself"
 msgstr "magadról"
@@ -802,7 +802,7 @@ msgid "Piano"
 msgstr "Zongora"
 
 msgid "Pick up color"
-msgstr ""
+msgstr "Szín kiválasztása"
 
 msgid "pixelate"
 msgstr "képpont"
@@ -863,7 +863,7 @@ msgid "requires sign in"
 msgstr ""
 
 msgid "Reshape"
-msgstr ""
+msgstr "Átformálás"
 
 msgid "resistance-A"
 msgstr ""
@@ -879,15 +879,14 @@ msgstr ""
 
 # This string is used in two separate places (motor and sound), and I'd rather give two separate translations! :(
 #
-#, fuzzy
 msgid "reverse"
-msgstr "hátra"
+msgstr "visszafelé"
 
 msgid "Revert"
-msgstr ""
+msgstr "Visszaállítás"
 
 msgid "Reverting..."
-msgstr ""
+msgstr "Visszaállítás..."
 
 msgid "right"
 msgstr "jobbra"
@@ -939,7 +938,7 @@ msgid "second"
 msgstr "másodperc"
 
 msgid "See project page"
-msgstr ""
+msgstr "Vissza a projekt oldalára"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
 msgstr ""
@@ -951,10 +950,10 @@ msgid "select all"
 msgstr "minden kijelölése"
 
 msgid "Select and duplicate"
-msgstr ""
+msgstr "Kijelölés és duplázás"
 
 msgid "Send to back"
-msgstr ""
+msgstr "Hátraküldés"
 
 msgid "Set costume center"
 msgstr "Középpont beállítása"
@@ -986,7 +985,7 @@ msgid "show senders"
 msgstr ""
 
 msgid "show:"
-msgstr ""
+msgstr "látható:"
 
 msgid "Shrink"
 msgstr "Kicsinyítés"
@@ -1020,7 +1019,7 @@ msgid "Slider Range"
 msgstr ""
 
 msgid "Small stage layout"
-msgstr ""
+msgstr "Kis játékteres nézet"
 
 msgid "Smooth"
 msgstr ""
@@ -1108,7 +1107,7 @@ msgid "Theme"
 msgstr "Téma"
 
 msgid "Things"
-msgstr ""
+msgstr "Dolgok"
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1170,10 +1169,10 @@ msgid "undo"
 msgstr "mégse"
 
 msgid "Undo Revert"
-msgstr ""
+msgstr "Visszaállítás visszavonása"
 
 msgid "Ungroup"
-msgstr ""
+msgstr "Csoportbontás"
 
 msgid "unshared"
 msgstr "megosztatlan"
@@ -1215,10 +1214,10 @@ msgid "Variable name"
 msgstr "Változónév"
 
 msgid "Vector"
-msgstr "Vektor"
+msgstr "Vektoros"
 
 msgid "Vector Mode"
-msgstr "Vektorkép mód"
+msgstr "Vektoros kép"
 
 msgid "Vibraphone"
 msgstr "Vibrafon"
@@ -1239,7 +1238,7 @@ msgid "volume"
 msgstr "hangerő"
 
 msgid "Walking"
-msgstr "Gyalog"
+msgstr "Gyaloglás"
 
 msgid "Want to save? Click remix"
 msgstr ""

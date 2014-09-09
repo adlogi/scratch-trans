@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-08-25 01:31+0200\n"
+"PO-Revision-Date: 2014-08-27 11:17+0200\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -26,7 +26,7 @@ msgstr "%b või %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "objekti %m.spriteOrStage %m.attribute"
 
-# lühem variant on parem; kui siis väärtus
+# lühem variant on parem; kui, siis väärtust
 msgid "%m.list contains %s"
 msgstr "%m.list sisaldab %s"
 
@@ -183,11 +183,11 @@ msgid "if on edge, bounce"
 msgstr "kui äärel, põrka"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "sisesta %s %d.listItem . liikmeks loendis %m.list"
+msgstr "sisesta %s %m.list %d.listItem"
 
 # lühem on parem, kasutatakse avaldises
 msgid "item %d.listItem of %m.list"
-msgstr "liige %d.listItem %m.list"
+msgstr "%m.list %d.listItem"
 
 # tekstide ühendamise plokk läks pidevalt segamini liitmise plokiga; võtmesõna "ühenda" oleks liiga pikk
 msgid "join %s %s"
@@ -203,7 +203,8 @@ msgstr "%m.list pikkus"
 msgid "length of %s"
 msgstr "%s pikkus"
 
-# võimalikult lühem, kasutatakse avaldises
+# võimalikult lühem, kasutatakse avaldises;
+# pole ainult tähed
 msgid "letter %n of %s"
 msgstr "märk %n sõnas %s"
 
@@ -284,7 +285,7 @@ msgid "repeat until %b"
 msgstr "korda kuni %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "asenda %d.listItem %m.list %s -ga"
+msgstr "asenda %m.list %d.listItem %s -ga"
 
 msgid "reset timer"
 msgstr "taimer algseisu"
@@ -390,6 +391,7 @@ msgstr "jäljend"
 msgid "stop %m.stop"
 msgstr "peata %m.stop"
 
+# lõpeta?
 msgid "stop all sounds"
 msgstr "peata kõik helid"
 
@@ -451,7 +453,7 @@ msgstr "lülita kaamera %m.videoState"
 msgid "username"
 msgstr "kasutajanimi"
 
-# siin videopildi liikumine ja suund?
+# siin video(pildi) liikumine ja suund?
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "video %m.videoMotionType %m.stageOrThis"
 
