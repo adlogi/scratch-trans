@@ -12,8 +12,8 @@ import os, os.path
 import shutil
 
 def importProject_editor():
-	if not os.path.exists('scratch2'):
-		os.makedirs('scratch2')
+	if not os.path.exists('editorLocale'):
+		os.makedirs('editorLocale')
 	blocksPath = os.path.join(os.getcwd(), '..', 'blocks')
 	editorPath = os.path.join(os.getcwd(), '..', 'editor')
 	dirList = os.listdir(blocksPath)
@@ -31,7 +31,7 @@ def importProject_editor():
 					uiHeader = '\n##################\n# User Interface #\n##################\n'
 					content = open(f1name).read() + uiHeader + open(f2name).read()
 					langCode = dname + '.po'
-					open(os.path.join('scratch2', langCode),'wb').write(content)
+					open(os.path.join('editorLocale', langCode),'wb').write(content)
 					#shutil.copy2(fname, projectName)
 
 def importProject_django():
