@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-02-04 14:27+0200\n"
-"Last-Translator: Oleg <6alfalfa9@gmail.com>\n"
+"PO-Revision-Date: 2014-09-20 16:00+0200\n"
+"Last-Translator: parukhin <parukhin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -32,13 +32,13 @@ msgid "a copy of the project file on your computer."
 msgstr "копия проекта на вашем компьютере."
 
 msgid "About"
-msgstr ""
+msgstr "О программе"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "О дополнении LEGO WeDo..."
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "О дополнении PicoBoard..."
 
 msgid "abs"
 msgstr "модуль"
@@ -50,7 +50,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Добавить дополнение"
 
 # 90%
 msgid "Add boolean input:"
@@ -80,7 +80,7 @@ msgid "all around"
 msgstr "кругом"
 
 msgid "all motors"
-msgstr ""
+msgstr "все двигатели"
 
 msgid "Animal"
 msgstr "Животное"
@@ -430,16 +430,16 @@ msgid "Error!"
 msgstr "Ошибка!"
 
 msgid "everything"
-msgstr ""
+msgstr "всё"
 
 msgid "export"
 msgstr "экспорт"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "Библиотека дополнения"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "Проблема с дополнением"
 
 msgid "fade in"
 msgstr "увеличивать"
@@ -511,7 +511,7 @@ msgid "Hand Clap"
 msgstr "Хлопок ладоней"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Оборудование"
 
 msgid "hide"
 msgstr "скрыть"
@@ -560,7 +560,7 @@ msgid "left-right"
 msgstr "влево-вправо"
 
 msgid "LEGO WeDo"
-msgstr ""
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "длина"
@@ -572,7 +572,6 @@ msgid "light"
 msgstr "свет"
 
 # 83%
-#, fuzzy
 msgid "lights"
 msgstr "свет"
 
@@ -657,13 +656,13 @@ msgid "motion"
 msgstr "движение"
 
 msgid "motor"
-msgstr ""
+msgstr "двигатель"
 
 msgid "motor A"
-msgstr ""
+msgstr "двигатель A"
 
 msgid "motor B"
-msgstr ""
+msgstr "двигатель B"
 
 msgid "mouse-pointer"
 msgstr "указатель мышки"
@@ -735,7 +734,7 @@ msgid "normal readout"
 msgstr "стандартный вид"
 
 msgid "not ="
-msgstr ""
+msgstr "не ="
 
 msgid "Not saved; network or server problem."
 msgstr "Не сохранено; проблема с сетью или сервером."
@@ -860,7 +859,7 @@ msgid "Remixing..."
 msgstr "Создание ремикса..."
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "Удалить блоки дополнений"
 
 msgid "Rename"
 msgstr "Переименовать"
@@ -950,6 +949,8 @@ msgstr "Посмотреть страницу проекта"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
 msgstr ""
+"Смотрите в окне Подсказок (справа), как установить модуль и получить "
+"работающее дополнение."
 
 msgid "Select"
 msgstr "Выбрать"

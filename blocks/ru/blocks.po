@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-03-29 03:23+0200\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"PO-Revision-Date: 2014-09-20 15:41+0200\n"
+"Last-Translator: parukhin <parukhin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -307,15 +307,13 @@ msgstr "выбрать инструмент %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "направление мотора %m.motorDirection"
+msgstr "установить направление для %m.motor2 в %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "мощность мотора %n"
+msgstr "установить мощность для %m.motor в %n"
 
 msgid "set pen color to %c"
 msgstr "установить цвет пера %c"
@@ -413,20 +411,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "повернуть @turnRight на %n градусов"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "выключить мотор"
+msgstr "выключить %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "включить мотор"
+msgstr "включить %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "включить мотор на %n сек"
+msgstr "включить %m.motor на %n сек"
 
 msgid "turn video %m.videoState"
 msgstr "повернуть видео на %m.videoState"
@@ -454,7 +449,7 @@ msgid "when %m.key key pressed"
 msgstr "когда клавиша %m.key нажата"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "когда %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "когда %m.triggerSensor > %n"
@@ -467,7 +462,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "когда фон меняется на %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "когда расстояние %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "когда я получу %m.broadcast"
@@ -476,13 +471,13 @@ msgid "when I start as a clone"
 msgstr "когда я начинаю как клон"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "при нажатии на Этап"
 
 msgid "when this sprite clicked"
 msgstr "когда спрайт нажат"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "когда наклон %m.eNe %n"
 
 msgid "x position"
 msgstr "положение x"
