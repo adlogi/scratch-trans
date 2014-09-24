@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-03-29 03:23+0200\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"PO-Revision-Date: 2014-09-20 15:41+0200\n"
+"Last-Translator: parukhin <parukhin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -307,15 +307,13 @@ msgstr "выбрать инструмент %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "направление мотора %m.motorDirection"
+msgstr "установить направление для %m.motor2 в %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "мощность мотора %n"
+msgstr "установить мощность для %m.motor в %n"
 
 msgid "set pen color to %c"
 msgstr "установить цвет пера %c"
@@ -413,20 +411,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "повернуть @turnRight на %n градусов"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "выключить мотор"
+msgstr "выключить %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "включить мотор"
+msgstr "включить %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "включить мотор на %n сек"
+msgstr "включить %m.motor на %n сек"
 
 msgid "turn video %m.videoState"
 msgstr "повернуть видео на %m.videoState"
@@ -454,7 +449,7 @@ msgid "when %m.key key pressed"
 msgstr "когда клавиша %m.key нажата"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "когда %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "когда %m.triggerSensor > %n"
@@ -467,7 +462,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "когда фон меняется на %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "когда расстояние %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "когда я получу %m.broadcast"
@@ -476,13 +471,13 @@ msgid "when I start as a clone"
 msgstr "когда я начинаю как клон"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "при нажатии на Этап"
 
 msgid "when this sprite clicked"
 msgstr "когда спрайт нажат"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "когда наклон %m.eNe %n"
 
 msgid "x position"
 msgstr "положение x"
@@ -573,8 +568,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-02-04 14:27+0200\n"
-"Last-Translator: Oleg <6alfalfa9@gmail.com>\n"
+"PO-Revision-Date: 2014-09-20 16:00+0200\n"
+"Last-Translator: parukhin <parukhin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -602,13 +597,13 @@ msgid "a copy of the project file on your computer."
 msgstr "копия проекта на вашем компьютере."
 
 msgid "About"
-msgstr ""
+msgstr "О программе"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "О дополнении LEGO WeDo..."
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "О дополнении PicoBoard..."
 
 msgid "abs"
 msgstr "модуль"
@@ -620,7 +615,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Добавить дополнение"
 
 # 90%
 msgid "Add boolean input:"
@@ -650,7 +645,7 @@ msgid "all around"
 msgstr "кругом"
 
 msgid "all motors"
-msgstr ""
+msgstr "все двигатели"
 
 msgid "Animal"
 msgstr "Животное"
@@ -1000,16 +995,16 @@ msgid "Error!"
 msgstr "Ошибка!"
 
 msgid "everything"
-msgstr ""
+msgstr "всё"
 
 msgid "export"
 msgstr "экспорт"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "Библиотека дополнения"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "Проблема с дополнением"
 
 msgid "fade in"
 msgstr "увеличивать"
@@ -1081,7 +1076,7 @@ msgid "Hand Clap"
 msgstr "Хлопок ладоней"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Оборудование"
 
 msgid "hide"
 msgstr "скрыть"
@@ -1130,7 +1125,7 @@ msgid "left-right"
 msgstr "влево-вправо"
 
 msgid "LEGO WeDo"
-msgstr ""
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "длина"
@@ -1142,7 +1137,6 @@ msgid "light"
 msgstr "свет"
 
 # 83%
-#, fuzzy
 msgid "lights"
 msgstr "свет"
 
@@ -1227,13 +1221,13 @@ msgid "motion"
 msgstr "движение"
 
 msgid "motor"
-msgstr ""
+msgstr "двигатель"
 
 msgid "motor A"
-msgstr ""
+msgstr "двигатель A"
 
 msgid "motor B"
-msgstr ""
+msgstr "двигатель B"
 
 msgid "mouse-pointer"
 msgstr "указатель мышки"
@@ -1305,7 +1299,7 @@ msgid "normal readout"
 msgstr "стандартный вид"
 
 msgid "not ="
-msgstr ""
+msgstr "не ="
 
 msgid "Not saved; network or server problem."
 msgstr "Не сохранено; проблема с сетью или сервером."
@@ -1430,7 +1424,7 @@ msgid "Remixing..."
 msgstr "Создание ремикса..."
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "Удалить блоки дополнений"
 
 msgid "Rename"
 msgstr "Переименовать"
@@ -1520,6 +1514,8 @@ msgstr "Посмотреть страницу проекта"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
 msgstr ""
+"Смотрите в окне Подсказок (справа), как установить модуль и получить "
+"работающее дополнение."
 
 msgid "Select"
 msgstr "Выбрать"
