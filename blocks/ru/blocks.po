@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-09-20 15:41+0200\n"
+"PO-Revision-Date: 2014-10-12 14:57+0200\n"
 "Last-Translator: parukhin <parukhin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
@@ -183,7 +183,7 @@ msgid "item %d.listItem of %m.list"
 msgstr "элемент %d.listItem из %m.list"
 
 msgid "join %s %s"
-msgstr "слить %s %s"
+msgstr "слить %s и %s"
 
 msgid "key %m.key pressed?"
 msgstr "клавиша %m.key нажата?"
@@ -192,7 +192,7 @@ msgid "length of %m.list"
 msgstr "длина списка %m.list"
 
 msgid "length of %s"
-msgstr "длина строки %s"
+msgstr "длина %s"
 
 msgid "letter %n of %s"
 msgstr "буква %n в %s"
@@ -204,7 +204,7 @@ msgid "loudness"
 msgstr "громкость"
 
 msgid "More Blocks"
-msgstr "Новые блоки"
+msgstr "Другие блоки"
 
 msgid "Motion"
 msgstr "Движение"
@@ -313,7 +313,7 @@ msgstr "установить направление для %m.motor2 в %m.motor
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
-msgstr "установить мощность для %m.motor в %n"
+msgstr "задать мощность %m.motor значение %n"
 
 msgid "set pen color to %c"
 msgstr "установить цвет пера %c"
@@ -421,7 +421,7 @@ msgstr "включить %m.motor"
 # 80%
 # 89%
 msgid "turn %m.motor on for %n secs"
-msgstr "включить %m.motor на %n сек"
+msgstr "включить %m.motor на %n секунд"
 
 msgid "turn video %m.videoState"
 msgstr "повернуть видео на %m.videoState"
@@ -487,11 +487,11 @@ msgstr "положение y"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
-msgstr "направление мотора %m.motorDirection"
+msgstr "задать направление мотора %m.motorDirection"
 
 # 77%
 msgid "set motor power %n"
-msgstr "мощность мотора %n"
+msgstr "задать мощность мотора %n"
 
 msgid "turn motor off"
 msgstr "выключить мотор"
@@ -501,7 +501,7 @@ msgstr "включить мотор"
 
 # 80%
 msgid "turn motor on for %n secs"
-msgstr "включить мотор на %n сек"
+msgstr "включить мотор на %n секунд"
 
 msgid "when distance < %n"
 msgstr "когда расстояние < %n"

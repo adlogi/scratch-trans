@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-01-20 08:34+0200\n"
+"PO-Revision-Date: 2014-10-11 02:02+0200\n"
 "Last-Translator: janggoons <janggoons@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -29,13 +29,13 @@ msgid "a copy of the project file on your computer."
 msgstr "프로젝트 파일을 내 컴퓨터에 저장합니다."
 
 msgid "About"
-msgstr ""
+msgstr "스크래치란"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "LEGO WeDo 확장 프로그램이란..."
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "PicoBoard 확장 프로그램이란..."
 
 msgid "abs"
 msgstr "절대값"
@@ -48,7 +48,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "확장 프로그램 추가"
 
 msgid "Add boolean input:"
 msgstr "논리값 매개변수 추가하기:"
@@ -75,7 +75,7 @@ msgid "all around"
 msgstr "회전하기"
 
 msgid "all motors"
-msgstr ""
+msgstr "모든 모터"
 
 msgid "Animal"
 msgstr "동물"
@@ -164,7 +164,7 @@ msgid "Brush"
 msgstr "붓"
 
 msgid "button pressed"
-msgstr "버튼 누르기"
+msgstr "버튼 눌림"
 
 msgid "by"
 msgstr "by"
@@ -420,16 +420,16 @@ msgid "Error!"
 msgstr "에러!"
 
 msgid "everything"
-msgstr ""
+msgstr "모든부품"
 
 msgid "export"
 msgstr "내보내기"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "확장 프로그램 저장소"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "확장 프로그램 문제"
 
 msgid "fade in"
 msgstr "페이드인"
@@ -501,7 +501,7 @@ msgid "Hand Clap"
 msgstr "박수"
 
 msgid "Hardware"
-msgstr ""
+msgstr "하드웨어"
 
 msgid "hide"
 msgstr "숨기기"
@@ -550,7 +550,7 @@ msgid "left-right"
 msgstr "왼쪽-오른쪽"
 
 msgid "LEGO WeDo"
-msgstr ""
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "길이"
@@ -562,7 +562,6 @@ msgid "light"
 msgstr "빛"
 
 # 83%
-#, fuzzy
 msgid "lights"
 msgstr "빛"
 
@@ -646,13 +645,13 @@ msgid "motion"
 msgstr "동작"
 
 msgid "motor"
-msgstr ""
+msgstr "모터"
 
 msgid "motor A"
-msgstr ""
+msgstr "모터A"
 
 msgid "motor B"
-msgstr ""
+msgstr "모터B"
 
 msgid "mouse-pointer"
 msgstr "마우스 포인터"
@@ -721,7 +720,7 @@ msgid "normal readout"
 msgstr "변수이름-변수값 보기"
 
 msgid "not ="
-msgstr ""
+msgstr "= 아니다"
 
 msgid "Not saved; network or server problem."
 msgstr "네트워크 또는 서버 문제로 저장되지 않음."
@@ -845,7 +844,7 @@ msgid "Remixing..."
 msgstr "리믹스중..."
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "확장 프로그램 블록 삭제하기"
 
 msgid "Rename"
 msgstr "이름 수정하기"
@@ -932,7 +931,7 @@ msgid "See project page"
 msgstr "프로젝트 페이지 보기"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
-msgstr ""
+msgstr "확장 프로그램을 설치하고 실행하기 위해서는 화면 오른쪽 도움말을 참고하세요"
 
 msgid "Select"
 msgstr "선택하기"
@@ -1245,7 +1244,7 @@ msgid "Wood Block"
 msgstr "목판"
 
 msgid "Wooden Flute"
-msgstr "원목 플루트"
+msgstr "나무 플루트"
 
 msgid "x position"
 msgstr "x 좌표"
